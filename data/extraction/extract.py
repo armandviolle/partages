@@ -7,6 +7,7 @@ DATASETS = {
     "path": "medkit/simsamu",
     "type": "text",
     "split": "train", 
+    "read_text_fn": lambda x [" ".join([t["text"] for t in mono["terms"]]) for mono in x["monologues"]]
     "remove_columns": ["schemaVersion", "monologues"],
   },
   "WMT-16": {
@@ -25,7 +26,7 @@ DATASETS = {
     "path": "DrBenchmarck/DEFT2021", 
     "type": "annotation",
     "split": "train", 
-    "read_text_fn": lambda x: [" ".join(x[i]['tokens']) for i in range(len(x))] # 
+    "read_text_fn": lambda x: [" ".join(x[i]['tokens']) for i in range(len(x))] # add for loop on document id ?
     "remove_columns": ['id', 'document_id']
 }
 
