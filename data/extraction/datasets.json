@@ -1,10 +1,12 @@
 {
   "SIMSAMU": {
     "path": "medkit/simsamu",
+    "type": "text",
     "split": "train", 
   },
   "WMT-16": {
     "path": "qanastek/WMT-16-PubMed", 
+    "type": "translation",
     "files": "en-fr", 
     "split": "train",
   }
