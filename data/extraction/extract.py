@@ -15,7 +15,7 @@ DATASETS = {
     "type": "translation",
     "files": "en-fr", 
     "split": "train",
-    "remove_columns": [c for c in wmt.column_names if c != "translation"],
+    "remove_columns": lambda x: [c for c in x.column_names if c != "translation"],
   }, 
   # Format
   #   - 'id'
