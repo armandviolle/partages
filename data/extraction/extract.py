@@ -1,3 +1,4 @@
+from functools import wraps
 from datasets import (
     load_dataset,
     Dataset,
@@ -19,16 +20,37 @@ def prepare_dataset(path, split="train", name=None, data_files=None):
     return decorator
 
 
+# def prepare_dataset(path, split, name=None, data_files=None):
+def prepare_dataset(cfg: dict, dataset_name: str):
+    def decorator(fn):
+        @wraps(fn)
+        def wrapper(*args, **kwargs):
+            if isinstance(split, list):
+                results = []
+                for s in split:
+                    data = load_dataset(path=cfg["path"], name=cfg["name"], data_files=cfg["data_files"], split=s)
+                    # processed = fn(data, *args, **kwargs)
+                    processed = fn(dataset_=data, split=split, dataset_name=dataset_name)
+                    results.append(processed)
+                return concatenate_datasets(results)
+            else:
+                data = load_dataset(path=cfg["path"], name=cfg["name"], data_files=cfg["data_files"], split=cfg["split"])
+                return fn(dataset_=data, split=split, dataset_name=dataset_name)
+        return wrapper
+    return decorator
+
+
 
 # SIMSAMU
+@prepare_dataset(cfg=data_register["SIMSAMU"], dataset_name="SIMSAMU")
 def extract_texts(example):
     texts = [" ".join([t["text"] for t in mono["terms"]])
              for mono in example["monologues"]]
     return {"text": texts, "labels": [""] * len(texts)}
 
 
-
 # WMT-16
+@prepare_dataset(cfg=data_register["WMT16"], dataset_name="WMT16")
 def extract_translation(example):
     return {
         "text": example["translation"]["en"],
@@ -36,9 +58,9 @@ def extract_translation(example):
     }
 
 
-
 # DEFT2021
-def preprocessing_deft2021(dataset_, name, split):
+@prepare_dataset(cfg=data_register["DEFT2021"], dataset_name="DEFT2021")
+def preprocess_deft2021(dataset_, name, split):
     documents = []
     doc_ids = list(set(dataset_['document_id']))
     for id_ in doc_ids:
