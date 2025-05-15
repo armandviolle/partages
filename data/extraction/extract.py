@@ -1,48 +1,52 @@
-from datasets import load_dataset, Dataset, concatenate_datasets
+from datasets import (
+    load_dataset,
+    Dataset,
+    concatenate_datasets,
+)
+from config import data_register
 
 
 
-DATASETS = {
-  "SIMSAMU": {
-    "path": "medkit/simsamu",
-    "type": "text",
-    "split": "train", 
-    "read_text_fn": lambda x [" ".join([t["text"] for t in mono["terms"]]) for mono in x["monologues"]]
-    "remove_columns": ["schemaVersion", "monologues"],
-  },
-  "WMT-16": {
-    "path": "qanastek/WMT-16-PubMed", 
-    "type": "translation",
-    "files": "en-fr", 
-    "split": "train",
-    "remove_columns": lambda x: [c for c in x.column_names if c != "translation"],
-  }, 
-  # Format
-  #   - 'id'
-  #   - 'document_id'
-  #   - 'tokens'
-  #   - 'ner_tags'
-  "DEFT-2021": {
-    "path": "DrBenchmarck/DEFT2021", 
-    "type": "annotation",
-    "split": "train", 
-    "read_text_fn": lambda x: [" ".join(x[i]['tokens']) for i in range(len(x))] # add for loop on document id ?
-    "remove_columns": ['id', 'document_id']
-}
+def prepare_dataset(path, split="train", name=None, data_files=None):
+    def decorator(fn):
+        data = load_dataset(
+            path=path, 
+            name=name, 
+            data_files=data_files,
+            split=split,
+        )
+        return fn
+    return decorator
 
 
 
+# SIMSAMU
 def extract_texts(example):
-  texts = [" ".join([t["text"] for t in mono["terms"]]) for mono in example["monologues"]]
-  return {"text": texts}
+    texts = [" ".join([t["text"] for t in mono["terms"]])
+             for mono in example["monologues"]]
+    return {"text": texts, "labels": [""] * len(texts)}
 
+
+
+# WMT-16
 def extract_translation(example):
-  return {
-    "text": example["translation"]["en"],
-    "labels": example["translation"]["fr"],
-  }
-  
-# TODO
-# Essayer de généraliser l'extraction le plus possible en partant d'un dictionnaire
-# -> Utiliser des lambda fonctions pour les étapes "simples" d'extraction e.g.:
-#   convertir les fonctions ci-dessus en lambda fonctions initialisées dans le dictionnaire ??
+    return {
+        "text": example["translation"]["en"],
+        "labels": example["translation"]["fr"],
+    }
+
+
+
+# DEFT2021
+def preprocessing_deft2021(dataset_, name, split):
+    documents = []
+    doc_ids = list(set(dataset_['document_id']))
+    for id_ in doc_ids:
+        rows = np.where(np.array(dataset_['document_id'])==id_)[0].tolist()
+        documents.append({
+            "id": id_, 
+            "text": "\n".join([" ".join(dataset_['tokens'][i]) for i in rows]), 
+            "name": name, 
+            "split": split
+        })
+    return datasets.Dataset.from_list(documents)
