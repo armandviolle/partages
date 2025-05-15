@@ -7,7 +7,6 @@ def load_config(path="config/datasets.yaml"):
     with open(path, "r") as f:
         return yaml.safe_load(f)["datasets"]
 
-# TODO : ajouter colonne origine dataset
 # TODO : définir structure finale dataset commun (text/label ? text/label/metadata?...)
 
 def main():
@@ -27,7 +26,7 @@ def main():
     merged = concatenate_datasets(all_ds)
 
     # déduplication simple
-    # merged = deduplicate(merged, key_column="text") # TODO : deplicate AF
+    # merged = deduplicate(merged, key_column="text") # TODO : deduplicate AF
 
     print(f"{len(merged):,} exemples après fusion et nettoyage")
     merged.push_to_hub("dataset_name", token="hf_token")  # TODO : ajouter un token pour push_to_hub
