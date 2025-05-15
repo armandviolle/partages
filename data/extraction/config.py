@@ -8,7 +8,7 @@ data_register = {
         "additional_processing": True
     }, 
     "WMT16": {
-        "data_path": "qanastek/WMT-16-PubMed", 
+        "path": "qanastek/WMT-16-PubMed", 
         "name": "en-fr",
         "data_files": None,
         "split": "train",
