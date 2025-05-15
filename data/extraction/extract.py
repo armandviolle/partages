@@ -8,21 +8,14 @@ from config import data_register
 
 
 
-def prepare_dataset(path, split="train", name=None, data_files=None):
-    def decorator(fn):
-        data = load_dataset(
-            path=path, 
-            name=name, 
-            data_files=data_files,
-            split=split,
-        )
-        return fn
-    return decorator
+PREPROCESS_REGISTRY = {}
 
 
 # def prepare_dataset(path, split, name=None, data_files=None):
 def prepare_dataset(cfg: dict, dataset_name: str):
+    
     def decorator(fn):
+        
         @wraps(fn)
         def wrapper(*args, **kwargs):
             if isinstance(split, list):
@@ -36,7 +29,10 @@ def prepare_dataset(cfg: dict, dataset_name: str):
             else:
                 data = load_dataset(path=cfg["path"], name=cfg["name"], data_files=cfg["data_files"], split=cfg["split"])
                 return fn(dataset_=data, split=split, dataset_name=dataset_name)
+        
+        PREPROCESS_REGISTRY[fn.__name__] = wrapper
         return wrapper
+        
     return decorator
 
 
@@ -60,7 +56,7 @@ def extract_translation(example):
 
 # DEFT2021
 @prepare_dataset(cfg=data_register["DEFT2021"], dataset_name="DEFT2021")
-def preprocess_deft2021(dataset_, name, split):
+def preprocess_deft2021(dataset_, split, dataset_name):
     documents = []
     doc_ids = list(set(dataset_['document_id']))
     for id_ in doc_ids:
@@ -72,3 +68,18 @@ def preprocess_deft2021(dataset_, name, split):
             "split": split
         })
     return datasets.Dataset.from_list(documents)
+
+
+
+
+def main():
+    for name, func in PREPROCESS_REGISTRY.items():
+        print(f"\nRunning {name}...")
+        dataset = func()
+        print(f"{name} returned {len(dataset)} samples")
+
+
+
+
+if __name__ == "__main__":
+    main()
