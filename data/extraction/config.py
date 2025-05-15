@@ -16,7 +16,7 @@ data_register = {
         "additional_processing": True 
     }, 
     "DEFT2021": {
-        "path": "DrBenchmarck/DEFT2021", 
+        "path": "DrBenchmark/DEFT2021", 
         "name": None,
         "data_files": None,
         "split": ["train", "validation", "test"], 

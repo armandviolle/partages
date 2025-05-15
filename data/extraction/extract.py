@@ -1,4 +1,5 @@
 from functools import wraps
+import numpy as np
 from datasets import (
     load_dataset,
     Dataset,
@@ -18,12 +19,12 @@ def prepare_dataset(cfg: dict, dataset_name: str):
         
         @wraps(fn)
         def wrapper(*args, **kwargs):
-            if isinstance(split, list):
+            if isinstance(cfg["split"], list):
                 results = []
-                for s in split:
+                for s in cfg["split"]:
                     data = load_dataset(path=cfg["path"], name=cfg["name"], data_files=cfg["data_files"], split=s)
                     # processed = fn(data, *args, **kwargs)
-                    processed = fn(dataset_=data, split=split, dataset_name=dataset_name)
+                    processed = fn(dataset_=data, split=cfg["split"], dataset_name=dataset_name)
                     results.append(processed)
                 return concatenate_datasets(results)
             else:
@@ -38,20 +39,20 @@ def prepare_dataset(cfg: dict, dataset_name: str):
 
 
 # SIMSAMU
-@prepare_dataset(cfg=data_register["SIMSAMU"], dataset_name="SIMSAMU")
-def extract_texts(example):
-    texts = [" ".join([t["text"] for t in mono["terms"]])
-             for mono in example["monologues"]]
-    return {"text": texts, "labels": [""] * len(texts)}
+# @prepare_dataset(cfg=data_register["SIMSAMU"], dataset_name="SIMSAMU")
+# def extract_texts(example):
+#     texts = [" ".join([t["text"] for t in mono["terms"]])
+#              for mono in example["monologues"]]
+#     return {"text": texts, "labels": [""] * len(texts)}
 
 
-# WMT-16
-@prepare_dataset(cfg=data_register["WMT16"], dataset_name="WMT16")
-def extract_translation(example):
-    return {
-        "text": example["translation"]["en"],
-        "labels": example["translation"]["fr"],
-    }
+# # WMT-16
+# @prepare_dataset(cfg=data_register["WMT16"], dataset_name="WMT16")
+# def extract_translation(example):
+#     return {
+#         "text": example["translation"]["en"],
+#         "labels": example["translation"]["fr"],
+#     }
 
 
 # DEFT2021
@@ -64,10 +65,10 @@ def preprocess_deft2021(dataset_, split, dataset_name):
         documents.append({
             "id": id_, 
             "text": "\n".join([" ".join(dataset_['tokens'][i]) for i in rows]), 
-            "name": name, 
+            "name": dataset_name, 
             "split": split
         })
-    return datasets.Dataset.from_list(documents)
+    return Dataset.from_list(documents)
 
 
 
