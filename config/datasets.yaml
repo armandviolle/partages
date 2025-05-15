@@ -1,0 +1,10 @@
+# configs/datasets.yaml
+datasets:
+  - name: sisamu
+    hf_path: "medkit/simsamu"
+    subset:
+    split: "train"
+  - name: wmt_16
+    hf_path: "qanastek/WMT-16-PubMed"
+    subset: "en-fr"
+    split: "train"
