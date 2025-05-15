@@ -94,17 +94,22 @@ def preprocess_deft2021(dataset_, split, dataset_name):
             "name": dataset_name, 
             "split": split
         })
-    return Dataset.from_list(documents)
-
+    new_dataset = Dataset.from_list(documents)
+    print(new_dataset)
+    print(new_dataset[0])
+    return new_dataset
 
 
 
 def main():
+    list_datasets = []
     for name, func in PREPROCESS_REGISTRY.items():
         print(f"\nRunning {name}...")
         dataset = func()
         print(f"{name} returned {len(dataset)} samples")
-
+        list_datasets.append(dataset)
+    merged = concatenate_datasets(list_datasets)
+    print(f"Length of the concatenated dataset: {len(merged)}")
 
 
 
