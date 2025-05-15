@@ -8,3 +8,7 @@ datasets:
     hf_path: "qanastek/WMT-16-PubMed"
     subset: "en-fr"
     split: "train"
+  - name: deft2021
+    hf_path: "DrBenchmark/DEFT2021"
+    subset: 
+    split: ["train", "validation", "test"]

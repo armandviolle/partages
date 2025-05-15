@@ -1,15 +1,22 @@
 from .base_loader import BaseLoader
 from preprocessing.text_cleaning import cleaner
+import numpy as np
 
-def extract_translation(example): # TODO : A MODIFIER
-    return {
-        "text": cleaner(example["translation"]["en"]),
-        "labels": cleaner(example["translation"]["fr"]),
-    }
+
 
 class Deft_21(BaseLoader): # TODO : A MODIFIER
     def postprocess(self, ds):
-        return ds.map(
-            extract_translation,
-            remove_columns=[c for c in ds.column_names if c != "translation"]
-        ).remove_columns(["translation"])
+        documents = []
+        doc_ids = list(set(ds['document_id']))
+        for id_ in doc_ids:
+            rows = np.where(np.array(ds['document_id'])==id_)[0].tolist()
+            documents.append({
+                #"id": id_, 
+                "text": "\n".join([" ".join(ds['tokens'][i]) for i in rows]), 
+                "dataset": self.dataset_name, 
+                "split": self.split
+            })
+        new_dataset = Dataset.from_list(documents)
+        print(new_dataset)
+        print(new_dataset[0])
+        return new_dataset
