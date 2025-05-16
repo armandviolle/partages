@@ -7,29 +7,26 @@ def load_config(path="config/datasets.yaml"):
     with open(path, "r") as f:
         return yaml.safe_load(f)["datasets"]
 
-# TODO : définir structure finale dataset commun (text/label ? text/label/metadata?...)
 
 def main():
     # disable_caching()  # facultatif : si stream
-
     datasets_cfg = load_config()
-
     all_ds = []
     for cfg in datasets_cfg:
         print(REGISTRY[cfg["name"]])
-        LoaderCls = REGISTRY[cfg["name"].capitalize()]
+        LoaderCls = REGISTRY[cfg["name"]]
         loader = LoaderCls(
             name=cfg["name"], 
             path=cfg["path"], 
-            data_dir=cfg["subset"], 
+            data_dir=cfg["data_dir"], 
             split=cfg["split"]
         )
         ds = loader.load()
-        # ds = ds.map(lambda x: {"dataset": cfg["name"]}) # ajout d'une colonne pour identifier le dataset d'origine
-        print(f"""Shape de {cfg["name"]} = {ds.shape}""")
+        print(f"Shape de {cfg["name"]}: {ds.shape}")
+        print(f"{ds}\n")
         all_ds.append(ds)
-
     merged = concatenate_datasets(all_ds)
+    print(f"Shape du dataset concaténé: {merged.shape}")
 
     # déduplication simple
     # merged = deduplicate(merged, key_column="text") # TODO : deduplicate AF

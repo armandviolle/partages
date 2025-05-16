@@ -8,7 +8,7 @@ class BaseLoader(ABC):
         self.name       = name
         self.path       = path
         self.split      = split
-        self.data_dir   = subset 
+        self.data_dir   = data_dir 
         self.stream     = False
 
     @abstractmethod

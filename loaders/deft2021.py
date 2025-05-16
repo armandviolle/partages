@@ -1,10 +1,10 @@
 from .base_loader import BaseLoader
 from preprocessing.text_cleaning import cleaner
 import numpy as np
+from datasets import Dataset
 
 
-
-class Deft2021(BaseLoader): # TODO : A MODIFIER
+class DEFT2021(BaseLoader): # TODO : A MODIFIER
     def postprocess(self, ds, s):
         documents = []
         doc_ids = list(set(ds['document_id']))
@@ -13,10 +13,8 @@ class Deft2021(BaseLoader): # TODO : A MODIFIER
             documents.append({
                 #"id": id_, 
                 "text": "\n".join([" ".join(ds['tokens'][i]) for i in rows]), 
-                "dataset": self.dataset_name, 
+                "dataset": self.name, 
                 "split": s
             })
         new_dataset = Dataset.from_list(documents)
-        print(new_dataset)
-        print(new_dataset[0])
         return new_dataset
