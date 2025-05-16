@@ -4,8 +4,8 @@ import numpy as np
 
 
 
-class Deft_21(BaseLoader): # TODO : A MODIFIER
-    def postprocess(self, ds):
+class Deft2021(BaseLoader): # TODO : A MODIFIER
+    def postprocess(self, ds, s):
         documents = []
         doc_ids = list(set(ds['document_id']))
         for id_ in doc_ids:
@@ -14,7 +14,7 @@ class Deft_21(BaseLoader): # TODO : A MODIFIER
                 #"id": id_, 
                 "text": "\n".join([" ".join(ds['tokens'][i]) for i in rows]), 
                 "dataset": self.dataset_name, 
-                "split": self.split
+                "split": s
             })
         new_dataset = Dataset.from_list(documents)
         print(new_dataset)

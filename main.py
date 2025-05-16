@@ -16,10 +16,16 @@ def main():
 
     all_ds = []
     for cfg in datasets_cfg:
+        print(REGISTRY[cfg["name"]])
         LoaderCls = REGISTRY[cfg["name"].capitalize()]
-        loader = LoaderCls(cfg["hf_path"], cfg["split"], cfg["subset"])
+        loader = LoaderCls(
+            name=cfg["name"], 
+            path=cfg["path"], 
+            data_dir=cfg["subset"], 
+            split=cfg["split"]
+        )
         ds = loader.load()
-        ds = ds.map(lambda x: {"dataset": cfg["name"]}) # ajout d'une colonne pour identifier le dataset d'origine
+        # ds = ds.map(lambda x: {"dataset": cfg["name"]}) # ajout d'une colonne pour identifier le dataset d'origine
         print(f"""Shape de {cfg["name"]} = {ds.shape}""")
         all_ds.append(ds)
 
@@ -28,8 +34,8 @@ def main():
     # déduplication simple
     # merged = deduplicate(merged, key_column="text") # TODO : deduplicate AF
 
-    print(f"{len(merged):,} exemples après fusion et nettoyage")
-    merged.push_to_hub("dataset_name", token="hf_token")  # TODO : ajouter un token pour push_to_hub
+    # print(f"{len(merged):,} exemples après fusion et nettoyage")
+    # merged.push_to_hub("dataset_name", token="hf_token")  # TODO : ajouter un token pour push_to_hub
 
 if __name__ == "__main__":
     main()
