@@ -24,7 +24,7 @@ def prepare_dataset(cfg: dict, dataset_name: str):
                 for s in cfg["split"]:
                     data = load_dataset(path=cfg["path"], name=cfg["name"], data_files=cfg["data_files"], split=s)
                     # processed = fn(data, *args, **kwargs)
-                    processed = fn(dataset_=data, split=cfg["split"], dataset_name=dataset_name)
+                    processed = fn(dataset_=data, split=s, dataset_name=dataset_name)
                     results.append(processed)
                 return concatenate_datasets(results)
             else:
