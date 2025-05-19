@@ -5,7 +5,7 @@ from datasets import Dataset
 
 
 class DEFT2021(BaseLoader): # TODO : A MODIFIER
-    def postprocess(self, ds, s):
+    def postprocess(self, ds, d, s):
         documents = []
         doc_ids = list(set(ds['document_id']))
         for id_ in doc_ids:
@@ -14,7 +14,8 @@ class DEFT2021(BaseLoader): # TODO : A MODIFIER
                 #"id": id_, 
                 "text": "\n".join([" ".join(ds['tokens'][i]) for i in rows]), 
                 "dataset": self.name, 
-                "split": s
+                "data_dir": d, 
+                "split": s,
             })
         new_dataset = Dataset.from_list(documents)
         return new_dataset

@@ -13,7 +13,7 @@ def main():
     datasets_cfg = load_config()
     all_ds = []
     for cfg in datasets_cfg:
-        print(REGISTRY[cfg["name"]])
+        print(f"Loading dataset {cfg["name"]}: using {REGISTRY[cfg["name"]]}")
         LoaderCls = REGISTRY[cfg["name"]]
         loader = LoaderCls(
             name=cfg["name"], 
@@ -26,7 +26,7 @@ def main():
         print(f"{ds}\n")
         all_ds.append(ds)
     merged = concatenate_datasets(all_ds)
-    print(f"Shape du dataset concaténé: {merged.shape}")
+    print(f"Shape on concatenated dataset: {merged.shape}")
 
     # déduplication simple
     # merged = deduplicate(merged, key_column="text") # TODO : deduplicate AF
