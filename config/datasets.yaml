@@ -1,14 +1,14 @@
 # configs/datasets.yaml
 datasets:
-  - name: SIMSAMU
+  - source: SIMSAMU
     path: "medkit/simsamu"
-    data_dir:
-    split: "train"
-  - name: WMT16
+    subset:
+    source_split: "train"
+  - source: WMT16
     path: "qanastek/WMT-16-PubMed"
-    data_dir: "en-fr"
-    split: "train"
-  - name: DEFT2021
+    subset: "en-fr"
+    source_split: "train"
+  - source: DEFT2021
     path: "DrBenchmark/DEFT2021"
-    data_dir: 
-    split: ["train", "validation", "test"]
+    subset: 
+    source_split: ["train", "validation", "test"]

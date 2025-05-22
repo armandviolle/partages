@@ -5,40 +5,46 @@ import sys
 class BaseLoader(ABC):
     """Loader commun"""
 
-    def __init__(self, name: str, path: str, data_dir: str = None, split: str = "train"):
-        self.name       = name
+    def __init__(self, source: str, path: str, subset: str = None, split: str = "train"):
+        self.source     = source
         self.path       = path
         self.split      = split
-        self.data_dir   = data_dir 
+        self.subset     = subset 
         self.stream     = False
 
     @abstractmethod
-    def postprocess(self, ds: Dataset, d: str = None, s: str = "train") -> Dataset:
+    def postprocess(self, dataset: Dataset, subset: str = None, split: str = "train") -> Dataset:
         """Spécifique au dataset : renommage de colonnes, filtrage, etc."""
         ...
 
     def load(self) -> Dataset:
-        data_dirs = self.data_dir if isinstance(self.data_dir, list) else [self.data_dir]
+        subsets = self.subset if isinstance(self.subset, list) else [self.subset]
         splits = self.split if isinstance(self.split, list) else [self.split]
 
         all_dirs = []
-        for data_dir in data_dirs:
+        for data_dir in subsets:
             all_splits = []
             for split in splits:
                 try:
-                    tmp_ds = load_dataset(path=self.path, data_dir=data_dir, split=split, streaming=self.stream, trust_remote_code=True)
-                    tmp_ds = self.postprocess(ds=tmp_ds, d=data_dir, s=split)
+                    tmp_ds = load_dataset(
+                        path=self.path, 
+                        data_dir=subset, 
+                        split=split, 
+                        streaming=self.stream, 
+                        trust_remote_code=True
+                    )
+                    tmp_ds = self.postprocess(dataset=tmp_ds, subset=subset, split=split)
                     all_splits.append(tmp_ds)
                 except Exception as e:
-                    print(f"Unavailable data split {split} for data_dir \"{data_dir}\".")
+                    print(f"Unavailable data split {split} for data_dir \"{subset}\".")
                     continue
             if len(all_splits) > 0:
                 all_dirs += all_splits
             else:
-                print(f"No data splits available for data_dir \"{data_dir}\" (probably unexistent datadir).")
+                print(f"No data splits available for data_dir \"{subset}\" (probably unexistent datadir).")
         if len(all_dirs) > 0:
             return concatenate_datasets(all_dirs)
         else:
             sys.tracebacklimit = 0 
-            raise RuntimeError(f"No data was loaded for dataset {self.name}.")
+            raise RuntimeError(f"No data was loaded for dataset {self.source}.")
         return ds

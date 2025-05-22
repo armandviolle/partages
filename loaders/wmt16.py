@@ -7,12 +7,12 @@ def extract_translation(example):
     }
 
 class WMT16(BaseLoader):
-    def postprocess(self, ds, d, s):
+    def postprocess(self, dataset, subset, split):
         res_ds = ds.map(
             extract_translation,
-            remove_columns=[c for c in ds.column_names if c != "translation"]
+            remove_columns=[c for c in dataset.column_names if c != "translation"]
         ).remove_columns(["translation"])
-        res_ds = res_ds.add_column("dataset", [self.name] * len(res_ds))
-        res_ds = res_ds.add_column("data_dir", [d] * len(res_ds))
-        res_ds = res_ds.add_column("split", [s] * len(res_ds))
+        res_ds = res_ds.add_column("source", [self.source] * len(res_ds))
+        res_ds = res_ds.add_column("subset", [subset] * len(res_ds))
+        res_ds = res_ds.add_column("source_split", [split] * len(res_ds))
         return res_ds

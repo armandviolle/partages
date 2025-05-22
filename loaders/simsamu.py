@@ -7,11 +7,11 @@ def extract_texts(example):
     return {"text": texts}
 
 class SIMSAMU(BaseLoader):
-    def postprocess(self, ds, d, s):
-        sims_lists = ds.map(extract_texts, remove_columns=["schemaVersion", "monologues"])
+    def postprocess(self, dataset, subset, split):
+        sims_lists = dataset.map(extract_texts, remove_columns=["schemaVersion", "monologues"])
         flat = {"text": [text for ex in sims_lists for text in ex["text"]]} # flatten in a single list
         flat["text"] = [cleaner(text) for text in flat["text"]] # PREPROCESSING text
-        flat["dataset"] = [self.name] * len(flat["text"])
-        flat["data_dir"] = [d] * len(flat["text"])
-        flat["split"] = [s] * len(flat["text"])
+        flat["source"] = [self.source] * len(flat["text"])
+        flat["subset"] = [subset] * len(flat["text"])
+        flat["source_split"] = [split] * len(flat["text"])
         return Dataset.from_dict(flat)
