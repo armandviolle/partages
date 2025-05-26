@@ -1,5 +1,5 @@
 import yaml
-from datasets import concatenate_datasets, disable_caching
+from datasets import concatenate_datasets, disable_caching, load_dataset
 from loaders import REGISTRY
 
 
@@ -13,16 +13,16 @@ def main():
     datasets_cfg = load_config()
     all_ds = []
     for cfg in datasets_cfg:
-        print(f"Loading dataset {cfg["name"]}: using {REGISTRY[cfg["name"]]}")
-        LoaderCls = REGISTRY[cfg["name"]]
+        print(f"Loading dataset {cfg["source"]}: using {REGISTRY[cfg["source"]]}")
+        LoaderCls = REGISTRY[cfg["source"]]
         loader = LoaderCls(
-            name=cfg["name"], 
+            source=cfg["source"], 
             path=cfg["path"], 
-            data_dir=cfg["data_dir"], 
-            split=cfg["split"]
+            subset=cfg["subset"], 
+            source_split=cfg["source_split"]
         )
         ds = loader.load()
-        print(f"Shape de {cfg["name"]}: {ds.shape}")
+        print(f"Shape de {cfg["source"]}: {ds.shape}")
         print(f"{ds}\n")
         all_ds.append(ds)
     merged = concatenate_datasets(all_ds)

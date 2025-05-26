@@ -12,3 +12,7 @@ datasets:
     path: "DrBenchmark/DEFT2021"
     subset: 
     source_split: ["train", "validation", "test"]
+  - source: NACHOS
+    path: "/Users/armandviolle/Developer/partages/Archive"
+    subset: ["HAL", "HAS"]
+    source_split: 
