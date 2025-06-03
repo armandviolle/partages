@@ -16,3 +16,7 @@ datasets:
     path: "/Users/armandviolle/Developer/partages/Archive"
     subset: ["HAL", "HAS"]
     source_split: 
+  - source: FRENCHMEDMCQA
+    path: "qanastek/frenchmedmcqa"
+    subset: 
+    source_split: ["train", "validation", "test"]
