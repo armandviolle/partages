@@ -8,7 +8,7 @@ def extract_translation(example):
 
 class WMT16(BaseLoader):
     def postprocess(self, dataset, subset, split):
-        res_ds = ds.map(
+        res_ds = dataset.map(
             extract_translation,
             remove_columns=[c for c in dataset.column_names if c != "translation"]
         ).remove_columns(["translation"])
