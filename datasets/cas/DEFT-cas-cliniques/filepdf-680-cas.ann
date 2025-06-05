@@ -1,0 +1,120 @@
+T3	etatsosy 1008 1015	douleur
+T12	anatomie 1035 1045	abdominale
+T15	examen 1077 1093	bilan biologique
+T1	hemopathies 1163 1169	anémie
+T37	examen 1181 1192	hémoglobine
+T45	examen 1197 1239	radiographie de l’abdomen sans préparation
+T10	examen 1215 1222	abdomen
+T19	anatomie 120 132	endo-buccale
+T35	anatomie 1311 1332	sous phrénique gauche
+T43	anatomie 1384 1390	osseux
+T36	anatomie 1394 1420	corpus mandibulaire gauche
+T46	traitement 1426 1471	réanimation hydro-électrolytique et calorique
+T50	mode 1508 1519	transfusion
+T47	substance 1520 1528	sanguine
+T13	substance 1542 1560	bi-antibiothérapie
+T40	substance 1594 1607	métronidazole
+T38	examen 161 175	interrogatoire
+T28	examen 1612 1636	exploration chirurgicale
+T39	traitement 1641 1652	laparotomie
+T77	anatomie 1726 1762	face antérieure de l’antre gastrique
+T49	traitement 1789 1795	suture
+T52	moment 1970 1974	à J2
+T67	substance 322 355	anti-inflammatoire non stéroïdien
+T78	age 34 40	55 ans
+T51	mode 360 370	voie orale
+T59	etatsosy 406 447	fistule cutanée latéro-mentonnière gauche
+T72	anatomie 414 447	cutanée latéro-mentonnière gauche
+T44	sosy 464 477	pus en bouche
+T17	anatomie 471 477	bouche
+T24	anatomie 525 536	dents 35-36
+T4	etatsosy 542 560	douleur abdominale
+T11	anatomie 550 560	abdominale
+T8	moment 607 621	18 jours après
+T26	examen 667 682	examen clinique
+T90	nerveux 712 732	mauvais état général
+T30	anatomie 741 747	faciès
+T7	etatsosy 763 778	fièvre à 38,5°C
+T60	etatsosy 784 825	fistule cutanée latéro-mentonnière gauche
+T73	anatomie 792 825	cutanée latéro-mentonnière gauche
+T34	anatomie 819 825	gauche
+T23	anatomie 860 874	bucco-dentaire
+T18	anatomie 908 914	bouche
+T42	anatomie 948 954	osseux
+T2	genre 19 26	patient
+A1	genre T2 masculin
+T5	sosy 56 66	alcoolisme
+T6	sosy 73 82	tabagisme
+A2	assertion T5 absent
+A3	assertion T6 absent
+T9	duree 142 157	depuis 28 jours
+T14	etatsosy 109 132	ulcération endo-buccale
+T20	sosy 109 132	ulcération endo-buccale
+T21	stomatognathique 204 214	odontalgie
+#1	AnnotatorNotes T21	dentalgie
+T25	etatsosy 204 214	odontalgie
+T27	temperature 772 778	38,5°C
+T32	etatsosy 712 732	mauvais état général
+A4	norme T27 haut
+T33	substance 645 663	anti-inflammatoire
+T41	infections 464 477	pus en bouche
+T48	etatsosy 464 477	pus en bouche
+T22	stomatognathique 506 536	perte dentaire des dents 35-36
+T53	sosy 224 257	tuméfaction génienne basse gauche
+T54	sosy 542 560	douleur abdominale
+T55	anatomie 579 591	épigastrique
+T16	etatsosy 880 888	halitose
+T29	sosy 880 888	halitose
+T31	sosy 741 755	faciès terreux
+T56	sosy 712 732	mauvais état général
+T57	sosy 784 825	fistule cutanée latéro-mentonnière gauche
+T58	sosy 406 447	fistule cutanée latéro-mentonnière gauche
+T61	sosy 204 214	odontalgie
+T62	sosy 763 778	fièvre à 38,5°C
+T63	sosy 843 874	mauvaise hygiène bucco-dentaire
+T64	etatsosy 894 914	ulcération en bouche
+T65	sosy 894 914	ulcération en bouche
+T66	anatomie 974 981	dent 37
+T68	sosy 938 954	séquestre osseux
+T69	stomatognathique 962 981	carie de la dent 37
+T70	sosy 962 981	carie de la dent 37
+T71	traitement 1769 1781	ulcérectomie
+T74	traitement 1508 1528	transfusion sanguine
+#2	AnnotatorNotes T43	morceau d'os détaché et dévitalisé
+T75	examen 1336 1354	orthopantomogramme
+T76	valeur 1172 1178	5 g/dl
+T79	valeur 1131 1157	19 000 globules blancs/mm3
+T80	hemopathies 1114 1128	hyperleucytose
+T81	etatsosy 1114 1128	hyperleucytose
+#3	AnnotatorNotes T80	hyperleucocytose
+T82	sosy 1008 1015	douleur
+T83	osteomusculaires 1023 1045	contracture abdominale
+T84	sosy 1055 1072	matité des flancs
+T85	sosy 1023 1045	contracture abdominale
+A5	norme T79 haut
+#4	AnnotatorNotes T79	Normal entre 4000 et 8000
+A6	norme T76 bas
+#5	AnnotatorNotes T76	Normal entre 13 et 18 chez l'homme, 12 à 16 chez la femme ; anémie si inférieur
+T86	digestif 1259 1274	pneumopéritoine
+T87	sosy 1259 1332	pneumopéritoine sous la forme d’un croissant gazeux sous phrénique gauche
+T88	substance 1576 1590	céphalosporine
+T89	digestif 1683 1762	perforation d’environ 1cm de diamètre à la face antérieure de l’antre gastrique
+T91	sosy 1683 1762	perforation d’environ 1cm de diamètre à la face antérieure de l’antre gastrique
+T92	sosy 1830 1845	séquestrectomie
+T93	issue 1953 1958	décès
+A7	issue T93 décès
+T94	infections 1994 2007	choc septique
+T95	etatsosy 1994 2007	choc septique
+T96	sosy 1994 2007	choc septique
+T97	etatsosy 224 257	tuméfaction génienne basse gauche
+T98	peau 406 447	fistule cutanée latéro-mentonnière gauche
+T99	peau 784 825	fistule cutanée latéro-mentonnière gauche
+T100	blessures 1683 1762	perforation d’environ 1cm de diamètre à la face antérieure de l’antre gastrique
+T101	anatomie 236 257	génienne basse gauche
+T102	traitement 298 312	automédication
+T103	sosy 491 536	mobilité et de perte dentaire des dents 35-36
+T104	anatomie 1066 1072	flancs
+T105	sosy 1114 1157	hyperleucytose à 19 000 globules blancs/mm3
+T106	sosy 1163 1192	anémie à 5 g/dl d’hémoglobine
+T107	sosy 1374 1420	séquestre osseux du corpus mandibulaire gauche
+T108	valeur 1697 1720	environ 1cm de diamètre

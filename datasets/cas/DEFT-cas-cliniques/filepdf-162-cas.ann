@@ -1,0 +1,118 @@
+T1005	anatomie 457 467	testicules
+T1006	anatomie 604 610	vessie
+T1007	anatomie 754 784	urètre antérieur et postérieur
+T1008	anatomie 914 927	canal urétral
+T1009	anatomie 996 1009	canal urétral
+T10010	anatomie 1163 1169	vessie
+T10011	anatomie 1207 1225	orifices urétéraux
+T10013	anatomie 1513 1528	corps caverneux
+T10015	anatomie 1753 1768	fourreau cutané
+T10016	anatomie 1869 1889	anatomo-pathologique
+T10017	anatomie 2045 2060	corps caverneux
+T10018	anatomie 2081 2093	méat urétral
+T10019	anatomie 2193 2208	corps caverneux
+T10020	anatomie 2312 2326	urétro-cutanée
+T10062	examen 525 559	échographie de l’appareil urinaire
+T10063	examen 633 679	uréthrocystographie rétrograde et mictionnelle
+T10064	examen 1861 1889	analyse anatomo-pathologique
+T10065	examen 2159 2178	examen histologique
+T100111	moment 2339 2366	6 mois après l’intervention
+T100112	moment 2469 2505	2 ans après la première intervention
+T100141	traitement 876 895	anesthésie générale
+T100143	traitement 1369 1394	intervention chirurgicale
+T100144	traitement 1459 1493	ablation du phallus supplémentaire
+T100161	valeur 514 520	normal
+T100162	valeur 1149 1155	normal
+T100163	valeur 1529 1536	normaux
+T100164	valeur 1994 2010	7 mm de diamètre
+T100196	sosy 2529 2549	érections spontanées
+T10027	anatomie 489 496	bourses
+T10028	anatomie 501 513	orifice anal
+T10029	anatomie 589 594	reins
+T10031	sosy 739 838	intégrité de l’urètre antérieur et postérieur ainsi que de l’ensemble des pièces sacro-coccygiennes
+T10033	traitement 900 937	endoscopie du canal urétral principal
+T10034	sosy 996 1024	canal urétral supplémentaire
+T10036	anatomie 1040 1048	urétrale
+T10037	anatomie 1125 1131	urètre
+T10038	sosy 1110 1155	existence d'un urètre unique, d’aspect normal
+T10040	traitement 1301 1327	reconstruction de l'urètre
+T10041	anatomie 1345 1352	phallus
+T10042	traitement 1413 1442	urétroplastie de type Mathieu
+T10043	anatomie 1471 1478	phallus
+T10044	examen 1500 1536	contrôle des corps caverneux normaux
+T10045	anatomie 1567 1574	phallus
+T10046	traitement 1735 1768	reconstruction du fourreau cutané
+T10047	anatomie 1939 1944	verge
+T10048	valeur 1948 1976	deux centimètres de longueur
+T10049	anatomie 1985 1990	gland
+T10050	anatomie 2015 2022	phallus
+T10051	anatomie 2067 2072	gland
+T10052	anatomie 2117 2123	urètre
+T10053	sosy 2117 2154	urètre macroscopiquement identifiable
+T10054	sosy 2040 2100	deux corps caverneux, d’un gland avec un méat urétral borgne
+T10055	sosy 1923 2010	existence d'une verge de deux centimètres de longueur avec un gland de 7 mm de diamètre
+T10056	anatomie 2224 2230	urètre
+T10057	anatomie 2245 2250	gland
+T10058	anatomie 2285 2297	méat urétral
+T10059	pathologie 2304 2326	fistule urétro-cutanée
+T2001	anatomie 176 198	face latérale du pénis
+T2002	anatomie 305 328	sillon balano-préputial
+T2003	anatomie 349 357	latérale
+T2004	anatomie 377 392	corps caverneux
+T20012	anatomie 1321 1327	urètre
+T20014	anatomie 1604 1662	face latérale droite du corps caverneux du pénis principal
+T20061	examen 205 220	examen clinique
+T200142	traitement 1333 1365	ablation du phallus surnuméraire
+T200192	sosy 452 496	deux testicules présents au fond des bourses
+T20021	sosy 99 120	hypospadias antérieur
+T20022	sosy 135 198	excroissance développée aux dépens de la face latérale du pénis
+T20023	sosy 243 265	pénis légèrement coudé
+T20024	anatomie 243 248	pénis
+T20025	sosy 275 328	orifice urétral situé dans le sillon balano-préputial
+T20026	anatomie 275 290	orifice urétral
+T20027	sosy 336 402	protubérance latérale droite attachée au corps caverneux, érectile
+T20028	pathologie 430 439	diphallia
+T20030	sosy 501 520	orifice anal normal
+T20032	anatomie 542 559	appareil urinaire
+T20035	sosy 572 629	présence de deux reins et d’une vessie sans particularité
+T20036	traitement 696 729	cathétérisation du méat hypospade
+T20037	anatomie 715 719	méat
+T20039	anatomie 813 838	pièces sacro-coccygiennes
+T20042	examen 1029 1048	endoscopie urétrale
+T20044	examen 1063 1096	contrôle de la vue (endoscope 10)
+T20045	sosy 1207 1247	orifices urétéraux normalement implantés
+T20046	sosy 1163 1196	vessie sans signes d'inflammation
+T20049	moment 1273 1295	vers l'age de deux ans
+T20056	sosy 1567 1585	phallus accessoire
+T20057	sosy 1471 1493	phallus supplémentaire
+T20058	sosy 1345 1365	phallus surnuméraire
+T20060	traitement 1810 1856	pansement légèrement compressif a été appliqué
+T20071	examen 2124 2141	macroscopiquement
+T20072	sosy 2224 2240	urètre atrétique
+T20075	anatomie 2263 2278	corps spongieux
+T20079	traitement 2379 2430	cure chirurgicale par une invagination endoluminale
+T20080	mode 2418 2430	endoluminale
+T20081	examen 2456 2468	consultation
+A1	assertion T20046 absent
+T1	pathologie 715 729	méat hypospade
+A2	norme T100161 normal
+A3	norme T100163 normal
+A4	norme T100162 normal
+T2	valeur 611 629	sans particularité
+T3	genetique 99 120	hypospadias antérieur
+T4	homme 99 120	hypospadias antérieur
+T5	homme 243 265	pénis légèrement coudé
+T6	homme 430 439	diphallia
+T7	homme 2304 2326	fistule urétro-cutanée
+T8	homme 715 729	méat hypospade
+T9	genetique 715 729	méat hypospade
+T10	homme 1345 1365	phallus surnuméraire
+T11	homme 1567 1585	phallus accessoire
+T12	homme 1471 1493	phallus supplémentaire
+T13	etatsosy 2304 2326	fistule urétro-cutanée
+T14	age 13 19	2 mois
+T15	genre 0 4	Rémy
+A5	genre T15 masculin
+T16	origine 96 198	un hypospadias antérieur associé à une excroissance développée aux dépens de la face latérale du pénis
+T17	issue 2433 2548	L'enfant a été revu en consultation 2 ans après la première intervention. On note l’existence d’érections spontanée
+A6	issue T17 amélioration

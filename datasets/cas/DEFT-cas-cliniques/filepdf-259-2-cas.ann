@@ -1,0 +1,6 @@
+T1	genre 64 67	Mme
+T2	age 71 77	48 ans
+A1	genre T1 féminin
+T3	origine 497 543	Une nouvelle érosion vaginale en partie médian
+T4	issue 1993 2092	Les suites ont enfin été simples et la patiente n'a pas présenté de nouvelle complication à ce jour
+A2	issue T4 guérison

@@ -1,0 +1,6 @@
+T1	genre 16 21	femme
+T2	age 25 31	45 ans
+A1	genre T1 féminin
+T3	origine 33 125	dépressive et traitée pour un syndrome de jambes sans repos par ropinirole (0,75 mg le soir)
+T4	issue 639 729	Arrêt de la prise du pramipexole fin août 2008 et régression des troubles du comportement.
+A2	issue T4 amélioration

@@ -1,0 +1,6 @@
+T1	genre 0 14	Un agriculteur
+T2	age 18 24	56 ans
+T3	origine 37 127	ingère à 13h, 500 ml d'un herbicide (FIGHTER®) contenant 480g de bentazone par litre d'eau
+A1	genre T1 masculin
+T4	issue 1343 1401	La réanimation est arrêtée à 16h soit 3h après l'ingestion
+A2	issue T4 décès

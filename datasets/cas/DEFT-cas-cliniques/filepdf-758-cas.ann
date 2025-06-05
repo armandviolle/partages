@@ -1,0 +1,228 @@
+T71	date 1089 1097	mai 2008
+T7	cardiovasculaires 1142 1165	hypertension artérielle
+T196	examen 115 152	radiographies du rachis dorsolombaire
+T32	anatomie 1155 1165	artérielle
+T51	pathologie 1276 1319	diabète de type deux non insulino-dépendant
+T105	anatomie 132 152	rachis dorsolombaire
+T30	sosy 1373 1427	antécédent personnel, ni familial de nature allergique
+T99	pathologie 1501 1523	ostéoporose secondaire
+T43	substance 1546 1561	corticothérapie
+T120	examen 1610 1643	surveillance biologique mensuelle
+T62	examen 1685 1721	numération de formule sanguine (NFS)
+T117	anatomie 1707 1715	sanguine
+T94	date 1740 1753	novembre 2009
+T4	osteomusculaires 177 219	fracture de la troisième vertèbre lombaire
+T82	valeur 1969 1980	0,6 X 109/L
+T154	valeur 1891 1911	0,04 X 109-0,5 X 109
+T144	frequence 1981 1996	à deux reprises
+T33	date 2014 2024	avril 2009
+T69	anatomie 192 219	troisième vertèbre lombaire
+T125	substance 2222 2243	ranélate de strontium
+T6	date 2314 2327	décembre 2009
+T83	valeur 2340 2343	1-4
+T155	valeur 2276 2287	4,7 X 109/L
+T126	substance 2398 2408	traitement
+T11	date 2511 2520	mars 2010
+T12	date 2589 2598	juin 2010
+T61	examen 2624 2639	examen physique
+T13	date 2753 2777	premier semestre de 2010
+T176	sosy 2801 2817	éruption cutanée
+T165	anatomie 2810 2817	cutanée
+T3	sosy 2822 2830	diarrhée
+T8	sosy 2834 2846	hyperthermie
+T121	sosy 2851 2872	symptômes pulmonaires
+T177	age 286 292	56 ans
+T104	anatomie 2861 2872	pulmonaires
+T24	sosy 2878 2906	altération de l’état général
+T39	examen 2919 2941	paramètres biologiques
+T57	examen 2943 2961	enzymes hépatiques
+T65	anatomie 2951 2961	hépatiques
+T44	examen 2963 2976	créatininémie
+T186	examen 2978 3000	ionogramme plasmatique
+T101	anatomie 2989 3000	plasmatique
+T90	valeur 3014 3021	normaux
+T102	examen 3067 3092	protéine C réactive (CRP)
+T143	examen 3102 3126	vitesse de sédimentation
+T28	sosy 318 340	antécédent fracturaire
+T84	valeur 3220 3223	< 5
+T156	valeur 3203 3210	70 mg/L
+T85	valeur 3247 3250	3-7
+T157	valeur 3228 3235	56 mm/h
+T14	date 3255 3264	mars 2010
+T35	examen 3295 3311	bilan biologique
+T15	date 3315 3323	mai 2010
+T60	examen 3328 3361	examen parasitologique des selles
+T118	anatomie 3355 3361	selles
+T52	anatomie 3421 3430	digestive
+T66	examen 3435 3449	interrogatoire
+T96	valeur 3607 3615	négatifs
+T162	valeur 1867 1878	0,5 X 109/L
+T204	examen 3620 3629	ferritine
+T158	valeur 3632 3641	18 mcg/mL
+T86	valeur 2496 2507	3,7 X 109/L
+T207	valeur 3653 3659	12-221
+T141	substance 3680 3701	25 hydroxy-vitamine D
+T159	valeur 3704 3713	77 nmol/L
+T208	valeur 3725 3731	75-200
+T91	valeur 3749 3756	normaux
+T98	pathologie 376 387	ostéoporose
+T92	date 38 51	novembre 2009
+T114	pathologie 3824 3847	polyarthrite rhumatoïde
+T64	anatomie 3946 3955	hépatique
+T217	substance 3956 3968	Méthotrexate
+T9	date 3983 3991	Mai 2007
+T10	date 4034 4042	Mai 2007
+T16	date 4120 4128	Mai 2010
+T218	substance 4131 4143	Méthotrexate
+T67	examen 4151 4165	interrogatoire
+T130	substance 4241 4262	ranélate de strontium
+T17	date 4292 4301	juin 2010
+T88	valeur 4372 4379	normale
+T18	date 4399 4411	24 juin 2010
+T97	anatomie 448 455	osseuse
+T140	anatomie 4787 4797	viscérales
+T5	immunitaire 4861 4892	hypersensibilité médicamenteuse
+T134	substance 4960 4981	ranélate de strontium
+T19	date 4996 5011	16 juillet 2010
+T20	date 5016 5028	13 août 2010
+T23	examen 5033 5036	NFS
+T26	sosy 5076 5084	anomalie
+T89	valeur 5102 5109	normale
+T41	anatomie 518 529	col fémoral
+T100	pathologie 5371 5382	ostéoporose
+T40	substance 5457 5464	calcium
+T142	substance 5471 5481	vitamine D
+T106	anatomie 567 588	rachis lombaire L1-L4
+T122	substance 640 661	ranélate de strontium
+T93	date 685 701	26 novembre 2009
+T123	substance 783 796	biphosphonate
+T113	pathologie 918 946	polyarthrite rhumatoïde (PR)
+T42	substance 996 1011	corticothérapie
+A2	norme T158 normal
+A1	norme T159 normal
+A3	norme T157 haut
+T21	date 3148 3161	décembre 2009
+A4	norme T155 haut
+A6	norme T82 haut
+A7	norme T156 haut
+A8	norme T86 normal
+T31	substance 1201 1211	bisoprolol
+T34	substance 1217 1236	hydrochlorothiazide
+T36	date 963 967	2000
+T37	age 16 22	73 ans
+T38	genre 4 12	patiente
+A9	genre T38 féminin
+T45	examen 396 403	T-score
+A10	assertion T30 absent
+T1	date 3969 3982	Décembre 2005
+T46	substance 3992 4002	Adalimumab
+T47	examen 3937 3955	Cytolyse hépatique
+T48	substance 3925 3936	Leflunomide
+T49	date 3915 3919	2000
+T50	date 3920 3924	2005
+T53	date 4043 4052	Mars 2008
+T54	substance 4053 4063	Etanercept
+T55	substance 4108 4117	Abatacept
+T56	date 4095 4105	Avril 2008
+T58	date 4282 4285	mai
+T59	examen 4383 4394	taux de PNE
+T63	examen 4602 4613	taux de PNE
+T68	valeur 4630 4642	1,65 X 109/L
+A11	norme T68 haut
+T70	date 4646 4656	16 juillet
+A12	prise T134 arrêt
+A13	assertion T26 absent
+T73	examen 3551 3590	anticorps anticytoplasme des PNE (ANCA)
+T27	sosy 3410 3430	parasitose digestive
+T74	examen 2092 2111	taux de lymphocytes
+T75	examen 2118 2121	PNE
+T76	sosy 1779 1796	hyperéosinophilie
+A14	assertion T76 absent
+T77	examen 1813 1854	taux de polynucléaires éosinophiles (PNE)
+T78	substance 1324 1334	metformine
+T79	substance 1338 1349	glimepiride
+T80	examen 1963 1966	PNE
+T81	examen 2291 2309	lymphocytes totaux
+T87	examen 431 455	densité minérale osseuse
+T95	osteomusculaires 223 244	allure ostéoporotique
+T103	nutritionnelles 223 244	allure ostéoporotique
+A15	assertion T28 absent
+T107	sosy 259 269	ménopausée
+T108	examen 346 364	ostéodensitométrie
+T109	osteomusculaires 376 387	ostéoporose
+T110	nutritionnelles 376 387	ostéoporose
+T111	osteomusculaires 610 620	ostéopénie
+T112	nutritionnelles 610 620	ostéopénie
+T115	sosy 56 91	perte de taille de sept centimètres
+T116	anatomie 852 860	mâchoire
+T119	sosy 833 860	ostéonécrose de la mâchoire
+A16	assertion T119 hypothétique
+T127	stomatognathique 711 730	parodontite diffuse
+T29	duree 1241 1266	depuis plus de quatre ans
+T124	nutritionnelles 1276 1319	diabète de type deux non insulino-dépendant
+T128	endocriniennes 1276 1319	diabète de type deux non insulino-dépendant
+T129	osteomusculaires 918 946	polyarthrite rhumatoïde (PR)
+T132	peau 918 946	polyarthrite rhumatoïde (PR)
+T133	immunitaire 918 946	polyarthrite rhumatoïde (PR)
+T135	peau 1537 1539	PR
+T136	osteomusculaires 1537 1539	PR
+T137	immunitaire 1537 1539	PR
+T138	moment 1568 1582	antérieurement
+T139	osteomusculaires 1501 1523	ostéoporose secondaire
+T145	nutritionnelles 1501 1523	ostéoporose secondaire
+T146	date 2000 2007	février
+T147	moment 2166 2186	Quarante jours après
+T148	moment 2369 2385	Trois mois après
+T149	examen 2452 2474	taux circulants de PNE
+T150	hemopathies 2257 2274	hyperlymphocytose
+T151	examen 2525 2536	taux de PNE
+T2	sosy 2791 2797	prurit
+A5	assertion T2 absent
+A17	assertion T176 absent
+A18	assertion T3 absent
+A19	assertion T8 absent
+A20	assertion T121 absent
+A21	assertion T24 absent
+T22	sosy 2692 2742	manifestation particulière et notamment allergique
+A22	assertion T22 absent
+A23	assertion T27 absent
+T25	peau 3824 3847	polyarthrite rhumatoïde
+T72	osteomusculaires 3824 3847	polyarthrite rhumatoïde
+T152	immunitaire 3824 3847	polyarthrite rhumatoïde
+T153	sosy 4003 4033	Perte de réponse au traitement
+T160	sosy 4064 4094	Perte de réponse au traitement
+T131	hemopathies 4816 4833	hyperéosinophilie
+T161	chimiques 4861 4892	hypersensibilité médicamenteuse
+T163	substance 5170 5191	ranélate de strontium
+T164	osteomusculaires 5371 5382	ostéoporose
+T166	nutritionnelles 5371 5382	ostéoporose
+T167	sosy 4672 4731	cinétique au début, à l’arrêt et à la reprise du traitement
+T168	sosy 4758 4797	apparition de manifestations viscérales
+A24	assertion T168 possible
+T169	blessures 177 219	fracture de la troisième vertèbre lombaire
+T170	respiratoire 4816 4833	hyperéosinophilie
+T171	valeur 75 91	sept centimètres
+T172	frequence 1634 1643	mensuelle
+T173	sosy 1813 1878	taux de polynucléaires éosinophiles (PNE) supérieur à 0,5 X 109/L
+T174	sosy 1949 1980	élévation des PNE à 0,6 X 109/L
+T175	sosy 2276 2309	4,7 X 109/L de lymphocytes totaux
+T178	sosy 2452 2507	taux circulants de PNE, atteignant un pic à 3,7 X 109/L
+T179	sosy 2912 3021	autres paramètres biologiques (enzymes hépatiques, créatininémie, ionogramme plasmatique) sont restés normaux
+T180	duree 3362 3382	trois jours de suite
+T181	sosy 3551 3615	anticorps anticytoplasme des PNE (ANCA) se sont révélés négatifs
+T182	sosy 3620 3641	ferritine à 18 mcg/mL
+T183	sosy 3667 3713	dosage de la 25 hydroxy-vitamine D à 77 nmol/L
+T184	sosy 4372 4394	normale du taux de PNE
+T185	sosy 4480 4511	réduction du risque fracturaire
+T187	sosy 4586 4642	augmentation du taux de PNE apparaît alors (1,65 X 109/L
+T188	substance 4878 4892	médicamenteuse
+T189	moment 5123 5144	un recul de neuf mois
+A25	prise T163 arrêt
+T190	sosy 177 244	fracture de la troisième vertèbre lombaire, d’allure ostéoporotique
+T191	sosy 610 620	ostéopénie
+T192	pathologie 711 730	parodontite diffuse
+T193	pathologie 1142 1177	hypertension artérielle essentielle
+T194	pathologie 1537 1539	PR
+T195	sosy 2257 2274	hyperlymphocytose
+T197	sosy 4816 4833	hyperéosinophilie
+T198	sosy 4862 4892	ypersensibilité médicamenteuse

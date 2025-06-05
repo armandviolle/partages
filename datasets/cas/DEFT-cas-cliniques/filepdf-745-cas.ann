@@ -1,0 +1,180 @@
+T17	dose 1049 1060	8,5 mg/kg/h
+T113	substance 1073 1081	propofol
+T18	dose 1103 1112	5 mg/kg/h
+T29	duree 1113 1138	pendant environ 60 heures
+T152	nutritionnelles 1190 1209	acidose métabolique
+T49	frequence 121 130	chronique
+T55	examen 1280 1300	créatine kinase (CK)
+T164	examen 1308 1316	kaliémie
+T31	examen 1324 1337	triglycérides
+T4	femme 1352 1384	insuffisance rénale et hépatique
+T122	anatomie 1365 1371	rénale
+T88	anatomie 1375 1384	hépatique
+T3	cardiovasculaires 1392 1403	hypotension
+T101	mode 1460 1469	perfusion
+T114	substance 1473 1481	propofol
+T193	nutritionnelles 1519 1535	acidose lactique
+T32	genre 16 21	femme
+T89	mode 1647 1655	infusion
+T115	substance 1659 1667	propofol
+T116	substance 1708 1716	propofol
+T12	date 172 176	2001
+T38	substance 1788 1804	acide valproïque
+T13	date 181 185	2003
+T102	substance 1811 1824	phénobarbital
+T128	substance 1870 1894	thérapie antiépileptique
+T86	moment 1895 1919	durant l’hospitalisation
+T240	substance 1982 1992	tacrolimus
+T51	examen 2114 2139	concentration plasmatique
+T104	anatomie 2128 2139	plasmatique
+T123	anatomie 2209 2215	rénale
+T131	anatomie 2241 2255	veino-veineuse
+T87	traitement 2307 2318	hémodialyse
+T109	anatomie 2407 2419	plasmatiques
+T232	substance 2423 2433	phénytoïne
+T233	substance 2483 2493	phénytoïne
+T33	poids 25 32	80,7 kg
+T5	femme 2610 2629	insuffisance rénale
+T124	anatomie 2623 2629	rénale
+T94	substance 2721 2729	albumine
+T39	substance 2742 2758	acide valproïque
+T24	moment 2762 2772	Au jour 15
+T6	peau 2777 2781	rash
+T1	etatsosy 2817 2835	fièvre persistante
+T234	substance 2879 2889	phénytoïne
+T103	substance 2896 2909	phénobarbital
+T2	immunitaire 2944 2982	hypersensibilité aux anticonvulsivants
+T15	substance 304 314	tacrolimus
+T9	dose 316 320	1 mg
+T54	substance 3163 3179	corticostéroïdes
+T96	frequence 321 329	par jour
+T40	substance 3357 3373	acide valproïque
+T22	dose 3426 3440	60 mg/kg/ jour
+T8	etatsosy 3514 3534	activité épileptique
+T28	examen 3539 3542	EEG
+T25	moment 3545 3555	Au jour 27
+T90	sosy 358 391	intolérance possible à la codéine
+T47	substance 3594 3602	imipénem
+T132	moment 3723 3734	À ce moment
+T52	examen 3739 3764	concentration plasmatique
+T106	anatomie 3753 3764	plasmatique
+T41	substance 3767 3783	acide valproïque
+T50	substance 384 391	codéine
+T20	valeur 3866 3876	366 mmol/l
+T26	moment 3878 3888	Au jour 31
+T42	substance 3965 3981	acide valproïque
+T21	valeur 3989 4000	41,6 mmol/l
+T110	anatomie 4051 4063	plasmatiques
+T23	valeur 4067 4071	88 %
+T180	age 42 48	51 ans
+T43	substance 4209 4225	acide valproïque
+T53	examen 4377 4402	concentration plasmatique
+T108	anatomie 4391 4402	plasmatique
+T44	substance 4405 4421	acide valproïque
+T45	substance 4474 4490	acide valproïque
+T19	dose 4515 4529	50 mg/ kg/jour
+T46	substance 4636 4652	acide valproïque
+T206	traitement 468 478	intubation
+T7	etatsosy 589 609	activité épileptique
+T133	examen 614 642	électroencéphalogramme (EEG)
+T111	substance 671 679	propofol
+T48	mode 686 691	bolus
+T11	dose 702 710	10 mg/kg
+T16	substance 714 724	phénytoïne
+T98	mode 734 743	perfusion
+T91	substance 747 756	midazolam
+T57	pathologie 78 96	diabète de type II
+T231	substance 834 844	phénytoïne
+T118	frequence 870 879	régulière
+T99	mode 917 926	perfusion
+T30	substance 930 943	pentobarbital
+T100	mode 965 974	perfusion
+T112	substance 978 986	propofol
+A1	genre T32 féminin
+T34	nutritionnelles 78 96	diabète de type II
+T35	endocriniennes 78 96	diabète de type II
+A2	assertion T90 hypothétique
+T14	sosy 2027 2037	convulsion
+A3	assertion T14 possible
+A4	prise T240 arrêt
+T36	examen 2502 2518	albumine sérique
+A5	prise T234 arrêt
+A6	prise T103 arrêt
+T37	substance 3127 3144	anticonvulsivants
+A7	changement T19 diminution
+T56	moment 4602 4612	au jour 36
+A8	prise T46 arrêt
+T58	substance 3712 3721	méropénem
+T59	moment 4094 4104	au jour 34
+T60	substance 3668 3680	antibiotique
+A9	prise T60 arrêt
+T61	respiratoire 3620 3628	sinusite
+T62	ORL 3620 3628	sinusite
+T63	duree 3833 3849	depuis six jours
+T64	valeur 4174 4185	10,4 mmol/l
+T65	substance 4232 4241	méropénem
+T66	substance 4325 4334	méropénem
+A10	prise T66 arrêt
+T67	moment 4737 4747	au jour 39
+T68	substance 4767 4780	lévétiracétam
+A11	changement T22 augmentation
+T10	valeur 2156 2164	2,1 mg/l
+A12	norme T10 bas
+T69	traitement 2226 2255	hémofiltration veino-veineuse
+T70	moment 2272 2284	au jour cinq
+T71	substance 1740 1757	anticonvulsivants
+T72	substance 1771 1784	lévétiracétam
+A13	prise T116 arrêt
+T73	moment 1937 1951	Au jour quatre
+T74	substance 2184 2215	thérapie de remplacement rénale
+T75	moment 2335 2347	au jour sept
+T76	examen 1225 1227	pH
+T77	examen 1246 1254	lactates
+A14	prise T112 reprise
+T78	sosy 207 247	réaction du greffon contre l’hôte (GVHD)
+T79	tumeur 103 130	leucémie myéloïde chronique
+T80	moment 758 799	À l’arrivée à l’unité des soins intensifs
+T27	examen 1511 1513	CK
+T81	digestif 1352 1384	insuffisance rénale et hépatique
+#1	AnnotatorNotes T81	insuffisance hépatique
+T82	chimiques 1647 1667	infusion au propofol
+T83	valeur 1494 1506	augmentation
+T84	valeur 1261 1273	augmentation
+T85	valeur 1229 1241	augmentation
+T92	valeur 1211 1221	diminution
+T93	sosy 2817 2835	fièvre persistante
+T95	sosy 2777 2791	rash important
+T97	hemopathies 2797 2809	éosinophilie
+T105	sosy 2797 2809	éosinophilie
+T107	substance 2965 2982	anticonvulsivants
+T117	chimiques 2944 2982	hypersensibilité aux anticonvulsivants
+T119	hemopathies 103 130	leucémie myéloïde chronique
+T120	nerveux 418 448	status épilepticus réfractaire
+T121	nerveux 589 609	activité épileptique
+T125	etatsosy 418 448	status épilepticus réfractaire
+T126	nutritionnelles 1308 1316	kaliémie
+T127	nerveux 3514 3534	activité épileptique
+T129	chimiques 4189 4241	interaction entre l’acide valproïque et le méropénem
+T130	traitement 153 168	subi une greffe
+T134	sosy 1211 1227	diminution du pH
+T135	sosy 1229 1254	augmentation des lactates
+T136	sosy 1261 1300	augmentation de la créatine kinase (CK)
+T137	substance 3006 3022	deux médicaments
+A15	prise T137 arrêt
+T138	moment 3895 3911	cinq jours après
+T139	substance 3930 3939	méropénem
+T140	sosy 3965 4001	acide valproïque est de 41,6 mmol/l,
+T141	sosy 4036 4071	concentrations plasmatiques de 88 %
+T142	examen 4076 4082	dosage
+T143	sosy 4349 4421	diminution importante de la concentration plasmatique d’acide valproïque
+T144	pathologie 103 130	leucémie myéloïde chronique
+T145	pathologie 418 448	status épilepticus réfractaire
+T146	sosy 589 609	activité épileptique
+T147	sosy 1190 1209	acidose métabolique
+T148	pathologie 1352 1384	insuffisance rénale et hépatique
+T149	pathologie 1392 1403	hypotension
+T150	examen 1519 1535	acidose lactique
+T151	pathologie 2610 2629	insuffisance rénale
+T153	sosy 2944 2982	hypersensibilité aux anticonvulsivants
+T154	sosy 3514 3534	activité épileptique
+T155	sosy 3620 3628	sinusite

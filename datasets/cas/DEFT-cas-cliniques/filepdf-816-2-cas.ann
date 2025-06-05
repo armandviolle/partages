@@ -1,0 +1,68 @@
+T89	traitement 1034 1051	geste chirurgical
+T44	traitement 1071 1101	résection grêlique segmentaire
+T41	sosy 108 141	rectorragies de moyenne abondance
+T3	tumeur 1115 1130	tumeur grêlique
+T7	traitement 1136 1179	anastomose grêlo-grêlique termino-terminale
+T55	anatomie 1147 1161	grêlo-grêlique
+T61	examen 1183 1208	étude anatomopathologique
+T8	anatomie 1189 1208	anatomopathologique
+T129	examen 1245 1265	immuno-histochimique
+T4	tumeur 1272 1321	tumeur stromale gastrointestinale grêlique (GIST)
+T54	anatomie 1279 1314	stromale gastrointestinale grêlique
+T58	substance 1472 1480	Imatinib
+T60	mode 193 205	transfusions
+T51	substance 206 215	sanguines
+T20	substance 231 249	culots globulaires
+T15	examen 254 279	reste du bilan biologique
+T52	valeur 286 304	sans particularité
+T2	femme 321 354	insuffisance rénale fonctionnelle
+T130	age 33 39	50 ans
+T43	anatomie 334 340	rénale
+T26	sosy 367 407	examen clinique était sans particularité
+T53	valeur 389 407	sans particularité
+T27	examen 411 431	examen proctologique
+T45	sosy 443 507	stigmates de saignementrécent au-delà de 15 cm de la marge anale
+T13	pathologie 46 84	antécédents pathologiques particuliers
+T6	anatomie 496 507	marge anale
+T19	examen 512 522	coloscopie
+T118	sosy 538 567	stigmates de saignement actif
+T39	anatomie 595 611	muqueuse colique
+T48	anatomie 624 628	sang
+T30	examen 633 665	fibroscopie oesogastro-duodénale
+T22	anatomie 645 665	oesogastro-duodénale
+T9	sosy 685 693	anomalie
+T79	anatomie 710 726	abdomino-pelvien
+T37	sosy 740 878	masse iléale hypervascularisée tissulaire bien limitée à développement extra-luminale mesurant 5,5 cm et siégeant en regard du flanc droit
+T34	anatomie 746 752	iléale
+T57	anatomie 771 781	tissulaire
+T31	anatomie 867 878	flanc droit
+T36	traitement 896 919	indication chirurgicale
+T29	examen 935 959	exploration chirurgicale
+T38	sosy 973 1017	masse iléale extraluminale mesurant 5 × 4 cm
+T35	anatomie 979 999	iléale extraluminale
+T1	genre 16 24	patiente
+A1	genre T1 féminin
+A2	assertion T13 absent
+T5	examen 367 382	examen clinique
+T10	frequence 216 227	répétitives
+T11	digestif 108 141	rectorragies de moyenne abondance
+T12	etatsosy 108 141	rectorragies de moyenne abondance
+T14	hemopathies 159 176	syndrome anémique
+T16	etatsosy 443 472	stigmates de saignementrécent
+T17	etatsosy 538 567	stigmates de saignement actif
+T18	sosy 595 628	muqueuse colique tapissée de sang
+A3	assertion T9 absent
+T23	examen 697 726	angioscanner abdomino-pelvien
+T21	valeur 835 841	5,5 cm
+T24	valeur 1009 1017	5 × 4 cm
+T25	anatomie 1081 1089	grêlique
+T28	anatomie 1122 1130	grêlique
+T32	digestif 1115 1130	tumeur grêlique
+T33	sosy 254 304	reste du bilan biologique était sans particularité
+T40	anatomie 811 825	extra-luminale
+T42	traitement 1102 1130	emportant la tumeur grêlique
+T46	anatomie 1162 1179	termino-terminale
+T47	pathologie 321 363	insuffisance rénale fonctionnelle corrigée
+T49	sosy 159 176	syndrome anémique
+T50	sosy 1115 1130	tumeur grêlique
+T56	sosy 1272 1321	tumeur stromale gastrointestinale grêlique (GIST)

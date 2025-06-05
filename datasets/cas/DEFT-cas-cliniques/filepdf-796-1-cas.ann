@@ -1,0 +1,6 @@
+T1	genre 12 24	une patiente
+T2	age 33 39	63 ans
+A1	genre T1 féminin
+T3	origine 147 357	algies pelviennes chroniques depuis 06 mois, d’intensité croissante, avec signes de compression urinaire à type de pollakiurie, et digestives à type de constipation, sans trouble du cycle ou autre signe associé
+T4	issue 1387 1474	avec un suivi en consultation régulier, bon contrôle locorégional, et un recul de 3 ans
+A2	issue T4 guérison

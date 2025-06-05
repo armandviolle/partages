@@ -1,0 +1,6 @@
+T1	genre 0 8	Patiente
+T2	age 17 23	52 ans
+A1	genre T1 féminin
+T3	origine 37 121	syndrome anémique associé à des épigastralgies atypiques sans saignement extériorisé
+T4	issue 1545 1619	L’évolution à long terme a été satisfaisante avec un recul actuel de 5 ans
+A2	issue T4 guérison

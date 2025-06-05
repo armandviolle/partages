@@ -1,0 +1,6 @@
+T1	age 12 18	76 ans
+T2	issue 1799 1807	décédait
+T3	genre 3 8	homme
+A1	issue T2 décès
+A2	genre T3 masculin
+T4	origine 42 64	anémie et thrombopénie

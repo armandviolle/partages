@@ -1,0 +1,104 @@
+T42	traitement 1045 1080	résection biopsique de deux copeaux
+T9	examen 1055 1064	biopsique
+T7	anatomie 1108 1127	anatomopathologique
+T25	sosy 1156 1202	inflammation chronique de la muqueuse vésicale
+T13	frequence 1169 1178	chronique
+T29	anatomie 1185 1202	muqueuse vésicale
+T20	examen 121 163	exploration d'une impériosité mictionnelle
+T10	sosy 1212 1258	plages de calcification plus ou moins étendues
+T12	anatomie 1289 1297	cellules
+T28	sosy 1342 1357	lésion tumorale
+T3	etatsosy 139 163	impériosité mictionnelle
+T44	anatomie 1457 1465	urinaire
+T15	substance 1551 1561	céfotaxime
+T34	frequence 1573 1581	par jour
+T37	duree 1582 1599	pendant dix jours
+T47	anatomie 1647 1653	urines
+T2	etatsosy 169 176	dysurie
+T56	anatomie 184 201	urines hématiques
+T16	duree 211 224	depuis 2 mois
+T64	cardiovasculaires 29 40	hypertendue
+T8	sosy 295 305	apyrétique
+T24	anatomie 315 331	fosses lombaires
+T49	anatomie 351 358	vésical
+T61	anatomie 373 380	pelvien
+T31	valeur 390 397	normaux
+T46	anatomie 433 439	urines
+T38	valeur 446 453	positif
+T23	sosy 531 560	fonction rénale était normale
+T40	anatomie 540 546	rénale
+T30	valeur 553 560	normale
+T43	anatomie 575 583	urinaire
+T33	traitement 60 95	opérée pour kyste hydatique du foie
+T50	anatomie 646 659	aire vésicale
+T41	anatomie 679 685	rénale
+T51	anatomie 689 697	vésicale
+T5	parasitaires 72 95	kyste hydatique du foie
+T1	femme 726 751	calcifications pariétales
+T11	sosy 726 773	calcifications pariétales étendues de la vessie
+T35	anatomie 741 751	pariétales
+T48	anatomie 767 773	vessie
+T39	anatomie 832 837	reins
+T32	valeur 846 853	normaux
+T6	tumeur 876 901	tumeur vésicale calcifiée
+T52	anatomie 883 891	vésicale
+T21	anatomie 91 95	foie
+T14	examen 957 968	cystoscopie
+T4	genre 4 12	patiente
+A1	genre T4 féminin
+T22	age 21 27	78 ans
+T27	digestif 72 95	kyste hydatique du foie
+T36	femme 184 201	urines hématiques
+T45	etatsosy 184 201	urines hématiques
+#1	AnnotatorNotes T36	Hématurie
+T54	femme 139 163	impériosité mictionnelle
+T26	sosy 269 289	mauvais état général
+T55	etatsosy 269 289	mauvais état général
+T57	nerveux 269 289	mauvais état général
+T58	examen 231 246	examen clinique
+T59	examen 364 381	touchers pelviens
+T60	examen 402 428	examen cytobactériologique
+T62	substance 492 526	céphalosporines de 3ème génération
+T63	examen 569 600	arbre urinaire sans préparation
+T65	examen 667 697	échographie rénale et vésicale
+T66	valeur 814 820	230 ml
+T67	examen 782 804	résidu post mictionnel
+T17	etatsosy 943 952	hématurie
+T68	femme 943 952	hématurie
+T18	examen 1101 1127	examen anatomopathologique
+A2	assertion T28 absent
+T53	femme 1412 1429	cystite incrustée
+T69	femme 998 1013	cystite étendue
+T70	examen 1454 1465	pH urinaire
+T19	dose 1563 1572	3 grammes
+T71	femme 876 901	tumeur vésicale calcifiée
+T72	valeur 1507 1510	8,3
+A3	norme T72 haut
+T73	valeur 1514 1517	7,9
+A4	norme T73 haut
+T74	pathologie 72 95	kyste hydatique du foie
+T75	sosy 139 163	impériosité mictionnelle
+T76	sosy 169 176	dysurie
+T77	sosy 184 201	urines hématiques
+T78	femme 169 176	dysurie
+T79	femme 456 478	pseudomonas aéruginosa
+T80	etatsosy 1156 1202	inflammation chronique de la muqueuse vésicale
+T81	sosy 315 338	fosses lombaires libres
+T82	sosy 345 358	globe vésical
+T83	sosy 364 397	touchers pelviens étaient normaux
+T84	organisme 456 478	pseudomonas aéruginosa
+T85	sosy 402 478	examen cytobactériologique des urines était positif à pseudomonas aéruginosa
+T86	sosy 615 659	augmentation de l'opacité de l'aire vésicale
+T87	sosy 782 820	résidu post mictionnel évalué à 230 ml
+T88	sosy 827 853	deux reins étaient normaux
+T89	sosy 1022 1039	sédiment calcifié
+T90	anatomie 1068 1080	deux copeaux
+T91	sosy 1278 1305	réaction à cellules géantes
+T92	sosy 1488 1518	alcalin deux fois (8,3 et 7,9)
+T93	sosy 1629 1653	stérilisation des urines
+T94	pathologie 29 48	hypertendue traitée
+T95	sosy 943 952	hématurie
+T96	sosy 876 901	tumeur vésicale calcifiée
+A5	assertion T96 hypothétique
+T97	sosy 998 1013	cystite étendue
+T98	sosy 1412 1429	cystite incrustée

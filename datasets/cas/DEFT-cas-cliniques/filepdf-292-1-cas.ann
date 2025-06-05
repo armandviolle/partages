@@ -1,0 +1,6 @@
+T1	genre 0 2	Mr
+T2	age 15 21	50 ans
+A1	genre T1 masculin
+T3	origine 379 420	une hémospermie avec éjaculation retardée
+T4	issue 1513 1678	À six mois de l'intervention, le contrôle tomodensitométrique abdomino-pelvien et thoracique élimine toute localisation secondaire et/ou de récidive locale pelvienne
+A2	issue T4 guérison

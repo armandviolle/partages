@@ -1,0 +1,83 @@
+T15	examen 502 538	examen des organes génitaux externes
+T18	examen 763 785	échographie abdominale
+T4	anatomie 775 785	abdominale
+T17	examen 959 1023	tomodensitométrie cranio cervicale et thoraco-abdomino-pelvienne
+T5	anatomie 977 993	cranio cervicale
+T7	anatomie 997 1023	thoraco-abdomino-pelvienne
+T8	anatomie 66 73	périnée
+T19	examen 637 643	examen
+T20	examen 177 192	examen clinique
+T21	examen 296 315	examen neurologique
+T10	sosy 409 447	douleur des bourses et de l’hypogastre
+T11	anatomie 421 428	bourses
+T13	anatomie 437 447	hypogastre
+T14	sosy 466 484	hématocèle modérée
+T23	anatomie 513 538	organes génitaux externes
+T25	anatomie 542 549	abdomen
+T26	sosy 542 621	abdomen est météorisé, douloureux en région sus pubienne, sans défense palpable
+T28	anatomie 579 598	région sus pubienne
+T22	sosy 683 710	hémarthrose du genou gauche
+T29	anatomie 698 710	genou gauche
+T30	sosy 815 863	épanchement modéré dans le cul de sac de Douglas
+T31	anatomie 842 863	cul de sac de Douglas
+T32	sosy 879 903	lésion hépatho-splénique
+T33	anatomie 886 903	hépatho-splénique
+A3	assertion T32 absent
+T34	anatomie 908 914	vessie
+T35	sosy 1063 1098	rupture intra péritonéale de vessie
+T37	anatomie 1071 1098	intra péritonéale de vessie
+T38	anatomie 1151 1169	séreuse abdominale
+T39	sosy 1183 1220	brèche est visualisée au dôme vésical
+T40	anatomie 1208 1220	dôme vésical
+T41	sosy 1243 1272	disjonction pubienne stade II
+T42	anatomie 1255 1263	pubienne
+T43	examen 1301 1333	laparotomie médiane exploratrice
+T44	sosy 1360 1430	rupture frontale du dôme vésical sur 5 cm, totalement intrapéritonéale
+T45	anatomie 1380 1392	dôme vésical
+T47	anatomie 1414 1430	intrapéritonéale
+T48	examen 1445 1477	inspection systématique du grêle
+T49	anatomie 1472 1477	grêle
+T50	sosy 1491 1512	plaie iléale latérale
+T51	anatomie 1497 1512	iléale latérale
+T52	anatomie 1560 1573	tube digestif
+T53	traitement 1578 1584	suturé
+T54	traitement 1586 1593	drainée
+T56	anatomie 1632 1638	vessie
+T24	traitement 1632 1650	vessie est suturée
+T58	anatomie 1723 1730	vésical
+T61	traitement 1819 1838	ablation de la lame
+T63	moment 1839 1843	à J3
+T65	moment 1864 1868	à J4
+T66	traitement 1870 1900	ablation de la, sonde de Foley
+T68	moment 1901 1906	à J10
+T70	moment 1932 1937	à J15
+T71	traitement 1955 1963	clampage
+T72	sosy 227 290	patient, conscient et orienté, stable sur le plan hémodynamique
+T75	anatomie 1526 1544	angle iléo caecale
+T1	sosy 355 388	signe déficitaire de localisation
+A1	assertion T1 absent
+T3	valeur 1264 1272	stade II
+T6	valeur 1397 1401	5 cm
+T9	traitement 1707 1730	double drainage vésical
+T12	examen 1944 1963	épreuve de clampage
+T2	valeur 648 666	sans particularité
+T16	sosy 626 666	reste de l’examen est sans particularité
+T27	sosy 1845 1863	reprise du transit
+T36	traitement 1910 1931	de la sonde de Pezzer
+T46	sosy 53 61	AVP moto
+T55	homme 466 484	hématocèle modérée
+T57	osteomusculaires 683 710	hémarthrose du genou gauche
+T59	etatsosy 683 710	hémarthrose du genou gauche
+T60	homme 1063 1098	rupture intra péritonéale de vessie
+T62	blessures 1243 1272	disjonction pubienne stade II
+T64	homme 1243 1272	disjonction pubienne stade II
+T67	blessures 1360 1392	rupture frontale du dôme vésical
+T69	blessures 1183 1220	brèche est visualisée au dôme vésical
+T73	digestif 1491 1512	plaie iléale latérale
+T74	blessures 1491 1512	plaie iléale latérale
+T76	genre 0 8	Monsieur
+T77	age 16 22	36 ans
+A2	genre T76 masculin
+T78	origine 50 61	un AVP moto
+T79	issue 1791 1816	Les suites furent simples
+A4	issue T79 amélioration

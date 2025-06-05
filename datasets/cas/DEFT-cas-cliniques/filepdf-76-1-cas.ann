@@ -1,0 +1,126 @@
+T1001	mode 261 275	trans-urétrale
+T1002	anatomie 365 388	réno-vésico-prostatique
+T1003	anatomie 424 433	trigonale
+T1004	anatomie 437 459	latéro-vésicale droite
+T1005	anatomie 612 638	thoraco-abdomino-pelvienne
+T1006	anatomie 748 754	rénale
+T1007	mode 825 840	trans-uréthrale
+T1008	anatomie 1133 1144	épidermoïde
+T1009	anatomie 1662 1673	épidermoïde
+T10010	anatomie 2294 2301	vésical
+T10011	anatomie 2336 2343	cutanée
+T10051	duree 61 74	depuis 4 mois
+T10052	duree 227 240	pendant 1 ans
+T10053	duree 1525 1535	20 minutes
+T10061	examen 353 388	échographie réno-vésico-prostatique
+T10062	examen 555 572	bilan d’extension
+T10063	examen 588 638	tomodensitométrie (TDM) thoraco-abdomino-pelvienne
+T10064	examen 764 777	créatininémie
+T10065	examen 1014 1031	poids des copeaux
+T10066	examen 1062 1088	examen anatomopathologique
+T10067	examen 1183 1223	recherche de human papilloma virus (HPV)
+T10068	examen 1540 1557	poids des copeaux
+T10069	examen 1587 1613	examen anatomopathologique
+T10070	examen 1960 1986	examen anatomopathologique
+T10071	examen 2187 2225	examen anatomopathologique extemporané
+T100111	moment 1694 1713	Deux mois plus tard
+T100112	moment 2441 2472	trois mois après l’intervention
+T100141	traitement 148 161	radiothérapie
+T100142	traitement 209 216	sondage
+T100143	traitement 251 287	résection trans-urétrale de prostate
+T100144	traitement 815 850	résection trans-uréthrale de vessie
+T100145	traitement 865 913	mise en place d’une sonde de néphrostomie droite
+T100148	traitement 1352 1361	résection
+T100152	traitement 1756 1788	résection endoscopique de vessie
+T100154	traitement 2075 2101	cystectomie totale élargie
+T100155	traitement 2118 2129	laparotomie
+T100156	traitement 2322 2372	urétérostomie cutanée trans-intestinale palliative
+T100161	valeur 780 789	245 mol/l
+T100162	valeur 1047 1057	70 grammes
+T100163	valeur 1166 1178	stade pT1 G1
+T100164	valeur 1573 1583	30 grammes
+T100165	valeur 1943 1953	70 grammes
+T100181	pathologie 1123 1178	carcinome épidermoïde verruqueux mature de stade pT1 G1
+T100183	pathologie 2001 2023	carcinome sarcomatoïde
+T100191	sosy 45 52	dysurie
+T100192	sosy 308 348	infections urinaires basses à répétition
+T100193	sosy 405 496	formation tumorale trigonale et latéro-vésicale droite, suspecte de franchissement pariétal
+T100194	sosy 511 539	urétéro-hydronéphrose droite
+T100195	sosy 681 706	localisations secondaires
+T100196	sosy 735 754	insuffisance rénale
+T100197	sosy 1321 1338	récidive tumorale
+T100200	sosy 2031 2054	métaplasie malpighienne
+T100201	sosy 2148 2172	deux nodules péritonéaux
+T10012	pathologie 110 136	adénocarcinome de prostate
+T10013	anatomie 128 136	prostate
+T10014	sosy 178 196	rétention d’urines
+T10015	anatomie 279 287	prostate
+T10016	moment 288 300	il y a 7 ans
+T10018	anatomie 844 850	vessie
+T10019	anatomie 1069 1088	anatomopathologique
+T10020	examen 1250 1272	contrôle cystoscopique
+T10021	moment 1273 1305	à six semaines de l’intervention
+T10022	duree 999 1009	30 minutes
+T10025	anatomie 1594 1613	anatomopathologique
+T10026	valeur 1685 1691	pT1 G1
+T10027	anatomie 1782 1788	vessie
+T10028	duree 1859 1869	40 minutes
+T10030	examen 1916 1933	poids des copeaux
+T10031	anatomie 1967 1986	anatomopathologique
+T10032	anatomie 2194 2213	anatomopathologique
+T10033	anatomie 2161 2172	péritonéaux
+T10035	mode 2344 2361	trans-intestinale
+T10036	pathologie 2518 2536	maladie cancéreuse
+T10037	anatomie 1414 1423	urétérale
+T200147	traitement 918 936	geste endoscopique
+T200149	traitement 1391 1432	mise en place de sonde urétérale double J
+T200150	traitement 1440 1452	néphrostomie
+T200151	traitement 1457 1462	geste
+T200153	traitement 1793 1798	geste
+T200182	pathologie 1640 1691	récidive de carcinome épidermoïde verruqueux pT1 G1
+T200199	pathologie 1823 1847	tumeur était infiltrante
+T200202	pathologie 2242 2301	localisations secondaires du carcinome sarcomatoïde vésical
+T20015	anatomie 190 196	urines
+T20018	anatomie 319 335	urinaires basses
+T20020	anatomie 488 496	pariétal
+T20023	sosy 764 789	créatininémie à 245 mol/l
+T20026	dose 967 975	4 poches
+T20027	substance 978 988	irrigation
+T20032	dose 1493 1501	3 poches
+T20034	pathologie 1719 1737	troisième récidive
+T20037	dose 1885 1893	5 poches
+T20038	substance 1896 1906	irrigation
+T20040	anatomie 2042 2054	malpighienne
+T20044	moment 162 172	auparavant
+T1	substance 1504 1514	irrigation
+A1	norme T100161 haut
+#1	AnnotatorNotes T100161	Normal entre 60 et 115 mcmol/L pour un homme
+A2	etat T10012 passé
+T2	frequence 336 348	à répétition
+A3	assertion T100195 absent
+A4	assertion T10067 absent
+T200203	tumeur 110 136	adénocarcinome de prostate
+T200204	tumeur 405 459	formation tumorale trigonale et latéro-vésicale droite
+T200205	tumeur 1823 1829	tumeur
+T3	homme 110 136	adénocarcinome de prostate
+T4	homme 178 196	rétention d’urines
+T5	etatsosy 45 52	dysurie
+T6	tumeur 2518 2536	maladie cancéreuse
+T7	tumeur 2001 2023	carcinome sarcomatoïde
+T8	tumeur 2271 2301	carcinome sarcomatoïde vésical
+T9	homme 511 539	urétéro-hydronéphrose droite
+T10	homme 735 754	insuffisance rénale
+T11	tumeur 1123 1178	carcinome épidermoïde verruqueux mature de stade pT1 G1
+T12	tumeur 1321 1338	récidive tumorale
+T13	tumeur 1652 1684	carcinome épidermoïde verruqueux
+T14	etatsosy 2031 2054	métaplasie malpighienne
+T15	infections 308 348	infections urinaires basses à répétition
+T16	homme 308 348	infections urinaires basses à répétition
+T17	peau 1123 1178	carcinome épidermoïde verruqueux mature de stade pT1 G1
+T18	peau 1640 1684	récidive de carcinome épidermoïde verruqueux
+T19	genre 3 10	patient
+A5	genre T19 masculin
+T20	age 18 24	84 ans
+T21	issue 2424 2429	décès
+A6	issue T21 décès
+T22	origine 41 74	une dysurie apparue depuis 4 mois

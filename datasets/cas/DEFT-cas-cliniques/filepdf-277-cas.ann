@@ -1,0 +1,81 @@
+T15	anatomie 447 465	abdomino-pelvienne
+T5	examen 443 465	IRM abdomino-pelvienne
+T6	sosy 117 171	lombalgies gauches irradiant vers l'hypochondre gauche
+T8	anatomie 153 171	hypochondre gauche
+T10	sosy 181 209	altération de l'état général
+T11	sosy 216 245	amaigrissement chiffré à 7 Kg
+T13	duree 246 255	en 7 mois
+T16	sosy 279 439	masse étendue de l'hypochondre gauche jusqu'au flanc gauche de 12/8 cm, de consistance dure, fixe par rapport aux 2 plans, indolore, donnant le contact lombaire
+T17	anatomie 298 316	hypochondre gauche
+T20	sosy 499 595	volumineux processus tumoral rétro péritonéal gauche de 16/12 cm au contact de la capsule rénale
+T21	anatomie 528 551	rétro péritonéal gauche
+T22	anatomie 581 595	capsule rénale
+T24	pathologie 621 634	sarcome rénal
+T25	pathologie 649 673	sarcome rétro péritonéal
+T26	anatomie 629 634	rénal
+T27	anatomie 657 673	rétro péritonéal
+A4	assertion T24 possible
+A5	assertion T25 possible
+T28	traitement 702 757	incision sous costale gauche prolongée de 3 cm à droite
+T30	traitement 817 881	exérèse en monobloc d'une tumeur de 21x17x12 cm et pesant 2650 g
+T31	pathologie 843 881	tumeur de 21x17x12 cm et pesant 2650 g
+T36	examen 1058 1077	examen histologique
+T37	sosy 1110 1148	prolifération tumorale mésenchymateuse
+T38	sosy 1311 1327	nécrose tumorale
+T40	anatomie 1438 1454	parenchyme rénal
+T41	anatomie 1464 1473	surrénale
+T42	sosy 1494 1552	liposarcome bien différencié sclérosant du rétro péritoine
+T44	traitement 1555 1571	exérèse complète
+T45	sosy 1578 1610	atteinte rénale ni surrénalienne
+T46	anatomie 1587 1593	rénale
+T47	anatomie 1597 1610	surrénalienne
+A6	assertion T45 absent
+T48	traitement 1714 1740	ablation du drain de redon
+T50	examen 1747 1771	contrôles échographiques
+T51	pathologie 1880 1890	métastases
+A7	assertion T51 absent
+T52	sosy 1851 1876	récidives loco régionales
+A8	assertion T52 absent
+T53	anatomie 1861 1876	loco régionales
+T55	valeur 342 349	12/8 cm
+T57	examen 259 265	examen
+T64	anatomie 326 338	flanc gauche
+T65	valeur 555 563	16/12 cm
+T66	valeur 853 864	21x17x12 cm
+T67	valeur 875 881	2650 g
+T58	anatomie 1133 1148	mésenchymateuse
+T68	sosy 1186 1289	lipoblastes à cytoplasme vacuolaire, le stroma était fibreux ou myxoide, riche en vaisseaux capillaires
+T70	moment 1684 1707	à J5 du post opératoire
+T63	anatomie 1268 1289	vaisseaux capillaires
+T71	anatomie 789 802	colo pariétal
+T72	anatomie 1200 1210	cytoplasme
+T73	anatomie 1211 1221	vacuolaire
+T1	sosy 956 1053	aspect lobulé, graisseux par endroits, ailleurs, blanchâtre et myxoide avec des foyers de nécrose
+T2	anatomie 431 439	lombaire
+T3	pathologie 28 66	antécédents pathologiques particuliers
+A2	assertion T3 absent
+T4	moment 86 112	7 mois avant son admission
+T7	valeur 241 245	7 Kg
+T9	traitement 691 696	opéré
+T12	anatomie 711 730	sous costale gauche
+T14	traitement 777 802	décollement colo pariétal
+T18	examen 897 917	aspect macroscopique
+T19	anatomie 1226 1232	stroma
+T23	sosy 1363 1418	prolifération était bien limitée par une bande fibreuse
+T29	anatomie 1537 1552	rétro péritoine
+T32	moment 1772 1789	à 3, 6 et 12 mois
+T33	moment 1909 1928	un recul de 12 mois
+T34	nerveux 181 209	altération de l'état général
+T39	etatsosy 216 230	amaigrissement
+T43	etatsosy 117 171	lombalgies gauches irradiant vers l'hypochondre gauche
+T49	tumeur 843 849	tumeur
+T54	tumeur 1311 1327	nécrose tumorale
+T56	tumeur 1494 1505	liposarcome
+T59	tumeur 1110 1148	prolifération tumorale mésenchymateuse
+T35	etatsosy 181 209	altération de l'état général
+T60	age 15 21	75 ans
+T61	genre 679 686	patient
+A1	genre T61 masculin
+T62	origine 117 255	lombalgies gauches irradiant vers l'hypochondre gauche avec une altération de l'état général et un amaigrissement chiffré à 7 Kg en 7 mois
+T69	issue 1807 1928	le patient était en rémission complète sans récidives loco régionales ni métastases à distances après un recul de 12 mois
+A3	issue T69 amélioration

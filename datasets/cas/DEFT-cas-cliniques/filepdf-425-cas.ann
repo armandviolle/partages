@@ -1,0 +1,49 @@
+T1	sosy 55 64	inanimées
+T2	moment 276 302	quelques minutes plus tard
+T3	traitement 329 340	réanimation
+T4	substance 694 711	enduit blanchâtre
+T5	examen 739 808	recherche du monoxyde de carbone (CO) et de l’H2 S dans l’air ambiant
+T6	substance 752 776	monoxyde de carbone (CO)
+T7	substance 785 789	H2 S
+T8	valeur 856 863	normaux
+T9	sosy 910 939	intoxication aiguë par l’H2 S
+A1	assertion T9 hypothétique
+T10	examen 1048 1072	examen externe des corps
+T11	anatomie 1067 1072	corps
+T12	sosy 1114 1140	syndrome asphyxique marqué
+T13	anatomie 1158 1168	extrémités
+T14	sosy 1146 1168	cyanose des extrémités
+T15	traitement 1194 1205	réanimation
+T16	anatomie 1271 1294	région médio-thoracique
+T17	examen 1321 1329	autopsie
+T18	moment 1340 1390	dans les 12 heures suivant la découverte des corps
+T19	valeur 1396 1414	sans particularité
+T20	examen 1420 1563	prélèvements à visée toxicologique classique (sang cardiaque, sang périphérique sur tube fluoré, contenu gastrique, bile, urine, humeur vitrée)
+T21	anatomie 1466 1480	sang cardiaque
+T22	anatomie 1482 1499	sang périphérique
+T23	examen 1593 1649	prélèvements de sang périphérique et de tissu pulmonaire
+T24	anatomie 1609 1626	sang périphérique
+T25	anatomie 1633 1649	tissu pulmonaire
+T26	substance 1702 1705	gaz
+T27	valeur 1732 1738	+4 ° C
+T28	examen 1744 1784	prélèvements à visée anatomopathologique
+T29	sosy 739 863	recherche du monoxyde de carbone (CO) et de l’H2 S dans l’air ambiant, effectuée par les pompiers, a montré des taux normaux
+T30	substance 935 939	H2 S
+#1	AnnotatorNotes T7	hydrogène sulfuré
+T31	anatomie 1525 1534	gastrique
+T32	anatomie 1536 1540	bile
+T33	anatomie 1542 1547	urine
+T34	anatomie 1549 1562	humeur vitrée
+T35	sosy 1320 1414	’autopsie, réalisée dans les 12 heures suivant la découverte des corps, est sans particularité
+T36	anatomie 1765 1784	anatomopathologique
+T37	blessures 1114 1133	syndrome asphyxique
+T38	etatsosy 1146 1153	cyanose
+T39	genre 0 3	Mme
+T40	age 8 14	26 ans
+T41	age 31 37	9 mois
+T42	genre 22 27	fille
+A2	genre T42 féminin
+A3	genre T39 féminin
+T43	issue 389 394	décès
+A4	issue T43 décès
+T44	origine 55 101	inanimées dans la cuisine du domicile familial

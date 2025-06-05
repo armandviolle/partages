@@ -1,0 +1,102 @@
+T1001	anatomie 200 210	ombilicale
+T1006	anatomie 1176 1190	vésicovaginale
+T1007	anatomie 1216 1234	péritonéo-vaginale
+T1008	pathologie 1333 1361	fistules péritonéo-vaginales
+T10061	examen 378 399	temps de prothrombine
+T10062	examen 471 485	interrogatoire
+T10064	examen 761 780	bilan uro-dynamique
+T100101	mode 860 873	voie vaginale
+T100112	moment 915 937	Lors de l’intervention
+T100142	traitement 893 912	anesthésie générale
+T100161	valeur 402 405	58%
+T100162	valeur 660 669	stade 1-2
+T100163	valeur 710 717	stade 3
+T100193	sosy 367 373	ictère
+T100194	sosy 491 542	fuites urinaires étaient présentes en orthostatisme
+T100198	sosy 1262 1282	écoulement ascitique
+T10010	traitement 152 187	cure de hernie inguinale bilatérale
+T10011	examen 411 429	albuminémie totale
+T10014	pathologie 846 855	prolapsus
+T10015	traitement 838 873	cure de prolapsus par voie vaginale
+T10016	sosy 964 1000	deux végétations sur le fond vaginal
+T10017	substance 1115 1132	bleu de méthylène
+T10018	valeur 1139 1146	négatif
+T10020	traitement 1314 1361	fermeture des deux fistules péritonéo-vaginales
+T10021	traitement 1369 1384	Douglassectomie
+T10022	traitement 1391 1408	Richter bilatéral
+T10025	anatomie 1433 1461	muscles élévateurs de l’anus
+T2004	anatomie 681 689	vaginale
+T2005	anatomie 988 1000	fond vaginal
+T20063	examen 578 610	examen en position gynécologique
+T20065	examen 1107 1132	test au bleu de méthylène
+T200111	moment 255 276	à l’âge de trente ans
+T200141	traitement 218 238	hystérectomie totale
+T200143	traitement 943 962	anesthésie générale
+T200181	pathologie 298 338	cirrhose d’origine éthylique décompensée
+T200182	pathologie 1208 1256	fistule péritonéo-vaginale en deux localisations
+T200183	pathologie 1168 1190	fistule vésicovaginale
+T200191	sosy 160 187	hernie inguinale bilatérale
+T200192	sosy 348 362	ascite modérée
+T200195	sosy 557 574	leucorrhées sales
+T200196	sosy 728 744	fuites urinaires
+T200197	sosy 1085 1102	écoulement séreux
+T200199	sosy 1467 1483	fuites urinaires
+T20011	anatomie 167 187	inguinale bilatérale
+T20012	sosy 193 210	hernie ombilicale
+T20013	traitement 243 254	laparotomie
+T20014	sosy 378 405	temps de prothrombine à 58%
+T20016	valeur 432 439	17 mg/L
+T20017	sosy 411 439	albuminémie totale à 17 mg/L
+T2002	pathologie 623 632	prolapsus
+T20019	sosy 647 669	cystocèle de stade 1-2
+T20020	sosy 675 689	ptose vaginale
+T20021	sosy 695 717	élythrocèle de stade 3
+T20024	sosy 761 832	bilan uro-dynamique réalisé avant l’opération était sans particularités
+T20029	traitement 1029 1042	hystérectomie
+T20033	anatomie 1342 1361	péritonéo-vaginales
+T20036	traitement 1418 1461	myorraphie des muscles élévateurs de l’anus
+T20038	anatomie 498 507	urinaires
+T20039	anatomie 735 744	urinaires
+T20040	sosy 1107 1146	test au bleu de méthylène était négatif
+T2008	anatomie 1474 1483	urinaires
+T1	examen 441 463	Child Pugh de classe B
+A1	norme T20016 bas
+A2	norme T100161 bas
+#1	AnnotatorNotes T100161	Normal entre 70 et 130%
+#2	AnnotatorNotes T10061	taux de prothrombine
+A3	assertion T200196 absent
+T3	valeur 813 832	sans particularités
+T4	moment 789 806	avant l’opération
+T200200	etatsosy 348 362	ascite modérée
+T200201	digestif 298 338	cirrhose d’origine éthylique décompensée
+T200202	etatsosy 160 187	hernie inguinale bilatérale
+T2	chimiques 298 338	cirrhose d’origine éthylique décompensée
+T5	genetique 193 210	hernie ombilicale
+T6	etatsosy 193 210	hernie ombilicale
+T7	etatsosy 367 373	ictère
+T8	femme 491 507	fuites urinaires
+T9	femme 557 574	leucorrhées sales
+T10	femme 623 632	prolapsus
+T11	etatsosy 623 632	prolapsus
+T12	femme 647 669	cystocèle de stade 1-2
+T13	etatsosy 647 669	cystocèle de stade 1-2
+T14	etatsosy 675 689	ptose vaginale
+T15	femme 675 689	ptose vaginale
+T16	femme 846 855	prolapsus
+T17	etatsosy 846 855	prolapsus
+T18	virales 969 1000	végétations sur le fond vaginal
+T19	peau 969 1000	végétations sur le fond vaginal
+T20	femme 1168 1190	fistule vésicovaginale
+T21	etatsosy 1168 1190	fistule vésicovaginale
+T22	femme 1208 1256	fistule péritonéo-vaginale en deux localisations
+T23	etatsosy 1208 1256	fistule péritonéo-vaginale en deux localisations
+T24	etatsosy 1333 1361	fistules péritonéo-vaginales
+T25	femme 1333 1361	fistules péritonéo-vaginales
+T26	hemopathies 378 405	temps de prothrombine à 58%
+T27	hemopathies 411 439	albuminémie totale à 17 mg/L
+T28	genre 4 12	patiente
+T29	age 21 27	55 ans
+A4	genre T28 féminin
+T30	origine 294 464	une cirrhose d’origine éthylique décompensée avec une ascite modérée, un ictère, un temps de prothrombine à 58%, une albuminémie totale à 17 mg/L (Child Pugh de classe B)
+T31	issue 1463 1523	Les fuites urinaires ont disparu dans les suites opératoires
+A5	issue T31 guérison

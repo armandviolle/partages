@@ -1,0 +1,80 @@
+T1001	anatomie 332 340	pénienne
+T1003	anatomie 531 536	verge
+T1004	anatomie 552 558	urètre
+T1005	anatomie 1095 1107	raphé médian
+T10061	examen 697 712	examen clinique
+T10062	examen 439 454	examen clinique
+T10064	examen 949 953	ECBU
+T10065	examen 975 994	bilan préopératoire
+T100111	moment 1423 1451	à 10 jours du postopératoire
+T100141	traitement 1018 1051	résection du diverticule urèthral
+T100143	traitement 1393 1422	ablation de la sonde vésicale
+T100161	valeur 1481 1488	normale
+T1008	anatomie 668 681	méat urèthral
+T10010	sosy 617 681	affaissement de celle-ci avec issue d’urine par le méat urèthral
+T10011	sosy 757 790	malformation urogénitale associée
+T10012	anatomie 770 781	urogénitale
+T10013	examen 834 853	clichés mictionnels
+T10015	anatomie 897 905	urèthral
+T10016	valeur 960 967	stérile
+T10017	anatomie 1043 1051	urèthral
+T10018	examen 1144 1158	urèthrographie
+T10020	examen 1214 1228	urèthrographie
+T10021	anatomie 1414 1422	vésicale
+T2002	anatomie 511 524	face ventrale
+T2006	anatomie 232 240	vésicale
+T20063	examen 794 824	urèthrocystographie rétrograde
+T200181	pathologie 35 73	antécédents pathologiques particuliers
+T200191	sosy 119 154	écoulement urinaire post-mictionnel
+T200194	sosy 471 536	masse de consistance liquidienne sur la face ventrale de la verge
+T200195	sosy 1494 1519	écoulement postmictionnel
+T2007	duree 90 115	depuis son très jeune âge
+T2008	sosy 164 186	brûlures mictionnelles
+T2009	sosy 190 207	pyurie itératives
+T20010	sosy 222 249	rétention vésicale complète
+T20011	sosy 256 263	dysurie
+T20012	traitement 573 590	pression manuelle
+T20013	traitement 418 435	pression manuelle
+T20017	valeur 719 738	sans particularités
+T20018	sosy 697 738	examen clinique était sans particularités
+T20021	sosy 880 930	gros diverticule urèthral antérieur à collet large
+T20022	anatomie 918 930	collet large
+T20023	sosy 949 967	ECBU était stérile
+T20025	sosy 1031 1051	diverticule urèthral
+T20027	valeur 1160 1185	sur 4 centimètres environ
+T20028	anatomie 1200 1206	collet
+T20030	mode 1297 1311	transurèthrale
+T20032	sosy 1456 1488	miction du patient était normale
+T20033	sosy 1523 1530	dysurie
+T20034	anatomie 130 138	urinaire
+T20035	anatomie 655 660	urine
+T20037	anatomie 1288 1296	vésicale
+A1	assertion T20010 absent
+A2	assertion T20011 absent
+T1	sosy 309 435	apparition d’une masse pénienne qui a augmenté de volume de façon intermittente et qui était réductible à la pression manuelle
+A3	assertion T10011 absent
+A4	assertion T200195 absent
+A5	assertion T20033 absent
+A6	norme T100161 normal
+A7	norme T20017 normal
+A8	norme T10016 normal
+A9	assertion T200181 absent
+T2	frequence 197 207	itératives
+T3	mode 814 824	rétrograde
+T4	moment 981 994	préopératoire
+T5	homme 164 186	brûlures mictionnelles
+T6	homme 119 154	écoulement urinaire post-mictionnel
+T7	infections 190 207	pyurie itératives
+T8	homme 190 207	pyurie itératives
+T9	etatsosy 1031 1051	diverticule urèthral
+T10	infections 1031 1051	diverticule urèthral
+T11	homme 1031 1051	diverticule urèthral
+T12	infections 880 930	gros diverticule urèthral antérieur à collet large
+T13	etatsosy 880 930	gros diverticule urèthral antérieur à collet large
+T14	homme 880 930	gros diverticule urèthral antérieur à collet large
+T15	genre 0 8	Monsieur
+T16	age 22 28	17 ans
+A10	genre T15 masculin
+T17	origine 309 435	apparition d’une masse pénienne qui a augmenté de volume de façon intermittente et qui était réductible à la pression manuelle
+T18	issue 1387 1530	Après ablation de la sonde vésicale à 10 jours du postopératoire, la miction du patient était normale sans écoulement postmictionnel ni dysurie
+A11	issue T18 guérison

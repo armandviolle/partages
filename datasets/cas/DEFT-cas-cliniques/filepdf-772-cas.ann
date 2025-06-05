@@ -1,0 +1,8 @@
+T1	genre 23 29	femmes
+T2	genre 36 41	homme
+T3	age 57 63	61 ans
+A1	genre T1 féminin
+A2	genre T2 masculin
+T4	origine 133 189	coccygodynie après infiltration intradiscale coccygienne
+T5	issue 1290 1423	son anesthésie avait supprimé une partie de la douleur en position assise. Dans les autres cas, les calcifications étaient plus dures
+A3	issue T5 amélioration

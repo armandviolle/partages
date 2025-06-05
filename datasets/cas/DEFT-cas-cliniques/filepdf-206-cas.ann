@@ -1,0 +1,6 @@
+T1	genre 0 3	Mme
+T2	age 15 21	55 ans
+A1	genre T1 féminin
+T3	origine 75 109	une douleur para-ombilicale droite
+T4	issue 1774 1901	Lors de la dernière consultation en février 2002, aucune doléance particulière, aucune pathologie hématologique n'était décelée
+A2	issue T4 guérison

@@ -1,0 +1,62 @@
+T18	examen 1041 1058	immunohistochimie
+T9	anatomie 1086 1107	cellules néoplasiques
+T11	substance 1197 1223	cytokératines (ck) 7 et 20
+T20	sosy 123 244	masse de 4 cm de diamètre, au centre nécrotique, antérieure au dôme vési cal, envahissant uniquement la graisse adjacente
+T23	valeur 1254 1261	positif
+T4	valeur 132 148	4 cm de diamètre
+T28	substance 1394 1406	Méthotrexate
+T5	substance 1432 1442	Cisplatine
+T12	anatomie 186 199	dôme vési cal
+T10	examen 285 296	cystoscopie
+T1	tumeur 312 326	adénocarcinome
+T3	etatsosy 35 51	hématurie isolée
+T31	valeur 391 399	type III
+T7	examen 416 434	bilan d' extension
+T21	valeur 441 448	négatif
+T26	examen 57 68	échographie
+T13	traitement 599 633	entérocystoplastie de substitution
+T6	anatomie 657 677	anatomo-pathologique
+T2	tumeur 722 749	adénocarcinome de l’ouraque
+T22	anatomie 742 749	ouraque
+T15	examen 78 104	examen tomodensitométrique
+T25	anatomie 845 861	lumière vésicale
+T27	tumeur 889 912	carcinome transitionnel
+T17	valeur 916 925	grade III
+T8	anatomie 941 949	cellules
+T14	examen 262 271	bi opsies
+T16	age 12 18	54 ans
+T24	genre 3 8	homme
+A1	genre T24 masculin
+T29	valeur 1296 1309	stade T III A
+T30	substance 1374 1389	chi miothérapie
+T32	substance 1409 1420	Vinblastine
+T33	substance 1423 1430	Endoxan
+T34	moment 1469 1485	35 mois de recul
+T35	anatomie 1227 1246	épithélium vési cal
+T36	traitement 479 515	cystoprostatectomie radicale tot ale
+T37	traitement 521 561	lymphadénectomie iliaque et obturatri ce
+T38	traitement 578 591	omphalectomie
+T39	examen 650 677	examen anatomo-pathologique
+T40	sosy 830 963	ulcéré dans la lumière vésicale, et contenait des zones de carcinome transitionnel de grade III, ainsi que des cellules argentaffines
+T19	homme 35 51	hématurie isolée
+T41	tumeur 361 387	épithélioma transiti onnel
+T42	homme 361 387	épithélioma transiti onnel
+T43	homme 722 749	adénocarcinome de l’ouraque
+T44	tumeur 1086 1107	cellules néoplasiques
+T45	sosy 35 51	hématurie isolée
+T46	anatomie 227 234	graisse
+T47	pathologie 312 342	adénocarcinome peu différencié
+T48	sosy 353 399	zones d’épithélioma transiti onnel de type III
+T49	sosy 416 448	bilan d' extension était négatif
+T50	anatomie 538 545	iliaque
+T51	anatomie 692 708	pièce opératoire
+T52	pathologie 722 807	adénocarcinome de l’ouraque peu différencié, invasif, t rès loc alement mucosécrétant
+T53	sosy 965 1037	Deux poches de lymphonoeuds et l a graisse environnante, étaient envahis
+T54	anatomie 1000 1007	graisse
+T55	substance 1115 1151	Antigène Carcino-Embryonnai re (ACE)
+T56	substance 1153 1167	Leu-M1 (CD 15)
+T57	sosy 1071 1167	positivité des cellules néoplasiques pour l’Antigène Carcino-Embryonnai re (ACE), Leu-M1 (CD 15)
+T58	sosy 1176 1223	négativi té pour les cytokératines (ck) 7 et 20
+T59	sosy 1227 1275	épithélium vési cal étai t positif pour les ck 7
+T60	substance 1271 1275	ck 7
+T61	mode 1447 1462	voie systémique

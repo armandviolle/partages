@@ -1,0 +1,6 @@
+T1	genre 1111 1122	La patiente
+T2	age 16 22	54 ans
+T3	origine 80 108	bilan d’une masse abdominale
+A1	genre T1 féminin
+T4	issue 1936 2080	Deux ans après la seconde intervention, la patiente a été réopérée et on réalisait une néphrectomie élargie droite emportant la masse et le rein
+A2	issue T4 détérioration

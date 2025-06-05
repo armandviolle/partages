@@ -1,0 +1,121 @@
+T63	anatomie 1002 1023	paroi vésicale gauche
+T80	anatomie 102 108	utérin
+T11	examen 1028 1031	IRM
+T72	examen 1058 1065	scanner
+T12	anatomie 1119 1124	anale
+T24	examen 1132 1143	cystoscopie
+T61	valeur 1160 1168	normales
+T62	traitement 1189 1195	opérée
+T53	date 1199 1214	18 janvier 2001
+T55	traitement 1217 1241	laparotomie exploratrice
+T49	traitement 1243 1263	hystérectomie totale
+T15	traitement 1265 1288	annexectomie bilatérale
+T19	anatomie 1278 1288	bilatérale
+T39	traitement 1292 1312	exérèse de la tumeur
+T3	tumeur 1306 1312	tumeur
+T38	traitement 1320 1327	exérèse
+T75	sosy 1447 1474	séquelles vasculo-nerveuses
+T94	anatomie 1457 1474	vasculo-nerveuses
+T16	moment 1494 1522	7 jours avant l’intervention
+T52	traitement 1510 1522	intervention
+T40	anatomie 1576 1591	artère fémorale
+T79	anatomie 1616 1641	tronc commun des branches
+T34	examen 163 178	examen clinique
+T4	tumeur 1659 1665	tumeur
+T50	sosy 1714 1724	hémorragie
+T33	examen 1744 1771	examen anatomo-pathologique
+T13	anatomie 1751 1771	anatomo-pathologique
+T5	tumeur 1804 1810	tumeur
+T9	valeur 1814 1832	18 cm de grand axe
+T6	tumeur 1935 1941	tumeur
+T84	anatomie 2004 2013	vaisseaux
+T83	anatomie 205 213	vaginale
+T20	anatomie 2083 2101	cellules stromales
+T7	tumeur 2209 2215	tumeur
+T78	anatomie 2246 2259	tissu adipeux
+T2	tumeur 2315 2337	prolifération tumorale
+T21	anatomie 2405 2443	cellules stromales et péri-vasculaires
+T98	valeur 2459 2467	positive
+T25	examen 2477 2484	desmine
+T90	examen 248 273	étude anatomopathologique
+T60	anatomie 2497 2513	musculaire lisse
+T1	tumeur 2519 2537	cellules tumorales
+T14	anatomie 254 273	anatomopathologique
+T35	examen 2727 2742	examen clinique
+T32	examen 2749 2770	examen scanographique
+T36	examen 2788 2805	examens cliniques
+T102	examen 2844 2869	deux scanners de contrôle
+T58	anatomie 2941 2994	cellulo-adipeuse latéro-rectale gauche et postérieure
+T76	sosy 3032 3060	séquelles post-chirurgicales
+T70	sosy 3071 3086	récidive locale
+T18	examen 314 331	bilan d’extension
+T89	examen 344 355	échographie
+T71	examen 362 369	scanner
+T51	anatomie 430 466	espace pelvi-rectal inférieur gauche
+T43	anatomie 525 557	muscle obturateur interne gauche
+T74	anatomie 598 615	symphyse pubienne
+T86	anatomie 646 652	vessie
+T81	anatomie 658 664	utérus
+T87	anatomie 705 727	latéro-vésicale gauche
+T28	anatomie 750 754	dôme
+T57	anatomie 807 838	paroi latérale gauche du rectum
+T66	anatomie 852 864	loge rectale
+T67	anatomie 937 950	paroi rectale
+T59	sosy 990 995	masse
+T8	femme 73 88	ménométrorragie
+T17	etatsosy 73 88	ménométrorragie
+T22	tumeur 195 240	formation vaginale pseudokystique gélatineuse
+T29	tumeur 288 308	angiomyxome agressif
+T103	tumeur 2656 2676	angiomyxome agressif
+T108	anatomie 2519 2527	cellules
+T23	age 16 22	49 ans
+T30	date 54 64	avril 2000
+T31	examen 93 108	curetage utérin
+T37	anatomie 471 501	paroi latérale gauche du vagin
+A1	assertion T75 absent
+T27	moment 1725 1739	per-opératoire
+T41	examen 2360 2387	étude immuno-histo-chimique
+T26	moment 3042 3060	post-chirurgicales
+A2	assertion T70 absent
+T42	genre 4 12	patiente
+A3	genre T42 féminin
+T44	femme 195 240	formation vaginale pseudokystique gélatineuse
+T45	tumeur 401 418	processus tumoral
+T46	etatsosy 1714 1724	hémorragie
+T47	sosy 401 615	processus tumoral occupant l’espace pelvi-rectal inférieur gauche, la paroi latérale gauche du vagin arrivant au contact du muscle obturateur interne gauche et fusant vers le haut en arrière de la symphyse pubienne
+T48	sosy 623 754	formation refoulait la vessie et l’utérus vers la droite, s’étendait en situation latéro-vésicale gauche jusqu’à la hauteur du dôme
+T54	anatomie 673 679	droite
+T56	sosy 759 864	processus arrivait étroitement au contact de la paroi latérale gauche du rectum, occupait la loge rectale
+T64	sosy 891 950	liseré de sécurité graisseux au contact de la paroi rectale
+A4	assertion T64 possible
+T65	sosy 955 1023	liseré existait également entre la masse et la paroi vésicale gauche
+T68	examen 1072 1092	recto-sigmoidoscopie
+T69	sosy 1072 1168	recto-sigmoidoscopie jusqu’à 30 cm de la marge anale et une cystoscopie se sont avérées normales
+T73	anatomie 1377 1396	axe vasculo-nerveux
+T77	traitement 1545 1591	embolisation par ponction de l’artère fémorale
+T82	traitement 1595 1665	cathétérisation d’un tronc commun des branches vascularisant la tumeur
+T85	traitement 1673 1685	embolisation
+T88	traitement 1704 1739	réduire l’hémorragie per-opératoire
+T91	sosy 1804 1911	tumeur de 18 cm de grand axe, partiellement lobulée, d’aspect myxoïde ou gélatineux et de consistance molle
+T92	examen 1913 1930	Microscopiquement
+T93	sosy 1935 2034	tumeur a un fond myxoïde parcouru par des capillaires dilatés et des vaisseaux d’épaisseur variable
+T95	sosy 2083 2189	cellules stromales fusiformes bi-, unipolaires ou étalées au noyau petit ovoïde sans atypie et sans mitose
+T96	sosy 2209 2313	tumeur était entourée d’un liséré de tissu adipeux mature et arrive au niveau des sections chirurgicales
+T97	sosy 2315 2354	prolifération tumorale très mal limitée
+T10	examen 2490 2513	actine musculaire lisse
+T99	sosy 2405 2513	cellules stromales et péri-vasculaires sont fortement positives pour la desmine et l’actine musculaire lisse
+T100	pathologie 2656 2687	angiomyxome agressif récidivant
+A5	etat T100 présent
+A6	assertion T100 possible
+T101	sosy 2519 2634	cellules tumorales exprimaient aussi de façon diffuse les récepteurs hormonaux aux oestrogènes et à la progestérone
+T104	examen 2693 2698	suivi
+T105	moment 2881 2898	4 et 9 mois après
+T106	sosy 2914 2994	comblement de l’atmosphère cellulo-adipeuse latéro-rectale gauche et postérieure
+A7	assertion T76 possible
+T107	moment 3120 3131	dans 6 mois
+T109	examen 3092 3109	prochain contrôle
+T110	sosy 73 88	ménométrorragie
+T111	sosy 195 240	formation vaginale pseudokystique gélatineuse
+T112	pathologie 288 308	angiomyxome agressif
+T113	sosy 1306 1312	tumeur
+T114	sosy 1659 1665	tumeur

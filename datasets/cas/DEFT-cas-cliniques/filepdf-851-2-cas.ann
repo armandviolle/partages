@@ -1,0 +1,6 @@
+T1	genre 0 7	Patient
+T2	age 15 21	42 ans
+A1	genre T1 masculin
+T3	origine 50 103	anémie ferriprive sans signes d’hémorragie décelables
+T4	issue 1118 1260	L’évolution à court et à long terme a été sans complications avec un séjour hospitalier postopératoire de 21 jours et un recul actuel de 4 ans
+A2	issue T4 guérison

@@ -1,0 +1,98 @@
+T1001	anatomie 72 97	abdominales épigastriques
+T10014	anatomie 2454 2465	tissu rénal
+T10064	examen 443 473	radiographie d’abdomen de face
+T10070	examen 1820 1834	artériographie
+T10071	examen 1969 1989	examen microscopique
+T10073	examen 2399 2418	microscopie optique
+T100101	mode 1876 1907	voie antérieure bi sous-costale
+T100143	traitement 1852 1871	néphrectomie droite
+T100191	sosy 49 97	apparition de douleurs abdominales épigastriques
+T100192	sosy 512 545	présence de nombreux gaz coliques
+T100199	sosy 1653 1738	aspect d’encorbeillement autour de cette volumineuse masse sphérique peu vascularisée
+T100200	sosy 1791 1813	pathologie néoplasique
+T10016	sosy 103 160	perception d’un syndrome de masse du flanc droit palpable
+T10018	pathologie 202 238	algodystrophie de la cheville droite
+T10024	sosy 1085 1119	présence d’un rein en fer à cheval
+T10027	pathologie 2010 2016	tumeur
+T10031	valeur 2342 2360	entre 16 et 18 Kda
+T10032	examen 2085 2096	immunologie
+T10033	pathologie 2383 2393	hydatidose
+T2002	anatomie 140 151	flanc droit
+T2003	anatomie 275 283	osxseuse
+T2004	anatomie 561 567	rénale
+T2005	anatomie 596 625	cavités rénales du rein droit
+T2006	anatomie 834 852	aire rénale droite
+T2007	anatomie 875 890	cavités rénales
+T2008	anatomie 1099 1103	rein
+T2009	anatomie 1172 1200	pôle supérieur du rein droit
+T20010	anatomie 1582 1586	rein
+T20011	anatomie 1609 1636	rameaux polaires supérieurs
+T20015	anatomie 2631 2656	cellules parenchymateuses
+T20061	examen 261 283	scintigraphie osxseuse
+T20062	examen 309 323	interrogatoire
+T20063	examen 404 422	bilan radiologique
+T20065	examen 549 567	échographie rénale
+T20066	examen 750 772	scintigraphie au 99mTc
+T20067	examen 1304 1323	cliché radiologique
+T20068	examen 1049 1059	uroscanner
+T20069	examen 1510 1538	artériographie préopératoire
+T20072	examen 2252 2288	test de confirmation en Western-Blot
+T200144	traitement 1996 2016	exérèse de la tumeur
+T200181	pathologie 1465 1471	tumeur
+T200182	pathologie 1939 1954	tumeur kystique
+T200193	sosy 580 625	refoulement des cavités rénales du rein droit
+T200194	sosy 634 713	volumineuse masse transsonique avec aspect de vésicules et de cloisons internes
+T200195	sosy 806 852	hypofixation au niveau de l’aire rénale droite
+T200196	sosy 859 915	refoulement des cavités rénales vers le bas et le dedans
+T200197	sosy 1138 1200	volumineuse formation tumorale du pôle supérieur du rein droit
+T200198	sosy 1263 1299	masse hypodense d’allure liquidienne
+T20018	pathologie 171 182	antécédents
+T20020	anatomie 223 238	cheville droite
+T20021	moment 284 305	deux ans au préalable
+T20022	moment 356 373	40 ans auparavant
+T20023	anatomie 458 465	abdomen
+T20025	anatomie 972 977	reins
+T20026	sosy 937 977	caractère en fer à cheval des deux reins
+T20028	anatomie 1206 1215	vésicules
+T20029	examen 1348 1355	scanner
+T20030	sosy 1396 1413	syndrome de masse
+T20031	traitement 1418 1471	intervention chirurgicale d’exérèse large pour tumeur
+T20032	sosy 1582 1602	rein en fer à cheval
+T20034	sosy 2065 2080	kyste hydatique
+T20036	moment 2117 2135	en post-opératoire
+T20037	examen 2189 2217	technique d’hémagglutination
+T20038	examen 2221 2236	électrosynérèse
+T20039	valeur 2310 2315	7 Kda
+T20043	sosy 2432 2437	kyste
+T20013	valeur 2474 2493	sans particularités
+T20044	sosy 2454 2493	tissu rénal remanié sans particularités
+T20049	sosy 2913 2918	kyste
+T20051	examen 2843 2856	visualisation
+T20052	valeur 2238 2244	1 /640
+T1	sosy 2631 2665	cellules parenchymateuses altérées
+A1	norme T20013 normal
+T2	substance 767 772	99mTc
+T3	moment 1525 1538	préopératoire
+A2	assertion T100200 absent
+A3	assertion T200182 hypothétique
+T200199	etatsosy 63 97	douleurs abdominales épigastriques
+T200200	tumeur 1150 1168	formation tumorale
+T4	parasitaires 2383 2393	hydatidose
+T5	parasitaires 2065 2080	kyste hydatique
+T6	nerveux 202 238	algodystrophie de la cheville droite
+T7	digestif 524 545	nombreux gaz coliques
+T8	homme 1099 1119	rein en fer à cheval
+T9	genetique 1099 1119	rein en fer à cheval
+T10	genetique 1582 1602	rein en fer à cheval
+T11	homme 1582 1602	rein en fer à cheval
+T12	tumeur 2010 2016	tumeur
+T13	tumeur 1465 1471	tumeur
+T14	osteomusculaires 202 238	algodystrophie de la cheville droite
+T15	digestif 2383 2393	hydatidose
+T16	digestif 2065 2080	kyste hydatique
+T17	tumeur 2913 2918	kyste
+T18	tumeur 2432 2437	kyste
+T19	genre 8 15	patient
+T20	age 23 29	64 ans
+A4	genre T19 masculin
+T21	origine 47 160	l’apparition de douleurs abdominales épigastriques avec perception d’un syndrome de masse du flanc droit palpable

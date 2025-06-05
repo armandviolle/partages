@@ -1,0 +1,6 @@
+T1	genre 0 7	Patient
+T2	age 15 21	46 ans
+A1	genre T1 masculin
+T3	origine 52 164	Victime d’une chute de 03 mètres de hauteur, avec comme conséquence une section irréversible de la ME (voir Rx2)
+T4	issue 666 784	L’acquisition de l’autonomie était lente, entravé par des complications d’alitement et l’éloignement du foyer familial
+A2	issue T4 amélioration

@@ -1,0 +1,6 @@
+T1	genre 1325 1335	Le patient
+T2	issue 1786 1792	décédé
+T3	age 19 25	49 ans
+A1	genre T1 masculin
+A2	issue T2 décès
+T4	origine 83 208	des douleurs périnéales, accompagnées de dysurie, de pollakiurie évoluant dans un contexte de conservation de l’état général.

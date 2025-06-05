@@ -1,0 +1,6 @@
+T1	age 13 19	74 ans
+T2	genre 4 9	femme
+A1	genre T2 féminin
+T3	origine 47 74	une hématurie macroscopique
+T4	issue 1451 1536	Un an et demi après l'intervention, la patiente ne présentait aucun signe de récidive
+A2	issue T4 amélioration

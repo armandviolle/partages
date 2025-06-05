@@ -1,0 +1,107 @@
+T1	pathologie 148 161	diabète sucré
+A1	etat T1 familial
+A2	assertion T1 non-associé
+T2	date 188 201	décembre 1997
+T3	examen 219 232	échographique
+T4	pathologie 239 253	UHN bilatérale
+T5	anatomie 243 253	bilatérale
+T6	pathologie 288 309	«énurésie» secondaire
+A3	etat T6 passé
+T7	pathologie 315 337	brûlures mictionnelles
+A4	etat T7 passé
+T8	pathologie 342 371	syndrome polyuro-polydipsique
+A5	etat T8 passé
+T9	duree 401 421	une dizaine d’années
+T10	examen 457 463	examen
+T11	valeur 492 498	1,48 m
+T12	valeur 504 509	42 kg
+T13	sosy 467 510	retard staturo-pondéral (1,48 m pour 42 kg)
+T14	sosy 528 555	baisse de l’acuité visuelle
+T15	anatomie 547 555	visuelle
+T16	duree 567 577	à deux ans
+T17	examen 595 605	biologique
+T18	examen 621 625	urée
+T19	valeur 628 636	0.68 g/l
+T20	examen 642 652	créatinine
+T21	valeur 655 662	20 mg/l
+T22	examen 670 685	glycémie à jeun
+T23	valeur 688 696	1,55 g/l
+T24	examen 700 703	EBU
+T25	sosy 725 770	entérocoque sensible aux antibiotiques usuels
+T26	substance 750 763	antibiotiques
+T27	examen 774 780	U.I.V.
+T28	pathologie 794 825	U.H.N. avec une vessie de lutte
+T29	anatomie 810 816	vessie
+T30	examen 843 890	uréthro-cystographie rétrograde et mictionnelle
+T33	sosy 921 949	bonne perméabilité uréthrale
+T34	anatomie 940 949	uréthrale
+T35	sosy 966 988	reflux vésico-urétéral
+A6	assertion T35 absent
+T36	anatomie 973 988	vésico-urétéral
+T37	examen 1004 1022	bilan urodynamique
+T38	sosy 1038 1061	vessie hypercontractile
+T39	anatomie 1038 1044	vessie
+T40	sosy 1068 1100	disynergie vésico-sphinctérienne
+A7	assertion T40 absent
+T41	anatomie 1079 1100	vésico-sphinctérienne
+T42	examen 1105 1126	bilan ophtalmologique
+T43	anatomie 1111 1126	ophtalmologique
+T44	sosy 1149 1176	atrophie optique bilatérale
+T45	anatomie 1158 1176	optique bilatérale
+T46	pathologie 1201 1217	diabète insipide
+A8	assertion T46 absent
+T47	substance 1251 1259	insuline
+T48	substance 1263 1275	antibiotique
+T49	moment 1220 1246	Après mise sous traitement
+T51	traitement 1281 1309	sondage urinaire transitoire
+T52	anatomie 1289 1297	urinaire
+T53	examen 1338 1353	fonction rénale
+T54	anatomie 1347 1353	rénale
+T55	examen 1355 1368	créatininémie
+T56	valeur 1371 1378	13 mg/l
+T57	sosy 1324 1379	normaliser sa fonction rénale (créatininémie à 13 mg/l)
+T58	sosy 1407 1436	amélioration nette de l’U.H.N
+A9	assertion T58 absent
+T59	substance 1471 1499	traitement anticholinergique
+T60	moment 1524 1540	6 mois plus tard
+T61	examen 1544 1556	consultation
+T62	substance 1590 1600	traitement
+A10	prise T62 arrêt
+T63	pathologie 1604 1607	UHN
+T64	examen 1631 1646	fonction rénale
+T65	anatomie 1640 1646	rénale
+T66	valeur 1677 1685	0,57 g/l
+T67	examen 1688 1692	urée
+T68	valeur 1696 1703	19 mg/l
+T69	examen 1707 1717	créatinine
+T70	sosy 1631 1717	fonction rénale était de nouveau altérée avec 0,57 g/l d’urée et 19 mg/l de créatinine
+T71	substance 1751 1779	traitement anticholinergique
+A11	prise T71 reprise
+T72	examen 1816 1831	fonction rénale
+T73	anatomie 1825 1831	rénale
+T74	sosy 1796 1831	normalisation de la fonction rénale
+#1	AnnotatorNotes T4	urétérohydronéphrose
+#2	AnnotatorNotes T63	urétérohydronéphrose
+T32	sosy 621 636	urée à 0.68 g/l
+T50	sosy 642 662	créatinine à 20 mg/l
+T75	sosy 670 696	glycémie à jeun à 1,55 g/l
+T31	homme 289 297	énurésie
+T76	etatsosy 315 337	brûlures mictionnelles
+T77	homme 342 371	syndrome polyuro-polydipsique
+T78	etatsosy 467 490	retard staturo-pondéral
+T79	oeil 528 555	baisse de l’acuité visuelle
+T80	infections 725 736	entérocoque
+T81	homme 239 253	UHN bilatérale
+T82	homme 794 825	U.H.N. avec une vessie de lutte
+T83	etatsosy 1149 1176	atrophie optique bilatérale
+T84	homme 1604 1607	UHN
+T85	homme 315 337	brûlures mictionnelles
+T86	nerveux 528 555	baisse de l’acuité visuelle
+T87	homme 1038 1061	vessie hypercontractile
+T88	oeil 1149 1176	atrophie optique bilatérale
+T89	genre 15 22	patient
+A12	genre T89 masculin
+T90	age 30 36	17 ans
+T91	origine 235 253	une UHN bilatérale
+T92	issue 1720 1831	On décida la réintroduction du traitement anticholinergique avec de nouveau normalisation de la fonction rénale
+A13	issue T92 stable

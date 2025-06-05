@@ -1,0 +1,6 @@
+T1	genre 285 301	ce jeune patient
+T2	age 52 58	14 ans
+A1	genre T1 masculin
+T3	origine 67 121	une chute à califourchon sur le cadre de sa bicyclette
+T4	issue 1281 1384	Revu à deux mois et à un an, ce jeune patient conservait des érections spontanées normales et indolores
+A2	issue T4 amélioration

@@ -1,0 +1,181 @@
+T1	sosy 72 104	transmissions virales hépatiques
+A1	assertion T1 hypothétique
+T2	anatomie 94 104	hépatiques
+T3	sosy 191 212	distension abdominale
+T4	anatomie 202 212	abdominale
+T5	sosy 228 254	douleur abdominale diffuse
+T6	anatomie 236 246	abdominale
+T7	sosy 264 293	œdèmes des membres inférieurs
+T8	anatomie 275 293	membres inférieurs
+T9	duree 319 333	depuis un mois
+T10	sosy 339 359	hémorragie digestive
+A2	assertion T10 absent
+T11	sosy 363 369	ictère
+A3	assertion T11 absent
+T12	sosy 373 392	troubles de transit
+A4	assertion T12 absent
+T13	sosy 467 475	apyrexie
+T14	sosy 431 461	conservation de l’état général
+T16	examen 479 494	examen clinique
+T17	sosy 514 536	subictère conjonctival
+T18	anatomie 524 536	conjonctival
+T19	sosy 543 564	hippocratisme digital
+T20	anatomie 557 564	digital
+T21	sosy 573 599	syndrome œdémato-ascitique
+T22	examen 604 632	ponction du liquide d’ascite
+T23	sosy 626 632	ascite
+T24	sosy 649 683	liquide pauvre en protide à 5,3g/l
+T25	valeur 677 683	5,3g/l
+T26	examen 693 718	étude cytobactériologique
+T27	sosy 724 733	anomalies
+A5	assertion T27 absent
+T28	examen 737 759	échographie abdominale
+T29	anatomie 749 759	abdominale
+T30	sosy 779 1000	foie dysmorphique d’échostructure hétérogène et de contours irréguliers avec un tronc porte dilaté mesurant 15mm de diamètre, siège d’une thrombose sub totale étendu à sa bifurcation et aux veines portes droites et gauche
+T31	anatomie 779 783	foie
+T32	anatomie 859 870	tronc porte
+T33	valeur 887 903	15mm de diamètre
+T34	anatomie 950 961	bifurcation
+T35	anatomie 969 1000	veines portes droites et gauche
+T36	sosy 1010 1036	ascite de grande abondance
+T37	sosy 1042 1055	splénomégalie
+A6	assertion T37 absent
+T38	examen 1060 1085	bilan biologique standard
+T39	sosy 1108 1163	anémie normochrome normocytaire à 10g /dl arégénérative
+T40	valeur 1142 1149	10g /dl
+T41	examen 1172 1196	biopsie ostéo-médullaire
+T42	anatomie 1180 1196	ostéo-médullaire
+T43	anatomie 1214 1220	moelle
+T44	sosy 1232 1261	lésion spécifique ou suspecte
+A7	assertion T44 absent
+T45	sosy 1214 1226	moelle riche
+T46	examen 1266 1286	taux de prothrombine
+T47	valeur 1303 1306	51%
+T48	sosy 1266 1306	taux de prothrombine a été diminué à 51%
+T49	examen 1316 1325	facteur V
+T50	valeur 1336 1339	45%
+T51	sosy 1316 1339	facteur V diminué à 45%
+T52	examen 1345 1360	hypoalbuminémie
+T53	valeur 1363 1368	13g/l
+T54	sosy 1345 1368	hypoalbuminémie à 13g/l
+T55	examen 1374 1386	hypocalcémie
+T56	valeur 1389 1395	75mg/l
+T57	sosy 1374 1395	hypocalcémie à 75mg/l
+T58	examen 1401 1415	hypoprotidémie
+T59	valeur 1418 1424	65g /l
+T60	sosy 1401 1424	hypoprotidémie à 65g /l
+T61	examen 1430 1443	transaminases
+T62	examen 1473 1477	ALAT
+T63	valeur 1478 1482	1,2N
+T64	examen 1484 1488	ASAT
+T65	valeur 1489 1493	2,6N
+T66	examen 1503 1513	cholestase
+T67	examen 1523 1526	PAL
+T68	examen 1533 1536	GGT
+T69	examen 1541 1543	BT
+T70	valeur 1544 1549	1,15N
+T71	valeur 1537 1539	3N
+T72	valeur 1527 1531	3,2N
+T73	sosy 1430 1573	transaminases étaient légèrement élevées : ALAT=1,2N, ASAT=2,6N avec une cholestase minime : PAL=3,2N, GGT=3N, BT=1,15N à prédominance conjugué
+T74	examen 1579 1618	sérologies virales de l’hépatite B et C
+T75	pathologie 1603 1618	hépatite B et C
+T76	examen 1633 1657	marqueurs immunologiques
+T77	examen 1663 1688	anticorps anti nucléaires
+T78	examen 1690 1699	anti KLM1
+T79	examen 1701 1718	anti muscle lisse
+T80	examen 1723 1749	anti mitochondries type M2
+T82	sosy 1633 1767	marqueurs immunologiques (les anticorps anti nucléaires, anti KLM1, anti muscle lisse, et anti mitochondries type M2) étaient négatifs
+T83	examen 1772 1794	bilan de thrombophilie
+T84	pathologie 1781 1794	thrombophilie
+T85	examen 1820 1830	proteine S
+T86	valeur 1832 1835	44%
+T87	examen 1841 1851	proteine C
+T88	valeur 1853 1856	60%
+T89	examen 1864 1881	antithrombine III
+T90	valeur 1883 1886	49%
+T91	sosy 1809 1887	déficit en proteine S (44%), en proteine C (60%) et en antithrombine III (49%)
+T92	examen 1892 1922	fibroscopie œsogastroduodénale
+T93	anatomie 1904 1922	œsogastroduodénale
+T94	sosy 1948 1969	varices œsophagiennes
+A8	assertion T94 absent
+T95	sosy 1976 2011	gastropathie d’hypertension portale
+T96	anatomie 1956 1969	œsophagiennes
+T97	sosy 2032 2079	aspect en écaille de poisson au niveau duodénal
+T98	anatomie 2071 2079	duodénal
+T99	examen 2083 2145	étude anatomopathologique des prélèvements biopsiques duodénal
+T100	anatomie 2137 2145	duodénal
+T101	sosy 2161 2216	atrophie villositaire sub totale de type 3b selon March
+T102	valeur 2197 2204	type 3b
+T103	sosy 2226 2256	lymphocytose intra-épithéliale
+T104	anatomie 2239 2256	intra-épithéliale
+T105	examen 2261 2334	recherche des anticorps anti transglutaminase type IgA et anti endomysium
+T107	sosy 2261 2363	recherche des anticorps anti transglutaminase type IgA et anti endomysium dans le serum était positive
+T108	examen 2383 2416	données cliniques et paraclinique
+T109	pathologie 2449 2518	cirrhose hépatique cryptogénique en décompensation oedémato ascitique
+T110	anatomie 2458 2467	hépatique
+T111	sosy 2535 2566	syndrome d’hypertension portale
+T112	anatomie 2559 2566	portale
+T113	pathologie 2576 2593	thrombose portale
+T114	anatomie 2586 2593	portale
+T115	pathologie 2610 2623	coagulopathie
+T116	pathologie 2641 2657	maladie cœliaque
+T118	pathologie 2663 2671	cirrhose
+T119	examen 2686 2694	Child B8
+T120	substance 2722 2738	régime sans sels
+T121	substance 2740 2751	diurétiques
+T122	substance 2755 2773	antibioprophylaxie
+T123	examen 2785 2826	taux de protides dans le liquide d’ascite
+T124	valeur 2833 2840	<10g/dl
+T125	sosy 2785 2840	taux de protides dans le liquide d’ascite était <10g/dl
+T126	substance 2849 2867	régime sans gluten
+T127	duree 2868 2873	à vie
+T128	substance 2887 2911	traitement anticoagulant
+T129	substance 2920 2936	’antivitamines K
+T130	duree 2937 2942	à vie
+T131	sosy 2977 2999	régression de l’ascite
+T132	examen 3022 3066	taux des protéines S, C et antithrombine III
+T133	sosy 3005 3066	normalisation du taux des protéines S, C et antithrombine III
+A9	assertion T133 absent
+T134	pathologie 3079 3092	thrombophilie
+A10	assertion T75 absent
+A11	assertion T95 absent
+T81	anatomie 2004 2011	portale
+T106	anatomie 121 129	dentaire
+T135	anatomie 350 359	digestive
+T136	valeur 1759 1767	négatifs
+T137	valeur 2355 2363	positive
+T15	anatomie 2089 2108	anatomopathologique
+T138	anatomie 2343 2348	serum
+T117	valeur 3005 3018	normalisation
+T139	etatsosy 228 246	douleur abdominale
+T140	etatsosy 191 212	distension abdominale
+T141	etatsosy 264 293	œdèmes des membres inférieurs
+T142	etatsosy 626 632	ascite
+T143	etatsosy 1010 1036	ascite de grande abondance
+T144	cardiovasculaires 917 926	thrombose
+T145	digestif 779 796	foie dysmorphique
+T146	hemopathies 1108 1163	anémie normochrome normocytaire à 10g /dl arégénérative
+T147	nutritionnelles 1374 1386	hypocalcémie
+T148	digestif 1503 1513	cholestase
+T149	hemopathies 2226 2256	lymphocytose intra-épithéliale
+T150	digestif 2449 2518	cirrhose hépatique cryptogénique en décompensation oedémato ascitique
+T151	digestif 2535 2566	syndrome d’hypertension portale
+T152	cardiovasculaires 2576 2593	thrombose portale
+T153	hemopathies 2610 2623	coagulopathie
+T154	digestif 2641 2657	maladie cœliaque
+T155	digestif 2663 2671	cirrhose
+T156	hemopathies 3079 3092	thrombophilie
+T157	etatsosy 514 536	subictère conjonctival
+T158	osteomusculaires 543 564	hippocratisme digital
+T159	etatsosy 779 796	foie dysmorphique
+T160	hemopathies 1345 1360	hypoalbuminémie
+T161	etatsosy 1345 1360	hypoalbuminémie
+T162	hemopathies 1401 1415	hypoprotidémie
+T163	etatsosy 2161 2182	atrophie villositaire
+T165	nutritionnelles 2641 2657	maladie cœliaque
+T164	genre 16 24	patiente
+A12	genre T164 féminin
+T166	age 33 39	54 ans
+T167	origine 187 475	une distension abdominale associée à une douleur abdominale diffuse avec des œdèmes des membres inférieurs évoluant progressivement depuis un mois sans hémorragie digestive ni ictère ni troubles de transit, le tout évoluant dans un contexte de conservation de l’état général et d’apyrexie
+T169	issue 2944 3093	L’évolution a été marquée par la régression de l’ascite sans normalisation du taux des protéines S, C et antithrombine III (terrain de thrombophilie)
+A14	issue T169 stable

@@ -1,0 +1,6 @@
+T1	genre 0 8	Monsieur
+T2	age 20 26	68 ans
+A1	genre T1 masculin
+T3	origine 1322 1401	épididymite chronique avec une induration céphalique douloureuse et invalidante
+T4	issue 2333 2397	Six mois plus tard, les cultures de mycobactéries sont négatives
+A2	issue T4 amélioration

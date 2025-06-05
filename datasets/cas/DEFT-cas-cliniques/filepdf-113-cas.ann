@@ -1,0 +1,6 @@
+T1	genre 0 8	Patiente
+T2	age 17 23	50 ans
+A1	genre T1 féminin
+T3	origine 110 169	hématurie totale récidivante, évoluant depuis un an, isolée
+T4	issue 1419 1445	Les suites ont été simples
+A2	issue T4 amélioration

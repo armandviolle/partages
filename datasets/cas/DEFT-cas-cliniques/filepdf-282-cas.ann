@@ -1,0 +1,6 @@
+T1	age 15 21	47 ans
+T2	genre 285 295	Le patient
+A1	genre T2 masculin
+T3	origine 38 69	une rétention vésicale complète
+T4	issue 3674 3838	Après un recul de 36 mois, il garde une symptomatologie urinaire essentiellement à type de brûlures mictionnelles sans métastase au dernier contrôle scannographique
+A2	issue T4 stable

@@ -1,0 +1,102 @@
+T37	anatomie 1050 1060	parenchyme
+T47	anatomie 1094 1104	péri rénal
+T36	traitement 1157 1163	opérée
+T42	substance 1278 1298	produit de contraste
+T31	anatomie 1315 1339	jonction pyélo-urétérale
+T17	anatomie 1361 1376	cavités rénales
+T32	anatomie 1453 1477	jonction pyélo-urétérale
+T11	anatomie 1882 1890	bassinet
+T30	mode 2153 2166	intraveineuse
+T58	moment 2176 2184	à 3 mois
+T45	anatomie 2211 2226	pyélo-urétérale
+T18	sosy 279 289	consciente
+T105	sosy 291 315	hémodynamiquement stable
+T5	sosy 319 329	apyrétique
+T3	anatomie 363 370	abdomen
+T69	anatomie 409 430	fosse lombaire droite
+T19	sosy 463 479	contact lombaire
+T34	anatomie 471 479	lombaire
+T128	anatomie 494 501	cutanée
+T54	anatomie 572 578	urines
+T14	sosy 601 630	bilan biologique était normal
+T15	examen 601 617	bilan biologique
+T35	valeur 624 630	normal
+T70	osteomusculaires 674 725	fractures de l'arc postérieur de K10 et K11 droites
+T25	anatomie 689 725	arc postérieur de K10 et K11 droites
+T28	sosy 734 754	hématome sous cutané
+T53	anatomie 743 754	sous cutané
+T1	sosy 771 790	épanchement pleural
+T38	anatomie 783 790	pleural
+T131	anatomie 824 841	cavité abdominale
+T29	anatomie 872 881	hépatique
+T50	anatomie 896 909	rénale gauche
+T94	anatomie 952 973	hilaire rénale droite
+T41	substance 977 997	produit de contraste
+T12	genre 4 9	femme
+A1	genre T12 féminin
+T13	age 13 19	37 ans
+T4	examen 483 501	inspection cutanée
+A2	assertion T19 absent
+T6	examen 333 348	examen clinique
+T7	examen 810 841	analyse de la cavité abdominale
+A3	assertion T1 absent
+T16	sosy 794 806	pneumothorax
+A4	assertion T16 absent
+T20	anatomie 1022 1041	uretère sous jacent
+T21	sosy 1085 1104	hématome péri rénal
+A5	assertion T21 absent
+T23	examen 1216 1247	urétéro-pyélographie rétrograde
+T2	anatomie 1814 1821	uretère
+T8	examen 2142 2166	urographie intraveineuse
+T9	examen 1402 1415	urétéroscopie
+T10	traitement 1344 1376	cathétérisme des cavités rénales
+T24	blessures 1430 1477	rupture complète de la jonction pyélo-urétérale
+T26	moment 1175 1209	moins de 6 heures après l'accident
+T27	etatsosy 734 754	hématome sous cutané
+T33	examen 572 578	urines
+T39	anatomie 390 401	hypochondre
+T22	etatsosy 363 381	abdomen douloureux
+T40	sosy 363 381	abdomen douloureux
+T43	sosy 674 725	fractures de l'arc postérieur de K10 et K11 droites
+T44	examen 634 660	examen tomodensitométrique
+T46	sosy 517 529	dermabrasion
+T48	sosy 863 909	atteinte hépatique, splénique et rénale gauche
+A6	assertion T48 absent
+T49	anatomie 883 892	splénique
+T51	etatsosy 938 997	extravasation hilaire rénale droite de produit de contraste
+T52	blessures 938 997	extravasation hilaire rénale droite de produit de contraste
+T55	sosy 938 997	extravasation hilaire rénale droite de produit de contraste
+T56	sosy 1003 1041	opacification de l'uretère sous jacent
+A7	assertion T56 absent
+T57	sosy 1050 1067	parenchyme intact
+T59	sosy 1263 1339	large fuite de produit de contraste au niveau de la jonction pyélo-urétérale
+T60	dispositif 1608 1615	trocart
+T61	dispositif 1544 1552	trocarts
+T62	dispositif 1940 1954	sonde double J
+T63	dispositif 1961 1975	drain de redon
+T64	moment 2068 2080	au 7ème jour
+T65	dispositif 2085 2099	sonde double J
+T66	moment 2114 2135	au bout de 4 semaines
+T67	valeur 1619 1624	10 mm
+T68	valeur 1634 1638	5 mm
+T71	valeur 1681 1686	10 mm
+T72	blessures 674 725	fractures de l'arc postérieur de K10 et K11 droites
+T73	femme 1430 1477	rupture complète de la jonction pyélo-urétérale
+T74	sosy 390 459	hypochondre et une fosse lombaire droites plus sensibles sans défense
+T75	valeur 587 594	claires
+T76	sosy 572 594	urines étaient claires
+T77	mode 1237 1247	rétrograde
+T78	traitement 1498 1535	installée en décubitus latéral gauche
+T79	anatomie 1521 1535	latéral gauche
+T80	traitement 1537 1602	quatre trocarts étaient positionnés en position rétro-péritonéale
+T81	anatomie 1585 1602	rétro-péritonéale
+T82	anatomie 1646 1673	ligne axillaire postérieure
+T83	anatomie 1694 1747	ligne axillaire moyenne au dessus de la crête iliaque
+T84	anatomie 1783 1809	ligne axillaire antérieure
+T85	traitement 1814 1835	uretère était spatulé
+T86	dispositif 1917 1935	fil résorbable 4/0
+T87	traitement 1868 1935	anastomosé au bassinet par des points séparés de fil résorbable 4/0
+T88	traitement 1940 2000	sonde double J et un drain de redon étaient laissés en place
+T89	traitement 2085 2113	sonde double J était retirée
+T90	sosy 2200 2235	réparation pyélo-urétérale parfaite
+T91	sosy 1430 1477	rupture complète de la jonction pyélo-urétérale

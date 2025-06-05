@@ -1,0 +1,6 @@
+T1	genre 0 3	Mme
+T2	age 8 14	54 ans
+A1	genre T1 féminin
+T3	origine 51 180	une pyélonéphrite aiguë obstructive droite à Escherichia Coli confirmée par examen cytobactériologique des urines et hémocultures
+T4	issue 2182 2266	l’UIV de contrôle à cinq ans ne retrouve qu’une discrète hypotonie du bassinet droit
+A2	issue T4 amélioration

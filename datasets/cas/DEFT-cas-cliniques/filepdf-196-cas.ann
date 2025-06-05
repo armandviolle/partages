@@ -1,0 +1,85 @@
+T15	examen 1000 1031	scanner thoraco-abdominopelvien
+T20	anatomie 1008 1031	thoraco-abdominopelvien
+T17	examen 1050 1071	scintigraphie osseuse
+T14	examen 1341 1361	examen microscopique
+T24	anatomie 1418 1425	vésical
+T16	examen 1536 1568	scanner thoraco-abdomino-pelvien
+T21	anatomie 1544 1568	thoraco-abdomino-pelvien
+T18	examen 457 477	échographie vésicale
+T12	examen 884 927	examen microscopique des fragments biopsiés
+T23	anatomie 955 962	vésical
+T6	anatomie 469 477	vésicale
+T8	anatomie 1064 1071	osseuse
+T27	examen 296 312	bilan biologique
+T28	examen 967 984	bilan d’extension
+T30	examen 1513 1534	contrôle radiologique
+T31	examen 238 253	examen clinique
+T32	examen 416 453	examen cytobactériologique des urines
+T33	examen 1128 1228	examen extemporané des ganglions iliaques obturateurs externes et de la tranche de section uréthrale
+T34	examen 560 597	exploration endoscopique de la vessie
+T36	valeur 260 266	normal
+T37	valeur 1078 1084	normal
+T19	sosy 95 112	hématurie massive
+T45	sosy 137 156	irritation vésicale
+T46	anatomie 148 156	vésicale
+T47	sosy 194 202	apyrexie
+T48	sosy 208 234	amaigrissement non chiffré
+A3	norme T36 normal
+T10	sosy 282 291	hématurie
+T49	valeur 343 351	8,3 g/dl
+T50	examen 356 366	hémogramme
+T51	sosy 374 411	infection urinaire (Echerichia. Coli)
+T52	anatomie 384 392	urinaire
+T11	anatomie 514 527	intra vésical
+T41	sosy 493 555	processus hétérogène intra vésical d’environ 80 mm de diamètre
+T54	anatomie 591 597	vessie
+T55	traitement 605 629	stérilisation des urines
+T42	pathologie 655 783	tumeur blanchâtre, ulcéro-bourgeonnante, à large base d’implantation siégeant dans la paroi postéro latérale gauche de la vessie
+T57	anatomie 741 770	paroi postéro latérale gauche
+T58	anatomie 777 783	vessie
+T59	anatomie 790 805	méats urétéraux
+T61	traitement 826 864	résection trans-uréthrale de la tumeur
+T62	mode 836 851	trans-uréthrale
+T63	sosy 858 864	tumeur
+T64	pathologie 940 962	léiomyosarcome vésical
+A5	norme T37 normal
+T26	traitement 1090 1109	cystoprostatectomie
+T13	anatomie 1151 1190	ganglions iliaques obturateurs externes
+T39	anatomie 1200 1228	tranche de section uréthrale
+T66	traitement 1261 1279	entérocystoplastie
+T67	pathologie 1403 1425	léiomyosarcome vésical
+T68	sosy 1431 1458	envahissement ganglionnaire
+T69	anatomie 1445 1458	ganglionnaire
+A6	assertion T68 absent
+T38	sosy 1613 1621	récidive
+T40	sosy 1625 1634	métastase
+A7	assertion T38 absent
+A8	assertion T40 absent
+T70	valeur 530 555	environ 80 mm de diamètre
+T71	frequence 1579 1594	tout les 6 mois
+T1	sosy 26 50	antécédents particuliers
+A1	assertion T1 absent
+T2	sosy 238 266	examen clinique était normal
+T3	sosy 790 820	méats urétéraux étaient libres
+T4	sosy 967 1084	bilan d’extension comprenant, un scanner thoraco-abdominopelvien (Figure 1) et une scintigraphie osseuse était normal
+T5	sosy 1127 1249	’examen extemporané des ganglions iliaques obturateurs externes et de la tranche de section uréthrale s’est révélé négatif
+T7	moment 1640 1659	un recul de 32 mois
+T9	sosy 334 351	anémie à 8,3 g/dl
+T22	anatomie 447 453	urines
+T25	anatomie 623 629	urines
+T29	valeur 1242 1249	négatif
+T35	etatsosy 95 112	hématurie massive
+T43	infections 374 411	infection urinaire (Echerichia. Coli)
+T44	etatsosy 282 291	hématurie
+T53	homme 95 112	hématurie massive
+T56	homme 282 291	hématurie
+T60	tumeur 858 864	tumeur
+T65	tumeur 940 962	léiomyosarcome vésical
+T72	tumeur 1403 1425	léiomyosarcome vésical
+T73	hemopathies 334 340	anémie
+T74	age 13 19	49 ans
+T75	genre 6 9	âgé
+A2	genre T75 masculin
+T76	origine 95 234	hématurie massive associée à des signes d’irritation vésicale, le tout évoluant dans un contexte d’apyrexie et d’amaigrissement non chiffré
+T77	issue 1472 1659	L’évolution clinique était favorable. Le contrôle radiologique (scanner thoraco-abdomino-pelvien) effectué tout les 6 mois n’avait montré ni récidive ni métastase avec un recul de 32 mois
+A4	issue T77 amélioration

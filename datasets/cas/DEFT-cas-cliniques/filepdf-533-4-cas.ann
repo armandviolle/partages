@@ -1,0 +1,34 @@
+T3	moment 1026 1045	peu avant les faits
+T1	chimiques 1111 1114	GHB
+T6	moment 343 355	le lendemain
+T10	anatomie 491 495	sang
+T8	examen 609 631	prélèvement de cheveux
+T4	anatomie 624 631	cheveux
+T7	anatomie 671 679	phanères
+T9	examen 688 706	recherche de G H B
+T2	moment 835 850	avant les faits
+T5	anatomie 860 867	cheveux
+T14	genre 10 15	fille
+A1	genre T14 féminin
+T11	nerveux 151 163	inconscience
+T15	etatsosy 151 163	inconscience
+T16	moment 164 182	peu de temps après
+T12	anatomie 501 506	urine
+T13	moment 571 605	plusieurs semaines après les faits
+T17	examen 659 679	analyse des phanères
+T18	substance 701 706	G H B
+T19	valeur 777 786	5,5 ng/mg
+T20	valeur 893 902	1,8 ng/mg
+A2	norme T19 haut
+T21	examen 716 769	concentration dans le segment correspondant aux faits
+T22	dose 1136 1141	10 ml
+T23	nerveux 392 406	aucun souvenir
+T24	etatsosy 392 406	aucun souvenir
+T25	chimiques 1067 1082	Ecstasy liquide
+T26	substance 103 121	boisson alcoolisée
+T27	moment 122 133	vers minuit
+T28	substance 439 471	boisson alcoolisée de type punch
+T29	sosy 716 786	concentration dans le segment correspondant aux faits est de 5,5 ng/mg
+T30	sosy 151 163	inconscience
+T31	substance 1067 1082	Ecstasy liquide
+T32	substance 1111 1114	GHB

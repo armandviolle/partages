@@ -1,0 +1,6 @@
+T1	genre 0 3	Mme
+T2	age 10 16	45 ans
+A1	genre T1 féminin
+T3	origine 97 227	une tumeur de la rate diagnostiquée sur l'échographie abdominale (masse hétérogène mixte avec végétation endokystique de 63/67 mm)
+T4	issue 1201 1229	L'évolution était favorable.
+A2	issue T4 amélioration

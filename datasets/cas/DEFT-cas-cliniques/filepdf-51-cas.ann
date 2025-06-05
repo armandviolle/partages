@@ -1,0 +1,6 @@
+T1	genre 0 12	Une patiente
+T2	age 22 28	62 ans
+T3	issue 2296 2303	décédée
+A1	genre T1 féminin
+A2	issue T3 décès
+T4	origine 1363 1528	une masse sous-cutanée était apparue en fosse lombaire droite au niveau de l’orifice du trocart inféro-postérieur par lequel ont été extraites les pièces opératoires

@@ -1,0 +1,6 @@
+T1	genre 0 8	Monsieur
+T2	issue 1563 1569	décédé
+T3	age 21 27	26 ans
+A1	genre T1 masculin
+A2	issue T2 décès
+T4	origine 175 226	une douleur abdominale diffuse, d’intensité modérée

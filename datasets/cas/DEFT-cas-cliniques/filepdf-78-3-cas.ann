@@ -1,0 +1,6 @@
+T1	age 13 19	69 ans
+T2	genre 225 235	le patient
+A1	genre T2 masculin
+T3	origine 116 190	des douleurs lombaires droites, fièvre et frissons évoluant depuis 3 jours
+T4	issue 1302 1426	Le patient a quitté le service au 10ème jour sous insulinothérapie et antibiothérapie, le contrôle TDM à 2 mois était normal
+A2	issue T4 amélioration

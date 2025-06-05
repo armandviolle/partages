@@ -1,0 +1,6 @@
+T1	genre 0 3	Mme
+T2	age 19 25	41 ans
+A1	genre T1 féminin
+T3	origine 60 97	des lombalgies droites sans hématurie
+T4	issue 879 930	L’évolution était favorable avec un recul de 10 ans
+A2	issue T4 amélioration

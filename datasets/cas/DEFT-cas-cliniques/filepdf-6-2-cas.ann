@@ -1,0 +1,80 @@
+T3	genre 0 5	Femme
+T8	etatsosy 100 122	prolapsus de stade III
+T31	traitement 1057 1091	néphrectomie totale élargie droite
+T22	anatomie 1085 1091	droite
+T85	tumeur 1097 1111	tumeur maligne
+T40	valeur 113 122	stade III
+T30	traitement 1140 1152	néphrectomie
+T24	examen 1157 1172	fonction rénale
+T37	anatomie 1166 1172	rénale
+T19	examen 1201 1214	créatininémie
+T118	age 14 20	75 ans
+T44	anatomie 181 189	urinaire
+T4	cardiovasculaires 224 247	hypertension artérielle
+T12	anatomie 237 247	artérielle
+T16	traitement 274 293	chirurgie viscérale
+T2	etatsosy 299 330	douleurs de l'hypochondre droit
+T20	anatomie 313 330	hypochondre droit
+T11	etatsosy 334 346	vomissements
+T35	anatomie 363 369	rénale
+T68	examen 390 409	créatinine sanguine
+T38	anatomie 401 409	sanguine
+T9	etatsosy 467 489	prolapsus de stade III
+T41	valeur 480 489	stade III
+T1	etatsosy 523 580	dilatation bilatérale des cavités urétéropyélocalicielles
+T13	anatomie 534 544	bilatérale
+T15	anatomie 549 580	cavités urétéropyélocalicielles
+T27	sosy 602 650	masse hétérogène du pôle supérieur du rein droit
+T32	anatomie 622 650	pôle supérieur du rein droit
+T39	examen 674 681	scanner
+T7	etatsosy 699 708	prolapsus
+T28	traitement 714 765	mise en place d'un pessaire et d'une sonde vésicale
+T130	dispositif 751 765	sonde vésicale
+T47	anatomie 757 765	vésicale
+T23	examen 789 804	fonction rénale
+T36	anatomie 798 804	rénale
+T18	examen 809 819	créatinine
+T69	moment 861 878	Un mois plus tard
+T26	traitement 884 904	hystérectomie totale
+T46	mode 909 919	voie basse
+A1	genre T3 féminin
+T5	sosy 168 189	incontinence urinaire
+A2	assertion T5 absent
+T6	duree 79 96	depuis trente ans
+T10	femme 100 122	prolapsus de stade III
+T14	femme 350 369	insuffisance rénale
+T17	valeur 412 422	203 µmol/l
+T25	femme 467 489	prolapsus de stade III
+T29	examen 437 452	examen clinique
+A3	norme T17 haut
+#1	AnnotatorNotes T17	Normal entre 50 et 100 mmol/L (femme)
+T33	examen 498 509	échographie
+T21	traitement 686 708	réduction du prolapsus
+T34	femme 699 708	prolapsus
+T42	dispositif 733 741	pessaire
+T43	valeur 831 841	140 µmol/l
+A4	norme T43 haut
+T45	duree 842 859	en quelques jours
+T48	traitement 938 965	spinofixation selon Richter
+T49	traitement 967 1001	colpopexie antérieure selon Stamey
+T50	traitement 1005 1028	colpectomie postérieure
+T51	moment 1030 1051	Si semaines plus tard
+T52	valeur 1217 1227	186 µmol/l
+A5	norme T52 haut
+T56	substance 426 431	sérum
+T53	mode 54 64	voie basse
+T54	anatomie 284 293	viscérale
+T55	sosy 350 380	insuffisance rénale est sévère
+T57	sosy 390 431	créatinine sanguine à 203 µmol/l de sérum
+A6	assertion T27 hypothétique
+T58	sosy 809 841	créatinine baissant à 140 µmol/l
+T59	anatomie 978 988	antérieure
+T60	sosy 1201 1227	créatininémie à 186 µmol/l
+T61	pathologie 100 122	prolapsus de stade III
+T62	pathologie 224 247	hypertension artérielle
+T63	sosy 299 330	douleurs de l'hypochondre droit
+T64	sosy 334 346	vomissements
+T65	pathologie 467 489	prolapsus de stade III
+T66	sosy 523 580	dilatation bilatérale des cavités urétéropyélocalicielles
+T67	pathologie 699 708	prolapsus
+T70	pathologie 1097 1111	tumeur maligne

@@ -1,0 +1,6 @@
+T1	genre 12 24	une patiente
+T2	age 28 34	34 ans
+A1	genre T1 féminin
+T3	origine 123 179	des douleurs pelviennes associés à des méno-métrorragies
+T4	issue 1444 1593	Le traitement était complété par une radiothérapie à la dose de 50 Gy en 25 fractions et une chimiothérapie à base d’adriamycine et de l’isofosfamide
+A2	issue T4 stable

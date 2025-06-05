@@ -1,0 +1,51 @@
+T15	examen 1001 1026	étude immunohistochimique
+T7	examen 322 337	examen clinique
+T10	examen 406 435	échographie abdominopelvienne
+T11	anatomie 418 435	abdominopelvienne
+T9	examen 548 583	tomodensitométrie abdominopelvienne
+T12	anatomie 566 583	abdominopelvienne
+T8	examen 877 904	examen anatomo-pathologique
+T14	anatomie 884 904	anatomo-pathologique
+T3	duree 97 108	depuis 1 an
+T13	sosy 113 139	douleurs lombaires droites
+T16	anatomie 122 139	lombaires droites
+T17	sosy 177 189	vomissements
+T18	sosy 205 228	hypertension artérielle
+A3	assertion T18 absent
+T19	anatomie 218 228	artérielle
+T20	sosy 235 249	flush syndrome
+A4	assertion T20 absent
+T21	sosy 354 402	masse lombaire douloureuse, ferme et mal limitée
+T22	anatomie 360 368	lombaire
+T24	sosy 449 479	masse rétro péritonéale droite
+T25	anatomie 455 479	rétro péritonéale droite
+T26	sosy 498 509	compression
+T27	sosy 513 543	refoulement hépatique et rénal
+T28	anatomie 525 543	hépatique et rénal
+T29	sosy 600 641	masse rétro péritonéale sus rénale droite
+T30	anatomie 606 641	rétro péritonéale sus rénale droite
+T31	traitement 719 747	exérèse de la masse tumorale
+T32	sosy 733 747	masse tumorale
+T33	anatomie 761 777	surrénale droite
+T34	traitement 786 822	drainage de la loge surrénale droite
+T35	anatomie 801 822	loge surrénale droite
+T36	sosy 918 946	prolifération fusocellulaire
+T37	anatomie 932 946	fusocellulaire
+T38	pathologie 984 994	schwannome
+T39	sosy 288 318	conservation de l’état général
+T41	anatomie 665 678	surrénalienne
+T42	sosy 952 971	signes de malignité
+A5	assertion T42 absent
+T1	pathologie 44 82	antécédents pathologiques particuliers
+A2	assertion T1 absent
+T2	moment 1057 1076	un recul de 27 mois
+T4	etatsosy 113 139	douleurs lombaires droites
+T5	etatsosy 177 189	vomissements
+T6	tumeur 733 747	masse tumorale
+T40	tumeur 984 994	schwannome
+T23	age 31 37	68 ans
+T43	genre 13 16	Mme
+A1	genre T43 féminin
+T44	origine 109 318	des douleurs lombaires droites d’installation progressive, avec des vomissements, sans signes d’hypertension artérielle ni de flush syndrome, le tout évoluant dans un contexte de conservation de l’état général
+T45	issue 1028 1076	L’évolution était bonne avec un recul de 27 mois
+A6	issue T45 amélioration

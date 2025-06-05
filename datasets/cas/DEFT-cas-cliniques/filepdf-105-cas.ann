@@ -1,0 +1,6 @@
+T1	age 13 19	53 ans
+T2	issue 1377 1385	décédait
+T3	genre 815 825	Le patient
+A1	genre T3 masculin
+A2	issue T2 décès
+T4	origine 89 137	masse abdominale et altération de l’état général

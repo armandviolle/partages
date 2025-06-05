@@ -1,0 +1,82 @@
+T8	examen 173 200	examen neurologique initial
+T6	examen 696 721	électrocardiogramme (ECG)
+T9	examen 363 382	fréquence cardiaque
+T10	examen 408 429	saturation en oxygène
+T11	examen 431 435	SpO2
+T12	valeur 440 444	98 %
+T13	valeur 391 400	100 b/min
+T14	valeur 347 358	100/60 mmHg
+T15	examen 319 338	pression artérielle
+T17	valeur 644 651	normaux
+T18	examen 515 534	examens biologiques
+T19	examen 536 563	numération formule sanguine
+T20	examen 565 575	ionogramme
+T21	examen 577 581	urée
+T22	examen 583 593	créatinine
+T23	examen 595 610	bilan hépatique
+T24	anatomie 601 610	hépatique
+T25	examen 612 629	bilan d’hémostase
+A4	norme T17 normal
+T26	examen 656 675	bilan toxicologique
+A5	assertion T26 absent
+T27	examen 749 768	fréquence cardiaque
+T28	valeur 777 786	110 b/min
+T29	sosy 37 46	agitation
+T30	sosy 50 73	trouble de comportement
+T31	sosy 105 113	obnubilé
+T32	sosy 157 169	dysarthrique
+T33	moment 75 88	À l’admission
+T34	anatomie 180 192	neurologique
+T35	pathologie 219 227	mydriase
+A6	assertion T35 absent
+T36	sosy 231 254	déficit sensitivomoteur
+T37	anatomie 239 254	sensitivomoteur
+T38	sosy 258 287	autres troubles neurologiques
+T39	anatomie 274 287	neurologiques
+A7	assertion T36 absent
+A8	assertion T38 absent
+T40	substance 948 980	D. stramonium verte avec graines
+T41	substance 1046 1057	hydratation
+T42	sosy 1094 1102	troubles
+T49	substance 447 454	oxygène
+T43	examen 122 138	score de Glasgow
+T44	valeur 148 153	12/15
+A9	norme T14 normal
+A10	norme T13 normal
+T45	sosy 488 509	apyrétique à 37,2 ° C
+A11	norme T28 normal
+T47	duree 1116 1137	en moins de 12 heures
+T1	sosy 122 153	score de Glasgow évalué à 12/15
+T2	examen 301 314	hémodynamique
+T3	valeur 501 509	37,2 ° C
+T7	sosy 793 814	trouble de conduction
+A1	assertion T7 absent
+T16	sosy 821 835	repolarisation
+A2	assertion T16 absent
+T46	examen 839 867	interrogatoire de la famille
+T4	sosy 696 744	électrocardiogramme (ECG) était sinusal régulier
+T5	sosy 749 786	fréquence cardiaque était à 110 b/min
+T48	sosy 515 651	examens biologiques (numération formule sanguine, ionogramme, urée, créatinine, bilan hépatique, bilan d’hémostase) sont revenus normaux
+T50	sosy 319 358	pression artérielle était à 100/60 mmHg
+T51	sosy 363 400	fréquence cardiaque était à 100 b/min
+T52	sosy 408 468	saturation en oxygène (SpO2 ) à 98 % d’oxygène à l’air libre
+T53	anatomie 328 338	artérielle
+T54	anatomie 373 382	cardiaque
+T55	anatomie 555 563	sanguine
+T56	anatomie 759 768	cardiaque
+A3	norme T44 bas
+A12	norme T3 normal
+T57	nerveux 37 46	agitation
+T58	etatsosy 37 46	agitation
+T59	nerveux 50 73	trouble de comportement
+T60	etatsosy 50 73	trouble de comportement
+T61	etatsosy 1094 1102	troubles
+T62	nerveux 157 169	dysarthrique
+T63	etatsosy 157 169	dysarthrique
+T64	chimiques 892 980	prise accidentelle de quantité imprécise de feuilles de D. stramonium verte avec graines
+T65	age 18 25	20 mois
+T66	genre 473 481	patiente
+A13	genre T66 féminin
+T67	origine 37 73	agitation et trouble de comportement
+T68	issue 1059 1137	L’évolution était favorable et les troubles ont régressé en moins de 12 heures
+A14	issue T68 guérison

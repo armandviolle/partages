@@ -1,0 +1,6 @@
+T1	genre 16 21	femme
+T2	age 25 31	73 ans
+T3	issue 731 737	décède
+A1	genre T1 féminin
+A2	issue T3 décès
+T4	origine 50 134	détresse respiratoire sur pneumothorax iatrogène post ponction pleurale exploratrice

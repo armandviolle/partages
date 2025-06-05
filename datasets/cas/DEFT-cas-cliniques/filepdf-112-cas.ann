@@ -1,0 +1,6 @@
+T1	age 17 23	45 ans
+T2	genre 0 2	Mr
+A1	genre T2 masculin
+T3	origine 114 161	un syndrome obstructif du bas appareil urinaire
+T4	issue 2171 2353	Les troubles mictionnels se sont améliorés et le résidu postmictionnel, mesuré par l’échographie, était de 100 ml. L’échographie rénale et l’urographie intraveineuse étaient normales
+A2	issue T4 guérison

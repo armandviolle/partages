@@ -1,0 +1,6 @@
+T1	genre 0 8	Monsieur
+T2	age 12 18	59 ans
+A1	genre T1 masculin
+T3	origine 53 180	douleurs fessières et pelviennes aiguës résistantes aux antalgiques habituels, survenue spontanément sans notion de traumatisme
+T4	issue 748 1008	L’évolution clinique a été favorable avec sédation complète des douleurs périnéales et régression progressive de l’hématome périnéal en 4 semaines. Une artériographie de contrôle a été réalisé à trois mois et n’a pas montré de reperméabilisation de l’anévrisme
+A2	issue T4 stable

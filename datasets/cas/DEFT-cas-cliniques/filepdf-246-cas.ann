@@ -1,0 +1,217 @@
+T24	anatomie 1008 1018	artérielle
+T31	frequence 105 114	chronique
+T22	traitement 1075 1094	anastomose veineuse
+T114	anatomie 1086 1094	veineuse
+T111	anatomie 1159 1169	vasculaire
+T115	anatomie 1219 1227	veineuse
+T83	traitement 1238 1261	reprise par deux points
+T61	valeur 1308 1315	normale
+T74	sosy 131 163	reflux vésico-urétéral bilatéral
+T77	anatomie 1319 1323	rein
+T42	examen 1367 1374	diurèse
+T117	anatomie 138 164	vésico-urétéral bilatéral.
+T116	anatomie 1399 1415	urétéro-vésicale
+T43	examen 1613 1620	diurèse
+T146	valeur 1621 1633	satisfaisant
+T44	examen 1658 1673	diurèse horaire
+T23	moment 1723 1756	13 heures après le retour du bloc
+T12	date 168 181	décembre 2002
+T45	examen 1781 1788	diurèse
+T11	valeur 1791 1799	120 ml/h
+T18	valeur 1822 1830	500 ml/h
+T46	examen 1840 1847	diurèse
+T52	examen 1906 1921	fonction rénale
+T93	anatomie 1915 1921	rénale
+T36	examen 1935 1948	créatininémie
+T37	examen 1988 2001	créatininémie
+T78	anatomie 2084 2088	rein
+T110	anatomie 2098 2107	vaisseaux
+T190	traitement 212 234	transplantation rénale
+T119	sosy 2161 2183	épanchement péri rénal
+T88	anatomie 2173 2183	péri rénal
+T62	valeur 2241 2248	normale
+T92	anatomie 228 234	rénale
+T176	traitement 2296 2303	dialyse
+T98	sosy 2363 2388	saignement par les drains
+T182	sosy 2472 2495	nécrose tubulaire aiguë
+T107	anatomie 2480 2489	tubulaire
+T175	substance 2528 2540	ciclosporine
+T112	anatomie 2554 2564	vasculaire
+T149	homme 2694 2728	insuffisance rénale aiguë anurique
+T94	anatomie 2707 2713	rénale
+T99	sosy 2742 2802	saignement abondant par les drains avec des caillots de sang
+T100	anatomie 2798 2802	sang
+T101	anatomie 2830 2838	sanguine
+T51	sosy 2853 2868	déglobulisation
+T95	anatomie 2989 3000	péri rénale
+T168	sosy 3009 3031	épanchement péritonéal
+T167	anatomie 3021 3031	péritonéal
+T87	traitement 3084 3104	reprise chirurgicale
+T68	anatomie 3160 3177	vaisseau pariétal
+T56	pathologie 3211 3237	hématome péri-rénal étendu
+T202	anatomie 3220 3230	péri-rénal
+T79	anatomie 3358 3362	rein
+T72	anatomie 3439 3453	pédicule rénal
+T80	anatomie 3504 3508	rein
+T103	traitement 3520 3526	suture
+T104	substance 3542 3552	traitement
+T113	anatomie 3644 3654	vasculaire
+T34	anatomie 3674 3683	corticale
+T29	mode 370 375	bolus
+T27	anatomie 3711 3730	deux berges du rein
+T60	substance 379 397	méthylprednisolone
+T28	examen 3794 3801	biopsie
+T30	frequence 38 47	chronique
+T183	sosy 3850 3873	nécrose tubulaire aiguë
+T108	anatomie 3858 3867	tubulaire
+T6	etatsosy 3882 3911	oedème interstitiel important
+T63	valeur 3996 4003	normale
+T7	dose 408 417	1 mg/kg/j
+T47	examen 4080 4087	diurèse
+T66	sosy 4112 4147	normalisation de la fonction rénale
+T53	examen 4132 4147	fonction rénale
+T96	anatomie 4141 4147	rénale
+T20	anatomie 4215 4231	intra-abdominale
+T118	moment 4247 4268	à 6 mois de la greffe
+T54	examen 4287 4302	fonction rénale
+T97	anatomie 4296 4302	rénale
+T64	valeur 4303 4310	normale
+T35	examen 4320 4346	clairance de la créatinine
+T70	examen 4365 4376	protéinurie
+T67	valeur 4377 4385	négative
+T2	cardiovasculaires 4393 4416	hypertension artérielle
+T25	anatomie 4406 4416	artérielle
+T105	substance 4438 4465	traitement antihypertenseur
+T172	substance 462 474	ciclosporine
+T16	dose 476 487	5,5 mg/kg/j
+T13	dose 500 506	125 mg
+T58	moment 507 515	le matin
+T8	dose 519 525	150 mg
+T173	substance 590 602	ciclosporine
+T9	date 58 68	04/04/1999
+T10	dose 703 706	2 g
+T174	substance 727 739	ciclosporine
+T26	moment 782 810	2 jours avant l'intervention
+T82	anatomie 842 852	rein droit
+T49	anatomie 863 869	artère
+T5	homme 85 114	insuffisance rénale chronique
+T102	valeur 908 927	sans particularités
+T76	anatomie 932 936	rein
+T57	traitement 943 951	implanté
+T55	anatomie 955 975	fosse iliaque droite
+T50	anatomie 877 882	veine
+T91	anatomie 98 104	rénale
+T21	traitement 997 1018	anastomose artérielle
+T1	age 12 18	28 ans
+T3	moment 526 533	le soir
+T4	duree 418 431	de J+1 à J+10
+T14	moment 398 402	à J0
+T15	substance 746 766	mycofénolate mofétil
+T17	anatomie 1045 1067	artère iliaque externe
+T32	anatomie 1122 1143	veine iliaque externe
+T48	traitement 1148 1169	déclampage vasculaire
+T59	traitement 1208 1227	anastomose veineuse
+T38	moment 1832 1836	A J0
+T39	valeur 1862 1870	5 400 ml
+A1	assertion T119 absent
+T19	valeur 1924 1931	60 mg/l
+T65	moment 1950 1955	A J+1
+A2	norme T19 normal
+T71	valeur 2010 2017	90 mg/l
+A3	norme T71 normal
+T75	examen 2023 2034	échodoppler
+T69	examen 2200 2215	ciclosporinémie
+T85	moment 2250 2255	A J+2
+T109	homme 2309 2315	anurie
+T120	sosy 26 47	hémodialysé chronique
+T122	traitement 1388 1449	anastomose urétéro-vésicale de type Lich-Grégoir sur sonde JJ
+T123	moment 2342 2347	A J+3
+T124	homme 2441 2447	anurie
+T128	etatsosy 2472 2495	nécrose tubulaire aiguë
+T129	moment 2648 2653	A J+5
+T125	sosy 2786 2802	caillots de sang
+T130	examen 2883 2894	échodoppler
+T40	etatsosy 3850 3873	nécrose tubulaire aiguë
+T41	moment 3772 3789	En per opératoire
+T73	moment 4148 4154	à J+24
+T81	moment 4088 4104	à partir de J+10
+T33	valeur 4349 4357	97 ml/mn
+T89	sosy 3882 3911	oedème interstitiel important
+T90	traitement 3145 3188	hémostase d'un vaisseau pariétal qui saigne
+T121	etatsosy 3211 3230	hématome péri-rénal
+T106	examen 4158 4181	échographie de contrôle
+A4	norme T33 normal
+T86	genre 186 193	patient
+A5	genre T86 masculin
+T84	substance 681 701	mycofénolate mofétil
+T126	frequence 706 708	/j
+T127	sosy 4204 4231	collection intra-abdominale
+A6	assertion T127 absent
+T131	homme 26 47	hémodialysé chronique
+T132	homme 131 163	reflux vésico-urétéral bilatéral
+T133	homme 1973 1981	anurique
+T134	etatsosy 2363 2373	saignement
+T135	etatsosy 2742 2761	saignement abondant
+T136	etatsosy 3009 3031	épanchement péritonéal
+T137	substance 331 348	immunosuppression
+T138	substance 357 368	corticoides
+T139	traitement 932 975	rein a été implanté en fosse iliaque droite
+T140	traitement 997 1067	anastomose artérielle en latéro-terminale sur l'artère iliaque externe
+T141	traitement 1075 1143	anastomose veineuse en latéro-terminale sur la veine iliaque externe
+T142	sosy 1187 1227	fuite au niveau de l'anastomose veineuse
+T143	sosy 1266 1346	reprise de la coloration et de la tension normale du rein ne sont pas immédiates
+T144	dispositif 1441 1449	sonde JJ
+T145	traitement 1465 1504	mise en place de deux drains aspiratifs
+T147	dispositif 1482 1504	deux drains aspiratifs
+T148	duree 1539 1549	65 minutes
+T150	moment 1551 1570	A la sortie du bloc
+T151	sosy 1574 1603	état hémodynamique est stable
+T152	examen 1579 1592	hémodynamique
+T153	sosy 1613 1634	diurèse satisfaisante
+T154	frequence 1666 1673	horaire
+T155	traitement 1639 1691	compensation de la diurèse horaire volume par volume
+T156	sosy 1771 1799	baissé sa diurèse à 120 ml/h
+T157	sosy 1840 1870	diurèse totale est de 5 400 ml
+T158	sosy 1887 1948	amélioration de la fonction rénale à 60 mg/l de créatininémie
+T159	sosy 1988 2017	créatininémie était à 90 mg/l
+T160	traitement 2038 2045	greffon
+T161	sosy 2065 2088	bonne perfusion du rein
+T162	sosy 2098 2118	vaisseaux perméables
+T163	sosy 2126 2152	index de résistance élevés
+T164	sosy 2200 2248	ciclosporinémie était dans la fourchette normale
+T165	sosy 2322 2340	surcharge hydrique
+T166	dispositif 2382 2388	drains
+T169	sosy 2507 2540	néphrotoxicité de la ciclosporine
+A7	assertion T169 absent
+T170	sosy 2636 2646	rejet aigu
+A8	assertion T170 absent
+T171	dispositif 2770 2776	drains
+T177	examen 2811 2838	formule numération sanguine
+T178	sosy 2922 2957	vascularisation homogène du greffon
+T179	sosy 2978 3000	collection péri rénale
+A9	assertion T90 hypothétique
+T180	sosy 3258 3423	rupture du greffon à trois niveaux : la plus importante de 5 cm de longueur suivant la convexité du rein et deux autres plus petites polaire supérieure et inférieure
+T181	valeur 3317 3333	5 cm de longueur
+T184	anatomie 3391 3423	polaire supérieure et inférieure
+T185	sosy 3439 3469	pédicule rénal était perméable
+A10	assertion T103 absent
+T186	sosy 3474 3508	la tension et la fragilité du rein
+T187	traitement 3570 3608	confection d'un treillis au vicryl 2/0
+T188	traitement 3609 3683	matelassant un morceau de prothèse vasculaire mis sur la rupture corticale
+T189	traitement 3696 3730	rapprocher les deux berges du rein
+T191	traitement 3750 3759	hémostase
+T192	anatomie 3889 3901	interstitiel
+T193	sosy 3927 3937	rejet aigu
+A11	assertion T193 absent
+T194	sosy 3954 4018	artériole interlobulaire est sensiblement normale sans infiltrat
+T195	anatomie 3954 3978	artériole interlobulaire
+T196	sosy 4066 4087	reprise de la diurèse
+T197	sosy 4287 4310	fonction rénale normale
+T198	sosy 4320 4357	clairance de la créatinine à 97 ml/mn
+T199	sosy 4365 4385	protéinurie négative
+T200	sosy 4393 4432	hypertension artérielle bien équilibrée
+T201	pathologie 85 114	insuffisance rénale chronique
+T203	sosy 1973 1981	anurique
+T204	sosy 2309 2315	anurie
+T205	sosy 2441 2447	anurie
+T206	pathologie 2694 2728	insuffisance rénale aiguë anurique

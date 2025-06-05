@@ -1,0 +1,137 @@
+T71	genre 0 8	Patiente
+T69	sosy 1013 1049	résorption des houppes phalangiennes
+T44	anatomie 1028 1049	houppes phalangiennes
+T78	examen 1054 1075	échographie cervicale
+T25	anatomie 1066 1075	cervicale
+T30	anatomie 1118 1123	droit
+T53	traitement 1144 1150	opérée
+T26	anatomie 1183 1192	cervicale
+T28	traitement 1239 1270	dissection musculoaponévrotique
+T39	anatomie 1289 1319	face postérieure du lobe droit
+T8	tumeur 1345 1372	nodule parathyroïdien droit
+T32	anatomie 1352 1372	parathyroïdien droit
+T11	valeur 1382 1394	1 cm × 0.5cm
+T1	etatsosy 139 156	douleurs osseuses
+T67	traitement 1400 1419	résection du nodule
+T9	tumeur 1413 1419	nodule
+T51	anatomie 1436 1456	nerf récurrent droit
+T68	traitement 1463 1482	résection du nodule
+T10	tumeur 1476 1482	nodule
+T55	anatomie 148 156	osseuses
+T72	valeur 1531 1550	sans particularités
+T45	traitement 1575 1586	hémodialyse
+T56	frequence 1599 1620	3 séances par semaine
+T92	substance 1657 1684	traitement antihypertenseur
+T50	anatomie 169 187	membres inférieurs
+T109	age 17 23	13 ans
+T15	substance 1731 1738	Lasilix
+T110	frequence 1746 1749	3/j
+T4	osteomusculaires 1866 1876	genuvalgum
+T59	examen 1929 1944	plan biologique
+T57	examen 1986 1998	parathormone
+T77	moment 2026 2042	à 3 mois post-op
+T79	moment 2061 2081	avant l’intervention
+T58	examen 2154 2166	parathormone
+T5	date 226 236	08-10-2009
+T62	sosy 242 274	reflux vésico-urétéral bilatéral
+T76	anatomie 249 274	vésico-urétéral bilatéral
+T7	femme 291 330	insuffisance rénale chronique terminale
+T66	anatomie 304 310	rénale
+T27	frequence 311 320	chronique
+T36	examen 335 350	examen clinique
+T3	osteomusculaires 36 53	genuvalgum gauche
+T41	anatomie 376 382	gauche
+T64	examen 446 473	reste de l’examen somatique
+T40	anatomie 47 53	gauche
+T70	valeur 480 498	sans particularité
+T22	examen 504 520	bilan biologique
+T18	examen 535 539	Urée
+T6	valeur 542 547	3 g/l
+T14	examen 561 571	Créatinine
+T12	valeur 574 582	116 mg/l
+T20	valeur 584 592	5.7-12.5
+T13	examen 593 600	Calcium
+T21	valeur 602 609	79mEq/l
+T34	valeur 611 623	84-102 meq/l
+T49	examen 626 635	Phosphore
+T52	valeur 638 646	51 mEq/l
+T35	valeur 648 653	23-47
+T17	examen 655 675	Phosphatase alcaline
+T54	valeur 678 686	950 ui/l
+T65	valeur 688 692	<750
+T16	examen 694 706	Parathormone
+T63	valeur 709 719	2100 pg/ml
+T61	examen 726 787	radiographies pulmonaire, du genou gauche, de la main de face
+T60	anatomie 740 750	pulmonaire
+T42	anatomie 755 767	genou gauche
+T48	anatomie 775 779	main
+T43	anatomie 851 867	clavicule gauche
+T2	nutritionnelles 873 906	déminéralisation diffuse du tibia
+T19	sosy 93 121	altération de l’état général
+A2	norme T12 haut
+A3	norme T21 bas
+A4	norme T52 haut
+A5	norme T54 haut
+A1	norme T6 haut
+A6	genre T71 féminin
+T23	nerveux 93 121	altération de l’état général
+T74	etatsosy 93 121	altération de l’état général
+T29	sosy 139 156	douleurs osseuses
+T80	sosy 203 214	Traumatisme
+A7	assertion T80 absent
+T75	valeur 386 394	40 degré
+T37	valeur 549 558	0.15-0.55
+T81	osteomusculaires 365 382	Genuvalgum gauche
+T38	anatomie 901 906	tibia
+T82	tumeur 1096 1123	adénomeparathyroïdien droit
+T83	endocriniennes 1096 1123	adénomeparathyroïdien droit
+T84	traitement 1174 1205	incision cervicale transversale
+T85	endocriniennes 1345 1372	nodule parathyroïdien droit
+T33	anatomie 1220 1237	manubrium sternal
+T86	anatomie 1250 1270	musculoaponévrotique
+T87	substance 1652 1655	fer
+T73	substance 1709 1716	Calcida
+T88	frequence 1727 1729	/j
+T89	dose 1741 1745	1 cp
+T90	dose 1719 1727	1 sachet
+T91	substance 1751 1758	Un-alfa
+T93	frequence 1767 1769	/j
+T94	dose 1761 1767	1 caps
+T46	traitement 1850 1862	intervention
+A8	assertion T46 absent
+T24	valeur 2016 2025	100 pg/ml
+T95	valeur 2050 2060	2000 pg/ml
+T47	moment 2082 2099	10 mois plus tard
+T96	valeur 2176 2186	1359 pg/ml
+T97	femme 242 274	reflux vésico-urétéral bilatéral
+T98	osteomusculaires 873 906	déminéralisation diffuse du tibia
+T99	osteomusculaires 1013 1049	résorption des houppes phalangiennes
+T100	sosy 59 89	impotence fonctionnelle totale
+T101	traitement 216 222	Opérée
+T102	sosy 400 441	mobilités active et passive sont limitées
+T103	sosy 446 498	reste de l’examen somatique était sans particularité
+T104	sosy 535 547	Urée : 3 g/l
+T105	sosy 561 582	Créatinine : 116 mg/l
+T106	sosy 593 609	Calcium: 79mEq/l
+T107	sosy 626 646	Phosphore : 51 mEq/l
+T108	sosy 655 686	Phosphatase alcaline : 950 ui/l
+T111	sosy 694 719	Parathormone : 2100 pg/ml
+T112	sosy 817 867	lyse de l’extrémité externe de la clavicule gauche
+T113	sosy 873 906	déminéralisation diffuse du tibia
+T114	sosy 920 1007	aaspect érodé et évasé des régions métaphyso-epiphysaires distales du radius et cubitus
+T115	anatomie 947 1007	régions métaphyso-epiphysaires distales du radius et cubitus
+T116	pathologie 1096 1123	adénomeparathyroïdien droit
+A9	assertion T116 possible
+T117	traitement 1272 1319	exposition de la face postérieure du lobe droit
+T31	traitement 1423 1456	épargnant le nerf récurrent droit
+T118	sosy 1810 1834	amélioration progressive
+T119	sosy 2016 2042	100 pg/ml à 3 mois post-op
+T120	sosy 2050 2081	2000 pg/ml avant l’intervention
+T121	sosy 2154 2187	parathormone intacte (1359 pg/ml)
+T122	pathologie 291 330	insuffisance rénale chronique terminale
+T123	sosy 1345 1394	nodule parathyroïdien droit mesurant 1 cm × 0.5cm
+T124	pathologie 1866 1876	genuvalgum
+T125	pathologie 365 394	Genuvalgum gauche de 40 degré
+T126	pathologie 36 53	genuvalgum gauche
+T127	sosy 1413 1419	nodule
+T128	sosy 1476 1482	nodule

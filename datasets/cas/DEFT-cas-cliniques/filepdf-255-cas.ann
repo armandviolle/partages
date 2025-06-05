@@ -1,0 +1,7 @@
+T1	genre 3889 3900	la patiente
+A1	genre T1 féminin
+T2	age 23 27	1949
+T3	origine 2142 2291	des douleurs lombaires gauches chroniques secondaires à une urétéro-hydronéphrose gauche avec obstacle pelvien et épaississement de la paroi vésicale
+T4	issue 3866 3954	Avec un recul d'un an, la patiente est asymptomatique avec une fonction rénale conservée
+A2	issue T4 guérison
+#1	AnnotatorNotes T2	53 ans

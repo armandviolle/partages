@@ -1,0 +1,6 @@
+T1	genre 10 15	femme
+T2	age 33 39	29 ans
+T3	issue 363 369	décède
+A1	genre T1 féminin
+A2	issue T3 décès
+T4	origine 68 122	une nouvelle crise délirante (schizophrénie paranoïde)

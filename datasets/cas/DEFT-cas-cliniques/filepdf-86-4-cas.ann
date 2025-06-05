@@ -1,0 +1,43 @@
+T7	examen 104 119	examen clinique
+T9	examen 220 238	échographie rénale
+T8	examen 336 353	tomodensitométrie
+T3	sosy 45 75	lombalgies droites lancinantes
+T4	anatomie 56 63	droites
+T10	examen 150 153	UIV
+T12	anatomie 205 215	rein droit
+T13	anatomie 232 238	rénale
+T14	sosy 254 330	masse rénale isoéchogène de 5 cm de diamètre du pôle supérieur du rein droit
+T15	anatomie 260 266	rénale
+T11	sosy 178 215	masse polaire supérieur du rein droit
+T16	sosy 370 425	formation tumorale hétérogène polaire supérieure droite
+T17	anatomie 302 330	pôle supérieur du rein droit
+T18	traitement 487 499	néphrectomie
+T19	pathologie 544 564	adénocarcinome rénal
+T20	anatomie 559 564	rénal
+T21	pathologie 581 667	tumeur était bien encapsulée, polaire supérieure et de couleur jaunâtre striée de brun
+T22	pathologie 697 713	oncocytome rénal
+T23	anatomie 708 713	rénal
+T24	examen 672 682	histologie
+T25	sosy 82 91	hématurie
+A3	assertion T25 absent
+T26	anatomie 400 425	polaire supérieure droite
+T31	valeur 126 144	sans particularité
+T1	valeur 282 298	5 cm de diamètre
+T2	moment 750 767	un recul de 5 ans
+T5	sosy 104 145	examen clinique était sans particularités
+T6	mode 447 456	injection
+T27	substance 460 480	produit de contraste
+T28	examen 566 576	A la coupe
+A1	norme T31 normal
+T29	etatsosy 45 75	lombalgies droites lancinantes
+T30	tumeur 370 425	formation tumorale hétérogène polaire supérieure droite
+T32	tumeur 544 564	adénocarcinome rénal
+T33	femme 544 564	adénocarcinome rénal
+T34	tumeur 697 713	oncocytome rénal
+T35	femme 697 713	oncocytome rénal
+T36	genre 0 3	Mme
+T37	age 18 24	66 ans
+A2	genre T36 féminin
+T38	origine 41 100	des lombalgies droites lancinantes, sans hématurie associée
+T39	issue 717 767	l’évolution était favorable avec un recul de 5 ans
+A4	issue T39 amélioration

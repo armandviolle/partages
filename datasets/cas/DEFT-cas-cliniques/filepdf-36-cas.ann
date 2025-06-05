@@ -1,0 +1,142 @@
+T44	valeur 1020 1028	normales
+T61	anatomie 1059 1076	rétropéritonéales
+T40	anatomie 1080 1092	médiastinale
+T36	anatomie 1114 1124	hépatiques
+T56	examen 1129 1151	radiographie du thorax
+T73	anatomie 1145 1151	thorax
+T64	examen 1156 1177	scintigraphie osseuse
+T50	anatomie 1170 1177	osseuse
+T16	examen 1184 1200	bilan biologique
+T34	examen 1202 1212	hémogramme
+T29	examen 1214 1242	fonction rénale et hépatique
+T60	anatomie 1223 1229	rénale
+T35	anatomie 1233 1242	hépatique
+T47	valeur 1249 1256	normaux
+T49	traitement 1263 1295	orchidectomie par voie inguinale
+T79	mode 1281 1295	voie inguinale
+T25	anatomie 1345 1363	cordon spermatique
+T1	tumeur 1381 1404	tumeur paratesticulaire
+T71	anatomie 1453 1462	testicule
+T20	anatomie 1612 1631	cellules fusiformes
+T24	anatomie 1730 1744	base du cordon
+T2	tumeur 1766 1772	tumeur
+T13	sosy 192 202	apyrétique
+T6	substance 1997 2008	Vincristine
+T4	dose 2010 2019	1,5 mg/m2
+T5	dose 2042 2051	1,5 mg/m2
+T18	sosy 206 222	bon état général
+T21	substance 2193 2207	chimiothérapie
+T76	examen 2212 2260	tomodensitométrie abdomino pelvienne de contrôle
+T53	anatomie 2230 2248	abdomino pelvienne
+T68	anatomie 224 240	testicule gauche
+T22	substance 2304 2318	chimiothérapie
+T43	valeur 2323 2329	normal
+T65	examen 2348 2360	surveillance
+T55	moment 2372 2405	pendant les deux premières années
+T14	sosy 224 333	testicule gauche augmenté de volume de contours réguliers, de consistance dure, non douloureux à la palpation
+T10	frequence 2453 2470	tous les six mois
+T57	examen 2543 2565	radiographie du thorax
+T74	anatomie 2559 2565	thorax
+T80	examen 2573 2603	échographie abdomino pelvienne
+T54	anatomie 2585 2603	abdomino pelvienne
+T77	examen 2622 2639	tomodensitométrie
+T42	pathologie 2674 2699	métastases ganglionnaires
+T85	anatomie 2685 2698	ganglionnaire
+T58	sosy 2708 2731	récidive loco régionale
+T51	examen 324 333	palpation
+T48	valeur 397 405	négative
+T12	sosy 41 65	antécédents particuliers
+T62	valeur 444 463	sans particularités
+T66	anatomie 529 541	testiculaire
+T39	sosy 553 618	masse solide hétérogène testiculaire gauche de 83 mm de grand axe
+T67	anatomie 577 596	testiculaire gauche
+T69	anatomie 712 721	testicule
+T3	valeur 753 771	46 mm de grand axe
+T78	anatomie 803 810	vaginal
+T70	anatomie 815 824	testicule
+T28	anatomie 830 846	é pididyme droit
+T45	valeur 852 859	normaux
+T38	examen 865 916	marqueurs tumoraux (alpha-fœtoprotéine et béta HCG)
+T46	valeur 922 929	normaux
+T7	anatomie 946 956	abdominale
+T128	examen 970 1014	tomodensitométrie thoraco-abdomino-pelvienne
+T72	anatomie 988 1014	thoraco-abdomino-pelvienne
+T30	anatomie 92 105	bourse gauche
+T11	age 29 34	9 ans
+A1	assertion T12 absent
+T15	sosy 85 121	grosse bourse gauche non douloureuse
+T19	duree 131 153	depuis moins d'un mois
+T23	examen 157 173	e xamen clinique
+T27	sosy 342 369	signes inflammatoire locaux
+A2	assertion T27 absent
+T31	examen 374 392	trans-illumination
+T59	examen 423 439	e xamen clinique
+T63	sosy 481 493	gynécomastie
+T75	sosy 499 512	a dénopathies
+A3	assertion T63 absent
+A4	assertion T75 absent
+T83	examen 516 541	é chographie testiculaire
+T32	anatomie 622 631	épididyme
+T86	sosy 622 698	épididyme est hypertrophié relativement homogène mesurant 39 mm de grand axe
+T87	sosy 791 810	épanchement vaginal
+A5	assertion T87 absent
+T8	sosy 1046 1092	adénopathies rétropéritonéales ou médiastinale
+A6	assertion T8 absent
+T52	pathologie 1103 1124	métastases hépatiques
+A7	assertion T52 absent
+T41	examen 934 956	échographie abdominale
+T37	homme 1381 1404	tumeur paratesticulaire
+T81	examen 1466 1491	exploration peropératoire
+T88	sosy 1508 1531	envahissement du dartos
+A8	assertion T88 absent
+T89	examen 1535 1554	examen histologique
+T33	tumeur 1593 1596	RMS
+#1	AnnotatorNotes T33	rhabdomyosarcome
+T90	anatomie 1714 1723	épididyme
+T91	substance 1878 1906	polychimiothérapie adjuvante
+T92	substance 1972 1982	Ifosfamide
+T93	substance 2026 2040	Actinomycine D
+T94	dose 1984 1990	3 g/m2
+T95	moment 2269 2300	un mois après la quatrième cure
+T26	frequence 2408 2428	tous les quatre mois
+T9	moment 2429 2446	la première année
+T82	moment 2471 2488	la deuxième année
+A9	assertion T42 hypothétique
+A10	assertion T58 absent
+T84	genre 224 233	testicule
+A11	genre T84 masculin
+T97	etatsosy 622 648	épididyme est hypertrophié
+T17	valeur 1785 1793	stade Ib
+T96	valeur 1682 1699	7 cm de grand axe
+T98	endocriniennes 1381 1404	tumeur paratesticulaire
+T99	genre 22 25	âgé
+A12	genre T99 masculin
+T100	sosy 374 405	trans-illumination est négative
+T101	sosy 412 463	reste de l'e xamen clinique est sans particularités
+T102	valeur 600 618	83 mm de grand axe
+T103	valeur 680 698	39 mm de grand axe
+T104	sosy 712 771	testicule est nettement remanié mesurant 46 mm de grand axe
+T105	sosy 815 859	testicule et l'é pididyme droit sont normaux
+T106	sosy 865 929	marqueurs tumoraux (alpha-fœtoprotéine et béta HCG) sont normaux
+T107	sosy 934 1028	échographie abdominale ainsi que la tomodensitométrie thoraco-abdomino-pelvienne sont normales
+T108	sosy 1129 1256	radiographie du thorax, la scintigraphie osseuse et le bilan biologique (hémogramme, fonction rénale et hépatique) sont normaux
+T109	traitement 1315 1363	ligature première et haute du cordon spermatique
+T110	valeur 1408 1412	7 cm
+T111	sosy 1381 1462	tumeur paratesticulaire de 7 cm, lobulée, blanc grisâtre, infiltrant le testicule
+T112	anatomie 1525 1531	dartos
+T113	anatomie 1561 1582	pièce d'orchidectomie
+T114	traitement 1569 1582	orchidectomie
+T115	sosy 1593 1744	RMS embryonnaire à cellules fusiformes (léiomyomatoïde) de la région paratesticulaire de 7 cm de grand axe, infiltrant l'épididyme et la base du cordon
+T116	anatomie 1655 1678	région paratesticulaire
+T117	duree 1924 1936	quatre cures
+T118	duree 2081 2091	cinq jours
+T119	traitement 2061 2065	cure
+T120	traitement 2099 2105	cycles
+T121	duree 2122 2130	21 jours
+T122	sosy 2171 2207	bonne tolérance de la chimiothérapie
+T123	sosy 2134 2161	évolution est satisfaisante
+T124	examen 2497 2505	contrôle
+T125	examen 2523 2538	examen clinique
+T126	moment 2770 2783	recul d’un an
+T127	moment 2754 2761	ce jour
+T129	sosy 1766 1793	tumeur est classée stade Ib

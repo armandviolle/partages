@@ -1,0 +1,26 @@
+T5	substance 126 143	graines de datura
+T3	moment 199 212	A l'admission
+T16	age 27 33	16 ans
+T2	cardiovasculaires 275 286	tachycardie
+T1	etatsosy 290 304	hallucinations
+T8	examen 310 331	prélèvements sanguins
+T9	anatomie 323 331	sanguins
+T10	substance 441 452	scopolamine
+T4	substance 489 497	cannabis
+T15	age 6 12	15 ans
+T7	mode 114 122	capsules
+T6	moment 342 364	plusieurs heures après
+T11	substance 426 434	atropine
+T12	genre 0 4	Loïc
+A1	genre T12 masculin
+T13	genre 16 25	Jean-Paul
+A2	genre T13 masculin
+T14	chimiques 242 262	syndrome atropinique
+T17	etatsosy 275 286	tachycardie
+T18	nerveux 290 304	hallucinations
+#1	AnnotatorNotes T14	intoxication à l'atropine
+T19	chimiques 477 497	présence de cannabis
+T20	sosy 242 262	syndrome atropinique
+T21	sosy 275 286	tachycardie
+T22	sosy 290 304	hallucinations
+T23	sosy 477 497	présence de cannabis

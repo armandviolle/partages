@@ -1,0 +1,89 @@
+T24	anatomie 1127 1147	globe oculaire droit
+T17	anatomie 1160 1168	cérébral
+T21	anatomie 1220 1240	périorbitaire droite
+T26	blessures 126 140	plaie oculaire
+T61	anatomie 1266 1279	sous-cutanées
+T1	sosy 1288 1319	lésions oculaires ou orbitaires
+T56	anatomie 1296 1304	oculaire
+T57	anatomie 1309 1318	orbitaire
+T27	anatomie 132 140	oculaire
+T71	sosy 1329 1350	métastases cérébrales
+T18	anatomie 1340 1350	cérébrales
+T10	examen 1355 1368	bilan sanguin
+T40	anatomie 1361 1368	sanguin
+T42	valeur 1375 1394	sans particularités
+T30	anatomie 1412 1427	oculaire droite
+T19	duree 151 171	depuis 8 ans environ
+T63	examen 1512 1529	anatomopathologie
+T5	moment 1642 1660	En post opératoire
+T8	substance 1682 1697	antibiothérapie
+T37	duree 1722 1738	pendant 10 jours
+T15	substance 1741 1756	corticothérapie
+T3	dose 1774 1782	1mg/kg/j
+T38	duree 1783 1799	pendant 10 jours
+T7	substance 1806 1816	antalgique
+T36	moment 1839 1854	pendant 8 jours
+T2	age 28 34	77 ans
+T4	date 3 15	03 mars 2015
+T123	oeil 352 366	plaie oculaire
+T28	anatomie 358 366	oculaire
+T25	traitement 475 503	intervention ophtalmologique
+T32	anatomie 488 503	ophtalmologique
+T33	anatomie 625 640	ophtalmologique
+T11	examen 648 669	prélèvement biopsique
+T44	anatomie 719 730	épidermoïde
+T39	traitement 814 841	prise en charge spécialisée
+T14	sosy 863 891	patient conscient, coopérant
+T100	anatomie 897 906	téguments
+T13	anatomie 910 922	conjonctives
+T47	sosy 897 935	téguments et conjonctives bien colorés
+T23	examen 964 974	examen ORL
+T6	anatomie 971 974	ORL
+T9	oeil 126 140	plaie oculaire
+T34	blessures 352 366	plaie oculaire
+T35	genre 17 24	patient
+A1	genre T35 masculin
+T31	sosy 525 540	suite favorable
+A2	assertion T31 absent
+T41	etatsosy 550 579	dégradation son état clinique
+T43	sosy 550 579	dégradation son état clinique
+T45	sosy 1001 1032	bouchons de cérumens bilatéraux
+T46	sosy 1077 1105	mauvais états buccodentaires
+T48	sosy 1113 1147	ulcération du globe oculaire droit
+T20	examen 1152 1168	Scanner cérébral
+A3	assertion T71 absent
+A4	assertion T1 absent
+T16	sosy 1036 1071	hypertrophie des cornets inférieurs
+T22	oeil 1210 1240	cellulite périorbitaire droite
+T29	peau 1210 1240	cellulite périorbitaire droite
+T49	sosy 1250 1279	bulles gazeuses sous-cutanées
+T50	traitement 1399 1427	exentération oculaire droite
+T12	sosy 1563 1599	répercussion inflammatoire chronique
+T51	oeil 1616 1640	Choriorétinite ulcéreuse
+T52	substance 1699 1710	Ceftriaxone
+T53	dose 1713 1715	1g
+T54	frequence 1716 1721	x 3/j
+T55	substance 1758 1771	Bétaméthazone
+T58	substance 1818 1829	Paracétamol
+T59	dose 1832 1834	1g
+T60	frequence 1835 1838	3/j
+T62	oeil 1113 1147	ulcération du globe oculaire droit
+T64	etatsosy 1113 1147	ulcération du globe oculaire droit
+T65	etatsosy 1563 1599	répercussion inflammatoire chronique
+T66	sosy 221 235	particularités
+A5	assertion T66 absent
+T67	pathologie 709 747	carcinome épidermoïde bien différencié
+A6	assertion T67 hypothétique
+T68	sosy 942 958	état général bon
+T69	anatomie 1013 1032	cérumens bilatéraux
+T70	anatomie 1053 1071	cornets inférieurs
+T72	anatomie 1091 1105	buccodentaires
+T73	sosy 1355 1394	bilan sanguin était sans particularités
+T74	anatomie 1448 1463	lambeau frontal
+T75	anatomie 1491 1507	pièce opératoire
+T76	frequence 1590 1599	chronique
+T77	moment 1899 1920	au bout de 2 semaines
+T78	sosy 126 140	plaie oculaire
+T79	sosy 352 366	plaie oculaire
+T80	sosy 1210 1240	cellulite périorbitaire droite
+T81	sosy 1616 1640	Choriorétinite ulcéreuse

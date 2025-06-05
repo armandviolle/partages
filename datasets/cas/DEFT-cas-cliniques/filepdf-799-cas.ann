@@ -1,0 +1,101 @@
+T11	examen 1052 1085	fibroscopie oeso-gastro-duodénale
+T23	examen 1276 1294	étude histologique
+T20	anatomie 1353 1360	vésical
+T24	examen 1537 1562	étude immunohistochimique
+T8	duree 170 189	six mois auparavant
+T13	examen 1846 1881	tomodensitométrie abdominopelvienne
+T17	anatomie 1864 1881	abdominopelvienne
+T10	examen 295 310	examen clinique
+T14	examen 350 364	toucher rectal
+T18	anatomie 358 364	rectal
+T15	examen 368 398	échographie vésico-prostatique
+T12	examen 412 447	tomodensitométrie abdominopelvienne
+T16	anatomie 430 447	abdominopelvienne
+T22	examen 731 758	analyse anatomopathologique
+T21	anatomie 739 758	anatomopathologique
+T25	examen 106 111	bilan
+T26	pathologie 118 159	hématurie caillotante totale, récidivante
+T27	sosy 206 240	troubles urinaires du bas appareil
+T28	anatomie 215 224	urinaires
+T29	anatomie 228 240	bas appareil
+T30	pathologie 251 262	pollakiurie
+T31	sosy 269 291	brûlures mictionnelles
+T32	anatomie 326 339	base vésicale
+T33	anatomie 380 398	vésico-prostatique
+T34	pathologie 466 519	formation tumorale de la face antérieure de la vessie
+T35	anatomie 491 519	face antérieure de la vessie
+T36	examen 557 568	cystoscopie
+T37	pathologie 598 647	tumeur sur la paroi antérieure et du dôme vésical
+T38	anatomie 612 647	paroi antérieure et du dôme vésical
+T19	traitement 653 712	résection transuréthrale biopsique et profonde de la vessie
+T39	anatomie 663 677	transuréthrale
+T40	anatomie 706 712	vessie
+T41	pathologie 780 843	adénocarcinome infiltrant la muqueuse et la musculeuse vésicale
+T42	anatomie 809 817	muqueuse
+T43	anatomie 824 843	musculeuse vésicale
+T45	examen 968 991	explorations digestives
+T46	anatomie 981 991	digestives
+T48	anatomie 1039 1044	grêle
+T49	anatomie 1064 1085	oeso-gastro-duodénale
+T51	traitement 1008 1023	lavement baryté
+T52	traitement 1143 1169	cystoprostatectomie totale
+T53	traitement 1184 1229	curage ganglionnaire ilio-obturateur bilatéra
+T54	anatomie 1191 1230	ganglionnaire ilio-obturateur bilatéral
+T55	traitement 1238 1272	entérocystoplastie de substitution
+T56	pathologie 1338 1377	adénocarcinome vésical bien différencié
+T57	anatomie 1440 1454	paroi vésicale
+T58	anatomie 1466 1473	séreuse
+T59	sosy 1498 1533	atteinte ganglionnaire métastatique
+T60	anatomie 1507 1520	ganglionnaire
+A3	assertion T59 absent
+T62	pathologie 1633 1679	origine primitive vésicale de l’adénocarcinome
+T63	examen 1780 1791	cystoscopie
+T64	frequence 1804 1820	tous les 03 mois
+T50	sosy 1948 1971	récidive loco-régionale
+A4	assertion T50 absent
+T65	anatomie 1957 1971	loco-régionale
+T66	substance 1394 1402	colloïde
+T70	anatomie 1651 1659	vésicale
+T71	sosy 525 551	envahissement locorégional
+T72	anatomie 539 551	locorégional
+A5	assertion T71 absent
+T73	examen 1740 1761	suivi post-opératoire
+T74	moment 1903 1922	une année plus tard
+T75	anatomie 1403 1410	muqueux
+T76	sosy 1383 1473	contingent colloïde muqueux extensif infiltrant toute la paroi vésicale jusqu’à la séreuse
+T1	pathologie 21 59	antécédents pathologiques particuliers
+A2	assertion T1 absent
+T2	sosy 326 364	base vésicale souple au toucher rectal
+A6	assertion T41 possible
+T3	examen 848 878	complément immunohistochimique
+T4	sosy 905 962	caractère métastatique ou ouraquien de cet adénocarcinome
+A7	assertion T4 absent
+T5	examen 1028 1044	transit du grêle
+A8	assertion T56 possible
+T6	substance 1689 1712	thérapeutique adjuvante
+T7	sosy 2007 2014	rechute
+A9	assertion T7 absent
+T9	moment 2053 2060	48 mois
+T47	anatomie 1601 1610	digestive
+T61	sosy 1780 1841	cystoscopie de contrôle tous les 03 mois qui restait négative
+T44	valeur 1103 1112	négatives
+T67	sosy 968 1112	explorations digestives comportaient un lavement baryté, un transit du grêle et une fibroscopie oeso-gastro-duodénale et elles étaient négatives
+T68	valeur 1833 1841	négative
+T69	homme 118 159	hématurie caillotante totale, récidivante
+T77	homme 206 240	troubles urinaires du bas appareil
+T78	homme 251 262	pollakiurie
+T79	etatsosy 269 291	brûlures mictionnelles
+T80	tumeur 598 647	tumeur sur la paroi antérieure et du dôme vésical
+T81	homme 598 647	tumeur sur la paroi antérieure et du dôme vésical
+T89	tumeur 1633 1679	origine primitive vésicale de l’adénocarcinome
+T90	homme 1633 1679	origine primitive vésicale de l’adénocarcinome
+T91	etatsosy 118 159	hématurie caillotante totale, récidivante
+T92	etatsosy 251 262	pollakiurie
+T93	homme 269 291	brûlures mictionnelles
+T94	tumeur 466 484	formation tumorale
+T82	genre 1117 1124	patient
+A1	genre T82 masculin
+T83	age 8 14	51 ans
+T84	origine 114 291	une hématurie caillotante totale, récidivante installée six mois auparavant, associée à des troubles urinaires du bas appareil à type de pollakiurie et de brûlures mictionnelles
+T85	issue 1974 2060	L’évolution était favorable sans rechute et le recul de notre patient était de 48 mois
+A10	issue T85 amélioration

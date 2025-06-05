@@ -1,0 +1,6 @@
+T1	age 36 43	30 mois
+T2	genre 89 95	garçon
+A1	genre T2 masculin
+T3	origine 49 72	un retard de croissance
+T4	issue 2878 2907	il mène une scolarité normale
+A2	issue T4 amélioration

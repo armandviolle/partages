@@ -1,0 +1,75 @@
+T5	date 1137 1145	mai 1986
+T8	examen 310 336	examen cytobactériologique
+T6	date 50 62	février 1986
+T7	pathologie 72 102	cirrhose éthylique décompensée
+T9	pathologie 137 143	ascite
+T10	sosy 149 170	ictère cutanéomuqueux
+T11	anatomie 156 170	cutanéomuqueux
+T12	sosy 176 214	hépatomégalie de deux travers de doigt
+T14	pathologie 219 248	oedème des membres inférieurs
+T15	anatomie 230 248	membres inférieurs
+T16	pathologie 256 272	asthénie marquée
+T18	sosy 359 372	urines brunes
+T19	sosy 419 429	hématémèse
+T20	sosy 434 456	varices oesophagiennes
+T21	anatomie 442 456	oesophagiennes
+T23	sosy 478 492	urines foncées
+T24	examen 618 667	chromatographie sur papier des acides phénoliques
+T25	sosy 688 743	tache brune migrant au niveau de l’acide homogentisique
+T27	examen 747 774	évaluation semiquantitative
+T28	valeur 810 819	48 mmol/l
+A3	norme T28 haut
+T29	pathologie 858 870	alcaptonurie
+T30	examen 889 915	radiographies de l’abdomen
+T31	anatomie 908 915	abdomen
+T32	anatomie 939 945	thorax
+T33	sosy 990 1041	calcifications typiques des disques intervertébraux
+T34	anatomie 1018 1041	disques intervertébraux
+T35	sosy 1059 1114	ostéophytes paravertébraux au niveau lombaire et dorsal
+T36	anatomie 1071 1085	paravertébraux
+T38	anatomie 1089 1114	niveau lombaire et dorsal
+T37	pathologie 1152 1160	cirrhose
+T39	duree 118 132	depuis un mois
+T40	examen 512 523	hémoglobine
+T41	examen 723 743	acide homogentisique
+T43	examen 528 538	myoglobine
+T44	examen 543 551	mélanine
+T45	examen 556 567	porphyrines
+T46	examen 572 576	sels
+T47	examen 580 598	pigments biliaires
+T48	anatomie 589 598	biliaires
+T1	moment 380 413	au cours de sa 3e hospitalisation
+T2	sosy 747 819	évaluation semiquantitative de cette tache brune est estimée à 48 mmol/l
+T3	sosy 499 613	recherches d’hémoglobine, de myoglobine, de mélanine, de porphyrines, de sels et pigments biliaires sont négatives
+T4	valeur 193 214	deux travers de doigt
+T13	substance 81 90	éthylique
+T17	anatomie 359 365	urines
+T22	anatomie 478 484	urines
+T26	valeur 604 613	négatives
+T42	digestif 72 102	cirrhose éthylique décompensée
+T49	chimiques 72 102	cirrhose éthylique décompensée
+T50	etatsosy 137 143	ascite
+T51	peau 149 170	ictère cutanéomuqueux
+T52	etatsosy 176 189	hépatomégalie
+T53	etatsosy 219 225	oedème
+T54	etatsosy 256 264	asthénie
+T55	digestif 419 429	hématémèse
+T56	etatsosy 419 429	hématémèse
+T57	digestif 434 456	varices oesophagiennes
+T58	digestif 1152 1160	cirrhose
+T59	osteomusculaires 1059 1114	ostéophytes paravertébraux au niveau lombaire et dorsal
+T60	genetique 858 870	alcaptonurie
+T61	nutritionnelles 858 870	alcaptonurie
+T62	etatsosy 149 170	ictère cutanéomuqueux
+T63	digestif 176 189	hépatomégalie
+T64	genetique 359 372	urines brunes
+T65	nutritionnelles 359 372	urines brunes
+T66	nutritionnelles 478 492	urines foncées
+T67	genetique 478 492	urines foncées
+T68	chimiques 1152 1160	cirrhose
+T69	age 21 27	66 ans
+T70	issue 1127 1133	décède
+A1	issue T70 décès
+T71	genre 1119 1126	patient
+A2	genre T71 masculin
+T72	origine 68 102	une cirrhose éthylique décompensée

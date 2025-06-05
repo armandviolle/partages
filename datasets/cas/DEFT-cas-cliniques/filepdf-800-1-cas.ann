@@ -1,0 +1,6 @@
+T1	genre 0 7	Patient
+T2	age 11 17	56 ans
+A1	genre T1 masculin
+T3	origine 88 269	des douleurs osseuses diffuses et invalidantes d’allure inflammatoire, évoluant depuis quatre mois, associées à une altération de l’état général (amaigrissement important et fièvre)
+T4	issue 1521 1670	Le traitement par chimiothérapie a été récusé par le patinent qui est sorti contre avis médical, malgré qu’il soit averti de la gravité de sa maladie
+A2	issue T4 détérioration

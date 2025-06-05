@@ -1,0 +1,6 @@
+T1	age 16 22	23 ans
+T2	genre 3 8	homme
+A1	genre T2 masculin
+T3	origine 105 166	une tumeur ulcérobourgeonnante du front évoluant depuis 2 ans
+T4	issue 1429 1601	Le patient a bénéficié d’une exérèse chirurgicale de la tumeur du front, une destruction par l’azote liquide des kératoses actiniques associée à une photoprotection externe
+A2	issue T4 amélioration

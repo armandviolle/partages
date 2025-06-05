@@ -1,0 +1,6 @@
+T1	genre 0 6	Madame
+T2	age 19 25	82 ans
+A1	genre T1 féminin
+T3	origine 118 177	oedèmes des membres inférieurs avec prise de poids de 10 Kg
+T4	issue 1614 1694	Depuis, la patiente a été surveillée par des examens TDM qui sont restés normaux
+A2	issue T4 amélioration

@@ -1,0 +1,157 @@
+T2	etatsosy 1006 1020	amaigrissement
+T7	valeur 1037 1040	33%
+T39	examen 1044 1057	poids initial
+T109	valeur 1087 1089	15
+T37	valeur 1091 1096	19-25
+T45	digestif 110 124	régurgitations
+T28	examen 1116 1133	examen biologique
+T68	nutritionnelles 1159 1171	hyponatrémie
+T5	valeur 1174 1183	128 meq/l
+T4	nutritionnelles 1189 1201	hypocalcémie
+T16	valeur 1204 1213	84.6 mg/l
+T148	examen 1218 1229	bilan rénal
+T46	anatomie 1224 1229	rénal
+T25	valeur 1236 1244	correcte
+T13	examen 1246 1250	Urée
+T14	valeur 1252 1256	0.45
+T90	examen 1264 1275	créatinémie
+T36	valeur 1382 1391	26,27 g/l
+T48	valeur 1395 1403	57.10g/l
+T111	etatsosy 141 168	vomissements post prandiaux
+T6	examen 1461 1463	pH
+T11	valeur 1466 1470	7.42
+T10	examen 1477 1481	PaO2
+T17	valeur 1484 1494	270.5 mmHg
+T31	examen 1500 1505	PaCO2
+T18	valeur 1508 1517	34.4 mmHg
+T27	examen 1525 1537	bicarbonates
+T24	valeur 1540 1550	26,5 mol/l
+T42	examen 1556 1578	radiographie du poumon
+T40	anatomie 1572 1578	poumon
+T49	sosy 1757 1786	sténose d’allure neurologique
+T33	anatomie 1774 1786	neurologique
+T12	examen 1791 1805	TDM thoracique
+T54	anatomie 1795 1805	thoracique
+T50	sosy 1862 1891	sténose d’allure neurologique
+T34	anatomie 1879 1891	neurologique
+T75	traitement 1896 1906	endoscopie
+T3	etatsosy 1921 1945	dilatation oesophagienne
+T51	sosy 1951 1958	sténose
+T15	sosy 1964 1983	anomalies muqueuses
+T32	anatomie 1974 1983	muqueuses
+T29	examen 1998 2031	examen manométrique de l’œsophage
+T140	traitement 2168 2185	cure chirurgicale
+T76	age 22 28	30 ans
+T55	substance 2251 2258	Adalate
+T9	substance 2239 2249	Nifédipine
+T52	sosy 235 268	aggravation de sa symptomatologie
+T53	examen 326 342	tableau clinique
+T112	etatsosy 348 375	vomissements post prandiaux
+T19	pathologie 36 74	antécédents pathologiques particuliers
+T121	anatomie 509 521	épigastrique
+T43	anatomie 533 545	respiratoire
+T35	valeur 620 626	normal
+T1	etatsosy 664 678	amaigrissement
+T30	examen 682 697	examen clinique
+T23	sosy 722 731	conscient
+T128	sosy 732 780	stable sur le plan hémodynamique et respiratoire
+T44	anatomie 768 780	respiratoire
+T8	valeur 788 799	100/90 mmHg
+T56	anatomie 882 888	visage
+T26	anatomie 901 911	pli cutané
+T22	anatomie 924 931	cheveux
+T38	anatomie 961 965	peau
+A2	norme T109 bas
+A3	norme T11 normal
+A4	norme T14 normal
+A5	norme T16 bas
+A1	norme T5 bas
+T20	genre 0 8	Monsieur
+A6	genre T20 masculin
+A7	assertion T19 absent
+T57	examen 1066 1084	indice de Quételet
+T58	date 91 95	2005
+T21	anatomie 942 948	ongles
+T41	valeur 1277 1285	8.90mg/l
+A8	norme T41 bas
+T59	examen 1290 1301	albuminémie
+T60	examen 1308 1333	taux de protéines totales
+T61	examen 1423 1433	gazométrie
+T62	anatomie 1605 1616	médiastinal
+T63	sosy 1591 1626	élargissement médiastinal important
+T64	fonction 1632 1658	transit oesogastroduodénal
+T65	digestif 1685 1705	mégaoesophage énorme
+T66	sosy 1711 1728	processus tumoral
+A9	assertion T66 absent
+A10	assertion T15 absent
+T47	anatomie 1932 1945	oesophagienne
+T67	digestif 1843 1856	mégaoesophage
+T69	etatsosy 1951 1958	sténose
+T70	etatsosy 1862 1891	sténose d’allure neurologique
+T71	etatsosy 1757 1786	sténose d’allure neurologique
+T72	anatomie 2023 2031	œsophage
+T73	substance 2263 2272	Primpéran
+T74	anatomie 2092 2131	sphincter inférieur de l’œsophage (SIO)
+T77	valeur 2135 2142	10 mmHg
+T78	sosy 2070 2142	pression au niveau du sphincter inférieur de l’œsophage (SIO) de 10 mmHg
+T79	sosy 1921 1945	dilatation oesophagienne
+T80	sosy 1843 1856	mégaoesophage
+T81	sosy 1685 1705	mégaoesophage énorme
+T82	duree 269 279	depuis 20j
+A11	assertion T140 absent
+T83	sosy 882 896	visage amaigri
+T84	anatomie 979 985	langue
+T85	examen 784 786	TA
+T86	examen 801 803	FC
+T87	examen 813 815	FR
+T88	examen 832 836	SPO2
+T89	valeur 804 811	90b/min
+T91	valeur 817 824	12c/min
+T92	valeur 839 842	99%
+A12	norme T89 haut
+A13	norme T8 bas
+T93	etatsosy 882 896	visage amaigri
+T94	digestif 455 494	dysphagie aux solides puis aux liquides
+T95	ORL 455 494	dysphagie aux solides puis aux liquides
+T96	respiratoire 528 545	gène respiratoire
+T97	etatsosy 501 522	crampes épigastriques
+T98	sosy 501 522	crampes épigastriques
+T99	sosy 528 567	gène respiratoire aux moments des repas
+T100	sosy 664 678	amaigrissement
+T101	peau 942 955	ongles striés
+T102	peau 961 971	peau sèche
+T103	sosy 1006 1089	amaigrissement était chiffré à 33% du poids initial avec un indice de Quételet à 15
+A14	norme T92 normal
+T104	sosy 901 918	pli cutané pâteux
+T105	sosy 924 936	cheveux secs
+T106	sosy 942 955	ongles striés
+T107	sosy 961 971	peau sèche
+T108	sosy 979 1002	langue sèche dépapillée
+T110	osteomusculaires 501 522	crampes épigastriques
+T113	nerveux 501 522	crampes épigastriques
+T114	etatsosy 861 873	squelettique
+T115	digestif 2046 2060	apéristaltisme
+T116	moment 546 567	aux moments des repas
+T117	sosy 612 626	appétit normal
+T118	sosy 784 799	TA= 100/90 mmHg
+T119	sosy 801 811	FC=90b/min
+T120	sosy 813 824	FR= 12c/min
+T122	sosy 832 842	SPO2 à 99%
+T123	sosy 1159 1183	hyponatrémie à 128 meq/l
+T124	sosy 1189 1213	hypocalcémie à 84.6 mg/l
+T125	sosy 1218 1244	bilan rénal était correcte
+T126	sosy 1246 1256	Urée= 0.45
+T127	sosy 1264 1285	créatinémie= 8.90mg/l
+T129	sosy 1290 1350	albuminémie et le taux de protéines totales étaient diminués
+T130	sosy 1461 1470	pH à 7.42
+T131	sosy 1477 1494	PaO2 à 270.5 mmHg
+T132	sosy 1500 1517	PaCO2 à 34.4 mmHg
+T133	sosy 1525 1550	bicarbonates à 26,5 mol/l
+T134	anatomie 1640 1658	oesogastroduodénal
+T135	substance 2208 2228	traitement palliatif
+T136	sosy 110 124	régurgitations
+T137	sosy 141 168	vomissements post prandiaux
+T138	sosy 348 375	vomissements post prandiaux
+T139	sosy 455 494	dysphagie aux solides puis aux liquides
+T141	sosy 861 873	squelettique
+T142	sosy 2046 2060	apéristaltisme

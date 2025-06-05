@@ -1,0 +1,83 @@
+T5	examen 1488 1506	échographie rénale
+T9	examen 1815 1825	urographie
+T4	examen 382 410	scintigraphie rénale au DMSA
+T6	examen 27 48	diagnostic anté-natal
+T7	sosy 52 85	dilatation pyélo-urétérale gauche
+T8	anatomie 63 85	pyélo-urétérale gauche
+T10	examen 102 112	urographie
+T11	sosy 147 175	retard de secrétion à gauche
+T12	sosy 221 277	importante dilatation de toute la voie supérieure gauche
+T13	anatomie 255 277	voie supérieure gauche
+T14	anatomie 396 402	rénale
+T15	sosy 424 448	altération fonctionnelle
+T16	anatomie 498 509	rein gauche
+T17	examen 552 564	cystographie
+T18	sosy 591 627	reflux vésico-rénal droit de grade I
+T19	anatomie 598 616	vésico-rénal droit
+T22	pathologie 706 738	méga-uretère non refluant gauche
+T24	sosy 745 757	reflux droit
+T25	anatomie 752 757	droit
+T20	sosy 774 807	épisodes infectieux mal contrôlés
+T21	examen 872 883	cystoscopie
+T26	anatomie 946 956	méat droit
+T27	sosy 946 981	méat droit discrètement dysplasique
+T28	anatomie 1028 1032	méat
+T29	examen 1058 1090	exploration para-vésicale gauche
+T30	anatomie 1070 1090	para-vésicale gauche
+T31	anatomie 1128 1136	uretères
+T32	sosy 1123 1174	deux uretères dilatés s'abouchant au dessous du col
+T33	anatomie 1171 1174	col
+T34	traitement 1181 1225	résection des deux uretères pelviens gauches
+T35	anatomie 1200 1225	uretères pelviens gauches
+T36	traitement 1257 1283	anastomose inter-urétérale
+T37	anatomie 1268 1283	inter-urétérale
+T38	traitement 1293 1334	réimplantation supra-méatale de l'uretère
+T39	anatomie 1308 1321	supra-méatale
+T40	anatomie 1327 1334	uretère
+T41	sosy 1417 1462	réapparition ultérieure d'épisodes infectieux
+T42	anatomie 1500 1506	rénale
+T43	examen 1514 1537	cystographie rétrograde
+T44	examen 1549 1561	cystographie
+T45	pathologie 1610 1637	triplicité urétérale gauche
+T46	anatomie 1621 1637	urétérale gauche
+T47	sosy 1667 1711	reflux résiduel massif dans l'uretère gauche
+T48	anatomie 1697 1711	uretère gauche
+T49	traitement 1729 1760	réimplantation urétérale gauche
+T50	anatomie 1744 1760	urétérale gauche
+T52	sosy 333 343	dilatation
+T53	anatomie 287 296	urétérale
+T55	anatomie 468 474	rénale
+T56	sosy 642 657	reflux à gauche
+A3	assertion T56 absent
+T58	sosy 719 738	non refluant gauche
+A4	assertion T58 absent
+T62	valeur 486 489	33%
+T63	moment 893 919	en pré-opératoire immédiat
+T64	anatomie 1875 1888	trois pyélons
+T65	anatomie 1352 1368	pyélon inférieur
+T67	moment 113 134	en période néo-natale
+T1	sosy 281 314	ombre urétérale était peu précise
+T2	sosy 459 509	fonction rénale relative à 33% pour le rein gauche
+T3	sosy 527 546	aspect rétentionnel
+T23	traitement 845 866	indication opératoire
+T51	moment 1826 1833	à 2 ans
+T54	sosy 1847 1888	secrétion satisfaisante des trois pyélons
+T59	valeur 620 627	grade I
+T57	examen 201 216	clichés tardifs
+T60	sosy 1028 1047	méat du côté gauche
+A1	assertion T60 absent
+T61	mode 1527 1537	rétrograde
+T66	femme 52 85	dilatation pyélo-urétérale gauche
+T68	etatsosy 333 343	dilatation
+T69	femme 459 509	fonction rénale relative à 33% pour le rein gauche
+T70	femme 591 627	reflux vésico-rénal droit de grade I
+T71	infections 774 807	épisodes infectieux mal contrôlés
+T72	infections 1417 1462	réapparition ultérieure d'épisodes infectieux
+T73	femme 1610 1637	triplicité urétérale gauche
+T74	femme 706 738	méga-uretère non refluant gauche
+T75	femme 1123 1144	deux uretères dilatés
+T76	genre 0 8	Fillette
+A2	genre T76 féminin
+T77	origine 52 85	dilatation pyélo-urétérale gauche
+T78	issue 1778 1888	l'évolution a été favorable avec une urographie à 2 ans montrant une secrétion satisfaisante des trois pyélons
+A5	issue T78 amélioration

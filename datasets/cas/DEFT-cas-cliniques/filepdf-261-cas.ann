@@ -1,0 +1,6 @@
+T1	genre 0 3	Mme
+T2	age 21 27	38 ans
+A1	genre T1 féminin
+T3	origine 202 257	une tumeur rétropéritonéale gauche de 9 cm de grand axe
+T4	issue 1931 1984	L'évolution était favorable avec un recul d'une année
+A2	issue T4 amélioration

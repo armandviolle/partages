@@ -1,0 +1,6 @@
+T1	genre 0 4	Âgée
+T2	age 8 15	22 mois
+A1	genre T1 féminin
+T3	origine 147 257	la fièvre qui persiste depuis la veille, associée à une détérioration de l’état général et à de l’irritabilité
+T4	issue 3645 3776	trois mois après avoir obtenu son congé, A.B. ne présente maintenant qu’une légère dilatation du tronc de l’artère coronaire gauche
+A2	issue T4 amélioration

@@ -1,0 +1,6 @@
+T1	genre 1229 1240	la patiente
+T2	age 7 13	63 ans
+A1	genre T1 féminin
+T3	origine 43 144	une dysurie associée à une pesanteur pelvienne, évoluant depuis 2 ans et devenue gênante au quotidien
+T4	issue 1201 1308	À 3 mois de l’intervention, la patiente n’avait aucun trouble fonctionnel et l’examen clinique était normal
+A2	issue T4 amélioration

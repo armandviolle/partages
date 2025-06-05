@@ -1,0 +1,158 @@
+T1	substance 113 128	clarithromycine
+T2	dose 129 135	500 mg
+T3	frequence 136 154	deux fois par jour
+T4	duree 155 171	pendant 10 jours
+T5	sosy 199 240	sinusite aiguë à Streptococcus pneumoniae
+T6	sosy 272 296	fibrillation auriculaire
+T7	duree 297 312	depuis deux ans
+T8	substance 321 341	sulfate de quinidine
+T9	dose 342 348	200 mg
+T10	frequence 349 368	trois fois par jour
+T11	duree 396 411	depuis six mois
+T12	sosy 421 442	troubles psychotiques
+T13	substance 454 465	rispéridone
+T14	dose 466 470	2 mg
+T15	frequence 471 489	deux fois par jour
+T16	sosy 500 523	hypertension artérielle
+T17	substance 559 569	indapamide
+T18	dose 570 576	2,5 mg
+T19	frequence 577 594	une fois par jour
+T20	substance 711 726	clarithromycine
+T22	sosy 804 829	torsades de pointes (TdP)
+A1	assertion T22 hypothétique
+T23	sosy 1122 1143	conséquences mineures
+A2	assertion T23 non-associé
+T24	sosy 1305 1326	proarythmie cardiaque
+A3	assertion T24 non-associé
+T25	anatomie 1317 1326	cardiaque
+T26	substance 1602 1617	Clarithromycine
+T27	substance 1655 1664	Quinidine
+T28	substance 1718 1729	Rispéridone
+T29	substance 1763 1773	Indapamide
+T30	substance 1575 1581	CYP3A4
+T31	substance 1582 1588	CYP2D6
+T32	sosy 1876 1900	fibrillation auriculaire
+T33	substance 1912 1921	quinidine
+T34	substance 1926 1953	antiarythmique de classe IA
+T35	sosy 2120 2123	TdP
+A4	assertion T35 hypothétique
+T36	substance 2162 2171	quinidine
+T37	valeur 2179 2186	2 à 8 %
+T38	substance 2200 2209	quinidine
+T39	substance 2229 2235	CYP3A4
+T40	substance 2266 2272	CYP2D6
+T41	substance 2282 2286	P-gp
+T42	substance 1589 1593	P-gp
+T43	substance 2291 2300	quinidine
+T44	substance 2414 2425	rispéridone
+T45	substance 2433 2448	antipsychotique
+T46	substance 2455 2469	bloqueur d’IKr
+T47	substance 2585 2596	rispéridone
+T48	substance 2651 2657	CYP2D6
+T49	substance 2664 2670	CYP3A4
+T50	substance 2701 2710	quinidine
+T51	substance 2789 2795	CYP2D6
+T52	substance 2866 2872	CYP3A4
+T53	substance 2907 2922	clarithromycine
+T54	substance 2935 2964	inhibiteur puissant du CYP3A4
+T21	substance 2989 3000	rispéridone
+T55	substance 3007 3016	quinidine
+T56	substance 3036 3042	CYP3A4
+T57	substance 3107 3118	rispéridone
+T58	substance 3128 3137	quinidine
+T59	sosy 3072 3137	accumulation très importante de la rispéridone et de la quinidine
+A5	assertion T59 hypothétique
+T60	sosy 3202 3205	TdP
+A6	assertion T60 hypothétique
+T61	sosy 3213 3225	hypertension
+T62	substance 3260 3270	indapamide
+T63	substance 3275 3285	diurétique
+T64	examen 3319 3328	potassium
+T65	sosy 3309 3328	pertes de potassium
+A7	assertion T65 hypothétique
+T66	sosy 3355 3358	TdP
+A8	assertion T66 hypothétique
+T67	substance 3400 3410	indapamide
+T68	substance 3532 3547	clarithromycine
+T69	substance 3555 3595	inhibiteur du CYP3A4, des P-gp, et d’IKr
+T71	substance 3617 3637	régime thérapeutique
+T72	anatomie 3693 3705	plasmatiques
+T73	anatomie 3709 3720	tissulaires
+T74	substance 3724 3733	quinidine
+T75	substance 3740 3751	rispéridone
+T76	sosy 3661 3751	augmentation des concentrations plasmatiques et tissulaires de quinidine et de rispéridone
+A9	assertion T76 hypothétique
+T77	substance 3817 3826	quinidine
+T78	substance 3828 3839	rispéridone
+T79	substance 3843 3858	clarithromycine
+T80	substance 3870 3879	quinidine
+T81	substance 3883 3893	indapamide
+T82	sosy 3952 3994	prolongation importante de l’intervalle QT
+A10	assertion T82 hypothétique
+T83	sosy 4135 4138	TdP
+A11	assertion T83 hypothétique
+T84	sosy 4190 4193	TdP
+A12	assertion T84 non-associé
+T85	sosy 4231 4243	hypokaliémie
+T86	substance 4257 4267	indapamide
+T87	sosy 4335 4366	prolongement de l’intervalle QT
+A13	assertion T87 hypothétique
+T88	substance 4424 4445	inhibiteurs du CYP3A4
+T89	substance 4462 4483	inhibiteurs du CYP2D6
+T90	substance 4500 4519	inhibiteurs de P-gp
+T91	substance 4527 4542	bloqueurs d’IKr
+T92	substance 4551 4566	bloqueurs d’IKs
+T93	substance 1594 1597	IKr
+T94	substance 1598 1601	IKs
+T95	substance 2095 2098	IKr
+T96	substance 2102 2105	IKs
+T97	substance 2484 2487	IKr
+T98	substance 3418 3432	bloqueur d’IKs
+T99	substance 3458 3473	bloqueurs d’IKr
+T70	substance 3800 3815	bloqueurs d’IKr
+T100	substance 3865 3868	IKs
+T101	examen 4620 4650	électrocardiogramme de surface
+T102	sosy 4698 4730	allongement de son intervalle QT
+A14	assertion T102 hypothétique
+T103	substance 4751 4766	clarithromycine
+T104	sosy 4861 4875	torsadogénique
+T105	sosy 4883 4888	fatal
+A15	assertion T104 hypothétique
+A16	assertion T105 hypothétique
+T106	substance 4971 4983	amoxicilline
+T107	substance 4984 5002	acide clavulanique
+T108	sosy 1977 2004	blocage des canaux sodiques
+A17	assertion T108 non-associé
+T109	sosy 2024 2105	prolongation de la repolarisation par blocage des courants potassiques IKr et IKs
+A18	assertion T109 non-associé
+T110	sosy 2474 2487	blocage d’IKr
+A19	assertion T110 non-associé
+A20	assertion T85 hypothétique
+T111	anatomie 285 296	auriculaire
+T112	anatomie 513 523	artérielle
+T113	anatomie 1889 1900	auriculaire
+T114	sosy 756 784	interactions médicamenteuses
+A21	assertion T114 hypothétique
+T115	sosy 981 1009	interactions médicamenteuses
+A22	assertion T115 non-associé
+T116	sosy 1224 1251	effets indésirables majeurs
+A23	assertion T116 non-associé
+T117	sosy 1346 1365	effets indésirables
+A24	assertion T117 non-associé
+T118	sosy 3169 3187	effets secondaires
+A25	assertion T118 hypothétique
+T119	infections 199 240	sinusite aiguë à Streptococcus pneumoniae
+T120	ORL 199 240	sinusite aiguë à Streptococcus pneumoniae
+T121	respiratoire 199 240	sinusite aiguë à Streptococcus pneumoniae
+T122	cardiovasculaires 272 296	fibrillation auriculaire
+T124	cardiovasculaires 500 523	hypertension artérielle
+T125	cardiovasculaires 1876 1900	fibrillation auriculaire
+T126	cardiovasculaires 3213 3225	hypertension
+T127	etatsosy 272 296	fibrillation auriculaire
+T123	etatsosy 500 523	hypertension artérielle
+T128	etatsosy 1876 1900	fibrillation auriculaire
+T129	etatsosy 3213 3225	hypertension
+T130	genre 16 24	patiente
+A26	genre T130 féminin
+T131	age 38 44	53 ans
+T132	origine 272 296	fibrillation auriculaire

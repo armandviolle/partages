@@ -1,0 +1,137 @@
+T69	anatomie 1101 1105	rein
+T81	examen 1122 1158	tomodensitométrie abdomino-pelvienne
+T12	anatomie 1140 1158	abdomino-pelvienne
+T5	tumeur 1174 1180	tumeur
+T133	anatomie 1261 1293	cavités pyélocalicielles droites
+T65	anatomie 1311 1342	graisse péri-rénale postérieure
+T145	anatomie 1348 1365	muscles lombaires
+T103	anatomie 1383 1399	carré des lombes
+T146	anatomie 1367 1379	muscle psoas
+T109	anatomie 1414 1434	graisse sous cutanée
+T101	tumeur 1460 1477	fistules cutanées
+T23	anatomie 1469 1477	cutanées
+T44	examen 1514 1528	investigations
+T2	infections 1583 1600	abcès rénal droit
+T72	anatomie 1589 1600	rénal droit
+T73	anatomie 1614 1624	péri-rénal
+T15	substance 1684 1699	antibiothérapie
+T154	traitement 1781 1798	geste chirurgical
+T49	traitement 1823 1840	lombotomie droite
+T33	anatomie 1834 1840	droite
+T70	anatomie 1845 1849	rein
+T6	tumeur 1863 1869	tumeur
+T110	anatomie 1922 1938	tissus adjacents
+T13	anatomie 1967 1987	anatomo-pathologique
+T7	tumeur 2052 2066	tumeur maligne
+T54	traitement 2129 2148	néphrectomie droite
+T34	anatomie 2142 2148	droite
+T14	anatomie 2215 2235	anatomo-pathologique
+T8	tumeur 2240 2246	tumeur
+T61	anatomie 2348 2375	polynucléaires neutrophiles
+T20	anatomie 2417 2425	cellules
+T10	examen 2515 2518	PAS
+T62	valeur 2519 2527	positive
+T76	anatomie 2614 2620	rénale
+T52	anatomie 2658 2684	musculaire lombaire droite
+T55	anatomie 2704 2708	peau
+T63	moment 2732 2747	post-opératoire
+T16	substance 2768 2783	antibiothérapie
+T40	anatomie 278 299	fosse lombaire droite
+T43	mode 2797 2810	intraveineuse
+T64	substance 2815 2828	pénicilline G
+T60	mode 2889 2895	per os
+T83	dose 2897 2906	2 grammes
+T59	duree 2914 2931	pendant deux mois
+T22	anatomie 323 331	cutanées
+T1	infections 359 375	abcès fistulisés
+T3	etatsosy 46 66	douleurs permanentes
+T24	anatomie 506 514	dentaire
+T38	examen 548 567	examens biologiques
+T4	etatsosy 623 639	hyperleucocytose
+T9	examen 655 658	CRP
+T74	anatomie 704 710	rénale
+T39	anatomie 73 94	fosse lombaire droite
+T144	anatomie 834 860	bord du muscle psoas droit
+T11	anatomie 877 887	abdominale
+T42	mode 911 924	intraveineuse
+T50	sosy 938 1054	volumineuse masse solide du pôle supérieur du rein droit refoulant et laminant les calices qui apparaissent remaniés
+T66	anatomie 966 994	pôle supérieur du rein droit
+T19	age 21 27	14 ans
+T21	duree 132 149	depuis 4 semaines
+T31	etatsosy 166 178	hyperthermie
+T37	sosy 166 188	hyperthermie à 38,5 °C
+T41	valeur 181 188	38,5 °C
+A1	norme T41 haut
+T25	sosy 691 721	perturbation rénale biologique
+A2	assertion T25 absent
+T17	sosy 728 747	déficit immunitaire
+A3	assertion T17 absent
+T18	sosy 591 621	syndrome inflammatoi re sévère
+T32	valeur 661 669	138 mg/l
+T45	valeur 642 651	14500/mm3
+T46	examen 468 483	examen clinique
+T47	sosy 493 514	mauvais état dentaire
+T53	stomatognathique 523 540	nombreuses caries
+T58	stomatognathique 493 514	mauvais état dentaire
+T68	sosy 523 540	nombreuses caries
+T80	examen 226 241	examen clinique
+T84	sosy 406 429	signe clinique urinaire
+A4	assertion T84 absent
+T28	examen 865 887	échographie abdominale
+T82	examen 900 924	urographie intraveineuse
+T26	substance 1701 1711	oxacilline
+T29	examen 1960 1999	examen anatomo-pathologique extemporané
+T30	examen 2208 2235	examen anatomo-pathologique
+T35	duree 2849 2866	pendant 4semaines
+T36	dose 2830 2848	15Millions UI/jour
+T48	substance 2877 2888	ampicilline
+T56	frequence 2907 2913	/ jour
+T27	hemopathies 623 639	hyperleucocytose
+T57	examen 776 800	Abdomen Sans Préparation
+T67	etatsosy 310 331	tuméfactions cutanées
+T71	sosy 310 331	tuméfactions cutanées
+T75	sosy 261 299	empâtement de la fosse lombaire droite
+T77	nerveux 100 122	poussées paroxystiques
+T78	etatsosy 100 122	poussées paroxystiques
+T79	sosy 46 94	douleurs permanentes de la fosse lombaire droite
+T85	sosy 100 122	poussées paroxystiques
+T86	sosy 194 222	altération de l'état général
+T87	nerveux 194 222	altération de l'état général
+T88	tumeur 1628 1637	fistulisé
+T89	infections 2601 2620	actinomycose rénale
+T91	genre 3 13	adolescent
+A5	genre T91 masculin
+A6	norme T45 haut
+A7	norme T32 haut
+#1	AnnotatorNotes T32	Normal si <6 mg/l
+T92	valeur 2254 2271	7 cm de grand axe
+T93	etatsosy 194 222	altération de l'état général
+T94	homme 2601 2620	actinomycose rénale
+T51	sosy 359 375	abcès fistulisés
+A8	assertion T51 possible
+T90	sosy 623 651	hyperleucocytose à 14500/mm3
+T95	sosy 655 669	CRP à 138 mg/l
+T96	examen 760 772	radiologique
+T97	sosy 820 860	effacement du bord du muscle psoas droit
+T98	anatomie 1021 1028	calices
+T99	sosy 1070 1105	retard de sécrétion de ce même rein
+T100	sosy 1174 1477	tumeur spontanément hyperdense prenant le contraste de façon inhomogène, refoulant les cavités pyélocalicielles droites et infiltrant la graisse péri-rénale postérieure, les muscles lombaires (muscle psoas et carré des lombes) ainsi que la graisse sous cutanée en rapport avec les deux fistules cutanées
+T102	sosy 1583 1624	abcès rénal droit diffusant en péri-rénal
+T104	pathologie 1721 1752	pathologie tumorale plus sévère
+T105	anatomie 1880 1894	pôle supérieur
+T106	sosy 1845 1938	rein présente une tumeur solide du pôle supérieur et reste très adhérent aux tissus adjacents
+A9	assertion T29 absent
+T107	sosy 2240 2271	tumeur mesure 7 cm de grand axe
+T108	examen 2277 2288	microscopie
+T111	sosy 2308 2466	foyers aigus suppurés abcédés riches en polynucléaires neutrophiles altérés autour desquels se disposent des cellules histiocytaires et une importante fibrose
+T112	organisme 2542 2555	Actinomycètes
+T113	sosy 2482 2555	granules sulfuriques, jaunâtres, PAS positive, typiques des Actinomycètes
+T114	sosy 2636 2708	abcédée dans la masse musculaire lombaire droite et fistulisée à la peau
+T115	sosy 2996 3009	complications
+A10	assertion T115 absent
+T116	moment 3013 3025	après 4 mois
+T117	sosy 3029 3069	état clinique du patient s'est normalisé
+T118	valeur 3060 3069	normalisé
+T119	pathologie 2052 2066	tumeur maligne
+A11	assertion T119 possible
+T120	pathologie 2601 2620	actinomycose rénale

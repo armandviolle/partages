@@ -1,0 +1,90 @@
+T11	dispositif 1021 1040	cathéter sus pubien
+T43	anatomie 1030 1040	sus pubien
+T38	duree 1042 1060	pendant trois mois
+T4	etatsosy 1097 1104	fistule
+T16	traitement 1185 1195	dissection
+T49	anatomie 1229 1235	vessie
+T36	anatomie 1258 1274	esquille osseuse
+T25	anatomie 1334 1348	uretère gauche
+T20	anatomie 130 143	hanche gauche
+T41	dispositif 1394 1409	sonde urétérale
+T47	anatomie 1400 1409	urétérale
+T50	anatomie 1466 1472	vessie
+T10	anatomie 1493 1499	berges
+T26	anatomie 1551 1565	uretère gauche
+T42	dispositif 1574 1589	sonde urétérale
+T48	anatomie 1580 1589	urétérale
+T40	anatomie 1613 1622	péritoine
+T51	anatomie 1626 1647	latéro-vésical gauche
+T28	anatomie 1673 1686	hanche gauche
+T31	examen 172 186	interrogatoire
+T19	examen 1814 1866	examens cliniques, bactériologiques et radiologiques
+T35	valeur 1883 1890	normaux
+T18	examen 192 207	examen clinique
+T9	pathologie 31 56	antécédents pathologiques
+T7	substance 360 375	antibiothérapie
+T39	substance 397 410	pénicilline M
+T6	substance 417 426	aminoside
+T33	anatomie 450 473	membre inférieur gauche
+T2	peau 545 560	fistule cutanée
+T54	anatomie 553 559	cutané
+T22	anatomie 577 590	hanche gauche
+T46	anatomie 649 655	urines
+T32	mode 698 711	intraveineuse
+T29	anatomie 716 729	haut appareil
+T34	valeur 734 740	normal
+T3	homme 782 815	fistule vésicoacétabulaire gauche
+T23	anatomie 809 815	gauche
+T14	examen 833 844	cystoscopie
+T52	anatomie 876 897	corne vésicale gauche
+T8	infections 106 143	arthrite septique de la hanche gauche
+T13	etatsosy 545 560	fistule cutanée
+T17	etatsosy 782 815	fistule vésicoacétabulaire gauche
+T56	tumeur 545 560	fistule cutanée
+T57	tumeur 782 815	fistule vésicoacétabulaire gauche
+A1	assertion T9 absent
+T1	examen 687 711	urographie intraveineuse
+T5	age 18 24	22 ans
+T12	genre 3 10	patient
+A2	genre T12 masculin
+T15	duree 153 168	depuis 10 jours
+T21	sosy 902 968	zone inflammatoire hyperhémiée, centrée par un orifice punctiforme
+T24	traitement 974 992	cystostomie réglée
+T27	traitement 1203 1235	extrapéritonisation de la vessie
+T30	traitement 1243 1274	ablation d'une esquille osseuse
+T37	traitement 1283 1311	excision du trajet fistuleux
+T44	traitement 1417 1449	fermeture de l'orifice fistuleux
+T45	traitement 1508 1526	cystostomie réglée
+T53	traitement 1533 1565	cathétérisme de l'uretère gauche
+T55	traitement 1596 1622	interposition du péritoine
+T58	traitement 1656 1686	arthrodèse de la hanche gauche
+T59	dispositif 1712 1732	sonde de cystostomie
+T60	moment 1739 1770	3 semaines après l'intervention
+T61	sosy 1789 1796	fistule
+A3	assertion T61 absent
+T62	examen 271 283	hémocultures
+T63	organisme 307 328	staphylococcus aureus
+T64	traitement 432 473	immobilisation du membre inférieur gauche
+T65	examen 751 762	cystogramme
+T66	moment 489 506	après une semaine
+T67	traitement 1479 1499	avivement des berges
+T68	moment 1899 1916	recul de deux ans
+T69	osteomusculaires 106 143	arthrite septique de la hanche gauche
+T70	etatsosy 1432 1472	orifice fistuleux au niveau de la vessie
+T71	tumeur 1097 1104	fistule
+T72	homme 1097 1104	fistule
+T73	tumeur 1432 1472	orifice fistuleux au niveau de la vessie
+T74	homme 1432 1472	orifice fistuleux au niveau de la vessie
+T75	infections 307 328	staphylococcus aureus
+T76	sosy 545 680	fistule cutanée en regard de la hanche gauche initialement purulente, peu productive, puis ramenant des urines et devenant intarissable
+T77	sosy 716 740	haut appareil est normal
+T78	sosy 1079 1104	tarissement de la fistule
+A4	assertion T78 absent
+T79	traitement 1118 1139	indication opératoire
+T80	sosy 1302 1311	fistuleux
+T81	traitement 1361 1409	mise en place au préalable d'une sonde urétérale
+T82	traitement 1691 1732	opacification par la sonde de cystostomie
+T83	sosy 1814 1890	examens cliniques, bactériologiques et radiologiques (Figure 3) sont normaux
+T84	pathologie 106 143	arthrite septique de la hanche gauche
+T85	pathologie 782 815	fistule vésicoacétabulaire gauche
+T86	pathologie 1432 1472	orifice fistuleux au niveau de la vessie

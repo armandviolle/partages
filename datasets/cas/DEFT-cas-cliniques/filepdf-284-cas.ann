@@ -1,0 +1,6 @@
+T1	genre 0 10	Un patient
+T2	age 14 20	24 ans
+T3	origine 42 71	écoulement urétral récidivant
+A1	genre T1 masculin
+T4	issue 3856 4042	à 3 et 6 mois, il n'existait plus aucun écoulement en regard du méat accessoire laissé en place. Les cicatrices étaient belles et le patient ne se plaignait d'aucune dysfonction érectile
+A2	issue T4 guérison

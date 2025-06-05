@@ -1,0 +1,6 @@
+T1	genre 0 3	Mme
+T2	age 18 24	72 ans
+A1	genre T1 féminin
+T3	origine 42 101	douleurs lombaires gauches associées à une hématurie totale
+T4	issue 687 737	L’évolution était favorable avec un recul de 2 ans
+A2	issue T4 amélioration

@@ -1,0 +1,6 @@
+T1	age 40 46	20 ans
+T2	genre 23 31	patiente
+A1	genre T2 féminin
+T3	origine 139 228	un status epilepticus réfractaire à trois doses de lorazépam à 1 mg par voie sous-cutanée
+T4	issue 5321 5345	À son congé de l’hôpital
+A2	issue T4 amélioration

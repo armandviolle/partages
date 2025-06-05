@@ -1,0 +1,6 @@
+T1	age 18 24	98 ans
+T2	genre 4 9	femme
+A1	genre T2 féminin
+T3	origine 47 76	une résection d’un insulinome
+T4	issue 3383 3544	L’évolution clinique de la patiente est favorable, on observe la disparition des symptômes après la diminution et l’arrêt du traitement à l’imipénem-cilastatine.
+A2	issue T4 amélioration

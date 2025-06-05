@@ -1,0 +1,6 @@
+T1	genre 0 4	Mlle
+T2	age 18 24	26 ans
+A1	genre T1 féminin
+T3	origine 53 165	des douleurs chroniques de l’épaule gauche évoluant depuis 4 ans, traitées à plusieurs reprises mais sans succès
+T4	issue 1303 1414	À 15 mois de recul, la patiente est asymptomatique et les radiographies de contrôle ne montrent aucune récidive
+A2	issue T4 guérison

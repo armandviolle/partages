@@ -1,0 +1,6 @@
+T1	genre 0 8	Monsieur
+T2	age 15 21	77 ans
+T3	issue 3645 3651	décédé
+A1	issue T3 décès
+A2	genre T1 masculin
+T4	origine 111 169	altération de l’état général et douleurs lombaires gauches

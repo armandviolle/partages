@@ -1,0 +1,37 @@
+T12	examen 151 163	consultation
+T1	sosy 173 209	lésions papuleuses vulvaires isolées
+T18	examen 259 274	examen clinique
+T7	sosy 303 325	assez bon état général
+T2	peau 384 475	papules légèrement pigmentées, étendues sur les grandes lèvres et la fourchette vulvo-anale
+T32	age 46 52	31 ans
+T4	anatomie 453 475	fourchette vulvo-anale
+T31	anatomie 432 446	grandes lèvres
+T26	examen 491 522	reste de l’examen gynécologique
+T19	examen 528 544	examen somatique
+T27	valeur 551 569	sans particularité
+T9	examen 576 591	biopsie cutanée
+T35	anatomie 584 591	cutanée
+T25	examen 658 669	colposcopie
+T23	valeur 742 749	normale
+T29	substance 754 770	traitement local
+T6	pathologie 82 119	antécédents pathologique particuliers
+T3	anatomie 353 368	région vulvaire
+T5	examen 336 368	inspection de la région vulvaire
+A1	assertion T6 absent
+T8	anatomie 192 201	vulvaires
+T10	duree 210 229	remontant à un mois
+T11	sosy 384 475	papules légèrement pigmentées, étendues sur les grandes lèvres et la fourchette vulvo-anale
+T13	immunitaire 634 652	papulose bowenoide
+T14	hemopathies 634 652	papulose bowenoide
+#1	AnnotatorNotes T14	la papulose bowenoide apparaît avant la maladie de Bowen qui est pré-cancéreuse
+T15	genre 29 37	patiente
+A2	genre T15 féminin
+T16	substance 781 797	5 fluoro-uracile
+T17	etatsosy 173 209	lésions papuleuses vulvaires isolées
+T20	femme 432 475	grandes lèvres et la fourchette vulvo-anale
+T21	virales 720 735	infection à HPV
+T22	sosy 235 246	autre signe
+A3	assertion T22 absent
+T24	sosy 491 569	reste de l’examen gynécologique et l’examen somatique était sans particularité
+T28	pathologie 634 652	papulose bowenoide
+T30	sosy 684 749	recherche de signe d’extension de l'infection à HPV était normale

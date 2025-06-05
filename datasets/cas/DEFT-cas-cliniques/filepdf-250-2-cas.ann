@@ -1,0 +1,6 @@
+T1	age 10 22	4ans et demi
+T2	genre 32 40	masculin
+A1	genre T2 masculin
+T3	origine 96 166	pyélonéphrite aigue avec brûlures mictionnelles, pollakiurie et fièvre
+T4	issue 2229 2296	Actuellement le recul est de 13 mois, le patient est asymptomatique
+A2	issue T4 guérison

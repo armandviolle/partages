@@ -1,0 +1,6 @@
+T1	genre 0 18	Napoléon Bonaparte
+T2	origine 167 172	décès
+A1	genre T1 masculin
+T3	issue 23 27	mort
+A2	issue T3 décès
+T4	age 55 68	le 5 mai 1821

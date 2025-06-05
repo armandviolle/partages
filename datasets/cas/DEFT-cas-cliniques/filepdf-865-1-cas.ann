@@ -1,0 +1,6 @@
+T1	genre 16 24	patiente
+T2	age 28 34	40 ans
+A1	genre T1 féminin
+T3	origine 109 313	à 21 semaines d’aménorrhée (SA), aux urgences pour des douleurs au niveau de l’hypochondre droit à irradiation interscapulaire associées à des nausées et des vomissements évoluait dans un contexte fébrile
+T4	issue 1358 1475	Les suites opératoires étaient simples : la grossesse était à terme, à la naissance, le nouveau-né était bien portant
+A2	issue T4 guérison

@@ -1,0 +1,6 @@
+T1	genre 0 5	Homme
+T2	issue 137 142	sauvé
+T3	age 9 15	20 ans
+A1	genre T1 masculin
+A2	issue T2 amélioration
+T4	origine 52 98	un coup de couteau de-cuisine dans la poitrine

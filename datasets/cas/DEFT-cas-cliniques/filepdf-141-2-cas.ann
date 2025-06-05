@@ -1,0 +1,6 @@
+T1	genre 0 7	Patient
+T2	age 15 21	68 ans
+T3	issue 465 481	plastie scrotale
+A1	issue T3 amélioration
+A2	genre T1 masculin
+T4	origine 118 156	une augmentation du volume des bourses

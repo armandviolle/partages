@@ -1,0 +1,28 @@
+T9	genre 0 5	Homme
+T18	etatsosy 246 252	décède
+T16	examen 257 291	prélèvement sanguin intracardiaque
+T12	anatomie 269 276	sanguin
+T8	valeur 336 344	négative
+T11	examen 349 383	recherche de dérivés cannabinoïdes
+T6	substance 362 383	dérivés cannabinoïdes
+T10	valeur 410 418	positive
+T4	examen 435 470	screening toxicologique par CLHP/BD
+T2	chimiques 482 532	pics et spectres caractéristiques des kavalactones
+T7	substance 520 532	kavalactones
+T3	valeur 585 589	0,40
+T13	age 9 15	28 ans
+A1	genre T9 masculin
+T14	issue 246 252	décède
+A2	issue T14 décès
+T15	examen 307 331	alcoolémie (par CPG/FID)
+T17	examen 388 405	immunoenzymologie
+T19	valeur 420 428	45 ng/ml
+T5	valeur 593 601	0,61 g/L
+T1	blessures 216 221	coups
+T20	chimiques 362 383	dérivés cannabinoïdes
+T21	anatomie 277 291	intracardiaque
+T22	sosy 307 344	alcoolémie (par CPG/FID) est négative
+T23	sosy 349 429	recherche de dérivés cannabinoïdes par immunoenzymologie est positive (45 ng/ml)
+T24	sosy 571 601	alcoolémie de 0,40 et 0,61 g/L
+T25	examen 571 581	alcoolémie
+T26	sosy 435 532	screening toxicologique par CLHP/BD révèle des pics et spectres caractéristiques des kavalactones

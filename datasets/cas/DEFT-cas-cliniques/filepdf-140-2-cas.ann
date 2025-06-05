@@ -1,0 +1,81 @@
+T1005	anatomie 959 969	rein droit
+T1007	anatomie 1019 1024	rénal
+T10010	anatomie 1057 1063	rénale
+T10067	examen 1099 1123	exploration chirurgicale
+T100142	traitement 1184 1203	tumorectomie gauche
+T100162	valeur 971 974	34%
+T100182	pathologie 1050 1063	tumeur rénale
+T10024	anatomie 1262 1281	anatomopathologique
+T2001	anatomie 64 74	artérielle
+T2002	anatomie 106 121	lombaire gauche
+T2003	anatomie 484 490	rénale
+T2004	anatomie 1552 1563	rein gauche
+T2006	anatomie 893 899	rénale
+T2008	anatomie 700 714	pédicule rénal
+T2009	anatomie 863 874	péri-rénale
+T20011	anatomie 443 453	rein droit
+T20012	anatomie 539 544	rénal
+T20013	anatomie 261 267	rénale
+T20014	mode 1167 1177	12ème côte
+T20015	anatomie 1214 1227	ganglionnaire
+T20016	anatomie 1231 1252	pédicule rénal gauche
+T20017	anatomie 317 328	rein gauche
+T20051	duree 32 45	depuis 10 ans
+T20052	duree 131 144	depuis 1 mois
+T20061	examen 217 232	examen clinique
+T20062	examen 249 267	échographie rénale
+T20063	examen 359 383	urographie intraveineuse
+T20064	examen 480 490	TDM rénale
+T20065	examen 755 758	IRM
+T20066	examen 879 899	scintigraphie rénale
+T20068	examen 1256 1281	étude anatomopathologique
+T20069	examen 1479 1503	contrôle scannographique
+T200111	moment 1512 1539	8 mois après l'intervention
+T200141	traitement 1132 1149	lombotomie gauche
+T200143	traitement 1207 1252	curage ganglionnaire du pédicule rénal gauche
+T200161	valeur 1573 1579	normal
+T200163	valeur 239 245	normal
+T200181	pathologie 664 714	adénopathies infracentimétriques du pédicule rénal
+T200191	sosy 51 74	hypertension artérielle
+T200192	sosy 98 121	douleur lombaire gauche
+T200193	sosy 185 213	altération de l'état général
+T200194	sosy 295 355	formation kystique du rein gauche avec un contenu hétérogène
+T200196	sosy 396 430	syndrome tumoral médiorénal gauche
+T200197	sosy 628 649	bourgeon endokystique
+T200198	sosy 725 749	aspect atypique du kyste
+T200199	sosy 797 874	processus tissulaire nécrosé au centre avec respect de la graisse péri-rénale
+T200200	sosy 924 975	nette diminution de la fixation du rein droit (34%)
+T200201	sosy 981 1031	absence de fixation au foyer du kyste rénal gauche
+T200202	sosy 1409 1432	adénites réactionnelles
+T20018	sosy 161 177	hématurie totale
+T20019	sosy 217 245	examen clinique était normal
+T20020	mode 370 383	intraveineuse
+T20021	anatomie 413 430	médiorénal gauche
+T20022	sosy 437 475	petit rein droit de contours réguliers
+T20023	sosy 533 621	kyste rénal avec une paroi épaisse se rehaussant après injection de produit de contraste
+T20024	mode 588 597	injection
+T20025	substance 601 621	produit de contraste
+T20026	anatomie 807 817	tissulaire
+T20027	sosy 1322 1343	processus néoplasique
+T20028	sosy 1365 1403	processus inflammatoire non spécifique
+T20029	sosy 1552 1579	rein gauche d'aspect normal
+A1	assertion T20027 absent
+A2	norme T200163 normal
+A3	norme T200161 normal
+T1	valeur 677 696	infracentimétriques
+T200203	hemopathies 664 714	adénopathies infracentimétriques du pédicule rénal
+T200204	etatsosy 98 121	douleur lombaire gauche
+T200206	tumeur 1050 1063	tumeur rénale
+T200207	etatsosy 161 177	hématurie totale
+T2	cardiovasculaires 51 74	hypertension artérielle
+T3	femme 295 328	formation kystique du rein gauche
+T4	femme 533 544	kyste rénal
+T5	femme 1050 1063	tumeur rénale
+T6	etatsosy 1365 1403	processus inflammatoire non spécifique
+T7	hemopathies 1409 1432	adénites réactionnelles
+T8	genre 0 3	Mme
+T9	age 17 23	60 ans
+A4	genre T8 féminin
+T10	origine 94 213	une douleur lombaire gauche évoluant depuis 1 mois, associée à une hématurie totale et une altération de l'état général
+T11	issue 1476 1579	le contrôle scannographique réalisé 8 mois après l'intervention a montré un rein gauche d'aspect normal
+A5	issue T11 guérison

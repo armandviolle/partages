@@ -1,0 +1,75 @@
+T1001	anatomie 216 226	bronchique
+T1002	anatomie 453 473	haut appareil gauche
+T1004	anatomie 797 810	para-aortique
+T1005	anatomie 943 962	veine rénale gauche
+T1006	anatomie 1070 1076	rénale
+T1007	anatomie 1027 1038	rein gauche
+T1008	anatomie 982 988	rénale
+T1009	anatomie 1164 1170	rénale
+T10010	anatomie 1174 1185	péri-rénale
+T10011	anatomie 1201 1211	épithélial
+T10061	examen 291 306	examen clinique
+T10062	examen 372 383	cystoscopie
+T10063	examen 477 487	urographie
+T10064	examen 560 563	TDM
+T10065	examen 968 1010	scintigraphie rénale isotopique Tc-99-MAG3
+T100111	moment 1344 1361	Le recul à 4 mois
+T100141	traitement 268 287	traitement adjuvant
+T100142	traitement 1112 1139	néphrectomie élargie gauche
+T100161	valeur 313 319	normal
+T100162	valeur 632 642	7,5 x 3 cm
+T100163	valeur 676 686	1,5 x 1 cm
+T100164	valeur 868 872	3 cm
+T100181	pathologie 785 810	adénopathie para-aortique
+T100183	pathologie 1275 1295	carcinome bronchique
+T100191	sosy 69 112	hématurie macroscopique spontanée, indolore
+T100192	sosy 118 124	fièvre
+T100193	sosy 128 143	perte pondérale
+T100195	sosy 523 553	masse polaire inférieur gauche
+T100196	sosy 923 962	envahissement de la veine rénale gauche
+T100199	sosy 1373 1398	progression de la maladie
+T10012	pathologie 206 262	carcinome bronchique peu différencié classé pT2pN2pMx G3
+T10013	valeur 250 262	pT2pN2pMx G3
+T10015	anatomie 329 345	fosses lombaires
+T10016	sosy 329 366	fosses lombaires souples et indolores
+T1003	sosy 573 777	deux masses tumorales gauches, l’une polaire inférieure de 7,5 x 3 cm et l’autre polaire supérieure de 1,5 x 1 cm régulière, toutes deux de densité tissulaire et peu rehaussées par le produit de contraste
+T10018	valeur 1051 1054	26%
+T10019	examen 1061 1084	fonction rénale globale
+T10020	sosy 1027 1084	rein gauche participe à 26% de la fonction rénale globale
+T10021	anatomie 1285 1295	bronchique
+T2003	anatomie 537 553	inférieur gauche
+T200121	substance 1301 1325	chimiothérapie adjuvante
+T200194	sosy 418 473	origine du saignement au niveau du haut appareil gauche
+T200198	sosy 1150 1241	envahissement rénale et péri-rénale d’un carcinome épithélial moyennement à peu différencié
+T20013	traitement 179 200	pneumonectomie gauche
+T20021	anatomie 595 602	gauches
+T20023	sosy 853 891	3ème tumeur de 3 cm médiorénale droite
+T20025	anatomie 873 891	médiorénale droite
+T20028	examen 1089 1096	analyse
+T20029	moment 1399 1428	après 2 mois de stabilisation
+T20030	anatomie 721 731	tissulaire
+A1	assertion T100192 absent
+A2	assertion T100193 absent
+A3	assertion T100141 absent
+T1	moment 384 406	en période hématurique
+A4	assertion T100196 absent
+A5	norme T100161 normal
+A6	etat T10012 passé
+T2	sosy 291 319	examen clinique était normal
+T3	substance 757 777	produit de contraste
+T200199	tumeur 858 864	tumeur
+T200200	etatsosy 69 112	hématurie macroscopique spontanée, indolore
+T4	homme 69 112	hématurie macroscopique spontanée, indolore
+T5	respiratoire 206 226	carcinome bronchique
+T6	tumeur 206 226	carcinome bronchique
+T7	hemopathies 785 810	adénopathie para-aortique
+T8	tumeur 1191 1211	carcinome épithélial
+T9	homme 1191 1211	carcinome épithélial
+T10	tumeur 1275 1295	carcinome bronchique
+T11	respiratoire 1275 1295	carcinome bronchique
+T12	genre 15 22	patient
+A7	genre T12 masculin
+T13	age 26 32	59 ans
+T14	origine 69 143	hématurie macroscopique spontanée, indolore sans fièvre ni perte pondérale
+T15	issue 1369 1428	une progression de la maladie après 2 mois de stabilisation
+A8	issue T15 détérioration

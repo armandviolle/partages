@@ -1,0 +1,6 @@
+T1	genre 0 2	Mr
+T2	age 18 24	50 ans
+A1	genre T1 masculin
+T3	origine 82 136	une tuméfaction lombaire droite, fébrile avec frissons
+T4	issue 1913 2041	Le patient se porte bien avec une fonction rénale normale. Le rein gauche est normal à l'échographie. Son diabète est équilibré.
+A2	issue T4 amélioration

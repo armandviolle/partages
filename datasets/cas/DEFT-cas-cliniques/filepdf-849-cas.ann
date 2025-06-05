@@ -1,0 +1,146 @@
+T1001	anatomie 224 233	hépatique
+T1002	anatomie 551 560	hépatique
+T1003	anatomie 662 671	digestive
+T1004	anatomie 1187 1197	abdominale
+T1005	anatomie 1248 1258	foie droit
+T1006	anatomie 1338 1349	tronc porte
+T1007	anatomie 1431 1447	veine ombilicale
+T10051	duree 172 184	depuis 6 ans
+T10061	examen 336 353	bilan étiologique
+T10062	examen 377 392	biopsie du foie
+T10063	examen 462 481	bilan immunologique
+T10064	examen 504 520	bilan biologique
+T10065	examen 539 560	échographie hépatique
+T10066	examen 1025 1040	examen clinique
+T10067	examen 1141 1156	bilan hépatique
+T10068	examen 1175 1197	échographie abdominale
+T10069	examen 1657 1712	surveillance fœto-maternelle était clinique, biologique
+T10070	examen 1714 1741	numération formule sanguine
+T10071	examen 1743 1758	bilan hépatique
+T10072	examen 1762 1779	bilan d’hémostase
+T10073	examen 1784 1797	échographique
+T10074	examen 1804 1828	échographie obstétricale
+T100161	valeur 527 533	normal
+T100162	valeur 765 772	stade 1
+T100163	valeur 1163 1169	normal
+T100164	valeur 1395 1400	15 mm
+T100166	valeur 1644 1651	normaux
+T100167	valeur 2045 2048	50%
+T100168	valeur 2580 2585	3000g
+T100181	pathologie 215 246	cirrhose hépatique idiopathique
+T100182	pathologie 412 420	cirrhose
+T100183	pathologie 743 772	cirrhose idiopathique stade 1
+T100184	pathologie 1565 1585	adénopathie profonde
+T100193	sosy 692 723	varices oesophagiennes stade II
+T100194	sosy 920 940	signes hémorragiques
+T100195	sosy 1060 1066	ictère
+T100196	sosy 1213 1333	foie dysmorphique avec atrophie du foie droit et hypertrophie du foie gauche et du segment 1 d’écho structure hétérogène
+T1008	anatomie 316 330	oesophagiennes
+T1009	moment 105 125	trois ans auparavant
+T10010	sosy 84 104	mort fœtale in utero
+T10011	sosy 262 330	épisode d’hémorragie digestive par rupture de varices oesophagiennes
+T10012	anatomie 388 392	foie
+T10013	examen 426 455	sérologies hépatitique B et C
+T10014	valeur 490 499	négatives
+T10015	anatomie 580 584	foie
+T10017	sosy 601 604	HTP
+T10018	examen 650 671	fibroscopie digestive
+T10019	anatomie 700 714	oesophagiennes
+T10020	valeur 715 723	stade II
+T10021	traitement 859 873	sclérothérapie
+T10022	sosy 1073 1096	circulation collatérale
+T10023	valeur 1118 1123	18 cm
+T10025	anatomie 1147 1156	hépatique
+T10026	anatomie 1213 1217	foie
+T10027	anatomie 1278 1289	foie gauche
+T10028	traitement 1406 1447	reperméabilisation de la veine ombilicale
+T10029	sosy 1554 1560	ascite
+T10031	sosy 1453 1497	circulation collatérale splénorénale directe
+T10032	anatomie 1590 1598	pancréas
+T10033	anatomie 1605 1622	vésicule biliaire
+T10034	moment 1835 1842	à 32 SA
+T10035	examen 1924 1943	diamètre bipariétal
+T10036	valeur 1944 1948	85mm
+T10037	examen 1954 1971	longueur fémorale
+T10038	valeur 1972 1976	73mm
+T10039	sosy 1860 1995	grossesse mono fœtale évolutive avec présentation céphalique un diamètre bipariétal=85mm, une longueur fémorale=73mm, placenta fundique
+T10040	examen 2002 2021	doppler obstétrical
+T10041	examen 2025 2042	index diastolique
+T10042	frequence 2135 2149	bihebdomadaire
+T10043	moment 2150 2167	à partir de 32 SA
+T10045	moment 2189 2204	à 38 SA révolue
+T10046	traitement 2252 2272	analgésie péridurale
+T10047	traitement 2452 2463	épisiotomie
+T10048	examen 2561 2566	Apgar
+T10049	valeur 2567 2572	10/10
+T200165	valeur 1529 1547	18 cm de grand axe
+T200191	sosy 190 210	hypertension portale
+T20010	anatomie 203 210	portale
+T20012	anatomie 283 292	digestive
+T20017	sosy 426 499	sérologies hépatitique B et C et le bilan immunologique étaient négatives
+T20018	sosy 504 533	bilan biologique était normal
+T20020	sosy 580 595	foie hétérogène
+T20022	sosy 608 644	circulation collatérale splénorénale
+T20023	anatomie 632 644	splénorénale
+T20028	duree 882 894	deux séances
+T20029	examen 974 980	suivie
+T20030	moment 981 1021	dès le premier trimestre de sa grossesse
+T20032	sosy 1102 1123	splénomégalie à 18 cm
+T20034	sosy 1141 1169	bilan hépatique était normal
+T20038	anatomie 1296 1305	segment 1
+T20040	sosy 1338 1400	tronc porte était à la limite supérieure de la normale à 15 mm
+T20043	anatomie 1477 1489	splénorénale
+T20044	sosy 1503 1547	splénomégalie homogène de 18 cm de grand axe
+T20048	sosy 1590 1651	pancréas et la vésicule biliaire étaient par ailleurs normaux
+T20053	anatomie 1910 1920	céphalique
+T20056	anatomie 1963 1971	fémorale
+T20059	anatomie 1978 1986	placenta
+T20075	sosy 2025 2048	index diastolique à 50%
+T20076	examen 2055 2113	surveillance par enregistrement du rythme cardiaque foetal
+T20077	anatomie 2097 2106	cardiaque
+T20081	traitement 2209 2233	déclenchement du travail
+T20082	substance 2252 2261	analgésie
+T20083	mode 2262 2272	péridurale
+T20084	traitement 2380 2390	extraction
+T20086	traitement 2517 2559	extraction d’un nouveau-né de sexe féminin
+T20090	sosy 2561 2572	Apgar 10/10
+T20091	sosy 2573 2585	pesant 3000g
+A1	assertion T10029 absent
+A2	assertion T100184 absent
+T1	examen 799 809	Child-pugh
+#1	AnnotatorNotes T20082	Renvoie au produit injecté pour réaliser cette analgésie
+A3	norme T100163 normal
+A4	norme T100166 normal
+A5	norme T100168 normal
+A6	norme T100161 normal
+A7	assertion T100194 absent
+A8	assertion T100195 absent
+A9	assertion T10022 absent
+T2	anatomie 1733 1741	sanguine
+T3	anatomie 1749 1758	hépatique
+T4	pathologie 437 455	hépatitique B et C
+T200193	digestif 743 764	cirrhose idiopathique
+T200196	etatsosy 1213 1230	foie dysmorphique
+T200198	digestif 308 330	varices oesophagiennes
+T200199	digestif 692 714	varices oesophagiennes
+T5	etatsosy 1102 1115	splénomégalie
+T6	digestif 1236 1258	atrophie du foie droit
+T7	digestif 1262 1289	hypertrophie du foie gauche
+T8	etatsosy 1262 1289	hypertrophie du foie gauche
+#2	AnnotatorNotes T6	l'atrophie du foie est uniquement présentée en C06, pas en C23
+T9	etatsosy 1503 1525	splénomégalie homogène
+T10	femme 84 104	mort fœtale in utero
+T11	etatsosy 84 104	mort fœtale in utero
+T12	digestif 190 210	hypertension portale
+T13	digestif 215 246	cirrhose hépatique idiopathique
+T14	digestif 272 292	hémorragie digestive
+T15	etatsosy 272 292	hémorragie digestive
+T16	digestif 412 420	cirrhose
+#3	AnnotatorNotes T10017	hypertension portale
+T17	digestif 601 604	HTP
+T18	genre 0 3	Mme
+T19	age 15 21	23 ans
+A10	genre T18 féminin
+T20	origine 190 330	hypertension portale sur cirrhose hépatique idiopathique révélée par un épisode d’hémorragie digestive par rupture de varices oesophagiennes
+T21	issue 2501 2559	Elle a permis l’extraction d’un nouveau-né de sexe féminin
+A11	issue T21 guérison

@@ -1,0 +1,6 @@
+T1	genre 3 8	homme
+T2	age 37 43	39 ans
+A1	genre T1 masculin
+T3	origine 88 195	des douleurs rétropubiennes et testiculaires bilatérales, survenant surtout en per- et en post-éjaculatoire
+T4	issue 2336 2415	Les douleurs ont alors disparu et, aucun autre symptôme urogénital n’est décrit
+A2	issue T4 guérison

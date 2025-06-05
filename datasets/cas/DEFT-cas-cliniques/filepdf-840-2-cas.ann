@@ -1,0 +1,95 @@
+T9	examen 255 292	examen cytobactériologique des urines
+T10	examen 338 359	échographie pelvienne
+T11	anatomie 626 635	abdominal
+T8	pathologie 23 42	tabagique chronique
+T12	pathologie 44 54	diabétique
+T13	sosy 58 68	hypertendu
+T14	traitement 97 146	résection transuréthrale d’un adénome de prostate
+T15	mode 107 121	transuréthrale
+T16	pathologie 127 146	adénome de prostate
+T17	anatomie 138 146	prostate
+T18	sosy 171 190	douleurs pelviennes
+T19	anatomie 180 190	pelviennes
+T20	sosy 200 218	troubles urinaires
+T22	sosy 229 236	dysurie
+T23	sosy 240 251	pollakiurie
+T25	anatomie 350 359	pelvienne
+T26	sosy 376 421	énorme masse pelvienne échogène et hétérogène
+T27	anatomie 389 398	pelvienne
+T28	sosy 431 456	calcifications pariétales
+T29	anatomie 446 456	pariétales
+T30	sosy 462 476	calcifications
+T31	examen 504 540	radiographies standards de l’abdomen
+T32	anatomie 533 540	abdomen
+T33	examen 613 646	Angioscanner abdominal et pelvien
+T34	anatomie 639 646	pelvien
+T35	sosy 660 732	masse de 93 mm aux dépens de la bifurcation iliaque prenant le contraste
+T36	anatomie 692 711	bifurcation iliaque
+T37	anatomie 775 808	origine de l’artère hypogastrique
+T38	anatomie 858 874	cavité pelvienne
+T39	examen 919 943	exploration chirurgicale
+T40	pathologie 963 972	anévrisme
+T41	pathologie 981 1014	hématome rétropéritonéal organisé
+T42	anatomie 990 1005	rétropéritonéal
+T43	anatomie 1057 1077	artère hypogastrique
+T44	sosy 1044 1090	origine de l’artère hypogastrique était rompue
+T45	anatomie 1094 1116	artère iliaque externe
+T46	sosy 1094 1133	artère iliaque externe était fragilisée
+T47	anatomie 1207 1229	artère iliaque externe
+T48	pathologie 1268 1277	anévrisme
+T49	traitement 1283 1331	ligature des artères iliaques externe et interne
+T50	anatomie 1296 1331	artères iliaques externe et interne
+T51	traitement 1340 1369	pontage axillo-fémoral gauche
+T52	anatomie 1348 1369	axillo-fémoral gauche
+T53	examen 1462 1482	anatomopathologiques
+T54	substance 1532 1544	Amoxicilline
+T55	duree 1572 1589	pendant 48 heures
+T56	mode 1605 1615	voie orale
+T57	duree 1616 1632	pendant 10 jours
+T65	examen 1429 1458	prélèvements bactériologiques
+T60	frequence 33 42	chronique
+T61	valeur 669 674	93 mm
+T62	sosy 1022 1040	grumeaux purulents
+T1	sosy 316 332	germe spécifique
+A1	assertion T1 absent
+T2	sosy 755 808	faux anévrisme de l’origine de l’artère hypogastrique
+A2	assertion T2 possible
+T3	sosy 898 914	ostéolyse sacrée
+T4	anatomie 908 914	sacrée
+T5	sosy 815 874	refoulait les organes de voisinage dans la cavité pelvienne
+T6	sosy 1176 1229	aspect macroscopique lésé de l'artère iliaque externe
+T7	sosy 1488 1497	anomalies
+A3	assertion T7 absent
+T21	substance 1503 1518	antibiothérapie
+T24	mode 1554 1571	par voie générale
+T58	duree 1722 1735	de cinq jours
+T59	frequence 1752 1765	régulièrement
+T63	examen 1752 1771	régulièrement suivi
+T64	moment 1793 1812	un recul de 17 mois
+A4	etat T16 passé
+T66	anatomie 209 218	urinaires
+T67	anatomie 286 292	urines
+T68	anatomie 829 849	organes de voisinage
+T69	moment 1663 1678	post-opératoire
+T70	chimiques 23 42	tabagique chronique
+T71	nutritionnelles 44 54	diabétique
+T72	endocriniennes 44 54	diabétique
+T73	cardiovasculaires 58 68	hypertendu
+T74	tumeur 127 146	adénome de prostate
+T75	homme 127 146	adénome de prostate
+T76	etatsosy 171 190	douleurs pelviennes
+T78	homme 229 236	dysurie
+T79	homme 240 251	pollakiurie
+T80	osteomusculaires 898 914	ostéolyse sacrée
+T81	cardiovasculaires 963 972	anévrisme
+T82	etatsosy 981 1005	hématome rétropéritonéal
+T83	cardiovasculaires 1268 1277	anévrisme
+T84	immunitaire 44 54	diabétique
+T85	etatsosy 240 251	pollakiurie
+T86	etatsosy 229 236	dysurie
+T77	age 15 21	70 ans
+T87	genre 1740 1747	patient
+A5	genre T87 masculin
+T88	origine 167 251	des douleurs pelviennes avec des troubles urinaires à type de dysurie et pollakiurie
+T89	issue 1651 1735	L’évolution post-opératoire était favorable avec un séjour hospitalier de cinq jours
+A6	issue T89 guérison

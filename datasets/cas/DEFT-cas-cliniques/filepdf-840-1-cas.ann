@@ -1,0 +1,6 @@
+T1	genre 1352 1362	Le patient
+T2	age 18 24	48 ans
+A1	genre T1 masculin
+T3	origine 142 260	une douleur pelvienne droite croissante évolutive depuis quelques semaines sans signes urinaires ou digestifs associés
+T4	issue 1269 1413	L’évolution post opératoire était favorable avec un séjour hospitalier de 5 jours. Le patient est suivi en consultation avec un recul de 16 mois
+A2	issue T4 guérison

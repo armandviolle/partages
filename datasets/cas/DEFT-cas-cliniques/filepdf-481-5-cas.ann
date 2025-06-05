@@ -1,0 +1,6 @@
+T1	age 16 22	21 ans
+T2	genre 3 8	homme
+A1	genre T2 masculin
+T3	origine 114 186	une prise supposée de kétamine, de mescaline, de 2C-P et d’un 4e produit
+T4	issue 483 509	Il sort de l’hôpital à H32
+A2	issue T4 guérison

@@ -1,0 +1,6 @@
+T1	genre 0 8	Patiente
+T2	age 21 27	26 ans
+A1	genre T1 féminin
+T3	origine 149 259	l’apparition d’un nodule du sein droit découvert à l’autopalpation, augmentant rapidement de volume en un mois
+T4	issue 3215 3385	La patiente est revue en consultation pour un suivi de sa maladie avec un bon contrôle locorégionale sur les trois premiers mois, et la patiente a été perdue de vue après
+A2	issue T4 amélioration

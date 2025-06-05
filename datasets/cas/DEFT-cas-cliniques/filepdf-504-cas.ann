@@ -1,0 +1,26 @@
+T1	date 3 13	avril 1999
+T2	duree 71 93	depuis plusieurs jours
+T3	substance 330 358	produits "phytopsychoactifs"
+T4	dose 473 482	un sachet
+T5	substance 487 503	herbal energizer
+T6	substance 588 596	produits
+T7	substance 617 644	boutons floraux de cannabis
+T8	substance 650 660	sinsemilla
+T9	examen 840 848	autopsie
+T10	sosy 883 904	putréfaction du corps
+T11	anatomie 899 904	corps
+T12	sosy 911 927	œdème pulmonaire
+T13	anatomie 917 927	pulmonaire
+T14	examen 975 994	prélèvement de sang
+T15	examen 1007 1015	autopsie
+T16	examen 1048 1055	analyse
+T17	examen 1060 1076	examen botanique
+T18	anatomie 990 994	sang
+T19	mode 575 583	sniffent
+T20	respiratoire 911 927	œdème pulmonaire
+T21	genre 18 23	homme
+T22	age 27 33	26 ans
+A1	genre T21 masculin
+T23	origine 107 126	mort à son domicile
+T24	issue 107 111	mort
+A2	issue T24 décès

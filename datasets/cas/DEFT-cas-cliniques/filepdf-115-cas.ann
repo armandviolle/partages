@@ -1,0 +1,7 @@
+T1	age 12 31	né le 25 avril 1972
+T2	origine 57 68	infertilité
+T3	genre 0 1	M
+A1	genre T3 masculin
+T4	issue 3512 3634	Outre le suivi carcinologique, le testicule restant continue d'être surveillé par une échographie scrotale tous les 6 mois
+A2	issue T4 amélioration
+#1	AnnotatorNotes T1	24 ans

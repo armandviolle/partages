@@ -1,0 +1,85 @@
+T1001	anatomie 73 91	région coccygienne
+T1002	anatomie 450 461	épidermoide
+T1003	anatomie 641 656	région fessière
+T1004	anatomie 1098 1119	structures digestives
+T1008	anatomie 1691 1697	rectum
+T10010	anatomie 1652 1658	rectum
+T10011	anatomie 1827 1842	paroi pelvienne
+T10051	duree 188 202	pendant 15 ans
+T10061	examen 207 224	tomodensitométrie
+T10062	examen 394 412	étude histologique
+T10063	examen 844 859	examen clinique
+T10064	examen 1070 1081	échographie
+T10065	examen 1164 1181	tomodensitométrie
+T100111	moment 570 588	Sept mois plu tard
+T100141	traitement 345 375	résection complète de ce kyste
+T100142	traitement 1759 1802	mise en place d’une plaque de polypropylène
+T100161	valeur 276 287	8cm sur 6cm
+T100192	sosy 682 699	récidive du kyste
+T100193	sosy 728 737	dyschésie
+T100194	sosy 1007 1011	toux
+T100195	sosy 1134 1154	tuméfaction fessière
+T100196	sosy 1465 1494	récidive du kyste épidermoide
+T100199	sosy 2051 2077	bon confort était retrouvé
+T100200	sosy 2091 2124	aspect morphologique satisfaisant
+T10012	sosy 43 91	suppuration récidivante de la région coccygienne
+T10013	traitement 167 187	incisions itératives
+T10014	sosy 251 287	kyste pré sacré mesurant 8cm sur 6cm
+T10015	mode 296 339	abord postérieur électif sagittal coccygien
+T10016	sosy 370 375	kyste
+T10017	sosy 444 467	kyste épidermoide bénin
+T10018	sosy 618 656	voussure gênante de la région fessière
+T10021	anatomie 1146 1154	fessière
+T10023	anatomie 1278 1293	ampoule rectale
+T10024	anatomie 1341 1345	anus
+T10025	sosy 1265 1293	bascule de l’ampoule rectale
+T10026	anatomie 1426 1434	fessière
+T10027	anatomie 1438 1449	ischiatique
+T10028	sosy 1414 1449	éventration fessière ou ischiatique
+T10029	anatomie 1483 1494	épidermoide
+T10030	mode 1531 1545	abord périnéal
+T1006	anatomie 1596 1609	sac herniaire
+T1007	sosy 1596 1645	sac herniaire contenait des structures digestives
+T2005	anatomie 1353 1372	coté latérale droit
+T2007	anatomie 1624 1645	structures digestives
+T200198	sosy 1989 2019	symptômes liés à l éventration
+T20013	sosy 125 140	sinus pilonidal
+T20014	anatomie 125 130	sinus
+T20017	anatomie 257 266	pré sacré
+T20021	sosy 557 568	suppuration
+T20023	traitement 743 768	manœuvre digitale externe
+T20024	anatomie 752 760	digitale
+T20025	anatomie 908 927	aire sacrococcygien
+T20026	sosy 801 809	voussure
+T20027	sosy 935 963	voussure fessière réductible
+T20028	anatomie 944 952	fessière
+T20030	anatomie 1233 1259	suspenseur droit de l’anus
+T20037	traitement 1515 1523	réopérée
+T20039	sosy 1583 1591	voussure
+T20042	sosy 1652 1686	rectum était basculé du coté droit
+T20043	traitement 1691 1725	rectum a été disséqué et réintégré
+T20044	traitement 1808 1842	renforcement de la paroi pelvienne
+T20045	anatomie 1890 1905	plan musculaire
+T20046	traitement 1862 1868	suture
+A1	assertion T20021 absent
+A2	assertion T200198 absent
+T1	frequence 177 187	itératives
+A3	assertion T100192 hypothétique
+A4	assertion T100196 absent
+T200199	tumeur 251 266	kyste pré sacré
+T200200	tumeur 444 467	kyste épidermoide bénin
+T200201	tumeur 694 699	kyste
+T2	tumeur 125 140	sinus pilonidal
+T3	tumeur 370 375	kyste
+T4	etatsosy 728 737	dyschésie
+T5	respiratoire 1007 1011	toux
+T6	etatsosy 1007 1011	toux
+T7	infections 43 91	suppuration récidivante de la région coccygienne
+T8	etatsosy 43 91	suppuration récidivante de la région coccygienne
+T9	peau 444 467	kyste épidermoide bénin
+T10	genre 0 6	Madame
+A5	genre T10 féminin
+T11	age 20 26	70 ans
+T12	origine 39 202	une suppuration récidivante de la région coccygienne diagnostiquée initialement comme sinus pilonidal et traitée par de simples incisions itératives pendant 15 ans
+T13	issue 2048 2124	Un bon confort était retrouvé, ainsi qu’un aspect morphologique satisfaisant
+A6	issue T13 guérison

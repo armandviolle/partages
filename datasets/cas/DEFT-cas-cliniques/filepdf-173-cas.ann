@@ -1,0 +1,136 @@
+T20	examen 1656 1684	tomodensitométrie abdominale
+T25	anatomie 1674 1684	abdominale
+T23	examen 1738 1762	échographie testiculaire
+T30	anatomie 1750 1762	testiculaire
+T21	examen 1825 1852	tomodensitométrie cérébrale
+T16	examen 1890 1911	biopsie de l’éthmoïde
+T19	examen 2001 2027	examen anatomopathologique
+T27	anatomie 2008 2027	anatomopathologique
+T22	examen 633 657	échographie testiculaire
+T28	anatomie 645 657	testiculaire
+T18	examen 724 750	examen anatomopathologique
+T26	anatomie 731 750	anatomopathologique
+T17	examen 83 98	examen clinique
+T4	anatomie 1843 1852	cérébrale
+T5	sosy 59 68	épistaxis
+T6	sosy 72 79	fatigue
+T7	sosy 111 151	purpura bilatéral des membres inférieurs
+T9	sosy 158 193	adénomégalie submandibulaire droite
+T10	anatomie 171 193	submandibulaire droite
+T11	sosy 238 254	thrombocytopénie
+T12	sosy 260 271	leucocytose
+T13	sosy 277 295	cytolyse hépatique
+T14	anatomie 286 295	hépatique
+T24	sosy 303 323	augmentation des LDH
+T29	sosy 339 377	coagulation intravasculaire disséminée
+T31	anatomie 351 366	intravasculaire
+T32	examen 442 453	myélogramme
+T33	examen 543 612	tomodensitométries cérébrales, thoraciques, abdominales et pelviennes
+T34	anatomie 562 572	cérébrales
+T35	anatomie 574 585	thoraciques
+T36	anatomie 587 598	abdominales
+T37	anatomie 602 612	pelviennes
+T38	pathologie 701 707	tumeur
+T39	anatomie 755 785	lymphonoeud mandibulaire droit
+T40	sosy 816 905	centre de l’aggrégat tumoral était désorganisé avec de fréquents signes de dégénérescence
+T41	pathologie 1303 1330	rhabdomyosarcome alvéolaire
+T42	anatomie 1320 1330	alvéolaire
+T43	substance 1378 1401	chimiothérapie standard
+T44	substance 1424 1455	chimiothérapie de consolidation
+T45	moment 1510 1530	Trois mois plus tard
+T46	sosy 1536 1587	récidive lymphonodale submandibulaire et abdominale
+T47	anatomie 1545 1573	lymphonodale submandibulaire
+T48	anatomie 1577 1587	abdominale
+T49	pathologie 1601 1627	tumeur testiculaire gauche
+T50	anatomie 1608 1627	testiculaire gauche
+T51	sosy 1698 1734	lésion hypodense de 6 cm du pancréas
+T52	anatomie 1726 1734	pancréas
+T53	pathologie 1785 1809	tumeur intratesticulaire
+T54	anatomie 1792 1809	intratesticulaire
+T55	pathologie 1873 1884	pansinusite
+T56	anatomie 1903 1911	éthmoïde
+T59	traitement 1959 1979	orchidectomie gauche
+T60	sosy 2057 2104	métastase intratesticulaire du rhabdomyosarcome
+T61	anatomie 2067 2084	intratesticulaire
+T63	pathologie 2229 2245	rhabdomyosarcome
+T64	pathologie 2258 2333	expression du transcrit de fusion spécifique du rhabdomyosarcome alvéolaire
+T65	anatomie 2323 2333	alvéolaire
+T66	sosy 2367 2389	métastase testiculaire
+T67	anatomie 2377 2389	testiculaire
+T68	substance 2621 2653	chimiothérapie de deuxième ligne
+T69	examen 398 401	ACE
+T72	examen 199 222	examens complémentaires
+T73	examen 1120 1137	immunohistochimie
+T74	examen 2183 2200	immunohistochimie
+T77	valeur 621 629	normales
+T78	valeur 430 437	normaux
+T71	anatomie 133 151	membres inférieurs
+T80	examen 406 411	β HCG
+T81	examen 418 421	αFP
+A3	norme T78 normal
+T82	sosy 466 536	envahissement par 100% de cellules indifférenciées non hématopoétiques
+A4	norme T77 normal
+T75	sosy 755 809	lymphonoeud mandibulaire droit était totalement envahi
+T79	anatomie 911 919	cellules
+T83	sosy 911 929	cellules tumorales
+T84	anatomie 1155 1163	cellules
+T85	sosy 1155 1273	cellules tumorales étaient fortement positives à la vimentine, et légèrement positives à la myoglobine et à la desmine
+T86	anatomie 998 1008	cytoplasme
+T87	anatomie 969 974	noyau
+T89	anatomie 1055 1077	cytoplasme éosinophile
+T90	sosy 1028 1105	plus différenciées avec un cytoplasme éosinophile typique de rhabdomyoblastes
+T91	anatomie 1089 1105	rhabdomyoblastes
+T92	examen 1207 1216	vimentine
+T93	examen 1247 1257	myoglobine
+T94	examen 1266 1273	desmine
+T97	anatomie 2115 2123	cellules
+T98	sosy 2115 2168	cellules tumorales encerclant les tubules séminifères
+T99	anatomie 2149 2168	tubules séminifères
+T100	examen 2352 2358	RT-PCR
+T101	sosy 2514 2584	transcripts de fusion spécifiques de tumeurs à petites cellules rondes
+A5	assertion T101 absent
+T104	valeur 1718 1722	6 cm
+T105	anatomie 2569 2577	cellules
+T108	anatomie 492 500	cellules
+T2	sosy 943 1021	peu différenciées avec un noyau hyperchromatique et un cytoplasme peu abondant
+A1	assertion T2 conditionnel
+A2	assertion T90 conditionnel
+T3	sosy 543 629	tomodensitométries cérébrales, thoraciques, abdominales et pelviennes étaient normales
+A7	assertion T38 absent
+T8	sosy 398 437	ACE, le β HCG, et l’αFP étaient normaux
+T1	sosy 2395 2488	transcrit de fusion PAX3/7 FKHR spécifique de la translocation chromosomique t(2;13)(q35;q14)
+T15	moment 2675 2693	après trois cycles
+T70	duree 1362 1374	trois cycles
+T76	dose 1458 1468	forte dose
+T88	duree 1408 1420	double cycle
+T95	sosy 1926 1953	rechute du rhabdomyosarcome
+T96	anatomie 2458 2471	chromosomique
+T107	examen 320 323	LDH
+T62	valeur 1192 1201	positives
+T102	valeur 1232 1241	positives
+T57	respiratoire 59 68	épistaxis
+T58	ORL 59 68	épistaxis
+T103	etatsosy 59 68	épistaxis
+T106	etatsosy 72 79	fatigue
+T109	hemopathies 111 151	purpura bilatéral des membres inférieurs
+T110	etatsosy 111 151	purpura bilatéral des membres inférieurs
+T111	hemopathies 238 254	thrombocytopénie
+T112	hemopathies 260 271	leucocytose
+T113	etatsosy 260 271	leucocytose
+T114	tumeur 1303 1330	rhabdomyosarcome alvéolaire
+T115	tumeur 2306 2333	rhabdomyosarcome alvéolaire
+T116	tumeur 1601 1627	tumeur testiculaire gauche
+T117	homme 1601 1627	tumeur testiculaire gauche
+T118	homme 1785 1809	tumeur intratesticulaire
+T119	tumeur 1785 1809	tumeur intratesticulaire
+T120	tumeur 2229 2245	rhabdomyosarcome
+T121	homme 2367 2389	métastase testiculaire
+T122	tumeur 2367 2389	métastase testiculaire
+T123	etatsosy 2367 2389	métastase testiculaire
+T124	tumeur 1937 1953	rhabdomyosarcome
+T125	genre 3 8	homme
+T126	age 16 22	19 ans
+A6	genre T125 masculin
+T127	issue 2709 2715	décédé
+A8	issue T127 décès
+T128	origine 59 79	épistaxis et fatigue

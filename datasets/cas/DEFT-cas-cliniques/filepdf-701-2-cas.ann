@@ -1,0 +1,6 @@
+T1	genre 0 7	Patient
+T2	age 21 27	12 ans
+A1	genre T1 masculin
+T3	origine 42 76	une invagination intestinale aigüe
+T4	issue 222 251	L’évolution a été défavorable
+A2	issue T4 décès

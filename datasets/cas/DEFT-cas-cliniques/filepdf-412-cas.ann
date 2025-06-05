@@ -1,0 +1,7 @@
+T1	age 13 19	49 ans
+T2	genre 4 9	homme
+A1	genre T2 masculin
+T3	origine 183 231	un trouble de la conscience et une perte d’urine
+T4	issue 2071 2217	L’évolution favorable de l’état clinique permet une extubation à J8 et, en l’absence de séquelles graves, la sortie du patient est autorisée à J11
+A2	issue T4 amélioration
+#1	AnnotatorNotes T4	antécédent d'intoxication

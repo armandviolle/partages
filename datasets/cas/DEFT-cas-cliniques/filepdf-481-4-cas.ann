@@ -1,0 +1,37 @@
+T4	oeil 272 280	mydriase
+T3	cardiovasculaires 286 298	hypertension
+T13	valeur 301 312	150/80 mmHg
+T2	etatsosy 318 334	hyperleucocytose
+T1	etatsosy 353 357	coma
+T15	examen 373 412	bilan toxicologique sanguin et urinaire
+T9	anatomie 393 400	sanguin
+T12	anatomie 404 412	urinaire
+T10	examen 463 475	surveillance
+T7	mode 68 73	orale
+T6	dose 77 89	deux sachets
+T8	mode 93 99	poudre
+T5	genre 3 8	homme
+A1	genre T5 masculin
+T16	age 16 22	23 ans
+T17	moment 39 57	environ 18 h après
+T14	substance 103 106	MXE
+T18	nerveux 257 266	confusion
+T19	etatsosy 257 266	confusion
+A2	norme T13 haut
+T20	valeur 337 348	20,0 Giga/L
+T21	valeur 363 368	13/15
+T22	sosy 257 266	confusion
+T23	hemopathies 318 334	hyperleucocytose
+T24	nerveux 353 357	coma
+T25	examen 358 360	GS
+A3	norme T20 haut
+T11	chimiques 58 106	ingestion orale de deux sachets de poudre de MXE
+T26	etatsosy 286 298	hypertension
+T27	sosy 193 239	symptômes n’avaient jamais été aussi prononcés
+T28	sosy 286 312	hypertension à 150/80 mmHg
+T29	sosy 318 348	hyperleucocytose à 20,0 Giga/L
+T30	sosy 358 368	GS à 13/15
+T31	moment 449 459	après 24 h
+T32	sosy 58 106	ingestion orale de deux sachets de poudre de MXE
+T33	pathologie 272 280	mydriase
+T34	sosy 353 357	coma

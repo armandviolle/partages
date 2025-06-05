@@ -1,0 +1,89 @@
+T27	examen 1004 1016	cystographie
+T43	anatomie 1080 1097	intra péritonéale
+T56	anatomie 1104 1110	vessie
+T7	etatsosy 117 133	hématurie totale
+T63	anatomie 1171 1179	vésicale
+T33	anatomie 1193 1197	dôme
+T9	valeur 1200 1212	environ 1 cm
+T25	examen 1270 1344	biopsies aux berges de la perforation et au niveau de la muqueuse vésicale
+T22	anatomie 1283 1289	berges
+T141	anatomie 1327 1344	muqueuse vésicale
+T17	anatomie 1355 1375	anatomo-pathologique
+T5	etatsosy 143 172	douleurs abdominales diffuses
+T16	anatomie 152 163	abdominales
+T121	age 19 25	56 ans
+T37	sosy 205 242	infection urinaire à Eschèrichia coli
+T50	anatomie 215 223	urinaire
+T18	substance 260 275	antibiothérapie
+T10	duree 284 298	depuis 3 jours
+T21	sosy 339 349	apyrétique
+T11	anatomie 355 362	abdomen
+T32	sosy 355 391	abdomen était distendu et douloureux
+T36	anatomie 415 435	région hypogastrique
+T39	valeur 466 472	normal
+T47	examen 479 494	sondage vésical
+T62	anatomie 487 495	vésicale
+T54	anatomie 513 519	urines
+T52	anatomie 56 65	urinaires
+T42	examen 563 578	plan biologique
+T35	sosy 583 612	fonction rénale était normale
+T45	anatomie 592 598	rénale
+T41	valeur 605 612	normale
+T1	hemopathies 630 636	anémie
+T65	frequence 66 78	à répétition
+T94	nutritionnelles 675 694	acidose métabolique
+T15	anatomie 711 721	abdominale
+T97	sosy 734 798	épanchement péritonéal de moyenne abondance avec une vessie vide
+T95	anatomie 746 756	péritonéal
+T55	anatomie 787 793	vessie
+T48	sosy 813 838	symptomatologie digestive
+T29	anatomie 829 838	digestive
+T162	sosy 843 856	globe vésical
+T59	anatomie 849 856	vésical
+T30	sosy 863 895	dilatation des voies excrétrices
+T57	anatomie 878 895	voies excrétrices
+T73	etatsosy 951 959	oligurie
+T51	anatomie 990 998	urinaire
+T2	genre 0 3	Mme
+A1	genre T2 féminin
+T3	infections 205 242	infection urinaire à Eschèrichia coli
+T4	femme 205 242	infection urinaire à Eschèrichia coli
+T6	infections 45 65	infections urinaires
+T8	femme 45 65	infections urinaires
+T12	date 94 107	novembre 1995
+T13	examen 583 598	fonction rénale
+T14	examen 699 721	échographie abdominale
+T19	examen 1349 1375	étude anatomo-pathologique
+T20	sosy 1072 1110	rupture intra péritonéale de la vessie
+T23	examen 1115 1139	exploration chirurgicale
+T24	examen 439 459	examen gynécologique
+T26	femme 117 133	hématurie totale
+T28	sosy 117 133	hématurie totale
+T31	sosy 45 65	infections urinaires
+T34	sosy 143 172	douleurs abdominales diffuses
+T38	sosy 401 435	défense de la région hypogastrique
+T40	sosy 513 553	urines de faible quantité et hématurique
+T44	hemopathies 642 667	hyper leucocytose modérée
+T46	etatsosy 642 667	hyper leucocytose modérée
+A2	assertion T48 absent
+A3	assertion T162 absent
+A4	assertion T30 absent
+T49	femme 951 959	oligurie
+T53	sosy 951 959	oligurie
+T58	sosy 1164 1212	brèche vésicale au niveau du dôme d'environ 1 cm
+T60	femme 1408 1433	cystite aiguë bactérienne
+T61	infections 1408 1433	cystite aiguë bactérienne
+T64	examen 305 320	examen clinique
+T66	etatsosy 513 553	urines de faible quantité et hématurique
+T67	femme 1072 1110	rupture intra péritonéale de la vessie
+T68	organisme 226 242	Eschèrichia coli
+T69	sosy 439 472	examen gynécologique était normal
+T70	anatomie 923 929	ventre
+T71	sosy 981 998	problème urinaire
+T72	sosy 923 941	ventre chirurgical
+T74	traitement 1214 1235	suturée en deux plans
+T75	organisme 1422 1433	bactérienne
+T76	sosy 630 636	anémie
+T77	sosy 642 667	hyper leucocytose modérée
+T78	sosy 675 694	acidose métabolique
+T79	sosy 1408 1433	cystite aiguë bactérienne

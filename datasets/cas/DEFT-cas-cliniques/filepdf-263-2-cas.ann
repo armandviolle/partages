@@ -1,0 +1,6 @@
+T1	genre 1325 1335	Le patient
+T2	age 15 21	63 ans
+A1	genre T1 masculin
+T3	origine 210 372	douleurs lombaires chroniques d'intensité progressivement croissante a conduit à la découverte d'une hydronéphrose droite associée à une lésion vésicale végétante
+T4	issue 1325 1454	Le patient reste vivant à quinze mois de la prise en charge initiale, une radiothérapie du rachis à visée antalgique est en cours
+A2	issue T4 stable

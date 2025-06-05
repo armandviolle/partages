@@ -1,0 +1,6 @@
+T1	age 14 20	39 ans
+T2	genre 2304 2314	le patient
+A1	genre T2 masculin
+T3	origine 97 203	un angiomyolipome rénal gauche, découvert fortuitement dans le cadre du bilan de sa pathologie lithiasique
+T4	issue 2343 2434	L'état général était excellent. Il était asymptomatique et la fonction rénale était normale
+A2	issue T4 guérison

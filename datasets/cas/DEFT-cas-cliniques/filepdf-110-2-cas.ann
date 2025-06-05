@@ -1,0 +1,6 @@
+T1	issue 1476 1482	décédé
+T2	age 17 23	60 ans
+A1	issue T1 décès
+T3	genre 0 2	Mr
+A2	genre T3 masculin
+T4	origine 153 205	masse de la fosse iliaque droite fébrile avec pyurie

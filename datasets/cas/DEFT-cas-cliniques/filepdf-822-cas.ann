@@ -1,0 +1,6 @@
+T1	genre 18 26	masculin
+T2	age 34 39	7 ans
+A1	genre T1 masculin
+T3	origine 71 328	des érythèmes malaires, avec une photosensibilité, une livedo des membres inferieures, et des lésions de vascularite des orteils associées à un syndrome oedémateux, le tout évoluant dans un contexte d’amaigrissement non chiffré et de fièvre en plateau à 39°
+T4	issue 1606 1822	Un contrôle ophtalmologique effectué après trois mois a objectivé une disparition des lésions rétiniennes au fond d’oeil et à l’angiographie : disparition du nodule cotonneux et rétablissement du flux artèrio-veineux
+A2	issue T4 guérison

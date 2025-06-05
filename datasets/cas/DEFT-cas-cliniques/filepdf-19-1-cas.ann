@@ -1,0 +1,89 @@
+T2	date 77 89	12 mars 1991
+T27	examen 486 501	examen clinique
+T28	examen 983 994	exploration
+T31	valeur 1510 1517	normale
+T32	valeur 1686 1693	normale
+T5	sosy 95 115	fracture de la verge
+T6	anatomie 110 115	verge
+T7	sosy 121 144	rétention aigue d'urine
+T10	anatomie 186 191	verge
+T11	sosy 263 345	douleur vive avec sensation d'un craquement et disparition immédiate de l'érection
+T15	anatomie 429 439	sus pubien
+T17	sosy 543 636	volumineux hématome intéressant la verge, le scrotum et s'étendant jusqu'à la région pubienne
+T18	anatomie 578 583	verge
+T19	anatomie 588 595	scrotum
+T20	anatomie 621 636	région pubienne
+T21	anatomie 667 672	verge
+T22	pathologie 678 691	uréthrorragie
+T24	sosy 642 672	incurvation droite de la verge
+T26	sosy 722 756	fracture du corps caverneux gauche
+T33	anatomie 734 756	corps caverneux gauche
+T36	sosy 772 792	rupture de l'urèthre
+T37	anatomie 785 792	urèthre
+T38	traitement 847 863	incision cutanée
+T39	anatomie 903 926	sillon balano-préputial
+T40	anatomie 931 946	fourreau pénien
+T41	sosy 964 972	hématome
+T42	sosy 1006 1039	fracture des deux corps caverneux
+T43	anatomie 1019 1039	deux corps caverneux
+T45	sosy 1077 1114	rupture partielle de l'urèthre pénien
+T46	anatomie 1100 1114	urèthre pénien
+T47	anatomie 1189 1204	corps caverneux
+T48	anatomie 1213 1220	urèthre
+T49	traitement 1227 1239	cathétérisme
+A3	norme T31 normal
+T51	moment 1417 1429	au 7ème jour
+T53	anatomie 1532 1542	sus-pubien
+T54	moment 1554 1567	au 15ème jour
+T55	examen 1572 1602	contrôle uréthrocystographique
+T56	moment 1603 1615	au 3ème mois
+T57	valeur 1620 1626	normal
+A4	norme T57 normal
+A5	norme T32 normal
+T58	sosy 1706 1745	légère inclinaison latérale de la verge
+T59	anatomie 1740 1745	verge
+T64	moment 502 532	10 heures après le traumatisme
+T1	sosy 347 385	Toute miction devient alors impossible
+T4	traitement 931 958	fourreau pénien est abaissé
+A1	assertion T41 absent
+T8	traitement 1132 1142	réparation
+T9	substance 1353 1366	antibiotiques
+T12	substance 1370 1405	anti-inflammatoires non stéroidiens
+T13	moment 1431 1443	Le même jour
+T14	traitement 1448 1475	sonde uréthrale est retirée
+T16	sosy 1572 1626	contrôle uréthrocystographique au 3ème mois est normal
+T23	traitement 401 439	mettre en place un cathéter sus pubien
+T25	traitement 814 835	indication opératoire
+T29	traitement 964 979	hématome évacué
+T30	traitement 1523 1542	drainage sus-pubien
+T34	sosy 1668 1693	activité sexuelle normale
+T35	substance 1323 1341	traitement médical
+A2	prise T35 arrêt
+A6	prise T9 arrêt
+A7	prise T12 arrêt
+T44	sosy 1502 1517	miction normale
+T50	anatomie 856 863	cutanée
+T52	mode 1454 1463	uréthrale
+T3	anatomie 139 144	urine
+T60	homme 121 144	rétention aigue d'urine
+T61	blessures 95 115	fracture de la verge
+T62	homme 347 385	Toute miction devient alors impossible
+T63	homme 678 691	uréthrorragie
+T65	blessures 543 636	volumineux hématome intéressant la verge, le scrotum et s'étendant jusqu'à la région pubienne
+T66	blessures 722 756	fracture du corps caverneux gauche
+T67	blessures 1006 1039	fracture des deux corps caverneux
+T68	homme 95 115	fracture de la verge
+T69	homme 543 636	volumineux hématome intéressant la verge, le scrotum et s'étendant jusqu'à la région pubienne
+T70	homme 722 756	fracture du corps caverneux gauche
+T71	blessures 772 792	rupture de l'urèthre
+T72	homme 772 792	rupture de l'urèthre
+T73	homme 1006 1039	fracture des deux corps caverneux
+T74	homme 1077 1114	rupture partielle de l'urèthre pénien
+T75	blessures 1077 1114	rupture partielle de l'urèthre pénien
+T76	etatsosy 263 275	douleur vive
+T77	genre 0 8	Monsieur
+A8	genre T77 masculin
+T78	age 23 29	36 ans
+T79	origine 95 144	fracture de la verge avec rétention aigue d'urine
+T80	issue 1642 1768	le patient a conservé une activité sexuelle normale, malgré une légère inclinaison latérale de la verge au cours des érections
+A9	issue T80 amélioration

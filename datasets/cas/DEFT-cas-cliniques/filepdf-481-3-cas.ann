@@ -1,0 +1,9 @@
+T1	genre 56 67	deux femmes
+A1	genre T1 féminin
+T2	age 77 79	30
+T3	age 82 88	40 ans
+T4	genre 41 52	deux hommes
+A2	genre T4 masculin
+T5	origine 117 183	l’ingestion à visée récréative de substances achetées sur Internet
+T6	issue 1233 1389	L’évolution est rapidement favorable avec sortie le lendemain pour les 2 hommes et à J2 pour les 2 femmes après une journée d’hospitalisation en réanimation
+A3	issue T6 guérison

@@ -1,0 +1,66 @@
+T41	substance 1010 1022	cytokératine
+T20	examen 1010 1063	cytokératines de haut poids moléculaire (anti CK 903)
+T18	valeur 1070 1078	négative
+T10	anatomie 1110 1126	cellules basales
+T15	anatomie 1295 1309	loco-régionale
+T11	anatomie 1327 1331	foie
+T7	examen 132 143	taux de PSA
+T17	valeur 153 162	218 ng/ml
+T31	examen 187 204	tomodensitométrie
+T38	examen 212 253	échographie endorectale (EER) de prostate
+T22	anatomie 245 253	prostate
+T16	sosy 269 352	masse kystique de 4cm de diamètre située dans la zone périphérique (ZP) prostatique
+T25	anatomie 318 352	zone périphérique (ZP) prostatique
+T4	tumeur 357 362	kyste
+T2	etatsosy 38 45	dysurie
+T30	sosy 472 490	signe de malignité
+T3	etatsosy 53 62	hématurie
+T12	examen 525 543	étude histologique
+T9	examen 548 580	biopsies de prostate échoguidées
+T23	anatomie 560 568	prostate
+T5	tumeur 639 644	kyste
+T37	examen 650 667	urétrocystoscopie
+T33	examen 67 86	toucher rectal (TR)
+T6	tumeur 695 712	tumeur papillaire
+T19	anatomie 702 712	papillaire
+T26	anatomie 727 745	urètre prostatique
+T27	anatomie 75 81	rectal
+T29	traitement 751 794	résection trans-urétrale de prostate (RTUP)
+T35	mode 761 775	trans-urétrale
+T24	anatomie 779 787	prostate
+T8	anatomie 822 842	anatomo-pathologique
+T1	tumeur 861 882	adénocarcinome ductal
+T21	anatomie 98 106	prostate
+T13	examen 973 1000	analyse immuno-histologique
+T28	genre 3 8	homme
+T32	age 16 22	56 ans
+A1	norme T17 haut
+T14	tumeur 269 283	masse kystique
+A2	assertion T30 absent
+T36	examen 815 842	examen anatomo-pathologique
+T34	sosy 1283 1332	progression loco-régionale et métastatique (foie)
+T39	moment 1333 1358	5 ans après le diagnostic
+T40	sosy 1094 1126	disparition des cellules basales
+T42	sosy 98 127	prostate ferme et volumineuse
+T43	issue 1270 1276	décédé
+A3	issue T43 décès
+A4	genre T28 masculin
+T44	sosy 38 45	dysurie
+T45	sosy 53 62	hématurie
+T46	valeur 1176 1183	T2bNxM0
+T47	homme 38 45	dysurie
+T48	homme 53 62	hématurie
+T49	digestif 1283 1332	progression loco-régionale et métastatique (foie)
+T50	tumeur 1283 1332	progression loco-régionale et métastatique (foie)
+T51	sosy 132 162	taux de PSA était de 218 ng/ml
+T52	mode 224 235	endorectale
+T53	valeur 287 302	4cm de diamètre
+T54	anatomie 387 393	parois
+T55	sosy 357 453	kyste était multi-loculaire à parois épaisses et irrégulières avec des végétations endoluminales
+T56	examen 602 644	cytologie du liquide contenu dans le kyste
+T57	valeur 886 908	score de Gleason (4+3)
+T58	sosy 1010 1078	cytokératines de haut poids moléculaire (anti CK 903) était négative
+T59	substance 1203 1231	blocage androgénique complet
+T60	sosy 695 745	tumeur papillaire située dans l'urètre prostatique
+T61	sosy 639 644	kyste
+T62	pathologie 861 908	adénocarcinome ductal de score de Gleason (4+3)

@@ -1,0 +1,6 @@
+T1	age 16 22	64 ans
+T2	genre 3 8	homme
+A1	genre T2 masculin
+T3	origine 59 183	des lombalgies droites isolées auxquelles s'est associée, 2 semaines avant son hospitalisation, une fièvre chiffrée à 38,5°c
+T4	issue 1547 1619	Le malade ne présente pas de récidive tumorale après un recul de 15 mois
+A2	issue T4 guérison

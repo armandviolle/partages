@@ -1,0 +1,6 @@
+T1	age 16 24	sept ans
+T2	genre 4 12	fillette
+A1	genre T2 féminin
+T3	origine 56 87	des douleurs abdominales basses
+T4	issue 3075 3213	Le recul est aujourd'hui de plus de 7 ans, la fillette se porte bien sans aucune plainte fonctionnelle et sans séquelles de l'intervention
+A2	issue T4 guérison

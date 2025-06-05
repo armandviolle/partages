@@ -1,0 +1,6 @@
+T1	genre 0 6	Madame
+T2	age 14 20	56 ans
+A1	genre T1 féminin
+T3	origine 129 221	une hématurie totale, intermittente, nans caillots associée à des douleurs lombaires gauches
+T4	issue 1478 1655	L’évaluation clinique et paraclinique par l’échographie et la cytologie urinaire n’avait pas retrouvé de récidive ni d’aggravation de la fonction rénale avec un recul de 13 mois
+A2	issue T4 amélioration

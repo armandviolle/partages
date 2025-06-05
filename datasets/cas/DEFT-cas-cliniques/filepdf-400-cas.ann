@@ -1,0 +1,72 @@
+T8	substance 1114 1130	acide valproïque
+T20	moment 1198 1216	la nuit précédente
+T21	moment 1255 1267	dans la nuit
+T34	anatomie 1482 1487	sérum
+T29	anatomie 1529 1536	sanguin
+T36	anatomie 1555 1563	urinaire
+T38	anatomie 1608 1614	urines
+T26	examen 1715 1747	prélèvements sanguin et urinaire
+T30	anatomie 1728 1735	sanguin
+T37	anatomie 1739 1747	urinaire
+T9	examen 1831 1854	chromatographie liquide
+T33	examen 1883 1905	spectrométrie de masse
+T11	sosy 28 48	antécédents médicaux
+T2	etatsosy 352 376	hallucinations auditives
+T18	examen 380 395	examen clinique
+T22	sosy 422 440	lésion traumatique
+T28	anatomie 457 464	sanguin
+T13	examen 502 521	bilan toxicologique
+T31	anatomie 565 573	sanguins
+T19	examen 578 591	immunoanalyse
+T12	substance 593 606	barbituriques
+T56	substance 608 623	benzodiazépines
+T49	examen 655 670	paracétamolémie
+T32	examen 827 871	détection par spectrométrie de masse (CG/SM)
+T1	chimiques 897 907	alcoolémie
+T25	valeur 912 920	positive
+T4	examen 925 942	screening CLHP/BD
+T7	substance 964 980	acide valproïque
+T5	genre 4 12	fillette
+A1	genre T5 féminin
+T6	age 16 21	8 ans
+A2	assertion T11 absent
+T10	moment 181 195	vers 13 heures
+T17	moment 129 151	en milieu d’après-midi
+T35	fonction 1187 1197	s’endormir
+T39	fonction 1287 1300	Se réveillant
+T40	dose 1268 1279	un comprimé
+T14	dose 1356 1367	3 comprimés
+T15	dose 1377 1388	3 comprimés
+T16	examen 1517 1536	prélèvement sanguin
+T42	examen 1543 1563	prélèvement urinaire
+T24	examen 445 464	prélèvement sanguin
+T41	valeur 468 472	5 mL
+T43	valeur 1684 1689	10 mL
+T44	sosy 294 314	marche difficilement
+T45	sosy 325 335	euphorique
+T46	sosy 352 376	hallucinations auditives
+A3	assertion T22 absent
+T48	substance 625 653	antidépresseurs tricycliques
+T50	examen 675 686	éthanolémie
+T51	examen 554 573	dépistages sanguins
+T52	examen 691 728	screening par chromatographie liquide
+T53	examen 743 785	détection par barrette de diodes (CLHP/BD)
+T54	examen 789 812	chromatographie gazeuse
+T23	examen 999 1011	immunochimie
+T27	nerveux 294 314	marche difficilement
+T47	etatsosy 294 314	marche difficilement
+#1	AnnotatorNotes T27	troubles neurologiques de la marche
+T55	nerveux 352 376	hallucinations auditives
+T57	examen 897 907	alcoolémie
+T58	examen 1917 1925	CL/SM/SM
+T59	sosy 229 266	ne parvenait pas à réveiller sa fille
+T60	moment 268 280	À son entrée
+T61	dispositif 477 485	tube sec
+T3	sosy 897 920	alcoolémie est positive
+T62	sosy 1165 1216	ne pas avoir réussi à s’endormir la nuit précédente
+T63	substance 1268 1285	un comprimé blanc
+T64	substance 1358 1373	comprimés roses
+T65	sosy 1379 1395	comprimés blancs
+T66	substance 1405 1432	boisson au « mauvais goût »
+T67	moment 1615 1628	des 24 heures
+T68	examen 1608 1628	urines des 24 heures

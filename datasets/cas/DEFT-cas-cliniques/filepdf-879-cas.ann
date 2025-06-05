@@ -1,0 +1,6 @@
+T1	genre 12 22	un patient
+T2	issue 1641 1654	mise en place
+T3	age 26 32	57 ans
+A1	genre T1 féminin
+A2	issue T2 amélioration
+T4	origine 59 254	une masse corporéo-caudale du pancréas de 97 millimètres x 96 mm associée à des lésions secondaires hépatiques et rénales, lors du bilan de douleurs abdominales, avec altération de l’état général

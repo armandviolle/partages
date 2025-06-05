@@ -1,0 +1,6 @@
+T1	genre 192 202	Le patient
+T2	age 35 41	15 ans
+A1	genre T1 masculin
+T3	origine 103 189	des douleurs diffuses surtout accentuées au niveau costal et du membre inférieur droit
+T4	issue 923 1056	La conduite thérapeutique consiste à une surveillance clinique et radiologique associée à un traitement antalgique en cas de douleurs
+A2	issue T4 amélioration

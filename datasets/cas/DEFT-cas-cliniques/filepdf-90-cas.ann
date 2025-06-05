@@ -1,0 +1,6 @@
+T1	age 16 22	39 ans
+T2	genre 24 28	père
+A1	genre T2 masculin
+T3	origine 85 150	une hématurie intermittente et capricieuse évoluant depuis 10 ans
+T4	issue 1981 1999	le patient va bien
+A2	issue T4 guérison

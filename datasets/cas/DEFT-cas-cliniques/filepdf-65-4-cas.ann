@@ -1,0 +1,6 @@
+T1	age 14 20	28 ans
+T2	genre 767 777	Le patient
+A1	genre T2 masculin
+T3	origine 70 243	une insuffisance rénale terminale sur une glomérulonéphrite membrano-proliférative idiopathique, pour laquelle il bénéficiait de séances d'hémodialyse chronique depuis 8 ans
+T4	issue 1176 1228	Le patient suit régulièrement ses séances de dialyse
+A2	issue T4 amélioration

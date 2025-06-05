@@ -1,0 +1,6 @@
+T1	genre 0 12	Une fillette
+A1	genre T1 féminin
+T2	age 16 21	9 ans
+T3	origine 63 121	baisse de la vision des deux yeux depuis la petite enfance
+T4	issue 945 1135	une correction optique post opératoire de - 9 dioptries lui avec vitrectomie antérieure à l’oeil droit et une correction optique post opératoire de 9 dioptries lui donnant une acuité de 2/10
+A2	issue T4 amélioration

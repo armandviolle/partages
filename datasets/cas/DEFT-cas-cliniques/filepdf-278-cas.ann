@@ -1,0 +1,6 @@
+T1	genre 0 6	Madame
+T2	age 35 41	46 ans
+A1	genre T1 féminin
+T3	origine 129 216	des douleurs lombaires aigues droites, une fièvre à 39° et hyperleucocytose à 15000/mm3
+T4	issue 1683 1753	le contrôle à 6 semaines par une urographie intraveineuse était normal
+A2	issue T4 guérison

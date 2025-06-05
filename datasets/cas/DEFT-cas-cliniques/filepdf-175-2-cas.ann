@@ -1,0 +1,6 @@
+T1	genre 0 14	Cette patiente
+T2	age 18 24	46 ans
+A1	genre T1 féminin
+T3	origine 84 176	pollakiurie, fuite sur besoins impérieux et dysurie avec résidu post-mictionnel significatif
+T4	issue 2521 2691	L’effet antalgique de la neuromodulation persiste, avec arrêt complet du traitement antalgique de fond. Sur le plan digestif et sexuel, aucune amélioration n’a été notée.
+A2	issue T4 amélioration

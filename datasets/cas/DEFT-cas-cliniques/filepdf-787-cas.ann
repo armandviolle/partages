@@ -1,0 +1,196 @@
+T25	examen 1004 1017	acide folique
+T10	valeur 1020 1027	10 mg/l
+T37	examen 1034 1043	ferritine
+T32	valeur 1046 1054	48 ng/ml
+T17	valeur 1058 1072	15 – 300 ng/ml
+T93	examen 1078 1098	taux de prothrombine
+T67	valeur 1155 1162	normaux
+T86	examen 1167 1191	recherche de schizocytes
+T69	valeur 1198 1206	négative
+T50	examen 1211 1221	ionogramme
+T58	valeur 1228 1234	normal
+T101	examen 1239 1250	taux d’urée
+T41	valeur 1253 1261	0.76 g/l
+T161	examen 1268 1279	créatinémie
+T42	valeur 1282 1291	10.4 mg/l
+T47	examen 1301 1316	fonction rénale
+T44	valeur 1327 1336	43 ml/min
+T59	valeur 1395 1401	normal
+T35	anatomie 140 146	cutané
+T82	examen 1408 1419	protéinurie
+T70	valeur 1427 1435	négative
+T29	examen 1440 1459	bilan inflammatoire
+T60	valeur 1466 1472	normal
+T102	examen 1474 1498	vitesse de sédimentation
+T55	anatomie 148 155	muqueux
+T21	examen 1500 1503	CRP
+T46	examen 1505 1516	fibrinogène
+T146	examen 1520 1557	électrophorèse des protéines sériques
+T127	age 16 22	68 ans
+T92	examen 1623 1653	sérologies virales B, C et VIH
+T22	pathologie 1650 1653	VIH
+T73	valeur 1669 1678	négatives
+T80	valeur 1729 1734	1/640
+T4	etatsosy 179 198	hématurie terminale
+T87	examen 1815 1844	anticorps anti-phospholipides
+T72	valeur 1851 1859	négative
+T68	valeur 1892 1899	négatif
+T165	valeur 1962 1970	1.15 g/l
+T164	valeur 1977 1984	0.3 g/l
+T105	examen 1990 2012	échographie abdominale
+T24	anatomie 2002 2012	abdominale
+T3	etatsosy 2026 2069	discrète dilatation pyélo-calicielle droite
+T27	pathologie 204 215	antécédents
+T33	anatomie 2046 2069	pyélo-calicielle droite
+T99	anatomie 2074 2085	tronc porte
+T62	valeur 2111 2116	12 mm
+T5	sosy 2140 2153	hépatomégalie
+T7	sosy 2160 2173	splénomégalie
+T85	examen 2178 2201	radiographie thoracique
+T94	anatomie 2191 2201	thoracique
+T65	valeur 2208 2215	normale
+T106	sosy 2234 2289	épanchement péricardique circonférentiel non compressif
+T104	examen 2294 2321	échographie transthoracique
+T191	sosy 23 33	ménopausée
+T96	mode 2306 2321	transthoracique
+T76	traitement 237 256	néphrectomie gauche
+T31	mode 2419 2424	bolus
+T56	substance 2428 2446	méthylprednisolone
+T20	dose 2459 2467	15 mg/kg
+T16	duree 2478 2485	3 jours
+T48	anatomie 250 256	gauche
+T34	substance 2501 2516	corticothérapie
+T78	mode 2517 2522	orale
+T128	dose 2536 2545	1 mg/kg/j
+T155	examen 2734 2744	plaquettes
+T14	date 276 280	2007
+T156	examen 2843 2853	plaquettes
+T12	dose 2877 2882	15 mg
+T83	substance 2888 2898	prédnisone
+T107	sosy 2964 2988	épanchement péricardique
+T36	duree 34 47	depuis 20 ans
+T45	examen 351 366	examen clinique
+T28	sosy 392 402	apyrétique
+T97	anatomie 456 461	tronc
+T52	anatomie 469 487	membres inférieurs
+T75	traitement 509 521	néphrectomie
+T6	etatsosy 543 556	splénomégalie
+T79	examen 590 605	plan biologique
+T49	examen 609 619	hémogramme
+T8	hemopathies 633 645	thrombopénie
+T1	valeur 648 656	7000/mm3
+T15	date 69 78	juin 2010
+T2	hemopathies 690 735	anémie normochrome normocytaire arégénerative
+T9	valeur 740 749	11.3 g/dl
+T18	valeur 756 760	34 %
+T23	valeur 766 771	90 fl
+T26	valeur 789 799	80000 /mm3
+T57	valeur 832 838	normal
+T40	examen 927 957	dosage sanguin de vitamine B12
+T13	valeur 966 975	394 pg/ml
+T39	valeur 984 999	187 – 883 pg/ml
+A1	norme T1 bas
+A2	norme T13 normal
+A3	norme T41 normal
+A4	norme T42 bas
+T51	genre 0 3	Mme
+A5	genre T51 féminin
+T30	valeur 665 681	150000450000/mm3
+T53	examen 737 739	Hb
+T61	examen 751 755	CCMH
+T63	examen 762 765	VGM
+T64	examen 775 788	réticulocytes
+T71	examen 806 825	taux des leucocytes
+T74	examen 872 874	GB
+T77	examen 885 888	PNN
+T84	examen 901 912	lymphocytes
+T88	valeur 875 883	6400/mm3
+T90	valeur 889 897	3900/mm3
+T98	valeur 913 921	1700/mm3
+T81	examen 1132 1146	fibrinogénémie
+T91	examen 1103 1125	temps céphaline activé
+T89	examen 1371 1388	sédiment urinaire
+T100	examen 1563 1574	myélogramme
+T103	examen 1864 1885	test de Coombs direct
+T108	examen 1907 1926	fractions C 3 et C4
+T109	examen 1959 1961	C3
+T110	examen 1974 1976	C4
+A6	assertion T5 absent
+A7	assertion T7 absent
+T11	frequence 2468 2470	/j
+T38	duree 2546 2559	durant 1 mois
+T43	substance 2614 2640	anti-paludéens de synthèse
+T66	valeur 2747 2762	88 000 elts/mm3
+T111	moment 2763 2779	dès le 5ème jour
+T95	valeur 2860 2871	350 000/mm3
+T19	frequence 2882 2884	/j
+T112	examen 2905 2933	contrôle échocardiographique
+A8	norme T9 bas
+A9	norme T98 normal
+A10	assertion T22 absent
+T113	moment 2804 2827	Avec un recul de 3 mois
+T114	etatsosy 118 155	syndrome hémorragique cutanéo-muqueux
+T115	sosy 118 155	syndrome hémorragique cutanéo-muqueux
+T116	femme 261 272	pyonéphrose
+T117	digestif 288 307	gastrite atrophique
+T118	sosy 496 521	cicatrice de néphrectomie
+T119	hemopathies 412 429	purpura pétéchial
+T120	etatsosy 412 429	purpura pétéchial
+T121	sosy 412 487	purpura pétéchial non infiltré au niveau du tronc et des membres inférieurs
+A11	norme T32 normal
+T122	femme 179 198	hématurie terminale
+T123	cardiovasculaires 2234 2289	épanchement péricardique circonférentiel non compressif
+T124	peau 2341 2357	lupus systémique
+T125	immunitaire 2341 2357	lupus systémique
+T126	cardiovasculaires 2964 2988	épanchement péricardique
+T129	frequence 166 176	2 épisodes
+T130	substance 313 346	inhibiteurs de la pompe à protons
+T131	sosy 568 584	syndrome tumoral
+A12	assertion T131 absent
+T132	sosy 543 556	splénomégalie
+A13	assertion T132 absent
+T133	sosy 633 656	thrombopénie à 7000/mm3
+T134	sosy 737 749	Hb 11.3 g/dl
+T135	sosy 751 760	CCMH 34 %
+T136	sosy 762 771	VGM 90 fl
+T137	sosy 775 799	réticulocytes 80000 /mm3
+T138	sosy 806 838	taux des leucocytes était normal
+T139	sosy 872 883	GB 6400/mm3
+T140	sosy 885 897	PNN 3900/mm3
+T141	sosy 901 921	lymphocytes 1700/mm3
+T142	anatomie 934 941	sanguin
+T143	sosy 927 975	dosage sanguin de vitamine B12 était à 394 pg/ml
+T144	sosy 1004 1027	acide folique à 10 mg/l
+T145	sosy 1034 1054	ferritine à 48 ng/ml
+T147	sosy 1078 1162	taux de prothrombine, le temps céphaline activé et la fibrinogénémie étaient normaux
+T148	sosy 1167 1206	recherche de schizocytes était négative
+T149	sosy 1211 1234	ionogramme était normal
+T150	sosy 1239 1261	taux d’urée à 0.76 g/l
+T151	sosy 1268 1291	créatinémie à 10.4 mg/l
+T152	sosy 1301 1336	fonction rénale estimée à 43 ml/min
+T153	sosy 1371 1401	sédiment urinaire était normal
+T154	sosy 1408 1435	protéinurie de 24H négative
+T157	sosy 1440 1472	bilan inflammatoire était normal
+T158	sosy 1563 1616	myélogramme a noté une moelle riche en mégacaryocytes
+T54	pathologie 1623 1646	sérologies virales B, C
+A14	assertion T54 absent
+T159	sosy 1684 1796	anticorps anti-nucléaires étaient positifs à 1/640 à fluorescence mouchetée avec la présence d’anticorps anti-Sm
+T160	sosy 1801 1859	recherche des anticorps anti-phospholipides était négative
+T162	sosy 1864 1899	test de Coombs direct était négatif
+T163	sosy 1907 1957	fractions C 3 et C4 du complément étaient normales
+T166	sosy 1959 1970	C3 1.15 g/l
+T167	sosy 1974 1984	C4 0.3 g/l
+T168	sosy 2074 2117	tronc porte était de calibre normal (12 mm)
+T169	sosy 2178 2215	radiographie thoracique était normale
+T170	anatomie 2246 2258	péricardique
+T171	sosy 2681 2702	syndrome hémorragique
+A15	assertion T171 absent
+T172	sosy 2708 2762	ascension des chiffres de plaquettes à 88 000 elts/mm3
+T173	sosy 2843 2871	plaquettes est à 350 000/mm3
+T174	anatomie 2976 2988	péricardique
+T175	sosy 179 198	hématurie terminale
+T176	pathologie 261 272	pyonéphrose
+T177	sosy 288 307	gastrite atrophique
+T178	sosy 690 735	anémie normochrome normocytaire arégénerative
+T179	sosy 2026 2069	discrète dilatation pyélo-calicielle droite
+T180	pathologie 2341 2357	lupus systémique

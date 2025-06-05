@@ -1,0 +1,129 @@
+T52	examen 1005 1028	radiographie pulmonaire
+T50	anatomie 1018 1028	pulmonaire
+T49	traitement 1077 1090	orchidectomie
+T68	mode 1095 1109	voie inguinale
+T34	anatomie 1100 1109	inguinale
+T2	tumeur 112 138	tumeur testiculaire droite
+T32	examen 1124 1141	Anatomopathologie
+T58	anatomie 119 138	testiculaire droite
+T3	tumeur 1231 1237	tumeur
+T4	tumeur 1315 1321	tumeur
+T1	tumeur 1395 1413	cellules tumorales
+T19	anatomie 1492 1500	cellules
+T14	examen 158 175	bilan étiologique
+T40	anatomie 1663 1671	mucineux
+T17	anatomie 1685 1706	cavités folliculaires
+T35	sosy 1734 1749	aspect kystique
+T91	peau 182 205	gynécomastie bilatérale
+T27	anatomie 1837 1847	cytoplasme
+T82	sosy 19 37	antécédent notable
+T55	anatomie 2014 2020	stroma
+T38	sosy 237 279	masse testiculaire droite dure et indolore
+T66	anatomie 2405 2415	vasculaire
+T33	examen 2427 2439	histologique
+T59	anatomie 243 262	testiculaire droite
+T5	tumeur 2453 2511	tumeur à cellules de la granulosa, de Sertoli et de Leydig
+T80	valeur 2574 2582	positive
+T26	substance 2603 2620	anti-cytokératine
+T67	substance 2624 2633	vimentine
+T53	sosy 2767 2800	récidive clinique ou radiologique
+T92	sosy 323 335	galactorrhée
+T39	sosy 371 403	masse d'échostructure tissulaire
+T62	anatomie 393 403	tissulaire
+T61	anatomie 496 511	testicule droit
+T37	examen 517 572	marqueurs tumoraux (Alpha foetoprotéine, Béta HCG, LDH)
+T47	valeur 578 585	normaux
+T11	examen 591 608	bilan endocrinien
+T6	valeur 635 645	0,12 ng/ml
+T41	valeur 770 780	0,53 ng/ml
+T111	valeur 656 666	3-10 ng/ml
+T42	valeur 682 690	25 pg/ml
+T100	valeur 701 712	20-60 pg/ml
+T101	valeur 791 804	0,1-0,6 ng/ml
+T44	valeur 833 843	0,41 pg/ml
+T102	valeur 854 866	0,22,9 pg/ml
+T45	valeur 876 884	26 MU/ml
+T103	valeur 894 904	< 10 MU/ml
+T46	valeur 931 942	< 5,8 MU/ml
+T104	valeur 913 921	44 MU/ml
+T13	examen 949 966	bilan d'extension
+T64	examen 968 1003	tomodensitométrie abdominopelvienne
+T8	anatomie 986 1003	abdominopelvienne
+T9	age 6 12	16 ans
+A1	assertion T82 absent
+T10	homme 112 138	tumeur testiculaire droite
+T12	examen 210 225	examen clinique
+A2	assertion T92 absent
+T15	peau 294 317	gynécomastie bilatérale
+T16	examen 339 350	échographie
+T7	examen 621 633	Testostérone
+A3	norme T6 bas
+A4	norme T42 normal
+A5	norme T41 normal
+T18	examen 670 680	Oestradiol
+T29	valeur 749 752	4,8
+T30	examen 716 747	Rapport testostérone/Oestradiol
+T31	examen 756 768	Progestérone
+T43	examen 808 831	Delta 4 androstènedione
+T51	examen 871 874	FSH
+T56	examen 909 911	LH
+T57	sosy 1047 1070	localisation secondaire
+A6	assertion T57 absent
+A7	norme T44 normal
+A8	norme T45 haut
+A9	norme T104 haut
+T28	sosy 413 511	zones hypoéchogènes mesurant 14 cm dans son grand axe, et développée aux dépens du testicule droit
+T20	examen 2518 2533	immunomarquages
+A10	assertion T53 absent
+T21	moment 2709 2724	Neuf mois après
+T22	sosy 2374 2390	foyer de nécrose
+T23	sosy 2396 2415	invasion vasculaire
+A11	assertion T22 absent
+A12	assertion T23 absent
+T24	homme 2491 2498	Sertoli
+T25	endocriniennes 2491 2498	Sertoli
+T36	homme 2505 2511	Leydig
+T48	endocriniennes 2505 2511	Leydig
+T54	valeur 1245 1265	14 cm x 14 cm x 9 cm
+T60	sosy 2014 2046	stroma fibro-collagène peu dense
+T63	sosy 1395 1486	cellules tumorales faiblement acidophiles, à noyau central rond ou ovalaire parfois rainuré
+T65	examen 2593 2633	anticorps anti-cytokératine et vimentine
+T69	endocriniennes 112 138	tumeur testiculaire droite
+T70	anatomie 195 205	bilatérale
+T71	anatomie 307 317	bilatérale
+T72	valeur 442 466	14 cm dans son grand axe
+T73	genre 496 505	testicule
+A13	genre T73 masculin
+T74	sosy 517 585	marqueurs tumoraux (Alpha foetoprotéine, Béta HCG, LDH) sont normaux
+T75	anatomie 597 608	endocrinien
+T76	sosy 621 645	Testostérone: 0,12 ng/ml
+T77	sosy 670 690	Oestradiol: 25 pg/ml
+T78	sosy 716 752	Rapport testostérone/Oestradiol: 4,8
+T79	sosy 756 780	Progestérone: 0,53 ng/ml
+T81	sosy 808 843	Delta 4 androstènedione: 0,41 pg/ml
+T83	sosy 871 884	FSH: 26 MU/ml
+T84	sosy 909 921	LH, 44 MU/ml
+T85	examen 1208 1225	macroscopiquement
+T86	sosy 1231 1286	tumeur mesure 14 cm x 14 cm x 9 cm, d'aspect blanchâtre
+T87	examen 1290 1307	microscopiquement
+T88	sosy 1315 1357	tumeur associe plusieurs aspects intriqués
+T89	anatomie 1395 1403	cellules
+T90	sosy 1492 1720	cellules forment des lobules compacts avec corps de Call et Exner ou constituent des follicules de taille variable arrondis et dont la lumière est occupée par un matériel mucineux, parfois les cavités folliculaires sont élargies
+T93	sosy 1788 1952	faible contingent de cellules de grande taille à cytoplasme clair et à noyaux irrégulier présentant un certain polymorphisme cytonucléaire et quelques rares mitoses
+T94	anatomie 1809 1817	cellules
+T95	anatomie 1859 1865	noyaux
+T96	sosy 2111 2239	cellules polyédriques de taille moyenne à petite, à limite cytoplasmique peu nette et à noyau nucléolé dense légèrement excentré
+T97	anatomie 2111 2119	cellules
+T98	anatomie 2199 2204	noyau
+T99	anatomie 2322 2339	réseau vasculaire
+T105	anatomie 2462 2470	cellules
+T106	sosy 2560 2633	cellules sont positives pour les anticorps anti-cytokératine et vimentine
+T107	anatomie 2560 2568	cellules
+T108	examen 2637 2659	index de prolifération
+T109	examen 2675 2696	anticorps anti- Ki 67
+T110	sosy 2637 2706	index de prolifération évalué par les anticorps anti- Ki 67 est élevé
+T112	traitement 2727 2739	intervention
+T113	sosy 182 205	gynécomastie bilatérale
+T114	sosy 294 317	gynécomastie bilatérale
+T115	sosy 112 138	tumeur testiculaire droite
+T116	pathologie 2453 2511	tumeur à cellules de la granulosa, de Sertoli et de Leydig

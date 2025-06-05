@@ -1,0 +1,6 @@
+T1	genre 16 26	un patient
+T2	age 30 36	38 ans
+A1	genre T1 masculin
+T3	origine 76 185	des coliques néphrétique droites, des poussées fébriles et des brûlures mictionnelles évoluant depuis 03 mois
+T4	issue 2022 2080	Les contrôles urographiques à 3 mois étaient satisfaisants
+A2	issue T4 amélioration

@@ -1,0 +1,6 @@
+T1003	genre 0 10	Un patient
+T1002	age 14 20	66 ans
+A1001	genre T1003 masculin
+T2003	origine 51 89	dysurie sévère avec douleurs urétrales
+T2004	issue 860 1053	Le patient ne se représenta pas avant septembre 2000; il était alors porteur d'un stade T3 clinique et un traitement radio-hormonothérapie (protocole Bolla) après bilan d'extension fut institué
+A2002	issue T2004 stable

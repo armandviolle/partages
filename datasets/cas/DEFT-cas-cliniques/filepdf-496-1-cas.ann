@@ -1,0 +1,45 @@
+T1	sosy 25 47	antécédent particulier
+A2	assertion T1 absent
+T2	substance 294 319	traitement psychostimulan
+T3	substance 474 483	Survector
+T4	sosy 571 608	besoin d'augmenter les doses absorbée
+T5	dose 594 599	doses
+T6	duree 652 672	En quelques semaines
+T7	dose 701 710	une boite
+T8	frequence 725 733	par jour
+T9	substance 714 723	Survector
+T10	dose 752 757	doses
+T11	substance 865 874	comprimés
+T12	sosy 889 894	atone
+T13	sosy 896 906	asthénique
+T14	sosy 910 921	insomniaque
+T15	frequence 923 941	A maintes reprises
+T16	examen 1012 1031	suivi psychiatrique
+T17	sosy 948 1001	tentera vainement de diminuer les quantités absorbées
+T18	duree 1033 1047	Après 8 années
+T19	sosy 1051 1061	dépendance
+T20	sosy 1080 1124	acné macrokystique de la face et des épaules
+T21	anatomie 1105 1109	face
+T22	anatomie 1117 1124	épaules
+T23	substance 1199 1208	Survector
+T24	dose 1182 1195	prise massive
+T25	dose 1302 1307	doses
+T26	duree 1349 1369	En quelques semaines
+T27	dose 1400 1411	6 comprimés
+T28	frequence 1412 1420	par jour
+T29	traitement 1460 1467	sevrage
+T30	sosy 1645 1677	rechute de sa pharmacodépendance
+A3	assertion T30 hypothétique
+T31	date 1759 1763	1999
+T32	substance 1731 1740	Survector
+T33	etatsosy 896 906	asthénique
+T34	nerveux 910 921	insomniaque
+T35	nerveux 889 894	atone
+T36	peau 1080 1124	acné macrokystique de la face et des épaules
+T37	chimiques 1051 1061	dépendance
+T38	age 12 18	42 ans
+T39	genre 762 770	patiente
+A1	genre T39 féminin
+T40	origine 291 442	un traitement psychostimulant qui lui permettrait d'affronter de concert un travail avec de nombreuses responsabilités et une vie personnelle difficile
+T41	issue 1349 1607	En quelques semaines, elle arrive à ne prendre que 6 comprimés par jour, mais elle ne peut poursuivre seule le sevrage. Celui-ci sera effectué au cours d'une hospitalisation au Centre Antipoison de Marseille, mais la patiente a été par la suite perdue de vue
+A4	issue T41 stable

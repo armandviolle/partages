@@ -1,0 +1,108 @@
+T1001	anatomie 43 54	péritonéale
+T1002	anatomie 131 137	rénale
+T1003	anatomie 348 359	abdominales
+T1005	anatomie 681 688	rectale
+T1006	anatomie 542 549	abdomen
+T1007	anatomie 798 815	abdominopelvienne
+T1008	anatomie 860 871	intestinale
+T1009	anatomie 952 970	anses intestinales
+T10010	anatomie 993 1012	graisse péritonéale
+T10011	anatomie 1523 1530	capsule
+T10012	anatomie 1769 1775	rénale
+T10051	duree 87 103	pendant six mois
+T10052	duree 148 160	depuis 5 ans
+T10053	duree 254 272	depuis une semaine
+T10061	examen 473 479	examen
+T10062	examen 645 659	toucher rectal
+T10063	examen 780 815	tomodensitométrie abdominopelvienne
+T10064	examen 1047 1063	bilan biologique
+T100121	substance 71 86	antibacillaires
+T100141	traitement 166 177	hémodialyse
+T100142	traitement 1150 1174	laparotomie exploratrice
+T100143	traitement 1433 1463	libération laborieuse du grêle
+T100144	traitement 1501 1530	ablation totale de la capsule
+T100161	valeur 1125 1134	2,9 meq/l
+T100181	pathologie 31 54	tuberculose péritonéale
+T100193	sosy 281 293	vomissements
+T100195	sosy 405 433	altération de l’état général
+T100196	sosy 439 469	amaigrissement chiffré à 10 Kg
+T100197	sosy 509 525	bon état général
+T100198	sosy 527 537	apyrétique
+T100202	sosy 673 693	ampoule rectale vide
+T100204	sosy 877 928	individualisation d’image de masse tumorale visible
+T100205	sosy 934 970	agglutination des anses intestinales
+T100206	sosy 1077 1100	légère hyperleucocytose
+T100207	sosy 1267 1350	distension en amont touchant même le duodénum et l’estomac et un cadre colique plat
+T100208	sosy 1756 1781	insuffisance rénale grave
+T10014	valeur 464 469	10 Kg
+T10015	sosy 542 597	abdomen légèrement distendu, sensible dans son ensemble
+T10016	anatomie 697 704	abdomen
+T10017	examen 697 721	abdomen sans préparation
+T10018	sosy 974 1012	infiltration de la graisse péritonéale
+T10019	sosy 1017 1042	épaississement des fascia
+T10020	examen 1110 1122	hypokaliemie
+T10022	anatomie 1304 1312	duodénum
+T10023	anatomie 1318 1325	estomac
+T10024	sosy 1208 1261	engainement par une membrane fibreuse du grêle distal
+T10025	anatomie 1395 1428	espace interhépatodiaphragmatique
+T10026	pathologie 1357 1383	périhépatite intense ferme
+T10027	anatomie 1458 1463	grêle
+T10028	traitement 1484 1497	décortication
+T10030	moment 1648 1654	à J+15
+T10033	anatomie 1690 1697	abdomen
+T10034	moment 1718 1733	post-opératoire
+T2004	anatomie 653 659	rectal
+T20091	frequence 138 147	chronique
+T200191	sosy 118 147	insuffisance rénale chronique
+T200192	sosy 227 244	syndrome occlusif
+T200194	sosy 339 368	douleurs abdominales diffuses
+T200201	anatomie 603 622	orifices herniaires
+T200203	sosy 735 773	niveaux hydroaeriques de type grélique
+T200204	sosy 852 871	sténose intestinale
+T20013	frequence 179 200	2 séances par semaine
+T20014	sosy 297 333	arrêt totale des matières et des gaz
+T20016	sosy 603 637	orifices herniaires étaient libres
+T20021	anatomie 1036 1042	fascia
+T20022	sosy 1110 1134	hypokaliemie à 2,9 meq/l
+T20024	anatomie 1249 1261	grêle distal
+T20032	traitement 1536 1584	plaies gréliques punctifomes iatrogènes suturées
+T20033	anatomie 1543 1552	gréliques
+T20035	sosy 1690 1702	abdomen aigu
+T20037	sosy 1707 1733	péritonite post-opératoire
+T20038	sosy 1739 1752	sépsis sévère
+T20040	anatomie 765 773	grélique
+T1	date 58 62	2010
+A1	assertion T20014 absent
+A2	assertion T100204 absent
+T2	moment 1806 1832	avant toute reintervention
+A3	etat T100181 passé
+T200206	hemopathies 1077 1100	légère hyperleucocytose
+T200207	homme 118 137	insuffisance rénale
+T200208	homme 1756 1781	insuffisance rénale grave
+T200210	etatsosy 339 368	douleurs abdominales diffuses
+T200211	etatsosy 439 453	amaigrissement
+T3	infections 31 54	tuberculose péritonéale
+T4	digestif 31 54	tuberculose péritonéale
+T5	etatsosy 281 293	vomissements
+T6	etatsosy 297 333	arrêt totale des matières et des gaz
+#1	AnnotatorNotes T6	constipation
+T7	etatsosy 227 244	syndrome occlusif
+#2	AnnotatorNotes T7	constipation
+T8	etatsosy 1077 1100	légère hyperleucocytose
+T9	nutritionnelles 1110 1122	hypokaliemie
+T10	etatsosy 1690 1702	abdomen aigu
+T11	digestif 1707 1733	péritonite post-opératoire
+T12	infections 1707 1733	péritonite post-opératoire
+T13	infections 1739 1752	sépsis sévère
+T14	etatsosy 1739 1752	sépsis sévère
+T15	digestif 852 871	sténose intestinale
+#3	AnnotatorNotes T15	Pas sûr...
+T16	infections 1357 1383	périhépatite intense ferme
+T17	digestif 1357 1383	périhépatite intense ferme
+#4	AnnotatorNotes T16	péritonite hypochondre
+T18	genre 3 8	homme
+T19	age 12 18	45 ans
+A4	genre T18 masculin
+T20	origine 227 469	syndrome occlusif évoluant depuis une semaine fait de vomissements et arrêt totale des matières et des gaz avec douleurs abdominales diffuses le tout évoluant dans un contexte d’altération de l’état général et d’amaigrissement chiffré à 10 Kg
+T21	issue 1799 1805	décedé
+A5	issue T21 décès

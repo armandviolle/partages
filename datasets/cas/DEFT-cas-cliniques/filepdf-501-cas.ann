@@ -1,0 +1,6 @@
+T1	genre 25 30	femme
+T2	age 34 40	23 ans
+A1	genre T1 féminin
+T3	origine 381 573	Elle a donc haché finement dans un mixeur une trentaine de feuilles de laurier rose, les a mêlées à de la purée mousseline et les a ingérées ("espérant la mort par convulsions et étouffement")
+T4	issue 2060 2233	Depuis, elle n'a plus d'hallucinations mais se sent fatiguée, déprimée, sans désir suicidaire, et a des propos cohérents. Une prise en charge psychiatrique a été nécessaire.
+A2	issue T4 amélioration

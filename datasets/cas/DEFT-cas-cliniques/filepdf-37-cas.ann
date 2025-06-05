@@ -1,0 +1,6 @@
+T1	genre 0 2	Mr
+T2	issue 1884 1889	décès
+T3	age 9 15	21 ans
+A1	genre T1 masculin
+A2	issue T2 décès
+T4	origine 61 208	des douleurs lombo abdominales droites d’apparition récente associées à une altération de l’état général avec une perte pondérale de 10kg en 2 mois

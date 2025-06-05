@@ -1,0 +1,67 @@
+T1001	anatomie 1317 1324	cheveux
+T1002	anatomie 1188 1195	cheveux
+T10052	duree 140 152	depuis 8 ans
+T10053	duree 991 1006	pendant 3 jours
+T10061	examen 578 594	score de Glasgow
+T10062	examen 1138 1159	prélèvements sanguins
+T10063	examen 1173 1195	prélèvement de cheveux
+T10064	examen 1267 1290	CLHP/UV/BD dans le sang
+T100112	moment 444 480	1 heure 30 minutes après l'ingestion
+T100121	substance 193 204	venlafaxine
+T100122	substance 206 213	Effexor
+T100123	substance 358 369	clorazépate
+T100125	substance 223 234	clorazépate
+T100126	substance 778 793	benzodiazepines
+T100141	traitement 947 970	sonde est mise en place
+T100161	valeur 730 737	49 mg/l
+T100192	sosy 159 166	rechute
+T100193	sosy 498 516	absorption massive
+T100194	sosy 857 869	complication
+T1003	sosy 897 915	rétention d'urines
+T1004	duree 919 928	12 heures
+T1005	sosy 981 990	somnolent
+T1006	substance 1028 1050	traitement antidotique
+T1007	moment 1210 1235	pendant l'hospitalisation
+T1008	moment 1122 1132	le 12 jour
+T1009	examen 1298 1324	CG-SM/ICN dans les cheveux
+T10010	pathologie 124 133	éthylisme
+T10011	substance 330 341	Tranxène 50
+T10012	valeur 597 599	15
+T10013	sosy 378 387	somnolent
+T10014	dose 348 354	34,5 g
+T10015	traitement 417 433	lavage gastrique
+T10016	anatomie 424 433	gastrique
+T10018	moment 548 566	en début de lavage
+T10019	examen 677 702	concentration plasmatique
+T10020	anatomie 691 702	plasmatique
+T10021	examen 816 829	immunoanalyse
+T20051	duree 77 89	depuis 4 ans
+T200101	mode 538 547	comprimés
+T200124	substance 236 247	Tranxène 50
+T200191	sosy 51 76	syndrome dépressif sévère
+T2003	sosy 35 45	invalidité
+T2005	dose 317 326	23 boites
+T20012	sosy 578 599	score de Glasgow à 15
+T20014	sosy 677 728	concentration plasmatique extraordinairement élevée
+T20015	examen 751 793	dosage semi-quantitatif de benzodiazepines
+T20021	anatomie 1151 1159	sanguins
+T20023	anatomie 1286 1290	sang
+T20024	sosy 1349 1380	concentrations très importantes
+T20026	anatomie 909 915	urines
+A1	assertion T100192 absent
+T1	moment 388 412	à l'arrivée aux urgences
+A2	norme T100161 haut
+A3	norme T10012 normal
+A4	etat T10010 passé
+A5	assertion T100194 absent
+T2	chimiques 124 133	éthylisme
+T3	etatsosy 378 387	somnolent
+T4	chimiques 498 516	absorption massive
+T5	etatsosy 981 990	somnolent
+T6	homme 897 915	rétention d'urines
+T7	genre 15 20	homme
+T8	age 24 30	44 ans
+A6	genre T7 masculin
+T9	origine 251 369	Il est supposé avoir absorbé, à la suite d'un différent familial, 23 boites de Tranxène 50® soit 34,5 g de clorazépate
+T10	issue 1052 1132	Il est ensuite transféré en médecine puis en psychiatrie d'où il sort le 12 jour
+A7	issue T10 amélioration

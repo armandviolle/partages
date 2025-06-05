@@ -1,0 +1,135 @@
+T10	anatomie 209 214	fémur
+T11	anatomie 218 225	humérus
+T12	anatomie 234 240	radius
+T13	anatomie 241 248	cubitus
+T16	date 714 728	septembre 2011
+T5	date 2185 2198	décembre 2011
+T17	date 2227 2239	janvier 2012
+T6	date 3856 3865	mars 2012
+T7	date 4177 4191	septembre 2012
+T8	valeur 2158 2167	16,3 µg/g
+T9	examen 2171 2181	créatinine
+T18	valeur 2200 2209	17,3 µg/g
+T19	examen 2213 2223	créatinine
+A3	norme T8 haut
+A4	norme T18 haut
+T20	valeur 1793 1800	20 µg/g
+T21	examen 1804 1814	créatinine
+A5	norme T20 haut
+T22	sosy 188 257	fractures multiples (fémur et humérus droits, radius-cubitus gauches)
+T23	traitement 169 182	ostéosynthèse
+T24	examen 333 358	dosage de chrome urinaire
+T26	examen 520 579	spectrométrie d’absorption atomique électrothermique – SAAE
+T28	valeur 770 779	20,2 µg/g
+T29	examen 783 793	créatinine
+A6	norme T28 haut
+T30	examen 1078 1091	créatininémie
+T31	valeur 1094 1105	68,1 µmol/L
+T32	examen 1107 1124	micro-albuminurie
+T33	valeur 1127 1134	30 mg/L
+A7	norme T31 normal
+A8	norme T33 normal
+T34	examen 992 1015	examens complémentaires
+T35	anatomie 1071 1076	rénal
+T36	anatomie 1142 1145	ORL
+T37	anatomie 1149 1161	respiratoire
+T38	examen 1716 1741	dosage de chrome urinaire
+T39	traitement 2649 2662	ostéosynthèse
+T40	substance 2787 2793	chrome
+T41	substance 2815 2821	nickel
+T42	substance 2828 2837	molybdène
+T43	substance 2538 2544	chrome
+T44	substance 439 456	chrome hexavalent
+T45	examen 761 767	chrome
+T46	examen 2917 2975	dosage urinaire de chrome, celui du nickel et du molybdène
+T47	substance 2936 2942	chrome
+T48	substance 2953 2959	nickel
+T49	substance 2966 2975	molybdène
+T50	examen 3107 3126	bilan rénal complet
+T51	anatomie 3113 3118	rénal
+T52	substance 3214 3231	chrome hexavalent
+T53	examen 3329 3333	SAAE
+T54	valeur 3360 3369	24,5 µg/g
+A9	norme T54 haut
+T55	examen 3373 3383	créatinine
+T56	examen 3285 3310	dosage du nickel urinaire
+T57	substance 3462 3471	molybdène
+T59	examen 3525 3536	bilan rénal
+T60	anatomie 3531 3536	rénal
+T61	valeur 3565 3571	normal
+A10	norme T61 normal
+T62	traitement 3599 3612	ostéosynthèse
+T63	traitement 3808 3832	explantation du matériel
+T64	anatomie 3935 3946	fémur droit
+T66	valeur 4136 4144	0,6 µg/g
+T67	examen 4148 4158	créatinine
+A11	norme T66 normal
+T68	valeur 4241 4249	0,5 µg/g
+A12	norme T68 normal
+T69	examen 4253 4263	créatinine
+T70	examen 4281 4315	examens cliniques et paracliniques
+T71	valeur 4326 4332	normal
+A13	norme T71 normal
+T72	substance 3962 3971	limailles
+T73	sosy 4002 4025	imprégnation métallique
+T74	examen 4049 4068	contrôle biologique
+T75	moment 4069 4090	quatre mois plus tard
+T101	examen 1165 1170	étude
+T76	sosy 3707 3721	asymptomatique
+T80	substance 2110 2116	chrome
+T83	examen 880 890	créatinine
+T84	examen 975 985	créatinine
+T85	examen 2016 2026	créatinine
+T95	valeur 1051 1058	normaux
+T77	valeur 964 971	<1 µg/g
+T78	examen 4125 4134	chromurie
+T79	examen 4500 4509	chromurie
+T81	duree 4429 4450	après près de 10 mois
+T82	moment 3245 3280	cinq mois après l’éviction du poste
+T88	valeur 2795 2799	18 %
+T89	valeur 2854 2856	14
+T90	valeur 2860 2865	2,5 %
+T91	examen 3012 3045	surveillance biologique régulière
+T92	frequence 3036 3045	régulière
+T96	valeur 1990 2012	inférieure à 0,55 µg/g
+T97	examen 2246 2260	concentrations
+T98	examen 1541 1550	chromurie
+T99	valeur 869 876	30 µg/g
+T1	sosy 124 157	antécédents médicaux particuliers
+A2	assertion T1 absent
+T2	moment 297 313	dix ans plus tôt
+T3	examen 669 686	Cr urinaire total
+T4	sosy 745 793	imprégnation au chrome à 20,2 µg/g de créatinine
+T14	moment 1612 1666	Après une semaine d’arrêt d’exposition professionnelle
+T15	moment 2053 2070	les mois suivants
+T25	sosy 2080 2116	persistance d’imprégnation au chrome
+T58	anatomie 3176 3182	organe
+T102	traitement 110 120	traitement
+A14	assertion T102 absent
+T27	sosy 2246 2268	concentrations élevées
+T103	sosy 3525 3571	bilan rénal était par ailleurs toujours normal
+T104	sosy 4105 4159	normalisation de la chromurie (0,6 µg/g de créatinine)
+T105	sosy 4268 4332	ensemble des examens cliniques et paracliniques s’avérant normal
+T65	sosy 4241 4263	0,5 µg/g de créatinine
+T100	sosy 3360 3383	24,5 µg/g de créatinine
+T106	sosy 992 1135	examens complémentaires sont alors demandés, qui s’avèrent normaux sur le plan rénal (créatininémie : 68,1 µmol/L, micro-albuminurie : 30 mg/L)
+T94	sosy 1793 1814	20 µg/g de créatinine
+T108	sosy 2200 2223	17,3 µg/g de créatinine
+T109	sosy 2158 2181	16,3 µg/g de créatinine
+T110	anatomie 350 358	urinaire
+T111	anatomie 672 680	urinaire
+T112	anatomie 1733 1741	urinaire
+T113	anatomie 2924 2932	urinaire
+T114	anatomie 3302 3310	urinaire
+T107	anatomie 3514 3520	urines
+T86	blessures 188 257	fractures multiples (fémur et humérus droits, radius-cubitus gauches)
+T87	chimiques 745 793	imprégnation au chrome à 20,2 µg/g de créatinine
+T93	chimiques 2094 2116	imprégnation au chrome
+T115	chimiques 4002 4025	imprégnation métallique
+T116	chimiques 1541 1550	chromurie
+T117	genre 63 68	homme
+T118	age 72 78	33 ans
+A1	genre T117 masculin
+T119	origine 741 986	une imprégnation au chrome à 20,2 µg/g de créatinine, inférieure aux valeurs guides françaises chez les professionnels exposés (30 µg/g de créatinine) [7] mais bien plus élevée que les autres peintres de l’entreprise (tous <1 µg/g de créatinine)
+T120	issue 4266 4539	L’ensemble des examens cliniques et paracliniques s’avérant normal, le salarié a été déclaré apte par le médecin du travail et a immédiatement réintégré son poste après près de 10 mois d’arrêt (cf. figure 1 résumant l’évolution de la chromurie du patient sur cette période)
+A15	issue T120 guérison

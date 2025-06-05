@@ -1,0 +1,6 @@
+T1	genre 0 10	Le patient
+T2	age 19 25	48 ans
+A1	genre T1 masculin
+T3	origine 44 123	une douleur lombaire droite présente depuis 12 heures et d’apparition spontanée
+T4	issue 1978 2143	L’évolution post-opératoires a été favorable avec un recul de 15 mois. Le patient se porte bien avec une fonction rénale normale et une tension artérielle équilibrée
+A2	issue T4 amélioration

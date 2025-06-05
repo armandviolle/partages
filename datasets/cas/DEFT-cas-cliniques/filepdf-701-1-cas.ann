@@ -1,0 +1,6 @@
+T1	genre 1816 1826	un patient
+T2	age 1834 1840	64 ans
+A1	genre T1 masculin
+T3	origine 1934 2091	altération de l’état général avec un amaigrissement (perte de 10kg sur 9 mois), syndrome douloureux abdominal et diarrhée chronique évoluant depuis neuf mois
+T4	issue 3637 3722	une amélioration de la qualité de vie malgré les localisations secondaires hépatiques
+A2	issue T4 amélioration

@@ -1,0 +1,83 @@
+T1004	anatomie 648 667	tissus sous-cutanés
+T1005	anatomie 679 694	corps caverneux
+T1007	anatomie 1222 1242	anatomo-pathologique
+T1008	anatomie 1280 1285	tissu
+T10051	duree 1432 1445	pour 10 jours
+T10063	examen 463 490	numération-formule sanguine
+T10064	examen 497 515	ionogramme sanguin
+T10065	examen 581 601	échographie pénienne
+T10066	examen 699 738	imagerie par résonance magnétique (IRM)
+T10067	examen 960 984	exploration chirurgicale
+T10068	examen 1058 1081	analyse bactériologique
+T10069	examen 1166 1195	recherche de bacilles de Koch
+T10071	examen 1449 1464	examen clinique
+T100111	moment 923 954	après 4 jours d’antibiothérapie
+T100112	moment 1478 1491	à 1 et 3 mois
+T100122	substance 1130 1141	pénicilline
+T100123	substance 1148 1161	cotrimoxazole
+T100124	substance 1418 1431	cotrimoxazole
+T100161	valeur 436 442	normal
+T100162	valeur 778 795	4 x 4 centimètres
+T100163	valeur 1471 1477	normal
+T100194	sosy 405 419	lésion cutanée
+T100195	sosy 536 544	anomalie
+T100198	sosy 1100 1114	Streptocoque A
+T10012	anatomie 424 429	pénis
+T10013	examen 549 562	sérologie VIH
+T10014	valeur 569 577	négative
+T10015	sosy 614 694	épaississement non spécifique des tissus sous-cutanés autour des corps caverneux
+T10016	anatomie 884 892	pubienne
+T10017	valeur 1041 1046	20 ml
+T10019	valeur 1202 1210	négative
+T2001	anatomie 47 55	pubienne
+T2002	anatomie 383 398	racine du pénis
+T2003	anatomie 593 601	pénienne
+T2006	anatomie 818 835	symphyse pubienne
+T2008	sosy 1280 1311	tissu inflammatoire non tumoral
+T20061	examen 320 326	examen
+T20062	examen 448 457	palpation
+T20070	examen 1214 1242	analyse anatomo-pathologique
+T200191	sosy 39 74	douleur pubienne irradiant au pénis
+T200192	sosy 146 157	traumatisme
+T200193	sosy 344 398	induration douloureuse au dessus de la racine du pénis
+T200196	sosy 876 892	ostéite pubienne
+T200197	sosy 900 922	absence d’amélioration
+T2009	anatomie 69 74	pénis
+T20010	sosy 162 178	piqûre d’insecte
+T20011	sosy 216 236	blessure d’un orteil
+T20012	anatomie 230 236	orteil
+T20013	duree 300 313	en 2 semaines
+T20015	sosy 424 442	pénis était normal
+T20018	sosy 549 577	sérologie VIH était négative
+T20020	sosy 752 835	collection liquidienne de 4 x 4 centimètres située en avant de la symphyse pubienne
+T20022	traitement 1020 1053	évacuation d'environ 20 ml de pus
+T20024	sosy 1050 1053	pus
+T20025	sosy 1085 1088	pus
+T20027	sosy 1166 1210	recherche de bacilles de Koch était négative
+T2007	sosy 1260 1265	abcès
+T20028	traitement 1362 1374	soins locaux
+T20029	moment 1400 1412	au 5ème jour
+T20030	sosy 1449 1477	examen clinique était normal
+A1	assertion T200192 absent
+A2	assertion T20010 absent
+T1	anatomie 412 419	cutanée
+A3	assertion T100194 absent
+A4	assertion T100195 absent
+A5	norme T100161 normal
+A6	norme T100163 normal
+T2	anatomie 482 490	sanguine
+T3	anatomie 508 515	sanguin
+A7	assertion T200196 absent
+T200198	etatsosy 39 55	douleur pubienne
+T4	homme 39 74	douleur pubienne irradiant au pénis
+T5	blessures 216 236	blessure d’un orteil
+T6	homme 344 398	induration douloureuse au dessus de la racine du pénis
+T7	peau 344 398	induration douloureuse au dessus de la racine du pénis
+T8	infections 1100 1114	Streptocoque A
+T9	infections 1260 1265	abcès
+T10	genre 3 8	homme
+T11	age 12 18	40 ans
+A8	genre T10 masculin
+T12	origine 35 119	une douleur pubienne irradiant au pénis, survenue au retour d’un voyage à Madagascar
+T13	issue 1447 1491	L’examen clinique était normal à 1 et 3 mois
+A9	issue T13 guérison

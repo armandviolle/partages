@@ -1,0 +1,102 @@
+T1001	anatomie 724 730	rénale
+T1002	anatomie 872 878	thorax
+T1003	anatomie 1229 1241	neurologique
+T10051	duree 1372 1393	au bout de deux jours
+T10061	examen 275 291	score de Glasgow
+T10062	examen 339 345	examen
+T10063	examen 504 523	fréquence cardiaque
+T10064	examen 690 697	examens
+T10065	examen 830 849	électrocardiogramme
+T10066	examen 856 878	radiographie de thorax
+T100111	moment 87 111	Après un arrêt de 9 mois
+T100112	moment 1403 1415	au 3eme jour
+T100113	moment 1631 1650	au jour d'admission
+T100114	moment 1696 1708	le lendemain
+T100121	substance 186 191	Xanax
+T100122	substance 194 204	alprazolam
+T100123	substance 1170 1185	antibiothérapie
+T100161	valeur 527 534	100/min
+T100162	valeur 764 771	38,7° C
+T100163	valeur 884 891	normaux
+T100181	pathologie 1215 1253	manifestation neurologique persistante
+T100191	sosy 306 333	vomissements très abondants
+T100192	sosy 363 372	hypotonie
+T100193	sosy 378 390	hyporéflexie
+T100194	sosy 395 407	myosis serré
+T100195	sosy 415 438	mouvements myocloniques
+T100196	traitement 596 632	rééquilibration hydro-électrolytiquc
+T100197	sosy 711 744	insuffisance rénale fonctionnelle
+T100198	sosy 750 772	hyperthermic (38,7° C)
+T100202	sosy 1267 1292	état de conscience normal
+T1004	valeur 294 295	6
+T1005	substance 45 52	lithium
+T1006	pathologie 58 85	psychose maniaco-dépressive
+T1007	sosy 129 140	inconscient
+T1008	sosy 260 273	coma stade II
+T1009	valeur 265 273	stade II
+T10010	sosy 455 498	important encombrement bronchique bilatéral
+T10011	anatomie 478 498	bronchique bilatéral
+T10012	traitement 567 588	ventilation contrôlée
+T10013	traitement 940 951	ventilation
+T10014	traitement 961 997	rééquilibration hydro-électrolytique
+T10015	traitement 1016 1032	lavage gastrique
+T10016	anatomie 1023 1032	gastrique
+T10017	dose 1075 1079	50 g
+T10018	substance 1083 1096	charbon actif
+T10019	mode 1097 1103	per os
+T10020	sosy 1107 1133	inhalation de vomissements
+T10021	moment 1293 1309	à la 18eme heure
+T10022	traitement 1314 1334	ventilation assistée
+T10023	traitement 1516 1532	lavage gastrique
+T10024	anatomie 1523 1532	gastrique
+T10025	traitement 1600 1616	lavage gastrique
+T10026	anatomie 1607 1616	gastrique
+T20067	examen 1656 1668	prélèvements
+T200164	valeur 1286 1292	normal
+T200199	sosy 780 803	expectoration purulente
+T2007	substance 224 240	désherbant S.E.M
+T20013	sosy 504 534	fréquence cardiaque de 100/min
+T20014	anatomie 514 523	cardiaque
+T20016	moment 634 647	A l'admission
+T20017	sosy 665 684	état reste inchangé
+T20018	sosy 809 825	hyperleucocytose
+T20019	sosy 830 891	électrocardiogramme et la radiographie de thorax sont normaux
+T20026	mode 1107 1117	inhalation
+T20027	pathologie 1148 1157	bronchite
+T20030	traitement 1365 1371	extubé
+T20031	anatomie 1475 1480	urine
+T20032	anatomie 1490 1495	sérum
+T20034	examen 1563 1575	prélèvements
+T20035	examen 1460 1532	échantillons d'urine, deux de sérum et un de liquide de lavage gastrique
+T20037	substance 1713 1720	produit
+T20038	examen 1752 1759	analysé
+T20039	sosy 275 295	score de Glasgow à 6
+A1	norme T1004 bas
+A2	norme T100161 haut
+A3	norme T100162 haut
+A4	norme T100163 normal
+A5	assertion T100181 absent
+A6	norme T200164 normal
+T200201	homme 711 744	insuffisance rénale fonctionnelle
+T200202	etatsosy 395 407	myosis serré
+T200203	etatsosy 306 333	vomissements très abondants
+T200204	etatsosy 1107 1133	inhalation de vomissements
+T1	nerveux 260 273	coma stade II
+T2	nerveux 363 372	hypotonie
+T3	etatsosy 363 372	hypotonie
+T4	nerveux 378 390	hyporéflexie
+T5	etatsosy 378 390	hyporéflexie
+T6	oeil 395 407	myosis serré
+T7	nerveux 415 438	mouvements myocloniques
+T8	etatsosy 750 762	hyperthermic
+T9	hemopathies 809 825	hyperleucocytose
+T10	etatsosy 809 825	hyperleucocytose
+T11	respiratoire 1148 1157	bronchite
+T12	cardiovasculaires 504 534	fréquence cardiaque de 100/min
+T13	chimiques 166 240	emballages vides de Xanax® (alprazolam) et d'un flacon de désherbant S.E.M
+T14	genre 3 8	homme
+T15	age 12 18	51 ans
+A7	genre T14 masculin
+T16	origine 120 155	retrouvé inconscient à son domicile
+T17	issue 1187 1309	Le patient, qui n'a plus de manifestation neurologique persistante, retrouve un état de conscience normal à la 18eme heure
+A8	issue T17 amélioration

@@ -1,0 +1,47 @@
+T8	substance 1030 1049	sérum physiologique
+T6	duree 112 136	depuis plus de 24 heures
+T7	substance 1408 1416	Bétadine
+T9	sosy 77 97	douleur pénoscrotale
+T10	anatomie 85 97	pénoscrotale
+T11	anatomie 316 321	pénis
+T12	anatomie 328 335	scrotum
+T13	substance 432 440	vaseline
+T14	mode 421 428	pommade
+T15	examen 548 563	examen physique
+T16	sosy 588 595	anxieux
+T17	sosy 601 631	trouble psychiatrique apparent
+A3	assertion T17 absent
+T18	anatomie 609 622	psychiatrique
+T19	anatomie 653 658	pénis
+T20	anatomie 665 672	scrotum
+T21	sosy 653 725	pénis et un scrotum tuméfiés, étranglés à la base par un anneau en acier
+T23	sosy 747 765	ulcération cutanée
+T24	anatomie 758 765	cutanée
+T25	traitement 947 966	anesthésie générale
+T26	sosy 1114 1133	petites ulcérations
+T27	sosy 1227 1233	oedème
+T30	substance 1278 1304	vaccination anti-tétanique
+T31	sosy 1310 1321	ulcérations
+T34	moment 1461 1481	trois mois plus tard
+T35	moment 1446 1455	à un mois
+T1	moment 1168 1195	48 heures après l'opération
+T2	substance 1239 1254	anti-oedemateux
+T3	moment 1355 1383	au 8ème jour post opératoire
+T4	sosy 1491 1546	évolution cicatricielle et fonctionnelle, satisfaisante
+T22	traitement 1083 1089	enlevé
+T28	traitement 817 836	section de l'anneau
+T29	traitement 970 1001	refroidissement quasi permanent
+T32	etatsosy 77 97	douleur pénoscrotale
+T33	etatsosy 588 595	anxieux
+T36	etatsosy 653 681	pénis et un scrotum tuméfiés
+T37	etatsosy 747 765	ulcération cutanée
+T38	peau 747 765	ulcération cutanée
+T39	etatsosy 1227 1233	oedème
+T40	etatsosy 1114 1133	petites ulcérations
+T41	etatsosy 1310 1321	ulcérations
+T5	genre 0 8	Monsieur
+A1	genre T5 masculin
+T42	age 18 24	26 ans
+T43	origine 77 136	douleur pénoscrotale, qui évoluait depuis plus de 24 heures
+T44	issue 1425 1546	Le malade était revu à un mois puis trois mois plus tard avec une évolution cicatricielle et fonctionnelle, satisfaisante
+A2	issue T44 guérison

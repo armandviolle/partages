@@ -1,0 +1,6 @@
+T1	age 13 19	46 ans
+T2	genre 6 9	âgé
+A1	genre T2 masculin
+T3	origine 76 183	infection urinaire fébrile associée à une altération de l’état général (perte pondérale de 15 kg en 4 mois)
+T4	issue 1329 1469	Un mois plus tard, le patient a été hospitalisé pour toxoplasmose cérébrale et pneumocystose pulmonaire, actuellement en cours de traitement
+A2	issue T4 détérioration

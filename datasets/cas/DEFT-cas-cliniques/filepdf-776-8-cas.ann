@@ -1,0 +1,6 @@
+T1	genre 165 175	Ce patient
+T2	age 19 25	54 ans
+A1	genre T1 masculin
+T3	origine 96 163	polyarthropathie avec atteinte rachidienne évoluant depuis huit ans
+T4	issue 716 763	Ce patient a bénéficié d’une prothèse de hanche
+A2	issue T4 amélioration

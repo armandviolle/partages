@@ -1,0 +1,44 @@
+T1	etatsosy 34 45	inconscient
+T9	substance 375 390	éthylène glycol
+T3	infections 430 442	intoxication
+T17	valeur 515 526	2,40 mmol/L
+T4	infections 555 567	intoxication
+T7	substance 701 712	métabolites
+T11	substance 718 733	éthylène glycol
+T8	moment 89 104	À son admission
+T5	age 14 20	86 ans
+T2	sosy 66 87	notion d’intoxication
+A1	assertion T2 absent
+T6	examen 122 129	acidose
+T18	valeur 131 140	pH = 7,24
+T19	examen 157 174	hyperlactacidémie
+T20	valeur 177 186	26 mmol/L
+T21	valeur 240 251	4,54 mmol/L
+T16	examen 467 497	taux sérique d’éthylène glycol
+T10	valeur 528 538	148,8 mg/L
+T12	nerveux 34 45	inconscient
+T13	sosy 34 45	inconscient
+T14	genre 3 10	patient
+A2	genre T14 masculin
+A3	norme T18 bas
+#1	AnnotatorNotes T18	Normal entre 7,38 et 7,42
+T15	examen 797 814	dosage du lactate
+A4	norme T20 haut
+A5	norme T21 haut
+#2	AnnotatorNotes T21	Normal entre 1 et 1,5 mmol/L
+A6	norme T17 haut
+T22	examen 326 343	mesure du lactate
+A7	norme T10 haut
+#3	AnnotatorNotes T10	Normal entre 90,9 et 136,4 mg/L (mg/L*0,011=mmol/L)
+T23	nutritionnelles 122 129	acidose
+T24	nutritionnelles 157 174	hyperlactacidémie
+T25	sosy 122 141	acidose (pH = 7,24)
+T26	sosy 157 186	hyperlactacidémie à 26 mmol/L
+T27	dispositif 191 211	ABL 825 r Radiometer
+T28	dispositif 256 269	Dimension R×L
+T29	sosy 357 390	intoxications à l’éthylène glycol
+A8	assertion T29 non-associé
+T30	sosy 467 539	taux sérique d’éthylène glycol a été retrouvé à 2,40 mmol/L (148,8 mg/L)
+T31	dispositif 819 834	Dimension R×L r
+T32	sosy 430 442	intoxication
+T33	sosy 555 567	intoxication

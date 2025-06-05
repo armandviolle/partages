@@ -1,0 +1,49 @@
+T2	genre 0 3	Mme
+T3	etatsosy 103 130	hématurie totale épisodique
+T15	sosy 134 175	examen clinique était sans particularités
+T38	valeur 156 175	sans particularités
+T10	examen 180 183	UIV
+T58	age 19 25	30 ans
+T23	sosy 208 246	masse polaire supérieur du rein gauche
+T32	anatomie 235 246	rein gauche
+T43	examen 253 264	échographie
+T6	tumeur 286 292	tumeur
+T28	anatomie 377 406	pôle supérieur du rein gauche
+T11	duree 40 61	depuis plusieurs mois
+T42	anatomie 429 436	veineux
+T40	examen 443 460	tomodensitométrie
+T7	tumeur 465 471	tumeur
+T21	mode 541 550	injection
+T26	substance 554 574	produit de contraste
+T27	anatomie 592 611	graisse péri-rénale
+T1	tumeur 631 645	cancer du rein
+T31	anatomie 641 645	rein
+T4	etatsosy 65 83	lombalgies gauches
+T24	traitement 664 684	néphrectomie élargie
+T9	examen 701 711	A la coupe
+T8	tumeur 716 722	tumeur
+T57	sosy 716 785	tumeur était de couleur marron avec des zones hémorragiques centrales
+T19	anatomie 76 83	gauches
+T45	sosy 791 798	nécrose
+T20	examen 803 813	histologie
+T5	femme 826 842	oncocytome rénal
+T35	anatomie 837 842	rénal
+T41	moment 878 897	un recul de 12 mois
+A1	genre T2 féminin
+T12	examen 134 149	examen clinique
+T13	valeur 330 347	6 cm de grand axe
+T14	sosy 415 436	envahissement veineux
+A2	assertion T14 absent
+A3	assertion T45 absent
+T16	tumeur 826 842	oncocytome rénal
+T17	sosy 286 406	tumeur solide, hétérogène, bien limitée, de 6 cm de grand axe se développant aux dépens du pôle supérieur du rein gauche
+T18	sosy 487 611	formations nécrotiques centrales, se rehaussait après injection de produit de contraste et respectait la graisse péri-rénale
+T22	femme 103 130	hématurie totale épisodique
+T25	femme 631 645	cancer du rein
+T29	sosy 65 83	lombalgies gauches
+T30	sosy 103 130	hématurie totale épisodique
+T33	frequence 120 130	épisodique
+T34	anatomie 214 231	polaire supérieur
+T36	sosy 465 471	tumeur
+T37	pathologie 631 645	cancer du rein
+T39	pathologie 826 843	oncocytome rénal.

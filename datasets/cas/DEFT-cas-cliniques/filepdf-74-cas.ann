@@ -1,0 +1,128 @@
+T6	tumeur 1015 1051	kyste de la vésicule séminale gauche
+T44	anatomie 1027 1051	vésicule séminale gauche
+T66	anatomie 105 114	périnéale
+T91	examen 1073 1097	urographie intraveineuse
+T47	mode 1084 1097	intraveineuse
+T80	anatomie 1118 1131	rénale gauche
+T79	anatomie 1171 1177	rénale
+T99	examen 1193 1204	échographie
+T72	anatomie 1212 1222	rein droit
+T55	valeur 1281 1287	normal
+T87	examen 1293 1310	tomodensitométrie
+T63	anatomie 1333 1341	prostate
+T20	sosy 1333 1399	prostate augmentée de volume siège de multiples lésions hypodenses
+T104	etatsosy 1371 1399	multiples lésions hypodenses
+T157	anatomie 1431 1450	vésicules séminales
+T7	tumeur 1488 1505	kyste prostatique
+T65	anatomie 1494 1505	prostatique
+T1	etatsosy 150 172	brûlures mictionnelles
+T158	anatomie 1525 1544	vésicules séminales
+T30	examen 1569 1580	cystoscopie
+T206	fonction 159 169	mictionnel
+T53	anatomie 1609 1629	méat urétéral gauche
+T52	sosy 1636 1667	masse saillante en endovésicale
+T36	anatomie 1655 1667	endovésicale
+T22	examen 1673 1689	bilan biologique
+T82	valeur 1696 1714	sans particularité
+T138	examen 1728 1740	spermogramme
+T10	etatsosy 174 185	pollakiurie
+T89	substance 1746 1756	traitement
+T8	tumeur 1779 1784	kyste
+T93	mode 1789 1803	voie périnéale
+T29	examen 1809 1849	contrôle échographique endorectale 7 MHz
+T166	anatomie 1832 1843	endorectale
+T2	etatsosy 189 201	constipation
+T102	examen 1906 1931	étude cytobactériologique
+T84	valeur 1938 1945	stérile
+T4	sosy 207 214	dysurie
+T24	examen 2085 2092	biopsie
+T51	sosy 2124 2139	lésion suspecte
+T129	sosy 218 229	hémospermie
+T68	anatomie 2246 2256	périnéales
+T96	anatomie 2285 2294	vésicales
+T139	examen 2346 2358	spermogramme
+T56	valeur 2359 2365	normal
+T5	etatsosy 251 257	fièvre
+T19	pathologie 26 64	antécédents pathologiques particuliers
+T39	examen 261 276	examen clinique
+T25	sosy 300 316	bon état général
+T86	examen 321 332	température
+T13	temperature 342 346	37°C
+T88	examen 351 365	toucher rectal
+T69	anatomie 359 365	rectal
+T62	anatomie 388 396	prostate
+T34	anatomie 405 415	lobe droit
+T54	valeur 422 428	normal
+T41	anatomie 442 466	vésicule séminale gauche
+T215	tumeur 482 498	multiples kystes
+T64	anatomie 513 542	lobe prostatique homolatérale
+T75	examen 547 574	reste de l’examen somatique
+T81	valeur 581 599	sans particularité
+T100	examen 604 634	échographie abdomino-pelvienne
+T14	anatomie 616 634	abdomino-pelvienne
+T73	anatomie 714 725	rein gauche
+T31	duree 78 90	depuis 5 ans
+T26	anatomie 780 798	cavités pelviennes
+T179	examen 802 825	échographie endorectale
+T165	anatomie 814 825	endorectale
+T49	sosy 852 994	multiples formations kystiques latéralisées du coté gauche se projetant au niveau de l’aire de la vésicule séminale dont une était volumineuse
+T43	anatomie 899 910	coté gauche
+T3	etatsosy 96 115	douleurs périnéales
+A1	norme T13 normal
+T9	age 13 19	24 ans
+A2	assertion T19 absent
+T11	fonction 137 148	éjaculation
+A3	assertion T129 absent
+A4	assertion T4 absent
+T12	examen 1256 1274	uréthrocystogramme
+T16	examen 2044 2053	cytologie
+A5	assertion T51 absent
+T15	sosy 2264 2294	signes d’irritations vésicales
+T17	sosy 2239 2256	algies périnéales
+A6	assertion T17 absent
+A7	assertion T15 absent
+T18	sosy 2044 2080	cytologie discrètement inflammatoire
+A8	assertion T52 absent
+T21	homme 1162 1177	agénésie rénale
+T23	etatsosy 1162 1177	agénésie rénale
+T27	sosy 1162 1177	agénésie rénale
+T28	sosy 1212 1252	rein droit en hypertrophie compensatrice
+T32	sosy 1111 1131	mutité rénale gauche
+T33	sosy 251 257	fièvre
+T35	sosy 189 201	constipation
+T37	sosy 174 185	pollakiurie
+T38	sosy 150 172	brûlures mictionnelles
+T40	anatomie 685 698	rétrovésicale
+T42	sosy 662 698	collection liquidienne rétrovésicale
+T45	anatomie 939 967	aire de la vésicule séminale
+T46	fonction 2330 2339	érections
+T48	valeur 1873 1878	30 cc
+T50	homme 482 498	multiples kystes
+T57	tumeur 852 882	multiples formations kystiques
+T58	homme 852 882	multiples formations kystiques
+T59	homme 1015 1051	kyste de la vésicule séminale gauche
+T60	homme 1111 1131	mutité rénale gauche
+T61	etatsosy 1212 1252	rein droit en hypertrophie compensatrice
+T70	etatsosy 1333 1351	prostate augmentée
+T71	homme 1488 1505	kyste prostatique
+T74	etatsosy 2067 2080	inflammatoire
+T76	sosy 96 148	douleurs périnéales accentuées lors de l’éjaculation
+T77	sosy 321 346	température était de 37°C
+T78	sosy 388 428	prostate dont le lobe droit était normal
+T83	sosy 442 542	vésicule séminale gauche était siège de multiples kystes s’étendant au lobe prostatique homolatérale
+T85	sosy 547 599	reste de l’examen somatique était sans particularité
+T90	sosy 714 798	rein gauche n’a pas été retrouvé ni dans sa loge ni au niveau les cavités pelviennes
+T92	anatomie 750 762	dans sa loge
+T94	sosy 1256 1287	uréthrocystogramme était normal
+T95	sosy 1405 1450	atteinte concomitante des vésicules séminales
+T97	sosy 1589 1629	pas été retrouvé de méat urétéral gauche
+T98	sosy 1673 1714	bilan biologique était sans particularité
+T101	sosy 1765 1803	aspiration du kyste par voie périnéale
+T67	traitement 1865 1898	évacuer 30 cc de liquide brunâtre
+T103	sosy 1906 1945	étude cytobactériologique était stérile
+T105	sosy 1979 2018	spermatozoïdes ou de cellules suspectes
+A9	assertion T105 absent
+T106	moment 2186 2207	suivie de deux années
+T107	sosy 2330 2365	érections et un spermogramme normal
+T108	sosy 1488 1505	kyste prostatique
+T109	sosy 1015 1051	kyste de la vésicule séminale gauche

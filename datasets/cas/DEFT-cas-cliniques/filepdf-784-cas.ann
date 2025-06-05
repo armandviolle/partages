@@ -1,0 +1,6 @@
+T1	genre 1367 1378	La patiente
+T2	age 16 22	51 ans
+T3	issue 1777 1784	décédée
+A1	issue T3 décès
+A2	genre T1 féminin
+T4	origine 395 495	une lésion du cuir chevelu occipital, évoluant depuis 3 mois et augmentant progressivement de volume

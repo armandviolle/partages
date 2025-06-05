@@ -1,0 +1,6 @@
+T1	genre 0 2	Mr
+A1	genre T1 masculin
+T2	age 13 19	34 ans
+T3	origine 90 131	une tuméfaction dans l'hémi-scrotum droit
+T4	issue 773 806	pas montré de signes de malignité
+A2	issue T4 guérison

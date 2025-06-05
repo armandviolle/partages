@@ -1,0 +1,6 @@
+T1	age 10 16	22 ans
+T2	genre 71 80	testicule
+A1	genre T2 masculin
+T3	origine 33 87	une augmentation récente de volume du testicule gauche
+T4	issue 825 922	Après 8 ans de recul, les examens clinique et échographique du testicule conservé étaient normaux
+A2	issue T4 guérison

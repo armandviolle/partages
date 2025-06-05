@@ -1,0 +1,6 @@
+T1	genre 50 55	homme
+T2	age 59 65	24 ans
+A1	genre T1 masculin
+T3	origine 722 827	des impériosités mictionnelles à l'origine d'une incontinence modérée nécessitant le port d'une garniture
+T4	issue 2096 2218	échographique et urodynamique vérifie la qualité mictionnelle et l'absence de retentissement sur le haut appareil urinaire
+A2	issue T4 amélioration

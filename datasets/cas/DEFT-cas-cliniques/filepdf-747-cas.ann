@@ -1,0 +1,116 @@
+T1	substance 36 46	fluindione
+T2	duree 47 66	depuis octobre 2005
+T3	sosy 85 113	accidents cérébrovasculaires
+A1	assertion T3 possible
+T4	sosy 131 155	fibrillation auriculaire
+T5	sosy 178 232	ratio normalisé international (RNI) situé entre 2 et 3
+T6	examen 178 213	ratio normalisé international (RNI)
+T7	valeur 220 232	entre 2 et 3
+T8	examen 245 248	RNI
+T9	substance 317 327	fluindione
+T10	dose 328 333	10 mg
+T11	frequence 334 342	par jour
+T12	valeur 350 353	1,4
+T13	examen 344 347	RNI
+T14	sosy 344 353	RNI = 1,4
+T15	dose 382 391	posologie
+A2	changement T15 augmentation
+T16	substance 397 410	anticoagulant
+T17	dose 413 418	15 mg
+A3	changement T17 augmentation
+T18	frequence 419 427	par jour
+T19	examen 458 473	contrôle du RNI
+A4	assertion T19 absent
+T20	moment 515 550	deux mois avant son hospitalisation
+T21	duree 560 574	cinquième cure
+T22	substance 578 588	bortezomib
+T23	sosy 618 634	myélome multiple
+T24	duree 642 653	de huit ans
+T25	sosy 691 722	douleurs osseuses métastatiques
+T26	anatomie 700 708	osseuses
+T27	anatomie 95 113	cérébrovasculaires
+T28	anatomie 144 155	auriculaire
+T29	substance 750 762	analgésiques
+T30	substance 766 780	acétaminophène
+T31	substance 786 795	oxycodone
+T32	frequence 802 811	au besoin
+T33	substance 855 863	kétamine
+T34	dose 867 876	0,5 mg/kg
+T35	duree 887 907	dose totale de 35 mg
+T36	moment 916 950	le même jour que sa chimiothérapie
+T37	substance 936 950	chimiothérapie
+T38	moment 953 998	Six jours après l’introduction de la kétamine
+T39	substance 990 998	kétamine
+T40	examen 1003 1019	bilan biologique
+T41	examen 1030 1033	RNI
+T42	valeur 1057 1060	5,4
+T43	sosy 1030 1060	RNI supra-thérapeutique de 5,4
+T44	substance 1100 1110	fluindione
+A5	prise T44 arrêt
+T45	duree 1111 1131	pendant quatre jours
+T46	substance 1155 1158	AVK
+A6	prise T46 reprise
+T47	moment 1171 1193	à la cinquième journée
+T48	dose 1200 1213	dose de 10 mg
+T49	frequence 1214 1222	par jour
+T50	examen 1240 1243	RNI
+T51	valeur 1246 1250	1,60
+T52	sosy 1240 1250	RNI à 1,60
+T53	substance 1314 1325	médicaments
+T54	substance 1330 1349	plantes médicinales
+T55	substance 1386 1396	vitamine K
+T56	pathologie 1401 1426	pathologies sous-jacentes
+A7	assertion T56 absent
+T57	sosy 1431 1453	problèmes d’observance
+A8	assertion T57 absent
+T58	sosy 1460 1495	modification récente des posologies
+A9	assertion T58 absent
+T59	substance 1534 1554	érythropoéïtine bêta
+T60	substance 1556 1564	zolpidem
+T61	substance 1566 1577	gabapentine
+T62	substance 1579 1592	amitriptyline
+T63	substance 1594 1602	fentanyl
+T64	substance 1604 1622	macrogol (laxatif)
+T65	substance 1626 1650	complexes multivitaminés
+T66	substance 1656 1664	kétamine
+T67	sosy 1761 1770	surdosage
+A10	prise T66 arrêt
+T68	substance 1859 1867	kétamine
+T69	substance 1877 1887	fluindione
+T70	examen 2148 2151	RNI
+T71	sosy 2182 2201	fluctuations du RNI
+T72	examen 2198 2201	RNI
+T73	substance 2222 2241	cures de bortezomib
+T74	substance 2278 2288	fluindione
+T76	moment 2345 2372	quelques jours après la fin
+T77	moment 2306 2339	pendant la cure de chimiothérapie
+T78	substance 2449 2459	fluindione
+T79	dose 2433 2442	posologie
+A11	changement T79 diminution
+T80	valeur 2471 2486	5 mg en moyenne
+T81	moment 2487 2519	après chaque cycle de traitement
+T82	examen 2539 2542	RNI
+T83	valeur 2553 2565	de 1,4 à 5,3
+T84	sosy 2539 2565	RNI variaient de 1,4 à 5,3
+T85	examen 2620 2641	résultats biologiques
+T86	duree 2650 2667	période de 1,5 an
+T75	moment 655 665	À l’entrée
+T87	examen 1254 1263	entretien
+T88	sosy 1939 1965	interaction médicamenteuse
+T89	substance 2325 2339	chimiothérapie
+T90	cardiovasculaires 131 155	fibrillation auriculaire
+T91	tumeur 618 634	myélome multiple
+T92	tumeur 691 722	douleurs osseuses métastatiques
+T93	osteomusculaires 691 722	douleurs osseuses métastatiques
+T94	etatsosy 691 722	douleurs osseuses métastatiques
+T95	chimiques 1939 1965	interaction médicamenteuse
+T96	etatsosy 131 155	fibrillation auriculaire
+T97	cardiovasculaires 618 634	myélome multiple
+T98	immunitaire 618 634	myélome multiple
+T99	hemopathies 618 634	myélome multiple
+T100	genre 3 10	patient
+A12	genre T100 masculin
+T101	age 14 20	47 ans
+T102	origine 70 232	prévention des accidents cérébrovasculaires secondaires à la fibrillation auriculaire avec pour objectif un ratio normalisé international (RNI) situé entre 2 et 3
+T103	issue 2414 2565	Les diminutions de posologie de la fluindione étaient de 5 mg en moyenne après chaque cycle de traitement, et les valeurs de RNI variaient de 1,4 à 5,3
+A13	issue T103 amélioration

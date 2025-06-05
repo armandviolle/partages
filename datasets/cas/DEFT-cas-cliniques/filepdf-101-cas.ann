@@ -1,0 +1,100 @@
+T1	sosy 57 127	lésion verruqueuse de la partie latéro-postérieure supérieure du pénis
+T2	anatomie 82 127	partie latéro-postérieure supérieure du pénis
+T3	duree 137 158	depuis plusieurs mois
+T4	traitement 191 217	posthectomie pour phimosis
+T5	pathologie 209 217	phimosis
+A1	etat T5 passé
+T6	moment 239 260	quatre ans auparavant
+T7	sosy 265 300	lésions condylomateuses du fourreau
+T8	anatomie 292 300	fourreau
+T9	traitement 314 326	cryothérapie
+T10	substance 330 342	podophylline
+T11	substance 365 383	traitement associé
+T12	sosy 414 440	lésion ano-génitale connue
+A3	assertion T12 non-associé
+T13	examen 446 461	examen clinique
+T14	sosy 483 600	lésion tumorale volumineuse, indolore, exophytique, bourgeonnante, irrégulière du pénis latéro-postérieure supérieure
+T15	anatomie 565 600	pénis latéro-postérieure supérieure
+T16	sosy 650 695	aires lymphonodales inguinales étaient libres
+T18	anatomie 650 680	aires lymphonodales inguinales
+T19	sosy 615 642	état général était conservé
+T20	examen 699 719	analyse histologique
+T21	examen 725 746	prélèvement biopsique
+T22	sosy 761 782	lésion condylomateuse
+T23	examen 787 815	taille clinique de la tumeur
+T24	pathologie 809 815	tumeur
+T25	pathologie 835 862	tumeur de BuschkeLöwenstein
+T26	examen 869 898	examens biologiques standards
+T27	valeur 905 912	normaux
+T28	sosy 869 912	examens biologiques standards était normaux
+T29	sosy 953 964	lymphopénie
+A4	assertion T29 absent
+T30	examen 969 1031	sérologie des virus de l’immunodéficience humaine (VIH 1 et 2)
+T32	sosy 969 1046	sérologie des virus de l’immunodéficience humaine (VIH 1 et 2) était négative
+T33	examen 1051 1075	sérologie de la syphilis
+T35	sosy 1051 1090	sérologie de la syphilis était négative
+T36	examen 1096 1119	radiographie thoracique
+T37	anatomie 1109 1119	thoracique
+T38	valeur 1126 1133	normale
+T39	sosy 1096 1133	radiographie thoracique était normale
+T40	examen 1139 1195	échographie abdomino-pelvienne et des régions inguinales
+T41	anatomie 1151 1169	abdomino-pelvienne
+T42	anatomie 1177 1195	régions inguinales
+T43	pathologie 1225 1237	adénopathies
+A5	assertion T43 absent
+T44	examen 1242 1302	examen histologique de la pièce opératoire (6cm x 4cm x 1cm)
+T45	valeur 1286 1301	6cm x 4cm x 1cm
+T46	examen 1316 1360	microscopie optique après coloration par HES
+T47	sosy 1365 1459	prolifération épithéliale papillomateuse, végétante, hyperkératosique ortho et parakératosique
+T48	anatomie 1379 1390	épithéliale
+T49	anatomie 1464 1477	corps muqueux
+T50	valeur 1493 1520	30 à 40 couches de cellules
+T51	sosy 1464 1521	corps muqueux était épaissi (30 à 40 couches de cellules)
+T52	sosy 1580 1590	koïlocytes
+T53	anatomie 1531 1562	partie moyenne et superficielle
+T54	sosy 1611 1689	proliférations épithéliales s’invaginaient largement dans le derme sous-jacent
+T55	anatomie 1626 1638	épithéliales
+T56	anatomie 1672 1689	derme sous-jacent
+T57	sosy 1705 1753	foyer de micro-invasion dans le derme papillaire
+T58	anatomie 1737 1753	derme papillaire
+T59	sosy 1795 1918	massif épithélial bien différencié à limites irrégulières, sans membrane basale, cerné par un infiltrat inflammatoire dense
+T60	anatomie 1802 1812	épithélial
+T61	sosy 1946 1959	prolifération
+T62	examen 1963 2002	hybridation moléculaire (Southern blot)
+T63	sosy 2026 2053	présence de l’ADN du PVH 11
+T64	examen 2057 2077	étude morphométrique
+T65	pathologie 2091 2100	diploïdie
+T66	examen 2105 2142	marquage par anticorps anti-p53 mutée
+T68	anatomie 2182 2209	cellules de l’assise basale
+T69	sosy 2105 2209	marquage par anticorps anti-p53 mutée était faiblement positif au niveau des cellules de l’assise basale
+T70	traitement 2249 2288	exérèse chirurgicale large de la lésion
+T71	sosy 2282 2288	lésion
+T72	sosy 2294 2302	récidive
+T73	moment 2303 2311	à 3 mois
+T74	traitement 2333 2352	évidement laser CO2
+T75	anatomie 1512 1520	cellules
+T17	moment 172 186	dans l’enfance
+T31	valeur 1038 1046	négative
+T34	valeur 1082 1090	négative
+T67	anatomie 421 433	ano-génitale
+T76	substance 1357 1360	HES
+T77	valeur 2160 2167	positif
+T78	substance 2349 2352	CO2
+T79	pathologie 983 1031	virus de l’immunodéficience humaine (VIH 1 et 2)
+T80	pathologie 1067 1075	syphilis
+T81	peau 57 75	lésion verruqueuse
+T82	homme 209 217	phimosis
+T83	virales 265 300	lésions condylomateuses du fourreau
+T84	peau 265 300	lésions condylomateuses du fourreau
+T85	tumeur 483 600	lésion tumorale volumineuse, indolore, exophytique, bourgeonnante, irrégulière du pénis latéro-postérieure supérieure
+T86	homme 483 600	lésion tumorale volumineuse, indolore, exophytique, bourgeonnante, irrégulière du pénis latéro-postérieure supérieure
+T87	peau 835 862	tumeur de BuschkeLöwenstein
+T88	virales 761 782	lésion condylomateuse
+T89	peau 761 782	lésion condylomateuse
+T90	virales 2040 2053	ADN du PVH 11
+T91	genre 3 8	homme
+T92	age 16 22	34 ans
+A2	genre T91 masculin
+T94	origine 57 158	lésion verruqueuse de la partie latéro-postérieure supérieure du pénis évoluant depuis plusieurs mois
+T93	issue 2290 2352	Une récidive à 3 mois a été traitée par un évidement laser CO2
+A6	issue T93 amélioration

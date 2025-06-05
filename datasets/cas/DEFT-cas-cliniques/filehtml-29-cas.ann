@@ -1,0 +1,376 @@
+T10021	dose 1014 1029	37,5 mg/m2/dose
+T10034	duree 1030 1048	pendant deux jours
+T10020	substance 1071 1081	ifosfamide
+T10035	dose 1094 1105	3 g/m2/dose
+T10036	duree 1106 1125	pendant trois jours
+T10037	moment 1127 1148	les semaines 20 et 36
+T100141	substance 1605 1617	méthotrexate
+T100137	substance 1698 1706	nystatin
+T100139	substance 1816 1824	nystatin
+T100140	substance 1858 1897	diproprionate de bétaméthasone à 0,05 %
+T100143	mode 1902 1921	application topique
+T100144	frequence 1922 1940	deux fois par jour
+T100145	duree 1941 1958	pendant dix jours
+T10038	substance 2029 2041	méthotrexate
+T10039	moment 2056 2062	jour 0
+T10040	substance 2222 2234	méthotrexate
+T10041	substance 2561 2573	méthotrexate
+T10042	substance 2705 2717	méthotrexate
+T10043	substance 2798 2810	méthotrexate
+T10044	substance 2907 2919	méthotrexate
+T10046	substance 3599 3611	méthotrexate
+T10047	dose 3661 3665	20 g
+T10048	mode 3731 3740	perfusion
+T1007	substance 381 393	doxorubicine
+T1008	dose 394 409	37,5 mg/m2/dose
+T10049	substance 4185 4200	diphenhydramine
+T10050	dose 4209 4214	50 mg
+T10051	mode 4215 4217	IV
+T10052	substance 4227 4245	méthylprednisolone
+T10053	dose 4254 4260	125 mg
+T10054	mode 4261 4263	IV
+T1009	substance 433 442	cisplatin
+T10055	substance 4397 4409	méthotrexate
+T10010	dose 455 468	60 mg/m2/dose
+T10011	duree 469 487	pendant deux jours
+T10057	substance 4836 4848	méthotrexate
+T10027	moment 489 508	les semaines 1 et 6
+T10062	dose 5177 5182	70 mg
+T10012	substance 521 533	méthotrexate
+T10013	dose 546 558	12 g/m2/dose
+T10028	moment 560 586	les semaines 4, 5, 9 et 10
+T10072	mode 5878 5887	perfusion
+T10069	substance 5891 5903	méthotrexate
+T10070	dose 5904 5908	20 g
+T10073	mode 5934 5936	IV
+T10014	substance 609 621	doxorubicine
+T10074	substance 6105 6119	Hydrocortisone
+T10076	dose 6120 6126	300 mg
+T10075	substance 6157 6168	Hydroxyzine
+T10077	dose 6169 6174	25 mg
+T10079	mode 6179 6189	voie orale
+T10026	dose 634 649	37,5 mg/m2/dose
+T10083	substance 6653 6665	MÉTHOTREXATE
+T10084	moment 6667 6673	JOUR 7
+T10085	mode 6694 6703	perfusion
+T10086	substance 6707 6719	méthotrexate
+T10087	dose 6722 6726	20 g
+T10015	substance 673 682	cisplatin
+T10088	mode 6737 6739	IV
+T100142	mode 6743 6752	perfusion
+T10092	mode 6812 6821	perfusion
+T10089	substance 6825 6837	méthotrexate
+T10091	substance 6842 6857	Diphenhydramine
+T10095	dose 6858 6862	5 mg
+T10098	mode 6863 6865	IV
+T10093	substance 6868 6881	Dexaméthasone
+T10096	dose 6882 6887	18 mg
+T10099	mode 6888 6890	IV
+T10094	substance 6893 6903	Ranitidine
+T10097	dose 6904 6909	50 mg
+T100100	mode 6910 6912	IV
+T100103	substance 6940 6955	Diphenhydramine
+T10023	dose 695 708	60 mg/m2/dose
+T100106	dose 6956 6961	50 mg
+T100101	mode 6962 6964	IV
+T100104	substance 6967 6981	Hydrocortisone
+T100107	dose 6982 6988	250 mg
+T100102	mode 6989 6991	IV
+T100105	substance 6994 7005	Épinéphrine
+T100108	dose 7006 7012	0,5 ml
+T100135	mode 7013 7015	SC
+T100109	substance 7083 7095	méthotrexate
+T10024	duree 709 727	pendant deux jours
+T100110	dose 7110 7115	6,7 g
+T100111	substance 7157 7169	méthotrexate
+T10029	moment 729 750	les semaines 12 et 28
+T100112	substance 7354 7366	MÉTHOTREXATE
+T100113	moment 7368 7375	JOUR 36
+T100114	substance 7495 7510	Diphenhydramine
+T100120	dose 7511 7516	50 mg
+T100128	mode 7517 7519	IV
+T100115	substance 7521 7531	Ranitidine
+T100121	dose 7532 7537	50 mg
+T100129	mode 7538 7540	IV
+T100116	substance 7542 7553	Épinéphrine
+T10016	substance 755 767	méthotrexate
+T100122	dose 7554 7560	0,3 mg
+T100136	mode 7561 7563	IM
+T100117	substance 7565 7583	Méthylprednisolone
+T100123	dose 7584 7590	125 mg
+T100130	mode 7591 7593	IV
+T100118	substance 7595 7605	Salbutamol
+T100124	dose 7606 7614	1000 mcg
+T100119	substance 7630 7641	Épinéphrine
+T100125	dose 7642 7646	5 mg
+T10025	dose 780 792	12 g/m2/dose
+T100131	substance 7925 7940	Diphenhydramine
+T10030	moment 794 837	les semaines 15, 19, 23, 27, 31, 35, 39, 40
+T100132	dose 7941 7946	50 mg
+T100133	mode 7947 7949	IV
+T100134	substance 8155 8167	méthotrexate
+T10017	substance 841 851	ifosfamide
+T10022	dose 864 877	2,8 g/m2/dose
+T10018	substance 900 909	étoposide
+T10031	dose 922 936	100 mg/m2/dose
+T10032	duree 937 955	pendant cinq jours
+T10033	moment 957 982	les semaines 16, 24 et 32
+T10019	substance 989 1001	doxorubicine
+T10059	anatomie 185 203	fémur distal droit
+T100149	anatomie 220 231	pulmonaires
+T100151	duree 345 379	pendant les dix premières semaines
+T100152	sosy 1346 1393	dermatite de contact au membre supérieur gauche
+T100153	sosy 1481 1485	rash
+T100154	moment 1502 1514	le lendemain
+T100155	moment 1734 1747	Au jour trois
+T100156	sosy 1781 1785	rash
+T100157	sosy 1794 1802	érythème
+T100159	sosy 2078 2097	réaction allergique
+T100160	sosy 2172 2191	réaction allergique
+T100161	sosy 2363 2370	papules
+T100162	sosy 2379 2387	érythème
+T100163	sosy 2498 2502	rash
+T100164	moment 2628 2634	jour 7
+T100165	sosy 2761 2780	réaction allergique
+T100166	mode 2785 2794	perfusion
+T100170	moment 3820 3828	jour  36
+T100171	sosy 4014 4035	réaction urticarienne
+T100172	moment 4298 4308	Au jour 42
+T100176	anatomie 4977 4983	visage
+T100177	anatomie 4991 4995	bras
+T100178	duree 5953 5961	4 heures
+T100184	mode 5940 5949	perfusion
+T100189	anatomie 7894 7905	bras gauche
+T100190	sosy 8027 8058	lésions urticariennes au visage
+T100191	anatomie 8052 8058	visage
+T100192	sosy 8085 8114	rash au thorax et aux hanches
+T100193	anatomie 8093 8099	thorax
+T100194	anatomie 8107 8114	hanches
+T100196	anatomie 1450 1463	intraveineuse
+T100199	examen 6512 6522	Créatinine
+T100200	examen 7231 7241	Créatinine
+T100201	examen 8255 8265	Créatinine
+T100205	valeur 8310 8319	61 µmol/L
+T100208	valeur 8328 8337	93 µmol/L
+T100211	valeur 8345 8354	76 µmol/L
+T100212	valeur 6046 6053	normaux
+T100203	valeur 6568 6577	60 µmol/L
+T100206	valeur 6587 6596	91 µmol/L
+T100209	valeur 6606 6615	69 µmol/L
+T100215	valeur 6625 6634	64 µmol/L
+T100216	moment 6559 6565	Jour 0
+T100217	moment 6578 6584	Jour 1
+T100218	moment 6597 6603	Jour 2
+T100219	moment 6616 6622	Jour 3
+T100222	moment 6491 6496	T72 h
+T100223	valeur 6459 6470	3,23 µmol/L
+T100224	valeur 6479 6490	0,20 µmol/L
+T100225	valeur 6499 6510	0,05 µmol/L
+T100226	moment 6676 6680	12 H
+T100227	duree 6756 6764	4 heures
+T100228	moment 6780 6805	30 minutes avant le début
+T100229	moment 7017 7024	13 H 20
+T100230	mode 7070 7079	perfusion
+T100204	moment 7172 7177	T24 h
+T100207	moment 7201 7206	T48 h
+T100210	moment 7179 7185	jour 8
+T100231	moment 7208 7214	jour 9
+T100232	valeur 7189 7200	0,51 µmol/L
+T100233	valeur 7218 7229	0,02 µmol/L
+T100234	valeur 7287 7296	65 µmol/L
+T100235	valeur 7306 7315	92 µmol/L
+T100236	valeur 7325 7334	68 µmol/L
+T100237	moment 7278 7284	Jour 7
+T100238	moment 7297 7303	Jour 8
+T100239	moment 7316 7322	Jour 9
+T100240	moment 7407 7410	9H5
+T100241	moment 7664 7671	11 H 35
+T100242	moment 7732 7738	13 H 5
+T100243	moment 7799 7806	14 H 50
+T100244	sosy 7913 7923	angioedème
+T100246	moment 7965 7971	17 H 5
+T100247	moment 8004 8011	17 H 30
+T100248	moment 8060 8067	19 H 50
+T100249	moment 8170 8175	T24 h
+T100250	moment 8198 8203	T48 h
+T100251	moment 8226 8231	T72 h
+T100252	moment 8177 8182	jr 37
+T100253	moment 8205 8210	jr 38
+T100254	moment 8233 8238	jr 39
+T100255	valeur 8186 8197	7,53 µmol/L
+T100256	valeur 8214 8225	0,15 µmol/L
+T100257	valeur 8242 8253	0,06 µmol/L
+T100258	valeur 8362 8371	73 µmol/L
+T100259	moment 8302 8307	Jr 36
+T100260	moment 8320 8325	Jr 37
+T100261	moment 8338 8343	Jr 38
+T100262	moment 8355 8360	Jr 39
+T100265	moment 6260 6264	16 H
+T100270	moment 5963 5970	13 H 10
+T100202	sosy 5002 5012	angioedème
+T100275	mode 1689 1694	crème
+T100276	mode 1807 1812	crème
+T100277	mode 1849 1854	crème
+T20018	sosy 1207 1240	allergie connue à des médicaments
+T20019	substance 1229 1240	médicaments
+T20020	sosy 120 140	antécédents médicaux
+T20022	sosy 1252 1277	autres problèmes de santé
+T20024	anatomie 1370 1393	membre supérieur gauche
+T20066	pathologie 1963 1972	dermatite
+T20072	sosy 2410 2418	réaction
+T20090	moment 2581 2600	la semaine suivante
+T20094	substance 3914 3928	sacs no 1 et 2
+T20095	substance 4000 4008	sac no 3
+T200103	substance 4288 4296	sac no 3
+T200115	substance 4694 4714	sacs de méthotrexate
+T200116	sosy 4757 4765	réaction
+T200121	anatomie 4933 4949	maculo-papulaire
+T200125	substance 5028 5043	diphenhydramine
+T200129	substance 5322 5337	diphenhydramine
+T200130	substance 5344 5362	méthylprednisolone
+T200132	substance 5403 5414	premier sac
+T200135	substance 5485 5493	sac no 3
+T200137	sosy 5558 5566	réaction
+T200141	substance 5834 5846	MÉTHOTREXATE
+T200142	moment 5848 5854	JOUR 0
+T200147	anatomie 5989 6012	papulaire pancorporelle
+T200150	sosy 6061 6103	signe ou symptôme de détresse respiratoire
+T200155	sosy 6266 6300	Amélioration notable de l’éruption
+T200156	sosy 6302 6316	prurit soulagé
+T200157	mode 6328 6337	perfusion
+T200158	substance 6341 6353	méthotrexate
+T200159	sosy 6387 6395	éruption
+T200160	substance 6436 6448	méthotrexate
+T200180	anatomie 7031 7046	maculopapulaire
+T200191	substance 7441 7449	sac no 1
+T200201	substance 7702 7710	sac no 2
+T200204	substance 7769 7777	sac no 3
+T200207	sosy 7853 7905	rougeur au pourtour du port-a-cath et au bras gauche
+T200212	mode 7983 7992	perfusion
+T200213	substance 7996 8002	3e sac
+T200224	anatomie 5981 5988	cutanée
+T200226	mode 6127 6129	IV
+T200245	pathologie 169 203	ostéosarcome du fémur distal droit
+T200247	sosy 209 231	métastases pulmonaires
+T200249	dose 2044 2054	haute dose
+T200250	dose 2213 2218	doses
+T200251	dose 2613 2626	deuxième dose
+T200252	duree 2887 2903	dix autres doses
+T200253	dose 3697 3710	dose maximale
+T200254	substance 5063 5076	première dose
+T200256	frequence 6190 6219	toutes les 6 heures au besoin
+T200258	mode 7615 7628	en inhalation
+T200259	mode 7647 7662	en nébulisation
+T200275	moment 2294 2303	lendemain
+T200276	dose 2553 2557	dose
+T200277	dose 1588 1601	première dose
+T200278	dose 3584 3595	dose totale
+T200279	dose 3652 3659	12 g/m2
+T200281	dose 3804 3818	troisième dose
+T200282	sosy 3954 3966	complication
+T200287	dose 4379 4393	quatrième dose
+T200289	dose 4437 4441	dose
+T200290	dose 4455 4484	toutes les doses subséquentes
+T200291	dose 4818 4832	cinquième dose
+T200292	sosy 4928 4995	rash maculo-papulaire s’est à nouveau déclaré au visage et aux bras
+T200120	dose 5014 5024	Deux doses
+T200293	mode 5044 5057	intraveineuse
+T200294	dose 5080 5085	20 mg
+T200295	dose 5113 5118	50 mg
+T200296	moment 5120 5142	trois heures plus tard
+T200297	dose 5184 5198	1,1 mg/kg/dose
+T200300	dose 5817 5830	PREMIÈRE DOSE
+T200301	moment 5857 5864	11 H 50
+T200302	dose 5910 5932	12 g/m2, dose maximale
+T200146	sosy 5972 6012	Éruption cutanée papulaire pancorporelle
+T200148	sosy 6014 6030	prurit important
+T200308	moment 6221 6228	14 H 10
+T200314	moment 6355 6359	20 H
+T200315	moment 6451 6456	T24 h
+T200316	moment 6471 6476	T48 h
+T200331	dose 6636 6649	DEUXIÈME DOSE
+T200332	dose 6728 6734	12 g/m
+T200179	sosy 7026 7056	Rash maculopapulaire important
+T200355	dose 7336 7350	TROISIÈME DOSE
+T200206	sosy 7824 7836	prurit léger
+A1	assertion T20020 absent
+A2	assertion T20018 absent
+A3	assertion T200116 absent
+A4	assertion T200137 absent
+A5	assertion T200150 absent
+A6	assertion T100244 absent
+T1	sosy 6230 6258	Patient dort confortablement
+A7	assertion T100202 absent
+A9	assertion T20066 absent
+A8	prise T100139 arrêt
+A10	assertion T100161 absent
+A11	assertion T100162 absent
+A12	assertion T100163 absent
+A13	assertion T200282 absent
+A14	assertion T200159 absent
+A15	prise T100109 arrêt
+T2	moment 1287 1311	durant l’hospitalisation
+T3	traitement 1520 1552	installation de sa voie centrale
+T4	moment 1991 2025	Lors de la première administration
+T5	substance 2658 2671	prémédication
+A16	prise T10043 arrêt
+T6	moment 2844 2858	À ce moment-là
+T7	substance 3261 3294	désensibilisation au méthotrexate
+T8	duree 3722 3750	durée de perfusion prolongée
+T9	substance 3765 3782	désensibilisation
+T10	substance 3871 3884	prémédication
+T11	moment 3968 4008	Au cours de l’administration du sac no 3
+T12	substance 4111 4124	prémédication
+T13	substance 4133 4164	traitement de désensibilisation
+T14	substance 4314 4340	deuxième désensibilisation
+T15	moment 4552 4583	Lors de cette désensibilisation
+T17	substance 4588 4601	prémédication
+T18	substance 4789 4816	troisième désensibilisation
+T19	substance 4879 4907	désensibilisation précédente
+T20	substance 5096 5109	deuxième dose
+T21	substance 5305 5318	prémédication
+T22	substance 5436 5458	deuxième prémédication
+T23	substance 5498 5515	désensibilisation
+T24	substance 5644 5678	désensibilisations au méthotrexate
+T25	substance 5755 5769	chimiothérapie
+T26	examen 6032 6045	Signes vitaux
+T28	substance 6766 6779	Prémédication
+T29	substance 7379 7405	PREMIÈRE DÉSENSIBILISATION
+T30	valeur 53 58	64 kg
+T31	valeur 71 81	1,72 mètre
+T32	valeur 105 112	1,75 m2
+T34	mode 1436 1463	voie centrale intraveineuse
+T35	mode 1539 1552	voie centrale
+T33	moment 1151 1173	Au début du traitement
+T16	anatomie 6091 6103	respiratoire
+T27	tumeur 169 203	ostéosarcome du fémur distal droit
+T36	osteomusculaires 169 203	ostéosarcome du fémur distal droit
+T37	tumeur 209 231	métastases pulmonaires
+T38	respiratoire 209 231	métastases pulmonaires
+T39	peau 1346 1393	dermatite de contact au membre supérieur gauche
+T40	peau 1481 1485	rash
+T41	peau 1781 1785	rash
+T42	peau 1794 1802	érythème
+T43	etatsosy 1794 1802	érythème
+T44	peau 2172 2234	réaction allergique pour les différentes doses de méthotrexate
+T45	chimiques 2172 2234	réaction allergique pour les différentes doses de méthotrexate
+T46	chimiques 1346 1393	dermatite de contact au membre supérieur gauche
+T47	etatsosy 2172 2234	réaction allergique pour les différentes doses de méthotrexate
+T48	peau 4014 4035	réaction urticarienne
+T49	immunitaire 4014 4035	réaction urticarienne
+T50	peau 4928 4932	rash
+T51	peau 5972 6012	Éruption cutanée papulaire pancorporelle
+T52	peau 6014 6030	prurit important
+T53	etatsosy 6014 6030	prurit important
+T54	peau 7026 7056	Rash maculopapulaire important
+T55	peau 7824 7836	prurit léger
+T56	etatsosy 7824 7836	prurit léger
+T57	peau 8027 8058	lésions urticariennes au visage
+T58	etatsosy 8027 8058	lésions urticariennes au visage
+T59	peau 8085 8089	rash
+T60	genre 28 34	garçon
+A17	genre T60 masculin
+T61	age 38 44	14 ans
+T62	origine 169 231	ostéosarcome du fémur distal droit avec métastases pulmonaires
+T63	issue 5495 5775	La désensibilisation subséquente a été bien tolérée, et aucune réaction n’a été observée chez le patient. Il en a été de même pour toutes les autres désensibilisations au méthotrexate subies par ce patient, qui a donc été en mesure de terminer le protocole de chimiothérapie prévu
+A18	issue T63 amélioration

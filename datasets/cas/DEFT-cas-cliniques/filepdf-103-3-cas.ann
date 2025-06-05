@@ -1,0 +1,6 @@
+T1	age 13 19	21 ans
+T2	genre 4 9	homme
+A1	genre T2 masculin
+T3	origine 58 88	une colique néphrétique droite
+T4	issue 1305 1359	Les images ne se sont pas modifiées à 20 mois de recul
+A2	issue T4 stable

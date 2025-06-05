@@ -1,0 +1,6 @@
+T1	age 19 29	nouveau-né
+T2	issue 2578 2616	réfractaire aux mesures de réanimation
+T3	genre 38 45	féminin
+A1	genre T3 féminin
+A2	issue T2 décès
+T4	origine 282 335	une détresse respiratoire avec cyanose des extrémités

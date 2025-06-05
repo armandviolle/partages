@@ -1,0 +1,6 @@
+T1	age 13 18	5 ans
+T2	genre 4 9	fille
+A1	genre T2 féminin
+T3	origine 52 122	une intoxication par ingestion de feuilles et graines de D. stramonium
+T4	issue 1071 1135	La patiente a été déclarée sortante après 24 h d’hospitalisation
+A2	issue T4 guérison

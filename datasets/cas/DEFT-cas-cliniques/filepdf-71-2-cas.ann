@@ -1,0 +1,83 @@
+T26	traitement 1004 1029	massage cardiaque externe
+T18	anatomie 1012 1021	cardiaque
+T10	substance 1033 1043	adrénaline
+T30	anatomie 104 117	surrénalienne
+T6	dose 1045 1049	5 mg
+T27	anatomie 1209 1223	multiviscérale
+T1	tumeur 1228 1244	phéochromocytome
+T11	anatomie 1273 1292	anatomopathologique
+T41	age 13 19	37 ans
+T32	examen 171 199	tomodensitométrie abdominale
+T9	anatomie 189 199	abdominale
+T15	sosy 259 262	HTA
+T16	pathologie 26 64	antécédents pathologiques particuliers
+T19	substance 278 292	catécholamines
+T23	examen 338 360	examen préanesthésique
+T29	valeur 367 385	sans particularité
+T13	examen 387 389	TA
+T7	valeur 392 403	120/80 mmHg
+T25	examen 410 429	fréquence cardiaque
+T14	valeur 432 441	80 par mn
+T12	substance 456 468	anesthésique
+T46	substance 492 502	thiopental
+T5	dose 504 511	5 mg/Kg
+T24	substance 517 525	fentanyl
+T8	dose 527 534	5 µg/Kg
+T3	tumeur 755 761	tumeur
+T34	anatomie 780 794	ventriculaires
+T4	dose 916 923	1 mg/Kg
+T2	tumeur 97 117	tumeur surrénalienne
+T28	traitement 991 1002	réanimation
+A1	norme T7 normal
+T20	genre 4 9	femme
+A2	genre T20 féminin
+A3	assertion T16 absent
+T22	pathologie 119 143	corticosurrénalome malin
+A4	assertion T22 possible
+T31	traitement 89 93	cure
+T33	endocriniennes 97 117	tumeur surrénalienne
+A5	assertion T15 absent
+T21	examen 267 314	dosage des catécholamines et de leur métabolite
+A6	assertion T21 absent
+T17	traitement 446 468	induction anesthésique
+T35	substance 542 553	pancuronium
+T36	substance 604 612	halotane
+T37	substance 626 629	N2O
+T38	dose 614 618	0,6%
+T39	traitement 679 689	intubation
+T40	traitement 697 718	incision chirurgicale
+T42	cardiovasculaires 766 800	extrasystoles ventriculaires (ESV)
+T43	substance 872 881	halothane
+T44	substance 905 914	lidocaïne
+A7	prise T43 arrêt
+T45	cardiovasculaires 958 967	asystolie
+T47	traitement 824 857	approfondissement de l'anesthésie
+T48	sosy 651 674	variation hémodynamique
+A8	assertion T48 absent
+T49	traitement 574 584	anesthésie
+T50	etatsosy 929 938	collapsus
+T51	sosy 929 938	collapsus
+T52	moment 977 1002	après 5 mn de réanimation
+T53	sosy 1054 1079	instabilité hémodynamique
+T54	issue 1116 1121	décès
+A9	issue T54 décès
+T55	moment 1134 1153	36 heures plus tard
+T56	cardiovasculaires 1173 1191	choc cardiogénique
+T57	etatsosy 1173 1191	choc cardiogénique
+T58	sosy 1173 1191	choc cardiogénique
+T59	etatsosy 766 800	extrasystoles ventriculaires (ESV)
+T60	sosy 766 800	extrasystoles ventriculaires (ESV)
+T61	sosy 958 967	asystolie
+T62	etatsosy 1197 1223	défaillance multiviscérale
+T63	sosy 1197 1223	défaillance multiviscérale
+T64	examen 1266 1292	examen anatomopathologique
+A10	norme T14 normal
+T65	sosy 387 403	TA à 120/80 mmHg
+T66	sosy 410 441	fréquence cardiaque a 80 par mn
+T67	traitement 736 761	manipulation de la tumeur
+T68	moment 1091 1111	après l'intervention
+T69	traitement 1099 1111	intervention
+T70	anatomie 1299 1315	pièce opératoire
+T71	sosy 97 117	tumeur surrénalienne
+T72	sosy 755 761	tumeur
+T73	pathologie 1228 1244	phéochromocytome

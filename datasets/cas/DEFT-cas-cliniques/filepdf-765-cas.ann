@@ -1,0 +1,295 @@
+T59	frequence 1006 1023	une fois par jour
+T116	substance 1341 1351	interféron
+T117	substance 1474 1484	interféron
+T55	date 1600 1612	février 2004
+T24	substance 1675 1685	interféron
+T124	anatomie 1895 1905	pulmonaire
+T61	dose 1931 1953	deux millions d’unités
+T62	frequence 1954 1972	trois fois semaine
+T63	substance 2061 2069	nabilone
+T64	dose 2078 2082	1 mg
+T65	frequence 2083 2100	une fois par jour
+T27	substance 2243 2253	interféron
+T66	dose 2308 2327	5 millions d’unités
+T67	frequence 2328 2350	trois fois par semaine
+T68	date 2354 2364	avril 2004
+T69	substance 2398 2406	nabilone
+T70	date 2412 2421	juin 2004
+T28	substance 2503 2513	budésonide
+T29	dose 2526 2532	200 μg
+T30	frequence 2533 2551	deux fois par jour
+T31	substance 2558 2568	formotérol
+T32	dose 2576 2581	12 μg
+T33	frequence 2582 2600	deux fois par jour
+T34	mode 2604 2614	inhalation
+T35	substance 2649 2659	interféron
+T71	date 2714 2726	juillet 2004
+T36	substance 2772 2781	cidofovir
+T37	mode 2786 2804	voie intraveineuse
+T38	dose 2817 2824	5 mg/kg
+T39	frequence 2825 2839	chaque semaine
+T40	substance 2923 2934	probénécide
+T43	dose 2936 2939	2 g
+T41	substance 2972 2981	cidofovir
+T44	dose 2985 2988	1 g
+T42	substance 3035 3044	cidofovir
+T45	substance 3097 3106	cidofovir
+T72	date 3111 3124	novembre 2004
+T114	substance 3342 3353	fluticasone
+T73	date 3488 3501	décembre 2004
+T77	substance 3539 3549	interféron
+T78	dose 3560 3583	trois millions d’unités
+T79	frequence 3584 3606	trois fois par semaine
+T80	substance 3661 3671	interféron
+T81	date 3693 3705	janvier 2005
+T75	date 3796 3808	février 2005
+T76	substance 3855 3865	citalopram
+T82	dose 3873 3878	10 mg
+T83	frequence 3879 3896	une fois par jour
+T118	examen 3902 3909	biopsie
+T110	date 3923 3933	avril 2005
+T113	substance 4087 4096	cidofovir
+T74	date 4167 4177	avril 2005
+T52	date 4353 4365	juillet 2006
+T84	substance 4499 4507	insuline
+T85	mode 4508 4520	sous-cutanée
+T53	date 4602 4610	mai 2008
+T86	date 4660 4670	avril 2009
+T51	date 4832 4844	octobre 2009
+T4	substance 5121 5133	cloxacilline
+T5	dose 5136 5142	500 mg
+T6	mode 5147 5157	voie orale
+T7	frequence 5158 5178	quatre fois par jour
+T87	duree 5179 5196	pendant dix jours
+T125	anatomie 5333 5343	pulmonaire
+T50	date 5519 5532	novembre 2009
+T8	substance 5558 5567	cidofovir
+T94	dose 5659 5663	5 ml
+T95	frequence 5664 5675	par semaine
+T96	duree 5676 5699	pendant quatre semaines
+T97	frequence 5705 5729	toutes les deux semaines
+T49	date 5812 5828	mi-décembre 2009
+T9	substance 5929 5942	moxifloxacine
+T10	dose 5945 5951	400 mg
+T11	mode 5956 5966	voie orale
+T12	substance 5975 5987	cloxacilline
+T13	dose 5990 5996	500 mg
+T14	mode 6001 6011	voie orale
+T15	frequence 6012 6032	quatre fois par jour
+T88	duree 6033 6053	pendant quatre jours
+T54	date 629 642	novembre 2002
+T47	date 6433 6445	janvier 2010
+T17	dose 6672 6678	500 mg
+T18	substance 6682 6695	métronidazole
+T19	mode 6700 6710	voie orale
+T20	frequence 6711 6730	trois fois par jour
+T89	duree 6731 6748	pendant dix jours
+T3	substance 6780 6789	cidofovir
+T21	mode 6793 6805	nébulisation
+T48	date 6809 6821	février 2010
+T2	substance 6964 6973	cidofovir
+T22	mode 6974 6986	intraveineux
+T23	dose 6999 7005	375 mg
+T90	frequence 7016 7040	toutes les deux semaines
+T56	substance 712 728	interféron-alpha
+T60	dose 741 808	cinq millions d’unités par mètre carré (soit dix millions d’unités)
+T57	mode 813 830	voie sous-cutanée
+T58	frequence 831 852	cinq fois par semaine
+A3	prise T24 reprise
+A2	changement T97 diminution
+T98	pathologie 56 79	PRR trachéal et laryngé
+#1	AnnotatorNotes T98	papillomatose respiratoire récurrente
+T99	anatomie 60 68	trachéal
+T100	anatomie 72 79	laryngé
+T102	traitement 421 435	bronchoscopies
+T106	traitement 456 475	anesthésie générale
+T107	frequence 389 415	chaque six à huit semaines
+T108	traitement 496 520	résection des papillomes
+T109	pathologie 510 520	papillomes
+A4	changement T59 augmentation
+T112	traitement 1189 1203	bronchoscopies
+T115	frequence 1225 1249	une tous les quatre mois
+A5	changement T115 diminution
+T119	moment 1025 1054	Après trois mois de ce régime
+T120	moment 1251 1266	Après huit mois
+A6	prise T116 arrêt
+T121	sosy 1369 1388	perte de conscience
+T122	sosy 1394 1424	effets secondaires débilitants
+T123	moment 928 947	Après deux semaines
+T126	sosy 1512 1530	fatigue importante
+T127	sosy 1546 1558	hyperthermie
+T128	sosy 1584 1594	anorexique
+T129	frequence 1801 1831	toutes les six à huit semaines
+T130	sosy 1872 1905	atteinte du parenchyme pulmonaire
+A7	changement T61 diminution
+A8	changement T66 augmentation
+T131	pathologie 2457 2463	asthme
+T132	moment 2616 2659	Trois mois après la reprise de l’interféron
+T133	sosy 2690 2709	lésions pulmonaires
+T134	anatomie 2698 2709	pulmonaires
+T135	frequence 2885 2905	chaque deux semaines
+A9	changement T135 diminution
+T136	sosy 3078 3106	toxicité rénale du cidofovir
+T137	anatomie 3087 3093	rénale
+T138	sosy 3138 3179	amélioration des micronodules pulmonaires
+T139	anatomie 3168 3179	pulmonaires
+T140	anatomie 3228 3234	larynx
+T141	anatomie 3241 3248	trachée
+T143	substance 3330 3340	salmétérol
+T144	substance 3373 3384	montélukast
+T145	dose 3387 3392	10 mg
+T146	frequence 3393 3410	une fois par jour
+T147	sosy 3425 3467	état psychologique du patient se détériore
+A10	changement T78 diminution
+A11	prise T80 arrêt
+T148	sosy 3725 3769	nette amélioration de son état psychologique
+T149	sosy 3777 3791	prise de poids
+A12	assertion T149 présent
+T150	pathologie 3969 4001	papillome humain de sous-type 11
+T151	anatomie 4046 4053	trachée
+T152	sosy 4018 4053	transformation maligne à la trachée
+A13	assertion T152 absent
+T153	duree 4097 4122	pendant près de huit mois
+T154	pathologie 4429 4438	pneumonie
+T155	pathologie 4453 4470	diabète de type 1
+T156	pathologie 4640 4655	lithiase rénale
+T157	anatomie 4649 4655	rénale
+T104	sosy 4718 4743	difficultés respiratoires
+T158	anatomie 4730 4743	respiratoires
+T160	pathologie 4823 4826	PRR
+T161	anatomie 4888 4895	trachée
+T162	pathologie 4929 4939	papillomes
+T163	sosy 4995 5031	douleurs trachéales à la respiration
+T164	anatomie 5004 5014	trachéales
+T166	sosy 5059 5095	infection à streptocoque du groupe B
+T169	sosy 5253 5343	aggravation générale de la maladie aux zones laryngée, trachéale, bronchique et pulmonaire
+T170	anatomie 5298 5306	laryngée
+T171	anatomie 5308 5317	trachéale
+T172	anatomie 5319 5329	bronchique
+T174	sosy 5369 5383	haleine fétide
+T175	sosy 5389 5414	douleurs à la déglutition
+T177	sosy 5419 5442	stridor quasi permanent
+T178	sosy 5448 5484	difficultés respiratoires à l’effort
+T179	anatomie 5460 5473	respiratoires
+T180	sosy 5492 5514	aphonie quasi complète
+T181	mode 5602 5614	nébulisation
+T182	sosy 5781 5804	amélioration de la toux
+T186	sosy 6101 6138	difficultés respiratoires importantes
+T187	anatomie 6113 6126	respiratoires
+T188	substance 6210 6225	antibiothérapie
+T190	sosy 6375 6412	difficultés respiratoires importantes
+T191	anatomie 6387 6400	respiratoires
+T193	sosy 6618 6651	infection à Clostridium difficile
+T196	sosy 7050 7081	récurrence des symptômes de PRR
+T199	pathologie 219 230	lupus grave
+A14	assertion T199 non-associé
+T201	traitement 611 623	cryothérapie
+T205	frequence 4328 4347	tous les trois mois
+T206	traitement 4309 4318	chirurgie
+T207	moment 2990 3044	deux heures et huit heures après la prise de cidofovir
+T208	moment 2941 2981	trois heures avant la prise de cidofovir
+T209	duree 2846 2878	quatre doses sur quatre semaines
+T214	traitement 6855 6864	chirurgie
+T1	pathologie 153 190	allergies aux chats et à la poussière
+T16	sosy 288 308	antécédents médicaux
+A15	assertion T16 absent
+T25	traitement 685 694	chirurgie
+T26	sosy 885 894	symptômes
+T91	moment 1614 1645	après environ huit mois d’arrêt
+T92	traitement 1791 1800	chirurgie
+T93	dose 1911 1927	dose plus faible
+T101	sosy 1998 2017	effets indésirables
+T105	sosy 3187 3248	stabilisation de la maladie affectant le larynx et la trachée
+T142	substance 3253 3277	thérapie antiasthmatique
+T159	moment 4179 4199	Durant cette période
+T165	traitement 4205 4215	chirurgies
+T167	frequence 4221 4234	plus espacées
+T168	moment 4236 4259	Durant l’année suivante
+T173	duree 4522 4555	Pendant les deux années suivantes
+T176	traitement 4573 4597	traitements chirurgicaux
+T184	traitement 4752 4758	intubé
+T185	traitement 4772 4777	opéré
+T189	frequence 4778 4801	deux fois en deux jours
+T192	traitement 4871 4879	installé
+T194	moment 4964 4985	une semaine plus tard
+T198	dose 5591 5598	5 mg/ml
+T200	duree 5736 5758	un total de huit doses
+T183	sosy 5834 5856	aggravation de la toux
+T202	sosy 5864 5896	expectorations contenant du sang
+T203	dose 5917 5925	une dose
+T204	substance 6155 6166	médicaments
+T210	sosy 6257 6318	différentes bactéries étant présentes dans les expectorations
+T211	substance 6461 6469	thérapie
+T212	traitement 6523 6551	tuteur métallique est retiré
+T213	substance 6578 6591	antibiotiques
+T215	moment 6866 6906	Au moment de la rédaction de cet article
+T216	moment 80 96	à l’âge de 7 ans
+A16	etat T1 passé
+T217	sosy 1068 1098	nette amélioration des lésions
+T218	valeur 2187 2194	70,5 kg
+T219	valeur 2214 2220	190 cm
+T220	dose 2235 2240	doses
+T103	dose 3531 3536	doses
+A1	prise T35 reprise
+T46	anatomie 3430 3443	psychologique
+T197	anatomie 3756 3769	psychologique
+T221	anatomie 5892 5896	sang
+T222	sosy 6185 6194	symptômes
+T223	anatomie 6304 6318	expectorations
+T224	dose 6763 6776	dernière dose
+T195	respiratoire 56 79	PRR trachéal et laryngé
+T225	immunitaire 153 190	allergies aux chats et à la poussière
+T226	tumeur 510 520	papillomes
+T227	nerveux 1369 1388	perte de conscience
+T228	nerveux 1394 1424	effets secondaires débilitants
+T229	etatsosy 1512 1519	fatigue
+T230	etatsosy 1584 1594	anorexique
+T231	etatsosy 1546 1558	hyperthermie
+T232	respiratoire 1872 1905	atteinte du parenchyme pulmonaire
+T233	respiratoire 2457 2463	asthme
+T234	immunitaire 2457 2463	asthme
+T235	etatsosy 2690 2709	lésions pulmonaires
+T236	virales 3969 4001	papillome humain de sous-type 11
+T237	respiratoire 4429 4438	pneumonie
+T238	nutritionnelles 4453 4470	diabète de type 1
+T239	endocriniennes 4453 4470	diabète de type 1
+T240	homme 4640 4655	lithiase rénale
+T241	respiratoire 4823 4826	PRR
+T242	virales 4929 4939	papillomes
+T243	infections 5059 5095	infection à streptocoque du groupe B
+T244	etatsosy 5419 5442	stridor quasi permanent
+T245	etatsosy 5369 5383	haleine fétide
+T247	respiratoire 5448 5484	difficultés respiratoires à l’effort
+T248	ORL 5492 5514	aphonie quasi complète
+T250	respiratoire 6101 6138	difficultés respiratoires importantes
+T251	infections 6257 6318	différentes bactéries étant présentes dans les expectorations
+T252	respiratoire 6375 6412	difficultés respiratoires importantes
+T253	infections 6618 6651	infection à Clostridium difficile
+T254	respiratoire 7050 7081	récurrence des symptômes de PRR
+T255	tumeur 56 79	PRR trachéal et laryngé
+T256	etatsosy 1369 1388	perte de conscience
+T257	osteomusculaires 1512 1519	fatigue
+T258	respiratoire 2690 2709	lésions pulmonaires
+T259	tumeur 3969 4001	papillome humain de sous-type 11
+T260	virales 4429 4438	pneumonie
+T261	immunitaire 4453 4470	diabète de type 1
+T262	respiratoire 4718 4743	difficultés respiratoires
+T263	tumeur 4823 4826	PRR
+T264	tumeur 4929 4939	papillomes
+T265	etatsosy 4995 5031	douleurs trachéales à la respiration
+T266	respiratoire 4995 5031	douleurs trachéales à la respiration
+T267	ORL 5389 5414	douleurs à la déglutition
+T268	digestif 5389 5414	douleurs à la déglutition
+T246	respiratoire 5492 5514	aphonie quasi complète
+T269	nerveux 5492 5514	aphonie quasi complète
+T270	etatsosy 5492 5514	aphonie quasi complète
+T271	respiratoire 5800 5804	toux
+T272	etatsosy 5800 5804	toux
+T273	etatsosy 5852 5856	toux
+T274	respiratoire 5852 5856	toux
+T249	tumeur 7078 7081	PRR
+T275	genre 3 10	patient
+A17	genre T275 masculin
+T111	origine 6371 6412	des difficultés respiratoires importantes
+T276	issue 6908 7081	le patient entreprenait un nouveau traitement à base de cidofovir intraveineux à raison de 375 mg (5 mg/kg) toutes les deux semaines pour une récurrence des symptômes de PRR
+A18	issue T276 stable

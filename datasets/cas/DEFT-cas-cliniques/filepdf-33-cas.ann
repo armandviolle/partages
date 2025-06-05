@@ -1,0 +1,6 @@
+T1	genre 0 6	Madame
+T2	age 20 26	66 ans
+A1	genre T1 féminin
+T3	origine 86 136	une tuméfaction vulvaire apparue 1 mois auparavant
+T4	issue 994 1062	Un an après le diagnostic, la patiente est en excellent état général
+A2	issue T4 amélioration

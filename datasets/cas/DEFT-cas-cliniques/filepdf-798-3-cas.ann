@@ -1,0 +1,6 @@
+T1	genre 1043 1052	Le malade
+A1	genre T1 masculin
+T2	age 299 304	7 ans
+T3	origine 319 352	bronchopneumopathies récidivantes
+T4	issue 1043 1101	Le malade est actuellement stable sur le plan respiratoire
+A2	issue T4 stable

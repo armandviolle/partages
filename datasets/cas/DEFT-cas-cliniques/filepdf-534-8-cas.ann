@@ -1,0 +1,7 @@
+T1	genre 4 9	maman
+A1	genre T1 féminin
+T2	genre 28 38	son enfant
+A2	genre T2 masculin
+T3	origine 10 22	veut se tuer
+T4	issue 18 22	tuer
+A3	issue T4 décès

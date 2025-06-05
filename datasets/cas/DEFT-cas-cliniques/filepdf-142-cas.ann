@@ -1,0 +1,151 @@
+T1	sosy 50 118	écoulement persistant au travers d’un orifice cutané lombaire gauche
+T2	anatomie 88 118	orifice cutané lombaire gauche
+T4	traitement 145 167	4 drainages successifs
+T5	date 174 178	1999
+T6	date 182 186	2001
+T7	sosy 193 274	“collection purulente récidivante” de la fosse lombaire étendue à la fesse gauche
+T8	anatomie 234 248	fosse lombaire
+T9	anatomie 262 274	fesse gauche
+T10	sosy 292 308	abcès récidivant
+T11	examen 279 308	bilan de cet abcès récidivant
+T12	examen 310 313	ASP
+T13	examen 315 326	échographie
+T14	sosy 342 368	calcul coralliforme gauche
+T15	examen 387 401	fistulographie
+T16	sosy 442 448	calcul
+T17	sosy 454 464	écoulement
+T18	examen 525 532	scanner
+T19	sosy 549 729	rein gauche globuleux contenant le calcul connu et entouré d’une zone graisseuse dense et hétérogène reliée à la paroi et s’enfonçant vers les masses fessières au niveau de l’abcès
+T20	anatomie 549 560	rein gauche
+T21	anatomie 614 629	zone graisseuse
+T22	anatomie 662 667	paroi
+T23	anatomie 692 708	masses fessières
+T24	pathologie 799 831	méningo-encéphalite tuberculeuse
+A1	etat T24 passé
+T25	date 835 839	1980
+T26	pathologie 854 934	compression médullaire par arachnoïdite (paraplégie flasque, rétention urinaire)
+T27	anatomie 866 876	médullaire
+T28	examen 940 976	laminectomie dorsale étendue (D5-D8)
+T29	sosy 1011 1090	paraparésie avec des troubles de la sensibilité profonde des membres inférieurs
+T30	anatomie 1072 1090	membres inférieurs
+T31	sosy 1098 1163	vessie centrale désinhibée avec dyssynergie vésico-sphinctérienne
+T32	anatomie 1098 1113	vessie centrale
+T33	anatomie 1142 1163	vésico-sphinctérienne
+T34	examen 1195 1208	auto-sondages
+T35	duree 1209 1231	pendant plusieurs mois
+T36	examen 1238 1252	interrogatoire
+T37	sosy 1270 1291	troubles de la marche
+T38	sosy 1297 1332	douleurs neuropathiques en ceinture
+T39	sosy 1340 1400	troubles mictionnels à type d’incontinence urinaire d’effort
+T40	examen 1404 1410	examen
+T41	sosy 1426 1463	surcharge pondérale (74 kg pour 1m62)
+T42	valeur 1447 1452	74 kg
+T43	valeur 1458 1462	1m62
+T44	sosy 1468 1495	signe de Babinski bilatéral
+T45	anatomie 1510 1523	globe vésical
+T46	sosy 1499 1523	absence de globe vésical
+T47	sosy 1543 1553	apyrétique
+T48	examen 1555 1569	Biologiquement
+T49	examen 1573 1584	hémoglobine
+T50	valeur 1591 1600	11,1 g/dl
+T51	examen 1605 1618	créatininémie
+T52	valeur 1621 1630	65 µmol/l
+T53	examen 1637 1640	CRP
+T54	valeur 1643 1650	67 mg/l
+T55	examen 1657 1705	prélèvements bactériologiques du liquide épanché
+T56	anatomie 1690 1705	liquide épanché
+T57	sosy 1722 1739	Proteus mirabilis
+T58	examen 1745 1761	recherches de BK
+T60	sosy 1745 1788	recherches de BK ont toujours été négatives
+T61	examen 1802 1818	bilan d’imagerie
+T62	examen 1834 1848	fistulographie
+T63	sosy 1850 1875	urographie intra-veineuse
+T64	mode 1861 1875	intra-veineuse
+T65	sosy 1901 2088	fistule néphro-cutanée sur rein gauche double avec un pyélon inférieur non sécrétant porteur d’un calcul coraliforme complet et fistulisé à la peau associé à un pyélon supérieur sécrétant
+T66	anatomie 1909 1923	néphro-cutanée
+T67	anatomie 1928 1939	rein gauche
+T68	anatomie 1955 1971	pyélon inférieur
+T69	anatomie 2044 2078	peau associé à un pyélon supérieur
+T70	anatomie 2102 2117	voie excrétrice
+T72	sosy 2102 2129	voie excrétrice était libre
+T73	examen 2153 2181	scintigraphie rénale au DMSA
+T74	anatomie 2167 2173	rénale
+T75	substance 2177 2181	DMSA
+T76	anatomie 2186 2197	rein gauche
+T77	anatomie 2238 2244	rénale
+T78	valeur 2217 2222	25,7%
+T79	sosy 2186 2252	rein gauche est responsable de 25,7% de la fonction rénale globale
+T80	traitement 2259 2276	lombotomie gauche
+T81	mode 2295 2305	11ème côte
+T82	sosy 2338 2379	réaction inflammatoire périrénale intense
+T83	anatomie 2361 2371	périrénale
+T84	anatomie 2410 2432	pôle supérieur du rein
+T85	traitement 2449 2475	néphrectomie totale gauche
+T86	traitement 2481 2521	ligature du pédicule en intra-capsulaire
+T87	anatomie 2493 2501	pédicule
+T88	traitement 2527 2552	lame de Delbet fut placée
+T89	traitement 2584 2593	résection
+T90	pathologie 2568 2577	fistuleux
+T91	examen 2652 2669	étude de la pièce
+T92	sosy 2684 2791	rein double avec destruction du pyélon inférieur sur un volumineux calcul coraliforme (5,5 cm de grand axe)
+T93	anatomie 2684 2688	rein
+T94	anatomie 2716 2732	pyélon inférieur
+T95	valeur 2771 2790	5,5 cm de grand axe
+T96	sosy 2797 2848	lésions nécrotico-hémorragiques du parenchyme rénal
+T97	anatomie 2832 2848	parenchyme rénal
+T98	examen 2864 2874	histologie
+T99	sosy 2892 2914	lésions de pyonéphrite
+T101	sosy 2932 2951	phlegmon péri-rénal
+T102	anatomie 2941 2951	péri-rénal
+T103	sosy 2975 3034	lésions de pyélonéphrite chronique et xanthogranul omateuse
+T100	examen 3049 3090	étude biochimique et spectrophotométrique
+T104	sosy 3123 3173	nature phospho-ammoni aco-magniésienne (type IV c)
+T105	valeur 3163 3172	type IV c
+T106	moment 3176 3194	A 3 mois et 6 mois
+T109	pathologie 3292 3299	fistule
+T110	anatomie 3327 3333	rénale
+T111	examen 3318 3333	fonction rénale
+T112	valeur 3340 3347	normale
+T59	sosy 3239 3267	état général était excellent
+T71	sosy 1637 1650	CRP à 67 mg/l
+T108	sosy 1605 1630	créatininémie à 65 µmol/l
+T113	sosy 1573 1600	hémoglobine est à 11,1 g/dl
+T114	sosy 3318 3347	fonction rénale était normale
+T115	sosy 3094 3100	calcul
+T3	anatomie 925 933	urinaire
+T116	anatomie 953 960	dorsale
+T117	anatomie 1383 1391	urinaire
+T118	valeur 1779 1788	négatives
+T119	examen 2229 2252	fonction rénale globale
+T120	examen 1468 1485	signe de Babinski
+T121	frequence 3000 3009	chronique
+T107	etatsosy 342 368	calcul coralliforme gauche
+T122	infections 292 308	abcès récidivant
+T123	infections 799 831	méningo-encéphalite tuberculeuse
+T124	nerveux 888 889	ï
+T125	femme 915 933	rétention urinaire
+T126	nerveux 895 913	paraplégie flasque
+T127	etatsosy 895 913	paraplégie flasque
+T128	nerveux 854 876	compression médullaire
+T129	blessures 854 876	compression médullaire
+T130	nerveux 1011 1022	paraparésie
+T131	etatsosy 1011 1022	paraparésie
+T132	nerveux 1270 1291	troubles de la marche
+T133	etatsosy 1270 1291	troubles de la marche
+T134	nerveux 1297 1332	douleurs neuropathiques en ceinture
+T135	etatsosy 1297 1332	douleurs neuropathiques en ceinture
+T136	femme 1340 1400	troubles mictionnels à type d’incontinence urinaire d’effort
+T137	etatsosy 1426 1445	surcharge pondérale
+T138	femme 1901 1946	fistule néphro-cutanée sur rein gauche double
+T139	etatsosy 2568 2577	fistuleux
+T140	femme 2986 3009	pyélonéphrite chronique
+T141	etatsosy 3292 3299	fistule
+T142	infections 2932 2951	phlegmon péri-rénal
+T143	peau 2932 2951	phlegmon péri-rénal
+T144	etatsosy 2932 2951	phlegmon péri-rénal
+T145	genre 0 6	Madame
+T146	age 18 24	63 ans
+A2	genre T145 féminin
+T147	origine 50 118	écoulement persistant au travers d’un orifice cutané lombaire gauche
+T148	issue 3237 3346	L’état général était excellent. La cicatrisation de la fistule était acquise. La fonction rénale était normal
+A3	issue T148 guérison

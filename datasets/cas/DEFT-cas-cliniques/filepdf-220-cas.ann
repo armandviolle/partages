@@ -1,0 +1,6 @@
+T1	genre 0 12	Une patiente
+T2	age 16 22	69 ans
+A1	genre T1 féminin
+T3	origine 80 159	une incontinence urinaire d’effort isolée l’obligeant à se garnir en permanence
+T4	issue 2033 2139	Les suites opératoires ont été simples. La patiente ne présentait plus ni IUE, ni impériosité mictionnelle
+A2	issue T4 guérison

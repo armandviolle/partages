@@ -1,0 +1,133 @@
+T5	tumeur 1012 1021	néoplasme
+T79	anatomie 1094 1111	anatomie veineuse
+T13	examen 114 119	bilan
+T153	cardiovasculaires 1159 1195	thrombus de la veine cave inférieure
+T66	anatomie 1174 1195	veine cave inférieure
+T68	anatomie 1221 1233	veine rénale
+T3	etatsosy 126 135	hématurie
+T182	anatomie 1291 1312	veines sus-hépatiques
+T154	cardiovasculaires 1375 1400	thrombus de la veine cave
+T63	anatomie 1390 1400	veine cave
+T203	age 14 20	75 ans
+T184	anatomie 1426 1440	veine génitale
+T8	tumeur 1456 1462	tumeur
+T59	examen 1480 1487	scanner
+T2	etatsosy 153 171	douleurs lombaires
+T185	anatomie 1537 1566	veines lombaires sous-rénales
+T9	anatomie 1589 1617	rétro-aortique pré-vertébral
+T35	anatomie 162 171	lombaires
+T45	anatomie 1826 1833	uretère
+T129	anatomie 1696 1716	artère rénale droite
+T75	anatomie 1739 1802	bord inférieur de la face postérieure de la veine rénale gauche
+T155	cardiovasculaires 1951 1964	thrombus cave
+T40	traitement 1981 1986	opéré
+T47	anatomie 2097 2110	artère rénale
+T100	mode 2036 2054	inter-aortico-cave
+T76	anatomie 2114 2154	bord inférieur de la veine rénale gauche
+T25	anatomie 1960 1964	cave
+T67	anatomie 2159 2180	veine cave inférieure
+T189	anatomie 2226 2242	veines lombaires
+T14	examen 225 245	bilan scanographique
+T60	examen 2255 2262	scanner
+T109	traitement 2226 2242;2268 2288	veines lombaires liées et sectionnées
+T190	anatomie 2311 2325	veine lombaire
+T135	anatomie 2364 2379	VCI sous-rénale
+T77	anatomie 2389 2408	veine rénale gauche
+T72	anatomie 2438 2450	veine rénale
+T51	anatomie 2426 2430	cave
+T104	anatomie 2519 2523	cave
+T156	cardiovasculaires 2510 2523	thrombus cave
+T38	sosy 252 258	lésion
+T65	anatomie 2555 2576	veine cave sus-rénale
+T74	anatomie 2751 2782	ostia de la veine rénale droite
+T195	anatomie 2792 2806	veine génitale
+T121	anatomie 2683 2703	thrombi néoplasiques
+T157	cardiovasculaires 2821 2829	thrombus
+T81	anatomie 2879 2894	sanguin veineux
+T134	traitement 2913 2940	néphrectomie élargie droite
+T22	anatomie 2934 2940	droite
+T29	examen 3032 3052	analyse histologique
+T159	tumeur 3077 3105	carcinome à cellules claires
+T176	anatomie 376 408	veine périphérique antibrachiale
+T6	tumeur 48 86	tumeur du pôle inférieur du rein droit
+T12	moment 488 503	avant injection
+T31	mode 494 503	injection
+T61	anatomie 618 634	excréto-urinaire
+T202	traitement 674 688	reconstruction
+T11	anatomie 735 745	artérielle
+T78	anatomie 749 757	veineuse
+T42	anatomie 58 86	pôle inférieur du rein droit
+T58	examen 880 887	scanner
+T115	etatsosy 915 922	lésions
+T7	tumeur 947 953	tumeur
+T1	valeur 422 428	3 ml/s
+T4	examen 209 220	échographie
+T19	examen 337 352	injection iodée
+T10	traitement 2414 2430	phlébotomie cave
+T15	traitement 2467 2487	manœuvre de Valsalva
+T17	traitement 2544 2576	clamper la veine cave sus-rénale
+T18	traitement 2668 2703	extraction des thrombi néoplasiques
+T20	traitement 2738 2806	excisant les ostia de la veine rénale droite et de la veine génitale
+T23	anatomie 2965 2972	uretère
+T16	anatomie 3171 3196	partie haute de l'uretère
+T24	tumeur 3146 3196	extension tumorale de la partie haute de l'uretère
+T26	homme 126 135	hématurie
+T27	sosy 126 135	hématurie
+T28	anatomie 200 204	cave
+T30	sosy 191 204	thrombus cave
+A1	assertion T30 hypothétique
+T32	anatomie 2595 2617	segment cave inférieur
+T33	traitement 2159 2215	veine cave inférieure est disséquée en sus et sous-rénal
+T34	traitement 2334 2408	clampage par tourniquet de la VCI sous-rénale et de la veine rénale gauche
+T36	genre 6 12	Pierre
+A2	genre T36 masculin
+T37	sosy 36 86	volumineuse tumeur du pôle inférieur du rein droit
+T39	homme 48 86	tumeur du pôle inférieur du rein droit
+T41	tumeur 1857 1875	extension tumorale
+T43	homme 1857 1875	extension tumorale
+T44	tumeur 2683 2703	thrombi néoplasiques
+T46	cardiovasculaires 2683 2703	thrombi néoplasiques
+T48	tumeur 3015 3028	zone tumorale
+T49	tumeur 3110 3140	nature néoplasique des thrombi
+T50	cardiovasculaires 3110 3140	nature néoplasique des thrombi
+T52	homme 3146 3196	extension tumorale de la partie haute de l'uretère
+T53	dispositif 278 300	appareil multibarrette
+T54	examen 433 453	acquisition spiralée
+T55	anatomie 514 522	artériel
+T56	examen 508 522	temps artériel
+T57	examen 554 568	injection test
+T62	anatomie 580 587	veineux
+T64	examen 574 587	temps veineux
+T69	moment 524 537	± 17 secondes
+T70	moment 589 600	45 secondes
+T71	sosy 1023 1043	rehaussement précoce
+T73	sosy 1045 1074	hypodensité aux temps tardifs
+T80	sosy 1159 1312	thrombus de la veine cave inférieure développé à partir de la veine rénale, s'étendant sur plus de 5 cm mais restant à distance des veines sus-hépatiques
+T82	valeur 1250 1262	plus de 5 cm
+T83	sosy 1366 1462	deuxième thrombus de la veine cave développé à partir de la veine génitale envahie par la tumeur
+T84	sosy 1532 1670	deux veines lombaires sous-rénales, l'une avec un trajet rétro-aortique pré-vertébral, l'autre un trajet antéropostérieur latéro-vertébral
+T85	anatomie 1637 1670	antéropostérieur latéro-vertébral
+T86	sosy 1696 1802	artère rénale droite est unique, située au bord inférieur de la face postérieure de la veine rénale gauche
+T87	anatomie 1881 1898	partie supérieure
+T88	sosy 1826 1898	uretère est visualisé avec une extension tumorale à sa partie supérieure
+T89	mode 1998 2015	voie sous-costale
+T90	anatomie 2198 2215	sus et sous-rénal
+T91	traitement 2090 2154	lier l'artère rénale au bord inférieur de la veine rénale gauche
+T92	dispositif 2347 2357	tourniquet
+T93	traitement 2498 2535	refouler le thrombus cave sous le lac
+T94	examen 2580 2617	exploration du segment cave inférieur
+T95	traitement 2845 2869	fermeture des cavotomies
+T21	traitement 2874 2906	flux sanguin veineux est rétabli
+T96	traitement 2953 2996	emportant l'uretère jusqu'en région iliaque
+T97	anatomie 2982 2996	région iliaque
+T98	anatomie 3059 3064	pièce
+T99	anatomie 3089 3097	cellules
+T101	sosy 153 171	douleurs lombaires
+T102	sosy 915 922	lésions
+T103	sosy 947 953	tumeur
+T105	sosy 1012 1021	néoplasme
+T106	sosy 1951 1964	thrombus cave
+T107	sosy 2683 2703	thrombi néoplasiques
+T108	pathologie 3077 3105	carcinome à cellules claires
+T110	sosy 3110 3140	nature néoplasique des thrombi
+T111	pathologie 3146 3196	extension tumorale de la partie haute de l'uretère

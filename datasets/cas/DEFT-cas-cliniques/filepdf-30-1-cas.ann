@@ -1,0 +1,6 @@
+T1	genre 232 242	Le patient
+T2	age 7 13	68 ans
+A1	genre T1 masculin
+T3	origine 74 93	insuffisance rénale
+T4	issue 2405 2475	Le patient était à nouveau en rémission complète avec 10 mois de recul
+A2	issue T4 amélioration

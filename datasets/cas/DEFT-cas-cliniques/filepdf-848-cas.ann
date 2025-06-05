@@ -1,0 +1,78 @@
+T58	examen 1021 1032	échographie
+T34	sosy 1049 1102	masse d’échostructure tissulaire à contours réguliers
+T11	sosy 107 144	antécédent familial de cancer du sein
+T55	anatomie 1071 1081	tissulaire
+T67	etatsosy 1117 1125	nécroses
+T15	examen 1130 1147	bilan d’extension
+T41	valeur 1154 1167	sans anomalie
+T10	sosy 1159 1168	anomalies
+T104	sosy 999 1016	images stellaires
+T37	examen 1174 1198	ponction biopsie du sein
+T48	anatomie 1194 1198	sein
+T75	sosy 1264 1284	sarcome de bas grade
+T19	traitement 1340 1356	curage axillaire
+T13	anatomie 1347 1356	axillaire
+T43	anatomie 140 144	sein
+T25	examen 1400 1419	examen histologique
+T81	sosy 1485 1511	adénopathies métastatiques
+T57	traitement 1519 1538	traitement adjuvant
+T90	sosy 1607 1640	récidive clinique ou radiologique
+T120	anatomie 223 260	quadrant supérointerne du sein gauche
+T12	sosy 208 297	tuméfaction du quadrant supérointerne du sein gauche, ayant augmenté rapidement de volume
+T20	duree 27 39	depuis 2 ans
+T50	sosy 320 342	signes accompagnateurs
+T4	sosy 368 375	douleur
+T18	sosy 473 503	conservation de l’état général
+T24	examen 509 524	examen clinique
+T32	sosy 542 653	masse de 20 cm de diamètre, de consistance élastique, bosselée par endroit déformant la totalité du sein gauche
+T121	anatomie 642 653	sein gauche
+T5	tumeur 65 86	tumeur du sein gauche
+T33	sosy 661 695	masse était mobile au plan profond
+T49	anatomie 714 724	sein droit
+T35	valeur 731 737	normal
+T36	examen 742 751	palpation
+T119	anatomie 75 86	sein gauche
+T6	anatomie 756 776	aires ganglionnaires
+T9	sosy 795 804	anomalies
+T60	sosy 400 423	rétraction mamelonnaire
+T84	age 8 14	51 ans
+T31	examen 809 821	mammographie
+T47	anatomie 952 956	sein
+T2	sosy 979 993	calcifications
+A1	assertion T11 absent
+T3	genre 0 3	Mme
+A2	genre T3 féminin
+T7	moment 175 184	à un mois
+A3	assertion T50 absent
+A4	assertion T4 absent
+T8	sosy 383 393	écoulement
+A5	assertion T8 absent
+A6	assertion T60 absent
+T14	valeur 551 568	20 cm de diamètre
+A7	assertion T9 absent
+T17	valeur 857 875	20 cm de grand axe
+T21	sosy 835 913	opacité très dense de 20 cm de grand axe, homogène, à contours antérieurs nets
+A8	assertion T2 absent
+A9	assertion T104 absent
+T22	sosy 1108 1125	zones de nécroses
+A10	assertion T10 absent
+T16	sosy 1291 1302	liposarcome
+A11	assertion T75 possible
+A12	assertion T16 possible
+T23	traitement 1308 1319	mastectomie
+T26	valeur 1461 1468	grade 2
+T27	tumeur 1441 1460	liposarcome myxoide
+A13	assertion T81 absent
+A14	assertion T57 absent
+A15	assertion T90 absent
+T1	peau 1441 1460	liposarcome myxoide
+T28	sosy 65 86	tumeur du sein gauche
+T29	sosy 149 164	symptomatologie
+T30	anatomie 411 423	mamelonnaire
+T38	sosy 428 443	symptomatologie
+T39	sosy 714 737	sein droit était normal
+T40	sosy 921 956	opacité prenait la totalité du sein
+T42	sosy 1225 1246	lipoblastes suspectes
+T44	sosy 1441 1479	liposarcome myxoide grade 2 de Broders
+T45	examen 1560 1566	suivie
+T46	duree 1574 1587	4 ans et demi

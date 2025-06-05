@@ -1,0 +1,6 @@
+T1	genre 0 3	Mme
+T2	age 9 15	54 ans
+A1	genre T1 féminin
+T3	origine 59 89	une rétention aiguë des urines
+T4	issue 837 909	Le contrôle clinique et radiologique avec un recul de 44 mois est normal
+A2	issue T4 amélioration

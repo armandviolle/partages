@@ -1,0 +1,6 @@
+T1	genre 0 8	Monsieur
+T2	age 21 27	38 ans
+T3	origine 57 63	anurie
+A1	genre T1 masculin
+T4	issue 2082 2133	L’évolution a été bonne après un recul de deux mois
+A2	issue T4 guérison

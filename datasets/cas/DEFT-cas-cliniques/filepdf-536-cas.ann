@@ -1,0 +1,164 @@
+T49	examen 1003 1024	analyse toxicologique
+T20	substance 1183 1191	cannabis
+T21	substance 1193 1200	cocaïne
+T23	substance 1213 1225	amphétamines
+T9	substance 1392 1400	kétamine
+T10	substance 1402 1409	Ketalar
+T11	substance 1413 1441	acide gamma-hydroxybutyrique
+T12	substance 1444 1452	Gamma-OH
+T13	substance 1458 1474	trihexyphenidyle
+T14	substance 1476 1482	Ariane
+T46	substance 1785 1795	doxylamine
+T24	substance 2240 2248	cannabis
+T25	substance 2250 2257	cocaine
+T31	substance 2456 2464	kétamine
+T32	substance 2466 2473	Kétalar
+T33	substance 2480 2501	gamma-hydroxybutyfate
+T34	substance 2503 2511	Gamma-OH
+T35	substance 2520 2536	trihexyphénidyle
+T36	substance 2538 2544	Ariane
+T15	substance 3040 3057	acide nicotinique
+T16	substance 3159 3169	doxylamine
+T37	substance 3289 3306	acide nicotinique
+T38	substance 3313 3323	doxylamine
+T40	substance 3665 3675	doxylamine
+T41	substance 3858 3868	doxylamine
+T42	substance 4064 4072	Donormyl
+T45	substance 871 881	clonazepam
+T43	sosy 1765 1795	intoxication par la doxylamine
+T48	sosy 1947 1959	intoxication
+T56	examen 287 294	HPLC-BD
+T57	examen 517 532	examen clinique
+T58	sosy 550 623	troubles cognitifs : désorientation, discours confus, troubles de mémoire
+T59	anatomie 559 568	cognitifs
+T63	pathologie 630 664	syndrome hallucinatoire progressif
+T44	pathologie 672 732	syndrome anticholinergique : mydriase bilatérale persistante
+T66	sosy 741 814	troubles neurologiques : réflexes ostéo-tendineux diminués symétriquement
+T67	anatomie 750 763	neurologiques
+T69	anatomie 775 790	ostéo-tendineux
+T71	sosy 842 858	crise convulsive
+T72	examen 888 925	examens neurologique et psychiatrique
+T73	anatomie 896 908	neurologique
+T74	anatomie 912 925	psychiatrique
+T75	pathologie 946 968	syndrome épileptiforme
+T76	pathologie 984 997	schizophrénie
+T78	sosy 1255 1290	signes cliniques anticholinergiques
+T79	pathologie 1292 1300	mydriase
+T80	pathologie 1302 1316	hallucinations
+T81	examen 1322 1345	recherche toxicologique
+T83	pathologie 1741 1754	rhabdomyolyse
+T84	examen 1839 1876	activité créatine-phosphokinase (CPK)
+T86	valeur 1889 1898	3800 UI/L
+A2	norme T86 haut
+T87	moment 1931 1944	4 jours après
+T88	examen 2015 2024	troponine
+T89	sosy 2032 2045	myoglobinurie
+T90	sosy 2075 2094	insuffisance rénale
+T91	anatomie 2088 2094	rénale
+A3	assertion T90 absent
+T92	examen 2176 2197	analyse toxicologique
+T94	examen 2434 2452	recherche urinaire
+T95	examen 2570 2595	analyse chromatographique
+T96	examen 3395 3413	analyse des urines
+T98	valeur 3455 3463	13,7 min
+T99	examen 3713 3741	identification toxicologique
+T100	examen 3786 3793	HPLC-BD
+T102	examen 4001 4015	dosage sanguin
+A4	assertion T102 absent
+T105	valeur 2693 2701	13,7 min
+T106	valeur 3205 3213	13,7 min
+T107	valeur 3128 3132	91 %
+T108	valeur 3618 3622	96 %
+T114	examen 831 837	examen
+T119	examen 1074 1083	recherche
+T111	examen 3591 3610	homologie spectrale
+T112	mode 3810 3816	poudre
+T115	examen 2974 2993	homologie spectrale
+T116	valeur 2997 3001	95 %
+T117	valeur 3089 3096	3,5 min
+T118	examen 3066 3084	temps de rétention
+T120	examen 3105 3124	homologie spectrale
+T121	examen 3179 3197	temps de rétention
+T39	substance 3359 3367	pyridine
+T122	sosy 3449 3485	pic à 13,7 min de temps de rétention
+T123	examen 3467 3485	temps de rétention
+T124	sosy 3519 3523	pics
+T125	valeur 3547 3553	190 nm
+T126	valeur 3557 3563	300 nm
+T127	valeur 2882 2888	200 nm
+T128	valeur 2892 2898	260 nm
+T129	sosy 2687 2723	pic à 13,7 min de temps de rétention
+T130	examen 2705 2723	temps de rétention
+T131	valeur 2756 2779	2,8 unités d'absorbance
+T132	mode 2643 2657	poudre blanche
+T134	mode 2602 2618	solution aqueuse
+T135	mode 2371 2387	solution aqueuse
+T136	mode 2405 2411	poudre
+T137	mode 1623 1644	poudre blanche humide
+T139	sosy 1999 2024	élévation de la troponine
+T1	mode 1658 1662	pâte
+T2	sosy 72 96	troubles du comportement
+T3	sosy 98 112	hallucinations
+T4	sosy 114 123	agitation
+T5	sosy 127 182	état confusionnel avec désorientation spatio-temporelle
+T7	examen 209 234	identification du toxique
+T8	substance 1087 1110	classes médicamenteuses
+T17	substance 1112 1126	imipraminiques
+T18	substance 1128 1143	benzodiazepines
+T19	substance 1148 1162	phénothiazines
+T22	substance 1170 1181	stupéfiants
+T26	substance 1202 1209	opiacés
+T27	moment 1487 1526	Quelques heures après l'hospitalisation
+T28	moment 298 319	Lors de son admission
+T29	moment 2127 2154	6 jours après son admission
+T30	substance 2259 2266	opiacés
+T47	substance 2268 2283	benzodiazepines
+T50	substance 2285 2298	barbituriques
+T51	substance 2300 2314	imipraminiques
+T52	substance 2318 2332	phénothiazines
+T53	moment 3952 3971	lors de l'admission
+T54	sosy 4134 4172	intoxication médicamenteuse volontaire
+T55	examen 414 428	interrogatoire
+T60	sosy 1839 1898	activité créatine-phosphokinase (CPK) qui atteint 3800 UI/L
+T61	substance 3876 3885	substance
+T64	sosy 2176 2238	analyse toxicologique de première intention sont tous négatifs
+T65	sosy 2434 2565	recherche urinaire de kétamine (Kétalar®), de gamma-hydroxybutyfate (Gamma-OH®) et de trihexyphénidyle (Ariane®) sont tous négatifs
+T6	anatomie 1054 1060	urines
+T62	anatomie 1366 1372	urines
+T68	valeur 2230 2238	négatifs
+T70	anatomie 2353 2359	urines
+T77	anatomie 2444 2452	urinaire
+T82	valeur 2557 2565	négatifs
+T85	anatomie 3407 3413	urines
+T93	anatomie 3938 3944	urines
+T97	anatomie 4008 4015	sanguin
+T103	nerveux 98 112	hallucinations
+T104	nerveux 114 123	agitation
+T109	nerveux 127 182	état confusionnel avec désorientation spatio-temporelle
+T110	nerveux 630 664	syndrome hallucinatoire progressif
+T113	oeil 701 732	mydriase bilatérale persistante
+T133	etatsosy 630 664	syndrome hallucinatoire progressif
+T138	nerveux 571 585	désorientation
+T140	etatsosy 571 585	désorientation
+T141	nerveux 741 763	troubles neurologiques
+T142	nerveux 842 858	crise convulsive
+T143	oeil 1292 1300	mydriase
+T144	nerveux 1302 1316	hallucinations
+T145	chimiques 1765 1795	intoxication par la doxylamine
+T146	chimiques 4134 4172	intoxication médicamenteuse volontaire
+T101	etatsosy 98 112	hallucinations
+T147	etatsosy 114 123	agitation
+T148	etatsosy 127 182	état confusionnel avec désorientation spatio-temporelle
+T149	nerveux 604 623	troubles de mémoire
+T150	etatsosy 604 623	troubles de mémoire
+T151	chimiques 672 698	syndrome anticholinergique
+T152	etatsosy 741 763	troubles neurologiques
+T153	chimiques 1255 1290	signes cliniques anticholinergiques
+T154	etatsosy 1302 1316	hallucinations
+T155	chimiques 1947 1959	intoxication
+T156	age 24 30	15 ans
+T157	genre 10 15	fille
+A1	genre T157 féminin
+T158	origine 72 182	troubles du comportement, hallucinations, agitation et état confusionnel avec désorientation spatio-temporelle
+T159	issue 2047 2154	On n'observe pas de signe d'insuffisance rénale. La patiente sort de l'hôpital, 6 jours après son admission
+A5	issue T159 amélioration

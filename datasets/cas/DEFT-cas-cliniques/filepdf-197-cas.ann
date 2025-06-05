@@ -1,0 +1,6 @@
+T1	genre 32 42	un patient
+T2	age 50 56	65 ans
+A1	genre T1 masculin
+T3	issue 1646 1701	A 6 mois, l’échographie ne retrouvait aucune collection
+A2	issue T3 guérison
+T4	origine 668 712	des douleurs intenses de l’hypochondre droit

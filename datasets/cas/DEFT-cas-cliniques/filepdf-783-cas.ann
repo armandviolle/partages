@@ -1,0 +1,94 @@
+T6	substance 1117 1127	furosémide
+T9	examen 1153 1176	radiographie pulmonaire
+T15	anatomie 1166 1176	pulmonaire
+T10	examen 1194 1212	scanner thoracique
+T12	anatomie 1202 1212	thoracique
+T16	anatomie 1648 1658	pulmonaire
+T11	anatomie 613 623	thoracique
+T8	examen 779 794	examen clinique
+T13	sosy 99 138	insuffisance rénale chronique terminale
+T14	anatomie 112 118	rénale
+T17	frequence 119 128	chronique
+T18	pathologie 156 199	néphropathie tubulointerstitielle chronique
+T19	anatomie 169 189	tubulointerstitielle
+T20	traitement 208 281	hémodialyse par cathéter veineux jugulaire droit bi-lumière non tunnélisé
+T22	anatomie 233 267	veineux jugulaire droit bi-lumière
+T23	traitement 335 346	hémodialyse
+T24	pathologie 305 308	FAV
+A3	assertion T24 absent
+#1	AnnotatorNotes T24	fistule artério-veineuse
+T26	anatomie 420 443	veine jugulaire interne
+T27	examen 450 471	contrôle radiologique
+T29	sosy 523 557	épanchement gazeux intrathoracique
+T30	anatomie 542 557	intrathoracique
+A4	assertion T29 absent
+T31	sosy 605 643	douleur thoracique brutale angoissante
+T32	sosy 649 656	dyspnée
+T33	sosy 658 667	orthopnée
+T34	sosy 669 694	expectorations mousseuses
+T35	sosy 698 720	cyanose des extrémités
+T36	anatomie 710 720	extrémités
+T7	examen 725 746	saturation en oxygène
+T37	valeur 755 758	87%
+T38	sosy 812 863	râles crépitants diffus aux deux champs pulmonaires
+T39	anatomie 840 863	deux champs pulmonaires
+T40	sosy 876 931	emphysème sous-cutané de la face latérale droite du cou
+T41	anatomie 886 897	sous-cutané
+T42	anatomie 904 931	face latérale droite du cou
+T44	substance 1027 1042	oxygénothérapie
+T46	dose 1066 1073	8 l/min
+T47	mode 1081 1104	injection intraveineuse
+T48	dose 1108 1113	80 mg
+T49	sosy 1225 1261	pneumomédiastin de moyenne abondance
+T50	pathologie 1317 1337	œdème aigu du poumon
+T51	anatomie 1331 1337	poumon
+T53	anatomie 1394 1409	jugulaire droit
+T54	traitement 1413 1419	suture
+T56	anatomie 1470 1483	fémoral droit
+T57	traitement 1549 1593	hémodialyse avec ultrafiltration progressive
+T58	pathologie 1642 1658	œdème pulmonaire
+T59	substance 1681 1696	oxygénothérapie
+T60	mode 1697 1703	nasale
+T61	dose 1706 1713	3 l/min
+T62	sosy 1793 1808	pneumomédiastin
+T63	moment 559 578	Dix jours plus tard
+T64	examen 394 443	repérage anatomique de la veine jugulaire interne
+T65	frequence 1534 1546	quotidiennes
+T66	traitement 1373 1409	ablation du cathéter jugulaire droit
+T67	frequence 190 199	chronique
+T69	pathologie 1268 1297	syndrome alvéolaire bilatéral
+T71	moment 1809 1838	après dix jours de traitement
+T72	anatomie 998 1021	région axillaire droite
+T73	traitement 1663 1668	repos
+T1	sosy 66 86	antécédents notables
+A2	assertion T1 absent
+T2	traitement 350 371	insertion du cathéter
+T4	traitement 1488 1496	implanté
+T5	sosy 725 772	saturation en oxygène était à 87% à l’air libre
+T3	femme 99 138	insuffisance rénale chronique terminale
+T21	femme 156 199	néphropathie tubulointerstitielle chronique
+T25	etatsosy 605 623	douleur thoracique
+T28	respiratoire 649 656	dyspnée
+T43	etatsosy 649 656	dyspnée
+T45	respiratoire 658 667	orthopnée
+T52	etatsosy 658 667	orthopnée
+T55	etatsosy 698 720	cyanose des extrémités
+T70	etatsosy 876 931	emphysème sous-cutané de la face latérale droite du cou
+T74	respiratoire 1317 1337	œdème aigu du poumon
+T75	respiratoire 1225 1261	pneumomédiastin de moyenne abondance
+T76	respiratoire 1793 1808	pneumomédiastin
+T77	etatsosy 1793 1808	pneumomédiastin
+T78	etatsosy 1225 1261	pneumomédiastin de moyenne abondance
+T79	respiratoire 669 694	expectorations mousseuses
+T80	etatsosy 669 694	expectorations mousseuses
+T68	etatsosy 812 835	râles crépitants diffus
+T81	respiratoire 1268 1297	syndrome alvéolaire bilatéral
+T82	etatsosy 1317 1337	œdème aigu du poumon
+T83	respiratoire 1642 1658	œdème pulmonaire
+T84	etatsosy 1642 1658	œdème pulmonaire
+T85	age 39 45	18 ans
+T86	genre 22 30	patiente
+A1	genre T86 féminin
+T87	origine 99 199	insuffisance rénale chronique terminale secondaire à une néphropathie tubulointerstitielle chronique
+T88	issue 1725 1808	une évolution clinique et radiologique favorable avec régression du pneumomédiastin
+A5	issue T88 amélioration

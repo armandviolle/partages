@@ -1,0 +1,127 @@
+T7	substance 1033 1043	céfotaxime
+T8	substance 1045 1058	métronidazole
+T9	substance 1062 1073	gentamicine
+T10	substance 1113 1132	sérum physiologique
+T25	examen 1336 1372	scanner cérébral et du massif facial
+T14	substance 1737 1747	céfotaxime
+T15	substance 1748 1761	métronidazole
+T16	substance 1762 1773	fosfomycine
+T12	substance 1841 1853	amoxicilline
+T13	substance 1854 1872	acide clavulanique
+T6	duree 330 350	depuis deux semaines
+T22	examen 354 369	examen clinique
+T23	examen 436 455	examen neurologique
+T24	examen 795 831	scanner cérébral et du massif facial
+T17	traitement 116 155	chirurgie endonasale ou maxillo-faciale
+T18	anatomie 126 136	endonasale
+T19	anatomie 140 155	maxillo-faciale
+T20	pathologie 162 187	traumatisme cranio-facial
+T21	anatomie 174 187	cranio-facial
+A3	assertion T20 absent
+A4	assertion T17 absent
+T26	sosy 228 256	céphalées frontales intenses
+T27	anatomie 238 247	frontales
+T28	sosy 273 302	obstruction nasale bilatérale
+T29	anatomie 285 302	nasale bilatérale
+T30	pathologie 310 320	rhinorrhée
+T31	sosy 493 513	tuméfaction frontale
+T32	anatomie 505 513	frontale
+T33	pathologie 546 566	rhinorrhée purulente
+T35	examen 600 617	endoscopie nasale
+T36	anatomie 611 617	nasale
+T37	anatomie 638 652	cloison nasale
+T38	sosy 622 661	déviation de la cloison nasale à gauche
+T39	anatomie 803 811	cérébral
+T40	sosy 704 737	syndrome inflammatoire biologique
+T41	examen 747 763	hyperleucocytose
+T42	valeur 766 774	11000/μL
+A5	norme T42 haut
+T43	examen 778 781	CRP
+T44	valeur 784 790	28mg/L
+T45	anatomie 818 831	massif facial
+T46	pathologie 853 871	Pott’s Puffy tumor
+T47	substance 988 1022	triple antibiothérapie parentérale
+T48	duree 1074 1092	pendant 3 semaines
+T49	sosy 1262 1295	récidive des signes rhinologiques
+T50	sosy 1301 1307	fièvre
+T51	sosy 1311 1331	tuméfaction frontale
+T52	anatomie 1323 1331	frontale
+T53	anatomie 1344 1352	cérébral
+T54	anatomie 1359 1372	massif facial
+T55	pathologie 1413 1431	Pott’s Puffy tumor
+T56	sosy 1485 1507	comblement pansinusien
+T57	anatomie 1496 1507	pansinusien
+T58	sosy 929 959	comblement pansinusien partiel
+T59	anatomie 940 951	pansinusien
+T60	sosy 1515 1564	ostéolyse de la paroi antérieure du sinus frontal
+T61	anatomie 1531 1564	paroi antérieure du sinus frontal
+T63	anatomie 892 912	sous-cutané frontale
+T64	sosy 1441 1480	collection sous-cutané frontale de 1 cm
+T65	anatomie 1452 1472	sous-cutané frontale
+T66	examen 1637 1664	prélèvement bactériologique
+T67	traitement 1702 1736	triple antibiothérapie parentérale
+T68	duree 1775 1793	pendant 4 semaines
+T69	traitement 1810 1825	antibiothérapie
+T70	mode 1826 1831	orale
+T71	duree 1880 1898	pendant 2 semaines
+T72	dose 1873 1875	1g
+T73	frequence 1875 1879	*3/j
+T74	examen 1904 1931	prélèvement bactériologique
+T75	sosy 2002 2035	syndrome inflammatoire biologique
+A6	assertion T75 absent
+T77	traitement 2109 2128	anesthésie générale
+T78	duree 2129 2144	pendant 7 jours
+T79	mode 1011 1022	parentérale
+T80	mode 1102 1109	nasales
+T81	mode 1725 1736	parentérale
+T89	valeur 462 480	sans particularité
+T83	sosy 398 408	apyrétique
+T85	valeur 916 922	5x3 mm
+T86	valeur 1476 1480	1 cm
+T90	sosy 414 430	bon état général
+T91	moment 2036 2059	dès la première semaine
+T92	frequence 2094 2103	quotidien
+T93	traitement 2064 2074	changement
+T94	traitement 2152 2173	incision a été fermée
+T1	pathologie 46 84	antécédents pathologiques particuliers
+A1	etat T1 passé
+A2	assertion T1 absent
+T3	sosy 573 590	jetage postérieur
+T4	examen 669 677	biologie
+T5	moment 1192 1218	à deux mois de cet épisode
+T11	anatomie 1282 1295	rhinologiques
+T34	mode 1669 1685	voie sourcilière
+T76	examen 2217 2231	suivi régulier
+T82	frequence 2223 2231	régulier
+T84	moment 2255 2274	un recul de 24 mois
+T87	sosy 2280 2310	récidive de la symptomatologie
+A7	assertion T87 absent
+T96	sosy 747 774	hyperleucocytose à 11000/μL
+T97	sosy 778 790	CRP à 28mg/L
+T98	sosy 881 922	collection sous-cutané frontale de 5x3 mm
+T62	traitement 1620 1631	mise à plat
+T2	sosy 436 480	examen neurologique était sans particularité
+T88	sosy 1904 1952	prélèvement bactériologique était revenu négatif
+T95	anatomie 443 455	neurologique
+T99	valeur 1945 1952	négatif
+A8	norme T89 normal
+T100	nerveux 228 256	céphalées frontales intenses
+T102	ORL 273 302	obstruction nasale bilatérale
+T104	infections 704 737	syndrome inflammatoire biologique
+T105	osteomusculaires 853 871	Pott’s Puffy tumor
+T106	etatsosy 1301 1307	fièvre
+T108	osteomusculaires 1413 1431	Pott’s Puffy tumor
+T101	etatsosy 704 737	syndrome inflammatoire biologique
+T103	etatsosy 747 763	hyperleucocytose
+T109	hemopathies 747 763	hyperleucocytose
+T110	oeil 853 871	Pott’s Puffy tumor
+T111	infections 853 871	Pott’s Puffy tumor
+T112	oeil 1413 1431	Pott’s Puffy tumor
+T113	infections 1413 1431	Pott’s Puffy tumor
+T107	osteomusculaires 1515 1564	ostéolyse de la paroi antérieure du sinus frontal
+T114	age 34 40	19 ans
+T115	genre 19 26	patient
+A9	genre T115 masculin
+T116	origine 228 320	céphalées frontales intenses associées à une obstruction nasale bilatérale et une rhinorrhée
+T117	issue 2250 2310	avec un recul de 24 mois sans récidive de la symptomatologie
+A10	issue T117 guérison

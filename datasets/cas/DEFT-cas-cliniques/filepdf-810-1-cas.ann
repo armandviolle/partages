@@ -1,0 +1,6 @@
+T1	genre 0 7	Patient
+T2	age 11 17	37 ans
+A1	genre T1 masculin
+T3	origine 99 122	un syndrome subocclusif
+T4	issue 694 806	Le patient a reçu une chimiothérapie à base de 5-fluoro-uracile et suivi en consultation externe depuis deux ans
+A2	issue T4 amélioration

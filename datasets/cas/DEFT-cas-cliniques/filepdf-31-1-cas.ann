@@ -1,0 +1,6 @@
+T1	genre 12 24	une patiente
+T2	age 28 34	17 ans
+A1	genre T1 féminin
+T3	origine 46 198	un accident de la voie publique le 6 novembre 1993, dont le bilan initial faisait état d'un polytraumatisme avec fracture du bassin et choc hémorragique
+T4	issue 2730 2883	Le rétrécissement fut dilaté à deux reprises avec dans l’intervalle disparition de la dysurie, démasquant alors une minime incontinence urinaire d’effort
+A2	issue T4 amélioration

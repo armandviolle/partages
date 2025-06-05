@@ -1,0 +1,6 @@
+T1	genre 203 207	Elle
+T2	age 864 869	8 ans
+A1	genre T1 féminin
+T3	origine 998 1063	une violente douleur abdominale avec vomissements et état de choc
+T4	issue 1725 1773	La cystographie de contrôle à 1 mois est normale
+A2	issue T4 amélioration

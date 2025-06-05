@@ -1,0 +1,6 @@
+T1	genre 12 24	une patiente
+T2	age 33 39	52 ans
+A1	genre T1 féminin
+T3	origine 161 333	une importante augmentation du volume abdominal compliquée par une hernie de la ligne blanche, associée à une pollakiurie, une constipation et un amaigrissement non chiffré
+T4	issue 471 500	Une chirurgie a été effectuée
+A2	issue T4 amélioration

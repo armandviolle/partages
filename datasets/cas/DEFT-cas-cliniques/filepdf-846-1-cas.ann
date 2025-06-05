@@ -1,0 +1,6 @@
+T1	genre 0 18	le premier patient
+T2	age 34 40	23 ans
+A1	genre T1 masculin
+T3	origine 144 215	une tuméfaction costale gauche ayant augmenté progressivement de volume
+T4	issue 1996 2112	Le diagnostic d’une maladie exostosante a été évoqué devant la concordance des signes cliniques et radio isotopiques
+A2	issue T4 stable

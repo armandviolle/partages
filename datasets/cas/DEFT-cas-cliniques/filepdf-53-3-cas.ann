@@ -1,0 +1,6 @@
+T1	age 15 20	7 ans
+T2	genre 6 11	fille
+A1	genre T2 féminin
+T3	origine 45 147	syndrome douloureux et fébrile de la fosse iliaque droite et de l’hypogastre sans troubles mictionnels
+T4	issue 585 622	Les suites opératoires furent simples
+A2	issue T4 guérison

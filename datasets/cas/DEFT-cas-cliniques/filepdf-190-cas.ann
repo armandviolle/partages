@@ -1,0 +1,86 @@
+T30	examen 1319 1358	analyse anatomopathologique de la masse
+T26	anatomie 1327 1346	anatomopathologique
+T24	examen 223 258	palpation au niveau supérieur droit
+T29	examen 390 405	analyse d’urine
+T27	examen 447 486	examen tomodensitométrique de l’abdomen
+T25	examen 598 609	échographie
+T5	anatomie 210 217	abdomen
+T31	valeur 155 166	100/60 mmHg
+T32	examen 276 294	bilans biologiques
+T35	examen 172 187	examen physique
+T37	examen 829 853	exploration chirurgicale
+T38	examen 349 360	hémoglobine
+T41	examen 111 129	tension artérielle
+T6	sosy 42 77	douleurs abdominales du flanc droit
+T7	anatomie 51 62	abdominales
+T8	anatomie 66 77	flanc droit
+T9	sosy 83 90	nausées
+T11	sosy 94 106	vomissements
+T12	moment 130 145	à son admission
+T13	sosy 193 217	sensibilité de l’abdomen
+T14	anatomie 236 258	niveau supérieur droit
+T15	examen 327 337	leucocytes
+T16	examen 371 382	hématocrite
+T17	valeur 338 347	12600/mm3
+T18	valeur 361 369	8,1 g/dl
+T19	valeur 383 386	25%
+T20	sosy 419 442	hématurie microscopique
+T21	anatomie 479 486	abdomen
+T23	sosy 511 551	masse rénale droite de 15 cm de diamètre
+T28	anatomie 517 530	rénale droite
+T33	sosy 558 582	hématome rétropéritonéal
+T34	anatomie 567 582	rétropéritonéal
+T39	examen 671 682	hématocrite
+T42	valeur 692 700	29 à 20%
+T44	sosy 732 742	saignement
+T36	sosy 859 934	masse de 15x15x20 cm, encapsulée de coloration gris foncé et jaunâtre-blanc
+T47	sosy 955 960	masse
+T48	anatomie 990 1006	hile rénal droit
+T50	sosy 1024 1049	hémorragie intra-tumorale
+T51	anatomie 1035 1049	intra-tumorale
+T52	sosy 1057 1076	rupture de la masse
+T54	sosy 1093 1103	saignement
+T55	sosy 1130 1147	rupture de veines
+T56	anatomie 1141 1147	veines
+T57	anatomie 1172 1190	hile du rein droit
+T59	traitement 1196 1215	néphrectomie droite
+T61	traitement 1221 1241	ablation de la masse
+T62	sosy 1236 1241	masse
+T63	sosy 1353 1358	masse
+T64	pathologie 1382 1402	angiomyolipome rénal
+T65	anatomie 1397 1402	rénal
+A3	norme T19 bas
+A4	norme T18 bas
+T66	valeur 534 551	15 cm de diamètre
+A5	norme T42 bas
+T67	valeur 868 879	15x15x20 cm
+T40	duree 701 717	en quatre heures
+T1	sosy 111 166	tension artérielle à son admission était de 100/60 mmHg
+T2	valeur 295 303	anormaux
+T3	sosy 276 303	bilans biologiques anormaux
+T4	examen 657 667	surveillée
+T10	sosy 1269 1297	complication post-opératoire
+A1	assertion T10 absent
+T22	anatomie 119 129	artérielle
+T43	sosy 327 347	leucocytes 12600/mm3
+T45	sosy 349 369	hémoglobine 8,1 g/dl
+T46	sosy 371 386	hématocrite 25%
+T49	anatomie 400 405	urine
+T53	etatsosy 83 90	nausées
+T58	etatsosy 94 106	vomissements
+T60	etatsosy 42 77	douleurs abdominales du flanc droit
+T68	etatsosy 558 582	hématome rétropéritonéal
+T69	etatsosy 419 442	hématurie microscopique
+T70	femme 419 442	hématurie microscopique
+T71	tumeur 1382 1402	angiomyolipome rénal
+T72	etatsosy 1093 1103	saignement
+T73	etatsosy 732 742	saignement
+T74	etatsosy 1024 1049	hémorragie intra-tumorale
+T75	blessures 1130 1147	rupture de veines
+T76	femme 1382 1402	angiomyolipome rénal
+T77	genre 4 9	femme
+A2	genre T77 féminin
+T78	age 13 19	58 ans
+T79	origine 42 106	douleurs abdominales du flanc droit avec nausées et vomissements
+T80	issue 1192 1315	Une néphrectomie droite et l’ablation de la masse étaient effectuées. Aucune complication post-opératoire n’était rapportée
+A6	issue T80 guérison

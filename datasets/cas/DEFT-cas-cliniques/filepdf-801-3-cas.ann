@@ -1,0 +1,36 @@
+T5	anatomie 1116 1126	extrémités
+T17	age 17 23	30 ans
+T18	moment 258 289	avant l’intervention opératoire
+T6	traitement 266 289	intervention opératoire
+T9	traitement 318 343	intervention chirurgicale
+T3	sosy 422 444	compression médullaire
+T11	anatomie 434 444	médullaire
+T10	traitement 566 591	intervention chirurgicale
+T22	traitement 648 659	rééducation
+T13	sosy 727 741	prise de poids
+T12	examen 736 741	poids
+T16	traitement 928 950	séances de rééducation
+T1	genre 0 8	Patiente
+A1	genre T1 féminin
+T4	blessures 111 128	éclatement de T12
+#1	AnnotatorNotes T4	fracture vertèbre
+T2	moment 231 254	juste après l’admission
+T8	nerveux 422 444	compression médullaire
+T14	blessures 422 444	compression médullaire
+T15	substance 768 782	antidépresseur
+T19	traitement 451 471	psychothérapie brève
+T20	nerveux 1078 1126	sensations « fantômes » au niveau des extrémités
+T21	nerveux 691 702	hypersomnie
+T23	etatsosy 708 719	hyperphagie
+T24	etatsosy 727 741	prise de poids
+T25	pathologie 691 702	hypersomnie
+T26	sosy 708 719	hyperphagie
+T27	sosy 111 128	éclatement de T12
+T28	sosy 132 148	torsion de la ME
+T7	nerveux 132 148	torsion de la ME
+T29	blessures 132 148	torsion de la ME
+#2	AnnotatorNotes T7	ME = moelle épinière
+T30	osteomusculaires 111 128	éclatement de T12
+T31	etatsosy 1078 1126	sensations « fantômes » au niveau des extrémités
+T32	anatomie 125 128	T12
+T33	anatomie 146 148	ME

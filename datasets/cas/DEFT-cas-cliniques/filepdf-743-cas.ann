@@ -1,0 +1,250 @@
+T16	substance 1620 1631	clopidogrel
+T13	substance 1684 1707	acide acétylsalicylique
+T17	substance 1853 1864	clopidogrel
+T18	substance 2034 2045	clopidogrel
+T19	substance 2110 2121	clopidogrel
+T20	substance 2488 2499	clopidogrel
+T21	substance 2531 2542	clopidogrel
+T10	substance 3009 3016	Calcium
+T33	substance 3017 3027	vitamine D
+T8	dose 3267 3273	250 mg
+T32	substance 3367 3385	hydrocortisone 1 %
+T11	substance 3430 3441	Hydroxyzine
+T22	substance 3500 3511	clopidogrel
+T23	substance 3549 3560	clopidogrel
+T24	substance 3710 3721	clopidogrel
+T3	substance 376 385	célécoxib
+T25	substance 3918 3929	clopidogrel
+T26	substance 3994 4005	clopidogrel
+T9	dose 4019 4025	250 mg
+T27	substance 4325 4336	clopidogrel
+T28	substance 4636 4647	clopidogrel
+T29	substance 5191 5202	clopidogrel
+T30	substance 5927 5938	clopidogrel
+T31	substance 6023 6034	clopidogrel
+T34	substance 656 667	pénicilline
+T6	substance 6801 6812	clopidogrel
+T5	substance 6882 6893	clopidogrel
+T14	substance 866 877	clopidogrel
+T15	substance 982 993	clopidogrel
+T12	dose 387 393	200 mg
+T36	frequence 394 408	deux fois/jour
+A3	prise T3 arrêt
+T37	dose 856 862	300 mg
+T38	dose 884 911	quatre  comprimés de 75  mg
+T39	moment 913 943	Le matin de la coronarographie
+T41	dose 997 1003	75  mg
+T42	substance 1040 1050	paclitaxel
+T44	dose 1644 1649	75 mg
+T45	frequence 1650 1658	par jour
+T46	duree 1708 1734	pendant un minimum d’un an
+T48	pathologie 1894 1928	maladie athéroslclérotique diffuse
+T49	pathologie 2235 2241	Angine
+T50	sosy 2259 2282	Hypertension artérielle
+T51	anatomie 2272 2282	artérielle
+T52	pathologie 2285 2303	Diabète de type II
+T53	pathologie 2306 2319	Hypothyroïdie
+T54	substance 2543 2566	Acide acétylsalicylique
+T55	dose 2567 2572	80 mg
+T56	frequence 2573 2586	une fois/jour
+T57	substance 2605 2615	Métoprolol
+T58	substance 2690 2704	Nitroglycérine
+T59	substance 2719 2731	Pravastatine
+T60	substance 2772 2791	Hydrochlorothiazide
+T61	substance 2844 2854	Irbésartan
+T62	substance 2896 2906	Metformine
+T63	substance 2954 2967	Lévothyroxine
+T64	dose 2732 2737	20 mg
+T65	frequence 2738 2751	une fois/jour
+T66	dose 2792 2797	25 mg
+T67	dose 2799 2809	½ comprimé
+T68	frequence 2810 2823	une fois/jour
+T69	dose 2619 2625	0,4 mg
+T70	frequence 2626 2635	au besoin
+T71	pathologie 2639 2645	angine
+T72	dose 2646 2652	100 mg
+T73	frequence 2653 2666	une fois/jour
+T74	dose 2855 2861	300 mg
+T75	frequence 2862 2875	une fois/jour
+T76	dose 2907 2913	500 mg
+T77	frequence 2914 2928	deux fois/jour
+T78	dose 2968 2974	0,1 mg
+T79	frequence 2975 2988	une fois/jour
+T80	dose 3028 3034	500 mg
+T81	dose 3035 3041	400 UI
+T82	frequence 3042 3056	deux fois/jour
+T83	substance 3077 3088	Clopidogrel
+T84	dose 3089 3095	300 mg
+T85	dose 3096 3101	75 mg
+T86	dose 3102 3107	75 mg
+T87	frequence 3107 3112	/jour
+T88	moment 3123 3131	le matin
+T89	substance 3132 3148	N-acétylcystéine
+T90	dose 3149 3155	600 mg
+T91	frequence 3156 3170	deux fois/jour
+T92	substance 3175 3184	Iodixanol
+T93	dose 3206 3212	150 ml
+T94	mode 3213 3215	IV
+T95	sosy 3236 3252	hypersensibilité
+T96	substance 3255 3266	Ticlopidine
+T103	frequence 3406 3427	2 fois/jour au besoin
+T104	dose 3442 3447	10 mg
+T105	frequence 3448 3478	quatre fois par jour au besoin
+T97	pathologie 2338 2349	ostéoporose
+T98	sosy 3749 3753	rash
+T99	sosy 3768 3790	démangeaisons au tronc
+T100	frequence 4026 4044	deux fois par jour
+T101	substance 3948 3959	ticlopidine
+A4	prise T25 arrêt
+T106	sosy 4073 4077	rash
+T107	sosy 4085 4098	démangeaisons
+T108	sosy 4177 4181	rash
+T109	sosy 4189 4211	démangeaisons au tronc
+T110	sosy 4250 4264	rash aux mains
+T111	anatomie 4259 4264	mains
+T112	anatomie 4206 4211	tronc
+T113	anatomie 3785 3790	tronc
+T114	sosy 4364 4397	hypersensibilité à la ticlopidine
+T115	substance 4386 4397	ticlopidine
+T116	dose 5112 5130	0,005  mg à 75  mg
+T117	frequence 5144 5172	à intervalles de 30  minutes
+A5	prise T29 arrêt
+T119	dose 5952 5957	75 mg
+T120	frequence 5958 5975	une fois par jour
+T121	frequence 6035 6050	quotidiennement
+T122	duree 6911 6926	pendant 16 mois
+T123	examen 88 103	coronarographie
+T124	pathologie 133 148	angine instable
+T125	examen 187 203	épreuve d’effort
+T35	sosy 631 667	réaction allergique à la pénicilline
+T126	examen 777 795	créatinine sérique
+T127	valeur 799 808	97 µmol/L
+A6	norme T127 normal
+T129	anatomie 1070 1132	artère coronaire interventriculaire antérieure (IVA) proximale
+T132	anatomie 1459 1477	artères coronaires
+T133	pathologie 1552 1585	maladie athérosclérotique diffuse
+T134	pathologie 2244 2256	Dyslipidémie
+T135	mode 3387 3405	application locale
+T136	substance 3479 3496	Désensibilisation
+T137	substance 2510 2542	Désensibilisation au clopidogrel
+T138	examen 3277 3280	FSC
+T139	frequence 3281 3302	toutes les 2 semaines
+T140	frequence 3303 3314	2 fois/jour
+T141	duree 3315 3342	pendant les 3 premiers mois
+T142	frequence 3348 3360	1 x par mois
+T143	sosy 3808 3815	dyspnée
+A7	assertion T143 absent
+T144	sosy 3819 3825	oedème
+A8	assertion T144 absent
+T145	sosy 3831 3842	hypotension
+A9	assertion T145 absent
+T146	substance 4615 4647	désensibilisation au clopidogrel
+T147	substance 4906 4923	désensibilisation
+T148	sosy 5750 5766	hypersensibilité
+A10	assertion T148 absent
+T118	examen 731 755	indice de masse corporel
+T149	valeur 759 767	27 kg/m2
+A11	norme T149 haut
+T153	examen 1239 1314	score TIMI (Thrombolysis in Myocardial Infarction) de perfusion myocardique
+T155	valeur 1318 1323	trois
+T158	substance 2089 2121	désensibilisation au clopidogrel
+T152	mode 3361 3366	Crème
+T160	mode 2705 2717	sub-linguale
+A12	assertion T71 conditionnel
+T161	substance 2322 2349	Prévention de l’ostéoporose
+A13	prise T26 arrêt
+T162	moment 4123 4172	cinq jours après le début de la nouvelle thérapie
+T164	substance 5027 5044	désensibilisation
+T165	sosy 6349 6420	réaction allergique (rougeurs importantes au tronc, aux bras et au dos)
+T167	anatomie 6394 6399	tronc
+T168	anatomie 6405 6409	bras
+T169	anatomie 6416 6419	dos
+A14	assertion T165 hypothétique
+T172	sosy 6852 6868	hypersensibilité
+A15	assertion T172 absent
+T173	sosy 5614 5647	réaction aiguë d’hypersensibilité
+A16	assertion T173 hypothétique
+T174	moment 4046 4068	Dès les premiers jours
+T175	moment 3668 3721	Une semaine après le début de la prise du clopidogrel
+T176	substance 6088 6105	désensibilisation
+T185	mode 1293 1302	perfusion
+T186	anatomie 1303 1314	myocardique
+T187	traitement 1137 1151	pose du tuteur
+T188	traitement 1386 1390	pose
+T189	traitement 1754 1783	pose du tuteur pharmaco-actif
+T2	substance 254 272	médication usuelle
+T4	moment 288 317	durant son séjour hospitalier
+T7	moment 428 446	après la procédure
+T43	substance 497 518	médication habituelle
+T47	substance 540 555	produit naturel
+T102	substance 557 576	échantillon médical
+T131	substance 580 597	produit à l’étude
+T150	sosy 708 715	fumeuse
+A1	assertion T150 absent
+T151	moment 811 842	La veille de la coronarographie
+T156	dose 967 978	un comprimé
+T130	traitement 1055 1062	déployé
+T159	sosy 1182 1202	occlusion de 60-70 %
+T163	moment 1203 1222	avant la dilatation
+T154	examen 1352 1366	flux coronaire
+T179	traitement 1409 1427	autre intervention
+A2	assertion T179 absent
+A17	assertion T133 hypothétique
+T180	duree 1865 1877	à long terme
+T181	sosy 2011 2045	réaction allergique au clopidogrel
+T183	substance 3479 3511	Désensibilisation au clopidogrel
+T184	moment 3522 3560	14 jours après le début du clopidogrel
+A18	prise T27 arrêt
+T190	traitement 4444 4467	mise en place du tuteur
+T191	duree 5092 5100	15 doses
+T192	moment 5250 5300	le matin même de la procédure de désensibilisation
+T193	duree 5332 5348	toute la journée
+T194	examen 5404 5417	signes vitaux
+T195	sosy 5448 5470	réactions indésirables
+T196	moment 5471 5490	durant le protocole
+T197	moment 5798 5852	durant l’application du protocole de désensibilisation
+T198	moment 5854 5888	Avant son départ en fin de journée
+T199	moment 6209 6227	jusqu’au lendemain
+T200	sosy 6251 6267	réaction tardive
+A19	assertion T200 possible
+T201	moment 6421 6478	dans les heures ou les jours suivant la désensibilisation
+T202	moment 6694 6746	une semaine après le traitement de désensibilisation
+T203	sosy 171 230	résultats d’une épreuve d’effort cliniquement significative
+T206	moment 6590 6618	lors de la désensibilisation
+T207	sosy 1239 1323	score TIMI (Thrombolysis in Myocardial Infarction) de perfusion myocardique de trois
+T1	sosy 1352 1376	flux coronaire normalisé
+T157	substance 683 689	bières
+T166	dose 678 682	deux
+T170	frequence 690 698	par jour
+T171	sosy 731 767	indice de masse corporel de 27 kg/m2
+T177	sosy 777 808	créatinine sérique de 97 µmol/L
+T40	anatomie 1357 1366	coronaire
+T128	examen 6650 6668	suivi téléphonique
+T208	peau 4250 4254	rash
+T178	cardiovasculaires 133 148	angine instable
+T204	cardiovasculaires 1894 1928	maladie athéroslclérotique diffuse
+T205	immunitaire 2011 2045	réaction allergique au clopidogrel
+T210	chimiques 2011 2045	réaction allergique au clopidogrel
+T209	immunitaire 631 667	réaction allergique à la pénicilline
+T212	chimiques 631 667	réaction allergique à la pénicilline
+T213	cardiovasculaires 2235 2241	Angine
+T214	cardiovasculaires 2259 2282	Hypertension artérielle
+T215	endocriniennes 2306 2319	Hypothyroïdie
+T216	nutritionnelles 2244 2256	Dyslipidémie
+T217	immunitaire 3236 3252	hypersensibilité
+T218	peau 3749 3753	rash
+T219	peau 3768 3790	démangeaisons au tronc
+T220	peau 4073 4077	rash
+T221	peau 4085 4098	démangeaisons
+T222	peau 4177 4181	rash
+T223	peau 4189 4202	démangeaisons
+T224	etatsosy 133 148	angine instable
+T182	etatsosy 2235 2241	Angine
+T225	nutritionnelles 2285 2303	Diabète de type II
+T226	endocriniennes 2285 2303	Diabète de type II
+T211	genre 16 20	dame
+A20	genre T211 féminin
+T227	age 29 35	72 ans
+T228	origine 120 148	diagnostic d’angine instable
+T229	issue 6748 6868	La patiente a confirmé son observance de la prise de clopidogrel et l’absence de récidive de réaction d’hypersensibilité
+A21	issue T229 amélioration

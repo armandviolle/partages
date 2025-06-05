@@ -1,0 +1,6 @@
+T1	age 18 24	56 ans
+T2	genre 4 9	femme
+A1	genre T2 féminin
+T3	origine 232 391	des mouvements anormaux, spontanés et involontaires de l’hémicorps droit, de type choréique, brusques, de durée brève et rapide, s’aggravant la nuit au sommeil
+T4	issue 1684 1833	L'évolution a été marquée par une régression progressive des mouvements involontaires au bout de 72 heures ainsi qu’une correction de l'hyperglycémie
+A2	issue T4 amélioration

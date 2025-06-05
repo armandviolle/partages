@@ -1,0 +1,6 @@
+T1	genre 12 24	une patiente
+T2	age 33 39	45 ans
+A1	genre T1 féminin
+T3	origine 250 370	douleurs abdominales diffuses évoluant depuis trois jours, associées à des vomissements et arrêt des matières et des gaz
+T4	issue 1436 1558	Les suites post opératoires étaient simples et le rétablissement de la continuité digestive était effectué deux mois après
+A2	issue T4 guérison

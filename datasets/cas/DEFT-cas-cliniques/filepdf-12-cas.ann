@@ -1,0 +1,103 @@
+T3	examen 1071 1075	SGOT
+T47	anatomie 110 128	urèthre membraneux
+T4	examen 1102 1106	SGPT
+T2	examen 1133 1136	LDH
+T20	examen 1245 1260	fonction rénale
+T40	anatomie 1254 1260	rénale
+T36	valeur 1284 1292	normales
+T44	traitement 1298 1308	traitement
+T31	anatomie 1341 1359	membres inférieurs
+T49	substance 1397 1407	antalgique
+T17	examen 1450 1467	diurèse osmotique
+T37	valeur 1545 1558	normalisation
+T16	examen 1574 1585	biologiques
+T8	moment 1586 1617	3 semaines après l’intervention
+T1	moment 1646 1662	6 mois plus tard
+T51	examen 174 186	endoscopique
+T56	moment 1803 1831	A trois ans post-opératoires
+T10	sosy 1859 1873	asymptomatique
+T7	sosy 195 205	antécédent
+T14	examen 231 250	bilan préopératoire
+T39	moment 237 250	préopératoire
+T33	valeur 257 263	normal
+T23	traitement 268 280	intervention
+T6	traitement 301 320	anesthésie générale
+T38	anatomie 379 394	peau préputiale
+T22	traitement 413 456	installé en position de lithotomie exagérée
+T24	traitement 472 484	intervention
+T42	sosy 545 552	sténose
+T55	etatsosy 662 703	oedèmes bilatéraux des membres inférieurs
+T29	anatomie 685 703	membres inférieurs
+T43	traitement 70 128	traitement d’une sténose récidivée de l’urèthre membraneux
+T19	examen 780 822	examen neurologique des membres inférieurs
+T32	anatomie 787 799	neurologique
+T30	anatomie 804 822	membres inférieurs
+T34	valeur 829 835	normal
+T41	sosy 87 128	sténose récidivée de l’urèthre membraneux
+T9	anatomie 888 896	artériel
+T35	valeur 897 903	normal
+T48	anatomie 934 941	veineux
+T13	examen 946 962	bilan biologique
+T5	homme 87 128	sténose récidivée de l’urèthre membraneux
+T11	homme 545 552	sténose
+T12	etatsosy 569 606	intense réaction inflammatoire locale
+A1	assertion T7 absent
+T15	substance 1381 1393	myorelaxants
+T18	duree 1469 1483	En trois jours
+T26	valeur 1078 1085	410 U/L
+T27	valeur 1109 1116	291 U/L
+T28	valeur 1139 1147	1233 U/L
+T45	examen 1167 1170	CPK
+T50	valeur 1173 1182	14935 U/L
+T52	traitement 342 394	uréthroplastie par patch pédiculé de peau préputiale
+T53	age 18 24	20 ans
+T54	genre 3 10	patient
+A2	genre T54 masculin
+T57	mode 361 375	patch pédiculé
+T58	examen 839 851	écho-doppler
+T59	examen 1267 1275	kaliémie
+T60	examen 1621 1637	électromyogramme
+T21	valeur 1022 1034	14 635 ng/ml
+A3	norme T21 bas
+T46	examen 1006 1019	myoglobinémie
+T25	valeur 1188 1196	37 – 186
+A4	norme T50 haut
+T61	valeur 1153 1160	230-460
+A5	norme T28 haut
+T62	valeur 1122 1126	3-46
+A6	norme T27 haut
+T63	valeur 1091 1095	3-46
+A7	norme T26 haut
+T64	examen 1206 1214	aldolase
+T65	sosy 662 703	oedèmes bilatéraux des membres inférieurs
+T66	sosy 736 776	syndrome de loge par compressi on locale
+T67	valeur 1217 1224	7,4 U/L
+A8	norme T67 haut
+T68	valeur 1230 1239	0,5 – 3,1
+T69	traitement 1324 1359	surélévation des membres inférieurs
+T70	sosy 1676 1800	discrète dénervation en cours de récupération dans les territoires des nerfs sciatiques poplités interne et externe à gauche
+T71	nerveux 736 776	syndrome de loge par compressi on locale
+T72	blessures 736 776	syndrome de loge par compressi on locale
+T73	traitement 160 187	uréthrotomies endoscopiques
+T74	sosy 231 263	bilan préopératoire était normal
+T75	duree 494 502	6 heures
+T76	valeur 554 558	5 cm
+T77	sosy 569 606	intense réaction inflammatoire locale
+T78	anatomie 600 606	locale
+T79	moment 630 657	en post opératoire immédiat
+T80	anatomie 670 680	bilatéraux
+T81	sosy 780 835	examen neurologique des membres inférieurs était normal
+T82	sosy 883 903	flux artériel normal
+T83	sosy 913 941	diminution du retour veineux
+T84	sosy 987 1034	augmentation de la myoglobinémie à 14 635 ng/ml
+T85	sosy 1054 1085	augmentation des SGOT à 410 U/L
+T86	sosy 1102 1116	SGPT à 291 U/L
+T87	sosy 1133 1147	LDH à 1233 U/L
+T88	sosy 1167 1182	CPK à 14935 U/L
+T89	sosy 1206 1224	aldolase à 7,4 U/L
+T90	sosy 1245 1292	fonction rénale et la kaliémie étaient normales
+T91	traitement 1415 1467	remplissage abondant associé à une diurèse osmotique
+T92	sosy 1524 1537	signes locaux
+A9	assertion T92 absent
+T93	sosy 1545 1585	normalisation des paramètres biologiques
+T94	anatomie 1731 1800	territoires des nerfs sciatiques poplités interne et externe à gauche

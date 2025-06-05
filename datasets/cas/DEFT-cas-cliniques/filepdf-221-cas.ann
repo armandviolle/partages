@@ -1,0 +1,6 @@
+T1	genre 0 6	Madame
+T2	age 20 26	34 ans
+A1	genre T1 féminin
+T3	origine 190 213	une tumeur de la vessie
+T4	issue 1152 1235	La cystoscopie de surveillance 3 mois après la résection n’a pas montré de récidive
+A2	issue T4 amélioration

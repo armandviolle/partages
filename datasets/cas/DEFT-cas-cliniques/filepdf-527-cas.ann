@@ -1,0 +1,53 @@
+T2	duree 1040 1056	en 4 à 12 heures
+T20	sosy 190 211	troubles de la vision
+T1	etatsosy 213 238	troubles de la conscience
+T4	anatomie 254 270	cardiovasculaire
+T17	anatomie 367 371	sang
+T25	examen 375 385	ionogramme
+T9	examen 450 465	fonction rénale
+T14	anatomie 459 465	rénale
+T7	examen 473 495	examens toxicologiques
+T37	substance 497 504	éthanol
+T31	substance 506 514	methanol
+T8	examen 535 555	examens biochimiques
+T10	examen 608 623	fonction rénale
+T15	anatomie 617 623	rénale
+T13	valeur 632 639	normaux
+T6	dose 836 841	505 g
+T3	dose 844 849	682 g
+T11	traitement 876 887	hémodialyse
+T12	valeur 970 978	normales
+T18	anatomie 990 994	sang
+T5	substance 794 801	éthanol
+T21	mode 805 819	intragastrique
+T22	genre 16 22	hommes
+A1	genre T22 masculin
+T26	substance 67 92	alcool d'origine inconnue
+T28	valeur 43 64	environ un demi litre
+T29	moment 94 127	Dix à 36 heures après l'ingestion
+T30	chimiques 151 174	intoxication méthylique
+T32	nerveux 190 211	troubles de la vision
+T33	oeil 190 211	troubles de la vision
+T34	etatsosy 190 211	troubles de la vision
+T35	cardiovasculaires 242 270	défaillance cardiovasculaire
+T36	moment 309 341	16 à 63 heures après l'ingestion
+T38	examen 360 371	gaz du sang
+T16	valeur 755 759	50 %
+T19	examen 740 751	créatinémie
+T23	duree 850 867	en 30 à 36 heures
+T24	duree 916 930	18 à 21 heures
+T39	examen 983 994	gaz du sang
+T40	duree 1009 1025	en 6 à 11 heures
+T41	examen 1034 1036	pH
+T42	examen 1065 1081	réserve alcaline
+T27	nerveux 213 238	troubles de la conscience
+T43	sosy 213 238	troubles de la conscience
+T44	sosy 242 270	défaillance cardiovasculaire
+T45	substance 164 174	méthylique
+T46	sosy 608 639	fonction rénale étaient normaux
+T47	sosy 740 759	créatinémie de 50 %
+T48	sosy 962 994	valeurs normales des gaz du sang
+T49	issue 1114 1120	décédé
+A2	issue T49 décès
+T50	sosy 1126 1160	valeurs ne se sont pas normalisées
+T51	sosy 151 174	intoxication méthylique

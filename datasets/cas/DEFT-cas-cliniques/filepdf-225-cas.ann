@@ -1,0 +1,6 @@
+T1	age 18 24	19 ans
+T2	genre 2957 2968	La patiente
+A1	genre T2 féminin
+T3	origine 84 256	hématurie terminale intermittente et troubles mictionnels irritatifs sévères évoluant dans un tableau d’altération de l’état général, avec aménorrhée secondaire et diarrhée
+T4	issue 2957 3014	La patiente est toujours vivante avec un recul de 30 mois
+A2	issue T4 amélioration

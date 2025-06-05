@@ -1,0 +1,6 @@
+T1	genre 12 24	une patiente
+T2	age 28 34	42 ans
+A1	genre T1 féminin
+T3	origine 73 273	obstruction nasale et rhinorrhée aqueuse droite, parfois sanguinolente, compliquées d'algies faciales et sensation de pesanteur évoluant depuis un an dans un contexte de conservation de l’état général
+T4	issue 1404 1467	Aucune récidive macroscopique n’est notée avec 8 mois de recul.
+A2	issue T4 amélioration

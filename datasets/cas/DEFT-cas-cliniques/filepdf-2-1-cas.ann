@@ -1,0 +1,86 @@
+T48	anatomie 1047 1057	urétérales
+T30	valeur 1099 1112	normalisation
+T24	examen 1119 1129	créatinine
+T5	etatsosy 1152 1162	dilatation
+T46	anatomie 1246 1260	chaque uretère
+T21	examen 1267 1286	contrôles réguliers
+T36	frequence 1277 1286	réguliers
+T1	tumeur 129 145	cancer du rectum
+T25	examen 1293 1306	créatininémie
+T79	anatomie 1314 1339	cavités pyélo-calicielles
+T63	valeur 1364 1376	satisfaisant
+T34	anatomie 139 145	rectum
+T9	femme 176 207	insuffisance rénale obstructive
+T38	anatomie 189 195	rénale
+T22	examen 224 234	créatinine
+T2	sosy 240 279	dilatation des cavités pyélocalicielles
+T91	anatomie 255 279	cavités pyélocalicielles
+T43	examen 300 324	scanner abdomino-pelvien
+T90	anatomie 308 324	abdomino-pelvien
+T10	sosy 345 362	récidive tumorale
+T29	examen 368 386	marqueurs tumoraux
+T41	traitement 38 58	résection antérieure
+T31	valeur 395 402	normaux
+T44	sosy 461 516	sténose serrée régulière et filiforme des deux uretères
+T47	anatomie 503 516	deux uretères
+T45	anatomie 562 569	uretère
+T7	etatsosy 596 614	douleurs lombaires
+T28	anatomie 605 614	lombaires
+T12	traitement 64 92	anastomose colorectale basse
+T39	anatomie 649 655	rénale
+T23	examen 687 697	créatinine
+T64	sosy 704 744	dilatation des cavités pyélo-calicielles
+T77	anatomie 719 744	cavités pyélo-calicielles
+T55	anatomie 75 92	colorectale basse
+T27	examen 884 899	fonction rénale
+T40	anatomie 893 899	rénale
+T65	sosy 947 987	dilatation des cavités pyélo-calicielles
+T33	traitement 96 123	radiothérapie néo-adjuvante
+T78	anatomie 962 987	cavités pyélo-calicielles
+T3	valeur 210 220	140 mmol/l
+T4	examen 284 295	échographie
+T6	age 16 22	53 ans
+T8	genre 4 12	patiente
+A1	assertion T10 absent
+A2	norme T3 haut
+#1	AnnotatorNotes T3	Normal entre 50 et 100 chez la femme
+T17	femme 636 655	insuffisance rénale
+T18	valeur 673 683	300 µmol/L
+A3	norme T18 haut
+T19	examen 408 438	urétéropyélographie rétrograde
+T20	femme 461 516	sténose serrée régulière et filiforme des deux uretères
+T14	examen 760 771	échographie
+T26	moment 571 591	Deux jours plus tard
+T11	moment 1378 1397	à six mois de suivi
+T13	duree 1163 1177	en une semaine
+T15	examen 1344 1355	échographie
+A4	genre T8 féminin
+T16	dispositif 871 880	sondes JJ
+T32	dispositif 1040 1077	sondes urétérales simples 7 Charrière
+T35	dispositif 1183 1210	sonde double J tréflée ch 7
+T37	dispositif 993 1002	sondes JJ
+T42	dispositif 799 808	sondes JJ
+T49	valeur 1212 1220	22-33 cm
+T50	examen 827 830	ASP
+T51	digestif 129 145	cancer du rectum
+T52	etatsosy 240 279	dilatation des cavités pyélocalicielles
+T53	etatsosy 704 744	dilatation des cavités pyélo-calicielles
+T54	etatsosy 947 987	dilatation des cavités pyélo-calicielles
+T56	substance 110 123	néo-adjuvante
+T57	sosy 210 234	140 mmol/l de créatinine
+T58	sosy 368 402	marqueurs tumoraux étaient normaux
+T59	mode 428 438	rétrograde
+T60	dispositif 522 536	sonde double J
+T61	traitement 522 549	sonde double J a été montée
+T62	sosy 673 697	300 µmol/L de créatinine
+T66	traitement 842 880	mise en place de 2 nouvelles sondes JJ
+T67	dispositif 859 880	2 nouvelles sondes JJ
+T68	sosy 884 924	fonction rénale n'a cessé de se dégrader
+T69	traitement 993 1077	sondes JJ ont été à nouveau remplacées par des sondes urétérales simples 7 Charrière
+T70	sosy 1099 1129	normalisation de la créatinine
+T71	sosy 1136 1162	égression de la dilatation
+T72	traitement 1183 1240	sonde double J tréflée ch 7, 22-33 cm a été mise en place
+T73	pathologie 129 145	cancer du rectum
+T74	pathologie 176 207	insuffisance rénale obstructive
+T75	sosy 596 614	douleurs lombaires
+T76	pathologie 636 655	insuffisance rénale

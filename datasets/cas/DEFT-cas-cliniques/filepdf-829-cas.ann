@@ -1,0 +1,6 @@
+T1	genre 17 32	une jeune fille
+T2	age 36 42	17 ans
+A1	genre T1 féminin
+T3	origine 158 412	un tableau clinique fait de douleurs abdominales diffuses à prédominance pelvienne évoluant sur un mode paroxystique accompagnés de vomissements intermittents avec notion de constipation le tout évolue dans un contexte de fièvre, d’asthénie et d’anorexie
+T4	issue 3144 3294	l’examen cyto-bacteriologique du liquide de ponction est revenu négatif et la patiente est asymptomatique et sans recidives sur un recule de trois ans
+A2	issue T4 guérison

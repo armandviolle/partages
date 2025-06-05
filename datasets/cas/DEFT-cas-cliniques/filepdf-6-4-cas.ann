@@ -1,0 +1,40 @@
+T5	examen 216 229	urée sanguine
+T6	valeur 232 241	10 mmol/l
+T7	sosy 175 206	insuffisance rénale obstructive
+T8	anatomie 188 194	rénale
+T9	examen 258 282	urographie intraveineuse
+T10	mode 269 282	intraveineuse
+T11	pathologie 104 126	prolapsus de stade III
+T12	duree 77 100	depuis plusieurs années
+T13	sosy 296 356	dilatation urétéropyélocalicielle bilatérale très importante
+T14	anatomie 307 340	urétéropyélocalicielle bilatérale
+T15	examen 361 379	tension artérielle
+T16	valeur 387 391	12/8
+T18	examen 496 509	urée sanguine
+T19	valeur 516 526	6,4 mmol/l
+A3	norme T16 normal
+A4	norme T6 haut
+A5	norme T19 normal
+T21	traitement 49 59	césarienne
+T22	moment 470 492	quatre jours plus tard
+T25	anatomie 369 379	artérielle
+T1	valeur 117 126	stade III
+T2	sosy 216 250	urée sanguine à 10 mmol/l de sérum
+T4	sosy 361 391	tension artérielle est de 12/8
+T17	sosy 496 526	urée sanguine est à 6,4 mmol/l
+T20	traitement 552 584	geste chirurgical complémentaire
+A1	assertion T20 absent
+T23	traitement 396 423	mise en place d'un pessaire
+T3	anatomie 221 229	sanguine
+T24	anatomie 245 250	sérum
+T26	anatomie 501 509	sanguine
+T27	femme 175 206	insuffisance rénale obstructive
+T28	femme 104 126	prolapsus de stade III
+T29	etatsosy 104 126	prolapsus de stade III
+T30	femme 296 340	dilatation urétéropyélocalicielle bilatérale
+T31	genre 0 5	Femme
+A2	genre T31 féminin
+T32	age 9 15	73 ans
+T33	origine 101 126	un prolapsus de stade III
+T34	issue 393 461	La mise en place d'un pessaire améliore très rapidement la situation
+A6	issue T34 amélioration

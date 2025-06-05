@@ -1,0 +1,60 @@
+T6	examen 203 218	examen clinique
+T7	examen 391 423	fibroscopie oeso-gastroduodénale
+T5	examen 507 514	biopsie
+T8	examen 559 587	tomodensitométrie abdominale
+T9	anatomie 577 587	abdominale
+T4	duree 68 85	depuis trois mois
+T10	examen 856 874	étude histologique
+T11	sosy 35 67	douleurs périombilicale intenses
+T12	anatomie 44 58	périombilicale
+T13	sosy 91 99	douleurs
+T14	sosy 124 136	vomissements
+T15	sosy 142 161	troubles du transit
+A2	assertion T15 absent
+T17	sosy 177 197	hémorragie digestive
+A3	assertion T17 absent
+T18	sosy 231 255	empâtement sus-ombilical
+T19	anatomie 242 255	sus-ombilical
+T20	sosy 261 291	pâleur cutanéomuqueuse diffuse
+T21	anatomie 268 283	cutanéomuqueuse
+T22	examen 296 312	bilan biologique
+T23	pathologie 326 354	anémie à 9g/dl d’hémoglobine
+T24	valeur 335 340	9g/dl
+T25	substance 343 354	hémoglobine
+T26	pathologie 362 386	hypo albuminémie à 28g/l
+T27	valeur 381 386	28g/l
+T28	anatomie 403 423	oeso-gastroduodénale
+T29	pathologie 440 459	gastrite congestive
+T30	sosy 465 498	atrophie des villosités duodénale
+T31	anatomie 478 498	villosités duodénale
+T32	pathologie 537 553	maladie cœliaque
+T33	sosy 603 634	épaississement pariétal jéjunal
+T34	anatomie 618 634	pariétal jéjunal
+T35	pathologie 675 681	tumeur
+T36	anatomie 694 715	angle duodéno-jéjunal
+T37	traitement 757 789	résection segmentaire du jéjunum
+T38	anatomie 782 789	jéjunum
+T39	pathologie 830 836	tumeur
+T40	pathologie 924 975	adénocarcinome lieberkuhien moyennement différencié
+T41	pathologie 980 996	maladie cœliaque
+T44	moment 636 653	En per-opératoire
+T1	anatomie 188 197	digestive
+A1	assertion T32 possible
+T2	sosy 721 751	autres localisations tumorales
+A4	assertion T2 absent
+T3	etatsosy 35 67	douleurs périombilicale intenses
+T16	etatsosy 91 99	douleurs
+T42	etatsosy 124 136	vomissements
+T43	hemopathies 326 332	anémie
+T45	hemopathies 362 378	hypo albuminémie
+T46	digestif 440 459	gastrite congestive
+T47	tumeur 675 681	tumeur
+T48	tumeur 830 836	tumeur
+T49	digestif 980 996	maladie cœliaque
+T50	tumeur 924 975	adénocarcinome lieberkuhien moyennement différencié
+T52	etatsosy 362 378	hypo albuminémie
+T51	nutritionnelles 980 996	maladie cœliaque
+T53	genre 0 8	Patiente
+A5	genre T53 féminin
+T54	age 12 18	45 ans
+T55	origine 31 67	des douleurs périombilicale intenses

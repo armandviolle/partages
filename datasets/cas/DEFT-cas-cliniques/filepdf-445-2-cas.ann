@@ -1,0 +1,6 @@
+T1	genre 0 13	Un technicien
+T2	age 32 38	26 ans
+T3	origine 43 61	découvert sans vie
+A1	genre T1 masculin
+T4	issue 53 61	sans vie
+A2	issue T4 décès

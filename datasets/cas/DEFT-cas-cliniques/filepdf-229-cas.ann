@@ -1,0 +1,6 @@
+T1	genre 0 8	Monsieur
+T2	age 22 28	66 ans
+A1	genre T1 masculin
+T3	origine 172 195	une tumeur testiculaire
+T4	issue 3355 3443	le malade était classé stade IV selon la classification d'Ann Arbor modifié par Musshoff
+A2	issue T4 stable

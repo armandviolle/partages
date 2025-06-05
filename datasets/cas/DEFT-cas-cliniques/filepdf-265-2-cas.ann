@@ -1,0 +1,6 @@
+T1	genre 0 10	Un patient
+T2	age 14 20	42 ans
+A1	genre T1 masculin
+T3	origine 45 68	un UB de la main droite
+T4	issue 1100 1221	Le patient était resté hospitalisé pour UB de la main. L'érection était restée satisfaisante sans déformation de la verge
+A2	issue T4 guérison

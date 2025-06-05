@@ -1,0 +1,29 @@
+T1	sosy 72 119	Victime d’un accident de la voie publique (AVP)
+T2	sosy 146 161	tassement de T3
+T3	anatomie 159 161	T3
+T4	sosy 169 202	compression de la moelle épinière
+T5	anatomie 187 202	moelle épinière
+T6	sosy 252 278	irritabilité relationnelle
+T7	sosy 287 308	manque de coopération
+T9	sosy 359 379	examen psychiatrique
+T10	substance 410 435	traitement antidépresseur
+T11	traitement 458 483	psychothérapie de soutien
+T12	traitement 313 318	soins
+T13	traitement 326 348	séances de rééducation
+T14	traitement 593 613	soins de rééducation
+T15	examen 633 661	consultations psychiatriques
+T17	sosy 669 692	bonne évolution motrice
+T18	anatomie 685 692	motrice
+T19	sosy 698 736	acquisition d’une autonomie suffisante
+T8	anatomie 366 379	psychiatrique
+T16	anatomie 647 661	psychiatriques
+T20	blessures 146 161	tassement de T3
+T21	osteomusculaires 146 161	tassement de T3
+T22	nerveux 169 202	compression de la moelle épinière
+T23	blessures 169 202	compression de la moelle épinière
+T24	genre 6 13	patient
+T25	age 17 23	21 ans
+A1	genre T24 masculin
+T26	origine 72 213	Victime d’un accident de la voie publique (AVP) avec comme conséquence un tassement de T3 et une compression de la moelle épinière (voir Rx1)
+T27	issue 665 736	une bonne évolution motrice avec acquisition d’une autonomie suffisante
+A2	issue T27 amélioration

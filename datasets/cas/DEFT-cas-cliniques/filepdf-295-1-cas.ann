@@ -1,0 +1,80 @@
+T1	pathologie 35 63	rhabdomyosarcome de prostate
+A1	etat T1 passé
+T2	anatomie 55 63	prostate
+T3	date 80 92	juillet 1996
+T4	sosy 120 144	rétention aigue d'urines
+T5	substance 189 203	chimiothérapie
+T6	sosy 223 249	stabilisation de la lésion
+T7	sosy 268 285	reprise évolutive
+T8	moment 286 303	au bout de 3 mois
+T9	traitement 309 322	radiothérapie
+T10	substance 358 386	chimiothérapie de rattrapage
+T11	sosy 407 428	réponse satisfaisante
+A2	assertion T11 absent
+T12	date 450 459	juin 1997
+T13	traitement 536 559	indication chirurgicale
+T14	traitement 577 600	prostatectomie radicale
+T15	traitement 616 641	hémicystectomie trigonale
+T16	traitement 647 689	réimplantation urétéro-vésicale bilatérale
+T17	anatomie 662 689	urétéro-vésicale bilatérale
+T18	examen 762 779	anatomopathologie
+T19	sosy 798 887	rhabdomyosarcome embryonnaire de haut grade et les marges chirurgicales étaient positives
+T20	date 904 913	août 1997
+T21	sosy 954 960	anurie
+T22	sosy 977 1010	eprise évolutive de sa pathologie
+T23	examen 1028 1039	TDM pelvien
+T24	anatomie 1032 1039	pelvien
+T25	sosy 1057 1126	ostéolyse du sacrum adjacente à un processus expansif de 4 x 2 x 1 cm
+T26	anatomie 1070 1076	sacrum
+T27	valeur 1114 1126	4 x 2 x 1 cm
+T28	moment 1138 1155	un mois plus tard
+T29	examen 1160 1211	examen anatomopathologique de la tumeur prostatique
+T30	sosy 1193 1211	tumeur prostatique
+T31	anatomie 1200 1211	prostatique
+T32	sosy 1240 1362	Elle infiltrait l'ensemble des lobes droit et gauche, la section urétrale, les vésicules séminales et la muqueuse vésicale
+T33	anatomie 1271 1292	lobes droit et gauche
+T34	anatomie 1297 1313	section urétrale
+T35	anatomie 1319 1338	vésicules séminales
+T36	anatomie 1345 1362	muqueuse vésicale
+T37	sosy 1365 1480	'infiltration tumorale était visible au niveau de la sous-muqueuse ainsi que dans les tissus graisseux adventitiels
+T38	anatomie 1418 1431	sous-muqueuse
+T39	anatomie 1451 1480	tissus graisseux adventitiels
+T40	sosy 1498 1514	zones de nécrose
+T41	sosy 1532 1652	prolifération peu différenciée de cellules de petite taille, parfois fusiformes, qui prenaient un regroupement fasciculé
+T42	anatomie 1566 1574	cellules
+T43	sosy 1676 1754	noyaux allongés ou alors très atypiques, hyperchromatiques et très irréguliers
+T44	sosy 1760 1767	mitoses
+T45	sosy 1808 1865	tumeur présentait des zones de différenciation musculaire
+T46	anatomie 1855 1865	musculaire
+T47	sosy 1871 1997	cellules avaient alors un cytoplasme rubané, éosinophile, dont les prolongements présentaient volontiers des points de cassure
+T48	anatomie 1871 1879	cellules
+T49	sosy 2001 2046	autres cellules apparaissaient plus arrondies
+T50	anatomie 2008 2016	cellules
+T51	examen 2062 2087	étude immunohistochimique
+T52	sosy 2099 2272	réactivité positive sur les cellules tumorales pour la cyto-kératine KL1, pour HHF35, pour la vimentine, pour l'actine ainsi que pour la desmine, la myoglobine et la myosine
+T53	anatomie 2127 2135	cellules
+T54	substance 2154 2171	cyto-kératine KL1
+T55	substance 2178 2183	HHF35
+T56	substance 2193 2202	vimentine
+T57	substance 2211 2217	actine
+T58	substance 2236 2243	desmine
+T59	substance 2248 2258	myoglobine
+T60	substance 2265 2272	myosine
+T61	anatomie 138 144	urines
+T62	anatomie 1167 1186	anatomopathologique
+T63	valeur 2110 2118	positive
+T64	tumeur 35 63	rhabdomyosarcome de prostate
+T65	homme 35 63	rhabdomyosarcome de prostate
+T66	homme 120 144	rétention aigue d'urines
+T67	homme 1193 1211	tumeur prostatique
+T68	tumeur 1193 1211	tumeur prostatique
+T69	homme 954 960	anurie
+T70	tumeur 1808 1814	tumeur
+T71	etatsosy 1507 1514	nécrose
+T72	osteomusculaires 1057 1076	ostéolyse du sacrum
+T73	genre 0 8	Monsieur
+T74	age 13 19	23 ans
+A3	genre T73 masculin
+T75	origine 950 1126	une anurie associée à une reprise évolutive de sa pathologie confirmée par un TDM pelvien qui montrait une ostéolyse du sacrum adjacente à un processus expansif de 4 x 2 x 1 cm
+T76	issue 1131 1137	décéda
+A4	issue T76 décès

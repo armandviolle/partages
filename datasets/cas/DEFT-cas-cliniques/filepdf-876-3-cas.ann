@@ -1,0 +1,6 @@
+T1	age 23 29	13 ans
+T2	genre 9 15	garçon
+A1	genre T2 masculin
+T3	origine 66 179	des douleurs de l'hypochondre droit d'installation progressive, à type de pesanteur, associées à des vomissements
+T4	issue 1249 1287	Les suites opératoires étaient simples
+A2	issue T4 amélioration

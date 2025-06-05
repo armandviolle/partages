@@ -1,0 +1,6 @@
+T1	genre 0 6	Madame
+T2	age 21 27	54 ans
+A1	genre T1 féminin
+T3	origine 89 285	une hématurie terminale avec pollakiurie et brûlures mictionnels associée à des algies pelviennes sans trouble digestif ni méno-métrorragie évoluant dans un contexte d’altération de l'état général
+T4	issue 1975 2088	Avec un recul de 14 mois, la patiente présentait une ascite de grande abondance et des métastases multiviscérales
+A2	issue T4 détérioration

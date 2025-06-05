@@ -1,0 +1,46 @@
+T1	sosy 23 28	obèse
+T2	sosy 30 41	hypertendue
+T3	pathologie 45 65	diabétique de type 2
+T4	sosy 86 103	lombalgies droite
+T5	duree 113 125	depuis 5 ans
+T6	examen 129 144	examen clinique
+T7	valeur 151 157	normal
+T8	sosy 129 157	examen clinique était normal
+T9	examen 161 179	échographie rénale
+T10	anatomie 173 179	rénale
+T11	sosy 204 275	masse rénale droite polaire inférieure d’implantation large, anéchogène
+T12	anatomie 210 242	rénale droite polaire inférieure
+T13	examen 279 290	uro-scanner
+T14	sosy 307 356	image kystique multiloculaire avec effet de masse
+T15	sosy 370 397	extension maligne exorénale
+A1	assertion T15 absent
+T16	anatomie 388 397	exorénale
+T17	traitement 404 431	néphrectomie élargie droite
+T18	mode 436 453	voie sous-costale
+T19	traitement 495 511	cholécystectomie
+T20	sosy 521 578	coliques hépatiques récidivantes sur vésicule lithiasique
+T21	anatomie 530 540	hépatiques
+T22	anatomie 558 578	vésicule lithiasique
+T23	duree 586 600	plus de 10 ans
+T24	examen 604 618	suivi clinique
+T25	sosy 644 659	symptomatologie
+A2	assertion T25 absent
+T26	examen 666 681	fonction rénale
+T27	anatomie 675 681	rénale
+T28	valeur 698 705	normale
+T29	sosy 666 705	fonction rénale est strictement normale
+T30	etatsosy 23 28	obèse
+T31	etatsosy 30 41	hypertendue
+T32	endocriniennes 45 65	diabétique de type 2
+T33	nutritionnelles 45 65	diabétique de type 2
+T34	etatsosy 86 103	lombalgies droite
+T35	tumeur 307 336	image kystique multiloculaire
+T36	etatsosy 521 578	coliques hépatiques récidivantes sur vésicule lithiasique
+T37	cardiovasculaires 30 41	hypertendue
+T38	digestif 521 578	coliques hépatiques récidivantes sur vésicule lithiasique
+T39	genre 0 3	Mme
+T40	age 6 12	51 ans
+A3	genre T39 féminin
+T41	origine 82 125	des lombalgies droite évoluant depuis 5 ans
+T42	issue 580 705	Après plus de 10 ans de suivi clinique Mme R ne présente aucune symptomatologie et sa fonction rénale est strictement normale
+A4	issue T42 guérison

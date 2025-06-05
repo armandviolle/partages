@@ -1,0 +1,7 @@
+T1	origine 517 568	retrouvés par des témoins en état de mort apparente
+T2	age 54 56	30
+T3	age 63 69	33 ans
+T4	issue 819 862	Aucune activité cardiaque n’a été récupérée
+A1	issue T4 décès
+T5	genre 22 30	patients
+A2	genre T5 masculin

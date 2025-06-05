@@ -1,0 +1,6 @@
+T1	age 18 24	20 ans
+T2	genre 0 3	Mr.
+A1	genre T2 masculin
+T3	origine 83 235	un ballonnement abdominal avec pollakiurie et lombalgie bilatérales dans un contexte d'asthénie, d'amaigrissement et de fébricule évoluant depuis 3 mois
+T4	issue 1768 1795	L'évolution a été favorable
+A2	issue T4 amélioration

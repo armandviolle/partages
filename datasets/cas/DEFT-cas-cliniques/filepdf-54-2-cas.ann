@@ -1,0 +1,82 @@
+T13	anatomie 1063 1067	face
+T54	traitement 1095 1106	cystostomie
+T19	traitement 11 16	opéré
+T57	anatomie 1178 1194	intra-péritonéal
+T34	anatomie 1229 1235	vessie
+T28	traitement 1354 1360	suture
+T10	anatomie 138 146	détrusor
+T24	valeur 1491 1503	satisfaisant
+T40	traitement 1509 1522	auto-sondages
+T48	anatomie 183 210	voies urinaires supérieures
+T18	valeur 216 224	normales
+T58	age 237 242	9 ans
+T53	traitement 248 291	cystostomie continente trans-appendiculaire
+T35	anatomie 313 320	vésical
+T6	anatomie 344 347	col
+T8	anatomie 399 410	col vésical
+T23	traitement 426 446	reprise chirurgicale
+T39	traitement 495 508	auto-sondages
+T3	frequence 509 524	4 fois par jour
+T27	examen 569 581	surveillance
+T5	examen 59 75	bilan urologique
+T30	anatomie 705 713	urinaire
+T25	traitement 725 737	auto-sondage
+T4	moment 786 814	quelques semaines auparavant
+T2	homme 819 842	hématurie macroscopique
+T26	traitement 854 866	auto-sondage
+T32	anatomie 87 93	vessie
+T15	traitement 871 882	laparotomie
+T12	anatomie 936 969	face latérale gauche de la vessie
+T11	anatomie 981 985	dôme
+T1	genre 0 6	Lionel
+A1	genre T1 masculin
+T7	genetique 38 54	myéloméningocèle
+T22	nerveux 38 54	myéloméningocèle
+T37	moment 17 31	à la naissance
+T38	nerveux 87 106	vessie neurologique
+T41	homme 87 106	vessie neurologique
+T42	etatsosy 87 106	vessie neurologique
+T17	homme 117 146	hypocontractilité du détrusor
+T43	etatsosy 117 146	hypocontractilité du détrusor
+#1	AnnotatorNotes T17	détrusor distendu
+T44	homme 150 177	insuffisance sphinctérienne
+T45	etatsosy 150 177	insuffisance sphinctérienne
+T31	anatomie 271 291	trans-appendiculaire
+T46	traitement 331 347	fermeture du col
+T36	traitement 366 410	reperméabilisation secondaire du col vésical
+T20	age 654 660	13 ans
+T47	sosy 725 749	auto-sondage traumatique
+T49	infections 694 713	péritonite urinaire
+T50	homme 694 713	péritonite urinaire
+T14	blessures 924 985	plaie de la face latérale gauche de la vessie étendue au dôme
+T16	dispositif 1029 1034	sonde
+T33	examen 1112 1136	exploration chirurgicale
+T51	dispositif 1151 1156	sonde
+T21	sosy 1313 1321	ischémie
+A2	assertion T21 possible
+T9	dispositif 1380 1394	sonde de Foley
+T52	mode 1395 1415	trans-appendiculaire
+T29	duree 1437 1456	pour trois semaines
+T55	examen 1467 1490	contrôle cystographique
+T56	etatsosy 819 842	hématurie macroscopique
+T59	sosy 1010 1034	perforation par la sonde
+T60	blessures 725 749	auto-sondage traumatique
+T61	blessures 1010 1021	perforation
+T62	blessures 1326 1337	perforation
+T63	etatsosy 1257 1270	inflammatoire
+T64	anatomie 163 177	sphinctérienne
+T65	sosy 183 224	voies urinaires supérieures sont normales
+T66	traitement 298 320	agrandissement vésical
+A3	assertion T66 absent
+T67	traitement 452 471	fermeture itérative
+T68	sosy 1151 1224	sonde laissée en place est intra-péritonéale et passe à travers la brèche
+T69	sosy 1229 1270	vessie apparaît épaissie et inflammatoire
+T70	traitement 1380 1436	sonde de Foley trans-appendiculaire est laissée en place
+T71	pathologie 38 54	myéloméningocèle
+T72	pathologie 87 106	vessie neurologique
+T73	sosy 117 146	hypocontractilité du détrusor
+T74	sosy 150 177	insuffisance sphinctérienne
+T75	pathologie 694 713	péritonite urinaire
+T76	sosy 819 842	hématurie macroscopique
+T77	sosy 924 985	plaie de la face latérale gauche de la vessie étendue au dôme
+T78	sosy 1326 1337	perforation

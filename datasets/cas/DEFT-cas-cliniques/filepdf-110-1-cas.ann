@@ -1,0 +1,87 @@
+T17	anatomie 1206 1225	anatomopathologique
+T16	examen 1365 1376	échographie
+T15	examen 607 630	tomodensitométrie (TDM)
+T6	examen 1198 1225	analyse anatomopathologique
+T8	examen 1380 1391	cystoscopie
+T10	sosy 49 75	douleurs lombaires gauches
+T12	sosy 114 130	lombalgie gauche
+T18	sosy 132 145	fièvre à 39°C
+T19	sosy 147 153	pyurie
+T20	sosy 193 221	altération de l'état général
+T21	examen 387 398	échographie
+T22	anatomie 403 414	rein gauche
+T23	anatomie 635 646	rein gauche
+T24	anatomie 765 783	rein controlatéral
+T25	pathologie 846 857	pyonéphrose
+T26	pathologie 929 944	tumeur pyélique
+T27	traitement 966 986	néphro-urétérectomie
+T28	anatomie 1089 1093	rein
+T29	sosy 1121 1143	tumeur pyélocalicielle
+T30	anatomie 1128 1143	pyélocalicielle
+T31	anatomie 936 944	pyélique
+T32	pathologie 1238 1305	carcinome papillaire des voies excrétrices de bas grade (stade PT1)
+T33	examen 257 272	globules blancs
+T34	valeur 275 286	25 000/ mm3
+T35	examen 292 294	VS
+T36	valeur 297 303	100 mm
+T37	examen 331 356	leucocyturie amicrobienne
+T40	examen 227 243	bilan biologique
+T42	examen 1046 1068	examens morphologiques
+T45	valeur 790 796	normal
+T47	examen 433 439	volume
+T52	sosy 157 187	masse palpable du flanc gauche
+T53	anatomie 175 187	flanc gauche
+T46	anatomie 442 449	cavités
+T56	sosy 539 591	masse pyélique fixe, échogène à contours irréguliers
+T58	anatomie 674 681	cavités
+T60	sosy 724 760	masse pyélique de densité tissulaire
+A3	norme T45 normal
+T41	anatomie 730 738	pyélique
+T62	anatomie 545 553	pyélique
+T64	sosy 862 898	syndrome de jonction pyélo-urétérale
+T65	anatomie 883 898	pyélo-urétérale
+A4	assertion T64 possible
+T66	pathologie 1089 1108	rein pyonéphrotique
+T67	anatomie 1263 1280	voies excrétrices
+T68	valeur 1295 1304	stade PT1
+T69	sosy 1311 1332	inflexion épidermoïde
+T70	anatomie 1321 1332	épidermoïde
+T71	moment 1393 1412	à 6 mois et 12 mois
+T2	anatomie 58 75	lombaires gauches
+T3	sosy 403 529	rein gauche était augmenté de volume à cavités très dilatées dont le contenu est finement échogène, hétérogène, pyonéphrotique
+T4	sosy 635 711	rein gauche était augmenté de volume à cavités dilatées à contenu hétérogène
+T5	sosy 257 286	globules blancs à 25 000/ mm3
+T7	sosy 292 323	VS à 100 mm à la première heure
+T9	sosy 331 380	leucocyturie amicrobienne à la culture des urines
+T11	sosy 765 796	rein controlatéral était normal
+T14	valeur 1418 1425	normaux
+T38	duree 32 45	au long passé
+T39	examen 990 1010	aspect macroscopique
+T43	examen 1338 1363	contrôles postopératoires
+T44	valeur 141 145	39°C
+T1	anatomie 374 380	urines
+T13	moment 304 323	à la première heure
+A1	norme T44 haut
+T48	etatsosy 49 75	douleurs lombaires gauches
+T49	etatsosy 114 130	lombalgie gauche
+T50	infections 147 153	pyurie
+T51	homme 147 153	pyurie
+T54	homme 846 857	pyonéphrose
+T55	homme 862 898	syndrome de jonction pyélo-urétérale
+T57	tumeur 929 944	tumeur pyélique
+T59	homme 929 944	tumeur pyélique
+T63	homme 1089 1108	rein pyonéphrotique
+T73	tumeur 1121 1143	tumeur pyélocalicielle
+T74	homme 1121 1143	tumeur pyélocalicielle
+T75	virales 1238 1293	carcinome papillaire des voies excrétrices de bas grade
+T76	tumeur 1238 1293	carcinome papillaire des voies excrétrices de bas grade
+T77	homme 1238 1293	carcinome papillaire des voies excrétrices de bas grade
+T78	tumeur 1311 1332	inflexion épidermoïde
+T79	homme 1311 1332	inflexion épidermoïde
+T80	peau 1311 1332	inflexion épidermoïde
+T61	genre 11 16	homme
+T72	age 24 30	30 ans
+A2	genre T61 masculin
+T82	origine 114 221	lombalgie gauche, fièvre à 39°C, pyurie et masse palpable du flanc gauche avec altération de l'état général
+T81	issue 1334 1425	Les contrôles postopératoires (échographie et cystoscopie) à 6 mois et 12 mois sont normaux
+A5	issue T81 amélioration

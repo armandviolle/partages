@@ -1,0 +1,213 @@
+T121	examen 1036 1073	tomodensitométrie vertébrale lombaire
+T67	anatomie 1054 1073	vertébrale lombaire
+T74	valeur 1081 1088	normale
+T54	examen 1094 1113	examens biologiques
+T4	hemopathies 1140 1160	anémie inflammatoire
+T160	etatsosy 115 152	calculs radio-opaques asymptomatiques
+T61	examen 1169 1187	taux d’hémoglobine
+T19	examen 1204 1207	CRP
+T12	homme 1230 1249	insuffisance rénale
+T109	anatomie 1243 1249	rénale
+T40	examen 1323 1336	créatininémie
+T137	moment 1350 1354	à J1
+T138	moment 1360 1364	à J2
+T143	sosy 115 185	calculs radio-opaques asymptomatiques, caliciels supérieurs bilatéraux
+T9	nutritionnelles 1400 1413	hyperkaliémie
+T140	examen 1419 1430	échographie
+T89	anatomie 1509 1537	pôle supérieur du rein droit
+T149	anatomie 154 185	caliciels supérieurs bilatéraux
+T15	tumeur 1554 1571	tumeur de ce rein
+T99	anatomie 1567 1571	rein
+T228	cardiovasculaires 1586 1622	thrombus de la veine cave inférieure
+T131	anatomie 1601 1622	veine cave inférieure
+T93	examen 1627 1650	radiographie pulmonaire
+T84	anatomie 1640 1650	pulmonaire
+T85	anatomie 1690 1700	pulmonaire
+T75	valeur 1707 1714	normale
+T123	examen 1792 1820	tomodensitométrie abdominale
+T23	anatomie 1810 1820	abdominale
+T104	anatomie 1844 1854	rein droit
+T30	sosy 1844 1934	rein droit muet, globalement augmenté de volume, tumoral, sans déformation de ses contours
+T135	anatomie 1967 1986	veine rénale droite
+T132	anatomie 1996 2036	veine cave inférieure sus et sous rénale
+T136	anatomie 2114 2133	veine rénale gauche
+T13	homme 2196 2215	insuffisance rénale
+T113	anatomie 2209 2215	rénale
+T44	examen 2244 2262	cytologie urinaire
+T128	anatomie 2254 2262	urinaire
+T22	examen 2266 2303	UPR (Urétéro-pyélographie rétrograde)
+T20	examen 2307 2347	IRM (Imagerie par Résonnance Magnétique)
+T81	traitement 2407 2412	opéré
+T66	date 241 253	janvier 1998
+T101	anatomie 2448 2466	rein controlatéral
+T16	date 106 110	1987
+T55	examen 2527 2538	exploration
+T70	sosy 2552 2629	volumineuse masse rénale mesurant 11cm x 8cm x 7cm, envahissant le hile rénal
+T114	anatomie 2570 2576	rénale
+T107	anatomie 2619 2629	hile rénal
+T57	anatomie 2729 2733	foie
+T72	valeur 2740 2746	normal
+T83	examen 2752 2761	palpation
+T80	traitement 2767 2794	néphrectomie droite élargie
+T52	anatomie 2780 2786	droite
+T11	homme 293 316	hématurie macroscopique
+T115	anatomie 2963 2980	rénale bilatérale
+T231	cardiovasculaires 3025 3041	thrombus tumoral
+T43	traitement 3056 3074	curage lymphonodal
+T69	anatomie 3063 3074	lymphonodal
+T26	anatomie 3156 3175	anatomopathologique
+T236	tumeur 3191 3228	carcinome à cellules transitionnelles
+T39	anatomie 3203 3211	cellules
+T163	etatsosy 324 347	douleurs du flanc droit
+T1	hemopathies 3245 3257	adénopathies
+T63	traitement 3352 3364	intervention
+T56	anatomie 336 347	flanc droit
+T41	examen 3370 3383	créatininémie
+T18	valeur 3392 3402	145 mmol/L
+T119	examen 3407 3428	scintigraphie osseuse
+T82	anatomie 3421 3428	osseuse
+T76	valeur 3435 3442	normale
+T94	examen 3447 3470	radiographie pulmonaire
+T86	anatomie 3460 3470	pulmonaire
+T21	examen 351 381	UIV (Urographie IntraVeineuse)
+T64	traitement 3591 3603	intervention
+T25	sosy 3664 3692	altération de l’état général
+T33	examen 3729 3749	bilan complémentaire
+T14	tumeur 3800 3817	récidive tumorale
+T78	traitement 3842 3854	néphrectomie
+T286	pathologie 3899 3920	métastases hépatiques
+T62	anatomie 3910 3920	hépatiques
+T155	anatomie 3870 3881	rachidienne
+T95	traitement 3926 3951	radiothérapie rachidienne
+T79	traitement 3970 3982	néphrectomie
+T161	etatsosy 399 406	calculs
+T27	substance 3991 4001	antalgique
+T274	age 4 10	51 ans
+T65	traitement 4061 4073	intervention
+T88	anatomie 410 438	pôle supérieur du rein droit
+T47	anatomie 74 86	coronarienne
+T38	anatomie 456 473	cavité calicielle
+T37	anatomie 540 561	groupe caliciel moyen
+T31	anatomie 568 582	bassinet droit
+T90	anatomie 606 635	pôle supérieur du rein gauche
+T58	anatomie 799 809	coronarien
+T141	examen 668 686	échographie rénale
+T108	anatomie 680 686	rénale
+T73	valeur 710 717	normale
+T3	etatsosy 750 764	angor instable
+T120	date 850 864	septembre 1998
+T24	sosy 905 933	altération de l’état général
+T68	anatomie 948 959	bilatérales
+T45	duree 969 982	depuis 1 mois
+T32	examen 987 1007	bilan rhumatologique
+T2	traitement 784 809	double pontage coronarien
+T5	nerveux 905 933	altération de l’état général
+T6	etatsosy 905 933	altération de l’état général
+T7	valeur 1190 1198	10.2g/dl
+T8	valeur 1210 1213	121
+T10	moment 1370 1374	à J3
+T17	moment 1380 1384	à J4
+T35	valeur 1339 1349	289 mmol/L
+T36	valeur 1356 1359	392
+T42	valeur 1366 1369	606
+T46	valeur 1376 1379	867
+T53	sosy 324 347	douleurs du flanc droit
+T71	etatsosy 293 316	hématurie macroscopique
+T77	sosy 293 316	hématurie macroscopique
+T28	cardiovasculaires 61 86	insuffisance coronarienne
+T48	sosy 399 438	calculs du pôle supérieur du rein droit
+T49	sosy 521 582	désorganisation du groupe caliciel moyen et du bassinet droit
+T91	sosy 588 635	calculs situés au pôle supérieur du rein gauche
+A1	assertion T91 absent
+T92	cardiovasculaires 750 764	angor instable
+T96	sosy 750 764	angor instable
+T97	etatsosy 937 959	lombalgies bilatérales
+T98	sosy 61 86	insuffisance coronarienne
+T50	mode 2490 2523	bi-sous costale trans péritonéale
+T51	anatomie 2635 2666	lymphatiques péri aortico-caves
+T59	sosy 2635 2694	lymphatiques péri aortico-caves étaient très inflammatoires
+T87	traitement 2897 2946	clampage cave au dessus et au dessous du thrombus
+T100	anatomie 2051 2068	extrémité distale
+T102	cardiovasculaires 2938 2946	thrombus
+T103	traitement 2952 2980	veinotomie rénale bilatérale
+T105	traitement 2988 2997	cavotomie
+T34	traitement 3013 3051	ablation du thrombus tumoral en entier
+T106	cardiovasculaires 2072 2080	thrombus
+T110	cardiovasculaires 1666 1679	cardiomégalie
+T111	etatsosy 1666 1679	cardiomégalie
+T112	sosy 1939 1986	envahissement tumoral de la veine rénale droite
+T116	sosy 2114 2157	veine rénale gauche était également envahie
+T117	sosy 2711 2724	adénomégalies
+T118	etatsosy 2856 2889	importante réaction inflammatoire
+T122	sosy 2856 2889	importante réaction inflammatoire
+T124	moment 3331 3346	un mois et demi
+T125	moment 3573 3585	A trois mois
+T126	nerveux 3664 3692	altération de l’état général
+T127	etatsosy 3664 3692	altération de l’état général
+T129	nerveux 3698 3713	lombosciatalgie
+T130	etatsosy 3698 3713	lombosciatalgie
+T133	sosy 3698 3724	lombosciatalgie de type L2
+T134	nutritionnelles 3765 3778	hypercalcémie
+T60	sosy 3800 3854	récidive tumorale au niveau de la loge de néphrectomie
+T139	osteomusculaires 3860 3881	ostéolyse rachidienne
+T142	anatomie 3940 3951	rachidienne
+T144	digestif 3899 3920	métastases hépatiques
+T145	tumeur 3899 3920	métastases hépatiques
+T146	moment 4037 4052	au dixième mois
+T29	issue 4028 4036	décédait
+A2	issue T29 décès
+A3	norme T35 haut
+A4	norme T36 haut
+A5	norme T42 haut
+A6	norme T46 haut
+A7	norme T18 haut
+A8	norme T7 bas
+A9	norme T8 haut
+T147	sosy 1497 1537	lithiase du pôle supérieur du rein droit
+T148	valeur 2586 2602	11cm x 8cm x 7cm
+T150	tumeur 3779 3794	paranéoplasique
+T151	homme 115 152	calculs radio-opaques asymptomatiques
+T152	homme 1497 1537	lithiase du pôle supérieur du rein droit
+T153	homme 1554 1571	tumeur de ce rein
+T154	tumeur 1939 2036	envahissement tumoral de la veine rénale droite et de la veine cave inférieure sus et sous rénale
+T156	etatsosy 2680 2694	inflammatoires
+T157	etatsosy 2711 2724	adénomégalies
+T158	tumeur 3025 3041	thrombus tumoral
+T159	homme 1939 2036	envahissement tumoral de la veine rénale droite et de la veine cave inférieure sus et sous rénale
+T162	traitement 206 216	traitement
+A10	assertion T162 absent
+T164	sosy 456 488	cavité calicielle devenue exclue
+T165	sosy 668 717	échographie rénale était considérée comme normale
+T166	sosy 1036 1088	tomodensitométrie vertébrale lombaire, était normale
+T167	sosy 1169 1198	taux d’hémoglobine à 10.2g/dl
+T168	sosy 1204 1213	CRP à 121
+T169	sosy 1286 1297	oligoanurie
+T170	sosy 1323 1384	créatininémie à 289 mmol/L à J1, 392 à J2, 606 à J3, 867 à J4
+T171	moment 1451 1481	le jour de son hospitalisation
+T172	sosy 1684 1714	trame pulmonaire était normale
+T173	anatomie 2089 2109	sous diaphragmatique
+T174	sosy 2051 2109	extrémité distale du thrombus restant sous diaphragmatique
+T175	mode 2292 2302	rétrograde
+A11	assertion T44 absent
+A12	assertion T22 absent
+A13	assertion T20 absent
+T176	sosy 2729 2746	foie était normal
+T177	anatomie 2906 2910	cave
+T178	sosy 3245 3305	adénopathies étaient de nature réactionnelles, non tumorales
+T179	sosy 3370 3402	créatininémie était à 145 mmol/L
+T180	sosy 3407 3442	scintigraphie osseuse était normale
+T181	traitement 3522 3532	traitement
+A14	assertion T181 absent
+T182	anatomie 3722 3724	L2
+T183	anatomie 3885 3893	L1 et L2
+T184	sosy 937 959	lombalgies bilatérales
+T185	sosy 1140 1160	anémie inflammatoire
+T186	pathologie 1230 1249	insuffisance rénale
+T187	sosy 1400 1413	hyperkaliémie
+T188	sosy 1554 1571	tumeur de ce rein
+T189	sosy 1586 1622	thrombus de la veine cave inférieure
+T190	sosy 1666 1679	cardiomégalie
+T191	pathologie 2196 2215	insuffisance rénale
+T192	pathologie 3191 3228	carcinome à cellules transitionnelles
+T193	sosy 3765 3794	hypercalcémie paranéoplasique
+T194	pathologie 3860 3893	ostéolyse rachidienne de L1 et L2

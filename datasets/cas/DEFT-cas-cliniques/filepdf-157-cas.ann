@@ -1,0 +1,107 @@
+T1	pathologie 49 57	gastrite
+A1	etat T1 passé
+T2	sosy 64 84	torsion testiculaire
+T3	anatomie 72 84	testiculaire
+T4	moment 85 99	dans l’enfance
+T5	examen 145 150	bilan
+T6	sosy 154 164	lombalgies
+T7	sosy 196 210	hernie discale
+T8	anatomie 203 210	discale
+T9	sosy 216 226	lombalgies
+T10	sosy 257 298	volumineux calcul pyélique du rein gauche
+T11	anatomie 275 283	pyélique
+T12	anatomie 287 298	rein gauche
+T13	traitement 329 363	néphrolithotomie percutanée (NLPC)
+T14	mode 346 356	percutanée
+T15	traitement 394 406	néphrostomie
+T16	moment 419 446	la veille de l’intervention
+T17	traitement 451 463	intervention
+T19	sosy 483 572	lithiase de couleur brun clair était très dure et a nécessité l’utilisation du lithoclast
+T20	sosy 577 593	saignement actif
+T21	traitement 613 625	intervention
+T22	traitement 658 715	mise en place d’une JJ 7/26 et d’un drain de néphrostomie
+T23	anatomie 724 732	bassinet
+T24	moment 735 747	Au 5ème jour
+T25	sosy 769 786	choc hémorragique
+T26	examen 790 801	hémoglobine
+T27	valeur 818 826	4 mmol/l
+T28	examen 830 841	hématocrite
+T29	valeur 844 847	20%
+T30	sosy 790 826	hémoglobine est descendue à 4 mmol/l
+T31	sosy 830 847	hématocrite à 20%
+T32	mode 865 874	transfusé
+T33	dose 878 879	4
+T34	substance 880 898	culots globulaires
+T35	traitement 902 910	embolisé
+T36	sosy 968 978	saignement
+T37	anatomie 995 1014	artère pré-pyélique
+T38	traitement 1048 1060	néphrostomie
+T39	moment 1080 1092	Au 8ème jour
+T40	sosy 1097 1107	saignement
+T41	examen 1142 1156	artériographie
+T42	sosy 1172 1207	petite lésion artérielle résiduelle
+T43	anatomie 1186 1196	artérielle
+T44	traitement 1221 1233	embolisation
+T45	substance 1265 1278	cyanoacrylate
+T46	moment 1292 1305	Au 19ème jour
+T47	sosy 1332 1343	hématurique
+T48	sosy 1348 1373	saignement était noirâtre
+T50	sosy 1393 1403	apyrétique
+T51	sosy 1405 1418	symptomatique
+T52	traitement 1431 1439	drainage
+A3	assertion T52 absent
+T53	sosy 1452 1471	cystoscopie normale
+T54	examen 1452 1463	cystoscopie
+T55	valeur 1464 1471	normale
+T56	examen 1509 1523	artériographie
+T57	valeur 1536 1543	normale
+T58	sosy 1509 1543	artériographie qui s’avéra normale
+T59	mode 1571 1580	transfusé
+T61	valeur 1647 1652	53 fl
+T62	valeur 1704 1709	95 fl
+T63	sosy 1746 1756	saignement
+T64	examen 1585 1637	dosage du volume moyen des globules rouges urinaires
+T65	sosy 1585 1652	dosage du volume moyen des globules rouges urinaires mesuré à 53 fl
+T66	examen 1673 1694	érythrocytes sanguins
+T67	sosy 1673 1709	érythrocytes sanguins mesuré à 95 fl
+T68	sosy 1767 1779	glomérulaire
+T69	sosy 1798 1836	infarctus du parenchyme rénal embolisé
+T70	anatomie 1811 1827	parenchyme rénal
+T71	substance 1880 1895	anti-coagulants
+T72	sosy 1961 1983	hématurie de sang noir
+A4	assertion T72 absent
+T73	duree 1993 2005	en 48 heures
+T74	moment 2030 2038	à 1 mois
+T75	examen 2048 2072	urographie intraveineuse
+T76	mode 2059 2072	intraveineuse
+T77	valeur 2073 2092	sans particularités
+T80	moment 2145 2154	dans 1 an
+T81	examen 2164 2184	scintigraphie rénale
+T82	anatomie 2178 2184	rénale
+T49	substance 947 963	micro-particules
+T78	sosy 2048 2092	urographie intraveineuse sans particularités
+T83	sosy 2099 2115	bon état général
+T60	substance 1897 1905	Héparine
+T18	anatomie 1612 1637	globules rouges urinaires
+T84	anatomie 1974 1978	sang
+T79	anatomie 1686 1694	sanguins
+T85	digestif 49 57	gastrite
+T86	homme 64 84	torsion testiculaire
+T87	etatsosy 154 164	lombalgies
+T88	etatsosy 196 210	hernie discale
+T89	etatsosy 216 226	lombalgies
+T90	etatsosy 1097 1107	saignement
+T91	etatsosy 1746 1756	saignement
+T92	etatsosy 968 978	saignement
+T93	etatsosy 577 593	saignement actif
+T94	etatsosy 483 529	lithiase de couleur brun clair était très dure
+T95	etatsosy 769 786	choc hémorragique
+T96	etatsosy 1332 1343	hématurique
+T97	etatsosy 1348 1373	saignement était noirâtre
+T98	etatsosy 1798 1827	infarctus du parenchyme rénal
+T99	genre 0 8	Monsieur
+T100	age 22 28	36 ans
+A2	genre T99 masculin
+T101	origine 145 164	bilan de lombalgies
+T102	issue 2008 2115	Le patient a été revu à 1 mois avec une urographie intraveineuse sans particularités et un bon état général
+A5	issue T102 amélioration

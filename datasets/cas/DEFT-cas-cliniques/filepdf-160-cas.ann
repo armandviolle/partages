@@ -1,0 +1,119 @@
+T62	sosy 1041 1246	masse rétropéritonéale droite mesurant 22 cm de grand axe refoulant à l’extérieur le rein droit dépassant la ligne médiane en engainant l’aorte, la veine cave inférieure et venant au contact du rein gauche
+T86	anatomie 1047 1070	rétropéritonéale droite
+T4	valeur 1080 1098	22 cm de grand axe
+T19	etatsosy 112 128	lombo-sciatalgie
+T81	anatomie 1126 1136	rein droit
+T69	mode 1156 1163	médiane
+T21	anatomie 1179 1184	aorte
+T101	anatomie 1189 1210	veine cave inférieure
+T83	anatomie 1235 1246	rein gauche
+T63	sosy 1254 1370	masse hypodense s’est rehaussée de façon hétérogène par le produit de contraste essentiellement au niveau des septas
+T75	substance 1313 1333	produit de contraste
+T112	etatsosy 1396 1404	nécroses
+T90	sosy 146 161	symptomatologie
+T54	examen 1498 1537	imagerie par résonance magnétique (IRM)
+T64	sosy 1553 1689	masse abdomino-pelvienne latéro-vertébrale droite, rétro-péritonéale avec extension à gauche de la ligne médiane de caractère hétérogène
+T15	anatomie 1559 1602	abdomino-pelvienne latéro-vertébrale droite
+T85	anatomie 1604 1621	rétro-péritonéale
+T65	sosy 1697 1768	masse présentait un hyposignal en mode T1 et un hypersignal en mode T 2
+T56	anatomie 1800 1841	intra-canalaire épidurale latérale droite
+T2	etatsosy 187 196	pesanteur
+T33	anatomie 1855 1889	trou de conjugaison droit de L2-L3
+T55	traitement 1911 1923	intervention
+T66	sosy 2001 2155	masse ferme encapsulée, blanc nacrée de 25 cm de grand axe refoulant le rein droit en arrière et la veine cave inférieure et l’aorte en dedans et en avant
+T6	valeur 2041 2059	25 cm de grand axe
+T82	anatomie 2073 2083	rein droit
+T102	anatomie 2101 2122	veine cave inférieure
+T22	anatomie 2128 2133	aorte
+T67	sosy 2163 2215	masse était adhérente au plan profond (muscle psoas)
+T59	sosy 222 287	masse de l’hypochondre droit augmentant progressivement de taille
+T3	tumeur 2307 2374	tumeur de la veine cave inférieure, de l’aorte puis du muscle psoas
+T103	anatomie 2320 2341	veine cave inférieure
+T52	anatomie 233 250	hypochondre droit
+T23	anatomie 2348 2353	aorte
+T124	anatomie 2386 2404	colonne vertébrale
+T48	examen 2424 2473	examen anatomopathologique de la pièce opératoire
+T16	anatomie 2431 2450	anatomopathologique
+T68	sosy 2490 2581	masse de 2390 g, mesurant 25x15x12 cm, encapsulée à la coupe blanc-nacrée, d’aspect myxoïde
+T5	valeur 2516 2527	25x15x12 cm
+T29	anatomie 2629 2652	cellules ganglionnaires
+T11	tumeur 2680 2697	stroma schwannien
+T87	sosy 2703 2722	signes de malignité
+T18	pathologie 2735 2755	ganglioneurome bénin
+T170	sosy 2819 2834	récidive locale
+T20	pathologie 30 68	antécédents pathologiques particuliers
+T42	anatomie 320 327	droites
+T8	moment 329 342	A l’admission
+T27	sosy 365 381	bon état général
+T24	sosy 383 393	apyrétique
+T91	examen 403 421	tension artérielle
+T25	anatomie 411 421	artérielle
+T7	valeur 424 435	150/90 mmHg
+T46	examen 439 455	examen abdominal
+T13	anatomie 446 455	abdominal
+T60	sosy 469 648	masse dure bien limitée, s’étendant de l’hypochondre droit jusqu’à la fosse iliaque droite, sensible à la palpation, mobile par rapport au plan superficiel et fixe au plan profond
+T53	anatomie 510 527	hypochondre droit
+T49	anatomie 539 559	fosse iliaque droite
+T72	examen 575 584	palpation
+T109	anatomie 653 671	colonne vertébrale
+T28	osteomusculaires 687 714	scoliose à convexité droite
+T61	sosy 724 788	masse douloureuse latéro-vértébrale droite à projection lombaire
+T37	anatomie 742 766	latéro-vértébrale droite
+T57	anatomie 780 788	lombaire
+T88	examen 794 814	signes neurologiques
+T71	anatomie 801 814	neurologiques
+T44	examen 827 845	examen urogénitale
+T97	anatomie 834 845	urogénitale
+T95	sosy 864 882	troubles urinaires
+T96	anatomie 873 882	urinaires
+T58	sosy 90 106	masse abdominale
+T12	examen 911 935	abdomen sans préparation
+T113	osteomusculaires 952 979	scoliose à convexité droite
+T14	anatomie 96 106	abdominale
+T93	examen 995 1018	tomodensitométrie (TDM)
+A1	assertion T20 absent
+T1	age 17 23	18 ans
+T30	sosy 187 196	pesanteur
+T31	nerveux 112 128	lombo-sciatalgie
+T32	sosy 112 128	lombo-sciatalgie
+T34	sosy 794 814	signes neurologiques
+A2	assertion T34 absent
+T35	etatsosy 303 327	lombosciatalgies droites
+T36	nerveux 303 327	lombosciatalgies droites
+T39	sosy 303 327	lombosciatalgies droites
+T41	sosy 888 897	hématurie
+A3	assertion T41 absent
+A4	assertion T95 absent
+T9	valeur 2499 2505	2390 g
+T10	sosy 2629 2697	cellules ganglionnaires matures regroupées dans un stroma schwannien
+A5	assertion T170 absent
+T17	genre 0 4	Mlle
+T26	moment 2835 2861	après un recul d’une année
+A6	genre T17 féminin
+A7	norme T7 haut
+T38	anatomie 2362 2374	muscle psoas
+T40	mode 1943 1980	voie bi-sous-costale transpéritonéale
+T43	anatomie 2202 2214	muscle psoas
+T45	sosy 1463 1494	stigmate d’envahissement direct
+A8	assertion T45 absent
+T47	sosy 1379 1404	larges plages de nécroses
+T50	cardiovasculaires 2307 2374	tumeur de la veine cave inférieure, de l’aorte puis du muscle psoas
+T51	osteomusculaires 2307 2374	tumeur de la veine cave inférieure, de l’aorte puis du muscle psoas
+T70	duree 174 178	1 an
+T73	sosy 403 435	tension artérielle à 150/90 mmHg
+T74	sosy 653 714	colonne vertébrale présentait une scoliose à convexité droite
+T76	anatomie 1364 1370	septas
+T77	anatomie 1440 1457	organes adjacents
+T78	sosy 1426 1457	refoulait les organes adjacents
+T79	anatomie 1652 1665	ligne médiane
+T84	sosy 1790 1889	extension intra-canalaire épidurale latérale droite à travers le trou de conjugaison droit de L2-L3
+T80	anatomie 2239 2275	trous de conjugaisons L2-L3 et L3-L4
+T89	sosy 2221 2275	envahissement des trous de conjugaisons L2-L3 et L3-L4
+T92	traitement 2281 2404	libération complète de la tumeur de la veine cave inférieure, de l’aorte puis du muscle psoas jusqu’à la colonne vertébrale
+T94	anatomie 2457 2473	pièce opératoire
+T98	examen 2595 2611	Histologiquement
+A9	assertion T87 absent
+A10	assertion T18 possible
+T99	pathologie 952 979	scoliose à convexité droite
+T100	anatomie 973 979	droite
+T104	sosy 2307 2374	tumeur de la veine cave inférieure, de l’aorte puis du muscle psoas

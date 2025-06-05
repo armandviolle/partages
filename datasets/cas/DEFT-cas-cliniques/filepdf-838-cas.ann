@@ -1,0 +1,115 @@
+T1001	anatomie 132 149	palpébrale gauche
+T1002	anatomie 190 205	ophtalmologique
+T1003	anatomie 807 810	dos
+T1004	anatomie 1008 1028	lobe temporal gauche
+T1005	anatomie 1165 1188	artère sylvienne gauche
+T1006	anatomie 1275 1284	cérébrale
+T1007	anatomie 1371 1394	artère sylvienne gauche
+T10051	duree 159 178	depuis la naissance
+T10061	examen 183 205	examen ophtalmologique
+T10062	examen 420 429	palpation
+T10063	examen 652 673	examen de l’œil droit
+T10065	examen 705 719	examen général
+T100161	valeur 576 582	normal
+T100162	valeur 1085 1092	stade 3
+T100195	sosy 600 623	nodules iriens de Lisch
+T100196	sosy 864 880	autres anomalies
+T100198	sosy 1139 1221	anévrysme sacciforme de l’artère sylvienne gauche de 19*23mm avec un collet de 3mm
+T100199	sosy 1415 1444	malformation artério-veineuse
+T1008	examen 277 291	tonus oculaire
+T1009	examen 247 272	compte les doigts de loin
+T10011	anatomie 347 373	paupière supérieure gauche
+T10014	examen 629 639	fond d’œil
+T10015	anatomie 664 673	œil droit
+T10016	anatomie 636 639	œil
+T10019	anatomie 786 793	cutanés
+T10020	sosy 732 761	plusieurs taches café au lait
+T10022	anatomie 968 992	petite aile du sphénoïde
+T10024	sosy 1073 1092	exophtalmie stade 3
+T10026	valeur 1127 1134	16*18mm
+T10027	valeur 1218 1221	3mm
+T10028	valeur 1192 1199	19*23mm
+T10030	anatomie 1428 1444	artério-veineuse
+T10035	sosy 1533 1554	neurofibromes cutanés
+T10036	anatomie 1547 1554	cutanés
+T10038	anatomie 1575 1599	petite aile du sphénoïde
+T10040	anatomie 1714 1724	vasculaire
+T20064	examen 826 843	reste de l’examen
+T200191	sosy 34 58	antécédents particuliers
+T200192	sosy 126 149	masse palpébrale gauche
+T200193	sosy 477 547	limitation des mouvements d’abduction et d’élévation du globe oculaire
+T200199	sosy 1327 1394	anévrysme géant sur le trajet proximal de l’artère sylvienne gauche
+T200200	sosy 1705 1752	atteinte vasculaire à type d’anévrysme cérébral
+T2008	pathologie 87 90	NF1
+T2009	examen 229 244	acuité visuelle
+T20010	anatomie 236 244	visuelle
+T20012	anatomie 283 291	oculaire
+T20013	valeur 294 301	10 mmhg
+T20014	sosy 277 301	tonus oculaire à 10 mmhg
+T20015	sosy 307 409	neurofibrome plexiforme important de la paupière supérieure gauche (Figure1 a, b) cachant l’axe visuel
+T20017	anatomie 399 409	axe visuel
+T20018	sosy 430 454	3 nodules centimétriques
+T20019	pathologie 460 471	exophtalmie
+T20020	anatomie 533 547	globe oculaire
+T20021	anatomie 552 569	segment antérieur
+T20022	sosy 552 582	segment antérieur était normal
+T20026	valeur 682 700	sans particularité
+T20027	sosy 629 700	fond d’œil ainsi que l’examen de l’œil droit étaient sans particularité
+T20029	sosy 772 810	neurofibromes cutanés au niveau du dos
+T20031	examen 887 939	TDM orbitaire avec injection de produit de contraste
+T20032	mode 906 915	injection
+T20034	anatomie 891 900	orbitaire
+T20035	sosy 953 992	agénésie de la petite aile du sphénoïde
+T20036	sosy 998 1054	hernie du lobe temporal gauche dans l’orbite homolatéral
+T20037	anatomie 1036 1054	orbite homolatéral
+T20039	sosy 1098 1134	neurofibromes sous cutané de 16*18mm
+T20040	anatomie 1112 1123	sous cutané
+T20043	anatomie 1208 1214	collet
+T20046	examen 1262 1294	angiographie cérébrale numérisée
+T20049	sosy 1475 1510	neurofibrome plexiforme de paupière
+T20050	anatomie 1502 1510	paupière
+T20052	sosy 1512 1531	taches café au lait
+T20055	sosy 1560 1599	agénésie de la petite aile du sphénoïde
+T20057	pathologie 1636 1674	neurofibromatose de Von Recklinghausen
+T20059	anatomie 1744 1752	cérébral
+T20060	anatomie 608 614	iriens
+T20066	anatomie 1357 1365	proximal
+A1	assertion T200191 absent
+A2	assertion T2008 absent
+#1	AnnotatorNotes T2008	neurofibromatose 1 (NF1) ou maladie de Von Recklinghausen
+A3	norme T100161 normal
+A4	norme T20026 normal
+A5	assertion T100196 absent
+T1	substance 919 939	produit de contraste
+A6	etat T2008 familial
+T2	valeur 440 454	centimétriques
+A7	assertion T100195 absent
+T3	oeil 460 471	exophtalmie
+T4	tumeur 1636 1674	neurofibromatose de Von Recklinghausen
+T5	nerveux 1636 1674	neurofibromatose de Von Recklinghausen
+T6	genetique 1636 1674	neurofibromatose de Von Recklinghausen
+T7	cardiovasculaires 1734 1752	anévrysme cérébral
+T8	nerveux 1734 1752	anévrysme cérébral
+T9	cardiovasculaires 1139 1159	anévrysme sacciforme
+T10	cardiovasculaires 1327 1342	anévrysme géant
+T11	tumeur 1098 1123	neurofibromes sous cutané
+T12	nerveux 1098 1123	neurofibromes sous cutané
+T13	tumeur 772 793	neurofibromes cutanés
+T14	nerveux 772 793	neurofibromes cutanés
+T15	oeil 1073 1092	exophtalmie stade 3
+T16	nerveux 953 992	agénésie de la petite aile du sphénoïde
+T17	genetique 953 992	agénésie de la petite aile du sphénoïde
+T18	tumeur 307 373	neurofibrome plexiforme important de la paupière supérieure gauche
+T19	nerveux 307 373	neurofibrome plexiforme important de la paupière supérieure gauche
+T20	tumeur 1475 1510	neurofibrome plexiforme de paupière
+T21	nerveux 1475 1510	neurofibrome plexiforme de paupière
+T22	tumeur 1533 1554	neurofibromes cutanés
+T23	nerveux 1533 1554	neurofibromes cutanés
+T24	nerveux 1560 1599	agénésie de la petite aile du sphénoïde
+T25	genetique 1560 1599	agénésie de la petite aile du sphénoïde
+#2	AnnotatorNotes T16	agénésie de l'encéphale
+T26	etatsosy 998 1028	hernie du lobe temporal gauche
+T27	genre 0 3	Mme
+T28	age 21 27	38 ans
+A8	genre T27 féminin
+T29	origine 122 178	une masse palpébrale gauche évoluant depuis la naissance

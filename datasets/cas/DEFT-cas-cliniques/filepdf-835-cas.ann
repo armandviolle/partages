@@ -1,0 +1,121 @@
+T199	substance 1029 1045	insulinothérapie
+T173	substance 1079 1097	bi-antibiothérapie
+T48	substance 1115 1128	métronidazole
+T60	examen 1159 1181	prélèvement des urines
+T18	anatomie 116 125	abdominal
+T66	anatomie 1175 1181	urines
+T149	dispositif 1211 1253	sonde vésicale transurétrale à trois voies
+T75	anatomie 1217 1225	vésicale
+T143	traitement 1275 1289	lavage vésical
+T73	anatomie 1282 1289	vésical
+T2	femme 1308 1311	UHN
+T67	anatomie 1340 1346	urines
+T10	etatsosy 135 146	pollakiurie
+T81	examen 1402 1420	évolution clinique
+T31	examen 1422 1432	biologique
+T170	examen 1436 1448	radiologique
+T22	sosy 1481 1489	apyrexie
+T39	examen 1521 1534	créatininémie
+T9	etatsosy 154 163	hématurie
+T69	examen 1556 1560	urée
+T17	examen 1578 1581	CRP
+T33	genre 16 21	femme
+T36	examen 1610 1632	contrôle échographique
+T3	femme 1662 1665	UHN
+T43	examen 167 173	examen
+T137	moment 1704 1708	à J7
+T21	substance 1737 1752	antibiothérapie
+T77	moment 174 189	à son admission
+T70	mode 1757 1767	voie orale
+T57	duree 1779 1797	pendant 3 semaines
+T7	etatsosy 205 211	fièvre
+T28	temperature 214 220	38,8°C
+T62	examen 264 282	tension artérielle
+T24	anatomie 272 282	artérielle
+T32	valeur 283 294	100/60 mmhg
+T6	etatsosy 303 310	douleur
+T51	examen 316 325	palpation
+T44	anatomie 332 353	fosse lombaire droite
+T26	examen 358 374	bilan biologique
+T76	moment 375 388	à l’admission
+T8	etatsosy 402 418	hyperleucocytose
+T25	valeur 421 429	16680/ml
+T16	examen 435 438	CRP
+T11	valeur 441 451	163,1 mg/l
+T38	examen 457 475	créatinine sérique
+T4	sosy 49 59	diabétique
+T68	examen 492 496	urée
+T14	valeur 499 507	1,69mg/l
+T45	examen 512 520	glycémie
+T23	valeur 538 543	5 g/l
+T151	sosy 567 574	acidose
+T79	examen 599 629	échographie abdomino-pelvienne
+T19	anatomie 611 629	abdomino-pelvienne
+T15	examen 636 639	ASP
+T204	etatsosy 728 756	pyélonéphrite emphysémateuse
+T27	anatomie 789 799	bilatérale
+T194	sosy 867 904	globe vésicale sous muqueux décollant
+T61	anatomie 882 894	sous muqueux
+T53	anatomie 936 958	parenchyme rénal droit
+T5	etatsosy 968 1014	dilatation des cavités calicielles bilatérales
+T35	anatomie 983 1014	cavités calicielles bilatérales
+A1	norme T25 haut
+A2	norme T28 haut
+A3	norme T32 bas
+A4	genre T33 féminin
+A5	assertion T4 absent
+T37	duree 74 88	depuis 7 jours
+T30	substance 244 258	antipyrétiques
+T40	sosy 303 353	douleur à la palpation de la fosse lombaire droite
+T42	valeur 478 484	42mg/l
+T20	substance 1108 1111	C3G
+T41	nutritionnelles 549 558	cétonurie
+A6	assertion T151 absent
+T46	femme 690 712	cystite emphysémateuse
+T47	etatsosy 690 712	cystite emphysémateuse
+T49	sosy 912 958	présence de gaz dans le parenchyme rénal droit
+T52	sosy 968 1014	dilatation des cavités calicielles bilatérales
+T29	examen 1316 1346	culture bactérienne des urines
+#1	AnnotatorNotes T2	urétérohydronéphrose
+T13	valeur 1544 1552	17,5mg/l
+T34	valeur 1563 1571	0,22 g/l
+A7	norme T34 normal
+T12	valeur 1584 1594	10, 1 mg/l
+T50	duree 1595 1605	en 7 jours
+A8	norme T13 haut
+A9	norme T42 bas
+A10	norme T14 bas
+T54	duree 1490 1496	en 24h
+T55	valeur 1384 1398	34399,4.UFC/ml
+T56	infections 1360 1381	Klebsiella Pneumoniae
+T58	examen 805 811	uroTDM
+A11	norme T12 haut
+A12	norme T11 haut
+T59	age 30 36	26 ans
+T63	sosy 93 125	augmentation du volume abdominal
+T64	femme 135 146	pollakiurie
+T65	femme 154 163	hématurie
+T71	sosy 205 220	fièvre à 38,8°C
+T72	hemopathies 402 418	hyperleucocytose
+T74	femme 762 799	urétérohydronéphrose (UHN) bilatérale
+T1	femme 728 756	pyélonéphrite emphysémateuse
+T78	sosy 264 294	tension artérielle 100/60 mmhg
+T80	sosy 402 429	hyperleucocytose à 16680/ml
+T82	sosy 435 451	CRP à 163,1 mg/l
+T83	sosy 457 484	créatinine sérique à 42mg/l
+T84	sosy 492 507	urée à 1,69mg/l
+T85	sosy 512 543	glycémie était supérieure 5 g/l
+T86	anatomie 924 927	gaz
+T87	traitement 1194 1253	mis en place une sonde vésicale transurétrale à trois voies
+T88	organisme 1360 1381	Klebsiella Pneumoniae
+T89	sosy 1521 1552	créatininémie passée à 17,5mg/l
+T90	sosy 1556 1571	urée à 0,22 g/l
+T91	sosy 1578 1594	CRP à 10, 1 mg/l
+T92	sosy 1644 1665	affaissement de l’UHN
+T93	sosy 135 146	pollakiurie
+T94	sosy 154 163	hématurie
+T95	sosy 549 558	cétonurie
+T96	sosy 690 712	cystite emphysémateuse
+T97	pathologie 728 756	pyélonéphrite emphysémateuse
+T98	pathologie 762 799	urétérohydronéphrose (UHN) bilatérale
+T99	pathologie 1308 1311	UHN

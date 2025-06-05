@@ -1,0 +1,6 @@
+T1	genre 12 24	une patiente
+T2	issue 2019 2059	l’activité cardiaque n’a pu être reprise
+T3	age 28 34	63 ans
+A1	genre T1 féminin
+A2	issue T2 décès
+T4	origine 151 310	des douleurs atypiques de l’hémi thorax gauche associées à une dyspnée d’effort évoluant vers l’orthopnée, à une altération de l’état général et à une asthénie

@@ -1,0 +1,28 @@
+T6	examen 258 268	alcoolémie
+T7	valeur 283 291	1,31 g/L
+A2	norme T7 haut
+T8	examen 92 102	sérologies
+T9	examen 104 121	test de grossesse
+T10	examen 123 153	recherche de toxiques sanguins
+T11	examen 155 170	écouvillonnages
+T13	examen 414 449	screening toxicologique plasmatique
+T14	examen 454 461	CLHP/BD
+T16	examen 51 63	prélèvements
+T18	examen 297 345	recherche des dérivés cannabinoïdes plasmatiques
+T15	examen 360 383	Cannabis One-Step ELISA
+T17	sosy 473 523	pics et spectres caractéristiques des kavalactones
+T2	substance 311 345	dérivés cannabinoïdes plasmatiques
+T4	substance 511 523	kavalactones
+T5	examen 539 546	enquête
+T12	sosy 258 292	alcoolémie est positive (1,31 g/L)
+T3	sosy 297 358	recherche des dérivés cannabinoïdes plasmatiques est négative
+T1	valeur 273 281	positive
+T19	valeur 350 358	négative
+T20	anatomie 438 449	plasmatique
+T22	chimiques 473 523	pics et spectres caractéristiques des kavalactones
+T21	genre 0 5	Femme
+A1	genre T21 féminin
+T23	age 9 15	30 ans
+T24	origine 41 45	viol
+T25	issue 677 726	Il s'agissait donc d'une dénonciation calomnieuse
+A3	issue T25 guérison

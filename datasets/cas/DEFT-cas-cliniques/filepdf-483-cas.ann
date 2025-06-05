@@ -1,0 +1,6 @@
+T1	age 17 23	14 ans
+T2	genre 3 13	adolescent
+A1	genre T2 masculin
+T3	origine 24 121	ingère au cours d’un raptus suicidaire l’équivalent d’un bouchon de Gramoxone (soit environ 6 mL)
+T4	issue 1819 1875	Après un mois, les constantes biologiques se normalisent
+A2	issue T4 amélioration

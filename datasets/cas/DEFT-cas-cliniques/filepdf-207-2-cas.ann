@@ -1,0 +1,6 @@
+T1	age 16 22	77 ans
+T2	genre 3 8	homme
+A1	genre T2 masculin
+T3	origine 34 69	des signes cliniques de prostatisme
+T4	issue 863 1045	Une EER de contrôle à 3 ans a été réalisée et montrait la persistance de cette masse kystique mais avec des parois et des végétations endoluminales plus épaisses, denses et homogènes
+A2	issue T4 détérioration

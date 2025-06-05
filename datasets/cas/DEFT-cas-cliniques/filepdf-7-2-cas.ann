@@ -1,0 +1,6 @@
+T1	genre 0 15	Une adolescente
+A1	genre T1 féminin
+T2	age 24 30	15 ans
+T3	origine 36 64	victime d’une défenestration
+T4	issue 1719 1805	Après 20 mois de revul, le rein présente un aspect morphologique et fonctionnel normal
+A2	issue T4 guérison

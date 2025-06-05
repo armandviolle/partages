@@ -1,0 +1,143 @@
+T1002	anatomie 389 414	vésicale, latérale droite
+T1003	anatomie 513 520	vésical
+T1004	anatomie 550 557	chorion
+T1005	anatomie 786 796	rein droit
+T1007	anatomie 855 881	urétérale pelvienne gauche
+T1008	anatomie 885 894	vésicales
+T1009	anatomie 1125 1134	pelvienne
+T10010	anatomie 1245 1260	voie excrétrice
+T10011	anatomie 1288 1295	uretère
+T10012	anatomie 1378 1389	rein gauche
+T10013	anatomie 1398 1418	fosse iliaque droite
+T10014	anatomie 1495 1499	peau
+T10015	anatomie 1524 1544	anatomo-pathologique
+T10016	anatomie 1604 1614	urothélial
+T10019	anatomie 1805 1809	rein
+T10020	anatomie 1913 1921	pyélique
+T10021	anatomie 2157 2168	urothéliale
+T10022	anatomie 2254 2260	rénale
+T10061	examen 743 761	bilan radiologique
+T10062	examen 1516 1544	analyse anatomo-pathologique
+T10063	examen 2272 2285	créatininémie
+T10091	frequence 2261 2270	chronique
+T100111	moment 2188 2213	à 3 ans de l’intervention
+T100141	traitement 182 204	résection endoscopique
+T100142	traitement 467 489	résection endoscopique
+T100143	traitement 982 1001	laparotomie médiane
+T100144	traitement 1169 1190	urétérostomie cutanée
+T100161	valeur 525 534	grade III
+T100164	valeur 2288 2299	400 mcmol/l
+T100181	pathologie 231 265	tumeur papillaire, non infiltrante
+T100183	pathologie 1724 1796	carcinome urétéral multifocal, respectant la musculeuse, mais obstructif
+T100193	sosy 371 414	récidive tumorale vésicale, latérale droite
+T100194	sosy 697 738	récidive d’hématurie macroscopique totale
+T100201	sosy 2150 2176	lésion urothéliale distale
+T100203	sosy 2305 2336	bon état général et fonctionnel
+T10023	sosy 35 51	tabagique ancien
+T10025	sosy 341 350	hématurie
+T10026	sosy 434 462	urétéro-hydronéphrose droite
+T10036	traitement 1066 1093	néphro-urétérectomie totale
+T10037	traitement 1111 1134	urétérectomie pelvienne
+T10038	traitement 1140 1161	pyélectomie partielle
+T10042	traitement 1434 1463	pyélectomie partielle ex-situ
+T10043	traitement 1469 1499	abouchement urétéral à la peau
+T10047	anatomie 2029 2039	urétérales
+T10051	traitement 2361 2382	urétérostomie cutanée
+T2001	anatomie 112 120	vésicale
+T2006	anatomie 838 853	pyélique gauche
+T20017	anatomie 1646 1659	vésical droit
+T20018	anatomie 1734 1742	urétéral
+T200145	examen 1211 1223	endoscopique
+T200146	traitement 2094 2114	urèthrectomie totale
+T200162	valeur 1664 1680	3 cm de diamètre
+T200163	valeur 1926 1942	4 mm de diamètre
+T200182	pathologie 1594 1623	carcinome urothélial multiple
+T200191	sosy 68 84	hématurie totale
+T200192	sosy 155 176	anomalie urographique
+T200197	sosy 1229 1269	intégrité de la voie excrétrice restante
+T200198	sosy 1828 1888	tumeurs papillaires calicielles et pyéliques, superficielles
+T200199	sosy 1978 2002	envahissement du chorion
+T200200	sosy 2021 2078	tumeurs urétérales terminales, papillaires (grade I, pTa)
+T200202	sosy 2241 2300	insuffisance rénale chronique (créatininémie à 400 mcmol/l)
+T200204	traitement 2402 2425	dilatation endoscopique
+T200205	sosy 2434 2451	récidive tumorale
+T20024	pathologie 105 148	tumeur vésicale unique, paraméatique gauche
+T20025	anatomie 238 248	papillaire
+T20028	pathologie 503 582	carcinome vésical, de grade III, infiltrant le chorion, sans musculeuse visible
+T20029	sosy 776 803	mutité du rein droit dilaté
+T20030	sosy 830 904	tumeurs pyélique gauche, urétérale pelvienne gauche et vésicales multiples
+T20036	traitement 947 959	intervention
+T20037	mode 994 1001	médiane
+T20038	traitement 1021 1048	cysto-prostatectomie totale
+T20043	mode 1183 1190	cutanée
+T20044	sosy 1310 1328	obésité importante
+T20045	sosy 1274 1304	brièveté de l’uretère résiduel
+T20046	traitement 1355 1389	autotransplantation du rein gauche
+T20049	anatomie 1481 1489	urétéral
+T20050	pathologie 1636 1708	carcinome vésical droit, de 3 cm de diamètre, infiltrant (grade II, pT2)
+T20051	valeur 1694 1707	grade II, pT2
+T20053	anatomie 1769 1779	musculeuse
+T20054	sosy 1805 1817	rein détruit
+T20055	sosy 1906 1942	tumeur pyélique, de 4 mm de diamètre
+T20056	sosy 1954 1971	papillome inversé
+T20057	valeur 2065 2077	grade I, pTa
+T20059	mode 2375 2382	cutanée
+T20060	examen 2474 2492	cytologie urinaire
+T20064	examen 2494 2525	urétéro-pyélographie rétrograde
+T20065	examen 2529 2549	urétéroscopie souple
+T20066	anatomie 129 148	paraméatique gauche
+T20068	anatomie 564 574	musculeuse
+T20070	sosy 2348 2382	sténose de l’urétérostomie cutanée
+T20071	anatomie 2484 2492	urinaire
+T1	date 3 7	1988
+T2	date 300 304	1994
+T3	date 627 631	1998
+T5	date 2084 2088	1999
+T6	date 2182 2186	2002
+A1	assertion T200205 absent
+A2	norme T100164 haut
+A3	assertion T200192 absent
+A4	assertion T20030 hypothétique
+T4	anatomie 1848 1859	calicielles
+T7	anatomie 1863 1872	pyéliques
+T8	anatomie 1995 2002	chorion
+T9	mode 2515 2525	rétrograde
+T200207	homme 2241 2270	insuffisance rénale chronique
+T200208	tumeur 105 127	tumeur vésicale unique
+T200209	tumeur 231 265	tumeur papillaire, non infiltrante
+T200210	tumeur 1906 1921	tumeur pyélique
+T10	chimiques 35 51	tabagique ancien
+T11	homme 68 84	hématurie totale
+T12	etatsosy 68 84	hématurie totale
+T13	homme 105 127	tumeur vésicale unique
+T14	homme 341 350	hématurie
+T15	etatsosy 341 350	hématurie
+T16	tumeur 371 414	récidive tumorale vésicale, latérale droite
+T17	homme 371 414	récidive tumorale vésicale, latérale droite
+T18	homme 434 462	urétéro-hydronéphrose droite
+T19	homme 708 738	hématurie macroscopique totale
+T20	etatsosy 708 738	hématurie macroscopique totale
+T21	homme 231 265	tumeur papillaire, non infiltrante
+T22	tumeur 503 534	carcinome vésical, de grade III
+T23	homme 503 534	carcinome vésical, de grade III
+T24	nutritionnelles 1310 1328	obésité importante
+T25	etatsosy 1310 1328	obésité importante
+T26	tumeur 1594 1623	carcinome urothélial multiple
+T27	homme 1594 1623	carcinome urothélial multiple
+T28	tumeur 1636 1659	carcinome vésical droit
+T29	homme 1636 1659	carcinome vésical droit
+T30	tumeur 1724 1753	carcinome urétéral multifocal
+T31	homme 1724 1753	carcinome urétéral multifocal
+T32	tumeur 1828 1888	tumeurs papillaires calicielles et pyéliques, superficielles
+T33	homme 1828 1888	tumeurs papillaires calicielles et pyéliques, superficielles
+T34	tumeur 1954 1971	papillome inversé
+T35	tumeur 2021 2063	tumeurs urétérales terminales, papillaires
+T36	homme 2021 2063	tumeurs urétérales terminales, papillaires
+T37	homme 2348 2374	sténose de l’urétérostomie
+T38	homme 776 803	mutité du rein droit dilaté
+T39	genre 18 23	homme
+T40	age 640 646	68 ans
+A5	genre T39 masculin
+T41	origine 697 738	récidive d’hématurie macroscopique totale
+T42	issue 2427 2549	Aucune récidive tumorale n’a été retrouvée par cytologie urinaire, urétéro-pyélographie rétrograde et urétéroscopie souple
+A6	issue T42 amélioration

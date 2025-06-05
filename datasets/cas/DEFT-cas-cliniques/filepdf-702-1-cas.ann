@@ -1,0 +1,116 @@
+T54	traitement 1027 1064	mise à plat de la collection frontale
+T50	anatomie 1056 1064	frontale
+T92	mode 1069 1096	voie sourcilière de Jacques
+T69	examen 1131 1158	prélèvement bactériologique
+T44	substance 1174 1186	eau oxygénée
+T3	nerveux 127 155	céphalées frontales intenses
+T35	traitement 1276 1299	changement de pansement
+T135	dispositif 1290 1299	pansement
+T72	frequence 1306 1315	quotidien
+T21	traitement 1321 1340	anesthésie générale
+T51	anatomie 137 146	frontales
+T52	traitement 1376 1420	incision a été fermée par des points séparés
+T22	substance 1462 1477	antibiothérapie
+T155	duree 1478 1496	pendant 6 semaines
+T23	substance 1511 1533	triple antibiothérapie
+T62	mode 1538 1554	voie parentérale
+T67	duree 1555 1573	pendant 3 semaines
+T42	substance 1575 1585	céfotaxime
+T13	dose 1586 1589	1 g
+T138	frequence 1590 1593	3/j
+T55	substance 1595 1608	métronidazole
+T14	dose 1609 1615	500 mg
+T128	substance 1622 1631	amikacine
+T24	substance 1660 1675	antibiothérapie
+T59	mode 1676 1681	orale
+T18	substance 1691 1703	amoxicilline
+T17	substance 1704 1722	acide clavulanique
+T12	dose 1723 1725	1g
+T139	frequence 1726 1729	3/j
+T68	duree 1730 1748	pendant 3 semaines
+T16	substance 1786 1797	Déturgylone
+T81	traitement 1807 1819	soins du nez
+T56	anatomie 1816 1819	nez
+T86	substance 1823 1842	sérum physiologique
+T71	sosy 1848 1896	prélèvement bactériologique était revenu négatif
+T57	valeur 1889 1896	négatif
+T2	genre 19 26	patient
+T19	sosy 1931 1952	amélioration clinique
+T34	examen 1997 2007	biologique
+T43	moment 2008 2031	dès la première semaine
+T83	examen 2053 2067	suivi régulier
+T91	moment 2094 2113	un recul de 12 mois
+T76	sosy 2119 2149	récidive de la symptomatologie
+T74	pathologie 215 232	rhinorrhée claire
+T89	sosy 240 260	tuméfaction frontale
+T47	anatomie 252 260	frontale
+T28	pathologie 317 340	antécédents de sinusite
+T136	age 34 40	23 ans
+T88	sosy 359 378	traumatisme frontal
+T45	examen 421 427	examen
+T39	sosy 446 455	conscient
+T30	pathologie 46 84	antécédents pathologiques particuliers
+T87	examen 460 471	température
+T137	temperature 481 485	38°C
+T60	examen 497 506	palpation
+T90	sosy 522 542	tuméfaction frontale
+T48	anatomie 534 542	frontale
+T10	etatsosy 566 591	œdème palpébral bilatéral
+T32	examen 610 618	biologie
+T8	etatsosy 643 676	syndrome inflammatoire biologique
+T33	examen 666 676	biologique
+T4	etatsosy 686 702	hyperleucocytose
+T6	valeur 705 713	10410/μL
+T15	examen 717 720	CRP
+T7	valeur 723 729	24mg/L
+T78	examen 734 758	scanner du massif facial
+T53	anatomie 745 758	massif facial
+T82	anatomie 799 833	hydro-aérique sous cutané frontale
+T5	osteomusculaires 851 900	ostéolyse de la paroi antérieure du sinus frontal
+T63	anatomie 867 900	paroi antérieure du sinus frontal
+T61	anatomie 935 946	pansinusien
+T1	infections 976 994	Pott’s Puffy tumor
+A3	norme T137 haut
+A2	genre T2 masculin
+A1	assertion T30 absent
+A4	norme T6 haut
+A5	assertion T76 absent
+T11	dose 1632 1641	15mg/kg/j
+T20	moment 1421 1434	après 8 jours
+T25	dispositif 1230 1260	lame de drainage en caoutchouc
+T26	substance 1195 1203	Bétadine
+T27	duree 270 284	depuis 4 jours
+A6	assertion T28 absent
+T29	nerveux 215 232	rhinorrhée claire
+T36	etatsosy 215 232	rhinorrhée claire
+T37	blessures 215 232	rhinorrhée claire
+T31	anatomie 371 378	frontal
+T38	moment 379 395	il y a huit mois
+T41	hemopathies 686 702	hyperleucocytose
+T46	osteomusculaires 976 994	Pott’s Puffy tumor
+T49	oeil 976 994	Pott’s Puffy tumor
+T40	etatsosy 460 485	température était de 38°C
+A7	norme T7 haut
+T58	sosy 566 591	œdème palpébral bilatéral
+T64	blessures 359 378	traumatisme frontal
+T9	sosy 127 198	céphalées frontales intenses aggravées par la position penchée en avant
+T65	sosy 460 485	température était de 38°C
+T66	anatomie 572 591	palpébral bilatéral
+T70	sosy 686 713	hyperleucocytose à 10410/μL
+T73	sosy 717 729	CRP à 24mg/L
+T75	sosy 788 833	collection hydro-aérique sous cutané frontale
+T77	pathologie 851 900	ostéolyse de la paroi antérieure du sinus frontal
+T79	sosy 916 946	comblement partiel pansinusien
+T80	sosy 1045 1064	collection frontale
+T84	traitement 1101 1125	collection a été évacuée
+T85	traitement 1160 1203	nettoyage à l’eau oxygénée et à la Bétadine
+T93	traitement 1210 1260	mise en place d’une lame de drainage en caoutchouc
+T94	sosy 1350 1367	nettoyage complet
+T95	substance 1762 1784	décongestionnant nasal
+T96	mode 1779 1784	nasal
+T97	examen 1848 1875	prélèvement bactériologique
+T98	sosy 1974 2007	syndrome inflammatoire biologique
+A8	assertion T98 absent
+T99	examen 2076 2088	consultation
+T100	sosy 643 676	syndrome inflammatoire biologique
+T101	sosy 976 994	Pott’s Puffy tumor

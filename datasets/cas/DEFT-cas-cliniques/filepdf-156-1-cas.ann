@@ -1,0 +1,96 @@
+T40	anatomie 1011 1019	proximal
+T37	traitement 1048 1060	néphrostomie
+T9	anatomie 109 119	abdominale
+T38	traitement 1148 1161	opacification
+T66	anatomie 1220 1237	valves urétérales
+T39	anatomie 1302 1313	promontoire
+T52	sosy 1386 1403	sténose urétérale
+T62	anatomie 1394 1403	urétérale
+T10	mode 1411 1433	abord rétro-péritonéal
+T50	anatomie 1417 1433	rétro-péritonéal
+T25	anatomie 1437 1449	flanc gauche
+T16	examen 146 151	bilan
+T12	traitement 1505 1543	résection anastomose termino-terminale
+T54	anatomie 1526 1543	termino-terminale
+T24	examen 1624 1651	examen anatomo-pathologique
+T13	anatomie 1631 1651	anatomo-pathologique
+T49	traitement 1667 1676	résection
+T63	anatomie 1706 1721	valve urétérale
+T35	anatomie 1785 1810	fibres musculaires lisses
+T5	examen 1837 1840	UIV
+T27	anatomie 191 197	gauche
+T18	anatomie 1931 1946	cavités gauches
+T58	anatomie 2021 2035	uretère gauche
+T20	anatomie 226 234	cortical
+T15	sosy 257 267	antécédent
+T53	sosy 294 318	symptomatologie urinaire
+T59	anatomie 310 318	urinaire
+T4	examen 323 326	UIV
+T46	anatomie 372 383	rein gauche
+T17	anatomie 420 444	cavités pyélocalicielles
+T60	anatomie 464 473	urétérale
+T55	sosy 48 69	traumatisme abdominal
+T51	examen 490 503	scintigraphie
+T26	examen 526 541	fonction rénale
+T47	anatomie 535 541	rénale
+T29	anatomie 550 556	gauche
+T22	anatomie 570 576	droite
+T21	examen 581 593	cystographie
+T8	anatomie 60 69	abdominal
+T36	valeur 600 607	normale
+T3	homme 646 692	syndrome de la jonction pyélo-urétérale gauche
+T34	anatomie 661 685	jonction pyélo-urétérale
+T6	examen 769 786	UPR préopératoire
+T41	moment 773 786	préopératoire
+T7	examen 791 794	UPR
+T56	anatomie 810 817	uretère
+T78	sosy 836 852	sténoses étagées
+T65	anatomie 921 938	valves urétérales
+T69	examen 97 119	échographie abdominale
+T11	blessures 48 69	traumatisme abdominal
+T23	homme 177 197	hydronéphrose gauche
+T28	homme 1386 1403	sténose urétérale
+T81	homme 836 852	sténoses étagées
+A1	assertion T15 absent
+A2	assertion T53 absent
+T19	etatsosy 212 234	amincissement cortical
+T30	sosy 339 383	retard de sécrétion important du rein gauche
+T31	sosy 397 444	dilatation majeure des cavités pyélocalicielles
+T1	valeur 544 547	21%
+T32	valeur 564 567	79%
+T33	sosy 860 884	dilatations segmentaires
+T42	sosy 810 826	uretère tortueux
+T2	sosy 1916 1946	dilatation des cavités gauches
+T14	moment 1855 1885	troisième année postopératoire
+T43	anatomie 1757 1769	endo-luminal
+T45	sosy 1706 1832	valve urétérale sous forme d’un replis transversal endo-luminal comprenant des fibres musculaires lisses dans toute sa surface
+T44	sosy 212 234	amincissement cortical
+T57	sosy 165 197	volumineuse hydronéphrose gauche
+T61	age 4 10	10 ans
+T64	genre 18 26	présenté
+A3	genre T64 masculin
+T67	dispositif 1577 1591	sonde double J
+T68	dispositif 1172 1193	sonde de néphrostomie
+T70	sosy 1264 1313	obstacle infranchissable au niveau du promontoire
+T71	etatsosy 397 444	dilatation majeure des cavités pyélocalicielles
+T72	etatsosy 860 884	dilatations segmentaires
+T73	etatsosy 1916 1946	dilatation des cavités gauches
+T74	examen 450 473	visualisation urétérale
+A4	assertion T74 absent
+T75	sosy 526 576	fonction rénale à 21% à gauche contre 79% à droite
+T76	sosy 581 607	cystographie était normale
+T77	traitement 715 732	cure chirurgicale
+T79	traitement 992 1019	cure de l'obstacle proximal
+T80	dispositif 1039 1060	sonde de néphrostomie
+T82	anatomie 1117 1124	uretère
+T83	traitement 1102 1143	cathétériser l'uretère de façon antégrade
+A5	assertion T83 absent
+T84	mode 1134 1143	antégrade
+T85	sosy 1220 1247	valves urétérales multiples
+T86	moment 1327 1351	Après un délai d'un mois
+T87	traitement 1372 1403	traiter cette sténose urétérale
+T88	anatomie 1469 1475	valves
+T48	anatomie 1658 1676	pièce de résection
+T89	examen 1976 1992	clichés initiaux
+T90	sosy 1998 2035	imprégnation fine de l’uretère gauche
+T91	pathologie 646 692	syndrome de la jonction pyélo-urétérale gauche

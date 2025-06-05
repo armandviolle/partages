@@ -1,0 +1,89 @@
+T1002	anatomie 356 367	col vésical
+T1003	anatomie 681 691	sus pubien
+T1004	anatomie 1304 1315	col vésical
+T1005	anatomie 1397 1407	sus-pubien
+T10061	traitement 280 306	hémostase péri-prostatique
+T10062	examen 583 594	fibroscopie
+T10064	examen 880 897	urétrocystoscopie
+T10065	examen 1162 1173	fibroscopie
+T10066	examen 1480 1513	examen bactériologique des urines
+T10067	examen 1910 1926	examens d'urines
+T10068	examen 1947 1950	PSA
+T10069	examen 2035 2049	toucher rectal
+T100101	mode 148 166	voie rétropubienne
+T100112	moment 1338 1351	Un mois après
+T100113	moment 1806 1837	Trois mois après l'intervention
+T100121	substance 817 829	amoxicilline
+T100122	substance 866 876	ofloxacine
+T100123	substance 1144 1156	amoxicilline
+T100141	traitement 120 143	prostatectomie radicale
+T100142	traitement 496 522	ablation de sonde vésicale
+T100161	valeur 2054 2060	normal
+T100191	sosy 551 568	miction spontanée
+T100192	sosy 648 667	syndrome obstructif
+T100193	sosy 1677 1722	clip en titane faisant saillie dans la suture
+T1006	anatomie 29 37	prostate
+T1007	pathologie 19 66	cancer de prostate sur les copeaux de résection
+T10010	anatomie 290 306	péri-prostatique
+T10011	sosy 450 478	rétention urinaire itératifs
+T10012	anatomie 514 522	vésicale
+T10013	traitement 672 691	cathéter sus pubien
+T10014	sosy 784 805	entérococcus faecalis
+T10015	sosy 838 854	Escherichia Coli
+T10016	anatomie 926 936	anastomose
+T10018	examen 1446 1449	PSA
+T10020	valeur 1520 1527	stérile
+T10021	traitement 1543 1567	urétrotomie endoscopique
+T10022	anatomie 1654 1664	anastomose
+T10023	sosy 1886 1904	rétention vésicale
+T10024	anatomie 1896 1904	vésicale
+T10025	valeur 1932 1940	stériles
+T10027	anatomie 2043 2049	rectal
+T2001	examen 46 66	copeaux de résection
+T20063	examen 727 761	analyse bactériologique des urines
+T2008	traitement 186 196	anastomose
+T2009	traitement 356 382	col vésical était conservé
+T20013	examen 615 633	élément anatomique
+T20014	traitement 704 722	drainer les urines
+T20017	sosy 913 936	sténose de l'anastomose
+T20019	traitement 953 972	urétrotomie interne
+T20020	mode 992 1009	voie endoscopique
+T20021	sosy 1032 1062	nouveaux épisodes de rétention
+T20022	sosy 1095 1156	infections urinaires à colibacille résistant à l'amoxicilline
+T20023	sosy 1188 1207	récidive de sténose
+T20024	traitement 1224 1235	urétrotomie
+T20025	sosy 1304 1335	col vésical n'était pas sténosé
+T20028	sosy 1480 1527	examen bactériologique des urines était stérile
+T20029	sosy 1446 1474	PSA était toujours indosable
+T20032	traitement 1639 1664	ouverture de l'anastomose
+T20034	traitement 1738 1755	clip était retiré
+T20038	sosy 1910 1940	examens d'urines sont stériles
+T20039	sosy 1947 1974	PSA est en légère ascension
+T20040	examen 2008 2015	examens
+T20041	traitement 2019 2030	traitements
+T20042	sosy 2035 2060	toucher rectal est normal
+T20043	anatomie 460 468	urinaire
+T20044	anatomie 623 633	anatomique
+T20045	anatomie 1106 1115	urinaires
+T20046	anatomie 1507 1513	urines
+T1	date 170 182	octobre 2004
+A1	assertion T100191 absent
+T2	anatomie 755 761	urines
+T3	anatomie 716 722	urines
+T4	sosy 1388 1440	cathéter sus-pubien dont le sevrage était impossible
+A2	assertion T10023 absent
+A3	norme T10020 normal
+A4	norme T10025 normal
+A5	norme T100161 normal
+T5	frequence 469 478	itératifs
+T6	anatomie 1920 1926	urines
+T100194	tumeur 19 37	cancer de prostate
+T100195	homme 450 468	rétention urinaire
+T7	homme 19 37	cancer de prostate
+T8	infections 1095 1129	infections urinaires à colibacille
+T9	genre 72 77	homme
+T10	age 81 87	61 ans
+A6	genre T9 masculin
+T11	origine 19 66	cancer de prostate sur les copeaux de résection
+T12	issue 1806 1904	Trois mois après l'intervention le patient n'a plus présenté d'autre épisode de rétention vésicale
+A7	issue T12 amélioration

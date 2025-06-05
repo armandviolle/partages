@@ -1,0 +1,6 @@
+T1	age 15 21	45 ans
+T2	genre 171 181	un patient
+T3	issue 989 995	décédé
+A1	issue T3 décès
+A2	genre T2 masculin
+T4	origine 103 151	insuffisance rénale sévère associée à une anémie

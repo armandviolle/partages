@@ -1,0 +1,6 @@
+T1	genre 12 22	un patient
+T2	age 30 36	36 ans
+A1	genre T1 masculin
+T3	origine 105 217	des lombalgies inflammatoires évoluant depuis 2 mois dans un contexte d’amaigrissement non chiffré et d’asthénie
+T4	issue 1223 1382	Le patient a été traité par radiothérapie locale avec une bonne amélioration clinique et absence d’évolution vers un myélome multiple après un suivi de 36 mois
+A2	issue T4 guérison

@@ -1,0 +1,58 @@
+T10041	dose 230 234	1 mg
+T10051	duree 190 211	depuis plusieurs mois
+T10062	examen 646 663	screening général
+T10091	frequence 236 251	2 fois par jour
+T100192	sosy 938 951	autre toxique
+T100193	sosy 1170 1199	survenue d’envies suicidaires
+T1001	anatomie 131 138	poignet
+T1002	substance 159 170	varénicline
+T1004	examen 761 823	chromatographie liquide couplée à un barrette de diode (LCDAD)
+T1006	examen 833 903	chromatographie gazeuse couplée à de la spectrométrie de masse (GC/MS)
+T1007	examen 955 965	alcoolémie
+T1008	valeur 972 980	négative
+T1009	substance 1135 1146	varénicline
+T10010	substance 1296 1307	varénicline
+T10011	substance 1519 1530	varénicline
+T10013	substance 1762 1773	varénicline
+T20061	examen 335 389	recherche large de substances, incluant la varénicline
+T200191	sosy 458 480	tentatives de suicides
+T2002	sosy 108 138	entailles profondes au poignet
+T2004	examen 293 316	12 mL de sang cardiaque
+T2007	substance 378 389	varénicline
+T2008	pathologie 419 436	maladies mentales
+T2009	pathologie 441 451	dépression
+T20011	sosy 510 587	Aucune raison évidente (séparation, problèmes au travail, toxicomanie . . . )
+T20012	substance 665 676	médicaments
+T20013	substance 678 689	stupéfiants
+T20014	substance 691 701	pesticides
+T20018	sosy 955 980	alcoolémie était négative
+T20020	pathologie 1267 1291	problèmes psychiatriques
+T20022	pathologie 1372 1389	désordres mentaux
+T20023	sosy 1437 1459	épisodes obsessionnels
+T20024	pathologie 1471 1503	exacerbation de la schizophrénie
+T20026	sosy 1713 1773	induction potentielle d’idées suicidaires par la varénicline
+T20029	valeur 293 298	12 mL
+T20030	anatomie 302 316	sang cardiaque
+T20032	anatomie 738 742	sang
+T1	date 1578 1594	17 décembre 2007
+A1	assertion T2008 absent
+A2	assertion T2009 absent
+A3	assertion T200191 absent
+A4	assertion T20011 absent
+A5	assertion T100192 absent
+A6	assertion T20020 non-associé
+A7	assertion T20022 non-associé
+A8	assertion T20023 non-associé
+A9	assertion T20024 non-associé
+A10	assertion T20026 non-associé
+T2	anatomie 428 436	mentales
+T3	anatomie 1033 1042	psychique
+T4	anatomie 1277 1291	psychiatriques
+T5	anatomie 1382 1389	mentaux
+T6	blessures 108 138	entailles profondes au poignet
+T7	genre 15 20	homme
+A11	genre T7 masculin
+T8	age 42 48	39 ans
+T9	issue 66 71	morte
+A12	issue T9 décès
+T10	origine 108 138	entailles profondes au poignet

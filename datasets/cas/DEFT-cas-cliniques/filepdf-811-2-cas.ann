@@ -1,0 +1,6 @@
+T1	genre 12 24	une patiente
+T2	age 33 39	54 ans
+A1	genre T1 féminin
+T3	origine 65 185	des dorsalgies basses d’allure inflammatoire évoluant depuis 4 mois devenues intenses et rebelles aux antalgiques usuels
+T4	issue 1186 1308	une amélioration clinique avec absence d’évolution vers un myélome après un recul de 12 mois sous une surveillance stricte
+A2	issue T4 guérison

@@ -1,0 +1,6 @@
+T1	age 12 18	52 ans
+T2	genre 3 8	homme
+A1	genre T2 masculin
+T3	issue 1680 1778	L'évolution est favorable et les contrôles radiographique et endoscopique à deux mois sont normaux
+A2	issue T3 amélioration
+T4	origine 112 192	inconscient à son domicile avec, à ses côtés, un flacon vide de désherbant S.E.M

@@ -1,0 +1,6 @@
+T1	genre 12 22	un patient
+T2	age 26 32	55 ans
+A1	genre T1 masculin
+T3	origine 121 142	une sténose pylorique
+T4	issue 1388 1418	Le malade va bien actuellement
+A2	issue T4 amélioration

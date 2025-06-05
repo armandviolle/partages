@@ -1,0 +1,131 @@
+T1001	anatomie 316 325	cardiaque
+T1002	anatomie 586 594	aortique
+T1003	anatomie 485 504	raphé postéro droit
+T1004	anatomie 421 429	aortique
+T1005	anatomie 786 794	aortique
+T1006	anatomie 255 263	aortique
+T10061	examen 170 185	examen clinique
+T10062	examen 199 217	tension artérielle
+T10063	examen 329 396	échographie cardiaque transthoracique et transœsophagienne 3D (ETO)
+T100111	moment 71 87	depuis l’enfance
+T100191	sosy 303 325	insuffisance cardiaque
+T100192	sosy 620 755	insuffisance aortique (IA) centrale sévère (vena contracta 7 mm, débit cardiaque 11 l/mn, reflux télédiastolique dans l’isthme 33 cm/s)
+T10014	anatomie 1023 1045	ventricule gauche (VG)
+T10015	anatomie 1289 1303	valve aortique
+T10016	anatomie 1429 1437	aortique
+T10017	anatomie 1488 1497	cardiaque
+T10018	anatomie 1541 1549	aortique
+T10019	anatomie 1190 1210	ventriculaire gauche
+T1007	examen 915 919	Vmax
+T1008	examen 1331 1337	ETO 3D
+T1009	examen 1480 1497	scanner cardiaque
+T10010	examen 1570 1604	score calcique valvulaire aortique
+T10011	examen 1863 1867	Vmax
+T10012	examen 2076 2104	constatations peropératoires
+T10013	mode 979 1003	voie parasternale droite
+T10020	traitement 1794 1831	mise en place d’un tube sus-coronaire
+T10023	valeur 903 910	40 mmHg
+T10024	valeur 922 929	4,3 m/s
+T10025	valeur 1220 1225	75 %.
+T10026	valeur 1618 1626	5 556 UI
+T10027	valeur 220 231	150/70 mmHg
+T10028	valeur 1441 1448	1,1 cm2
+T10029	sosy 47 64	souffle cardiaque
+T10030	anatomie 55 64	cardiaque
+T10031	sosy 107 121	asymptomatique
+T10032	examen 236 263	souffle systolique aortique
+T10033	valeur 264 267	3/6
+T10034	anatomie 341 350	cardiaque
+T10035	mode 351 366	transthoracique
+T10036	mode 370 387	transœsophagienne
+T10037	sosy 410 519	bicuspidie aortique avec 2 raphés : un raphé antérieur très calcifié et un raphé postéro droit moins calcifié
+T10038	anatomie 435 443	2 raphés
+T10039	anatomie 449 464	raphé antérieur
+T10040	sosy 538 558	unicuspidie aortique
+T10041	pathologie 578 605	maladie aortique équilibrée
+T10042	anatomie 550 558	aortique
+T10043	anatomie 633 641	aortique
+T10044	examen 685 700	débit cardiaque
+T10045	valeur 701 708	11 l/mn
+T10046	examen 710 746	reflux télédiastolique dans l’isthme
+T10047	valeur 747 754	33 cm/s
+T10048	examen 664 678	vena contracta
+T10049	valeur 679 683	7 mm
+T10050	examen 882 896	gradient moyen
+T10051	mode 865 877	voie apicale
+T10052	valeur 937 944	91 mmHg
+T10053	valeur 948 953	6 m/s
+T10054	sosy 1023 1225	ventricule gauche (VG) est modérément dilaté (volume télédiastolique 80 ml/m2), très hypertrophié (septum 18 mm, paroi postérieure 14 mm) avec une fraction d’éjection ventriculaire gauche (FEVG) à 75 %.
+T10055	examen 1069 1091	volume télédiastolique
+T10056	valeur 1092 1100	80 ml/m2
+T10057	examen 1122 1128	septum
+T10058	examen 1136 1153	paroi postérieure
+T10059	valeur 1129 1134	18 mm
+T10060	valeur 1154 1159	14 mm
+T10064	examen 1170 1217	fraction d’éjection ventriculaire gauche (FEVG)
+T10065	anatomie 1228 1244	aorte ascendante
+T10066	valeur 1259 1264	46 mm
+T10067	sosy 1228 1284	aorte ascendante est dilatée à 46 mm au niveau tubulaire
+T10069	anatomie 1375 1383	aortique
+T10070	examen 1421 1437	surface aortique
+T10071	valeur 1454 1465	0,54 cm2/m2
+T10073	sosy 1534 1563	anneau aortique très ovalaire
+T10074	anatomie 1585 1604	valvulaire aortique
+T10075	sosy 1669 1683	asymptomatique
+T10076	traitement 1725 1780	remplacement valvulaire aortique par prothèse mécanique
+T10077	anatomie 1738 1757	valvulaire aortique
+T10079	valeur 1870 1875	6 m/s
+T10080	examen 1877 1891	gradient moyen
+T10081	valeur 1894 1901	90 mmHg
+T10082	anatomie 1988 2010	ventricule gauche (VG)
+T10083	anatomie 2046 2062	aorte ascendante
+T10084	valeur 2065 2070	46 mm
+T10085	examen 2030 2062	dilatation de l’aorte ascendante
+T10022	sosy 2118 2129	unicuspidie
+T10089	anatomie 2170 2178	aortique
+T10090	sosy 1903 2028	retentissement ventriculaire avec hypertrophie ventriculaire gauche (HVG) majeure et ventricule gauche (VG) modérément dilaté
+T200193	sosy 778 830	sténose aortique modérément serrée estimée à 1,3 cm2
+T20032	sosy 199 231	tension artérielle à 150/70 mmHg
+T20035	sosy 236 288	souffle systolique aortique 3/6 avec abolition du B2
+T20052	anatomie 664 668	vena
+T20053	anatomie 691 700	cardiaque
+T20057	anatomie 740 746	isthme
+T20058	valeur 823 830	1,3 cm2
+T20064	sosy 882 910	gradient moyen est à 40 mmHg
+T20065	sosy 915 929	Vmax à 4,3 m/s
+T20082	anatomie 1275 1284	tubulaire
+T20084	sosy 1289 1327	valve aortique s’ouvrant comme un dôme
+T20085	examen 1363 1383	planimétrie aortique
+T20088	sosy 1421 1465	surface aortique de 1,1 cm2 soit 0,54 cm2/m2
+T20090	sosy 1509 1520	unicuspidie
+T20094	sosy 1570 1626	score calcique valvulaire aortique très élevé à 5 556 UI
+T20099	anatomie 1818 1831	sus-coronaire
+T200101	sosy 1863 1875	Vmax à 6 m/s
+T200104	sosy 1877 1901	gradient moyen à 90 mmHg
+T200106	anatomie 1918 1931	ventriculaire
+T200107	anatomie 1950 1970	ventriculaire gauche
+T200113	sosy 2030 2070	dilatation de l’aorte ascendante à 46 mm
+T200114	sosy 2136 2178	caractère serré du rétrécissement aortique
+T200118	anatomie 1400 1404	dôme
+T1	anatomie 207 217	artérielle
+A1	assertion T100191 absent
+T2	examen 937 1003	91 mmHg et 6 m/s avec la sonde Pedoff par voie parasternale droite
+T3	moment 2090 2104	peropératoires
+A2	norme T10026 haut
+A3	norme T10027 normal
+#1	AnnotatorNotes T10027	Normal si <140 et <90
+T200194	etatsosy 2030 2062	dilatation de l’aorte ascendante
+T4	etatsosy 47 64	souffle cardiaque
+T5	cardiovasculaires 538 558	unicuspidie aortique
+T6	cardiovasculaires 578 605	maladie aortique équilibrée
+T7	cardiovasculaires 2118 2129	unicuspidie
+T8	cardiovasculaires 1509 1520	unicuspidie
+T9	etatsosy 1903 1984	retentissement ventriculaire avec hypertrophie ventriculaire gauche (HVG) majeure
+T10	cardiovasculaires 1903 1984	retentissement ventriculaire avec hypertrophie ventriculaire gauche (HVG) majeure
+T11	cardiovasculaires 778 794	sténose aortique
+T12	genre 3 10	patient
+A4	genre T12 masculin
+T13	age 14 20	42 ans
+T14	origine 44 87	un souffle cardiaque connu depuis l’enfance
+T15	issue 2191 2233	Les suites postopératoires ont été simples
+A5	issue T15 amélioration

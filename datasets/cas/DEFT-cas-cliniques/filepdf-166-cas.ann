@@ -1,0 +1,244 @@
+T104	anatomie 1002 1008	rénale
+T18	moment 1045 1079	deux semaines après l’intervention
+T68	traitement 1067 1079	intervention
+T146	examen 1089 1105	glycémies à jeun
+T32	examen 1126 1139	créatininémie
+T33	examen 1203 1216	créatininémie
+T53	femme 1321 1339	infection urinaire
+T120	anatomie 1331 1339	urinaire
+T74	valeur 1413 1420	normale
+T34	examen 1424 1437	créatininémie
+T14	moment 1440 1459	Deux mois plus tard
+T30	examen 1548 1558	créatinine
+T201	sosy 1577 1588	température
+T105	anatomie 1649 1662	artère rénale
+T89	anatomie 166 170	rein
+T75	anatomie 171 179	pancréas
+T24	examen 1786 1800	biopsie rénale
+T106	anatomie 1794 1800	rénale
+T55	etatsosy 1865 1889	hématome intrapéritonéal
+T159	anatomie 1936 1945	tubulaire
+T72	sosy 2011 2028	lésion vasculaire
+T123	anatomie 2018 2028	vasculaire
+T31	examen 2081 2091	créatinine
+T13	date 207 215	Mai 2001
+T90	anatomie 219 223	rein
+T1	etatsosy 2231 2239	asthénie
+T3	etatsosy 2246 2253	douleur
+T76	anatomie 230 238	pancréas
+T35	examen 2316 2329	créatininémie
+T22	anatomie 2427 2436	artériels
+T115	examen 2455 2471	tableau clinique
+T27	mode 2540 2545	bolus
+T143	substance 2549 2559	corticoïde
+T26	examen 2572 2590	contrôle biopsique
+T114	sosy 2644 2659	symptomatologie
+T36	examen 2700 2713	créatininémie
+T46	sosy 2781 2818	petite dilatation du bassinet à 14 mm
+T77	anatomie 280 288	pancréas
+T23	anatomie 2802 2810	bassinet
+T12	valeur 2813 2818	14 mm
+T113	examen 2837 2857	scintigraphie rénale
+T107	anatomie 2851 2857	rénale
+T49	examen 2927 2933	examen
+T5	etatsosy 2961 2981	douleurs abdominales
+T16	anatomie 2970 2981	abdominales
+T11	etatsosy 2988 2995	nausées
+T91	etatsosy 3011 3019	oligurie
+T162	etatsosy 3041 3047	œdèmes
+T37	examen 3073 3086	créatininémie
+T52	anatomie 309 329	fosse iliaque droite
+T92	anatomie 3104 3108	rein
+T64	anatomie 3134 3154	fosse iliaque gauche
+T47	sosy 3104 3179	rein étant bien palpé dans la fosse iliaque gauche et légèrement douloureux
+T111	examen 3197 3210	scintigraphie
+T50	examen 3222 3228	examen
+T100	anatomie 3278 3283	rénal
+T129	anatomie 3300 3306	vessie
+T80	anatomie 3319 3328	pelvienne
+T98	femme 3347 3362	bascule du rein
+T93	anatomie 3358 3362	rein
+T84	sosy 3368 3387	torsion du pédicule
+T20	anatomie 3473 3481	artériel
+T45	anatomie 350 359	digestive
+T82	traitement 3609 3648	positionnée en décubitus latéral gauche
+T109	traitement 3698 3706	réopérée
+T94	anatomie 3729 3733	rein
+T130	anatomie 3780 3786	vessie
+T95	anatomie 3933 3937	rein
+T65	anatomie 3958 3978	fosse iliaque gauche
+T125	anatomie 3992 4011	pédicule vasculaire
+T29	anatomie 4033 4049	colon descendant
+T87	anatomie 4058 4086	péritoine pariétal antérieur
+T59	anatomie 4104 4135	gouttière pariétocolique gauche
+T101	anatomie 4167 4172	rénal
+T61	traitement 4174 4179	geste
+T25	examen 4249 4263	biopsie rénale
+T108	anatomie 4257 4263	rénale
+T128	anatomie 428 435	veineux
+T69	traitement 4283 4295	intervention
+T160	anatomie 4342 4351	tubulaire
+T78	anatomie 439 447	pancréas
+T170	etatsosy 4399 4416	nécrose tubulaire
+T119	anatomie 4407 4416	tubulaire
+T112	examen 4421 4434	scintigraphie
+T99	traitement 4476 4496	reprise chirurgicale
+T2	nutritionnelles 45 74	diabète immunodépendant (DID)
+T97	anatomie 452 463	rein gauche
+T102	anatomie 4530 4535	rénal
+T131	anatomie 4556 4562	vessie
+T51	examen 4573 4579	examen
+T96	anatomie 4624 4628	rein
+T17	femme 4644 4673	chute de l’excrétion urinaire
+T121	anatomie 4665 4673	urinaire
+T19	moment 4687 4720	Quinze jours après l’intervention
+T70	traitement 4708 4720	intervention
+T38	examen 4772 4785	créatininémie
+T73	valeur 4834 4840	normal
+T139	anatomie 4859 4869	artérielle
+T63	anatomie 484 504	fosse iliaque gauche
+T39	examen 4907 4920	créatininémie
+T42	dose 4938 4955	deux ans de recul
+T179	anatomie 527 559	gouttière pariéto colique gauche
+T66	traitement 564 608	implanté sur les vaisseaux iliaques externes
+T122	anatomie 581 608	vaisseaux iliaques externes
+T134	traitement 618 697	anastomoses vasculaires artérielle latéroterminale et veineuse termino-latérale
+T126	anatomie 630 668	vasculaires artérielle latéroterminale
+T127	anatomie 672 697	veineuse termino-latérale
+T103	anatomie 799 805	rénale
+T117	substance 810 838	traitement immunosuppresseur
+T83	substance 849 859	prednisone
+T15	substance 875 878	MMF
+T48	nutritionnelles 975 982	diabète
+T7	femme 989 1008	insuffisance rénale
+T4	age 24 30	31 ans
+T6	genre 10 15	femme
+T8	duree 84 104	depuis l’age de 1 an
+T9	duree 117 130	depuis 9 mois
+T28	traitement 109 116	dialyse
+T43	immunitaire 45 74	diabète immunodépendant (DID)
+T44	endocriniennes 45 74	diabète immunodépendant (DID)
+T21	traitement 783 805	transplantation rénale
+T40	substance 861 873	ciclosporine
+T54	substance 882 885	ATG
+T56	endocriniennes 975 982	diabète
+T58	immunitaire 975 982	diabète
+T62	traitement 752 779	repéritonisation de la loge
+A1	assertion T62 absent
+T67	valeur 1108 1118	4.8 mmol/l
+T71	valeur 1142 1152	105 µmol/l
+T41	valeur 1219 1229	212 µmol/l
+T85	moment 1155 1182	Quatre mois après la greffe
+T110	infections 1321 1339	infection urinaire
+T116	valeur 1561 1571	268 µmol/l
+A2	norme T116 haut
+A3	assertion T201 absent
+T132	sosy 1597 1626	signe d’accompagnent clinique
+A4	assertion T132 absent
+T133	sosy 1524 1571	élévation brutale de la créatinine à 268 µmol/l
+T60	examen 1895 1912	anatomopathologie
+A5	assertion T72 absent
+T88	sosy 1981 2007	infiltration lymphocytaire
+A6	assertion T88 absent
+T135	sosy 1928 1954	lésions tubulaires isolées
+T136	valeur 2119 2129	136 µmol/l
+T137	anatomie 1874 1889	intrapéritonéal
+T118	moment 2155 2172	Un mois plus tard
+T138	valeur 2332 2342	568 µmol/l
+A7	norme T138 haut
+T140	sosy 2300 2342	élévation de la créatininémie à 568 µmol/l
+T141	examen 2359 2371	écho doppler
+A8	assertion T26 absent
+T142	valeur 2743 2753	135 µmol/l
+T144	duree 2730 2740	en 8 jours
+T145	valeur 2446 2450	0.84
+A9	norme T142 haut
+A10	norme T136 normal
+T147	duree 2130 2152	en moins d’une semaine
+T148	valeur 3089 3099	560 µmol/l
+A11	norme T148 haut
+T149	sosy 3057 3099	élévation de la créatininémie à 560 µmol/l
+T150	examen 3418 3430	écho Doppler
+T57	anatomie 3379 3387	pédicule
+T79	sosy 4334 4352	lésions tubulaires
+T86	sosy 4388 4416	lésions de nécrose tubulaire
+T124	valeur 4788 4798	138 µmol/l
+A12	norme T124 haut
+T151	valeur 4966 4976	130 µmol/l
+A13	norme T151 haut
+T152	examen 4803 4827	contrôle scintigraphique
+T153	valeur 4882 4886	0,45
+T154	examen 4890 4902	écho doppler
+T155	sosy 3253 3328	médialisation du greffon rénal au dessus de la vessie en position pelvienne
+A14	norme T41 haut
+A15	norme T71 normal
+#1	AnnotatorNotes T71	Normal entre 50 et 100 pour une femme
+A16	genre T6 féminin
+A17	norme T145 haut
+T156	femme 3011 3019	oligurie
+T157	etatsosy 3368 3387	torsion du pédicule
+T158	traitement 152 196	double greffe rein/pancréas simultanée (SPK)
+A18	assertion T158 possible
+T161	traitement 280 329	pancréas à été placé dans la fosse iliaque droite
+T163	anatomie 375 384	exocrines
+T164	traitement 452 504	rein gauche a été placé dans la fosse iliaque gauche
+T165	traitement 511 559	ouverture de la gouttière pariéto colique gauche
+T166	sosy 954 1008	correction rapide du diabète et de insuffisance rénale
+T167	sosy 1089 1118	glycémies à jeun à 4.8 mmol/l
+T168	sosy 1126 1152	créatininémie à 105 µmol/l
+T169	traitement 1176 1182	greffe
+T171	sosy 1187 1229	élévation de la créatininémie à 212 µmol/l
+T172	substance 1365 1372	traitée
+T173	sosy 1393 1437	retour à une valeur normale de créatininémie
+T174	examen 1631 1662	écho doppler de l’artère rénale
+T175	sosy 1697 1752	élévation des index de résistance parenchymateux à 0.85
+T176	anatomie 1731 1745	parenchymateux
+T177	valeur 1748 1752	0.85
+T178	sosy 1821 1831	rejet aigu
+T180	traitement 1833 1838	geste
+T181	sosy 1969 1974	rejet
+A19	assertion T181 absent
+T182	substance 2036 2057	traitement spécifique
+T183	sosy 2081 2129	créatinine redescendit spontanément à 136 µmol/l
+T184	sosy 2281 2290	fébricule
+T185	sosy 2407 2450	index de résistance artériels élevés à 0.84
+T186	sosy 2506 2516	rejet aigu
+T187	moment 2527 2535	d’emblée
+T188	moment 2874 2889	le mois suivant
+T189	moment 2896 2933	les heures qui précédèrent cet examen
+T190	examen 3120 3125	palpé
+T191	sosy 3487 3547	élévation majeure des index de résistance en position debout
+T192	anatomie 3634 3648	latéral gauche
+T193	sosy 3729 3928	rein avait non seulement basculé de la FIG vers la vessie, mais que le pôle supérieur avait également basculé vers le bas autour de l’axe vasculaire avec une rotation dans le sens anti-horaire à 180°
+T194	anatomie 3800 3814	pôle supérieur
+T195	anatomie 3847 3850	bas
+T196	anatomie 3863 3877	axe vasculaire
+T197	traitement 3933 3978	rein fût replacé dans la fosse iliaque gauche
+T198	traitement 3992 4023	pédicule vasculaire fût détordu
+T199	traitement 4033 4086	colon descendant fixé au péritoine pariétal antérieur
+T200	traitement 4092 4135	refermer la gouttière pariétocolique gauche
+T202	traitement 4139 4172	extrapéritoniser le greffon rénal
+T203	traitement 4237 4243	greffe
+T204	moment 4221 4243	au moment de la greffe
+T205	moment 4274 4295	durant l’intervention
+T206	sosy 4367 4372	rejet
+A20	assertion T206 absent
+T10	moment 4454 4466	à posteriori
+T207	moment 4467 4496	après la reprise chirurgicale
+T208	sosy 4522 4562	greffon rénal était couché sur la vessie
+T209	moment 4563 4579	lors de l’examen
+T210	sosy 4602 4628	mauvaise perfusion du rein
+T81	sosy 4772 4798	créatininémie à 138 µmol/l
+T211	sosy 4803 4840	contrôle scintigraphique étant normal
+T212	sosy 4848 4886	résistance artérielles estimées à 0,45
+T213	pathologie 45 74	diabète immunodépendant (DID)
+T214	sosy 1321 1339	infection urinaire
+T215	sosy 1865 1889	hématome intrapéritonéal
+T216	sosy 2231 2239	asthénie
+T217	sosy 2246 2253	douleur
+T218	sosy 2961 2981	douleurs abdominales
+T219	sosy 2988 2995	nausées
+T220	sosy 3011 3019	oligurie
+T221	sosy 3041 3047	œdèmes
+T222	sosy 3347 3362	bascule du rein
+T223	sosy 4644 4673	chute de l’excrétion urinaire

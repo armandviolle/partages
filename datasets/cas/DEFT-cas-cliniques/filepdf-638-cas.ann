@@ -1,0 +1,6 @@
+T1	age 12 18	34 ans
+T2	genre 3 8	homme
+A1	genre T2 masculin
+T3	origine 51 171	retrouvé inconscient dans son appartement complètement en désordre, ce qui laisse supposer un état d'agitation antérieur
+T4	issue 1308 1382	L'évolution est favorable et le patient sort de l'hôpital dès le lendemain
+A2	issue T4 amélioration

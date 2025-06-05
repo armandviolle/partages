@@ -1,0 +1,6 @@
+T1	age 28 34	32 ans
+T2	genre 4 12	patiente
+A1	genre T2 féminin
+T3	origine 170 225	admise à l’unité de greffe de cellules hématopoïétiques
+T4	issue 4565 4713	évolution favorable de l’état de la patiente (récupération de la fonction hématologique, absence de fièvre et résolution des symptômes de sinusite).
+A2	issue T4 amélioration

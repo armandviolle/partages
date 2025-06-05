@@ -1,0 +1,62 @@
+T7	anatomie 1020 1029	corticale
+T30	anatomie 1046 1054	pyélique
+T80	fonction 130 138	mictions
+T28	examen 153 183	palpation des fosses lombaires
+T74	age 16 21	5 ans
+T18	anatomie 167 183	fosses lombaires
+T39	anatomie 224 234	rein droit
+T32	anatomie 266 288	pyélo-urétérale gauche
+T12	anatomie 300 305	droit
+T33	anatomie 339 355	pyélon supérieur
+T42	examen 396 413	tomodensitométrie
+T73	anatomie 439 455	urétérale droite
+T1	etatsosy 465 499	dilatation importante de l'uretère
+T2	femme 47 74	fuites urinaires régulières
+T34	anatomie 517 533	pyélon supérieur
+T44	anatomie 54 63	urinaires
+T56	anatomie 565 580	cavité vaginale
+T10	examen 597 608	cystoscopie
+T40	frequence 64 73	régulière
+T35	anatomie 668 680	pyélon moyen
+T5	anatomie 694 705	col vésical
+T17	examen 712 726	examen vaginal
+T54	anatomie 719 726	vaginal
+T55	anatomie 750 757	vaginal
+T36	anatomie 763 790	uretère du pyélon supérieur
+T9	examen 796 819	cystographie rétrograde
+T41	mode 809 819	rétrograde
+T25	valeur 826 833	normale
+T37	anatomie 882 898	pyélon supérieur
+T27	traitement 904 950	urétéro-néphrectomie polaire supérieure droite
+T29	anatomie 925 950	polaire supérieure droite
+T3	anatomie 977 997	anatomo-pathologique
+T4	genre 4 12	fillette
+A1	genre T4 féminin
+T6	sosy 47 147	fuites urinaires régulières, de jour comme de nuit, survenant dans l’intervalle de mictions normales
+T8	sosy 219 234	gros rein droit
+T11	examen 239 242	UIV
+T13	sosy 256 305	duplicité pyélo-urétérale gauche et du côté droit
+T14	anatomie 492 499	uretère
+T19	sosy 320 330	triplicité
+T20	sosy 339 378	pyélon supérieur faiblement fonctionnel
+A2	assertion T19 hypothétique
+T21	sosy 428 455	triplicité urétérale droite
+T15	sosy 643 705	abouchement ectopique du pyélon moyen au niveau du col vésical
+T16	examen 970 997	examen anatomo-pathologique
+T23	sosy 1036 1054	dysplasie pyélique
+T24	femme 465 499	dilatation importante de l'uretère
+T26	etatsosy 219 234	gros rein droit
+T31	genetique 256 288	duplicité pyélo-urétérale gauche
+T38	femme 256 288	duplicité pyélo-urétérale gauche
+T43	genetique 428 455	triplicité urétérale droite
+T45	femme 428 455	triplicité urétérale droite
+T46	genetique 1011 1029	atrophie corticale
+T47	femme 1011 1029	atrophie corticale
+T48	femme 1036 1054	dysplasie pyélique
+T49	genetique 1036 1054	dysplasie pyélique
+T22	moment 76 97	de jour comme de nuit
+T50	sosy 465 580	dilatation importante de l'uretère correspondant au pyélon supérieur et s'abouchant au niveau de la cavité vaginale
+T51	sosy 738 790	abouchement vaginal de l'uretère du pyélon supérieur
+T52	sosy 796 833	cystographie rétrograde était normale
+T53	sosy 846 898	caractère faiblement fonctionnel du pyélon supérieur
+T57	pathologie 1011 1029	atrophie corticale

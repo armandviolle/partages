@@ -1,0 +1,74 @@
+T3	duree 138 150	depuis 2 ans
+T10	examen 633 669	tomodensitométrie abdomino-pelvienne
+T11	anatomie 651 669	abdomino-pelvienne
+T13	anatomie 700 719	testiculaire droite
+T4	examen 688 738	exploration testiculaire droite par voie inguinale
+T5	examen 430 450	échographie scrotale
+T6	anatomie 442 450	scrotale
+T14	examen 369 387	bilan paraclinique
+T16	examen 925 943	examen extemporané
+T17	examen 200 215	examen physique
+T19	valeur 674 681	normale
+T20	valeur 418 425	normaux
+T21	examen 50 63	autopalpation
+T26	examen 1209 1232	étude histopathologique
+T7	sosy 68 137	nodules testiculaires droits ayant progressivement augmenté de volume
+T12	anatomie 76 96	testiculaires droits
+T15	sosy 226 318	3 nodules paratesticulaires droits, le plus gros mesurant 3cm, fermes, non indurés indolores
+T27	anatomie 236 260	paratesticulaires droits
+T30	sosy 346 363	varicocèle droite
+T32	examen 399 417	marqueurs tumoraux
+A2	norme T20 normal
+T34	anatomie 504 519	testicule droit
+T35	sosy 467 595	3 images hypoéchogènes adjacentes au testicule droit, de contours réguliers, mesurant 31x 13, 26 x 19, et 12 x 12 mm de diamètre
+T36	sosy 610 627	varicocèle droite
+A3	norme T19 normal
+T18	traitement 744 782	clampage premier du cordon spermatique
+T38	anatomie 764 782	cordon spermatique
+T39	sosy 819 844	nodules paratesticulaires
+T40	anatomie 827 844	paratesticulaires
+T41	anatomie 883 892	testicule
+T22	anatomie 900 909	épididyme
+T9	sosy 971 986	nodules fibreux
+T43	sosy 1016 1023	nodules
+T44	traitement 1029 1036	excisés
+T25	sosy 1273 1280	nodules
+T46	sosy 1307 1324	tumeurs fibreuses
+T48	examen 1417 1423	Actine
+T49	examen 1427 1436	Vimentine
+T51	sosy 1469 1559	éléments inflammatoires lymphoplasmocytaires et polynucléares neutrophiles et éosinophiles
+T52	anatomie 1493 1513	lymphoplasmocytaires
+T53	anatomie 1517 1530	polynucléares
+T56	anatomie 1579 1597	trame fibrohyaline
+T57	valeur 284 287	3cm
+T58	valeur 553 559	31x 13
+T59	valeur 561 568	26 x 19
+T60	valeur 573 583	12 x 12 mm
+T63	sosy 992 1010	signe de malignité
+A4	assertion T63 absent
+T1	pathologie 173 194	antécédent urologique
+A1	etat T1 passé
+A5	assertion T1 absent
+T2	mode 724 738	voie inguinale
+T8	valeur 1098 1137	de quelques millimètres à 3 centimètres
+T23	traitement 1143 1161	cure de varicocèle
+T24	sosy 1343 1447	prolifération de cellules fusiformes à différenciation myofibroblastique (Actine et Vimentine positives)
+T28	anatomie 1360 1379	cellules fusiformes
+T29	anatomie 1531 1543	neutrophiles
+T31	anatomie 1547 1559	éosinophiles
+T33	sosy 399 425	marqueurs tumoraux normaux
+T37	sosy 633 681	tomodensitométrie abdomino-pelvienne est normale
+T45	moment 1186 1204	dans le même temps
+T42	valeur 1437 1446	positives
+T47	homme 346 363	varicocèle droite
+T50	homme 68 96	nodules testiculaires droits
+T54	homme 610 627	varicocèle droite
+T55	homme 819 844	nodules paratesticulaires
+T61	tumeur 1307 1324	tumeurs fibreuses
+T62	cardiovasculaires 346 363	varicocèle droite
+T64	cardiovasculaires 610 627	varicocèle droite
+T65	infections 1469 1559	éléments inflammatoires lymphoplasmocytaires et polynucléares neutrophiles et éosinophiles
+T66	genre 15 22	patient
+T67	age 26 32	23 ans
+A6	genre T66 masculin
+T68	origine 68 150	nodules testiculaires droits ayant progressivement augmenté de volume depuis 2 ans

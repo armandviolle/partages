@@ -1,0 +1,6 @@
+T1	age 18 24	36 ans
+T2	genre 4 9	femme
+A1	genre T2 féminin
+T3	origine 754 807	Cette grossesse a été émaillée de deux pyélonéphrites
+T4	issue 1860 1901	la patiente était parfaitement continente
+A2	issue T4 guérison

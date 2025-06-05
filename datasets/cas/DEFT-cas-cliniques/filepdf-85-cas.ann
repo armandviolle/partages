@@ -1,0 +1,6 @@
+T1	genre 147 157	le patient
+T2	age 18 24	44 ans
+T3	issue 3612 3618	décédé
+A1	genre T1 masculin
+A2	issue T3 décès
+T4	origine 67 122	des lésions osseuses rachidiennes d’allures secondaires

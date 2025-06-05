@@ -1,0 +1,52 @@
+T1	genre 0 3	Mme
+T5	etatsosy 103 130	hématurie totale épisodique
+T13	duree 140 161	depuis plusieurs mois
+T22	examen 166 172	examen
+T12	sosy 187 203	contact lombaire
+T73	age 19 25	25 ans
+T55	anatomie 195 209	lombaire droit
+T11	examen 214 217	UIV
+T65	anatomie 247 258	médio-rénal
+T17	anatomie 262 285	polaire inférieur droit
+T47	examen 300 311	échographie
+T95	sosy 325 399	masse tissulaire hétérogène du rein droit faisant 12X7 cm, bien encapsulée
+T42	anatomie 331 341	tissulaire
+T35	anatomie 356 366	rein droit
+T45	anatomie 429 441	veine rénale
+T43	examen 458 475	tomodensitométrie
+T3	etatsosy 47 73	douleurs lombaires droites
+T36	anatomie 523 533	rein droit
+T28	anatomie 56 73	lombaires droites
+T24	mode 584 593	injection
+T32	substance 597 617	produit de contraste
+T130	examen 730 742	radiologique
+T8	tumeur 778 784	tumeur
+T30	traitement 790 810	néphrectomie élargie
+T10	examen 828 838	A la coupe
+T7	etatsosy 84 93	pesanteur
+T9	tumeur 843 849	tumeur
+T23	examen 922 932	histologie
+T6	femme 947 963	oncocytome rénal
+T39	anatomie 958 963	rénal
+A1	genre T1 féminin
+T2	tumeur 230 285	syndrome tumoral médio-rénal et polaire inférieur droit
+T4	valeur 375 382	12X7 cm
+T14	sosy 409 441	envahissement de la veine rénale
+A2	assertion T14 absent
+T15	sosy 491 658	volumineux processus tumoral du rein droit, contenant de fines cloisons, se rehaussant après injection de produit de contraste, et donnant l’aspect en bandes radiaires
+T16	sosy 688 698	oncocytome
+T18	tumeur 947 963	oncocytome rénal
+T19	femme 103 130	hématurie totale épisodique
+T20	tumeur 688 698	oncocytome
+T21	femme 688 698	oncocytome
+T25	femme 230 285	syndrome tumoral médio-rénal et polaire inférieur droit
+T26	tumeur 491 533	volumineux processus tumoral du rein droit
+T27	femme 491 533	volumineux processus tumoral du rein droit
+T29	sosy 47 93	douleurs lombaires droites à type de pesanteur
+T31	frequence 120 130	épisodique
+T33	sosy 103 130	hématurie totale épisodique
+T34	sosy 230 285	syndrome tumoral médio-rénal et polaire inférieur droit
+T37	sosy 843 918	tumeur était de couleur brun chamois, avec une cicatrice centrale stellaire
+T38	sosy 947 963	oncocytome rénal
+T40	moment 1014 1032	recul de trois ans
+T41	sosy 778 784	tumeur

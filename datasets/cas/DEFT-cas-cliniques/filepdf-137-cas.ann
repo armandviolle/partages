@@ -1,0 +1,6 @@
+T1	genre 0 3	Mme
+T2	age 10 16	50 ans
+A1	genre T1 féminin
+T3	origine 82 149	une chute de 12 mètres, par défénestration, avec réception ventrale
+T4	issue 1360 1442	L’uroscanner réalisé à 1 mois montre un aspect morphologique et fonctionnel normal
+A2	issue T4 guérison

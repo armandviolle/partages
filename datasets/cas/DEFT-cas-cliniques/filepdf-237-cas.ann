@@ -1,0 +1,204 @@
+T97	anatomie 1018 1023	urine
+T36	examen 1029 1042	créatininémie
+T28	valeur 1052 1061	58.7 mg/l
+T12	etatsosy 1076 1092	hyperleucocytose
+T60	examen 1146 1168	ionogramme plasmatique
+T76	anatomie 1157 1168	plasmatique
+T13	nutritionnelles 1233 1245	hypocalcémie
+T73	valeur 1288 1295	normaux
+T3	femme 1302 1320	anurie obstructive
+T78	anatomie 1358 1362	rein
+T125	traitement 136 178	interventions digestives et gynécologiques
+T32	substance 1414 1426	antibiotique
+T44	anatomie 150 160	digestives
+T120	anatomie 164 178	gynécologiques
+T109	anatomie 1590 1598	vésicale
+T98	anatomie 1617 1622	urine
+T104	anatomie 1650 1655	vagin
+T8	etatsosy 1669 1691	fistule vésicovaginale
+T110	anatomie 1677 1691	vésicovaginale
+T40	examen 1696 1708	cystographie
+T70	valeur 1719 1726	normale
+T112	examen 1730 1748	échographie rénale
+T81	anatomie 1742 1748	rénale
+T53	anatomie 1792 1798	gauche
+T80	anatomie 1835 1847	cortex rénal
+T92	anatomie 1851 1858	uretère
+T74	traitement 1941 1964	néphrostomie percutanée
+T75	mode 1954 1964	percutanée
+T30	examen 2016 2019	UPR
+T113	examen 2112 2126	échographiques
+T52	anatomie 212 218	gauche
+T41	examen 2136 2148	cystographie
+T71	valeur 2149 2156	normale
+T5	tumeur 2175 2199	fistule entéro-urétérale
+T100	anatomie 2183 2199	entéro-urétérale
+T67	date 2218 2230	28 mars 2001
+T62	traitement 2235 2259	laparotomie exploratrice
+T6	tumeur 2286 2313	fistule urétérosigmoïdienne
+T105	anatomie 2328 2346	vaisseaux iliaques
+T93	anatomie 2350 2357	uretère
+T7	tumeur 2373 2380	fistule
+T101	anatomie 2465 2474	urétérale
+T103	traitement 2548 2569	urétérostomie cutanée
+T148	anatomie 2562 2569	cutanée
+T57	anatomie 2625 2639	iliaque gauche
+T89	traitement 2655 2671	suture digestive
+T43	anatomie 2662 2671	digestive
+T18	date 257 272	16 février 2001
+T130	etatsosy 2716 2723	oedèmes
+T37	examen 2738 2751	créatininémie
+T128	valeur 2823 2830	14 mg/l
+T56	traitement 281 301	hystérectomie totale
+T23	date 2803 2816	26 avril 2001
+T24	date 2850 2865	28 juillet 2001
+T25	date 2895 2911	1er octobre 2001
+T94	anatomie 2948 2956	urinaire
+T106	anatomie 3005 3011	vessie
+T50	traitement 307 333	exérèse de l’annexe droite
+T72	valeur 3164 3171	normale
+T58	sosy 3193 3211	infection urinaire
+T95	anatomie 3203 3211	urinaire
+T26	date 3217 3229	octobre 2003
+T45	anatomie 320 333	annexe droite
+T38	examen 3279 3292	créatininémie
+T77	frequence 3313 3330	quelques épisodes
+T59	sosy 3331 3349	infection urinaire
+T96	anatomie 3341 3349	urinaire
+T29	examen 3353 3356	UIV
+T79	anatomie 3369 3373	rein
+T69	valeur 3399 3405	normal
+T34	anatomie 3420 3427	cavités
+T42	examen 3467 3479	cystographie
+T19	date 337 352	18 février 2001
+T82	traitement 370 378	réopérée
+T107	anatomie 415 430	voie excrétrice
+T91	anatomie 463 478	uretère iliaque
+T88	traitement 499 515	suture sur sonde
+T1	femme 52 58	anurie
+T31	traitement 555 585	ablation de la sonde urétérale
+T99	anatomie 576 585	urétérale
+T65	date 589 601	11 mars 2001
+T66	date 606 618	22 mars 2001
+T9	etatsosy 62 68	fièvre
+T46	anatomie 676 682	droite
+T2	femme 684 690	anurie
+T10	etatsosy 694 700	fièvre
+T35	examen 705 718	créatininémie
+T27	valeur 728 735	47 mg/l
+T90	examen 745 761	tableau clinique
+T64	date 75 84	mars 2001
+T49	examen 801 816	examen clinique
+T11	etatsosy 846 859	fièvre à 39°C
+T114	valeur 855 859	39°C
+T16	etatsosy 864 904	oedème facial et des membres inférieures
+T68	anatomie 885 904	membres inférieures
+T51	anatomie 913 934	fosse lombaire droite
+T108	anatomie 957 965	vésicale
+T4	age 16 22	38 ans
+T14	genre 0 3	Mme
+A1	genre T14 féminin
+T15	traitement 191 218	néphro-uréterectomie gauche
+T17	blessures 384 399	plaie iatrogène
+T20	blessures 452 478	plaie de l’uretère iliaque
+T21	etatsosy 666 682	lombalgie droite
+T39	sosy 666 682	lombalgie droite
+T48	sosy 694 700	fièvre
+A2	norme T27 bas
+A3	norme T114 haut
+T55	anatomie 871 877	facial
+T61	sosy 846 859	fièvre à 39°C
+T63	sosy 864 904	oedème facial et des membres inférieures
+T47	sosy 913 946	fosse lombaire droite douloureuse
+A4	norme T28 normal
+T85	valeur 1095 1112	25400 éléments/ml
+T102	hemopathies 1076 1092	hyperleucocytose
+T111	valeur 1248 1255	4 mEq/L
+T115	valeur 1217 1225	12 mEq/l
+T119	examen 1627 1639	vaginoscopie
+T83	sosy 1542 1579	selles très liquides d’odeur urineuse
+T121	moment 1484 1519	Au second jour de l’hospitalisation
+T22	traitement 2975 3019	urétérocystonéostomie sur une vessie psoïque
+A5	assertion T58 absent
+T54	femme 1771 1798	urétérohydornéphrose gauche
+T86	anatomie 2294 2313	urétérosigmoïdienne
+T116	traitement 2614 2639	colostomie iliaque gauche
+T117	traitement 2869 2890	colostomie fût fermée
+T118	traitement 2575 2606	obturation de la brèche colique
+T84	sosy 2056 2092	émission des selles d’odeur urineuse
+T87	sosy 1851 1906	uretère dilaté était visible jusqu’à sa portion iliaque
+T122	femme 136 178	interventions digestives et gynécologiques
+T123	digestif 136 160	interventions digestives
+A6	norme T85 haut
+A7	norme T111 bas
+A8	norme T115 bas
+T124	examen 1268 1281	taux ioniques
+T126	femme 1328 1353	pyélonéphrite aiguë (PNA)
+A9	assertion T30 absent
+T127	examen 1978 2010	pyélo-urétérographie descendante
+A10	assertion T127 absent
+A11	assertion T74 absent
+T33	dispositif 510 515	sonde
+T129	dispositif 951 971	sonde vésicale CH 20
+T131	sosy 2350 2393	uretère en amont de la fistule était dilaté
+T132	examen 3145 3157	créatinnémie
+T133	fonction 3132 3140	mictions
+T134	etatsosy 913 946	fosse lombaire droite douloureuse
+T135	femme 2175 2199	fistule entéro-urétérale
+T136	femme 2286 2313	fistule urétérosigmoïdienne
+T137	infections 3331 3349	infection urinaire
+T138	femme 3331 3349	infection urinaire
+T139	femme 3492 3513	reflux passif modérée
+T140	frequence 126 135	multiples
+T141	dispositif 570 585	sonde urétérale
+T142	sosy 705 735	créatininémie était de 47 mg/l
+T143	sosy 1000 1023	ne ramenait pas d’urine
+T144	sosy 1029 1061	créatininémie était de 58.7 mg/l
+T145	sosy 1076 1142	hyperleucocytose à 25400 éléments/ml à prédominance neutrophilique
+T146	sosy 1192 1225	réserve alcaline basse à 12 mEq/l
+T147	sosy 1233 1255	hypocalcémie à 4 mEq/L
+T149	sosy 1261 1295	autres taux ioniques étant normaux
+T150	sosy 1435 1481	désordres hydroéléctrolytiques furent corrigés
+T151	anatomie 1542 1548	selles
+T152	anatomie 1571 1579	urineuse
+T153	dispositif 1584 1598	sonde vésicale
+T154	sosy 1584 1622	sonde vésicale ne ramenait pas d’urine
+T155	sosy 1650 1662	vagin intact
+T156	sosy 1669 1691	fistule vésicovaginale
+A12	assertion T156 absent
+T157	sosy 1696 1726	cystographie se révéla normale
+T158	sosy 1804 1847	conservation de l’épaisseur du cortex rénal
+T159	anatomie 1891 1906	portion iliaque
+T160	anatomie 2069 2075	selles
+T161	anatomie 2084 2092	urineuse
+T162	anatomie 2399 2414	portion en aval
+T163	sosy 2399 2441	portion en aval n’était pas reconnaissable
+T164	sosy 2446 2504	perte de substance urétérale était estimée à environ 10 cm
+T165	valeur 2491 2504	environ 10 cm
+T166	traitement 2510 2516	gestes
+T167	anatomie 2599 2606	colique
+T168	sosy 2738 2790	créatininémie baissa progressivement et se normalisa
+T169	valeur 2781 2790	normalisa
+T170	traitement 2916 2970	rétablissement de la continuité urinaire fût effectuée
+T171	sosy 3110 3140	patiente retrouva les mictions
+T172	sosy 3145 3171	créatinnémie resta normale
+T173	sosy 3252 3274	excellent état général
+T174	sosy 3279 3304	créatininémie était bonne
+T175	sosy 3369 3405	rein unique fonctionnellement normal
+T176	sosy 3420 3462	cavités étaient encore légèrement dilatées
+T177	valeur 3517 3524	grade 1
+T178	sosy 52 58	anurie
+T179	sosy 62 68	fièvre
+T180	sosy 384 430	plaie iatrogène méconnue de la voie excrétrice
+T181	sosy 452 478	plaie de l’uretère iliaque
+T182	sosy 684 690	anurie
+T183	sosy 1302 1320	anurie obstructive
+T184	pathologie 1328 1369	pyélonéphrite aiguë (PNA) sur rein unique
+A13	assertion T184 hypothétique
+A14	assertion T183 hypothétique
+T185	pathologie 1771 1798	urétérohydornéphrose gauche
+T186	pathologie 2175 2199	fistule entéro-urétérale
+T187	pathologie 2286 2346	fistule urétérosigmoïdienne au niveau des vaisseaux iliaques
+T188	sosy 2716 2723	oedèmes
+A15	assertion T188 absent
+T189	sosy 3492 3524	reflux passif modérée de grade 1

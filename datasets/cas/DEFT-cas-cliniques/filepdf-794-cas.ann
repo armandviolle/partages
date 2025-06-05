@@ -1,0 +1,6 @@
+T1	genre 114 118	Elle
+T2	age 29 35	5 mois
+A1	genre T1 féminin
+T3	origine 149 404	une masse abdominale droite augmentant progressivement de volume, il n’existe pas de signe urinaire ni d’autres signes accompagnateur en dehors d’une constipation opiniâtre traitée médicalement, le tout évoluait sans fièvre ni altération de l’état général
+T4	issue 2863 2969	Le suivi régulier, notamment l'examen clinique et échographique tous les 6 mois, était sans particularités
+A2	issue T4 guérison

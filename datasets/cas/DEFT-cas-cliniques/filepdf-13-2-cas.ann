@@ -1,0 +1,6 @@
+T1	age 13 19	55 ans
+T2	genre 518 528	Le patient
+A1	genre T2 masculin
+T3	origine 83 131	dysurie avec constipation évoluant depuis 1 mois
+T4	issue 756 807	L’évolution a été favorable avec un recul de 6 mois
+A2	issue T4 guérison

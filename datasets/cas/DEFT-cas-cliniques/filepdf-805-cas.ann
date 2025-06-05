@@ -1,0 +1,6 @@
+T1	genre 0 8	Patiente
+T2	age 12 18	24 ans
+T3	issue 850 876	par voie haute est indiqué
+A1	genre T1 féminin
+A2	issue T3 amélioration
+T4	origine 183 232	Admise pour douleur lombaire et hémorragie minime

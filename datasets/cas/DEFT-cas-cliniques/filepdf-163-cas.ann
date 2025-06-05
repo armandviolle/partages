@@ -1,0 +1,7 @@
+T1	genre 0 6	Madame
+T2	age 11 22	née en 1933
+A1	genre T1 féminin
+T3	origine 1843 1952	un calcul du calice inférieur gauche d’environ 15 mm, avec une atrophie modérée du parenchyme rénal en regard
+T4	issue 2298 2484	il n'y a eu aucun signe clinique ni radiologique de récidive lithiasique gauche. Cependant, elle a éliminé à deux reprises des calculs de cystine après des douleurs latéralisées à droite
+A2	issue T4 amélioration
+#1	AnnotatorNotes T2	67 ans

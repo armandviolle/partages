@@ -1,0 +1,34 @@
+T4	examen 161 164	GHB
+T5	substance 200 208	THC-COOH
+T6	substance 277 280	THC
+T7	substance 286 289	GHB
+T9	substance 469 476	caféine
+T10	substance 486 494	cotinine
+T8	valeur 247 257	22,7 ng/ml
+T11	valeur 327 334	4 ug/ml
+T12	examen 169 179	alcoolémie
+T13	valeur 187 195	1,35 g/l
+A2	norme T13 haut
+T17	examen 58 90	prélèvements de sérum et d'urine
+T19	examen 393 420	metabolites du propoxyphene
+T21	examen 130 140	alcoolémie
+T22	examen 145 153	toxiques
+T1	sosy 34 52	agression sexuelle
+T3	sosy 169 195	alcoolémie est de 1,35 g/l
+T14	sosy 200 257	THC-COOH est retrouvé dans le sérum au taux de 22,7 ng/ml
+T15	sosy 286 334	GHB est retrouvé dans l'urine au taux de 4 ug/ml
+T16	sosy 393 494	metabolites du propoxyphene sont retrouvés dans les urines, ainsi que de la caféine et de la cotinine
+T2	anatomie 74 79	sérum
+T18	anatomie 85 90	urine
+T20	anatomie 230 235	sérum
+T23	anatomie 310 315	urine
+T24	anatomie 445 451	urines
+T26	chimiques 169 179	alcoolémie
+T25	chimiques 200 208	THC-COOH
+T27	chimiques 286 289	GHB
+T28	genre 4 9	femme
+A1	genre T28 féminin
+T29	age 13 19	29 ans
+T30	origine 24 52	victime d'agression sexuelle
+T31	issue 497 580	Les recherches spécifiques de produits pouvant donner une soumission sont négatives
+A3	issue T31 amélioration

@@ -1,0 +1,6 @@
+T1	genre 652 661	testicule
+T2	age 7 13	35 ans
+A1	genre T1 masculin
+T3	origine 52 72	un accident de pêche
+T4	issue 1094 1184	Les suites ont été simples, la cicatrisation étant obtenue au sixième jour post-opératoire
+A2	issue T4 guérison

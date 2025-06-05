@@ -1,0 +1,121 @@
+T26	substance 1075 1083	prazépam
+T11	substance 1132 1139	caféine
+T13	examen 1182 1204	concentration sanguine
+T36	anatomie 1196 1204	sanguine
+T17	anatomie 1374 1379	corps
+T1	etatsosy 1474 1478	coma
+T2	etatsosy 1533 1537	coma
+T3	etatsosy 1609 1613	coma
+T4	etatsosy 1701 1705	coma
+T35	anatomie 1739 1746	sanguin
+T5	etatsosy 1779 1783	coma
+T14	anatomie 18 23	corps
+T40	anatomie 1854 1865	vasculaires
+T39	sosy 2017 2040	troubles hémodynamiques
+T32	anatomie 2057 2069	respiratoire
+T38	sosy 213 235	tentatives de suicides
+T21	pathologie 2312 2335	dépression respiratoire
+T33	anatomie 2323 2335	respiratoire
+T27	substance 2393 2401	prazépam
+T8	substance 2431 2439	Lysanxia
+T28	substance 2462 2470	prazépam
+T22	anatomie 2588 2597	hépatique
+T55	anatomie 345 353	poignets
+T18	anatomie 391 399	cutanées
+T51	anatomie 408 425	faces antérieures
+T15	anatomie 479 484	corps
+T16	anatomie 498 503	corps
+T56	age 49 55	52 ans
+T24	substance 560 571	Mepronizine
+T7	substance 573 581	Lysanxia
+T10	examen 612 620	autopsie
+T31	examen 626 675	prélèvements sanguins (cardiaque et périphérique)
+T37	anatomie 639 647	sanguins
+T12	anatomie 649 658	cardiaque
+T9	examen 849 857	analyses
+T34	anatomie 876 880	sang
+T19	poids 57 62	80 kg
+T20	taille 64 70	1,75 m
+T30	date 3 13	13 février
+T41	genre 36 44	Monsieur
+A1	genre T41 masculin
+T43	moment 236 267	au cours des dernières semaines
+T23	chimiques 269 318	absorption de produits ménagers ou de médicaments
+T29	substance 585 595	Mianserine
+T45	blessures 368 399	nombreuses estafilades cutanées
+T46	anatomie 662 674	périphérique
+T25	substance 736 754	fluorure de sodium
+T50	substance 795 813	fluorure de sodium
+T53	substance 822 842	oxalate de potassium
+T42	substance 919 930	méprobamate
+T54	substance 949 963	acéprométazine
+T57	valeur 932 941	120 µg/mL
+T58	substance 1012 1027	benzodiazépines
+T59	substance 1029 1037	oxazépam
+T60	substance 1049 1060	nordiazépam
+T61	valeur 1038 1047	272 ng/mL
+T62	valeur 1061 1071	2322 ng/mL
+T63	valeur 1084 1092	17 ng/mL
+T64	valeur 1113 1121	17 ng/mL
+T65	substance 1101 1111	miansérine
+T47	substance 1219 1230	méprobamate
+T66	substance 1245 1259	acéprométazine
+T67	substance 1293 1304	Mépronizine
+T68	chimiques 1276 1304	prise massive de Mépronizine
+T48	dose 1383 1395	fortes doses
+T69	substance 1400 1411	méprobamate
+T70	nerveux 1474 1478	coma
+T71	nerveux 1533 1537	coma
+T72	nerveux 1609 1613	coma
+T73	nerveux 1701 1705	coma
+T74	nerveux 1779 1783	coma
+T75	valeur 1765 1774	120 µg/mL
+T76	substance 1750 1761	méprobamate
+T77	chimiques 1437 1459	syndrome pseudoébrieux
+#1	AnnotatorNotes T77	ébriété
+T78	valeur 1826 1834	80 µg/mL
+T79	examen 1734 1746	taux sanguin
+T44	sosy 1874 1885	hypovolémie
+T80	sosy 1890 1900	vasoplégie
+T52	substance 1983 1993	miansérine
+T49	dose 2072 2082	forte dose
+T6	substance 2225 2240	benzodiazépines
+T81	respiratoire 2312 2335	dépression respiratoire
+T82	cardiovasculaires 2351 2361	vasoplégie
+T83	etatsosy 2351 2361	vasoplégie
+T84	substance 2540 2548	oxazépam
+T85	substance 2552 2563	nordiazépam
+T86	sosy 150 159	dépressif
+T87	issue 170 175	décès
+A2	issue T87 décès
+T88	sosy 170 189	décès de son épouse
+A3	assertion T88 non-associé
+T89	frequence 203 212	plusieurs
+T90	substance 283 300	produits ménagers
+T91	substance 307 318	médicaments
+T92	dispositif 431 443	arme blanche
+T93	substance 546 557	médicaments
+T94	valeur 965 1005	inférieure à la limite de quantification
+T95	sosy 1840 1865	complications vasculaires
+A4	assertion T95 non-associé
+A5	assertion T44 non-associé
+A6	assertion T80 non-associé
+T96	sosy 1956 1972	évolution fatale
+A7	assertion T96 non-associé
+A8	assertion T39 non-associé
+T97	sosy 2195 2207	intoxication
+T98	sosy 269 318	absorption de produits ménagers ou de médicaments
+T99	sosy 368 425	nombreuses estafilades cutanées sur les faces antérieures
+T100	sosy 1276 1304	prise massive de Mépronizine
+T101	sosy 1437 1459	syndrome pseudoébrieux
+T102	sosy 1474 1478	coma
+T103	sosy 1533 1537	coma
+T104	sosy 1609 1613	coma
+T105	sosy 1779 1783	coma
+T106	pathologie 2351 2361	vasoplégie
+A9	assertion T102 non-associé
+A10	assertion T103 non-associé
+A11	assertion T104 non-associé
+T107	sosy 1701 1705	coma
+A12	assertion T107 non-associé
+A13	assertion T105 non-associé

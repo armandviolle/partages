@@ -1,0 +1,6 @@
+T1	genre 0 8	Patiente
+T2	age 17 23	49 ans
+A1	genre T1 féminin
+T3	origine 94 158	des métrorragies post ménopausiques, sans autres signes associés
+T4	issue 991 1053	La patiente est en rémission complète avec un recul de 12 mois
+A2	issue T4 amélioration

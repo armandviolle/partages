@@ -1,0 +1,140 @@
+T2	oeil 1003 1037	atrophie optique bilatérale isolée
+T57	anatomie 1012 1030	optique bilatérale
+T20	examen 1056 1066	biologique
+T41	sosy 1071 1100	fonction rénale était altérée
+T67	anatomie 1080 1086	rénale
+T83	examen 1106 1110	urée
+T24	examen 1125 1138	créatininémie
+T7	valeur 1279 1282	12%
+T10	valeur 1141 1150	19,7 mg/l
+T8	valeur 1289 1295	4 à 9%
+T74	substance 1165 1175	traitement
+T46	substance 1180 1199	insuline semi-lente
+T43	examen 1204 1212	glycémie
+T44	examen 1258 1277	hémoglobine glyquée
+T76	anatomie 1322 1330	urinaire
+T32	pathologie 1353 1369	diabète insipide
+T80	anatomie 1375 1381	urines
+T73	valeur 1390 1398	stériles
+T59	sosy 1422 1433	protéinurie
+T97	examen 1461 1472	échographie
+T18	anatomie 1571 1581	bilatérale
+T23	anatomie 1613 1642	index cortical du rein gauche
+T5	femme 1654 1673	insuffisance rénale
+T68	anatomie 1667 1673	rénale
+T82	examen 1679 1710	urographie intra veineuse (UIV)
+T47	mode 1690 1704	intra veineuse
+T98	examen 1765 1776	échographie
+T26	examen 1782 1813	uréthro-cystographie rétrograde
+T71	mode 1803 1813	rétrograde
+T60	sosy 1827 1849	reflux vésico-urétéral
+T95	anatomie 1834 1849	vésico-urétéral
+T15	examen 1856 1874	bilan urodynamique
+T4	etatsosy 1905 1930	hypotonie vésicale isolée
+T92	anatomie 1915 1923	vésicale
+T31	pathologie 1956 1963	diabète
+T133	dispositif 2001 2015	sonde vésicale
+T93	anatomie 2007 2015	vésicale
+T39	fonction 2057 2072	fonction rénale
+T69	anatomie 2066 2072	rénale
+T94	anatomie 2167 2175	vésicale
+T40	examen 2205 2220	fonction rénale
+T70	anatomie 2214 2220	rénale
+T54	valeur 2225 2232	normale
+T156	sosy 2301 2335	infections urinaires à répétitions
+T78	anatomie 2312 2321	urinaires
+T96	frequence 2322 2334	à répétition
+T28	pathologie 312 337	diabète insulinodépendant
+T75	anatomie 356 364	urinaire
+T135	age 39 45	13 ans
+T29	pathologie 458 484	diabète insulino-dépendant
+T1	oeil 506 533	atrophie optique bilatérale
+T58	sosy 51 89	parents consanguins (cousins germains)
+T56	anatomie 515 533	optique bilatérale
+T21	examen 612 624	consultation
+T6	femme 692 700	énurésie
+T124	fonction 715 722	miction
+T3	etatsosy 745 752	dysurie
+T87	anatomie 770 776	vessie
+T125	fonction 802 809	miction
+T36	examen 813 828	examen clinique
+T149	sosy 857 870	globe vésical
+T88	anatomie 863 870	vésical
+T22	sosy 904 920	contact lombaire
+T50	anatomie 912 920	lombaire
+T37	examen 924 943	examen neurologique
+T51	anatomie 931 943	neurologique
+T52	valeur 962 968	normal
+T35	examen 972 987	examen oculaire
+T55	anatomie 979 987	oculaire
+T14	genre 22 30	patiente
+A1	genre T14 féminin
+T16	duree 418 434	à l’âge de 6 ans
+#1	AnnotatorNotes T16	durée de 7 ans
+T17	moment 486 501	4 ans plus tard
+T12	duree 660 684	depuis environ une année
+T25	date 628 640	janvier 2000
+T9	valeur 1113 1121	0,58 g/l
+A2	norme T10 bas
+A3	norme T9 haut
+T30	examen 1300 1330	étude de l’osmolarité urinaire
+T33	femme 1540 1581	urétéro-hydronéphrose (U.H.N.) bilatérale
+T11	femme 2254 2268	U.H.N. modérée
+A4	assertion T60 absent
+T34	duree 2137 2151	depuis 12 mois
+T19	sosy 208 227	syndrome de Wolfram
+A5	assertion T19 absent
+A6	assertion T28 non-associé
+T27	sosy 348 364	trouble urinaire
+A7	assertion T27 absent
+T38	moment 365 383	à l’heure actuelle
+T45	nutritionnelles 458 484	diabète insulino-dépendant
+T49	endocriniennes 458 484	diabète insulino-dépendant
+T53	immunitaire 458 484	diabète insulino-dépendant
+T61	nutritionnelles 1956 1963	diabète
+T63	endocriniennes 1956 1963	diabète
+T64	immunitaire 1956 1963	diabète
+T65	infections 2301 2321	infections urinaires
+T66	femme 2301 2321	infections urinaires
+T72	fonction 2159 2185	vidange vésicale spontanée
+T77	traitement 2111 2136	cathétérisme intermittent
+T79	traitement 1989 2015	drainée par sonde vésicale
+T81	nerveux 1905 1930	hypotonie vésicale isolée
+T42	sosy 1440 1456	microalbuminurie
+A8	assertion T42 absent
+A9	assertion T59 absent
+T62	valeur 1241 1248	3,7 g/l
+A10	norme T7 haut
+A11	norme T62 haut
+T84	sosy 715 738	miction par regorgement
+T85	sosy 756 809	impression de vessie toujours pleine après la miction
+T86	nerveux 1003 1037	atrophie optique bilatérale isolée
+T89	genetique 1003 1037	atrophie optique bilatérale isolée
+A12	assertion T32 absent
+T90	sosy 1501 1534	important résidu post-mict ionnel
+T91	nerveux 506 533	atrophie optique bilatérale
+T99	genetique 506 533	atrophie optique bilatérale
+T100	ORL 541 562	surdité de perception
+T101	nerveux 541 562	surdité de perception
+T102	etatsosy 541 562	surdité de perception
+T13	femme 1071 1100	fonction rénale était altérée
+T103	pathologie 506 533	atrophie optique bilatérale
+T104	pathologie 541 562	surdité de perception
+T105	sosy 692 700	énurésie
+T106	sosy 745 752	dysurie
+A13	assertion T22 absent
+T107	sosy 924 968	examen neurologique était quant à lui normal
+T48	sosy 1106 1121	urée à 0,58 g/l
+T108	sosy 1125 1150	créatininémie à 19,7 mg/l
+T109	sosy 1204 1248	glycémie était fortement augmentée à 3,7 g/l
+T110	sosy 1258 1282	hémoglobine glyquée à12%
+T111	sosy 1375 1398	urines étaient stériles
+T112	pathologie 1540 1581	urétéro-hydronéphrose (U.H.N.) bilatérale
+T113	sosy 1591 1642	légère réduction de l’index cortical du rein gauche
+T114	pathologie 1654 1673	insuffisance rénale
+T115	pathologie 1905 1930	hypotonie vésicale isolée
+T116	sosy 2031 2072	amélioration rapide de la fonction rénale
+T117	sosy 2159 2200	vidange vésicale spontanée est incomplète
+T118	sosy 2205 2232	fonction rénale est normale
+T119	pathologie 2254 2268	U.H.N. modérée
+T120	sosy 1003 1037	atrophie optique bilatérale isolée

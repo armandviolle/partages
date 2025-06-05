@@ -1,0 +1,56 @@
+T1001	anatomie 409 433	partie supérieure du dos
+T1002	anatomie 466 477	flanc droit
+T1003	anatomie 494 507	cuisse droite
+T1004	anatomie 438 451	sous mammaire
+T1005	anatomie 850 860	pulmonaire
+T1006	anatomie 961 971	thoracique
+T1007	anatomie 933 952	para-hilaire droite
+T1008	anatomie 893 903	thoracique
+T10051	duree 109 122	depuis 4 mois
+T10061	examen 271 286	examen clinique
+T10063	examen 763 773	histologie
+T10064	examen 880 911	radiographie thoracique de face
+T10065	examen 957 971	TDM thoracique
+T10066	examen 1100 1117	bilan d’extension
+T100181	pathologie 49 87	antécédents pathologiques particuliers
+T100182	pathologie 825 860	adénocarcinome d’origine pulmonaire
+T100191	sosy 127 174	lésions pigmentées dispersées sur tous le corps
+T100192	sosy 210 265	plusieurs lésions érythémateuses violacées douloureuses
+T100193	sosy 299 507	plusieurs nodules érythémateux violacés finement squameux, bien limités, à contours réguliers au niveau de la partie supérieure du dos, en sous mammaire, au niveau du flanc droit, lombaire et la cuisse droite
+T100194	sosy 526 583	multiples papules pigmentées dispersées sur tout le corps
+T100195	sosy 722 754	nodule siégeant au niveau du dos
+T100197	sosy 1135 1167	autres localisations secondaires
+T1009	anatomie 169 174	corps
+T10010	moment 193 206	il y a 2 mois
+T10011	anatomie 479 487	lombaire
+T10012	anatomie 578 583	corps
+T10013	examen 592 603	dermoscopie
+T10014	sosy 623 646	kératoses séborrhéiques
+T10015	traitement 696 754	exérèse (Figure 4,5) d’un nodule siégeant au niveau du dos
+T10016	anatomie 751 754	dos
+T10017	sosy 925 952	opacité para-hilaire droite
+T10018	anatomie 997 1018	médiastino-pulmonaire
+T10019	anatomie 1054 1061	trachée
+T10020	anatomie 1068 1074	carène
+T10021	sosy 987 1074	processus médiastino-pulmonaire supérieur droit en contact avec la trachée et la carène
+T20062	examen 688 695	biopsie
+T200196	sosy 796 875	localisation secondaire d’un adénocarcinome d’origine pulmonaire (TTF1 positif)
+T20022	substance 1218 1237	poly-chimiothérapie
+T20023	anatomie 633 646	séborrhéiques
+T20016	examen 862 866	TTF1
+A1	assertion T100181 absent
+T1	valeur 867 874	positif
+A2	assertion T100197 absent
+A3	etat T100181 passé
+T200197	tumeur 825 860	adénocarcinome d’origine pulmonaire
+T200198	etatsosy 127 174	lésions pigmentées dispersées sur tous le corps
+T2	peau 210 265	plusieurs lésions érythémateuses violacées douloureuses
+T3	peau 299 507	plusieurs nodules érythémateux violacés finement squameux, bien limités, à contours réguliers au niveau de la partie supérieure du dos, en sous mammaire, au niveau du flanc droit, lombaire et la cuisse droite
+T4	peau 526 583	multiples papules pigmentées dispersées sur tout le corps
+T5	peau 623 646	kératoses séborrhéiques
+T6	genre 17 23	Madame
+A4	genre T6 féminin
+T7	age 37 42	70ans
+T8	origine 109 265	depuis 4 mois des lésions pigmentées dispersées sur tous le corps avec l’apparition il y a 2 mois de plusieurs lésions érythémateuses violacées douloureuses
+T9	issue 1097 1167	Le bilan d’extension n’a pas montré d’autres localisations secondaires
+A5	issue T9 stable

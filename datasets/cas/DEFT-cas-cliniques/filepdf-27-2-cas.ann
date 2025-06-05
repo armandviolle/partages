@@ -1,0 +1,6 @@
+T1	genre 0 8	Monsieur
+T2	origine 168 216	tuméfaction du pôle inférieur du testicule droit
+T3	age 19 25	26 ans
+A1	genre T1 masculin
+T4	issue 1088 1163	Après 4 ans de recul, les examens clinique et échographique étaient normaux
+A2	issue T4 guérison

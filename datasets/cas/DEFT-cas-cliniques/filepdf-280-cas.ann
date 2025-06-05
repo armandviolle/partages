@@ -1,0 +1,6 @@
+T1	genre 0 3	Mme
+T2	age 16 21	41ans
+A1	genre T1 féminin
+T3	origine 54 171	coup de couteau au niveau de l'hémi-thorax droit (sur la ligne axillaire postérieure entre la 9ème et la 10ème côtes)
+T4	issue 1892 2052	L'évolution a été marquée par l'arrêt de l'hématurie dans les suites immédiates et un contrôle par échodoppler a confirmé la disparition des lésions vasculaires
+A2	issue T4 guérison

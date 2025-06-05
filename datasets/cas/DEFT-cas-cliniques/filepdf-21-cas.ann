@@ -1,0 +1,137 @@
+T1001	anatomie 121 139	hypochondre gauche
+T1002	anatomie 483 489	rénale
+T1003	anatomie 958 987	pôle supérieur du rein gauche
+T1008	anatomie 1795 1802	capsule
+T1009	anatomie 2163 2181	vaisseaux sanguins
+T10010	anatomie 2202 2221	cellules de schwann
+T10062	examen 379 406	numération formule sanguine
+T10064	examen 451 462	hématocrite
+T10065	examen 506 510	urée
+T10069	examen 781 812	acide Valyl Mandélique urinaire
+T10070	examen 851 862	échographie
+T10073	examen 1879 1889	histologie
+T100141	traitement 1336 1346	lombotomie
+T100142	traitement 1479 1525	exérèse de la tumeur et de la surrénale gauche
+T100161	valeur 413 420	normale
+T100162	valeur 436 449	12,9 g/100 ml
+T100163	valeur 465 468	39%
+T100166	valeur 680 689	300 ng/ml
+T100167	valeur 702 711	143 ng/ml
+T100168	valeur 753 759	normal
+T100169	valeur 761 776	16 ng/24 heures
+T100175	valeur 1843 1856	4 cm x 0,5 cm
+T100176	valeur 2597 2603	normal
+T100193	sosy 231 247	bon état général
+T100201	sosy 1083 1210	masse surrénalienne gauche de 7 cm x 3,5 cm de taille, de densité tissulaire, prenant faiblement le contraste de façon homogène
+T100202	pathologie 1231 1254	adénopathies satellites
+T100203	pathologie 1416 1475	tumeur surrénalienne sphérique de la taille d’une mandarine
+T100204	sosy 1816 1875	tissu surrénalien mesurant 4 cm x 0,5 cm, d’aspect jaunâtre
+T100208	sosy 2226 2312	quelques plages de cellules ganglionnaires sympathiques matures parfois peu nombreuses
+T10011	anatomie 251 258	abdomen
+T10013	anatomie 301 309	lombaire
+T10016	valeur 496 504	correcte
+T10019	anatomie 667 678	plasmatique
+T10020	moment 690 700	à 8 heures
+T10021	moment 712 723	à 16 heures
+T1005	pathologie 1493 1499	tumeur
+T10023	sosy 1566 1680	encapsulée, bien limitée, pesant 68 grammes, mesurant 6 cm x 6 cm, de consistance ferme et de coloration gris-pâle
+T10025	anatomie 2245 2281	cellules ganglionnaires sympathiques
+T10026	anatomie 2339 2356	tissu surrénalien
+T2004	anatomie 1089 1109	surrénalienne gauche
+T2006	anatomie 1423 1436	surrénalienne
+T2007	anatomie 1509 1525	surrénale gauche
+T20061	examen 182 188	examen
+T20063	examen 422 433	hémoglobine
+T20066	examen 548 562	crase sanguine
+T20067	examen 600 614	bilan hormonal
+T20068	examen 729 746	cortisol urinaire
+T20071	examen 1025 1048	tomodensitométrie (TDM)
+T20072	examen 1389 1400	exploration
+T200111	moment 2509 2521	au 6ème jour
+T200112	moment 2547 2566	deux mois plus tard
+T200164	valeur 536 542	7 mg/l
+T200165	valeur 590 594	100%
+T200170	valeur 828 845	2,40 ng/24 heures
+T200171	valeur 889 905	5 cm de diamètre
+T200172	valeur 1113 1136	7 cm x 3,5 cm de taille
+T200173	valeur 1599 1609	68 grammes
+T200174	valeur 1620 1631	6 cm x 6 cm
+T200181	pathologie 46 84	antécédents pathologiques particuliers
+T200191	sosy 108 139	douleur de l’hypochondre gauche
+T200192	sosy 154 178	amaigrissement important
+T200194	sosy 316 332	masses palpables
+T200195	anatomie 338 358	aires ganglionnaires
+T200196	examen 474 489	fonction rénale
+T200197	sosy 574 583	anomalies
+T200198	sosy 635 678	légère augmentation du cortisol plasmatique
+T200200	sosy 880 1020	masse de 5 cm de diamètre, d’écho-structure tissulaire, homogène, coiffant le pôle supérieur du rein gauche, très probablement surrénalienne
+T200205	sosy 1910 1932	prolifération tumorale
+T200206	sosy 1954 1974	fibrose périphérique
+T200207	anatomie 2137 2157	fibres de collagènes
+T200209	sosy 2362 2385	anomalies histologiques
+T200210	sosy 2407 2426	signes de malignité
+T20011	sosy 213 224	normotendue
+T20013	sosy 251 271	abdomen était souple
+T20014	sosy 293 309	contact lombaire
+T20016	sosy 338 373	aires ganglionnaires étaient libres
+T20017	sosy 379 420	numération formule sanguine était normale
+T20018	sosy 474 504	fonction rénale était correcte
+T20019	valeur 513 521	0,25 g/l
+T20020	examen 523 533	créatinine
+T20021	examen 585 587	TP
+T20024	sosy 729 759	cortisol urinaire était normal
+T20025	sosy 781 826	acide Valyl Mandélique urinaire était correct
+T20026	anatomie 1007 1020	surrénalienne
+T20027	traitement 1286 1292	opérée
+T2005	mode 1347 1385	par le 11ème espace intercostal gauche
+T20029	valeur 1453 1475	taille d’une mandarine
+T20033	sosy 2001 2097	fibres nerveuses nombreuses, groupées en faisceaux enchevêtrés et dissociés parfois par l’oedème
+T20037	examen 2572 2578	examen
+T20038	sosy 2572 2603	examen était strictement normal
+T20039	sosy 422 449	hémoglobine : 12,9 g/100 ml
+T20040	sosy 451 468	hématocrite : 39%
+T20041	sosy 506 521	urée : 0,25 g/l
+T20042	sosy 523 542	créatinine : 7 mg/l
+T20043	sosy 585 594	TP : 100%
+T20044	sosy 680 700	300 ng/ml à 8 heures
+T20045	sosy 702 723	143 ng/ml à 16 heures
+T20046	anatomie 1816 1833	tissu surrénalien
+T1	date 1296 1308	14 juin 1999
+A1	assertion T200194 absent
+A2	assertion T20014 absent
+A3	assertion T200197 absent
+T2	anatomie 738 746	urinaire
+T3	anatomie 804 812	urinaire
+A4	norme T100161 normal
+A5	norme T100162 normal
+#1	AnnotatorNotes T100162	Normal entre 120 et 160 g/L pour une femme
+A6	norme T100163 normal
+#2	AnnotatorNotes T100163	Normal entre 37 et 47% pour une femme
+A7	norme T20019 normal
+#3	AnnotatorNotes T20019	Normal entre 0,15 et 0,45 g/L
+A8	norme T200164 normal
+#4	AnnotatorNotes T200164	Normal entre 5 et 12 mg/L pour une femme
+A9	norme T100176 normal
+A10	etat T200181 passé
+A11	assertion T200181 absent
+T4	anatomie 398 406	sanguine
+T5	anatomie 554 562	sanguine
+T6	valeur 819 826	correct
+A12	assertion T100202 absent
+T9	sosy 1697 1751	tranche de section était homogène fasciculée, grisâtre
+A13	assertion T200209 absent
+A14	assertion T200210 absent
+T200212	etatsosy 108 139	douleur de l’hypochondre gauche
+T200213	etatsosy 2091 2097	oedème
+T200214	tumeur 1416 1475	tumeur surrénalienne sphérique de la taille d’une mandarine
+T7	endocriniennes 1416 1446	tumeur surrénalienne sphérique
+T8	tumeur 1493 1499	tumeur
+T10	tumeur 1910 1932	prolifération tumorale
+T11	etatsosy 154 178	amaigrissement important
+T12	etatsosy 1954 1974	fibrose périphérique
+T13	genre 0 3	Mme
+A15	genre T13 féminin
+T14	age 20 26	25 ans
+T15	origine 108 178	douleur de l’hypochondre gauche associée à un amaigrissement important
+T16	issue 2400 2426	pas de signes de malignité
+A16	issue T16 guérison

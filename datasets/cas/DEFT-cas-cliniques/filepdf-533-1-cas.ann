@@ -1,0 +1,54 @@
+T1	sosy 51 74	problèmes psychomoteurs
+T2	duree 75 94	depuis leur enfance
+T3	examen 195 203	autopsie
+T4	anatomie 278 286	trachées
+T5	sosy 251 286	résidus de fumées dans les trachées
+T6	sosy 217 236	signes de violences
+T7	examen 311 361	prélèvements de sang, cheveux et contenu gastrique
+T8	anatomie 333 340	cheveux
+T9	anatomie 352 361	gastrique
+T10	examen 385 414	analyse de première intention
+T11	sosy 427 481	présence de toxiques dus à l'incendie (HbCO, cyanures)
+T12	substance 439 447	toxiques
+T13	substance 466 470	HbCO
+T14	substance 472 480	cyanures
+T15	substance 488 514	traitement antiépileptique
+T16	examen 649 673	analyses complémentaires
+T17	examen 705 736	recherche des toxiques végétaux
+T18	substance 719 736	toxiques végétaux
+T19	examen 755 804	screening d'alcaloïdes végétaux toxiques en LC/MS
+T20	substance 767 795	alcaloïdes végétaux toxiques
+T21	substance 828 836	atropine
+T22	substance 843 854	scopolamine
+T23	anatomie 887 896	gastrique
+T24	sosy 817 896	présence d'atropine et de scopolamine dans le sang et dans le contenu gastrique
+T26	substance 975 981	Datura
+T28	sosy 1042 1071	état de stupeur semi comateux
+A1	assertion T28 possible
+T29	examen 1117 1124	enquête
+T30	substance 1257 1273	plantes toxiques
+T31	examen 1297 1320	analyses toxicologiques
+T33	mode 1390 1398	infusion
+T34	substance 1414 1420	Datura
+T35	duree 1514 1541	au bout de plusieurs années
+T36	moment 1611 1620	la veille
+T25	substance 516 532	acide valproïque
+T27	substance 534 544	clonazepam
+T37	substance 546 559	carbamazépine
+T32	sosy 1361 1367	drogué
+T38	anatomie 863 867	sang
+T39	anatomie 61 74	psychomoteurs
+T40	anatomie 327 331	sang
+T41	substance 262 268	fumées
+T42	nerveux 51 74	problèmes psychomoteurs
+T43	blessures 217 236	signes de violences
+T44	chimiques 427 481	présence de toxiques dus à l'incendie (HbCO, cyanures)
+T46	chimiques 817 896	présence d'atropine et de scopolamine dans le sang et dans le contenu gastrique
+T47	chimiques 1361 1367	drogué
+T48	etatsosy 51 74	problèmes psychomoteurs
+T45	genre 5 10	sœurs
+A2	genre T45 féminin
+T49	age 29 34	7 ans
+T50	origine 51 191	problèmes psychomoteurs depuis leur enfance sont retrouvées brûlées dans leur habitation, comme endormies, sans signes de tentative de fuite
+T51	issue 1473 1478	tuées
+A3	issue T51 décès

@@ -1,0 +1,123 @@
+T1	pathologie 62 92	maladie d’hodgkin en rémission
+A1	etat T1 passé
+T2	duree 93 109	depuis douze ans
+T3	duree 133 148	depuis deux ans
+T4	sosy 157 203	psoriasis d’abord dermique puis arthropathique
+T5	anatomie 175 183	dermique
+T6	anatomie 189 203	arthropathique
+T7	substance 214 226	méthotrexate
+T8	duree 227 244	pendant une année
+T10	examen 260 278	évolution clinique
+T11	sosy 254 287	bonne évolution clinique initiale
+T12	duree 309 327	depuis quatre mois
+T13	sosy 332 386	diarrhée chronique (3 à 4 selles par jour) liquidienne
+T14	frequence 341 374	chronique (3 à 4 selles par jour)
+T15	sosy 412 425	malabsorption
+A2	assertion T15 absent
+T16	sosy 441 480	syndrome rectal (ténesmes et épreintes)
+T17	examen 484 500	examen abdominal
+T18	valeur 507 513	normal
+T19	sosy 484 513	examen abdominal était normal
+T20	examen 517 530	examen cutané
+T21	anatomie 491 500	abdominal
+T22	anatomie 524 530	cutané
+T23	anatomie 450 456	rectal
+T24	sosy 544 628	lésions dermatologiques érythématosquameuses en placard sur les coudes et les genoux
+T25	anatomie 552 567	dermatologiques
+T26	anatomie 608 614	coudes
+T27	anatomie 622 628	genoux
+T28	examen 640 658	examen articulaire
+T29	anatomie 647 658	articulaire
+T30	sosy 679 787	oligo-arthrite des 2ème et 3ème métacarpophalangiennes et des 2ème interphalangiennes proximales des orteils
+T31	anatomie 698 733	2ème et 3ème métacarpophalangiennes
+T32	anatomie 741 787	2ème interphalangiennes proximales des orteils
+T33	examen 792 808	bilan biologique
+T34	sosy 825 877	syndrome inflammatoire modéré (VS= 75mm, CRP=70mg/l)
+T35	examen 856 858	VS
+T36	valeur 860 864	75mm
+T37	examen 866 869	CRP
+T38	valeur 870 876	70mg/l
+T39	examen 882 900	facteur rhumatoïde
+T41	sosy 882 914	facteur rhumatoïde était négatif
+T42	examen 918 951	examen parasitologique des selles
+T44	sosy 918 965	examen parasitologique des selles était négatif
+T45	examen 969 989	examen proctologique
+T46	sosy 1012 1044	fissure anale polaire antérieure
+T47	anatomie 1020 1044	anale polaire antérieure
+T48	examen 1049 1064	iléo-coloscopie
+T49	sosy 1085 1169	muqueuse colique érythémateuse exulcérée par endroits avec espaces de muqueuse saine
+T50	anatomie 1085 1093	muqueuse
+T51	anatomie 1155 1163	muqueuse
+T52	anatomie 1186 1212	muqueuse rectale et iléale
+T53	examen 1221 1241	aspect macroscopique
+T54	valeur 1242 1248	normal
+T55	sosy 1174 1248	reste de la muqueuse rectale et iléale était d’aspect macroscopique normal
+T56	examen 1254 1281	biopsies coliques multiples
+T58	examen 1296 1315	aspect histologique
+T59	sosy 1322 1344	inflammation chronique
+T60	sosy 1358 1507	maladie de Crohn (muqueuse ulcérée, chorion siège d’un infiltrat inflammatoire lymphoplasmocytaire avec raréfaction et dédifférenciation glandulaire)
+T61	anatomie 1376 1384	muqueuse
+T62	anatomie 1394 1401	chorion
+T63	sosy 1513 1532	signes de malignité
+A3	assertion T63 absent
+T64	anatomie 1437 1456	lymphoplasmocytaire
+T65	examen 1546 1574	biopsies rectales et iléales
+T66	anatomie 1555 1563	rectales
+T67	anatomie 1567 1574	iléales
+T68	anatomie 1593 1601	muqueuse
+T70	sosy 1593 1607	muqueuse saine
+T71	examen 1613 1651	cultures à la recherche de tuberculose
+T72	pathologie 1640 1651	tuberculose
+A4	assertion T72 absent
+T73	examen 1673 1691	EOGD avec biopsies
+T74	sosy 1711 1719	anomalie
+A5	assertion T74 absent
+T75	examen 1723 1736	entéroscanner
+T76	valeur 1743 1762	sans particularités
+T77	sosy 1723 1762	entéroscanner était sans particularités
+T78	examen 1767 1799	sérologie de la maladie cœliaque
+T79	pathologie 1783 1799	maladie cœliaque
+A6	assertion T79 absent
+T81	pathologie 1837 1847	MC colique
+T83	pathologie 1862 1871	psoriasis
+T84	examen 1893 1943	critères cliniques, endoscopiques et histologiques
+T85	substance 1991 2003	méthotrexate
+T86	pathologie 2042 2044	MC
+T87	pathologie 2051 2060	psoriasis
+T88	substance 2065 2088	protocole thérapeutique
+T89	duree 2105 2123	pendant trois mois
+T90	examen 2127 2147	consultation externe
+T92	examen 2157 2179	consultation régulière
+T93	duree 2188 2204	durée de 14 mois
+T95	examen 2221 2253	évolution clinique et biologique
+T96	sosy 2215 2253	bonne évolution clinique et biologique
+T9	anatomie 1495 1506	glandulaire
+#1	AnnotatorNotes T86	maladie coeliaque
+T40	valeur 907 914	négatif
+T43	valeur 958 965	négatif
+T91	anatomie 945 951	selles
+T57	frequence 1335 1344	chronique
+T69	pathologie 890 900	rhumatoïde
+T80	tumeur 62 79	maladie d’hodgkin
+T82	hemopathies 62 79	maladie d’hodgkin
+T94	immunitaire 62 79	maladie d’hodgkin
+T97	peau 157 203	psoriasis d’abord dermique puis arthropathique
+T98	osteomusculaires 157 203	psoriasis d’abord dermique puis arthropathique
+T99	etatsosy 332 350	diarrhée chronique
+T100	etatsosy 441 480	syndrome rectal (ténesmes et épreintes)
+T101	osteomusculaires 679 693	oligo-arthrite
+T102	digestif 1012 1044	fissure anale polaire antérieure
+T103	digestif 1358 1374	maladie de Crohn
+T104	digestif 1837 1847	MC colique
+T105	peau 1862 1871	psoriasis
+T106	digestif 2042 2044	MC
+T107	peau 2051 2060	psoriasis
+T108	etatsosy 544 628	lésions dermatologiques érythématosquameuses en placard sur les coudes et les genoux
+T109	infections 679 693	oligo-arthrite
+T110	etatsosy 825 854	syndrome inflammatoire modéré
+T111	genre 11 18	patient
+T112	age 26 32	36 ans
+A7	genre T111 masculin
+T113	origine 328 480	une diarrhée chronique (3 à 4 selles par jour) liquidienne sans signes cliniques de malabsorption, associée à un syndrome rectal (ténesmes et épreintes)
+T114	issue 2180 2253	sur une durée de 14 mois, avec une bonne évolution clinique et biologique
+A8	issue T114 amélioration

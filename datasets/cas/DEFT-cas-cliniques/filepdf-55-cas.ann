@@ -1,0 +1,6 @@
+T1	age 12 18	73 ans
+T2	genre 3 8	homme
+A1	genre T2 masculin
+T3	origine 152 221	une douleur thoracique et dypsnée survenue quelques heures auparavant
+T4	issue 2744 2820	le patient a retrouvé un bon confort fonctionnel sans résidu post-mictionnel
+A2	issue T4 guérison

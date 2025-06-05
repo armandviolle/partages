@@ -1,0 +1,5 @@
+T1	genre 24 36	une patiente
+A1	genre T1 féminin
+T2	issue 1493 1697	Avec ces traitements, on est parvenu à contrôler la GVH, mais dix mois après la seconde greffe, la patiente a eu une exacerbation de sa GVH intestinale, probablement secondaire à une infection à rotavirus
+A2	issue T2 détérioration
+T3	origine 38 72	une leucémie aiguë lymphoblastique

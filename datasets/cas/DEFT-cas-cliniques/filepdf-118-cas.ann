@@ -1,0 +1,6 @@
+T1	age 12 18	57 ans
+T2	genre 920 930	Le patient
+A1	genre T2 masculin
+T3	origine 92 200	une symptomatologie faite de céphalées, fatigue et acouphènes, avec découverte d'une hypertension artérielle
+T4	issue 2149 2244	L'évolution a été marquée par la normalisation des chiffres tensionnels, avec un recul de 4 ans
+A2	issue T4 amélioration

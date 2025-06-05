@@ -1,0 +1,6 @@
+T1	genre 0 5	Femme
+T2	age 14 20	55 ans
+A1	genre T1 féminin
+T3	origine 86 117	insuffisance rénale avec anurie
+T4	issue 1231 1373	les cavités sont toujours un peu dilatées avec un parenchyme très aminci. La patiente est alors mise sur un programme d'hémodialyse périodique
+A2	issue T4 stable

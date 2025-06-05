@@ -1,0 +1,27 @@
+T5	anatomie 124 129	corps
+T1	substance 261 269	Lysanxia
+T6	duree 271 292	depuis plusieurs mois
+T9	anatomie 303 307	sang
+T4	examen 327 348	analyse toxicologique
+T16	substance 354 365	nordiazépam
+T10	anatomie 412 416	sang
+T7	substance 463 471	prazépam
+T2	substance 491 499	Lysanxia
+T11	anatomie 548 552	sang
+T3	substance 374 382	oxazépam
+T14	substance 506 514	Zolpidem
+T8	genre 10 15	femme
+A1	genre T8 féminin
+T12	nerveux 635 649	endormissement
+T13	nerveux 655 662	amnésie
+T15	etatsosy 655 662	amnésie
+T17	chimiques 506 552	Zolpidem a également été retrouvé dans le sang
+T18	blessures 59 66	blessée
+T19	nerveux 136 155	ne se souvient plus
+T20	etatsosy 136 155	ne se souvient plus
+T21	sosy 351 416	Du nordiazépam et de l'oxazépam sont mis en évidence dans le sang
+T22	sosy 59 66	blessée
+T23	sosy 136 155	ne se souvient plus
+T24	sosy 506 552	Zolpidem a également été retrouvé dans le sang
+T25	sosy 635 649	endormissement
+T26	sosy 655 662	amnésie

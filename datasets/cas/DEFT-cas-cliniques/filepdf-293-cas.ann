@@ -1,0 +1,6 @@
+T1	age 12 18	59 ans
+T2	genre 3 8	homme
+A1	genre T2 masculin
+T3	origine 119 143	des épisodes d'hématurie
+T4	issue 1083 1180	Un scanner de contrôle effectué 6 mois après le diagnostic n'a pas montré de progression tumorale
+A2	issue T4 stable

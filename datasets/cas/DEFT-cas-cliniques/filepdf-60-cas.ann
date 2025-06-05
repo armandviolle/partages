@@ -1,0 +1,6 @@
+T1	age 10 16	35 ans
+T2	genre 4621 4631	Le patient
+T3	issue 4636 4642	décédé
+A1	issue T3 décès
+A2	genre T2 masculin
+T4	origine 56 177	un syndrôme douloureux abdominal évoluant depuis plusieurs semaines, en rapport avec une volumineuse masse du flanc droit

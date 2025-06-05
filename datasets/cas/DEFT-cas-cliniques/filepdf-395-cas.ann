@@ -1,0 +1,137 @@
+T1	date 51 67	10 décembre 2003
+T2	pathologie 124 138	hépatite aiguë
+T3	sosy 203 251	aggravation récente de conduites d’alcoolisation
+T4	pathologie 304 320	éthylisme ancien
+A1	etat T4 passé
+T5	pathologie 328 368	toxicomanie à la buprénorphine (Subutex)
+A2	etat T5 passé
+T6	substance 345 358	buprénorphine
+T7	substance 360 367	Subutex
+T8	duree 376 391	depuis six mois
+A3	prise T6 arrêt
+A4	prise T7 arrêt
+T9	substance 433 446	lévopromazine
+T10	substance 448 455	Tercian
+T11	substance 463 473	alprazolam
+T12	substance 475 480	Xanax
+T13	substance 489 499	paroxétine
+T14	substance 501 509	Divarius
+T15	substance 519 530	alimémazine
+T16	substance 532 541	Theralene
+T17	moment 545 558	À l’admission
+T18	sosy 577 587	apyrétique
+T19	examen 595 610	examen clinique
+T20	valeur 617 623	normal
+T21	sosy 595 623	examen clinique était normal
+T22	sosy 641 650	astérixis
+A5	assertion T22 absent
+T23	sosy 657 681	trouble de la conscience
+A6	assertion T23 absent
+T24	examen 687 700	hémodynamique
+T26	sosy 687 713	hémodynamique était stable
+T27	sosy 737 750	signe de choc
+A7	assertion T27 absent
+T28	examen 755 780	bilan biologique d’entrée
+T29	sosy 794 805	macrocytose
+T30	sosy 815 827	thrombopénie
+T31	sosy 832 916	cytolyse majeure avec des ALAT et des ASAT respectivement à 60 à 450 fois la normale
+T32	examen 858 862	ALAT
+T33	examen 870 874	ASAT
+T34	valeur 892 916	60 à 450 fois la normale
+T35	sosy 931 1064	cholestase ictérique (phosphatases alcalines, gamma glutamyltransferase et bilirubine conjuguée respectivement à 1,5N, 3N, 75 µmol/L)
+T37	examen 953 975	phosphatases alcalines
+T38	examen 977 1002	gamma glutamyltransferase
+T39	examen 1006 1026	bilirubine conjuguée
+T40	valeur 1044 1048	1,5N
+T41	valeur 1050 1052	3N
+T42	valeur 1054 1063	75 µmol/L
+T43	sosy 1069 1135	taux de prothrombine était effondré (23 %) avec un facteur V à 8 %
+T44	examen 1069 1089	taux de prothrombine
+T45	valeur 1106 1110	23 %
+T46	examen 1120 1129	facteur V
+T47	valeur 1132 1135	8 %
+T48	examen 1140 1155	fonction rénale
+T49	anatomie 1149 1155	rénale
+T50	valeur 1162 1169	normale
+T51	sosy 1140 1169	fonction rénale était normale
+T52	sosy 1177 1190	rhabdomyolyse
+A8	assertion T52 absent
+T53	examen 1211 1214	CPK
+T54	valeur 1221 1229	normales
+T55	sosy 1211 1229	CPK étant normales
+T56	examen 1235 1350	sérologies pour les virus des hépatites A, B, C, l’Epstein Barr virus, le cytomégalovirus et l’herpes simplex virus
+T58	sosy 1235 1368	sérologies pour les virus des hépatites A, B, C, l’Epstein Barr virus, le cytomégalovirus et l’herpes simplex virus étaient négatives
+T59	examen 1372 1383	échographie
+T60	sosy 1395 1415	hépato splénomégalie
+T61	sosy 1430 1450	dysmorphie hépatique
+A9	assertion T61 absent
+T62	anatomie 1441 1450	hépatique
+T64	sosy 1457 1493	dilatation des veines sus hépatiques
+T65	anatomie 1472 1493	veines sus hépatiques
+A10	assertion T64 absent
+T66	anatomie 1498 1506	vésicule
+T67	sosy 1498 1525	vésicule était alithiasique
+T68	sosy 1549 1579	dilatation des voies biliaires
+A11	assertion T68 absent
+T69	anatomie 1564 1579	voies biliaires
+T70	pathologie 1655 1676	hépatite aiguë sévère
+T71	anatomie 1706 1715	hépatique
+T72	examen 1735 1750	paracétamolémie
+T73	valeur 1753 1760	29 mg/L
+T74	sosy 1735 1760	paracétamolémie à 29 mg/L
+T75	moment 1769 1799	plus de 24 h après l’admission
+T76	substance 1976 2012	Codoliprane (paracétamol et codéine)
+T77	date 2017 2037	8 et 9 décembre 2003
+T78	dose 2073 2086	6,4 et 12,8 g
+T79	substance 2090 2101	paracétamol
+T80	substance 2124 2141	N acétyl cystéine
+T81	date 2158 2174	10 décembre 2003
+T82	moment 2175 2207	à la 24e heure d’hospitalisation
+T83	dose 2209 2218	150 mg/kg
+T84	duree 2219 2231	en une heure
+T85	dose 2242 2251	150 mg/kg
+T86	duree 2252 2260	sur 20 h
+T87	moment 2267 2304	48 h après le début de l’intoxication
+T88	sosy 2292 2304	intoxication
+T89	sosy 2343 2362	normalisation du TP
+T90	examen 2360 2362	TP
+T91	duree 2363 2370	en 96 h
+T92	sosy 2374 2416	diminution significative des transaminases
+T93	examen 2403 2416	transaminases
+T94	duree 2460 2470	en un mois
+T95	pathologie 2488 2524	hépatite aiguë sévère au paracétamol
+T96	substance 2513 2524	paracétamol
+T97	substance 2579 2582	NAC
+T98	sosy 2591 2610	éthylique chronique
+T99	frequence 2601 2610	chronique
+#1	AnnotatorNotes T90	taux de prothrombine ; examen de biologie médicale
+T25	valeur 1359 1368	négatives
+T57	pathologie 1690 1715	encéphalopathie hépatique
+A12	assertion T57 absent
+T100	moment 160 169	la veille
+T36	pathologie 1265 1282	hépatites A, B, C
+T101	pathologie 1286 1304	Epstein Barr virus
+T102	pathologie 1309 1324	cytomégalovirus
+T103	pathologie 1330 1344	herpes simplex
+T63	digestif 124 138	hépatite aiguë
+T104	chimiques 304 320	éthylisme ancien
+T105	chimiques 328 368	toxicomanie à la buprénorphine (Subutex)
+T106	hemopathies 815 827	thrombopénie
+T107	etatsosy 1395 1415	hépato splénomégalie
+T108	virales 124 138	hépatite aiguë
+T109	virales 1655 1676	hépatite aiguë sévère
+T110	digestif 1655 1676	hépatite aiguë sévère
+T111	virales 2488 2509	hépatite aiguë sévère
+T112	digestif 2488 2509	hépatite aiguë sévère
+T113	chimiques 2513 2524	paracétamol
+T114	chimiques 2292 2304	intoxication
+T115	chimiques 2591 2610	éthylique chronique
+T116	hemopathies 794 805	macrocytose
+T117	hemopathies 832 848	cytolyse majeure
+T118	nutritionnelles 1735 1750	paracétamolémie
+T119	genre 3 8	homme
+T120	age 12 18	42 ans
+A13	genre T119 masculin
+T121	origine 124 138	hépatite aiguë
+T122	issue 2306 2470	L’évolution était favorable avec une normalisation du TP en 96 h et diminution significative des transaminases (figure 1) qui se normalisaient totalement en un mois
+A14	issue T122 guérison

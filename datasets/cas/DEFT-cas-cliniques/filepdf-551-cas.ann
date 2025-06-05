@@ -1,0 +1,138 @@
+T1001	anatomie 735 750	ostéo-tendineux
+T10061	examen 380 396	score de Glasgow
+T10062	examen 409 424	examen clinique
+T10063	examen 1201 1219	tension artérielle
+T10064	examen 1248 1267	électrocardiogramme
+T10065	examen 1305 1330	radiographies des poumons
+T10066	examen 1449 1463	interrogatoire
+T100111	moment 1064 1099	Une heure et demi après l'admission
+T100112	moment 1177 1196	quatre heures après
+T100113	moment 1345 1378	Quelques heures après l'admission
+T100114	moment 1811 1827	dès le lendemain
+T100121	substance 1607 1614	Osmotan
+T100122	substance 2428 2434	Datura
+T100161	valeur 822 829	37,5° C
+T100162	valeur 898 923	130 battements par minute
+T100163	valeur 970 977	normale
+T100164	valeur 979 988	120 mm Hg
+T100165	valeur 1053 1061	40 mm Hg
+T100166	valeur 1129 1138	149 mm Hg
+T100167	valeur 1164 1172	71 mm Hg
+T100168	valeur 1336 1343	normaux
+T100181	pathologie 478 507	mydriase bilatérale aréactive
+T100191	sosy 435 444	épistaxis
+T100192	sosy 449 472	hématome péri orbitaire
+T100193	sosy 586 605	douleurs crâniennes
+T100194	sosy 637 662	focalisation neurologique
+T100195	sosy 671 685	déficit moteur
+T100197	substance 1548 1556	absinthe
+T100198	sosy 1932 1944	intoxication
+T1002	sosy 256 328	alterne entre des phases de somnolence et des phases d'agitation extrême
+T1003	traitement 345 364	contention physique
+T1004	valeur 403 405	15
+T1005	anatomie 512 519	abdomen
+T1006	sosy 512 538	abdomen indolore et souple
+T1007	sosy 564 578	hallucinations
+T1008	anatomie 595 605	crâniennes
+T1009	examen 691 708	signe de Babinski
+T10010	valeur 713 720	négatif
+T10011	examen 726 750	réflexes ostéo-tendineux
+T10013	examen 875 896	tachycardie régulière
+T10014	examen 929 965	pression artérielle systolique (PAS)
+T10015	examen 998 1035	pression artérielle diastolique (PAD)
+T10016	examen 1104 1107	PAS
+T10017	examen 1146 1149	PAD
+T10018	valeur 1236 1243	normale
+T10020	anatomie 1323 1330	poumons
+T10021	traitement 1384 1416	sonde urinaire est mise en place
+T10022	sosy 1432 1445	globe vesical
+T10023	anatomie 1438 1445	vesical
+T10024	substance 1509 1514	acide
+T10025	substance 1516 1523	ecstasy
+T10026	substance 1525 1532	héroïne
+T10027	substance 1534 1542	cannabis
+T10029	mode 1595 1604	perfusion
+T10030	substance 1639 1646	Loxapac
+T10031	dose 1622 1635	deux ampoules
+T10032	traitement 1651 1670	contention physique
+T10035	substance 2198 2232	anxiolytique non anticholinergique
+T10036	traitement 2505 2521	lavage gastrique
+T10037	anatomie 2512 2521	gastrique
+T10038	substance 2545 2559	charbon activé
+T10039	traitement 2530 2559	administrer du charbon activé
+T10040	traitement 2569 2585	lavage gastrique
+T10041	anatomie 2576 2585	gastrique
+T200196	sosy 929 989	pression artérielle systolique (PAS) est normale (120 mm Hg)
+T2002	sosy 39 50	inconscient
+T2003	substance 179 195	boisson verdâtre
+T2008	sosy 380 405	score de Glasgow est à 15
+T2009	anatomie 458 472	péri orbitaire
+T20014	anatomie 650 662	neurologique
+T20015	anatomie 679 685	moteur
+T20017	sosy 691 720	signe de Babinski est négatif
+T20019	sosy 726 772	réflexes ostéo-tendineux ne sont pas retrouvés
+T20020	examen 777 808	température corporelle initiale
+T20021	valeur 813 820	normale
+T20022	sosy 777 820	température corporelle initiale est normale
+T20023	anatomie 843 859	cardiovasculaire
+T20024	sosy 875 924	tachycardie régulière (130 battements par minute)
+T20026	anatomie 938 948	artérielle
+T20028	anatomie 1007 1017	artérielle
+T20029	sosy 998 1062	pression artérielle diastolique (PAD) est très faible (40 mm Hg)
+T20030	sosy 1104 1139	PAS augmente légèrement (149 mm Hg)
+T20032	sosy 1146 1173	PAD se normalise (71 mm Hg)
+T20035	anatomie 1209 1219	artérielle
+T20036	sosy 1201 1243	tension artérielle est tout à fait normale
+T20037	sosy 1285 1296	tachycardie
+T20040	anatomie 1390 1398	urinaire
+T20043	sosy 1492 1556	prise possible d'acide, ecstasy, héroïne, cannabis ou d'absinthe
+T20052	sosy 1695 1712	agitation extrême
+T20053	moment 1829 1838	Au réveil
+T20054	sosy 1909 1919	douloureux
+T20055	sosy 2267 2276	séquelles
+T20056	examen 2147 2181	surveillance des fonctions vitales
+T20057	substance 2183 2196	réhydratation
+T20058	duree 2322 2336	30 à 40 heures
+T20070	sosy 2634 2650	état d'agitation
+T1	sosy 1894 1905	désagréable
+A1	assertion T20055 absent
+A2	norme T1004 normal
+A3	norme T20021 normal
+A4	norme T100161 normal
+A5	norme T100162 haut
+A6	norme T100163 normal
+A7	norme T100165 bas
+A8	norme T100164 normal
+A9	norme T10018 normal
+A10	norme T100166 haut
+A11	norme T100167 normal
+A12	norme T100168 normal
+#1	AnnotatorNotes T100164	Norme si PAS<140 et PAD<90
+A13	assertion T100194 absent
+A14	assertion T100195 absent
+A15	assertion T20043 possible
+T200197	etatsosy 586 605	douleurs crâniennes
+T200198	oeil 478 507	mydriase bilatérale aréactive
+T2	nerveux 564 578	hallucinations
+T3	etatsosy 564 578	hallucinations
+T4	respiratoire 435 444	épistaxis
+T5	ORL 435 444	épistaxis
+T6	etatsosy 435 444	épistaxis
+T7	etatsosy 449 472	hématome péri orbitaire
+T8	cardiovasculaires 875 896	tachycardie régulière
+T9	etatsosy 875 896	tachycardie régulière
+T10	etatsosy 1285 1296	tachycardie
+T11	cardiovasculaires 1285 1296	tachycardie
+T12	chimiques 1932 1944	intoxication
+T13	nerveux 2634 2650	état d'agitation
+T14	etatsosy 2634 2650	état d'agitation
+T15	nerveux 1695 1712	agitation extrême
+T16	etatsosy 1695 1712	agitation extrême
+T17	nerveux 39 50	inconscient
+T18	etatsosy 39 50	inconscient
+T19	genre 0 8	Monsieur
+A16	genre T19 masculin
+T20	age 19 25	25 ans
+T21	origine 30 71	retrouvé inconscient sur la voie publique
+T22	issue 1725 1827	L'évolution clinique a été rapidement favorable et le patient a pu quitter le service dès le lendemain
+A17	issue T22 guérison

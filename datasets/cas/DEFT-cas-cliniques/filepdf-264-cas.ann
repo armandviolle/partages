@@ -1,0 +1,167 @@
+T17	anatomie 1012 1031	anatomopathologique
+T46	anatomie 1067 1093	base droite de la prostate
+T2	tumeur 1118 1147	adénocarcinome de la prostate
+T57	anatomie 1139 1147	prostate
+T14	examen 111 138	ratio PSA libre / PSA total
+T32	examen 1209 1217	biopsies
+T4	etatsosy 1298 1312	fièvre à 39° C
+T7	valeur 1307 1312	39° C
+T61	examen 1324 1336	prélèvements
+T10	examen 1360 1364	ECBU
+T20	substance 1377 1418	antibiothérapie synergique et bactéricide
+T52	substance 1423 1433	ofloxacine
+T47	substance 1437 1448	gentamicine
+T11	examen 1490 1494	ECBU
+T133	examen 151 162	taux de PSA
+T122	examen 1671 1693	résidu post-mictionnel
+T40	duree 175 187	depuis 3 ans
+T43	anatomie 1877 1899	membre supérieur droit
+T69	anatomie 1996 2006	sus-pubien
+T26	examen 2041 2057	bilan biologique
+T6	etatsosy 2068 2090	syndrome inflammatoire
+T9	examen 2092 2095	CRP
+T68	examen 2107 2128	scintigraphie osseuse
+T53	anatomie 2121 2128	osseuse
+T93	examen 2136 2159	radiographies du rachis
+T62	anatomie 2153 2159	rachis
+T66	valeur 2168 2181	sans anomalie
+T36	anatomie 2202 2211	cervicale
+T1	infections 2241 2255	abcès épidural
+T87	anatomie 2356 2363	discale
+T86	anatomie 2523 2531	cervical
+T65	traitement 2537 2549	repos au lit
+T21	substance 2627 2638	ceftriaxone
+T48	substance 2642 2653	gentamicine
+T44	anatomie 2707 2729	membre supérieur droit
+T12	examen 2748 2763	IRM de contrôle
+T55	duree 2910 2927	pendant deux mois
+T70	anatomie 2970 2980	sus-pubien
+T79	moment 2997 3001	à J2
+T77	moment 3041 3057	après trois mois
+T38	sosy 288 331	plusieurs épisodes de coliques néphrétiques
+T51	anatomie 319 331	néphrétiques
+T3	etatsosy 336 342	calcul
+T39	examen 34 46	consultation
+T72	examen 396 410	toucher rectal
+T63	anatomie 404 410	rectal
+T5	tumeur 414 420	nodule
+T45	anatomie 432 438	droite
+T33	examen 470 491	biopsies prostatiques
+T59	anatomie 479 491	prostatiques
+T35	examen 590 624	cartographie biopsique prostatique
+T58	anatomie 613 624	prostatique
+T64	anatomie 658 664	rectal
+T19	substance 700 718	antibioprophylaxie
+T8	dose 723 729	800 mg
+T23	moment 746 763	deux heures avant
+T28	examen 767 774	biopsie
+T132	examen 80 91	taux de PSA
+T78	dose 806 817	une ampoule
+T50	mode 839 855	intra-musculaire
+T24	moment 857 886	une demi-heure avant le geste
+T34	examen 894 915	biopsies prostatiques
+T60	anatomie 903 915	prostatiques
+T31	examen 937 945	biopsies
+T25	age 14 20	57 ans
+T29	valeur 94 104	4,8 ng /ml
+T30	valeur 142 145	19%
+T13	valeur 220 234	0,75 ng /ml/an
+A1	norme T29 haut
+#1	AnnotatorNotes T29	Normal à 3,5 pour les hommes de 50 à 60 ans
+T15	substance 733 744	pefloxacine
+T16	substance 821 828	néfopam
+T22	substance 830 836	acupan
+T37	traitement 649 664	lavement rectal
+T41	substance 683 691	Normacol
+T49	examen 366 381	examen clinique
+T54	genre 0 2	Mr
+A2	genre T54 masculin
+A3	norme T7 haut
+T67	substance 1533 1549	fluoroquinolones
+T76	substance 1567 1578	ceftriaxone
+T80	examen 1005 1031	examen anatomopathologique
+T81	substance 1632 1643	ceftriaxone
+T82	moment 1762 1793	Soixante douze heures plus tard
+T18	examen 2198 2211	IRM cervicale
+T27	homme 1118 1147	adénocarcinome de la prostate
+T56	sosy 1298 1312	fièvre à 39° C
+T83	examen 1346 1358	hémocultures
+T84	moment 1177 1204	Soixante douze heures après
+T85	examen 1471 1483	hémocultures
+T88	homme 1907 1930	rétention aigue d'urine
+T89	dispositif 1983 2006	cathétérisme sus-pubien
+T91	etatsosy 1865 1899	parésies du membre supérieur droit
+T92	nerveux 1865 1899	parésies du membre supérieur droit
+T94	sosy 1865 1899	parésies du membre supérieur droit
+T95	sosy 1907 1930	rétention aigue d'urine
+T96	sosy 2068 2090	syndrome inflammatoire
+T97	valeur 2098 2101	271
+A4	norme T97 haut
+T98	nerveux 2241 2255	abcès épidural
+T99	infections 2325 2341	spondylite de C3
+T100	osteomusculaires 2325 2341	spondylite de C3
+T101	sosy 2347 2363	atteinte discale
+A5	assertion T101 absent
+T102	traitement 2444 2477	prise en charge neurochirurgicale
+T103	examen 2379 2396	échocardiographie
+T104	sosy 2419 2439	endocardite associée
+A6	assertion T104 absent
+T105	dispositif 2515 2531	collier cervical
+T106	dispositif 2546 2549	lit
+T73	moment 2655 2675	Après trois semaines
+T75	etatsosy 2695 2729	parésies du membre supérieur droit
+T107	nerveux 2695 2729	parésies du membre supérieur droit
+T108	sosy 2695 2729	parésies du membre supérieur droit
+T109	osteomusculaires 2794 2804	spondylite
+T110	infections 2794 2804	spondylite
+T111	infections 2843 2848	abcès
+T112	substance 2880 2891	ceftriaxone
+T113	substance 2863 2878	antibiothérapie
+T42	dispositif 2961 2980	cathéter sus-pubien
+T114	traitement 2949 2980	ablation du cathéter sus-pubien
+T74	traitement 3113 3134	prostatectomie totale
+T90	infections 1511 1549	E .Coli résistant aux fluoroquinolones
+T115	moment 1697 1712	après 48 heures
+T116	etatsosy 310 331	coliques néphrétiques
+T117	osteomusculaires 272 286	cervicarthrose
+#2	AnnotatorNotes T117	arthrose cervicale
+T118	homme 350 361	dysérection
+A7	norme T13 haut
+T119	sosy 1048 1093	infiltration de la base droite de la prostate
+T120	homme 1276 1292	prostatite aiguë
+T121	traitement 2496 2531	immobilisation par collier cervical
+T71	sosy 80 104	taux de PSA à 4,8 ng /ml
+T123	sosy 111 145	ratio PSA libre / PSA total de 19%
+T124	substance 669 677	mucilage
+T125	traitement 778 787	analgésie
+T126	traitement 881 886	geste
+T127	anatomie 951 955	base
+T128	anatomie 960 966	milieu
+T129	anatomie 972 976	apex
+T130	anatomie 993 1000	2 lobes
+T131	valeur 1151 1175	score 6 de Gleason (3+3)
+T134	sosy 1118 1175	adénocarcinome de la prostate de score 6 de Gleason (3+3)
+T135	organisme 1511 1518	E .Coli
+T136	substance 1597 1621	antibiothérapie initiale
+T137	sosy 1813 1859	cervicalgies violentes d'horaire inflammatoire
+T138	anatomie 1925 1930	urine
+T139	moment 2026 2036	à l'entrée
+T140	sosy 2092 2101	CRP à 271
+T141	sosy 2107 2181	scintigraphie osseuse et les radiographies du rachis étaient sans anomalie
+T142	anatomie 2247 2255	épidural
+T143	valeur 2259 2271	6 cm de long
+T144	valeur 2276 2289	4 cm de large
+T145	sosy 2241 2310	abcès épidural de 6 cm de long sur 4 cm de large situé entre C3 et C4
+T146	anatomie 2302 2304	C3
+T147	anatomie 2308 2310	C4
+T148	traitement 2568 2588	drainage chirurgical
+A8	assertion T148 absent
+T149	substance 2604 2622	bi-antibiothérapie
+T150	sosy 2819 2848	régression notable de l'abcès
+T151	sosy 350 361	dysérection
+T152	pathologie 272 286	cervicarthrose
+T153	sosy 336 342	calcul
+T154	sosy 414 438	nodule de la base droite
+T155	sosy 1276 1292	prostatite aiguë
+T156	sosy 2325 2341	spondylite de C3
+T157	sosy 2794 2804	spondylite

@@ -1,0 +1,6 @@
+T1	genre 0 10	Un patient
+T2	age 18 24	82 ans
+A1	genre T1 masculin
+T3	origine 42 90	ne hématurie macroscopique apparue il y a 3 mois
+T4	issue 1568 1677	Actuellement, nous n’avons pas de recul suffisant pour apprécier l’efficacité de cette attitude thérapeutique
+A2	issue T4 stable

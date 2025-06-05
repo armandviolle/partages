@@ -1,0 +1,6 @@
+T1	age 12 18	57 ans
+T2	genre 3 8	homme
+T3	origine 68 72	coma
+A1	genre T2 masculin
+T4	issue 522 574	Après extubation (à J3), l'évolution a été favorable
+A2	issue T4 guérison

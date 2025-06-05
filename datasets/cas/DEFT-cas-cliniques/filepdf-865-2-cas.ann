@@ -1,0 +1,6 @@
+T1	genre 1220 1231	La patiente
+T2	age 9 15	38 ans
+A1	genre T1 féminin
+T3	origine 97 177	à 4 SA pour des coliques hépatiques associées à des vomissements et à une fièvre
+T4	issue 1349 1451	les suites étaient simples. La grossesse était menée à terme donnant naissance à un bébé sans problème
+A2	issue T4 guérison

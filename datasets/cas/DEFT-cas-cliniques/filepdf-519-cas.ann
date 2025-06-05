@@ -1,0 +1,193 @@
+T7	hemopathies 1049 1066	méthémoglobinémie
+T41	valeur 1092 1101	13.2 g/dL
+T114	valeur 1043 1047	7.44
+T15	examen 1201 1204	LDH
+T42	valeur 1207 1215	400 UI/L
+T100	valeur 1027 1036	23 mmol/L
+T22	examen 1245 1260	bilan hépatique
+T36	anatomie 1251 1260	hépatique
+T34	examen 1267 1282	fonction rénale
+T55	anatomie 1276 1282	rénale
+T45	valeur 1288 1295	normaux
+T115	age 13 19	65 ans
+T49	examen 1301 1323	recherches de toxiques
+T66	substance 1315 1323	toxiques
+T121	substance 1325 1353	antidépresseurs tricycliques
+T19	substance 1355 1368	barbituriques
+T20	substance 1372 1386	benzodiazepine
+T46	valeur 1415 1424	négatives
+T104	valeur 1067 1071	51 %
+T89	examen 1439 1462	radiographies du thorax
+T65	anatomie 1456 1462	thorax
+T17	sosy 1482 1490	anomalie
+T3	hemopathies 1515 1529	méthémoglobine
+T59	mode 1571 1579	solution
+T25	substance 1589 1606	bleu de méthylène
+T35	substance 1708 1721	sérum glucose
+T13	valeur 1724 1727	5 %
+T4	hemopathies 1785 1799	méthémoglobine
+T53	traitement 1892 1903	réanimation
+T48	substance 1928 1943	oxygénothérapie
+T26	substance 1974 1991	bleu de méthylène
+T8	hemopathies 2073 2090	méthémoglobinémie
+T101	valeur 2114 2119	0.2 %
+T23	examen 2177 2205	suivi clinique et biologique
+T1	hemopathies 2288 2306	anémie hémolytique
+T44	valeur 2395 2410	0,66 à 1,76 g/L
+T103	valeur 2375 2382	0,1 g/L
+T69	mode 2468 2479	transfusion
+T29	substance 2494 2512	culots globulaires
+T50	traitement 2844 2857	convalescence
+T14	moment 2860 2879	Deux mois plus tard
+T54	sosy 2893 2922	récidive avec le même toxique
+T2	immunitaire 290 300	diabétique
+T9	hemopathies 2947 2964	méthémoglobinémie
+T117	cardiovasculaires 302 313	hypertendue
+T5	hemopathies 3035 3049	méthémoglobine
+T61	examen 315 321	suivie
+T68	substance 3191 3201	traitement
+T27	substance 3216 3233	bleu de méthylène
+T119	dose 3266 3271	10 mL
+T62	pathologie 327 345	syndrome dépressif
+T60	mode 3273 3281	solution
+T120	dose 3344 3349	15 mL
+T6	hemopathies 3370 3384	méthémoglobine
+T94	etatsosy 377 387	somnolente
+T18	sosy 421 431	apyrétique
+T51	anatomie 459 471	respiratoire
+T72	examen 479 497	état hémodynamique
+T39	valeur 498 504	normal
+T123	anatomie 521 537	cardiopulmonaire
+T40	valeur 542 549	normale
+T37	anatomie 560 572	neurologique
+T52	anatomie 692 711	cardio-respiratoire
+T33	anatomie 790 794	face
+T47	anatomie 845 862	lobe des oreilles
+T38	examen 553 572	examen neurologique
+T28	anatomie 896 908	conjonctives
+T64	sosy 90 110	tentative de suicide
+T57	examen 915 936	résultats biologiques
+T24	examen 990 993	p02
+T112	examen 957 987	gazométrie sous 10 L d'oxygène
+T21	genre 4 9	femme
+A1	genre T21 féminin
+T30	moment 71 86	une heure après
+T31	chimiques 115 172	ingestion volontaire d'une teinture noire pour chaussures
+T32	valeur 201 207	200 mL
+T56	nerveux 377 387	somnolente
+T73	nutritionnelles 290 300	diabétique
+T74	endocriniennes 290 300	diabétique
+T78	examen 508 537	auscultation cardiopulmonaire
+T80	sosy 444 471	retentissement respiratoire
+A2	assertion T80 absent
+T82	etatsosy 389 397	cyanosée
+T83	sosy 389 419	cyanosée (aspect gris ardoisé)
+T84	etatsosy 650 664	cyanose isolée
+T81	sosy 650 664	cyanose isolée
+T85	examen 614 621	Glasgow
+T86	valeur 622 627	12-13
+A3	norme T86 bas
+T87	anatomie 727 736	téguments
+T88	anatomie 870 883	ailles du nez
+T90	examen 1005 1010	p C02
+T91	examen 1040 1042	pH
+T92	valeur 994 1003	209 mm Hg
+T93	valeur 1011 1019	36 mm Hg
+T95	examen 1021 1026	CO2 T
+T11	examen 1073 1091	taux d'hémoglobine
+T96	examen 1049 1066	méthémoglobinémie
+A4	norme T114 haut
+#1	AnnotatorNotes T114	Normal entre 7,38 et 7,42
+T97	examen 1103 1105	GB
+T98	examen 1116 1126	plaquettes
+T99	examen 1138 1140	TP
+T102	examen 1149 1161	haptoglobine
+A5	norme T42 normal
+T12	valeur 1227 1239	220-500 UI/L
+T105	valeur 1106 1114	17 lOVuL
+T107	valeur 1127 1136	318 lOVuL
+T108	valeur 1143 1147	68 %
+T111	valeur 1164 1171	1.9 g/L
+T113	valeur 1183 1198	0,66 à 1,76 g/L
+A6	norme T111 haut
+T106	examen 1394 1409	déficit en G6PD
+T116	examen 1428 1431	ECG
+A7	assertion T17 absent
+T118	dose 1560 1564	6 mL
+T122	dose 1630 1634	1 mL
+T124	moment 1636 1653	dans les 8 heures
+T63	valeur 1582 1585	1 %
+T75	moment 2065 2069	A J2
+T125	etatsosy 1829 1836	cyanose
+T67	dose 1994 1999	16 mL
+T126	moment 2000 2016	à la 11eme heure
+T127	dose 2022 2026	8 mL
+T128	moment 2027 2043	à la 20eme heure
+A8	norme T101 normal
+T43	examen 2073 2090	méthémoglobinémie
+T129	examen 1507 1529	taux de méthémoglobine
+T130	examen 1777 1799	taux de méthémoglobine
+T131	moment 2245 2282	dans la semaine suivant son admission
+T132	valeur 2336 2342	5 g/dL
+A9	norme T103 bas
+T10	examen 2315 2333	taux d'hémoglobine
+T133	examen 2350 2362	haptoglobine
+T134	etatsosy 2445 2453	hémolyse
+T135	sosy 2445 2453	hémolyse
+T109	dose 2492 2493	5
+T79	substance 2661 2668	aniline
+T110	substance 2670 2677	éthanol
+T136	substance 2679 2687	methanol
+T137	substance 2689 2705	acétate d'éthyle
+T138	substance 2792 2807	antidépresseurs
+T139	dispositif 2823 2838	maison de repos
+T16	examen 2947 2964	méthémoglobinémie
+T140	moment 2978 3022	dans la demi-heure qui a suivi son admission
+T141	valeur 3059 3063	56 %
+T76	valeur 3284 3287	1 %
+T142	moment 3301 3314	1 heure après
+T77	valeur 3387 3391	16 %
+T143	examen 3362 3384	taux de méthémoglobine
+T144	moment 3392 3407	à la 2eme heure
+A10	norme T104 haut
+#2	AnnotatorNotes T104	Normale si inférieure à 3%
+A11	norme T77 haut
+T70	chimiques 2893 2922	récidive avec le même toxique
+T58	anatomie 2480 2488	sanguine
+A12	norme T141 haut
+A13	norme T41 normal
+A14	norme T132 bas
+T71	substance 142 172	teinture noire pour chaussures
+T145	substance 214 239	teinture de marque FAISCA
+T146	examen 347 359	Cliniquement
+T147	sosy 479 504	état hémodynamique normal
+T148	sosy 508 549	auscultation cardiopulmonaire est normale
+T149	sosy 614 627	Glasgow 12-13
+T150	sosy 687 711	état cardio-respiratoire
+T151	substance 980 987	oxygène
+T152	dose 973 977	10 L
+T153	sosy 990 1003	p02 209 mm Hg
+T154	sosy 1005 1019	p C02 36 mm Hg
+T155	sosy 1021 1036	CO2 T 23 mmol/L
+T156	sosy 1040 1047	pH 7.44
+T157	sosy 1049 1071	méthémoglobinémie 51 %
+T158	sosy 1073 1101	taux d'hémoglobine 13.2 g/dL
+T159	sosy 1103 1114	GB 17 lOVuL
+T160	sosy 1116 1136	plaquettes 318 lOVuL
+T161	sosy 1138 1147	TP : 68 %
+T162	sosy 1149 1171	haptoglobine : 1.9 g/L
+T163	sosy 1201 1215	LDH : 400 UI/L
+T164	sosy 1245 1295	bilan hépatique et la fonction rénale sont normaux
+T165	sosy 1829 1853	cyanose ne s'atténue pas
+T166	sosy 1777 1822	taux de méthémoglobine continuent d'augmenter
+T167	sosy 2073 2119	méthémoglobinémie revient à la normale : 0.2 %
+T168	sosy 2315 2342	taux d'hémoglobine à 5 g/dL
+T169	sosy 2350 2382	haptoglobine effondrée à 0,1 g/L
+T170	substance 2915 2922	toxique
+T171	sosy 3027 3063	taux de méthémoglobine était de 56 %
+T172	sosy 3362 3391	taux de méthémoglobine à 16 %
+T173	sosy 115 172	ingestion volontaire d'une teinture noire pour chaussures
+T174	pathologie 290 300	diabétique
+T175	pathologie 302 313	hypertendue
+T176	sosy 377 387	somnolente
+T177	sosy 2288 2306	anémie hémolytique

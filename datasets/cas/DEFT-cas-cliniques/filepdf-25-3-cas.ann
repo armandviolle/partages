@@ -1,0 +1,6 @@
+T1	age 12 18	59 ans
+T2	genre 3 8	homme
+A1	genre T2 masculin
+T3	origine 86 172	des troubles mictionnels s’aggravant au cours d’un épisode d’adénomite aiguë à E. coli
+T4	issue 624 710	Les symptômes ont disparu sous antibiothérapie sans récidive avec un recul de deux ans
+A2	issue T4 guérison

@@ -1,0 +1,6 @@
+T1	genre 0 15	Une jeune fille
+T2	issue 2158 2165	décédée
+T3	age 24 30	13 ans
+A1	genre T1 féminin
+A2	issue T2 décès
+T4	origine 108 214	un ictère rétentionnel remontant à neuf mois avant son hospitalisation, associé à des douleurs abdominales

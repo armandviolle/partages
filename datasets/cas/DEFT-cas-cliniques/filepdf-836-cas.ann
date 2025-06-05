@@ -1,0 +1,6 @@
+T1	genre 1046 1059	Notre patient
+T2	issue 1170 1178	décédait
+T3	age 14 20	53 ans
+A1	genre T1 masculin
+A2	issue T2 décès
+T4	origine 59 169	aggravation progressive d’une dyspnée évoluant depuis 6 mois, accompagnée d’une douleur basi-thoracique gauche

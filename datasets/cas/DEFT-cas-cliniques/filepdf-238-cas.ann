@@ -1,0 +1,6 @@
+T1	genre 0 12	Une patiente
+T2	age 21 27	29 ans
+A1	genre T1 féminin
+T3	origine 118 200	des crises de colique néphrétique droite survenant à la 32ème semaine de gestation
+T4	issue 3164 3271	une perméabilité de l’endoprothèse avec absence d’anomalie persistante de type pseudo anévrisme ou hématome
+A2	issue T4 amélioration

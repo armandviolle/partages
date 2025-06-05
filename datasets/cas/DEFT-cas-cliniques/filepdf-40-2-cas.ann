@@ -1,0 +1,94 @@
+T1001	anatomie 78 93	testicule droit
+T1002	anatomie 364 379	rétropéritonéal
+T1003	anatomie 310 333	pulmonaires bilatérales
+T1005	anatomie 1142 1153	abdominales
+T1006	anatomie 1181 1202	fosse lombaire droite
+T1007	anatomie 1297 1317	bifurcation aortique
+T1008	anatomie 1570 1580	veine cave
+T10061	examen 147 174	analyse anatomopathologique
+T10062	examen 258 275	bilan d’extension
+T10063	examen 485 503	marqueurs tumoraux
+T10064	examen 671 696	étude anatomopathologique
+T10065	examen 1207 1212	bilan
+T10066	examen 1323 1341	marqueurs tumoraux
+T10067	examen 1359 1376	tomodensitométrie
+T10068	examen 1382 1385	IRM
+T10069	examen 1586 1658	tomographie par émission de positons au 18F-Fluorodéoxyglucose (PET-Scan
+T100142	traitement 571 593	curage rétropéritonéal
+T100143	traitement 608 620	thoracotomie
+T100144	traitement 626 647	exérèse de ces masses
+T100146	traitement 1803 1823	exérèse chirurgicale
+T100147	traitement 1850 1867	colectomie droite
+T100161	valeur 1347 1354	normaux
+T100181	pathologie 1556 1580	sarcome de la veine cave
+T100182	pathologie 1962 1985	adénocarcinome mucineux
+T100194	pathologie 351 381	adénopathies rétropéritonéales
+T100195	sosy 286 333	multiples localisations pulmonaires bilatérales
+T100199	sosy 1500 1517	reprise évolutive
+T10010	anatomie 155 174	anatomopathologique
+T10012	traitement 386 406	radio-chimiothérapie
+T10013	substance 446 456	Cisplatine
+T10016	anatomie 529 555	parenchymateux pulmonaires
+T10017	mode 578 593	rétropéritonéal
+T10019	anatomie 677 696	anatomopathologique
+T10020	pathologie 721 736	tératome mature
+T10021	anatomie 837 847	pulmonaire
+T10022	sosy 1097 1123	claudication intermittente
+T10023	sosy 1133 1202	douleurs abdominales diffuses irradiant vers la fosse lombaire droite
+T10024	anatomie 1264 1280	rétropéritonéale
+T10025	sosy 1523 1548	growing teratoma syndrome
+T10026	anatomie 1892 1911	anatomopathologique
+T10027	pathologie 1924 1942	tératome cancérisé
+T2004	anatomie 1059 1081	membre inférieur droit
+T20070	examen 1885 1911	examen anatomopathologique
+T200141	traitement 45 58	orchidectomie
+T200145	traitement 776 804	radiothérapie complémentaire
+T200191	sosy 68 93	tumeur du testicule droit
+T200192	sosy 109 143	élévation de l’alpho-foetoprotéine
+T200193	sosy 230 253	contingent séminomateux
+T200196	sosy 925 933	récidive
+T200198	sosy 1249 1317	masse tumorale rétropéritonéale au niveau de la bifurcation aortique
+T200200	sosy 1763 1797	caractère évolutif de cette lésion
+T20010	traitement 189 196	exérèse
+T20011	pathologie 209 224	tératocarcinome
+T20015	sosy 467 503	normalisation des marqueurs tumoraux
+T20016	sosy 505 555	Trois nodules résiduels parenchymateux pulmonaires
+T20020	sosy 641 647	masses
+T20023	examen 884 893	surveillé
+T20024	examen 1002 1014	surveillance
+T20025	sosy 1048 1081	oedèmes du membre inférieur droit
+T20028	sosy 1323 1354	marqueurs tumoraux sont normaux
+T20029	sosy 1433 1453	volumineux processus
+T20034	traitement 1690 1714	hyperfixation du traceur
+T20035	sosy 1722 1727	masse
+T20037	anatomie 1977 1985	mucineux
+T1	date 36 40	1976
+T2	date 663 667	1977
+T3	date 1020 1024	1999
+T4	date 903 907	1989
+A1	assertion T200193 absent
+A2	assertion T200196 absent
+A3	norme T100161 normal
+A4	assertion T20024 absent
+A5	assertion T100199 possible
+A6	assertion T10025 possible
+A7	assertion T100181 possible
+T200201	tumeur 1962 1985	adénocarcinome mucineux
+T200202	hemopathies 351 381	adénopathies rétropéritonéales
+T200204	tumeur 1249 1263	masse tumorale
+T200205	tumeur 68 93	tumeur du testicule droit
+T200206	etatsosy 1133 1153	douleurs abdominales
+T5	homme 68 93	tumeur du testicule droit
+T6	tumeur 209 224	tératocarcinome
+T7	tumeur 721 736	tératome mature
+T8	tumeur 1924 1942	tératome cancérisé
+T9	etatsosy 1048 1081	oedèmes du membre inférieur droit
+T10	cardiovasculaires 1097 1123	claudication intermittente
+T11	etatsosy 1097 1123	claudication intermittente
+T12	respiratoire 286 333	multiples localisations pulmonaires bilatérales
+T13	age 19 25	23 ans
+T14	genre 852 859	patient
+A8	genre T14 masculin
+T15	origine 1048 1202	oedèmes du membre inférieur droit associés à une claudication intermittente et à des douleurs abdominales diffuses irradiant vers la fosse lombaire droite
+T16	issue 1883 1985	L’examen anatomopathologique retrouve un tératome cancérisé sous la forme d’un adénocarcinome mucineux
+A9	issue T16 détérioration

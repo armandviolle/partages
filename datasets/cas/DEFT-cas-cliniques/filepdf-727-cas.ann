@@ -1,0 +1,6 @@
+T1	genre 10 15	homme
+T2	age 19 25	61 ans
+A1	genre T1 masculin
+T3	origine 344 522	une nette détérioration de l’état général progressant rapidement depuis une semaine, avec difficulté à marcher, étourdissements, fatigue et hyperthermie depuis moins de 48 heures
+T4	issue 6686 6761	le jour 24, on considère le syndrome neuroleptique malin comme étant résolu
+A2	issue T4 guérison

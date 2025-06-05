@@ -1,0 +1,6 @@
+T1	age 14 20	72 ans
+T2	genre 1685 1695	du patient
+T3	issue 1727 1732	décès
+A1	issue T3 décès
+A2	genre T2 masculin
+T4	origine 100 171	hématurie macroscopique associée à un amaigrissement de 15 Kg en 2 mois

@@ -1,0 +1,93 @@
+T12	examen 1236 1243	biopsie
+T13	examen 1347 1366	biopsie écho guidée
+T14	examen 1391 1410	biopsie prostatique
+T3	duree 192 205	depuis 3 mois
+T17	examen 469 483	toucher rectal
+T22	anatomie 477 483	rectal
+T20	anatomie 606 616	abdominale
+T16	examen 905 961	tomodensitométrie avec injection de produit de contraste
+T5	examen 594 616	échographie abdominale
+T6	anatomie 1399 1410	prostatique
+T26	examen 1462 1481	examen histologique
+T27	examen 242 257	examen physique
+T28	examen 550 565	examen physique
+T31	examen 1227 1235	ponction
+T32	valeur 570 588	sans particularité
+T34	examen 1249 1256	scanner
+T7	sosy 68 123	volumineuse masse pelvi-abdominale latéralisée à droite
+T8	anatomie 86 102	pelvi-abdominale
+T9	sosy 162 182	troubles mictionnels
+T15	sosy 273 328	volumineuse masse pelvi-abdominale latéralisée à droite
+T18	anatomie 291 307	pelvi-abdominale
+T19	anatomie 320 328	à droite
+T21	anatomie 115 123	à droite
+T23	sosy 370 433	masse était bien visible, ferme, régulière, légèrement sensible
+T37	sosy 441 464	masse parait peu mobile
+T38	sosy 496 533	petit adénome prostatique non suspect
+T39	anatomie 510 521	prostatique
+T24	sosy 634 770	très grosse masse tissulaire de 150 mm de grand axe, bien limitée, bosselée, contenant de multiples zones liquidiennes bien vascularisée
+T41	examen 774 781	Doppler
+T42	sosy 789 900	masse refoulait la vessie et les structures digestives vers la fosse iliaque gauche et comprime l'uretère droit
+T43	anatomie 808 814	vessie
+T44	anatomie 852 872	fosse iliaque gauche
+T45	anatomie 887 900	uretère droit
+T46	sosy 978 1200	volumineuse masse pelvienne de 170 sur 150 x 120 mm, de contours polylobés, de densité spontanément hétérogène, se rehaussant de façon intense et hétérogène après injection, avec des zones d'hypodensité, quasi liquidiennes
+T47	anatomie 996 1005	pelvienne
+T25	sosy 1498 1546	tissu tumoral qui avait une cellularité variable
+T48	anatomie 1552 1560	cellules
+T49	sosy 1552 1599	cellules tumorales étaient rondes ou fusiformes
+T52	examen 1750 1771	marqueurs épithéliaux
+T53	examen 1773 1785	cytokeratine
+T54	examen 1789 1792	EMA
+T55	examen 1802 1809	desmine
+T56	examen 1814 1819	c-kit
+T57	examen 1826 1839	protéine S100
+T60	examen 1874 1878	CD34
+T61	examen 1885 1890	bcl-2
+T62	sosy 1994 2036	tumeur fibreuse solitaire rétropéritonéale
+T64	anatomie 2020 2036	rétropéritonéale
+T66	mode 2113 2126	sus ombilical
+T67	sosy 2131 2238	tumeur était retroperitonéale, bien vascularisée, refoulant la vessie et les structures digestives à gauche
+T68	anatomie 2144 2160	retroperitonéale
+T70	anatomie 2194 2200	vessie
+T71	anatomie 2208 2229	structures digestives
+T73	anatomie 822 843	structures digestives
+T74	traitement 2314 2321	exérèse
+T76	valeur 666 685	150 mm de grand axe
+T77	valeur 1009 1029	170 sur 150 x 120 mm
+T78	sosy 210 238	état général était excellent
+T81	anatomie 1619 1625	noyaux
+T83	sosy 1662 1669	atypies
+A3	assertion T83 absent
+T1	sosy 1619 1643	noyaux d'aspect monotone
+T2	sosy 26 48	antécédent particulier
+A2	assertion T2 absent
+T10	examen 341 351	inspection
+T11	sosy 550 589	examen physique est sans particularités
+T29	sosy 1675 1696	mitoses étaient rares
+T30	examen 1712 1726	immunomarquage
+T33	traitement 2054 2059	opéré
+T35	mode 2068 2087	médiane suspubienne
+T36	sosy 2259 2298	extension vers les organes de voisinage
+A4	assertion T36 absent
+T40	examen 136 146	inspection
+T50	mode 928 937	injection
+T51	mode 1141 1150	injection
+T63	sosy 1711 1890	'immunomarquage était négatif pour les marqueurs épithéliaux (cytokeratine et EMA) pour la desmine, le c-kit et la protéine S100, mais franchement positif pour le CD34 et le bcl-2
+T65	examen 1908 1953	aspects histologiques et immunohistochimiques
+T4	substance 941 961	produit de contraste
+T58	valeur 1733 1740	négatif
+T59	valeur 1858 1865	positif
+T69	anatomie 2278 2298	organes de voisinage
+T72	homme 162 182	troubles mictionnels
+T75	homme 496 521	petit adénome prostatique
+T79	tumeur 496 521	petit adénome prostatique
+T80	tumeur 1994 2036	tumeur fibreuse solitaire rétropéritonéale
+T82	homme 1994 2036	tumeur fibreuse solitaire rétropéritonéale
+T84	etatsosy 162 182	troubles mictionnels
+T85	age 13 19	58 ans
+T86	genre 2042 2049	patient
+A1	genre T86 masculin
+T87	origine 68 205	volumineuse masse pelvi-abdominale latéralisée à droite visible à l'inspection associée à des troubles mictionnels évoluant depuis 3 mois
+T88	issue 2335 2373	Les suites opératoires étaient simples
+A5	issue T88 guérison

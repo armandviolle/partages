@@ -1,0 +1,6 @@
+T1	genre 1573 1583	Le patient
+T2	origine 41 89	induration du pôle inférieur du testicule gauche
+T3	age 9 15	20 ans
+A1	genre T1 masculin
+T4	issue 1573 1622	Le patient est actuellement en rémission complète
+A2	issue T4 amélioration

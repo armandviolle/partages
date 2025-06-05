@@ -1,0 +1,6 @@
+T1	genre 0 2	M.
+T2	origine 134 155	coxopathie bilatérale
+T3	age 26 32	52 ans
+A1	genre T1 masculin
+T4	issue 838 850	alcaptonurie
+A2	issue T4 stable

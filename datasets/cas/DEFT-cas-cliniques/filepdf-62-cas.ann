@@ -1,0 +1,6 @@
+T1	age 15 21	41 ans
+T2	genre 2504 2515	La patiente
+A1	genre T2 féminin
+T3	origine 227 380	des douleurs abdominales du flanc droit avec une alternance diarrhée-constipation sans émission glairo-sanglante, une asthénie modérée et une pollakiurie
+T4	issue 2578 2668	Elle n'a présenté ni récidive locale ni métastase à distance de 10 mois après la chirurgie
+A2	issue T4 amélioration

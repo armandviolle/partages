@@ -1,0 +1,131 @@
+T1001	anatomie 217 222	pénis
+T1003	anatomie 528 534	urètre
+T1006	anatomie 959 975	inguinale gauche
+T1007	anatomie 1033 1039	rectal
+T1008	anatomie 786 794	cutanées
+T1009	anatomie 1141 1154	ganglionnaire
+T10010	anatomie 1355 1383	ilio-inguino-scrotale gauche
+T10013	anatomie 1890 1898	cellules
+T10014	anatomie 2116 2131	corps caverneux
+T10015	anatomie 2150 2167	muqueuse urétrale
+T10016	anatomie 2530 2544	loco-régionale
+T10017	anatomie 2720 2729	hépatique
+T10018	anatomie 2733 2750	pulmonaire droite
+T10061	examen 560 575	examen clinique
+T10063	examen 1025 1039	toucher rectal
+T10064	examen 1045 1063	examen des bourses
+T10065	examen 1172 1182	examen TDM
+T10066	examen 1489 1509	examen macroscopique
+T10067	examen 1759 1779	examen microscopique
+T100121	substance 2236 2247	fotémustine
+T100163	valeur 1072 1079	normaux
+T100164	valeur 1387 1401	13 cm sur 7 cm
+T100181	pathologie 687 744	oedème réactionnel important de tout le fourreau du pénis
+T100182	pathologie 947 1020	adénopathie inguinale gauche de 4 cm de diamètre fixée et non douloureuse
+T100184	pathologie 2617 2682	adénopathies inguinales bilatérales palpables et non compressives
+T100198	sosy 473 480	dysurie
+T100201	sosy 750 794	plusieurs petites lésions noirâtres cutanées
+T100210	sosy 2500 2556	poursuite évolutive apparente loco-régionale et générale
+T100212	sosy 2710 2750	métastase hépatique et pulmonaire droite
+T10021	anatomie 880 888	cutanées
+T10022	anatomie 810 821	souscutanés
+T10023	anatomie 915 933	triangles fémoraux
+T10024	anatomie 1056 1063	bourses
+T10025	pathologie 1098 1112	mélanome malin
+T10026	anatomie 1129 1137	cutanées
+T10027	sosy 1202 1234	métastases viscérales à distance
+T10028	sosy 1270 1401	métastase ganglionnaire qui se présentait sous la forme d'une «coulée ganglionnaire» ilio-inguino-scrotale gauche de 13 cm sur 7 cm
+T10029	sosy 1118 1155	métastases cutanées et ganglionnaires
+T10030	duree 2223 2232	six cures
+T10035	pathologie 1841 1855	mélanome malin
+T10038	anatomie 1991 2001	cytoplasme
+T10040	anatomie 2093 2108	corps spongieux
+T10041	substance 2248 2259	dacarbazine
+T10043	substance 2305 2316	fotémustine
+T10046	anatomie 2591 2611	moignon d'amputation
+T10047	anatomie 2630 2640	inguinales
+T10048	examen 2759 2774	TDM de contrôle
+T10049	duree 2813 2820	6 cures
+T2002	anatomie 146 172	extrémité distale du pénis
+T2005	anatomie 727 744	fourreau du pénis
+T20011	anatomie 1615 1639	face ventrale du prépuce
+T20012	anatomie 1694 1708	paroi pénienne
+T20062	examen 904 933	examen des triangles fémoraux
+T200111	moment 2359 2378	A un an d'évolution
+T200123	substance 2824 2838	chimiothérapie
+T200124	substance 2385 2411	chimiothérapie d'entretien
+T200141	substance 2174 2203	chimiothérapie complémentaire
+T200161	valeur 629 649	5 à 6 cm de diamètre
+T200162	valeur 979 995	4 cm de diamètre
+T200183	sosy 1546 1753	tumeur circonférentielle, développée essentiellement au dépend de la face ventrale du prépuce, ulcérée, noirâtre, multinodulaire, qui infiltrait la paroi pénienne sur 2 cm d'épaisseur sans atteindre l'urètre
+T200191	sosy 405 425	troubles mictionnels
+T200192	sosy 110 172	volumineuse formation tumorale de l'extrémité distale du pénis
+T200193	sosy 228 311	apparition secondaire d'une lésion bleutée qui a progressivement augmenté de volume
+T200194	sosy 333 349	bon état général
+T200195	sosy 372 399	symptomatologie douloureuse
+T200196	sosy 74 94	troubles mictionnels
+T200197	sosy 454 465	pollakiurie
+T200199	sosy 511 541	compression de l'urètre distal
+T200200	sosy 591 670	tumeur noire, nodulaire et ulcérée de 5 à 6 cm de diamètre englobant le prépuce
+T200203	sosy 845 889	lésions de perméations (métastases cutanées)
+T200206	sosy 1784 1855	tumeur présentait les caractéristiques cytologiques d'un mélanome malin
+T200207	sosy 1930 2001	quantité souvent très importante de pigment brunâtre dans le cytoplasme
+T200208	sosy 2006 2167	prolifération tumorale infiltrait toute l'épaisseur du repli préputial, envahissait le corps spongieux et les corps caverneux sans atteindre la muqueuse urétrale
+T200209	sosy 2453 2474	état général conservé
+T200211	sosy 2566 2611	récidive tumorale sur le moignon d'amputation
+T20019	sosy 202 222	traumatisme du pénis
+T20021	sosy 549 555	tumeur
+T20022	anatomie 663 670	prépuce
+T20026	sosy 1025 1079	toucher rectal et l'examen des bourses étaient normaux
+T20035	anatomie 1213 1223	viscérales
+T20036	anatomie 1280 1293	ganglionnaire
+T20038	anatomie 1340 1353	ganglionnaire
+T20039	traitement 1443 1463	pénectomie partielle
+T20040	valeur 1713 1729	2 cm d'épaisseur
+T20041	anatomie 1747 1753	urètre
+T20042	sosy 1882 1920	grandes cellules à noyau très atypique
+T20043	anatomie 2061 2076	repli préputial
+T20047	substance 2274 2300	chimiothérapie d'entretien
+T20049	sosy 2430 2444	asymptomatique
+T20054	moment 2800 2838	à la fin des 6 cures de chimiothérapie
+T1	date 52 64	janvier 1998
+T2	date 1424 1438	5 février 1998
+T3	date 2786 2799	décembre 1998
+T4	date 2343 2356	décembre 1998
+T5	sosy 802 831	nodules souscutanés palpables
+A1	assertion T200203 hypothétique
+A2	norme T100163 normal
+A3	assertion T200195 absent
+A4	assertion T10027 absent
+A5	assertion T100212 hypothétique
+T200212	hemopathies 2617 2682	adénopathies inguinales bilatérales palpables et non compressives
+T200213	tumeur 110 172	volumineuse formation tumorale de l'extrémité distale du pénis
+T200214	etatsosy 750 794	plusieurs petites lésions noirâtres cutanées
+T200216	etatsosy 687 744	oedème réactionnel important de tout le fourreau du pénis
+T200217	tumeur 591 625	tumeur noire, nodulaire et ulcérée
+T200218	tumeur 1546 1552	tumeur
+T200219	tumeur 1784 1790	tumeur
+T200220	tumeur 2006 2028	prolifération tumorale
+T6	tumeur 1098 1112	mélanome malin
+T7	homme 74 94	troubles mictionnels
+T8	tumeur 549 555	tumeur
+T9	homme 454 465	pollakiurie
+T10	etatsosy 454 465	pollakiurie
+T11	homme 473 480	dysurie
+T12	etatsosy 473 480	dysurie
+T13	homme 405 425	troubles mictionnels
+T14	tumeur 1841 1855	mélanome malin
+T15	blessures 202 222	traumatisme du pénis
+T16	peau 750 794	plusieurs petites lésions noirâtres cutanées
+T17	hemopathies 947 975	adénopathie inguinale gauche
+T18	tumeur 1118 1155	métastases cutanées et ganglionnaires
+T19	peau 1118 1155	métastases cutanées et ganglionnaires
+T20	tumeur 1270 1293	métastase ganglionnaire
+T21	tumeur 2566 2611	récidive tumorale sur le moignon d'amputation
+T22	peau 1270 1293	métastase ganglionnaire
+T23	genre 15 22	patient
+A6	genre T23 masculin
+T24	age 26 32	63 ans
+T25	origine 70 172	des troubles mictionnels associés à une volumineuse formation tumorale de l'extrémité distale du pénis
+T26	issue 2476 2750	On notait néanmoins une poursuite évolutive apparente loco-régionale et générale avec une récidive tumorale sur le moignon d'amputation, des adénopathies inguinales bilatérales palpables et non compressives, ainsi qu'une suspicion de métastase hépatique et pulmonaire droite
+A7	issue T26 stable

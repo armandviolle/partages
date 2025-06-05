@@ -1,0 +1,76 @@
+T1001	anatomie 58 66	cérébral
+T1002	anatomie 83 94	séquellaire
+T1003	anatomie 98 104	vessie
+T1005	anatomie 811 821	rein droit
+T1006	anatomie 523 556	face latérale droite de la vessie
+T1007	anatomie 625 636	urothéliale
+T1008	anatomie 653 661	vésicale
+T1009	anatomie 444 454	rein droit
+T10010	anatomie 842 867	anastomose urétéro-iléale
+T10011	anatomie 1080 1091	vasculaires
+T10061	examen 362 373	uro-scanner
+T10062	examen 560 580	analyse histologique
+T10063	examen 919 940	histologie définitive
+T10064	examen 1159 1187	contrôle tomodensitométrique
+T100111	moment 883 914	durant le même temps opératoire
+T100141	traitement 736 755	urétrectomie totale
+T100181	pathologie 969 1014	carcinome urothélial papillaire de haut grade
+T100192	sosy 500 556	lésion végétante de la face latérale droite de la vessie
+T100193	sosy 618 661	nature urothéliale de cette lésion vésicale
+T100194	sosy 782 821	dégradation fonctionnelle du rein droit
+T10012	sosy 98 144	vessie neurogène nécessitant des auto sondages
+T10013	anatomie 170 179	urétrales
+T10014	sosy 161 190	sténoses urétrales itératives
+T10015	traitement 245 285	dérivation urinaire externe trans-iléale
+T10016	traitement 323 339	exérèse vésicale
+T10017	anatomie 331 339	vésicale
+T10018	anatomie 416 422	urètre
+T10020	traitement 710 730	cysto-prostatectomie
+T10021	traitement 827 867	réfection de l'anastomose urétéro-iléale
+T10022	anatomie 979 989	urothélial
+T10023	valeur 1004 1014	haut grade
+T10024	anatomie 1058 1065	chorion
+T10026	anatomie 1241 1249	vésicale
+T2004	mode 273 285	trans-iléale
+T200191	sosy 38 66	rupture d'anévrysme cérébral
+T200195	sosy 1072 1091	emboles vasculaires
+T200196	sosy 1120 1154	atteinte des limites chirurgicales
+T20012	pathologie 72 94	paraplégie séquellaire
+T20013	traitement 131 144	auto sondages
+T20016	traitement 226 239	auto sondages
+T20020	sosy 393 422	émission de sang par l'urètre
+T20022	sosy 444 478	rein droit dilaté, non fonctionnel
+T20023	valeur 663 669	pT1aG3
+T20027	sosy 1021 1065	inflexion épidermoide, infiltrant le chorion
+T20028	anatomie 1031 1042	épidermoide
+T20030	pathologie 1095 1113	territoires de CIS
+T20033	pathologie 675 693	territoires de CIS
+T20034	moment 1188 1198	à deux ans
+T20035	sosy 1215 1249	progression de la maladie vésicale
+T20037	anatomie 256 264	urinaire
+T20038	anatomie 405 409	sang
+T1	date 304 316	juillet 2000
+T2	date 345 357	juillet 2003
+#1	AnnotatorNotes T20033	carcinome in situ
+A1	assertion T200196 absent
+A2	assertion T20035 absent
+T3	frequence 180 190	itératives
+A3	assertion T10016 absent
+T4	nerveux 38 66	rupture d'anévrysme cérébral
+T5	cardiovasculaires 38 66	rupture d'anévrysme cérébral
+T6	etatsosy 72 94	paraplégie séquellaire
+T7	nerveux 72 94	paraplégie séquellaire
+T8	homme 161 190	sténoses urétrales itératives
+T9	homme 393 422	émission de sang par l'urètre
+T10	etatsosy 393 422	émission de sang par l'urètre
+#2	AnnotatorNotes T9	hématurie
+T11	tumeur 969 1014	carcinome urothélial papillaire de haut grade
+T12	digestif 1072 1091	emboles vasculaires
+T13	cardiovasculaires 1072 1091	emboles vasculaires
+T14	tumeur 1095 1113	territoires de CIS
+T15	age 15 21	48 ans
+T16	genre 0 2	Mr
+A4	genre T16 masculin
+T17	origine 34 144	une rupture d'anévrysme cérébral avec paraplégie séquellaire et vessie neurogène nécessitant des auto sondages
+T18	issue 1156 1249	Le contrôle tomodensitométrique à deux ans éliminait toute progression de la maladie vésicale
+A5	issue T18 amélioration

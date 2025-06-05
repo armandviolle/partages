@@ -1,0 +1,6 @@
+T1	age 13 19	50 ans
+T2	genre 960 970	le patient
+A1	genre T2 masculin
+T3	issue 960 1072	le patient est en bon état, sans aucun trouble mictionnel et la cystoscopie ne montrait pas de récidive tumorale
+A2	issue T3 guérison
+T4	origine 91 123	une hématurie et une pollakiurie

@@ -1,0 +1,6 @@
+T1	origine 119 149	retrouvée comateuse à domicile
+T2	age 13 19	69 ans
+T3	issue 1560 1566	décède
+T4	genre 4 9	femme
+A1	genre T4 féminin
+A2	issue T3 décès

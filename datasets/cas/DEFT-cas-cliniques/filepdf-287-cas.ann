@@ -1,0 +1,6 @@
+T1	genre 0 6	Madame
+T2	age 11 17	84 ans
+A1	genre T1 féminin
+T3	origine 92 161	altération de l'état général, fièvre, et hématurie depuis une semaine
+T4	issue 2531 2579	Six mois plus tard, elle était en parfaite santé
+A2	issue T4 guérison

@@ -1,0 +1,6 @@
+T1	genre 5 10	homme
+T2	origine 68 84	hématurie totale
+A1	genre T1 masculin
+T3	age 14 20	24 ans
+T4	issue 1880 1986	Le contrôle tomodensitométrique, réalisé deux mois après, objectivait une disparition complète des lésions
+A2	issue T4 guérison

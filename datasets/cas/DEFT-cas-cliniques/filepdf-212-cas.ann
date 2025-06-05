@@ -1,0 +1,6 @@
+T1	genre 0 8	Monsieur
+T2	age 13 23	né en 1930
+A1	genre T1 masculin
+T3	origine 86 154	une lésion indolore du cuir chevelu, de taille rapidement croissante
+T4	issue 1480 1588	Un traitement complémentaire par immunothérapie a été débuté de principe, malgré l’absence de cible tumorale
+A2	issue T4 amélioration

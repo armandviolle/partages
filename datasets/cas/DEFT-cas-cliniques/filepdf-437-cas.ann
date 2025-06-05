@@ -1,0 +1,86 @@
+T13	examen 1201 1222	analyse toxicologique
+T14	examen 1547 1563	analyse sanguine
+T8	substance 1587 1598	halopéridol
+T10	substance 1635 1646	rispéridone
+T9	substance 1851 1862	halopéridol
+T11	substance 1920 1931	rispéridone
+T12	substance 1956 1972	9-OH-rispéridone
+T15	examen 2917 2924	analyse
+T16	valeur 1621 1628	14 µg/L
+T17	valeur 1669 1675	3 µg/L
+T19	pathologie 1267 1305	syndrome de Münchausen par procuration
+T20	pathologie 298 310	schizophrène
+T21	pathologie 314 324	toxicomane
+A3	etat T20 familial
+A4	etat T21 familial
+T22	sosy 411 430	violences aggravées
+A5	assertion T22 non-associé
+A6	assertion T21 non-associé
+A7	assertion T20 non-associé
+T23	pathologie 587 611	hyperthermie persistante
+T24	sosy 627 636	céphalées
+T25	sosy 642 658	syndrome méningé
+T26	sosy 711 746	troubles moteurs des quatre membres
+T27	anatomie 732 746	quatre membres
+T28	sosy 760 785	troubles de la conscience
+T30	pathologie 872 902	coma d’aggravation progressive
+T31	sosy 935 1000	mal convulsif résistant à tous les traitements anti-convulsivants
+T33	sosy 1010 1036	défaillance multiviscérale
+T34	examen 1127 1146	prélèvement sanguin
+T35	moment 1160 1195	le quatrième jour d’hospitalisation
+T37	examen 2202 2224	électroencéphalogramme
+T38	traitement 2463 2482	rééducation motrice
+T39	examen 2618 2641	analyses toxicologiques
+T40	examen 2761 2779	analyses sanguines
+T41	anatomie 2957 2964	cheveux
+T42	anatomie 2968 2973	poils
+T52	examen 2658 2666	analyses
+T54	examen 2019 2030	prélèvement
+T55	examen 2868 2879	prélèvement
+T56	moment 2300 2324	après trois mois et demi
+T57	moment 2395 2416	Un mois et demi après
+T58	sosy 2497 2529	reprise de conscience paradoxale
+T48	duree 2893 2910	environ cinq mois
+A8	norme T16 haut
+A9	norme T17 haut
+T50	valeur 1829 1843	de 5 à 25 µg/L
+T51	valeur 1867 1883	de 10 à 100 µg/L
+T53	sosy 1365 1379	syndrome malin
+T1	substance 970 1000	traitements anti-convulsivants
+T2	substance 1344 1358	neuroleptiques
+T3	moment 2040 2088	quatre jours après le début de l’hospitalisation
+T4	sosy 2184 2224	amélioration de l’électroencéphalogramme
+A1	assertion T4 absent
+T5	duree 2240 2270	durant les trois premiers mois
+T7	sosy 2362 2393	état de conscience satisfaisant
+T18	substance 2719 2731	psychotropes
+T29	sosy 663 683	tableau neurologique
+T32	substance 1395 1403	composés
+T36	sosy 1429 1461	symptômes présentés par l’enfant
+T43	substance 1463 1489	cette classe thérapeutique
+T44	sosy 1587 1628	halopéridol à la concentration de 14 µg/L
+T45	sosy 1635 1675	rispéridone à la concentration de 3 µg/L
+T46	moment 2142 2175	au moment de l’entrée à l’hôpital
+T47	sosy 2706 2731	présence des psychotropes
+T6	anatomie 651 658	méningé
+T49	anatomie 1139 1146	sanguin
+T59	anatomie 1555 1563	sanguine
+T60	anatomie 2770 2779	sanguines
+T61	etatsosy 587 611	hyperthermie persistante
+T62	etatsosy 627 636	céphalées
+T63	nerveux 711 746	troubles moteurs des quatre membres
+T64	etatsosy 711 746	troubles moteurs des quatre membres
+T65	nerveux 760 785	troubles de la conscience
+T66	etatsosy 760 785	troubles de la conscience
+T67	nerveux 872 902	coma d’aggravation progressive
+T68	etatsosy 872 902	coma d’aggravation progressive
+T69	etatsosy 1010 1036	défaillance multiviscérale
+T70	chimiques 1587 1628	halopéridol à la concentration de 14 µg/L
+T71	chimiques 1635 1675	rispéridone à la concentration de 3 µg/L
+T72	chimiques 2706 2731	présence des psychotropes
+T73	age 37 42	6 ans
+T74	genre 6 15	un enfant
+A2	genre T74 masculin
+T75	origine 587 658	hyperthermie persistante accompagnée de céphalées avec syndrome méningé
+T76	issue 2177 2288	Aucune amélioration de l’électroencéphalogramme n’est observée durant les trois premiers mois d’hospitalisation
+A10	issue T76 stable

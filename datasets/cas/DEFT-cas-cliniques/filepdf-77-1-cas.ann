@@ -1,0 +1,66 @@
+T1001	anatomie 424 434	abdominale
+T1002	anatomie 474 481	abdomen
+T1003	anatomie 719 728	pelvienne
+T1004	anatomie 1217 1231	recto-sigmoïde
+T10051	duree 183 204	depuis plusieurs mois
+T10052	duree 299 315	depuis 48 heures
+T10053	duree 1051 1069	pendant deux jours
+T10061	examen 386 401	examen physique
+T10062	examen 537 551	toucher rectal
+T10063	examen 617 659	radiographie de l'abdomen sans préparation
+T10064	examen 792 803	échographie
+T100111	moment 927 939	le même jour
+T100112	moment 1132 1159	au 7ème jour postopératoire
+T100141	traitement 921 926	opéré
+T100194	sosy 583 612	masse indolore, dure et fixée
+T100195	sosy 673 703	niveaux hydroaériques coliques
+T1006	mode 996 1003	rectale
+T1007	sosy 51 68	syndrome occlusif
+T1008	sosy 248 265	syndrome occlusif
+T10010	sosy 413 450	distension abdominale impressionnante
+T10011	examen 461 470	palpation
+T10012	sosy 474 532	abdomen était sensible dans sa totalité sans défense nette
+T10013	anatomie 545 551	rectal
+T10014	anatomie 635 642	abdomen
+T10015	sosy 711 786	opacité pelvienne d'environ 15 cm de diamètre avec des contours irréguliers
+T10016	sosy 831 851	empierrement vésical
+T10017	anatomie 844 851	vésical
+T10018	sosy 879 903	trois volumineux calculs
+T10019	moment 1011 1027	en peropératoire
+T10020	anatomie 1238 1247	péritoine
+T200161	valeur 731 756	environ 15 cm de diamètre
+T200191	sosy 132 173	troubles digestifs à type de constipation
+T200192	sosy 359 366	nausées
+T200193	sosy 370 382	vomissements
+T200196	traitement 945 982	extraction des calculs par cystotomie
+T2006	sosy 76 86	antécédent
+T2007	examen 106 120	interrogatoire
+T2008	anatomie 141 150	digestifs
+T2009	sosy 210 243	retentissement sur l'état général
+T20011	sosy 324 342	violentes coliques
+T20023	traitement 990 1050	sonde rectale montée en peropératoire a été laissée en place
+T20025	traitement 1191 1196	geste
+T20027	examen 1284 1300	vitalité colique
+T20029	traitement 1238 1262	péritoine n'a été ouvert
+A1	assertion T2006 absent
+A2	assertion T2009 absent
+T1	sosy 960 967	calculs
+T200197	etatsosy 161 173	constipation
+T200198	etatsosy 413 434	distension abdominale
+T2	etatsosy 51 68	syndrome occlusif
+T3	etatsosy 248 265	syndrome occlusif
+T4	digestif 324 342	violentes coliques
+T5	etatsosy 359 366	nausées
+T6	etatsosy 370 382	vomissements
+T7	digestif 879 903	trois volumineux calculs
+T8	etatsosy 879 903	trois volumineux calculs
+T9	etatsosy 960 967	calculs
+T10	digestif 960 967	calculs
+T11	homme 831 851	empierrement vésical
+T12	etatsosy 831 851	empierrement vésical
+T13	genre 3 10	patient
+A3	genre T13 masculin
+T14	age 14 20	52 ans
+T15	origine 51 68	syndrome occlusif
+T16	issue 1071 1159	L'évolution a été favorable et le patient a quitté l'hôpital au 7ème jour postopératoire
+A4	issue T16 guérison

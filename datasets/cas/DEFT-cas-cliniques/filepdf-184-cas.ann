@@ -1,0 +1,60 @@
+T7	sosy 107 123	bon état général
+T56	anatomie 1100 1114	tissus adipeux
+T16	examen 1169 1188	examen histologique
+T8	anatomie 1227 1245	cellules adipeuses
+T57	anatomie 1280 1303	tissus hématopoïétiques
+T31	anatomie 1329 1343	moelle osseuse
+T9	sosy 133 149	contact lombaire
+T48	anatomie 1372 1382	cellulaire
+T24	anatomie 141 155	lombaire droit
+T34	anatomie 1422 1444	parenchyme surrénalien
+T10	tumeur 1530 1533	MLS
+T5	sosy 161 177	autres anomalies
+T38	sosy 1619 1627	récidive
+T45	examen 181 203	échographie abdominale
+T2	anatomie 193 203	abdominale
+T26	sosy 220 357	masse hyperéchogène de 16 x 13 x 8 cm aux dépens de la loge surrénalienne droite refoulant le rein en bas et en dedans et le foie en haut
+T23	anatomie 275 300	loge surrénalienne droite
+T37	anatomie 314 318	rein
+T20	anatomie 345 349	foie
+T43	examen 373 396	tomodensitométrie (TDM)
+T27	sosy 419 543	masse de densité graisseuse aux dépens de la surrénale droite prenant faiblement le produit de contraste de façon hétérogène
+T15	etatsosy 46 72	lombalgies droites isolées
+T40	anatomie 464 480	surrénale droite
+T36	substance 503 523	produit de contraste
+T6	examen 559 584	bilan hydroéléctrolytique
+T69	anatomie 57 64	droites
+T32	valeur 628 635	normaux
+T4	tumeur 660 663	MLS
+T28	sosy 699 736	caractère non fonctionnel de la masse
+T14	examen 78 84	examen
+T19	traitement 799 831	exérèse chirurgicale de la masse
+T29	sosy 835 891	son volume dépassant 5 cm et son caractère symptomatique
+T22	traitement 898 909	laparotomie
+T18	traitement 915 950	exérèse de cette masse surénalienne
+T30	sosy 932 950	masse surénalienne
+#2	AnnotatorNotes T10	myélolipome surrénalien
+#1	AnnotatorNotes T4	myélolipome surrénalien
+T1	age 19 25	53 ans
+T11	genre 0 6	Madame
+A1	assertion T38 absent
+T12	moment 1628 1643	après une année
+T3	sosy 1045 1149	surface lisse et jaunâtre avec à la coupe un aspect de tissus adipeux renfermant des zones hémorragiques
+A2	assertion T5 absent
+T13	examen 602 619	dosages hormonaux
+T35	endocriniennes 660 663	MLS
+T39	endocriniennes 1530 1533	MLS
+A3	genre T11 féminin
+T41	valeur 1015 1029	16 x 13 x 8 cm
+T42	valeur 997 1002	700 g
+T17	valeur 243 257	16 x 13 x 8 cm
+T21	sosy 559 635	bilan hydroéléctrolytique, de même que les dosages hormonaux étaient normaux
+T25	examen 762 774	radiologique
+T33	valeur 846 860	dépassant 5 cm
+T44	anatomie 938 950	surénalienne
+T46	sosy 981 1029	Celle-ci pesait 700 g et mesurait 16 x 13 x 8 cm
+T47	sosy 1210 1417	prolifération de cellules adipeuses matures associées à des foyers de tissus hématopoïétiques identiques à celui de la moelle osseuse avec la présence de lignées cellulaires à différents stades de maturation
+T49	sosy 1422 1471	parenchyme surrénalien était laminé en périphérie
+T50	examen 1580 1585	suivi
+T51	pathologie 660 663	MLS
+T52	pathologie 1530 1533	MLS

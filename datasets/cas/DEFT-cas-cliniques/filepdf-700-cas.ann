@@ -1,0 +1,70 @@
+T4	duree 112 126	depuis 2 jours
+T8	anatomie 215 225	thoracique
+T7	examen 472 487	examen clinique
+T6	substance 926 936	amiodarone
+T9	sosy 207 225	douleur thoracique
+T10	dose 916 923	1200 mg
+T11	examen 940 968	tracé électrocardiographique
+T12	sosy 90 102	palpitations
+A3	assertion T9 absent
+T13	sosy 232 239	dyspnée
+T14	sosy 246 253	syncope
+T15	sosy 260 270	lipothymie
+A4	assertion T13 absent
+A5	assertion T14 absent
+A6	assertion T15 absent
+T16	sosy 397 420	hypertension artérielle
+T17	anatomie 410 420	artérielle
+A7	assertion T16 absent
+T18	pathologie 427 434	diabète
+A8	assertion T18 absent
+T19	sosy 440 468	intoxication éthylotabagique
+A9	assertion T19 absent
+T20	valeur 494 500	normal
+A10	norme T20 normal
+T21	examen 503 521	état hémodynamique
+T23	sosy 552 574	insuffisance cardiaque
+A12	assertion T23 absent
+T24	anatomie 565 574	cardiaque
+T25	examen 750 769	électrocardiogramme
+T26	valeur 823 837	150 par minute
+A13	norme T26 haut
+T27	pathologie 795 837	tachycardie large battant à 150 par minute
+T28	sosy 1213 1221	arythmie
+T29	traitement 1126 1151	défibrillation électrique
+A14	assertion T29 absent
+T30	pathologie 1296 1319	cardiopathie ischémique
+T31	sosy 1356 1380	tachycardie antidromique
+T32	sosy 1566 1596	anomalies étaient persistantes
+T37	examen 719 746	troponines I ultrasensibles
+T38	examen 1246 1279	clinique biologique échographique
+T33	examen 645 677	marqueurs de nécrose myocardique
+T34	sosy 1396 1429	syndrome de Wolff Parkinson White
+T36	sosy 1475 1491	effet Chatterjee
+T39	sosy 1496 1526	anomalies de la repolarisation
+T40	sosy 278 305	antécédent cardiovasculaire
+A15	assertion T40 absent
+T1	duree 161 185	pendant quelques minutes
+T2	substance 453 468	éthylotabagique
+T3	examen 603 611	biologie
+T5	sosy 631 677	élévation des marqueurs de nécrose myocardique
+A1	assertion T5 absent
+T35	moment 848 875	Quelques instants plus tard
+T41	sosy 985 1076	rythme sinusal avec présence d’une onde delta et des ondes négatives en antéro-septo-apical
+T42	duree 894 902	une dose
+T22	sosy 472 500	examen clinique était normal
+T43	sosy 503 534	état hémodynamique était stable
+T44	anatomie 666 677	myocardique
+T46	cardiovasculaires 795 837	tachycardie large battant à 150 par minute
+T47	cardiovasculaires 1213 1221	arythmie
+T45	etatsosy 795 806	tachycardie
+T48	etatsosy 1213 1221	arythmie
+T49	cardiovasculaires 1296 1319	cardiopathie ischémique
+T50	cardiovasculaires 1356 1380	tachycardie antidromique
+T51	etatsosy 1356 1380	tachycardie antidromique
+T52	genre 19 24	homme
+A2	genre T52 masculin
+T53	age 28 34	50 ans
+T54	origine 90 185	palpitations évoluant depuis 2 jours, survenant au repos et persistant pendant quelques minutes
+T55	issue 1566 1596	anomalies étaient persistantes
+A11	issue T55 stable

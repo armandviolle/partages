@@ -1,0 +1,68 @@
+T20	traitement 1020 1032	intervention
+T68	dispositif 1037 1042	sonde
+T35	frequence 1055 1070	tous les 6 mois
+T7	examen 1199 1212	créatininémie
+T36	substance 168 184	ant ituberculeux
+T8	duree 185 198	depuis 4 mois
+T4	homme 204 228	tuberculose uro-génitale
+T19	anatomie 216 228	uro-génitale
+T5	examen 232 235	UIV
+T31	anatomie 281 294	rénale gauche
+T33	sosy 338 378	sténose de l’uretère iliolombaire gauche
+T38	anatomie 351 378	uretère iliolombaire gauche
+T23	traitement 384 414	néphrostomie percutanée gauche
+T24	mode 397 407	percutanée
+T14	anatomie 408 414	gauche
+T6	examen 543 561	UPR du côté gauche
+T15	anatomie 550 561	côté gauche
+T2	etatsosy 56 74	lombalgies gauches
+T56	age 6 12	35 ans
+T26	substance 604 624	produit de contraste
+T54	anatomie 640 655	uretère iliaque
+T17	anatomie 67 74	gauches
+T32	mode 732 747	voie rétrograde
+T10	examen 773 797	exploration chirurgicale
+T41	anatomie 827 841	uretère gauche
+T1	homme 84 103	insuffisance rénale
+T3	homme 861 885	périurétérite importante
+T43	traitement 891 918	urétérotomie sur la sténose
+T34	sosy 911 918	sténose
+T29	anatomie 97 103	rénale
+T9	valeur 106 115	510 mol/l
+A1	norme T9 haut
+T11	examen 119 133	créati ninémie
+T12	examen 468 482	créatini némie
+T13	valeur 499 508	240 mol/l
+A2	norme T13 haut
+T18	examen 513 537	pyélographie descendante
+T21	dispositif 719 727	double J
+T22	mode 811 823	voie iliaque
+T16	dispositif 967 1004	endoprothèse double J Ch. 7 siliconée
+T25	valeur 1223 1245	entre 210 et 260 mol/l
+A3	norme T25 haut
+T27	sosy 273 294	mut ité rénale gauche
+T28	genre 138 145	patient
+A4	genre T28 masculin
+T30	traitement 456 464	drainage
+T37	homme 302 322	uretérohydronéphrose
+T39	homme 338 378	sténose de l’uretère iliolombaire gauche
+T40	moment 429 452	Après quelques semaines
+T42	valeur 663 679	sur environ 6 cm
+T44	sosy 56 74	lombalgies gauches
+T45	sosy 84 103	insuffisance rénale
+T46	infections 204 228	tuberculose uro-génitale
+T47	infections 168 184	ant ituberculeux
+T48	homme 273 294	mut ité rénale gauche
+T49	etatsosy 911 918	sténose
+T50	sosy 106 133	510 mol/l de créati ninémie
+T51	sosy 468 508	créatini némie est descendue à 240 mol/l
+T52	sosy 587 679	arrêt complet du produit de contraste au niveau de l’uretère iliaque étendu sur environ 6 cm
+T53	traitement 709 727	montée de double J
+A5	assertion T53 absent
+T55	sosy 827 885	uretère gauche était fixé par une périurétérite importante
+T57	traitement 946 1004	met tre en place une endoprothèse double J Ch. 7 siliconée
+T58	traitement 1037 1054	sonde est changée
+T59	moment 1163 1168	7 ans
+T60	sosy 1199 1245	créatininémie oscillent entre 210 et 260 mol/l
+T61	pathologie 204 228	tuberculose uro-génitale
+T62	pathologie 302 322	uretérohydronéphrose

@@ -1,0 +1,6 @@
+T1	genre 0 2	Mr
+T2	age 16 22	75 ans
+A1	genre T1 masculin
+T3	origine 40 123	l'augmentation progressive d'une tuméfaction scrotale gauche évoluant depuis 10 ans
+T4	issue 1250 1285	L'évolution était favorable à 2 ans
+A2	issue T4 guérison

@@ -1,0 +1,6 @@
+T1	age 13 19	52 ans
+T2	genre 4 9	femme
+A1	genre T2 féminin
+T3	origine 73 141	une douleur du flanc droit associée à une atteinte de l’état général
+T4	issue 3343 3425	Les suites opératoires ont été simples et le résultat esthétique très satisfaisant
+A2	issue T4 guérison

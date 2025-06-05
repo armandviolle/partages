@@ -1,0 +1,6 @@
+T1	genre 62 74	une patiente
+T2	age 78 84	62 ans
+A1	genre T1 féminin
+T3	origine 10 42	fibrose systémique néphrogénique
+T4	issue 2338 2474	n'a eu aucune efficacité. La patiente présentait également des troubles auriculo-ventriculaires probablement associés à la FSN (2, 3, 6)
+A2	issue T4 stable

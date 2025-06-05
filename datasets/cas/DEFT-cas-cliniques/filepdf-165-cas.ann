@@ -1,0 +1,6 @@
+T1	genre 0 6	Madame
+T2	age 20 26	23 ans
+A1	genre T1 féminin
+T3	origine 56 154	à 39 semaines d’aménorrhée pour douleurs lombaires bilatérales et anurie évoluant depuis 24 heures
+T4	issue 1902 1965	L’échographie de contrôle n’objectivait plus de lithiase rénale
+A2	issue T4 guérison

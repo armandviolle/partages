@@ -1,0 +1,6 @@
+T1	genre 1267 1277	Le patient
+T2	age 15 21	22 ans
+A1	genre T1 masculin
+T3	origine 115 160	douleur lombaire aigue droite et état de choc
+T4	issue 1186 1265	L'évolution était favorable durant la première année ayant suivi l'intervention
+A2	issue T4 amélioration

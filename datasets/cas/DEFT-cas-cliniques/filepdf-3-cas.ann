@@ -1,0 +1,6 @@
+T1	genre 0 12	Une patiente
+T2	age 21 27	45 ans
+A1	genre T1 féminin
+T3	origine 100 253	douleurs lombaires gauches, d'acouphènes, de palpitations, de céphalées et une hypersudation après chaque miction, sans troubles mictionnels ni hématurie
+T4	issue 2746 2879	La patiente est actuellement asymptomatique avec des chiffres tensionnels normaux et une urographie intraveineuse de contrôle normale
+A2	issue T4 amélioration

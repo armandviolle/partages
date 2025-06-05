@@ -1,0 +1,357 @@
+T1	sosy 95 107	vomissements
+A1	assertion T1 présent
+T2	duree 108 139	depuis le début de sa grossesse
+T3	moment 162 216	au cours des trois jours précédant son hospitalisation
+T5	sosy 315 348	retard de croissance intra-utérin
+T6	sosy 355 381	autre anomalie congénitale
+A4	assertion T6 absent
+T7	sosy 398 402	fume
+A5	assertion T7 absent
+T8	sosy 423 429	alcool
+A6	assertion T8 absent
+T9	sosy 453 476	allergie médicamenteuse
+A7	assertion T9 absent
+T10	pathologie 525 545	diabète gestationnel
+A8	etat T10 passé
+A9	assertion T10 hypothétique
+T11	sosy 562 594	HG lors de sa première grossesse
+T12	mode 665 677	intraveineux
+T13	substance 681 695	métoclopramide
+T14	substance 712 727	diphénhydramine
+T15	mode 750 760	voie orale
+T16	substance 764 778	métoclopramide
+T17	substance 786 797	hydroxyzine
+T18	sosy 803 876	réaction extrapyramidale (rigidité de la mâchoire et difficulté à parler)
+T19	substance 904 918	métoclopramide
+A11	prise T19 arrêt
+T20	substance 922 933	hydroxyzine
+A12	prise T20 arrêt
+T21	substance 983 993	doxylamine
+T22	substance 1000 1024	pyridoxine (DiclectinMD)
+T23	moment 1063 1101	à 11 semaines de sa deuxième grossesse
+T24	sosy 1128 1135	nausées
+T25	sosy 1142 1154	vomissements
+T26	duree 1155 1182	depuis une dizaine de jours
+T27	mode 1188 1211	perfusion intraveineuse
+T28	substance 1224 1247	solution saline à 0,9 %
+T29	substance 1256 1270	dextrose à 5 %
+T30	substance 1345 1355	doxylamine
+T31	substance 1362 1372	pyridoxine
+T32	frequence 1388 1396	par jour
+T33	moment 1399 1420	Une semaine plus tard
+T34	sosy 1480 1500	récidive des nausées
+T35	frequence 1521 1561	quatre épisodes de vomissements par jour
+T36	sosy 1540 1552	vomissements
+T37	sosy 1626 1661	cétones urinaires étaient négatives
+T39	examen 1626 1643	cétones urinaires
+T40	sosy 1680 1696	gastrite érosive
+T41	anatomie 812 827	extrapyramidale
+T42	anatomie 844 852	mâchoire
+T43	anatomie 336 348	intra-utérin
+T44	substance 1724 1734	ranitidine
+T45	mode 1739 1749	voie orale
+T46	dose 1751 1757	150 mg
+T47	frequence 1758 1776	deux fois par jour
+T48	substance 1783 1798	acide alginique
+T49	moment 1800 1818	après chaque repas
+T50	moment 1822 1832	au coucher
+T53	frequence 1914 1959	cinq ou six épisodes de vomissements par jour
+T54	sosy 1963 2012	n’est pas capable de s’alimenter ni de s’hydrater
+T55	sosy 2057 2088	détérioration de l’état général
+T56	sosy 2094 2109	hypersalivation
+T57	sosy 2115 2125	hématémèse
+T58	sosy 2131 2140	céphalées
+T59	sosy 2146 2161	gaz intestinaux
+T60	sosy 2169 2195	douleur abdominale diffuse
+T61	sosy 2201 2259	épigastralgie augmentant d’intensité lors des vomissements
+T62	sosy 2313 2329	pertes sanguines
+A13	assertion T62 absent
+T63	sosy 2334 2352	pertes de liquides
+A14	assertion T63 absent
+T64	sosy 2357 2378	contractions utérines
+A15	assertion T64 absent
+T65	examen 2268 2284	plan obstétrical
+T66	valeur 2403 2410	normaux
+T67	examen 2384 2397	signes vitaux
+T68	moment 2412 2443	Depuis le début de sa grossesse
+T69	sosy 2457 2470	a perdu 16 kg
+T70	valeur 2465 2470	16 kg
+T71	examen 2542 2558	analyse urinaire
+T72	sosy 2569 2588	présence de cétones
+T73	substance 2581 2588	cétones
+T74	examen 2640 2664	analyses de laboratoires
+T75	examen 2672 2685	signes vitaux
+T76	moment 2688 2701	À l’admission
+T77	dose 2748 2754	150 mg
+T78	substance 2758 2768	ranitidine
+T79	frequence 2769 2786	une fois par jour
+T80	substance 2792 2818	multivitamine de grossesse
+T81	frequence 2819 2836	une fois par jour
+T82	frequence 2862 2870	par jour
+T83	dose 2847 2861	huit comprimés
+T84	substance 2874 2884	doxylamine
+T85	substance 2891 2901	pyridoxine
+T86	sosy 2932 2934	HG
+T87	sosy 2942 2958	gastrite érosive
+T88	traitement 3060 3078	traitement de l’HG
+T89	examen 3142 3157	bilan hépatique
+T90	examen 3167 3189	échographie abdominale
+T91	anatomie 3179 3189	abdominale
+T92	anatomie 3148 3157	hépatique
+T93	anatomie 2370 2378	utérines
+T94	anatomie 2177 2187	abdominale
+T95	anatomie 2150 2161	intestinaux
+T96	examen 3197 3228	dépistage d’Helicobacter pylori
+A16	assertion T96 absent
+T97	mode 3273 3282	perfusion
+T98	substance 3285 3296	hydratation
+T99	mode 3329 3347	voie intraveineuse
+T100	substance 3350 3358	thiamine
+T101	substance 3360 3375	diphénhydramine
+T102	substance 3377 3391	métoclopramide
+T103	mode 3395 3404	perfusion
+T104	frequence 3405 3413	continue
+T105	substance 3415 3425	pyridoxine
+T106	substance 3427 3437	ranitidine
+T107	substance 3441 3455	multivitamines
+T108	substance 3498 3508	médication
+T109	moment 3524 3551	pendant son hospitalisation
+T110	moment 3557 3569	Au jour deux
+T111	sosy 3586 3609	détérioration de l’état
+T112	moment 3625 3637	dans la nuit
+T113	substance 3648 3674	traitement médical initial
+T114	substance 3693 3704	ondansétron
+T115	mode 3709 3727	voie intraveineuse
+T116	dose 3749 3761	dose de 4 mg
+T117	frequence 3762 3784	toutes les huit heures
+T118	mode 3789 3798	perfusion
+T119	substance 3802 3816	métoclopramide
+T120	moment 3828 3836	le matin
+T121	dose 3839 3844	65 mg
+A17	changement T121 augmentation
+T122	frequence 3845 3853	par jour
+A18	prise T119 arrêt
+T123	sosy 3913 3937	réaction extrapyramidale
+T124	anatomie 3922 3937	extrapyramidale
+T125	moment 3953 3984	lors de sa grossesse antérieure
+T126	substance 3988 3999	hydratation
+T127	mode 4000 4013	intraveineuse
+T128	substance 4035 4050	diphénhydramine
+T129	substance 4055 4065	pyridoxine
+T130	substance 4072 4086	multivitamines
+T131	sosy 4133 4146	épigastralgie
+T133	substance 4178 4188	ranitidine
+A20	prise T133 arrêt
+T134	dose 4193 4198	40 mg
+T135	substance 4202 4214	pantoprazole
+T136	mode 4219 4237	voie intraveineuse
+T137	frequence 4238 4255	une fois par jour
+T138	dose 4288 4293	40 mg
+A21	changement T138 augmentation
+T139	mode 4298 4316	voie intraveineuse
+T140	frequence 4317 4337	toutes les 12 heures
+T141	examen 4341 4363	échographie abdominale
+T142	sosy 4381 4389	anomalie
+A22	assertion T142 absent
+T143	moment 4392 4414	Le matin du jour trois
+T144	sosy 4431 4454	persistance des nausées
+T145	anatomie 4353 4363	abdominale
+T146	sosy 4460 4472	vomissements
+T147	sosy 4481 4496	hypersalivation
+T148	substance 4528 4539	ondansétron
+T149	dose 4542 4546	8 mg
+A23	changement T149 augmentation
+T150	mode 4551 4569	voie intraveineuse
+T151	frequence 4570 4592	toutes les huit heures
+T152	sosy 4605 4649	fréquence des vomissements est encore élevée
+T154	sosy 4682 4708	hypersalivation importante
+T156	substance 4760 4769	clonidine
+T157	mode 4774 4784	voie orale
+T158	dose 4791 4806	dose de 0,05 mg
+T159	frequence 4807 4825	deux fois par jour
+T160	mode 4830 4839	perfusion
+T161	substance 4842 4853	hydratation
+T162	mode 4854 4867	intraveineuse
+T163	substance 4889 4904	diphénhydramine
+T164	substance 4909 4921	pantoprazole
+T165	substance 4926 4936	pyridoxine
+T166	substance 4943 4957	multivitamines
+T167	sosy 4986 5023	diminution de la douleur épigastrique
+T168	anatomie 5011 5023	épigastrique
+T169	moment 5026 5040	Au jour quatre
+T170	sosy 5044 5083	état clinique de la patiente s’améliore
+T171	sosy 5107 5114	nausées
+T172	moment 5119 5133	durant la nuit
+T173	sosy 5143 5154	vomissement
+A24	assertion T173 absent
+T174	examen 5165 5183	tension artérielle
+T175	valeur 5219 5237	91–106/53–59 mm Hg
+T176	sosy 5165 5238	tension artérielle de la patiente demeure acceptable (91–106/53–59 mm Hg)
+T177	dose 5252 5259	la dose
+T178	substance 5263 5272	clonidine
+T179	dose 5275 5298	la dose cible de 0,1 mg
+A25	changement T179 augmentation
+T180	frequence 5299 5317	deux fois par jour
+T181	moment 5319 5334	Après 24 heures
+T182	sosy 5340 5351	vomissement
+A26	assertion T182 absent
+T183	sosy 5393 5406	épigastralgie
+T185	substance 5463 5474	ondansétron
+T186	substance 5478 5489	hydratation
+T187	mode 5490 5503	intraveineuse
+T188	substance 5508 5520	pantoprazole
+T189	substance 5525 5540	diphénhydramine
+T190	substance 5545 5555	pyridoxine
+T191	substance 5563 5577	multivitamines
+T192	moment 5580 5592	Au jour cinq
+T193	substance 5620 5647	régime solide hypolipidique
+T194	substance 5369 5389	alimentation liquide
+T196	sosy 5674 5681	nausées
+A27	assertion T196 absent
+T197	sosy 5687 5699	vomissements
+A28	assertion T197 absent
+T198	sosy 5703 5718	hypersalivation
+A29	assertion T198 absent
+T199	sosy 5725 5732	pyrosis
+A30	assertion T199 absent
+T200	substance 5760 5769	clonidine
+T201	mode 5817 5827	voie orale
+T202	substance 5832 5843	ondansétron
+T203	substance 5848 5858	ranitidine
+T204	mode 5863 5873	voie orale
+T205	dose 5875 5881	150 mg
+T206	frequence 5882 5900	deux fois par jour
+T207	substance 5914 5926	pantoprazole
+A31	prise T207 arrêt
+T208	dose 1374 1387	six comprimés
+T209	substance 5939 5950	hydratation
+A32	prise T209 arrêt
+T210	mode 5951 5964	intraveineuse
+T211	substance 5986 5996	pyridoxine
+A33	prise T211 arrêt
+T212	substance 6003 6017	multivitamines
+A34	prise T212 arrêt
+T213	substance 6021 6032	hydroxyzine
+T214	dose 6034 6039	25 mg
+T215	mode 6044 6054	voie orale
+T216	frequence 6055 6075	quatre fois par jour
+T217	substance 6089 6104	diphénhydramine
+A35	prise T217 arrêt
+T218	mode 6109 6127	voie intraveineuse
+T219	moment 6130 6141	Au jour six
+T220	substance 6208 6227	alimentation solide
+T221	moment 6229 6253	À la sortie de l’hôpital
+T222	mode 6308 6318	voie orale
+T223	substance 6321 6331	oméprazole
+T224	dose 6333 6338	20 mg
+T225	frequence 6339 6357	deux fois par jour
+T226	substance 6359 6370	ondansétron
+T227	dose 6372 6376	8 mg
+T228	frequence 6377 6396	trois fois par jour
+T229	substance 6398 6407	clonidine
+T230	dose 6409 6415	0,1 mg
+T231	frequence 6416 6434	deux fois par jour
+T232	substance 6436 6447	hydroxyzine
+T233	dose 6449 6454	25 mg
+T234	frequence 6455 6475	quatre fois par jour
+T235	frequence 6476 6485	au besoin
+T236	frequence 6567 6599	toutes les deux à trois semaines
+T237	examen 6533 6551	suivi téléphonique
+T238	moment 6634 6660	Neuf jours après son congé
+T240	substance 6712 6723	ondansétron
+T241	dose 6725 6729	8 mg
+T242	frequence 6730 6749	trois fois par jour
+T243	substance 6755 6764	clonidine
+T244	dose 6766 6772	0,1 mg
+T245	frequence 6773 6791	deux fois par jour
+T246	substance 6796 6806	oméprazole
+T247	dose 6808 6813	20 mg
+T248	frequence 6814 6831	une fois par jour
+T249	substance 6838 6849	hydroxyzine
+T250	dose 6851 6856	25 mg
+T251	moment 6857 6867	au coucher
+T252	moment 6870 6903	Vingt-trois jours après son congé
+T253	substance 6928 6939	ondansétron
+T254	frequence 6942 6959	une fois par jour
+T255	dose 6918 6925	la dose
+A36	changement T255 diminution
+T256	substance 6976 6986	oméprazole
+A37	prise T256 arrêt
+A38	changement T247 diminution
+A39	changement T250 diminution
+T258	moment 6988 7004	Lors de ce suivi
+T259	dose 7022 7029	la dose
+T260	substance 7033 7042	clonidine
+T261	moment 7059 7082	Deux semaines plus tard
+T262	dose 7126 7139	dose à 0,1 mg
+A41	changement T262 diminution
+T263	frequence 7140 7157	une fois par jour
+T264	substance 7186 7197	ondansétron
+T265	dose 7199 7203	8 mg
+T266	frequence 7204 7221	une fois par jour
+T267	substance 7286 7295	clonidine
+T268	dose 7297 7303	0,1 mg
+T269	frequence 7304 7321	une fois par jour
+T270	substance 7326 7337	ondansétron
+T271	dose 7339 7343	8 mg
+T272	frequence 7344 7361	une fois par jour
+T273	substance 7368 7379	hydroxyzine
+T274	dose 7381 7386	25 mg
+T275	frequence 7387 7404	une fois par jour
+T276	duree 7406 7432	pendant toute sa grossesse
+T277	moment 7443 7469	accouchement à 38 semaines
+T38	sosy 2384 2410	signes vitaux sont normaux
+T132	sosy 3076 3078	HG
+#1	AnnotatorNotes T86	Hyperemesis gravidarum : cas graves de nausées et de vomissements liés à une grossesse
+T52	frequence 1212 1220	continue
+T153	valeur 1652 1661	négatives
+T155	sosy 1938 1950	vomissements
+T184	anatomie 2320 2329	sanguines
+T195	anatomie 2550 2558	urinaire
+T239	moment 1836 1857	À son hospitalisation
+T4	anatomie 1634 1643	urinaires
+T51	anatomie 2344 2352	liquides
+T257	anatomie 5173 5183	artérielle
+T278	etatsosy 95 107	vomissements
+T279	etatsosy 315 348	retard de croissance intra-utérin
+T280	genetique 315 348	retard de croissance intra-utérin
+T281	femme 315 348	retard de croissance intra-utérin
+T282	femme 525 545	diabète gestationnel
+T283	nutritionnelles 525 545	diabète gestationnel
+T284	endocriniennes 525 545	diabète gestationnel
+T285	femme 562 564	HG
+T286	etatsosy 562 564	HG
+T287	osteomusculaires 803 827	réaction extrapyramidale
+T288	nerveux 803 827	réaction extrapyramidale
+T289	etatsosy 803 827	réaction extrapyramidale
+T290	etatsosy 1142 1154	vomissements
+T291	etatsosy 1128 1135	nausées
+T292	etatsosy 1493 1500	nausées
+T293	etatsosy 1540 1552	vomissements
+T294	digestif 1680 1696	gastrite érosive
+T295	etatsosy 1938 1950	vomissements
+T296	digestif 2115 2125	hématémèse
+T297	etatsosy 2115 2125	hématémèse
+T298	nerveux 2131 2140	céphalées
+T299	etatsosy 2169 2187	douleur abdominale
+T300	etatsosy 2201 2214	épigastralgie
+T301	femme 2932 2934	HG
+T302	etatsosy 2932 2934	HG
+T303	digestif 2942 2958	gastrite érosive
+T304	nerveux 3913 3937	réaction extrapyramidale
+T305	osteomusculaires 3913 3937	réaction extrapyramidale
+T306	etatsosy 3913 3937	réaction extrapyramidale
+T307	etatsosy 4133 4146	épigastralgie
+T308	etatsosy 4447 4454	nausées
+T309	etatsosy 4460 4472	vomissements
+T310	etatsosy 5003 5023	douleur épigastrique
+T311	etatsosy 5107 5114	nausées
+T312	etatsosy 5393 5406	épigastralgie
+T313	etatsosy 2247 2259	vomissements
+T314	etatsosy 4619 4631	vomissements
+T315	genre 16 21	femme
+A2	genre T315 féminin
+T316	age 25 31	32 ans
+T317	origine 91 216	des vomissements depuis le début de sa grossesse, qui se sont aggravés au cours des trois jours précédant son hospitalisation
+T318	issue 6143 6227	la patiente obtient son congé de l’hôpital, puisqu’elle tolère l’alimentation solide
+A3	issue T318 amélioration

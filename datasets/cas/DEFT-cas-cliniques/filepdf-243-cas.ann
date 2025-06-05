@@ -1,0 +1,7 @@
+T1	genre 62 67	femme
+T2	age 71 77	67 ans
+T3	origine 959 1008	écoulement sanglant vaginal, indolore et spontané
+A1	genre T1 féminin
+T4	issue 2002 2046	multiples métastases pulmonaires bilatérales
+A2	issue T4 détérioration
+#1	AnnotatorNotes T2	69 ans

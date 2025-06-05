@@ -1,0 +1,6 @@
+T1	age 13 19	27 ans
+T2	genre 4 9	femme
+T3	origine 89 124	hématurie macroscopique récidivante
+A1	genre T2 féminin
+T4	issue 1680 1843	Lors de ces endoscopies on a constaté une diminution nette du nombre d’hémangiomes et la régression complète de certaines lésions avec réépithélialisation vésicale
+A2	issue T4 amélioration

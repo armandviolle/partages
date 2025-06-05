@@ -1,0 +1,6 @@
+T1	age 15 21	70 ans
+T2	genre 715 725	Le patient
+T3	issue 848 854	décédé
+T4	origine 91 124	bilan d’une masse du flanc gauche
+A1	genre T2 masculin
+A2	issue T3 décès

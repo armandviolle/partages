@@ -1,0 +1,6 @@
+T1	genre 0 3	Mme
+T2	age 17 23	32 ans
+A1	genre T1 féminin
+T3	origine 91 113	une hématurie cyclique
+T4	issue 2584 2691	La patiente fut revue 6 mois plus tard, les menstruations étaient normales et il n’y avait plus d’hématurie
+A2	issue T4 guérison

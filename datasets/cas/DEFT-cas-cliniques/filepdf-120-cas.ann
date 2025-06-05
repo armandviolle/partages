@@ -1,0 +1,109 @@
+T53	anatomie 1043 1051	urétrale
+T42	traitement 1072 1089	suture en paletot
+T32	anatomie 1111 1118	phallus
+T71	anatomie 1133 1147	tissus cutanés
+T61	anatomie 1173 1179	cutané
+T31	anatomie 1258 1262	peau
+T11	traitement 1295 1317	dissection méticuleuse
+T54	anatomie 1348 1378	bande neuro-vasculaire dorsale
+T17	anatomie 1426 1438	gland pénien
+T25	valeur 1518 1525	normale
+T15	examen 1599 1625	fonction rénale biologique
+T40	anatomie 1608 1614	rénale
+T26	valeur 1626 1633	normale
+T50	examen 1637 1677	urographie intraveineuse post-opératoire
+T20	mode 1648 1661	intraveineuse
+T34	moment 1662 1677	post-opératoire
+T5	anatomie 1691 1715	cavités urinaires hautes
+T55	anatomie 1727 1733	vessie
+T23	valeur 1743 1749	normal
+T52	anatomie 1756 1762	urètre
+T6	examen 1785 1805	cliché permictionnel
+T28	valeur 192 199	normaux
+T36	anatomie 243 248	pénis
+T37	anatomie 403 408	pénis
+T14	examen 438 453	examen physique
+T38	anatomie 458 463	pénis
+T22	anatomie 480 492	méat urétral
+T16	anatomie 519 524	gland
+T56	anatomie 552 565	globe vésical
+T29	valeur 612 619	normaux
+T13	examen 624 655	examen et la culture des urines
+T46	anatomie 649 655	urines
+T30	valeur 664 672	négatifs
+T18	examen 676 687	hémoglobine
+T27	valeur 708 716	normales
+T58	examen 721 753	échographie abdominale et rénale
+T2	anatomie 733 743	abdominale
+T39	anatomie 747 753	rénale
+T24	valeur 760 767	normale
+T49	examen 773 797	urographie intraveineuse
+T19	mode 784 797	intraveineuse
+T35	anatomie 81 86	pénis
+T10	examen 823 846	cystographie rétrograde
+T41	mode 836 846	rétrograde
+T1	etatsosy 860 907	dilatation sacciforme de l’urètre pénien distal
+T51	anatomie 887 907	urètre pénien distal
+T43	substance 967 977	traitement
+T4	etatsosy 243 278	pénis était tuméfié et dévié en bas
+T7	homme 357 383	miction en goutte à goutte
+T9	homme 927 951	M.U.C. de type scaphoïde
+T12	genetique 927 951	M.U.C. de type scaphoïde
+#1	AnnotatorNotes T12	méga urètre congénital
+T21	genetique 92 102	macropénis
+T45	homme 92 102	macropénis
+T47	poids 217 221	4 kg
+T48	examen 693 699	urémie
+T57	homme 54 86	déformation monstrueuse du pénis
+T59	genetique 54 86	déformation monstrueuse du pénis
+T63	age 20 27	un jour
+T64	etatsosy 389 431	gonflement du pénis au cours de la miction
+T65	sosy 389 431	gonflement du pénis au cours de la miction
+T66	sosy 357 383	miction en goutte à goutte
+T67	sosy 243 278	pénis était tuméfié et dévié en bas
+T68	sosy 458 475	pénis était large
+T69	sosy 480 524	méat urétral était apical au niveau du gland
+T70	anatomie 570 577	scrotum
+T72	anatomie 585 591	testis
+T73	traitement 1033 1051	réduction urétrale
+T74	traitement 1057 1070	urètroplastie
+T75	traitement 1093 1118	reconstruction du phallus
+T60	traitement 1120 1157	excision des tissus cutanés excessifs
+T8	traitement 1164 1198	incision cutanée circonférentielle
+T76	anatomie 1231 1251	sillon balano-pénien
+T62	anatomie 1391 1406	urétral ventral
+T77	traitement 1426 1450	gland pénien reconstruit
+T78	traitement 1382 1419	excédent urétral ventral était excisé
+T33	genre 107 113	garçon
+A1	genre T33 masculin
+T44	fonction 1510 1517	miction
+T79	sosy 1571 1591	ballonnement urétral
+T80	anatomie 1584 1591	urétral
+A2	assertion T79 absent
+T81	sosy 120 130	né à terme
+T82	moment 224 238	A la naissance
+T83	sosy 286 330	déviation était accentuée lors de l’érection
+T84	sosy 570 619	scrotum et les testis étaient en place et normaux
+T85	sosy 624 672	examen et la culture des urines étaient négatifs
+T86	sosy 676 716	hémoglobine et l’urémie étaient normales
+T87	sosy 721 767	échographie abdominale et rénale était normale
+A3	assertion T49 absent
+T89	sosy 860 907	dilatation sacciforme de l’urètre pénien distal
+T90	duree 990 1006	en un seul temps
+T91	moment 1010 1024	à la naissance
+T92	traitement 1258 1270	peau excisée
+T93	moment 1465 1489	post opératoire immédiat
+T94	sosy 1510 1525	miction normale
+T95	sosy 1552 1567	chorde ventrale
+A4	assertion T95 absent
+T96	anatomie 1559 1567	ventrale
+T97	sosy 1530 1546	bon jet urinaire
+T98	anatomie 1538 1546	urinaire
+T99	sosy 1599 1633	fonction rénale biologique normale
+T3	sosy 1691 1721	cavités urinaires hautes fines
+T100	sosy 1727 1749	vessie d’aspect normal
+T101	sosy 1756 1777	urètre de bon calibre
+T102	moment 1835 1842	18 mois
+T88	sosy 54 86	déformation monstrueuse du pénis
+T103	sosy 92 102	macropénis
+T104	pathologie 927 951	M.U.C. de type scaphoïde

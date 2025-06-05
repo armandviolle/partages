@@ -1,0 +1,146 @@
+T4	substance 2413 2422	magnésium
+T5	substance 2454 2464	amiodarone
+T7	substance 2715 2725	amiodarone
+T9	date 67 71	2012
+T12	examen 1316 1339	électro encéphalogramme
+T13	examen 1341 1344	EEG
+T14	date 1498 1502	2015
+T10	mode 2423 2433	injectable
+T11	examen 182 213	tracé électrocardiogramme (ECG)
+T16	examen 286 295	tracé ECG
+T17	examen 382 392	Holter ECG
+T18	sosy 93 113	malaise à répétition
+T19	frequence 101 113	à répétition
+T20	pathologie 226 270	aspect douteux type 2 du syndrome de Brugada
+T21	sosy 406 437	hyperextabilités ventriculaires
+T22	anatomie 423 437	ventriculaires
+T23	sosy 467 520	épisodes de tachycardies ventriculaires non soutenues
+T24	anatomie 492 506	ventriculaires
+T25	sosy 133 176	facteurs de risque cardiovasculaire notable
+A3	assertion T25 absent
+T26	anatomie 152 168	cardiovasculaire
+T27	examen 536 558	écho-doppler cardiaque
+T28	anatomie 549 558	cardiaque
+T29	pathologie 598 615	péricardite aiguë
+A4	assertion T29 absent
+T30	pathologie 635 664	cardiomyopathie hypokinétique
+A5	assertion T30 absent
+T31	pathologie 669 717	cardiomyopathie ventriculaire droite arythmogène
+T32	anatomie 685 705	ventriculaire droite
+T33	pathologie 721 754	hypertrophie ventriculaire droite
+T34	anatomie 734 754	ventriculaire droite
+A6	assertion T31 absent
+A7	assertion T33 absent
+T35	pathologie 760 779	dissection aortique
+T36	anatomie 771 779	aortique
+A8	assertion T35 absent
+T37	sosy 785 847	compression mécanique de la voie de sortie du ventricule droit
+T38	anatomie 813 847	voie de sortie du ventricule droit
+A9	assertion T37 absent
+T39	pathologie 859 901	tumeur médiastinale ou du pectus excavatum
+T40	anatomie 866 878	médiastinale
+A10	assertion T39 absent
+T41	anatomie 885 901	pectus excavatum
+T42	pathologie 941 967	infarctus du myocarde aigu
+T43	sosy 989 1004	trouble ionique
+A11	assertion T43 absent
+A12	assertion T42 absent
+T44	anatomie 954 962	myocarde
+T45	pathologie 1030 1043	hyperkaliémie
+A13	assertion T45 absent
+T46	pathologie 1047 1060	hypercalcémie
+A14	assertion T46 absent
+T47	sosy 1082 1104	syndrome inflammatoire
+A15	assertion T47 absent
+T48	examen 1151 1166	coronarographie
+T49	examen 1116 1132	épreuve d’effort
+T50	valeur 1139 1146	normale
+A16	assertion T48 absent
+A17	norme T50 normal
+T52	examen 1218 1238	test pharmacologique
+A18	assertion T52 absent
+T53	examen 1277 1303	consultation Psychiatrique
+T55	sosy 1857 1865	diarrhée
+T56	sosy 1873 1879	fièvre
+T57	sosy 1903 1910	fatigué
+T58	pathologie 1942 1949	syncope
+T60	examen 2042 2045	ECG
+T61	pathologie 2076 2110	tachycardie ventriculaire soutenue
+T62	anatomie 2088 2101	ventriculaire
+T63	pathologie 2194 2231	tachycardies ventriculaires soutenues
+T64	anatomie 2207 2221	ventriculaires
+T65	traitement 2248 2273	chocs éléctriques de 35 J
+T66	traitement 2122 2126	Choc
+T67	traitement 1982 2008	délivrance de choc de 35 J
+T68	examen 2139 2165	analyse sous programmateur
+T69	examen 2352 2364	hypokalièmie
+T70	valeur 2375 2385	3,4 mmol/l
+A19	norme T70 bas
+T71	sosy 2517 2567	troubles du rythme ventriculaire graves (TV ou FV)
+T73	traitement 2579 2596	chocs électriques
+T74	sosy 2687 2693	fièvre
+A20	assertion T74 absent
+T76	traitement 2782 2787	chocs
+T79	examen 2285 2292	analyse
+T82	valeur 920 927	normale
+T77	examen 907 919	troponinémie
+T84	traitement 2805 2826	décharges électriques
+T1	valeur 241 247	type 2
+T2	sosy 320 366	allongement ou raccourcissement de l’espace QT
+A1	assertion T2 absent
+T3	sosy 446 459	phénomène R/T
+T6	substance 1243 1271	anti-arythmiques de classe I
+T8	sosy 1367 1375	anomalie
+A2	assertion T8 absent
+T15	traitement 1428 1494	implanter un défibrillateur automatique implantable simple chambre
+T51	duree 1570 1591	pendant 2 ans et demi
+T54	sosy 1555 1569	asymptomatique
+T59	sosy 1646 1682	complication post-opératoire précoce
+A21	assertion T59 absent
+T72	sosy 1689 1715	complication à moyen terme
+A22	assertion T72 absent
+T75	moment 1728 1741	2 ans et demi
+T78	traitement 1747 1759	implantation
+T80	moment 1914 1926	l’après-midi
+T81	frequence 1950 1968	deux fois de suite
+T83	frequence 2020 2038	deux fois de suite
+T85	moment 2046 2062	pendant la crise
+T87	sosy 2352 2385	hypokalièmie mineure à 3,4 mmol/l
+T88	substance 2471 2483	bêtabloquant
+T89	frequence 2506 2513	66 fois
+T90	duree 2637 2659	au bout de trois jours
+T91	traitement 2732 2746	réglage du DAI
+T92	moment 2997 3016	après quelques mois
+T93	sosy 3032 3047	orage rythmique
+T94	frequence 1836 1853	quelques épisodes
+T95	dose 2269 2273	35 J
+T96	dose 2004 2008	35 J
+T97	traitement 2959 2982	remplacement de boitier
+T86	sosy 907 927	troponinémie normale
+T98	sosy 1116 1146	épreuve d’effort était normale
+A23	norme T82 normal
+T99	cardiovasculaires 406 437	hyperextabilités ventriculaires
+T100	cardiovasculaires 446 459	phénomène R/T
+T101	cardiovasculaires 479 506	tachycardies ventriculaires
+T103	etatsosy 1873 1879	fièvre
+T104	etatsosy 1903 1910	fatigué
+T105	etatsosy 1857 1865	diarrhée
+T106	nerveux 1942 1949	syncope
+T107	etatsosy 1942 1949	syncope
+T108	cardiovasculaires 2076 2110	tachycardie ventriculaire soutenue
+T109	cardiovasculaires 2194 2231	tachycardies ventriculaires soutenues
+T110	nutritionnelles 2352 2364	hypokalièmie
+T111	cardiovasculaires 2517 2567	troubles du rythme ventriculaire graves (TV ou FV)
+T102	nerveux 93 113	malaise à répétition
+T113	etatsosy 93 113	malaise à répétition
+T114	cardiovasculaires 251 270	syndrome de Brugada
+T115	genetique 251 270	syndrome de Brugada
+T116	etatsosy 479 506	tachycardies ventriculaires
+T117	etatsosy 406 437	hyperextabilités ventriculaires
+T118	etatsosy 446 459	phénomène R/T
+T112	genre 19 24	homme
+T119	age 32 38	37 ans
+A24	genre T112 masculin
+T120	origine 406 520	hyperextabilités ventriculaires avec un phénomène R/T et des épisodes de tachycardies ventriculaires non soutenues
+T121	issue 2388 2746	Malgré la correction par magnésium injectable, l’administration d’amiodarone et de bêtabloquant, le malade avait fait 66 fois de troubles du rythme ventriculaire graves (TV ou FV) suivis des chocs électriques toujours efficaces. L’orage s’estompait au bout de trois jours après la disparition de la fièvre, une mise en route d’amiodarone et un réglage du DAI
+A25	issue T121 amélioration

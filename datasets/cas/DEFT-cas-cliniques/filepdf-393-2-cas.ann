@@ -1,0 +1,110 @@
+T1	date 3 13	12 février
+T4	sosy 55 84	victime de coups et blessures
+T5	duree 128 145	pendant 24 heures
+T6	examen 115 127	surveillance
+T7	moment 147 177	Quelques jours après sa sortie
+T8	date 187 197	25 février
+T9	examen 253 259	examen
+T10	sosy 377 401	éléments de putréfaction
+A1	assertion T10 absent
+T11	sosy 406 414	rigidité
+T12	sosy 434 443	lividités
+T13	substance 550 561	médicaments
+T14	substance 563 573	bromazepam
+T15	substance 575 583	zolpidem
+T16	substance 585 594	zopiclone
+T17	substance 596 607	Mépronizine
+T18	substance 609 618	Noctamide
+T19	substance 620 628	Nureflex
+T20	substance 632 643	Domperidone
+T21	examen 689 712	conclusions autopsiques
+T22	sosy 750 769	syndrome asphyxique
+T23	examen 870 905	analyses toxicologiques ultérieures
+T24	examen 983 1026	analyses effectuées sur le contenu stomacal
+T25	anatomie 1018 1026	stomacal
+T26	anatomie 833 842	gastrique
+T27	anatomie 792 801	cardiaque
+T28	anatomie 805 817	périphérique
+T29	substance 958 976	fluorure de sodium
+T30	substance 1061 1068	éthanol
+T31	valeur 1070 1085	1,29 ± 0,06 g/L
+T32	substance 1091 1102	méprobamate
+T33	substance 1106 1120	acéprométazine
+T34	substance 1127 1142	benzodiazépines
+T35	substance 1158 1168	bromazépam
+T36	substance 1170 1182	lormétazépam
+T37	substance 1186 1194	zolpidem
+T38	substance 1200 1211	méprobamate
+T39	substance 1218 1232	acéprométazine
+T40	substance 1238 1253	benzodiazépines
+T41	substance 1269 1279	bromazépam
+T42	substance 1281 1298	hydroxybromazépam
+T43	substance 1300 1312	lormétazépam
+T44	substance 1316 1324	zolpidem
+T45	substance 1330 1343	pentobarbital
+T46	substance 1351 1359	nicotine
+T47	substance 1367 1375	cotinine
+T48	substance 1385 1392	caféine
+T49	substance 1469 1476	éthanol
+T50	valeur 1478 1486	1,16 g/L
+T51	substance 1492 1503	méprobamate
+T52	valeur 1505 1513	78 µg/mL
+T53	substance 1521 1535	acéprométazine
+T54	valeur 1537 1546	124 ng/mL
+T55	substance 1553 1568	benzodiazépines
+T56	substance 1570 1580	bromazépam
+T57	valeur 1581 1590	330 ng/mL
+T58	substance 1592 1609	hydroxybromazépam
+T59	substance 1622 1634	lormétazépam
+T60	valeur 1635 1644	144 ng/mL
+T61	substance 1650 1658	zolpidem
+T62	valeur 1660 1669	665 ng/mL
+T63	substance 1675 1688	pentobarbital
+T64	valeur 1690 1698	38 ng/mL
+T65	substance 1707 1715	cotinine
+T66	substance 1737 1744	caféine
+T67	substance 1799 1810	méprobamate
+T68	substance 1816 1830	acéprométazine
+T69	substance 1875 1886	Mépronizine
+T70	sosy 1912 1970	intoxication de moyenne importance (inférieure à 80 µg/mL)
+T71	valeur 1948 1969	inférieure à 80 µg/mL
+T72	substance 1975 1986	méprobamate
+T73	sosy 2023 2047	effet dépresseur central
+T74	sosy 2069 2094	coma calme et hypotonique
+T75	sosy 2109 2140	complications cardiovasculaires
+T76	anatomie 2123 2140	cardiovasculaires
+T77	sosy 2148 2210	effet dépresseur des centres vasoconstricteurs hypothalamiques
+T78	anatomie 2169 2210	centres vasoconstricteurs hypothalamiques
+T79	sosy 2258 2331	poly-intoxication médicamenteuse (benzodiazépines et benzodiazépineslike)
+T80	substance 2276 2290	médicamenteuse
+T81	substance 2292 2307	benzodiazépines
+T82	substance 2311 2330	benzodiazépineslike
+T83	sosy 2347 2374	absorption massive d’alcool
+T84	substance 2368 2374	alcool
+T85	substance 2378 2385	éthanol
+T86	substance 2391 2406	benzodiazépines
+T87	substance 2413 2421	zolpidem
+T88	sosy 2438 2487	concentrations suprathérapeutiques voire toxiques
+T89	sosy 2518 2550	dépression respiratoire centrale
+T2	anatomie 775 781	urines
+T3	anatomie 786 790	sang
+T90	anatomie 910 914	sang
+T91	anatomie 1421 1427	urines
+T92	anatomie 1438 1442	sang
+T93	anatomie 1839 1843	sang
+T94	poids 40 45	64 kg
+T95	taille 47 53	1,64 m
+T97	anatomie 2529 2541	respiratoire
+T96	etatsosy 750 769	syndrome asphyxique
+T98	blessures 750 769	syndrome asphyxique
+T99	chimiques 2258 2290	poly-intoxication médicamenteuse
+T100	chimiques 2347 2374	absorption massive d’alcool
+T101	etatsosy 2069 2094	coma calme et hypotonique
+T102	nerveux 2069 2094	coma calme et hypotonique
+T103	respiratoire 2518 2550	dépression respiratoire centrale
+T104	genre 15 27	Mademoiselle
+A2	genre T104 féminin
+T105	age 32 38	36 ans
+T106	issue 728 733	décès
+A3	issue T106 décès
+T107	origine 55 84	victime de coups et blessures

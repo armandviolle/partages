@@ -1,0 +1,53 @@
+T10	examen 1009 1022	consultations
+T28	frequence 1023 1032	régulière
+T19	anatomie 1053 1065	locorégional
+T27	anatomie 124 134	pelviennes
+T8	frequence 135 144	chronique
+T33	examen 156 167	échographie
+T3	tumeur 193 213	kyste ovarien gauche
+T13	anatomie 199 213	ovarien gauche
+T5	valeur 240 256	7 cm de diamètre
+T35	age 33 39	65 ans
+T14	anatomie 332 338	gauche
+T16	examen 353 365	histologique
+T4	sosy 421 442	lésions hémorragiques
+T1	tumeur 449 493	adénocarcinome papillaire tubaire infiltrant
+T22	anatomie 464 474	papillaire
+T18	traitement 587 600	hystérectomie
+T44	traitement 636 664	curage ganglionnaire pelvien
+T12	anatomie 643 656	ganglionnaire
+T25	anatomie 657 664	pelvien
+T17	examen 719 731	histologique
+T2	tumeur 754 807	adénocarcinome papillaire sue la corne utérine gauche
+T23	anatomie 769 779	papillaire
+T32	anatomie 787 807	corne utérine gauche
+T7	substance 909 933	chimiothérapie adjuvante
+T40	duree 944 953	six cures
+T21	substance 957 967	paclitaxel
+T9	substance 971 981	cisplatine
+T6	genre 16 24	patiente
+A1	genre T6 féminin
+T11	duree 53 66	depuis 15 ans
+T20	traitement 319 338	annexectomie gauche
+T24	anatomie 397 404	ovarien
+T26	traitement 606 632	annexectomie controlatéral
+T15	sosy 820 839	foyer carcinomateux
+A2	assertion T15 absent
+T29	traitement 679 705	ommentectomie infracolique
+T30	tumeur 385 404	cystadenome ovarien
+T31	nerveux 117 145	algies pelviennes chroniques
+T34	etatsosy 117 145	algies pelviennes chroniques
+T36	moment 1073 1089	recul de 18 mois
+T37	femme 193 213	kyste ovarien gauche
+T38	femme 385 404	cystadenome ovarien
+T39	etatsosy 421 442	lésions hémorragiques
+T41	femme 754 807	adénocarcinome papillaire sue la corne utérine gauche
+T42	sosy 193 257	kyste ovarien gauche d’allure bénigne mesurant 7 cm de diamètre,
+T43	anatomie 619 632	controlatéral
+T45	anatomie 693 705	infracolique
+T46	anatomie 858 876	pièces opératoires
+T47	sosy 1040 1065	bon contrôle locorégional
+T48	sosy 117 145	algies pelviennes chroniques
+T49	pathologie 385 404	cystadenome ovarien
+T50	pathologie 449 493	adénocarcinome papillaire tubaire infiltrant
+T51	pathologie 754 807	adénocarcinome papillaire sue la corne utérine gauche
