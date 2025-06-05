@@ -13,7 +13,7 @@ def main():
     datasets_cfg = load_config()
     all_ds = []
     for cfg in datasets_cfg:
-        print(f"Loading dataset {cfg["source"]}: using {REGISTRY[cfg["source"]]}")
+        print(f"Loading dataset {cfg['source']}: using {REGISTRY[cfg['source']]}")
         LoaderCls = REGISTRY[cfg["source"]]
         loader = LoaderCls(
             source=cfg["source"], 
@@ -22,7 +22,7 @@ def main():
             source_split=cfg["source_split"]
         )
         ds = loader.load()
-        print(f"Shape de {cfg["source"]}: {ds.shape}")
+        print(f"Shape de {cfg['source']}: {ds.shape}")
         print(f"{ds}\n")
         all_ds.append(ds)
     merged = concatenate_datasets(all_ds)

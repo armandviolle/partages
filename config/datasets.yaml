@@ -8,6 +8,10 @@ datasets:
     path: "qanastek/WMT-16-PubMed"
     subset: "en-fr"
     source_split: "train"
+  - source: MANTRA_GSC
+    path: "datasets/mantra_gsc"
+    subset: "French"
+    source_split: [ "train"]
   - source: DEFT2021
     path: "DrBenchmark/DEFT2021"
     subset: 
@@ -20,3 +24,4 @@ datasets:
     path: "qanastek/frenchmedmcqa"
     subset: 
     source_split: ["train", "validation", "test"]
+
