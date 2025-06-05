@@ -1,27 +1,26 @@
 # configs/datasets.yaml
 datasets:
-  - source: SIMSAMU
-    path: "medkit/simsamu"
-    subset:
-    source_split: "train"
-  - source: WMT16
-    path: "qanastek/WMT-16-PubMed"
-    subset: "en-fr"
-    source_split: "train"
+#  - source: SIMSAMU
+#    path: "medkit/simsamu"
+#    subset:
+#    source_split: "train"
+#  - source: WMT16
+#    path: "qanastek/WMT-16-PubMed"
+#    subset: "en-fr"
+#    source_split: "train"
   - source: MANTRA_GSC
-    path: "datasets/mantra_gsc"
+    path: "datasets/mantra_gsc" # This should be the local path
     subset: "French"
     source_split: [ "train"]
-  - source: DEFT2021
-    path: "DrBenchmark/DEFT2021"
-    subset: 
-    source_split: ["train", "validation", "test"]
-  - source: NACHOS
-    path: "/Users/armandviolle/Developer/partages/Archive"
-    subset: ["HAL", "HAS"]
-    source_split: 
-  - source: FRENCHMEDMCQA
-    path: "qanastek/frenchmedmcqa"
-    subset: 
-    source_split: ["train", "validation", "test"]
-
+#  - source: DEFT2021
+#    path: "DrBenchmark/DEFT2021"
+#    subset:
+#    source_split: ["train", "validation", "test"]
+#  - source: NACHOS
+#    path: "/Users/armandviolle/Developer/partages/Archive" # This is a local path, would fail in sandbox
+#    subset: ["HAL", "HAS"]
+#    source_split:
+#  - source: FRENCHMEDMCQA
+#    path: "qanastek/frenchmedmcqa"
+#    subset:
+#    source_split: ["train", "validation", "test"]
