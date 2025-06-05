@@ -25,18 +25,33 @@ class BaseLoader(ABC):
         for subset in subsets:
             all_splits = []
             for split in splits:
+                rawData = None # To store data from either custom load or HF load
                 try:
-                    tmp_ds = load_dataset(
-                        path=self.path, 
-                        data_dir=subset, 
-                        split=split, 
-                        streaming=self.stream, 
-                        trust_remote_code=True
-                    )
-                    tmp_ds = self.postprocess(dataset=tmp_ds, subset=subset, split=split)
+                    if hasattr(self, 'load_data') and callable(getattr(self, 'load_data')):
+                        # Child loader has custom data loading
+                        print(f"INFO: Attempting to use custom load_data method for {self.source}, subset {subset}, split {split}")
+                        rawData = self.load_data(split=split)
+                        if rawData is None: # Ensure load_data actually returned something
+                             print(f"WARNING: Custom load_data for {self.source} returned None for split {split}. Skipping.")
+                             continue
+                    else:
+                        # Default Hugging Face loading
+                        print(f"INFO: Using Hugging Face load_dataset for {self.source}, path {self.path}, data_dir {subset}, split {split}")
+                        rawData = load_dataset(
+                            path=self.path,
+                            data_dir=subset, # This is Hugging Face's concept of subset/config name
+                            split=split,
+                            streaming=self.stream,
+                            trust_remote_code=True
+                        )
+
+                    tmp_ds = self.postprocess(dataset=rawData, subset=subset, split=split)
                     all_splits.append(tmp_ds)
                 except Exception as e:
-                    print(f"Unavailable data split \"{split}\" for data_dir \"{subset}\".")
+                    print(f"Error during data loading or postprocessing for {self.source}, subset '{subset}', split '{split}'. Path: '{self.path}'. Error: {e}")
+                    # import traceback # Uncomment for detailed debugging
+                    # print(traceback.format_exc()) # Uncomment for detailed debugging
+                    print(f"Unavailable data split \"{split}\" for data_dir \"{subset}\" (or error in custom load_data).")
                     continue
             if len(all_splits) > 0:
                 all_dirs += all_splits
