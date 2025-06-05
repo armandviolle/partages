@@ -1,0 +1,6 @@
+T1	age 12 18	55 ans
+T2	genre 3 8	homme
+A1	genre T2 masculin
+T3	origine 337 445	la fièvre et des frissons puis, le matin du 3 juin, un état de fatigue avec céphalées et douleurs pharyngées
+T4	issue 1193 1299	L’évolution a également été favorable chez le patient 3 qui devrait très prochainement sortir de l’hôpital
+A2	issue T4 guérison

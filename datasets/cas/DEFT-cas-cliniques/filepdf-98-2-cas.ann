@@ -1,0 +1,94 @@
+T1001	anatomie 630 647	dôme de la vessie
+T1002	anatomie 1011 1017	vessie
+T1004	anatomie 1260 1266	vessie
+T1005	anatomie 1510 1527	dôme de la vessie
+T10051	duree 97 122	depuis plusieurs semaines
+T10061	examen 289 295	examen
+T10062	examen 437 456	examens biologiques
+T10063	examen 493 504	hémoglobine
+T10064	examen 518 536	ionogramme sanguin
+T10065	examen 543 558	bilan hépatique
+T10066	examen 572 583	échographie
+T10067	examen 654 707	TDM sans, puis avec injection de produit de contraste
+T10068	examen 1138 1149	cystoscopie
+T10069	examen 1348 1374	examen anatomopathologique
+T10070	examen 1571 1597	examen anatomopathologique
+T10071	examen 1792 1811	uro-TDM de contrôle
+T100141	traitement 1232 1266	résection transuréthrale de vessie
+T100142	traitement 1533 1554	cystectomie partielle
+T100161	valeur 507 512	9g/dl
+T100181	pathologie 803 827	adénopathie métastatique
+T100182	pathologie 1001 1036	tumeur de vessie maligne ou bénigne
+T100183	pathologie 948 967	tumeur de l’ouraque
+T100193	sosy 322 353	pâleur marquée des conjonctives
+T100194	sosy 361 384	hématurie avec caillots
+T100196	sosy 474 513	anémie ferriprive (hémoglobine à 9g/dl)
+T100197	sosy 608 647	formation tumorale du dôme de la vessie
+T100198	sosy 725 786	lésion de 5 cm de diamètre qui semblait infiltrer le détrusor
+T100199	sosy 836 855	métastase hépatique
+T100201	pathologie 973 993	bilharziose urinaire
+T100207	sosy 1817 1825	récidive
+T1006	anatomie 960 967	ouraque
+T1007	anatomie 778 786	détrusor
+T1008	anatomie 846 855	hépatique
+T10010	anatomie 549 558	hépatique
+T10011	examen 1042 1074	recherche d’oeufs de bilharziose
+T10012	valeur 1123 1131	négative
+T1003	mode 1242 1256	transuréthrale
+T10014	anatomie 1355 1374	anatomopathologique
+T10015	anatomie 1420 1426	vessie
+T10016	anatomie 1578 1597	anatomopathologique
+T10018	moment 1826 1834	à 6 mois
+T10019	sosy 1620 1663	tumeur infiltrant les fibres détrusoriennes
+T200162	valeur 559 566	normaux
+T200163	valeur 735 751	5 cm de diamètre
+T200191	sosy 57 87	hématurie totale avec caillots
+T200195	examen 389 406	reste de l’examen
+T200204	sosy 1166 1226	tumeur d’aspect bourgeonnant, ulcérée, solide et infiltrante
+T200205	sosy 1394 1426	tumeur fibromyxoïde de la vessie
+T200206	anatomie 1642 1663	fibres détrusoriennes
+T2006	sosy 147 192	antécédent chirurgical ou médical particulier
+T2007	anatomie 341 353	conjonctives
+T2008	valeur 413 431	sans particularité
+T2009	sosy 389 431	reste de l’examen était sans particularité
+T20010	sosy 518 566	ionogramme sanguin et un bilan hépatique normaux
+T20011	mode 674 683	injection
+T20012	substance 687 707	produit de contraste
+T20016	anatomie 985 993	urinaire
+T20018	anatomie 1099 1105	urines
+T2003	sosy 1313 1319	tumeur
+T20021	sosy 1449 1464	caractère bénin
+T20022	examen 1469 1483	volume tumoral
+T20025	examen 1770 1782	consultation
+A1	assertion T2006 absent
+A2	norme T2008 normal
+A3	norme T200162 normal
+A4	assertion T100181 absent
+A5	assertion T100199 absent
+T1	sosy 1042 1131	recherche d’oeufs de bilharziose était réalisée dans les urines mais se révélait négative
+A6	assertion T100207 absent
+A7	norme T100161 bas
+T2	anatomie 529 536	sanguin
+T200207	hemopathies 474 491	anémie ferriprive
+T200208	tumeur 608 647	formation tumorale du dôme de la vessie
+T200209	tumeur 948 967	tumeur de l’ouraque
+T200210	tumeur 1001 1036	tumeur de vessie maligne ou bénigne
+T200211	tumeur 1166 1172	tumeur
+T200212	tumeur 1394 1426	tumeur fibromyxoïde de la vessie
+T200213	tumeur 1620 1663	tumeur infiltrant les fibres détrusoriennes
+T200215	etatsosy 361 370	hématurie
+T200216	etatsosy 57 73	hématurie totale
+T3	nutritionnelles 474 491	anémie ferriprive
+T4	homme 608 647	formation tumorale du dôme de la vessie
+T5	infections 973 993	bilharziose urinaire
+T6	parasitaires 973 993	bilharziose urinaire
+T7	homme 973 993	bilharziose urinaire
+T8	tumeur 1313 1319	tumeur
+T9	homme 1394 1426	tumeur fibromyxoïde de la vessie
+T10	homme 1620 1663	tumeur infiltrant les fibres détrusoriennes
+T11	genre 4 9	homme
+T12	age 13 19	23 ans
+A8	genre T11 masculin
+T13	origine 53 87	une hématurie totale avec caillots
+T14	issue 1788 1825	une uro-TDM de contrôle sans récidive
+A9	issue T14 guérison

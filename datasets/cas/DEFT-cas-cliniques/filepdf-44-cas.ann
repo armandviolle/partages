@@ -1,0 +1,92 @@
+T34	anatomie 1303 1321	abdomino-pelvienne
+T31	examen 1437 1456	biopsie écho guidée
+T29	date 359 371	janvier 1997
+T33	examen 666 690	échographie systématique
+T32	examen 820 827	scanner
+T2	duree 176 191	depuis mai 1983
+T3	date 236 245	mars 1985
+T4	date 155 164	août 1993
+T6	date 419 431	juillet 1998
+T7	examen 833 836	IRM
+T8	date 1564 1576	5 avril 2000
+T9	date 2135 2147	juillet 1998
+T10	pathologie 38 51	valvulopathie
+T11	pathologie 59 75	ectasie aortique
+T12	anatomie 67 75	aortique
+T13	traitement 96 151	remplacement de valve aortique et de l’aorte thoracique
+T15	anatomie 112 126	valve aortique
+T16	anatomie 135 151	aorte thoracique
+T17	traitement 167 175	Dialysée
+T18	traitement 202 214	transplantée
+T19	anatomie 252 272	fosse iliaque droite
+T21	duree 305 319	pendant 12 ans
+T23	traitement 334 345	hémodialyse
+T24	traitement 385 400	transplantation
+T25	anatomie 440 444	rein
+T27	anatomie 587 593	rénale
+T28	valeur 594 601	normale
+A3	norme T28 normal
+T30	moment 604 645	Dix-huit mois après cette deuxième greffe
+T36	sosy 708 771	masse de 4 cm développée au niveau du pôle supérieur du greffon
+T38	anatomie 746 760	pôle supérieur
+T39	valeur 794 813	86 millimoles/litre
+T40	examen 781 791	créatinine
+T41	sosy 866 992	formation tissulaire de 40 mm de plus grand axe au niveau de la région équatoriale du rein transplanté paraissant bien limitée
+T42	anatomie 930 956	région équatoriale du rein
+T43	pathologie 1011 1028	tumeur hétérogène
+T44	mode 1077 1086	injection
+T45	substance 1090 1100	Gadolinium
+T46	sosy 1126 1132	lésion
+T47	sosy 1152 1170	cicatrice centrale
+T48	pathologie 1210 1220	oncocytome
+T49	sosy 1230 1268	tumeur néoplasique à centre nécrotique
+T50	pathologie 1291 1321	adénopathie abdomino-pelvienne
+A4	assertion T50 absent
+T51	pathologie 1500 1518	tumeur oncocytaire
+T53	traitement 1525 1547	tumorectomie "élargie"
+T54	traitement 1586 1619	incision médiane transpéritonéale
+T56	sosy 1695 1701	lésion
+T57	traitement 1708 1746	clampage de l'artère rénale du greffon
+T58	anatomie 1722 1735	artère rénale
+T60	duree 1747 1765	pendant 20 minutes
+T61	examen 1651 1701	repérage échographique per opératoire de la lésion
+T62	examen 1770 1789	examen histologique
+T63	examen 1840 1848	biopsies
+T65	anatomie 1929 1935	rénale
+T67	valeur 2071 2081	92 m mol/l
+T68	examen 2015 2028	créatininémie
+T69	moment 2029 2062	au troisième mois post opératoire
+T70	anatomie 2089 2107	rein controlatéral
+T71	traitement 2125 2131	greffé
+T77	valeur 2154 2160	normal
+T75	valeur 717 721	4 cm
+A6	norme T39 normal
+T76	valeur 890 913	40 mm de plus grand axe
+A7	norme T67 normal
+T72	moment 1982 2013	3 mois après cette intervention
+T73	sosy 1033 1049	hyposignal en T1
+T78	sosy 1058 1070	rehaussement
+T1	examen 578 593	fonction rénale
+T5	sosy 578 601	fonction rénale normale
+A1	assertion T48 possible
+A2	assertion T49 possible
+T14	traitement 1623 1635	intervention
+T20	examen 1920 1935	fonction rénale
+T22	sosy 773 813	taux de créatinine à 86 millimoles/litre
+T26	sosy 1920 1981	fonction rénale de cette patiente restait parfaitement stable
+T35	mode 1603 1619	transpéritonéale
+T37	sosy 2015 2081	créatininémie au troisième mois post opératoire égale à 92 m mol/l
+T52	etatsosy 59 75	ectasie aortique
+T55	tumeur 1011 1028	tumeur hétérogène
+T64	tumeur 1500 1518	tumeur oncocytaire
+T66	etatsosy 1695 1701	lésion
+T74	etatsosy 1126 1132	lésion
+T79	femme 167 175	Dialysée
+T80	cardiovasculaires 38 51	valvulopathie
+T81	femme 1500 1518	tumeur oncocytaire
+T59	genre 4 12	patiente
+A5	genre T59 féminin
+T82	age 16 22	58 ans
+T83	origine 708 814	masse de 4 cm développée au niveau du pôle supérieur du greffon (taux de créatinine à 86 millimoles/litre)
+T84	issue 1877 2083	Les suites opératoires ont été simples. La fonction rénale de cette patiente restait parfaitement stable 3 mois après cette intervention (créatininémie au troisième mois post opératoire égale à 92 m mol/l )
+A8	issue T84 amélioration

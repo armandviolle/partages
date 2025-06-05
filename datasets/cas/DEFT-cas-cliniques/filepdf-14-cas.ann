@@ -1,0 +1,12 @@
+T1	age 13 19	46 ans
+T2	genre 4 9	femme
+T3	age 670 676	34 ans
+A1	genre T2 féminin
+T4	origine 112 162	fièvre et douleur aiguë de la fosse iliaque droite
+T5	issue 611 654	Les suites post-opératoires ont été simples
+A2	issue T5 guérison
+T6	genre 661 666	homme
+A3	genre T6 masculin
+T7	origine 765 837	fièvre, douleur abdominale aiguë en fosse iliaque droite et vomissements
+T8	issue 1248 1291	Les suites post-opératoires ont été simples
+A4	issue T8 guérison

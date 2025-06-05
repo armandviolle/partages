@@ -1,0 +1,6 @@
+T1	age 18 24	38 ans
+T2	genre 4 9	femme
+A1	genre T2 féminin
+T3	origine 144 187	une intoxication aiguë et sévère au lithium
+T4	issue 2250 2408	L’alopécie diffuse du cuir chevelu est réversible ; des cheveux de repousse sont observés au niveau de la zone alopécique malgré la persistance de l’effluvium
+A2	issue T4 amélioration

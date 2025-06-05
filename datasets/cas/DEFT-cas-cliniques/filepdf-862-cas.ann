@@ -1,0 +1,6 @@
+T1	genre 0 6	Madame
+T2	age 19 25	38 ans
+A1	genre T1 féminin
+T3	origine 92 105	une dysphonie
+T4	issue 1315 1348	Après exérèse du tissu thyroïdien
+A2	issue T4 stable

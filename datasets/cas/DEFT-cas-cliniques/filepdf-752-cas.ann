@@ -1,0 +1,134 @@
+T2	sosy 56 79	hypertension artérielle
+T3	sosy 83 88	angor
+T4	pathologie 95 113	syndrome dépressif
+T5	frequence 126 139	chroniquement
+T6	substance 144 158	nitroglycérine
+T7	dose 160 165	10 mg
+T8	frequence 166 174	par jour
+T9	mode 200 213	transdermique
+T10	substance 216 239	acide acétylsalicylique
+T11	dose 241 247	160 mg
+T12	frequence 248 265	une fois par jour
+T13	substance 268 277	lactulose
+T14	dose 279 284	15 ml
+T15	frequence 285 302	une fois par jour
+T16	substance 305 314	zopiclone
+T17	dose 316 322	7,5 mg
+T18	frequence 323 340	une fois par jour
+T19	moment 341 351	au coucher
+T20	substance 354 364	loprazolam
+T21	dose 366 370	1 mg
+T22	frequence 371 388	une fois par jour
+T23	substance 393 406	lercanidipine
+T24	dose 408 413	10 mg
+T25	frequence 414 431	une fois par jour
+T26	mode 437 447	voie orale
+T27	examen 452 478	clairance de la créatinine
+T28	valeur 486 502	60 ml par minute
+T29	sosy 452 502	clairance de la créatinine est de 60 ml par minute
+T30	pathologie 532 550	thrombose veineuse
+A1	etat T30 passé
+T31	date 554 558	1999
+T32	anatomie 69 79	artérielle
+T33	anatomie 542 550	veineuse
+T34	pathologie 579 585	ulcère
+A2	etat T34 passé
+A3	assertion T34 absent
+T35	pathologie 589 597	allergie
+A4	etat T35 passé
+A5	assertion T35 absent
+T36	pathologie 603 614	intolérance
+A6	etat T36 passé
+A7	assertion T36 absent
+T37	date 661 669	été 2009
+T38	sosy 678 692	angor instable
+T39	substance 717 731	nitroglycérine
+A8	prise T39 arrêt
+T40	substance 779 789	nicorandil
+T41	dose 853 871	posologie de 10 mg
+T42	frequence 872 890	deux fois par jour
+T43	moment 904 923	48 heures plus tard
+T44	sosy 943 981	ulcérations buccales très douloureuses
+T45	anatomie 955 963	buccales
+T46	sosy 983 1015	Trois lésions à l’aspect typique
+T47	sosy 1032 1111	ulcérations arrondies de 1,5 cm entourées d’un liseré érythémateux à la gencive
+T48	anatomie 1104 1111	gencive
+T49	examen 1117 1133	bilan biologique
+T50	valeur 1138 1144	normal
+T51	sosy 1117 1144	bilan biologique est normal
+T52	duree 1173 1185	de six jours
+T53	substance 1156 1172	traitement local
+T54	mode 1201 1209	solution
+T55	substance 1227 1337	bain de bouche à visée antiseptique (AlodontMD : cétylpyridinium chlorure, chlorobutanol hémihydrate, eugénol)
+T56	dose 1343 1377	posologie de trois bains de bouche
+T57	frequence 1378 1386	par jour
+T58	mode 1396 1405	comprimés
+T59	substance 1421 1434	antiseptiques
+T60	substance 1438 1459	anesthésiques locales
+T61	substance 1461 1542	AphtoralMD : acide ascorbique, chlorhexidine digluconate, tetracaïne chlorhydrate
+T62	dose 1556 1572	quatre comprimés
+T63	frequence 1573 1581	par jour
+T64	sosy 1599 1635	aggravation des ulcérations buccales
+T65	anatomie 1627 1635	buccales
+T66	sosy 1660 1671	ulcérations
+T67	moment 1637 1671	Depuis le début de ces ulcérations
+T68	substance 1675 1694	alimentation solide
+A9	prise T68 arrêt
+T69	sosy 1740 1747	douleur
+T70	moment 1749 1795	Quatre jours après la survenue des ulcérations
+T71	sosy 1784 1795	ulcérations
+T72	valeur 1826 1847	un kilogramme environ
+T73	examen 1818 1823	poids
+T74	sosy 1809 1847	perte de poids d’un kilogramme environ
+T75	substance 1883 1901	nutrition entérale
+T76	mode 1893 1901	entérale
+T77	sosy 1919 1926	ulcères
+T78	substance 1960 1968	hydrater
+T79	sosy 2014 2034	ulcérations buccales
+T80	anatomie 2026 2034	buccales
+T81	substance 2052 2062	nicorandil
+A10	prise T81 arrêt
+T82	substance 2125 2135	nicorandil
+T83	moment 2137 2178	cinq jours après le début des ulcérations
+T84	sosy 2167 2178	ulcérations
+T85	sosy 2199 2221	régression des lésions
+T86	duree 2222 2241	en cinq à six jours
+T87	substance 2288 2307	alimentation solide
+A11	prise T87 reprise
+T88	mode 1227 1241	bain de bouche
+A12	prise T82 arrêt
+T1	valeur 37 42	46 kg
+T90	valeur 1057 1063	1,5 cm
+T91	anatomie 1235 1241	bouche
+T92	anatomie 1371 1377	bouche
+T89	cardiovasculaires 56 79	hypertension artérielle
+T93	cardiovasculaires 83 88	angor
+T95	cardiovasculaires 532 550	thrombose veineuse
+T96	cardiovasculaires 678 692	angor instable
+T97	etatsosy 943 981	ulcérations buccales très douloureuses
+T99	chimiques 2039 2062	incrimine le nicorandil
+T100	etatsosy 83 88	angor
+T94	etatsosy 678 692	angor instable
+T101	stomatognathique 943 963	ulcérations buccales
+T102	etatsosy 989 996	lésions
+T103	etatsosy 1032 1043	ulcérations
+T104	stomatognathique 1615 1635	ulcérations buccales
+T105	etatsosy 1599 1635	aggravation des ulcérations buccales
+T106	stomatognathique 1660 1671	ulcérations
+T107	etatsosy 1660 1671	ulcérations
+T108	stomatognathique 1784 1795	ulcérations
+T109	etatsosy 1784 1795	ulcérations
+T110	etatsosy 1740 1747	douleur
+T111	etatsosy 1919 1926	ulcères
+T112	stomatognathique 1919 1926	ulcères
+T113	stomatognathique 2014 2034	ulcérations buccales
+T114	etatsosy 2014 2034	ulcérations buccales
+T98	stomatognathique 2167 2178	ulcérations
+T115	etatsosy 2167 2178	ulcérations
+T116	etatsosy 2214 2221	lésions
+T117	genre 4 12	patiente
+A13	genre T117 féminin
+T118	age 22 28	90 ans
+T119	origine 675 692	un angor instable
+T120	issue 2100 2307	L’arrêt du traitement au nicorandil, cinq jours après le début des ulcérations, s’accompagne d’une régression des lésions en cinq à six jours, ce qui permet à la patiente la reprise d’une alimentation solide
+A14	issue T120 amélioration

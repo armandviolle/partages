@@ -1,0 +1,6 @@
+T1	genre 0 12	Un collégien
+T2	age 16 22	13 ans
+A1	genre T1 masculin
+T3	origine 78 91	coma stade IL
+T4	issue 362 379	donné les bonbons
+A2	issue T4 guérison

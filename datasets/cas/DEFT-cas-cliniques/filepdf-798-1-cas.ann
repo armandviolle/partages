@@ -1,0 +1,6 @@
+T1	genre 0 5	Ayoub
+T2	age 7 12	7 ans
+A1	genre T1 masculin
+T3	origine 155 215	une splénomégalie, une hépatomégalie et un purpura pétéchial
+T4	issue 1751 1833	pendant un an avec correction de la pancytopénie et régression du syndrome tumoral
+A2	issue T4 amélioration

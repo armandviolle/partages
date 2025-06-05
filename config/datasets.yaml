@@ -1,4 +1,3 @@
-# configs/datasets.yaml
 datasets:
   # From HuggingFace 
   - source: SIMSAMU
@@ -15,13 +14,13 @@ datasets:
     comment: ""
   - source: DEFT2021
     path: "DrBenchmark/DEFT2021"
-    subset: 
+    subset:
     source_split: ["train", "validation", "test"]
     commercial_use: True
     comment: ""
   - source: FRENCHMEDMCQA
     path: "qanastek/frenchmedmcqa"
-    subset: 
+    subset:
     source_split: ["train", "validation", "test"]
     commercial_use: True
     comment: ""
@@ -39,4 +38,15 @@ datasets:
     commercial_use: True
     comment: ""
   # From dumps
-  # TODO
+  - source: MANTRA_GSC
+    path: "datasets/mantra_gsc" # local path
+    subset: "French"
+    source_split: "train"
+    commercial_use: True
+    comment: ""
+  - source: CAS
+    path: "datasets/cas" # local path
+    subset: "French"
+    source_split: "train"
+    commercial_use: False
+    comment: ""

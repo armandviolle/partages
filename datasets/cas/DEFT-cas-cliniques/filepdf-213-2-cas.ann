@@ -1,0 +1,6 @@
+T1	genre 0 2	Mr
+T2	origine 112 144	douleur scrotale avec hémorragie
+T3	age 15 21	23 ans
+A1	genre T1 masculin
+T4	issue 530 568	Les suites opératoires ont été simples
+A2	issue T4 amélioration

@@ -1,0 +1,6 @@
+T1	age 16 22	27 ans
+T2	genre 0 2	Mr
+A1	genre T2 masculin
+T3	origine 127 187	amputation du pénis à sa racine et état de choc hémorragique
+T4	issue 698 876	Malheureusement, l'évolution a été marquée par une nécrose cutanée avec suppuration de la racine de la verge, ayant conduit au 5ème jour à l'amputation avec uréthrostomie cutanée
+A2	issue T4 détérioration

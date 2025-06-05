@@ -1,0 +1,6 @@
+T1	genre 11 23	une patiente
+T2	age 32 38	49 ans
+A1	genre T1 féminin
+T3	origine 167 215	la découverte à son domicile d'un état d'incurie
+T4	issue 5538 5582	Actuellement, Mme B. a un nouvel appartement
+A2	issue T4 amélioration

@@ -1,0 +1,4 @@
+T1	C0013928 0 23	Embolisation graisseuse
+#1	AnnotatorNotes T1	"C0013928", "Fat embolism (disorder)", "Pathologic Function" ,"DISO"
+T2	C0008972 25 30	étude
+#2	AnnotatorNotes T2	"C0008972", "Clinical Research", "Research Activity" ,"PROC"

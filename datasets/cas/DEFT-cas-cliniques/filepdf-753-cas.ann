@@ -1,0 +1,6 @@
+T1	genre 28 40	une patiente
+T2	age 44 50	86 ans
+A1	genre T1 féminin
+T3	issue 7983 7988	décès
+A2	issue T3 décès
+T4	origine 118 136	cholangiocarcinome

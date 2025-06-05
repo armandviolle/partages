@@ -1,0 +1,6 @@
+T1	genre 82 87	femme
+T2	age 96 102	54 ans
+A1	genre T1 féminin
+T3	issue 117 122	morte
+A2	issue T3 décès
+T4	origine 8 58	un acte suicidaire étayé par une lettre manuscrite

@@ -1,0 +1,7 @@
+T1	genre 0 12	Une patiente
+A1	genre T1 féminin
+T2	age 16 22	57 ans
+T3	origine 493 527	la suspicion d'une myocardiopathie
+T4	issue 1888 1935	A 2 ans le scanner thoraco-abdominal est normal
+A2	issue T4 amélioration
+#1	AnnotatorNotes T2	66 ans

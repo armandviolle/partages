@@ -1,0 +1,6 @@
+T1	genre 202 212	Le patient
+T2	age 9 15	21 ans
+A1	genre T1 masculin
+T3	origine 48 89	un testicule gauche, en ectopie inguinale
+T4	issue 1949 2012	Le dosage des anticoagulants physiologiques était revenu normal
+A2	issue T4 amélioration

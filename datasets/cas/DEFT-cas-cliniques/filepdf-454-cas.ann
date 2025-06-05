@@ -1,0 +1,6 @@
+T1	genre 0 8	Monsieur
+T2	age 20 26	60 ans
+A1	genre T1 masculin
+T3	origine 68 161	des troubles de la vigilance dans un contexte d’alcoolisme chronique et de conflits conjugaux
+T4	issue 4295 4495	Au final, l’évolution somatique a été favorable. Après 9 jours passés en réanimation, et dans ce contexte d’intoxication médicamenteuse volontaire, le patient a été muté dans un service de psychiatrie
+A2	issue T4 amélioration

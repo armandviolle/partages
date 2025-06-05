@@ -1,0 +1,6 @@
+T1	age 13 19	39 ans
+T2	genre 4 9	femme
+A1	genre T2 féminin
+T3	origine 50 87	des algies pelviennes prémenstruelles
+T4	issue 2445 2561	Les suit es opératoires furent simples, avec disparition des algies pelviennes et reprise de son activité habituelle
+A2	issue T4 guérison

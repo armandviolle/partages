@@ -1,0 +1,17 @@
+T1	examen 43 60	contrôle urinaire
+T2	examen 128 136	contrôle
+T3	valeur 218 227	151 ng/mL
+T4	substance 231 246	benzoylecgonine
+T5	substance 264 287	cocaïne non métabolisée
+T6	examen 292 308	densité urinaire
+T7	examen 315 328	créatininurie
+T8	valeur 329 337	normales
+T9	sosy 292 337	densité urinaire et la créatininurie normales
+T10	sosy 254 287	traces de cocaïne non métabolisée
+T11	anatomie 52 60	urinaire
+T12	anatomie 300 308	urinaire
+T13	chimiques 254 287	traces de cocaïne non métabolisée
+T14	genre 3 8	homme
+A1	genre T14 masculin
+T15	age 15 33	vingtaine d’années
+T16	origine 40 123	un contrôle urinaire après une nuit passée dans un restaurant puis en boîte de nuit

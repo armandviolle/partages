@@ -1,0 +1,46 @@
+T10051	duree 1817 1830	depuis 10 ans
+T10061	examen 400 408	autopsie
+T10062	examen 637 652	analyse du sang
+T10064	examen 1087 1094	analyse
+T100111	moment 1308 1323	Après son décès
+T100121	substance 960 980	7-aminoflunitrazépam
+T100122	substance 1015 1029	benzodiazepine
+T100123	substance 1667 1675	ROHYPNOL
+T100161	valeur 677 685	0,81 g/l
+T100162	valeur 762 770	15 ng/ml
+T100193	sosy 349 375	coma hypothermique (29° C)
+T1001	valeur 369 374	29° C
+T1002	sosy 438 449	hypothermie
+T1004	examen 664 674	alcoolémie
+T1005	examen 690 730	CPG/ECD (détecteur à capture d'électron)
+T1006	substance 750 759	midazolam
+T1007	substance 772 784	anesthésique
+T1008	substance 996 1009	flunitrazépam
+T1009	substance 1060 1068	ROHYPNOL
+T10010	substance 1145 1158	flunitrazépam
+T20063	examen 863 890	analyse en CPG masse tandem
+T200163	valeur 910 956	quelques picogrammes par millilitre (13 pg/ml)
+T200194	sosy 533 563	lésions traumanques viscérales
+T2005	pathologie 510 528	pathologie visible
+T2006	anatomie 553 563	viscérales
+T2009	sosy 664 685	alcoolémie à 0,81 g/l
+T20012	sosy 731 770	met en évidence du midazolam : 15 ng/ml
+T20017	moment 1194 1211	Le soir précédent
+T20018	substance 1227 1232	bière
+T20019	dose 1652 1663	un comprimé
+T20020	sosy 1769 1788	soumission chimique
+T20021	anatomie 648 652	sang
+A1	assertion T2005 absent
+A2	assertion T200194 absent
+A3	norme T100161 haut
+A4	norme T1001 bas
+T1	moment 75 91	un matin d'hiver
+T200195	etatsosy 349 367	coma hypothermique
+T2	etatsosy 438 449	hypothermie
+T3	chimiques 664 674	alcoolémie
+T4	age 15 36	cinquantaine d'années
+T5	genre 3 8	homme
+A5	genre T5 masculin
+T6	issue 379 385	décède
+A6	issue T6 décès
+T7	origine 346 375	un coma hypothermique (29° C)

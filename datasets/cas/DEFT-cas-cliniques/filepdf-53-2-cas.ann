@@ -1,0 +1,6 @@
+T1	genre 0 5	Homme
+T2	age 9 15	42 ans
+A1	genre T1 masculin
+T3	origine 33 127	douleur sous ombilicale évoluant depuis une année sans troubles mictionnels associés ni fièvre
+T4	issue 640 678	Les suites opératoires étaient simples
+A2	issue T4 guérison

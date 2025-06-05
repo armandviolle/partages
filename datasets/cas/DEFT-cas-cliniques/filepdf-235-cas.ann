@@ -1,0 +1,6 @@
+T1	genre 0 8	Monsieur
+T2	age 22 28	71 ans
+A1	genre T1 masculin
+T3	origine 63 171	une protrusion oculaire avec une baisse de la vision à gauche et des céphalées intenses d’apparition brutale
+T4	issue 1864 2031	une disparition des lésions sphénoïdales avec régression de la protrusion oculaire et de la tuméfaction temporopariétale remplacée par une hypodensité temporale gauche
+A2	issue T4 amélioration

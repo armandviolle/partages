@@ -1,0 +1,7 @@
+T1	genre 0 2	Mr
+T2	issue 2827 2832	décès
+A1	genre T1 masculin
+A2	issue T2 décès
+T3	age 9 19	né en 1952
+T4	origine 1812 1888	une septicémie à point de départ urinaire résolutive sous traitement adapté.
+#1	AnnotatorNotes T3	50 ans

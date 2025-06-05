@@ -1,0 +1,6 @@
+T1	genre 2191 2201	le patient
+T2	age 48 54	20 ans
+A1	genre T1 masculin
+T3	origine 79 204	un état d'agitation avec hallucinations psychosensorielles survenant après la prise d'une infusion de fleurs de Datura inoxia
+T4	issue 2113 2149	L'évolution est rapidement favorable
+A2	issue T4 guérison

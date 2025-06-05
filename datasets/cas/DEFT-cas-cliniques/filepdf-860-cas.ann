@@ -1,0 +1,6 @@
+T1	genre 0 6	Madame
+T2	age 31 37	72 ans
+A1	genre T1 féminin
+T3	origine 120 186	des douleurs abdominales atypiques avec une hypotension artérielle
+T4	issue 1476 1546	Elle est suivie depuis en consultation externe avec un recul de 8 mois
+A2	issue T4 guérison

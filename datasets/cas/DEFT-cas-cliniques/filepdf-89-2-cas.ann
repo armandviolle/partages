@@ -1,0 +1,6 @@
+T1	age 12 18	36 ans
+T2	genre 3 8	homme
+T3	origine 35 67	deux épisodes d’hématurie isolée
+A1	genre T2 masculin
+T4	issue 1168 1331	Avec 10 mois de recul, le patient présentait une récidive au niveau d’une adénopathie située en avant du tronc coeliaque, une seconde chimiothérapie était proposée
+A2	issue T4 détérioration

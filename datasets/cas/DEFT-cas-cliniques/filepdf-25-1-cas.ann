@@ -1,0 +1,6 @@
+T1	age 12 18	73 ans
+T2	genre 3 8	homme
+A1	genre T2 masculin
+T3	origine 50 179	troubles mictionnels chroniques (dysurie et polliakiurie nocturne) compliqués lors d’une adénomite, d’une rétention aiguë d’urine
+T4	issue 988 1060	la disparition de la symptomatologie sans récidive avec un recul d’un an
+A2	issue T4 guérison

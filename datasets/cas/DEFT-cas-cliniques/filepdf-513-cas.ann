@@ -1,0 +1,50 @@
+T1001	anatomie 480 490	abdominale
+T1002	anatomie 673 680	abdomen
+T10061	examen 506 521	examen clinique
+T10062	examen 528 544	bilan biologique
+T10063	examen 655 697	radiographie de l'abdomen sans préparation
+T10064	examen 797 822	dosage d'arsenic urinaire
+T100111	moment 949 961	le 2eme jour
+T100161	valeur 1065 1072	normaux
+T100162	valeur 858 866	327 ug/g
+T100163	valeur 550 557	normaux
+T100192	sosy 394 431	symptomatologie clinique particulière
+T100195	sosy 979 991	intoxication
+T1003	traitement 562 578	lavage gastrique
+T1004	anatomie 569 578	gastrique
+T1005	substance 623 637	charbon activé
+T1006	substance 331 364	sulfure naturel d'arsenic (As S )
+T1007	substance 319 327	orpiment
+T1009	substance 806 813	arsenic
+T10010	sosy 883 897	asymptomatique
+T10011	substance 1012 1019	arsenic
+T20065	examen 997 1039	contrôles de l'arsenic sanguin et urinaire
+T200193	sosy 454 465	vomissement
+T200194	sosy 472 490	douleur abdominale
+T2003	anatomie 97 103	bouche
+T2004	anatomie 184 190	bouche
+T2005	substance 195 198	eau
+T2008	sosy 217 224	affolée
+T20010	sosy 495 557	reste de l'examen clinique et le bilan biologique sont normaux
+T20014	mode 643 650	perfusé
+T20015	sosy 727 781	plus d'une dizaine de minuscules fragments métalliques
+T20018	sosy 838 866	il est très élevé : 327 ug/g
+T20021	anatomie 1020 1027	sanguin
+T20022	anatomie 1031 1039	urinaire
+T20023	sosy 1056 1072	ils sont normaux
+T20024	traitement 175 198	rince la bouche à l'eau
+T20025	anatomie 814 822	urinaire
+A1	norme T100163 normal
+A2	assertion T100192 absent
+A3	norme T100161 normal
+A4	norme T100162 haut
+A5	assertion T2008 non-associé
+A6	assertion T200193 absent
+A7	assertion T200194 absent
+T1	chimiques 979 991	intoxication
+T2	age 25 32	17 mois
+T3	genre 9 16	Flavian
+A8	genre T3 masculin
+T4	origine 63 103	des pierres de collection dans la bouche
+T5	issue 868 961	L'enfant reste asymptomatique et l'évolution est favorable autorisant une sortie le 2eme jour
+A9	issue T5 guérison

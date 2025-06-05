@@ -1,0 +1,8 @@
+T5	C0026845 27 34	muscles
+#5	AnnotatorNotes T5	"C0026845", "Muscle", "Tissue" ,"ANAT"
+T6	C0026845 145 152	muscles
+#6	AnnotatorNotes T6	"C0026845", "Muscle", "Tissue" ,"ANAT"
+T7	C0939393 58 67	NeuroBloc
+#7	AnnotatorNotes T7	"C0939393", "Myobloc", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T8	C0031831 6 13	médecin
+#8	AnnotatorNotes T8	"C0031831", "Physicians", "Professional or Occupational Group" ,"LIVB"

@@ -1,0 +1,6 @@
+T1	age 12 29	soixante-huit ans
+T2	genre 3 8	homme
+A1	genre T2 masculin
+T3	origine 214 327	une décoction de deux plantes récoltées près de chez lui, reconnues comme « rafraîchissantes » dans l’usage local
+T4	issue 1232 1362	Après une nuit de monitoring, aucune récurrence d’hypotension artérielle n’a été enregistrée et le patient est retourné à domicile
+A2	issue T4 guérison

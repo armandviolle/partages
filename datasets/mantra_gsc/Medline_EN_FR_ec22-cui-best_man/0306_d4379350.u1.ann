@@ -1,0 +1,4 @@
+T1	C0031036 33 53	périartérite noueuse
+#1	AnnotatorNotes T1	"C0031036", "Polyarteritis Nodosa", "Disease or Syndrome" ,"DISO"
+T2	C0035298 15 26	rétiniennes
+#2	AnnotatorNotes T2	"C0035298", "Retina", "Body Part Organ or Organ Component" ,"ANAT"

@@ -1,0 +1,6 @@
+T1	genre 4 9	femme
+A1	genre T1 féminin
+T2	age 13 19	50 ans
+T3	origine 85 177	des symptômes d’atteinte neurologique de confusion, d’ataxie, de paresthésie et de céphalées
+T4	issue 3736 3815	Les taux d’enzymes hépatiques sont revenus à leur niveau de base en trois jours
+A2	issue T4 amélioration

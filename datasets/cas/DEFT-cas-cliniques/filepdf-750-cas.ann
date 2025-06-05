@@ -1,0 +1,6 @@
+T1	age 13 19	72 ans
+T2	genre 4 9	femme
+A1	genre T2 féminin
+T3	origine 168 276	des nausées qui durent depuis environ quatre semaines mais qui se sont aggravées au cours des derniers jours
+T4	issue 3904 4007	Au congé de l’hôpital, soit quatre jours après son admission, la patiente ne présente plus de symptômes
+A2	issue T4 guérison

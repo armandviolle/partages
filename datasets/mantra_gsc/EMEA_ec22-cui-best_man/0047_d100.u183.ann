@@ -1,0 +1,6 @@
+T4	C0031327 3 20	pharmacocinétique
+#4	AnnotatorNotes T4	"C0031327", "Drug Kinetics", "Physiologic Function" ,"PHYS"
+T5	C0389169 24 34	doripénème
+#5	AnnotatorNotes T5	"C0389169", "doripenem", "Organic Chemical|Antibiotic" ,"CHEM"
+T6	C0021440 109 132	perfusion intraveineuse
+#6	AnnotatorNotes T6	"C0021440", "Intravenous infusion procedures", "Therapeutic or Preventive Procedure" ,"PROC"

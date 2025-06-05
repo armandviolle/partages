@@ -1,0 +1,113 @@
+T1	sosy 40 44	coma
+T2	substance 63 73	carbofuran
+T3	dose 50 59	un sachet
+T4	sosy 90 113	premier arrêt cardiaque
+T5	anatomie 104 113	cardiaque
+T6	traitement 129 136	massage
+T7	substance 162 172	adrénaline
+T8	traitement 205 211	intubé
+T9	traitement 215 236	ventilé mécaniquement
+T10	examen 240 258	activité cardiaque
+T11	anatomie 249 258	cardiaque
+T12	examen 276 286	pulsations
+T13	valeur 287 294	100/min
+T14	examen 296 313	pression sanguine
+T15	valeur 314 323	75 m m Hg
+T16	sosy 276 323	pulsations 100/min, pression sanguine 75 m m Hg
+T17	sosy 361 365	coma
+T18	examen 367 374	Glasgow
+T19	valeur 375 376	3
+T20	examen 383 389	examen
+T21	sosy 403 414	hypotension
+T22	sosy 422 444	sécrétions bronchiques
+T23	anatomie 433 444	bronchiques
+T24	examen 449 465	tableau clinique
+T25	sosy 488 494	myosis
+T26	sosy 504 525	hypothermie (31,2° C)
+T27	valeur 517 524	31,2° C
+T28	substance 548 556	atropine
+T29	sosy 562 599	chute de l'activité cholinestérasique
+T30	examen 617 657	activité de la cholinestérase globulaire
+T31	valeur 661 670	0,42 U/ml
+T32	examen 680 702	cholinestérase sérique
+T33	valeur 706 714	1720 U/l
+T34	sosy 617 670	activité de la cholinestérase globulaire de 0,42 U/ml
+T35	sosy 680 714	cholinestérase sérique de 1720 U/l
+T36	substance 733 744	pralidoxime
+T37	sosy 798 825	intoxication aux carbamates
+T38	substance 815 825	carbamates
+T39	sosy 851 879	autres anomalies biologiques
+T40	examen 868 879	biologiques
+T41	sosy 894 920	hyperkaliemic (6,1 mmol/l)
+T42	valeur 909 919	6,1 mmol/l
+T43	sosy 926 977	insuffisance rénale (créatininémie : 410,73 mmol/l)
+T44	examen 947 960	créatininémie
+T45	valeur 963 976	410,73 mmol/l
+T46	sosy 985 1042	cytolyse hépatique (SGPT : 1588 mU/ml, SGOT : 1624 mU/ml)
+T47	anatomie 994 1003	hépatique
+T48	examen 1005 1009	SGPT
+T49	valeur 1012 1022	1588 mU/ml
+T50	examen 1024 1028	SGOT
+T51	valeur 1031 1041	1624 mU/ml
+T52	sosy 1054 1118	forte altération des fonctions respiratoires et cardiovasculares
+T53	anatomie 1102 1118	cardiovasculares
+T54	moment 1142 1166	15 H après son admission
+T55	examen 1172 1209	concentrations de carbofuran mesurées
+T56	substance 1190 1200	carbofuran
+T57	valeur 1221 1229	1,5 mg/l
+T58	moment 1230 1235	à J 1
+T59	valeur 1251 1259	1,3 mg/l
+T60	moment 1260 1264	à J2
+T61	sosy 1275 1304	concentration sanguine létale
+T62	examen 1275 1297	concentration sanguine
+T63	valeur 1322 1330	9,7 mg/l
+T65	sosy 1341 1394	symptômes cliniques d'une intoxication aux carbamates
+T66	substance 1384 1394	carbamates
+T67	substance 1423 1439	organophosphorés
+T68	sosy 1482 1524	diminution de l'activité cholinestérasique
+T69	substance 1549 1565	organophosphorés
+T70	substance 1588 1603	cholinestérases
+T71	examen 1650 1671	analyse toxicologique
+T72	substance 1713 1719	oximes
+A1	prise T72 arrêt
+T73	substance 1740 1751	pralidoxime
+A2	prise T73 arrêt
+T74	substance 1788 1796	antidote
+T75	sosy 1812 1839	intoxication aux carbamates
+T76	substance 1829 1839	carbamates
+T77	sosy 1870 1885	symptomatologie
+T78	sosy 1890 1915	intoxications au carbaryl
+T79	substance 1907 1915	carbaryl
+T80	sosy 367 376	Glasgow 3
+T81	anatomie 939 945	rénale
+T82	anatomie 1085 1098	respiratoires
+T64	anatomie 305 313	sanguine
+T83	anatomie 1289 1297	sanguine
+A3	norme T27 bas
+A4	norme T19 bas
+T84	nerveux 40 44	coma
+T85	cardiovasculaires 98 113	arrêt cardiaque
+T86	nerveux 361 365	coma
+T87	cardiovasculaires 403 414	hypotension
+T88	respiratoire 422 444	sécrétions bronchiques
+T89	nerveux 488 494	myosis
+T90	oeil 488 494	myosis
+T91	etatsosy 504 515	hypothermie
+T92	chimiques 798 825	intoxication aux carbamates
+T93	homme 926 945	insuffisance rénale
+T94	digestif 985 1003	cytolyse hépatique
+T95	nutritionnelles 894 907	hyperkaliemic
+T96	cardiovasculaires 1054 1118	forte altération des fonctions respiratoires et cardiovasculares
+T97	respiratoire 1054 1118	forte altération des fonctions respiratoires et cardiovasculares
+T98	chimiques 1367 1394	intoxication aux carbamates
+T99	etatsosy 40 44	coma
+T100	etatsosy 361 365	coma
+T101	etatsosy 488 494	myosis
+T102	chimiques 1812 1839	intoxication aux carbamates
+T103	chimiques 1890 1915	intoxications au carbaryl
+T104	genre 3 8	homme
+T105	age 12 18	72 ans
+A5	genre T104 masculin
+T106	origine 25 44	trouvé dans le coma
+T107	issue 1135 1141	décédé
+A6	issue T107 décès

@@ -1,0 +1,6 @@
+T1	genre 12 22	un patient
+T2	age 30 36	56 ans
+A1	genre T1 masculin
+T3	origine 96 174	des rectorragies et des mélénas de moyenne abondance avec un syndrome anémique
+T4	issue 1367 1517	ar ailleurs le bilan d’extension ne retrouvait pas de lésions secondaires. Le patient fut adressé au service d’oncologie où il a été mis sous Imatinib
+A2	issue T4 amélioration

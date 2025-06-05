@@ -1,0 +1,32 @@
+T10061	examen 220 245	constatations autopsiques
+T100121	substance 208 214	datura
+T100122	substance 382 390	loxapine
+T100123	substance 486 494	atropine
+T100124	substance 453 461	atropine
+T100125	substance 468 479	scopolamine
+T100126	substance 409 417	atropine
+T100191	sosy 297 329	putréfaction importante du corps
+T1001	sosy 262 287	congestion multiviscérale
+T1002	substance 395 403	morphine
+T1003	examen 334 359	liquide hématique prélevé
+T1004	anatomie 342 351	hématique
+T1005	anatomie 525 529	bile
+T200192	sosy 370 417	présence de loxapine, de morphine et d'atropine
+T2001	pathologie 35 46	toxicomanie
+T2005	anatomie 273 287	multiviscérale
+T2006	anatomie 324 329	corps
+T20010	anatomie 423 429	urines
+T20012	sosy 442 479	présence d'atropine et de scopolamine
+T1	moment 122 140	plus d'une semaine
+T2	chimiques 35 46	toxicomanie
+T3	chimiques 370 417	présence de loxapine, de morphine et d'atropine
+T4	chimiques 442 479	présence d'atropine et de scopolamine
+T5	etatsosy 262 287	congestion multiviscérale
+T6	age 12 18	28 ans
+T7	genre 0 10	Christophe
+A1	genre T7 masculin
+T8	issue 105 110	décès
+A2	issue T8 décès
+T9	issue 69 73	mort
+A3	issue T9 décès
+T10	origine 60 88	retrouvé mort à son domicile

@@ -1,0 +1,6 @@
+T1	genre 329 338	Le malade
+T2	age 4 10	61 ans
+A1	genre T1 masculin
+T3	origine 126 197	une dysurie et des uréthrorragies intermittentes évoluant depuis 6 mois
+T4	issue 1080 1313	La surveillance par une uréthrocystoscopie à 6 mois puis tous les ans n'a pas montré jusqu'à ce jour de récidive avec actuellement un recul de 11 ans. Le contrôle par cytologie urinaire a été jugé inutile vu le bas grade de la tumeur
+A2	issue T4 guérison

@@ -1,0 +1,6 @@
+T1	age 13 19	55 ans
+T2	genre 4 9	femme
+A1	genre T2 féminin
+T3	origine 107 153	une fibrillation auriculaire paroxystique (FA)
+T4	issue 2136 2212	La valeur d’INR revient dans la fourchette thérapeutique au bout de 15 jours
+A2	issue T4 amélioration

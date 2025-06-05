@@ -1,0 +1,157 @@
+T6	femme 1084 1100	fuites urinaires
+T67	anatomie 1091 1100	urinaires
+T3	etatsosy 1117 1124	dysurie
+T1	etatsosy 1132 1172	douleurs neuropathiques pelvi-périnéales
+T82	anatomie 1156 1172	pelvi-périnéales
+T27	examen 1188 1200	consultation
+T35	examen 1303 1309	examen
+T55	anatomie 1355 1377	région pelvi-périnéale
+T91	anatomie 1395 1413	muscles élévateurs
+T45	anatomie 1429 1439	musculaire
+T9	etatsosy 146 176	incontinence urinaire d’effort
+T129	fonction 1462 1479	besoin mictionnel
+T17	anatomie 1515 1520	anale
+T101	anatomie 1563 1573	urogénital
+T59	anatomie 1537 1543	selles
+T36	examen 1556 1573	examen urogénital
+T65	anatomie 159 167	urinaire
+T10	etatsosy 1665 1669	toux
+T77	examen 1423 1439	force musculaire
+T34	examen 170 176	effort
+T69	anatomie 1716 1721	urine
+T47	valeur 1751 1758	normale
+T23	examen 1763 1779	bilan biologique
+T8	etatsosy 1796 1812	hyperleucocytose
+T72	examen 1866 1890	vitesse de sédimentation
+T49	valeur 1952 1960	négative
+T70	anatomie 1995 2001	urines
+T12	etatsosy 206 227	troubles de la marche
+T13	dose 2086 2092	200 mg
+T31	frequence 2093 2111	deux fois par jour
+T53	duree 2112 2128	pendant 10 jours
+T16	substance 2135 2148	amitriptyline
+T14	dose 2149 2154	25 mg
+T51	frequence 2155 2163	par jour
+T38	moment 2164 2177	matin et soir
+T92	anatomie 2227 2244	muscles périnéaux
+T71	anatomie 2342 2348	vessie
+T130	traitement 2373 2385	auto-sondage
+T57	anatomie 2392 2398	rectum
+T81	anatomie 243 259	pelvi-périnéales
+T93	anatomie 2514 2543	muscles élévateurs du périnée
+T79	valeur 2575 2582	grade I
+T11	etatsosy 2599 2603	toux
+T7	sosy 2625 2641	fuites urinaires
+T68	anatomie 2632 2641	urinaires
+T2	etatsosy 2695 2718	douleurs neuropathiques
+T4	etatsosy 2758 2765	dysurie
+T73	moment 294 302	à 6 mois
+T42	anatomie 424 442	membres inférieurs
+T26	examen 448 460	consultation
+T19	examen 497 502	bilan
+T44	anatomie 559 569	musculaire
+T43	anatomie 583 601	membres inférieurs
+T60	examen 607 634	signe de Babinski bilatéral
+T54	anatomie 670 685	région pubienne
+T5	femme 710 726	fuites urinaires
+T66	anatomie 717 726	urinaires
+T46	anatomie 765 775	médullaire
+T22	examen 782 798	bilan biologique
+T24	examen 823 844	éléctroneuromyogramme
+T48	valeur 812 819	normaux
+T20	genre 0 3	Mme
+A1	genre T20 féminin
+T21	age 20 26	40 ans
+T28	examen 730 775	imagerie par Résonnance Magnétique médullaire
+T29	anatomie 689 702	péri-vulvaire
+T25	valeur 1440 1444	2 /5
+T30	nerveux 912 927	myéloradiculite
+#1	AnnotatorNotes T30	inflammation de la moelle épinière / myélite
+T32	sosy 1068 1100	persistance des fuites urinaires
+T33	nerveux 525 543	paraplégie flasque
+T40	etatsosy 525 543	paraplégie flasque
+T41	examen 553 569	force musculaire
+T52	valeur 570 573	0/5
+A2	norme T52 bas
+A3	norme T25 bas
+T58	fonction 1486 1496	défécation
+T62	nerveux 1324 1336	hypoesthésie
+T63	etatsosy 1324 1336	hypoesthésie
+T64	sosy 1451 1496	absence du besoin mictionnel et de défécation
+T74	digestif 1502 1520	incontinence anale
+T75	digestif 1537 1552	selles liquides
+T80	etatsosy 1537 1552	selles liquides
+T83	anatomie 1601 1630	partie antérieure de la vulve
+T84	anatomie 1653 1658	vulve
+T56	frequence 2349 2372	toutes les 4 à 6 heures
+T15	examen 1964 2001	examen cytobactériologique des urines
+T37	substance 2039 2047	céfixime
+T50	substance 2077 2085	cefixime
+T39	frequence 2399 2411	chaque matin
+T61	anatomie 2284 2301	dermatomes sacrés
+T76	traitement 2497 2508	rééducation
+T85	valeur 2554 2557	3/5
+A4	assertion T7 absent
+T78	moment 2480 2493	Après un mois
+T86	traitement 2333 2348	vider la vessie
+T87	examen 1924 1945	sérologie rétrovirale
+T88	femme 1707 1721	fuites d’urine
+T89	hemopathies 1796 1812	hyperleucocytose
+T90	nerveux 206 227	troubles de la marche
+T94	etatsosy 311 335	difficultés de la marche
+T95	nerveux 311 335	difficultés de la marche
+T96	etatsosy 234 259	brûlures pelvi-périnéales
+T97	nerveux 383 414	impotence fonctionnelle absolue
+T98	etatsosy 383 414	impotence fonctionnelle absolue
+T99	respiratoire 1665 1669	toux
+T100	respiratoire 2599 2603	toux
+T102	femme 2562 2583	cystocèle de grade II
+T103	etatsosy 2562 2583	cystocèle de grade II
+T104	nerveux 2695 2718	douleurs neuropathiques
+T105	nerveux 867 890	plexopathie lombosacrée
+T106	nerveux 1383 1413	déficit des muscles élévateurs
+T107	etatsosy 1707 1721	fuites d’urine
+T108	infections 2010 2024	Echéricha Coli
+T109	sosy 383 442	impotence fonctionnelle absolue des deux membres inférieurs
+T110	sosy 553 601	force musculaire 0/5 aux deux membres inférieurs
+T111	sosy 607 634	signe de Babinski bilatéral
+T112	anatomie 625 634	bilatéral
+T113	sosy 641 702	anesthésie en selle et de la région pubienne et péri-vulvaire
+T18	sosy 730 819	imagerie par Résonnance Magnétique médullaire et le bilan biologique sont revenus normaux
+T114	pathologie 867 890	plexopathie lombosacrée
+A5	assertion T114 possible
+T115	pathologie 912 927	myéloradiculite
+T116	traitement 966 988	traitement indéterminé
+T117	sosy 1039 1059	reprise de la marche
+T118	traitement 1282 1297	prise en charge
+T119	sosy 1423 1444	force musculaire 2 /5
+T120	sosy 1587 1695	saillie de la partie antérieure de la vulve, expansive hors de la vulve, à la toux et aux efforts de poussée
+T121	sosy 1726 1758	marche etait possible et normale
+T122	sosy 1847 1919	accélération de la vitesse de sédimentation et de la C-Réactive protéine
+T123	examen 1900 1919	C-Réactive protéine
+T124	sosy 1924 1960	sérologie rétrovirale était négative
+T125	pathologie 1796 1839	hyperleucocytose à prédominance neutrophile
+T126	organisme 2010 2024	Echéricha Coli
+T127	sosy 1964 2024	examen cytobactériologique des urines a isolé Echéricha Coli
+T128	traitement 2199 2244	séances de renforcement des muscles périnéaux
+T131	traitement 2251 2301	travail des sensibilités sur les dermatomes sacrés
+T132	anatomie 2295 2301	sacrés
+T133	traitement 2417 2434	promonto-fixation
+A6	assertion T133 absent
+T134	sosy 2514 2557	muscles élévateurs du périnée étaient à 3/5
+T135	sosy 146 176	incontinence urinaire d’effort
+T136	sosy 206 227	troubles de la marche
+T137	sosy 234 259	brûlures pelvi-périnéales
+T138	sosy 311 335	difficultés de la marche
+T139	pathologie 525 543	paraplégie flasque
+T140	sosy 710 726	fuites urinaires
+T141	sosy 1117 1124	dysurie
+T142	sosy 1502 1520	incontinence anale
+T143	sosy 1132 1172	douleurs neuropathiques pelvi-périnéales
+T144	sosy 1324 1377	hypoesthésie en selle et de la région pelvi-périnéale
+T145	sosy 1383 1413	déficit des muscles élévateurs
+T146	sosy 1537 1552	selles liquides
+T147	sosy 1707 1721	fuites d’urine
+T148	pathologie 2562 2603	cystocèle de grade II aux efforts de toux
+T149	sosy 2695 2718	douleurs neuropathiques
+T150	sosy 2758 2765	dysurie

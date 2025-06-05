@@ -1,0 +1,122 @@
+T21	examen 1138 1141	TDM
+T27	examen 1900 1939	analyse anatomo-pathologique définitive
+T28	anatomie 1908 1928	anatomo-pathologique
+T22	examen 2686 2689	TDM
+T17	examen 272 285	TDM abdominal
+T24	anatomie 276 285	abdominal
+T18	examen 423 426	TDM
+T19	examen 665 690	surveillance TDM annuelle
+T20	examen 855 858	TDM
+T3	date 17 21	1923
+T4	date 1251 1263	octobre 1999
+T6	substance 376 390	chimiothérapie
+T7	examen 430 444	échographiques
+T8	pathologie 174 202	tumeur rénale asymptomatique
+T9	anatomie 181 187	rénale
+T10	pathologie 89 166	tumeur kystique de 5,5 cm. de diamètre développée sur un rein en fer-à-cheval
+T13	anatomie 146 150	rein
+T14	frequence 682 690	annuelle
+T16	duree 224 244	trois ans auparavant
+T25	examen 253 270	bilan d’extension
+T26	pathologie 292 330	adénocarcinome du colon gauche Dukes B
+T29	anatomie 310 322	colon gauche
+T30	pathologie 466 486	kyste simple du rein
+T31	anatomie 482 486	rein
+T32	anatomie 534 548	isthme du rein
+T33	anatomie 932 957	parenchyme rénal adjacent
+T34	traitement 1001 1021	exérèse chirurgicale
+T35	examen 1035 1057	expertise histologique
+T36	sosy 1158 1167	métastase
+T37	pathologie 1174 1191	néoplasie colique
+A3	assertion T36 absent
+T38	examen 1197 1226	antigène carcino-embryonnaire
+T39	examen 1228 1231	ACE
+T40	valeur 1239 1245	normal
+A4	norme T40 normal
+T41	traitement 1309 1329	laparotomie initiale
+T42	examen 1333 1368	exploration de la cavité abdominale
+T43	anatomie 1351 1368	cavité abdominale
+T44	pathologie 1418 1448	tumeur du rein en fer-à-cheval
+T45	anatomie 1428 1432	rein
+T47	pathologie 1557 1581	tumeur kystique suspecte
+T48	traitement 1587 1599	tumorectomie
+T49	traitement 1651 1700	ligature des vaisseaux aberrants venus de l’aorte
+T50	anatomie 1664 1683	vaisseaux aberrants
+T51	anatomie 1695 1700	aorte
+T52	traitement 1780 1806	exérèse en parenchyme sain
+T53	anatomie 1791 1801	parenchyme
+T54	anatomie 1869 1875	isthme
+T55	pathologie 1983 2034	tumeur carcinoïde typique de bas grade de malignité
+T56	traitement 2040 2056	exérèse complète
+T57	examen 2101 2132	marquages immuno-histochimiques
+T58	pathologie 2446 2452	tumeur
+T59	pathologie 2598 2615	tumeur carcinoïde
+T60	sosy 2742 2752	métastases
+A5	assertion T60 absent
+T61	sosy 2727 2735	récidive
+A6	assertion T61 absent
+T65	examen 1705 1723	examen extemporané
+T67	examen 2474 2483	recherche
+T70	valeur 108 127	5,5 cm. de diamètre
+T69	anatomie 510 527	antérieure droite
+T71	valeur 590 596	3,5 cm
+T72	examen 627 635	imagerie
+T73	valeur 785 791	+ 2 cm
+T77	anatomie 1489 1510	partie droite du rein
+T78	examen 2187 2202	chromogranine A
+T79	examen 2206 2232	énolase neurone-spécifique
+T80	examen 2237 2251	protéine S 100
+T81	examen 2256 2270	cytokératine 7
+T82	examen 2275 2280	CD 99
+T83	examen 2287 2290	GFA
+T84	examen 2292 2321	Glial fibrillary acid protein
+T86	examen 2369 2398	anticorps anti-synaptophysine
+T68	examen 2515 2540	octréoscan à l’Indium 111
+T90	traitement 1742 1764	résection chirurgicale
+T92	sosy 1111 1133	excellent état général
+T95	moment 711 738	Après 3 ans de surveillance
+T96	sosy 801 830	modifications de sa structure
+T97	sosy 742 793	augmentation de la taille de cette lésion (+ 2 cm.)
+T1	sosy 860 957	hétérogènéité, hyperdensité et caractère anfractueux du raccordement au parenchyme rénal adjacent
+T2	traitement 361 370	chirurgie
+A1	assertion T34 possible
+T11	sosy 1197 1245	antigène carcino-embryonnaire (ACE) était normal
+T12	traitement 1283 1289	opérée
+T15	sosy 1387 1413	signe de maladie évolutive
+A2	assertion T15 absent
+T46	examen 1514 1534	aspect macroscopique
+T62	traitement 1811 1875	surjet hémostatique du cratère tumoral siègeant près de l’isthme
+T63	sosy 1834 1849	cratère tumoral
+T66	valeur 2087 2095	4 à 5 mm
+T74	sosy 2101 2149	marquages immuno-histochimiques étaient négatifs
+T75	sosy 2345 2398	marquage positif avec l’anticorps anti-synaptophysine
+T76	examen 2661 2682	surveillance clinique
+T87	traitement 1890 1895	geste
+T89	moment 2690 2697	à un an
+T5	anatomie 651 659	digestif
+T23	anatomie 1184 1191	colique
+T64	valeur 2141 2149	négatifs
+T85	valeur 2354 2361	positif
+T88	tumeur 89 104	tumeur kystique
+T91	tumeur 174 202	tumeur rénale asymptomatique
+T93	tumeur 466 486	kyste simple du rein
+T94	tumeur 292 330	adénocarcinome du colon gauche Dukes B
+T98	tumeur 1557 1581	tumeur kystique suspecte
+T99	tumeur 1418 1448	tumeur du rein en fer-à-cheval
+T100	genetique 1428 1448	rein en fer-à-cheval
+T101	femme 1428 1448	rein en fer-à-cheval
+T102	tumeur 1983 2034	tumeur carcinoïde typique de bas grade de malignité
+T103	tumeur 2417 2452	nature neuro-endocrine de la tumeur
+T104	tumeur 2598 2615	tumeur carcinoïde
+T105	tumeur 1174 1191	néoplasie colique
+T106	endocriniennes 2417 2452	nature neuro-endocrine de la tumeur
+T107	digestif 1174 1191	néoplasie colique
+T108	femme 146 166	rein en fer-à-cheval
+T109	genetique 146 166	rein en fer-à-cheval
+T110	genre 0 6	Madame
+A7	genre T110 féminin
+T111	origine 85 166	une tumeur kystique de 5,5 cm. de diamètre développée sur un rein en fer-à-cheval
+T112	issue 2618 2752	Les suites opératoires ont été simples. La surveillance clinique et TDM à un an n’ont pas montré de signe de récidive ou de métastases
+A8	issue T112 amélioration
+T113	age 10 21	née en 1923
+#1	AnnotatorNotes T113	76 ans

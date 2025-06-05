@@ -1,0 +1,6 @@
+T1	genre 14 32	une jeune patiente
+T2	age 36 46	trente ans
+A1	genre T1 féminin
+T3	origine 84 155	un syndrome de la jonction pyélo-urétérale (JPU) à droite symptomatique
+T4	issue 2226 2505	Ces formations sont bordées par un revêtement urothélial qui apparaît normalement différencié, hyperplasique dans certains territoires puisque présentant un nombre d’assises cellulaires légèrement augmenté mais sans désorganisation architecturale ni anomalie nucléo-cytoplasmique
+A2	issue T4 stable

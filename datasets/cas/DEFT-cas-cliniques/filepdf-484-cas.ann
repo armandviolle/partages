@@ -1,0 +1,52 @@
+T1001	anatomie 1055 1060	mains
+T10041	dose 1181 1187	110 mg
+T10042	dose 1223 1229	750 mg
+T10052	duree 833 858	pendant quelques semaines
+T100111	moment 251 266	à 6h45 du matin
+T100112	moment 418 445	Quelques instants plus tard
+T100113	moment 611 653	2 h après l’apparition des premiers signes
+T100121	substance 919 927	Lysanxia
+T100122	substance 1191 1199	prazépam
+T100123	substance 945 956	Di-antalvic
+T100124	substance 1233 1251	dextropropoxyphène
+T100125	substance 1208 1219	paracétamol
+T100126	substance 929 937	prazépam
+T100127	substance 992 1003	paracétamol
+T100128	substance 970 988	dextropropoxyphène
+T100181	pathologie 690 708	syndrome dépressif
+T100191	sosy 129 156	détresse respiratoire aiguë
+T100192	sosy 293 313	sensation de malaise
+T1003	sosy 65 89	bonne condition physique
+T1004	sosy 323 331	asthénie
+T1005	moment 332 353	au moment de se lever
+T1006	sosy 464 481	gisant sur le sol
+T1008	sosy 727 747	tentative de suicide
+T1009	moment 748 774	quelques années auparavant
+T10010	dose 1201 1204	8 g
+T20062	examen 1272 1286	interrogatoire
+T2002	pathologie 31 58	pathologie organique connue
+T2006	sosy 488 497	conscient
+T2007	sosy 515 538	difficulté respiratoire
+T2008	sosy 563 577	asphyxie aiguë
+T20012	substance 779 789	traitement
+T20013	anatomie 1037 1042	corps
+T20014	substance 1089 1098	comprimés
+T20015	substance 1139 1155	principes actifs
+T20017	substance 1324 1335	médicaments
+A1	assertion T2002 absent
+A2	etat T2002 passé
+T1	anatomie 138 150	respiratoire
+T2	anatomie 526 538	respiratoire
+T100193	etatsosy 306 313	malaise
+T3	respiratoire 129 156	détresse respiratoire aiguë
+T4	etatsosy 323 331	asthénie
+T6	etatsosy 563 577	asphyxie aiguë
+T7	blessures 563 577	asphyxie aiguë
+T5	respiratoire 515 538	difficulté respiratoire
+T8	chimiques 901 1004	blisters vides de Lysanxia (prazépam) et de Di-antalvic (association dextropropoxyphène et paracétamol)
+T9	genre 9 14	homme
+T10	age 18 24	17 ans
+A3	genre T9 masculin
+T11	issue 91 97	décède
+A4	issue T11 décès
+T12	origine 129 156	détresse respiratoire aiguë

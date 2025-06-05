@@ -1,0 +1,157 @@
+T1002	anatomie 134 145	abdominales
+T1003	anatomie 487 499	flanc gauche
+T1008	anatomie 1288 1298	surrénales
+T1009	anatomie 1461 1487	pôles supérieurs des reins
+T10010	anatomie 1524 1547	vaisseaux prérachidiens
+T10012	anatomie 2061 2071	pulmonaire
+T10013	anatomie 2100 2116	ostéo-médullaire
+T10042	dose 2359 2368	1,4 mg/m2
+T10043	dose 2383 2388	80 mg
+T10061	examen 239 253	interrogatoire
+T10062	examen 434 449	examen clinique
+T10063	examen 563 580	reste de l’examen
+T10070	examen 1553 1567	bilan hormonal
+T10071	examen 2029 2046	bilan d’extension
+T10076	examen 2644 2647	LDH
+T100101	mode 2393 2403	voie orale
+T100111	moment 334 360	3 mois avant son admission
+T100124	substance 2696 2710	chimiothérapie
+T100141	traitement 1697 1702	opéré
+T100142	traitement 2761 2774	radiothérapie
+T100167	valeur 1379 1390	130 x 90 mm
+T100168	valeur 1403 1415	120 x 100 mm
+T100169	valeur 2548 2553	70 mm
+T100182	sosy 545 558	splénomégalie
+T100183	pathologie 618 644	adénopathies périphériques
+T100184	pathologie 1497 1547	adénopathies engainant les vaisseaux prérachidiens
+T100185	pathologie 1826 1934	lymphome malin non Hodgkinien de haut grade de malignité, de phénotype B exprimant fortement l’antigène CD45
+T100193	sosy 223 235	pouls filant
+T100194	sosy 277 317	altération progressive de l’état général
+T100196	sosy 466 521	masse douloureuse du flanc gauche difficile à délimiter
+T100200	examen 820 835	fonction rénale
+T100204	sosy 1319 1424	plages liquidiennes de nécrose sans calcification, mesurant 130 x 90 mm à droite et 120 x 100 mm à gauche
+T100207	sosy 1715 1750	caractère hémorragique de la tumeur
+T100208	sosy 2135 2170	autres localisations lymphomateuses
+T100211	sosy 3023 3045	assez bon état général
+T100212	sosy 3100 3138	persistance des lésions surrénaliennes
+T10015	sosy 147 163	asthénie majeure
+T10017	sosy 187 216	tension artérielle imprenable
+T10018	sosy 404 412	asthénie
+T10019	sosy 420 428	anorexie
+T10020	traitement 653 664	réanimation
+T10022	valeur 836 844	correcte
+T10023	examen 797 807	hémogramme
+T10025	anatomie 1219 1229	abdominale
+T10026	examen 1630 1666	ACTH (l’hormone adréno-corticotrope)
+T10036	anatomie 2081 2090	abdominal
+T10039	substance 2347 2358	vincristine
+T10040	substance 2372 2382	prédnisone
+T10045	moment 2404 2414	de J1 à J5
+T10046	anatomie 2599 2616	rétropéritonéales
+T10047	anatomie 2858 2868	surrénales
+T10048	anatomie 2945 2951	rénaux
+T2001	anatomie 100 113	surrénalienne
+T2004	anatomie 829 835	rénale
+T2005	anatomie 998 1008	abdominale
+T2006	anatomie 1171 1175	rate
+T2007	anatomie 1182 1186	rein
+T20011	anatomie 1771 1784	surrénalienne
+T20014	anatomie 3080 3089	abdominal
+T20041	dose 2312 2320	50 mg/m2
+T20044	dose 2799 2811	40 Gy (gray)
+T20064	examen 714 719	bilan
+T20065	examen 768 784	bilan biologique
+T20066	examen 925 948	lactico-deshydrogénases
+T20067	examen 950 953	LDH
+T20068	examen 986 1008	échographie abdominale
+T20069	examen 1195 1229	tomodensitométrie (TDM) abdominale
+T20072	examen 2048 2071	radiographie pulmonaire
+T20073	examen 2073 2090	scanner abdominal
+T20074	examen 2092 2116	biopsie ostéo-médullaire
+T20075	examen 2435 2450	TDM de contrôle
+T20077	examen 3072 3089	scanner abdominal
+T200112	moment 2966 2987	Après 3 mois de recul
+T200121	substance 2205 2241	chimiothérapie première de type CHOP
+T200122	substance 2294 2310	cyclophosphamide
+T200123	substance 2323 2335	doxorubicine
+T200125	substance 3052 3067	corticothérapie
+T200161	valeur 808 814	normal
+T200162	valeur 876 885	134 meq/l
+T200163	valeur 909 919	5,36 meq/l
+T200164	valeur 973 981	1690 µ/l
+T200165	valeur 1072 1084	153 x 198 mm
+T200166	valeur 1145 1157	134 x 114 mm
+T200171	valeur 2660 2666	518µ/l
+T200181	sosy 528 541	hépatomégalie
+T200191	sosy 87 119	insuffisance surrénalienne aiguë
+T200192	sosy 125 145	douleurs abdominales
+T200195	sosy 375 398	amaigrissement de 30 Kg
+T200200	sosy 820 844	fonction rénale correcte
+T200201	sosy 854 885	légère hyponatrémie à 134 meq/l
+T200202	sosy 893 919	hyperkaliémie à 5,36 meq/l
+T200203	sosy 1259 1309	processus lésionnel des deux surrénales, hypodense
+T200206	sosy 1438 1487	envahissement des deux pôles supérieurs des reins
+T200209	pathologie 2586 2616	adénopathies rétropéritonéales
+T20016	sosy 179 185	sueurs
+T20018	valeur 393 398	30 Kg
+T20022	substance 694 709	corticothérapie
+T20023	sosy 925 981	lactico-deshydrogénases (LDH) étaient élevées à 1690 µ/l
+T20024	sosy 1019 1157	deux masses l’une droite inter-hépatorénale mesurant 153 x 198 mm d’échostructure hétérogène et l’autre inter-splénorénale de 134 x 114 mm
+T20025	anatomie 1037 1062	droite inter-hépatorénale
+T20026	anatomie 1123 1141	inter-splénorénale
+T20027	examen 1581 1593	cortisolémie
+T20029	sosy 1581 1666	cortisolémie de 8h basse avec un taux élevé de l’ACTH (l’hormone adréno-corticotrope)
+T20030	examen 1763 1784	biopsie surrénalienne
+T20033	valeur 1887 1898	phénotype B
+T20034	examen 1921 1940	antigène CD45 (LAC)
+T20035	sosy 1955 2012	antigènes cytokératine (KL1) et CD3 (PAN T) sont négatifs
+T20036	examen 1955 1998	antigènes cytokératine (KL1) et CD3 (PAN T)
+T20038	substance 2176 2186	traitement
+T20039	frequence 2267 2282	chaque 21 jours
+T20040	dose 2336 2344	50 mg/m2
+T20050	moment 2416 2430	Après 5 cycles
+T20051	anatomie 2512 2526	surrénaliennes
+T20052	sosy 2473 2526	réduction de la taille des deux masses surrénaliennes
+T20054	sosy 2635 2666	taux des LDH a diminué à 518µ/l
+T20055	duree 2736 2744	9 cycles
+T20057	mode 2874 2891	2 champs latéraux
+T20058	mode 2898 2913	champ antérieur
+T20060	anatomie 3124 3138	surrénaliennes
+T20078	examen 3187 3211	contrôle scannographique
+T20079	moment 3217 3239	après 9 cycles de CHOP
+T20080	anatomie 195 205	artérielle
+T20081	valeur 2566 2571	80 mm
+T20082	traitement 2922 2963	interposant des caches rénaux postérieurs
+T1	duree 1594 1599	de 8h
+T2	date 1672 1681	mars 2001
+A1	assertion T200209 absent
+T3	date 3 15	janvier 2001
+A2	norme T200164 haut
+A3	norme T200161 normal
+A4	norme T200162 bas
+A5	norme T200163 haut
+A6	norme T200171 haut
+A7	assertion T200181 absent
+A8	assertion T100182 absent
+T4	sosy 797 814	hémogramme normal
+T5	valeur 2004 2012	négatifs
+T200211	hemopathies 1497 1509	adénopathies
+T200213	etatsosy 147 163	asthénie majeure
+T200214	etatsosy 125 145	douleurs abdominales
+T200215	etatsosy 3116 3138	lésions surrénaliennes
+T200216	tumeur 1744 1750	tumeur
+T6	endocriniennes 87 119	insuffisance surrénalienne aiguë
+T7	etatsosy 404 412	asthénie
+T8	etatsosy 420 428	anorexie
+T9	immunitaire 1826 1882	lymphome malin non Hodgkinien de haut grade de malignité
+T10	hemopathies 1826 1882	lymphome malin non Hodgkinien de haut grade de malignité
+T11	tumeur 1826 1882	lymphome malin non Hodgkinien de haut grade de malignité
+T12	nutritionnelles 854 885	légère hyponatrémie à 134 meq/l
+T13	nutritionnelles 893 919	hyperkaliémie à 5,36 meq/l
+T14	nutritionnelles 925 981	lactico-deshydrogénases (LDH) étaient élevées à 1690 µ/l
+T15	age 33 39	31 ans
+T16	genre 17 20	Mr.
+A9	genre T16 masculin
+T17	origine 87 235	insuffisance surrénalienne aiguë avec douleurs abdominales, asthénie majeure accompagnée de sueurs, tension artérielle imprenable et un pouls filant
+T18	issue 2966 3239	Après 3 mois de recul, le patient est toujours vivant en assez bon état général, sous corticothérapie, le scanner abdominal révèle la persistance des lésions surrénaliennes qui sont restées stables par rapport au dernier contrôle scannographique fait après 9 cycles de CHOP
+A10	issue T18 stable

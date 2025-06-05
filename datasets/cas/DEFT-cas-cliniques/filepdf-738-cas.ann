@@ -1,0 +1,6 @@
+T1	genre 12 24	une patiente
+T2	age 28 34	80 ans
+A1	genre T1 féminin
+T3	origine 67 101	une dyspnée progressive à l’effort
+T4	issue 5028 5101	Il est trop tôt pour déterminer la réponse de la patiente à la décitabine
+A2	issue T4 stable

@@ -1,0 +1,6 @@
+T1	age 13 19	10 ans
+T2	genre 0 9	Un enfant
+A1	genre T2 masculin
+T3	origine 53 107	une cellulite orbitaire droite avec fistule palpébrale
+T4	issue 1543 1648	L’enfant a ensuite récupéré un état palpébral et orbitaire normal. L’acuité visuelle finale était à 10/10
+A2	issue T4 guérison

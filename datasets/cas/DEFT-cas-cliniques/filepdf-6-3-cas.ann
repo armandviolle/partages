@@ -1,0 +1,6 @@
+T1	genre 0 5	Femme
+T2	age 9 15	68 ans
+A1	genre T1 féminin
+T3	origine 47 204	des douleurs lombaires droites et une insuffisance rénale (créatinine sanguine à 350 µmol/l de sérum), connue depuis quatre ans mais n'ayant pas été explorée
+T4	issue 632 717	La fonction rénale se stabilise et la patiente refuse toute intervention chirurgicale
+A2	issue T4 amélioration

@@ -1,0 +1,6 @@
+T1	genre 0 2	Mr
+T2	age 6 12	72 ans
+A1	genre T1 masculin
+T3	origine 136 207	maladie de Parkinson au stade I selon l’échelle de Hoehn et Yahr (H &Y)
+T4	issue 2007 2459	Au bout de 12 séances, un bilan est réalisé. Mr B constate que le tremblement est toujours présent mais ne survient plus aussi fréquemment et apparaît surtout lors du stress. Son sommeil est nettement amélioré, il est moins angoissé et sa constipation a totalement disparu. Il ne prend toujours pas de thérapeutique spécifique et souhaite continuer l’acupuncture, bien qu’il se fasse à l’idée que le traitement antiparkinsonien sera un jour inéluctable
+A2	issue T4 amélioration

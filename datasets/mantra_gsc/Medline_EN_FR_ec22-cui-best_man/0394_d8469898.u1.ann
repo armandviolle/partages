@@ -1,0 +1,4 @@
+T1	C0087111 0 10	Traitement
+#1	AnnotatorNotes T1	"C0087111", "Therapeutic procedure", "Therapeutic or Preventive Procedure" ,"PROC"
+T2	C0036983 28 41	choc septique
+#2	AnnotatorNotes T2	"C0036983", "Septic Shock", "Pathologic Function" ,"DISO"

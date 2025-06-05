@@ -1,0 +1,6 @@
+T1	genre 10 15	femme
+T2	age 19 25	24 ans
+A1	genre T1 féminin
+T3	origine 37 75	un coma réactif (score de Glasgow = 8)
+T4	issue 2331 2508	L'évolution est favorable après 48 h, avec notamment une fonction hémodynamique stable, un état de conscience tout à fait normal, et l'absence de récidive des crises convulsives
+A2	issue T4 guérison

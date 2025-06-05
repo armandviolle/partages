@@ -37,6 +37,25 @@ def main():
     api = HfApi()
 
     # disable_caching()  # facultatif : si stream
+
+    # datasets_cfg = load_config()
+    # all_ds = []
+    # for cfg in datasets_cfg:
+    #     print(f"Loading dataset {cfg['source']}: using {REGISTRY[cfg['source']]}")
+    #     LoaderCls = REGISTRY[cfg["source"]]
+    #     loader = LoaderCls(
+    #         source=cfg["source"], 
+    #         path=cfg["path"], 
+    #         subset=cfg["subset"], 
+    #         source_split=cfg["source_split"]
+    #     )
+    #     ds = loader.load()
+    #     print(f"Shape de {cfg['source']}: {ds.shape}")
+    #     print(f"{ds}\n")
+    #     all_ds.append(ds)
+    # merged = concatenate_datasets(all_ds)
+    # print(f"Shape on concatenated dataset: {merged.shape}")
+
     all_cfg = load_config()
 
     print(args.use_all_sources, type(args.use_all_sources))

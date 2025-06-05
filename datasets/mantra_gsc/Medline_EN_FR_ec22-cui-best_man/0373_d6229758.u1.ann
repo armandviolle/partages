@@ -1,0 +1,6 @@
+T1	C0040405 3 15	scanographie
+#1	AnnotatorNotes T1	"C0040405", "X-Ray Computed Tomography", "Diagnostic Procedure" ,"PROC"
+T2	C0021289 50 60	nouveau-né
+#2	AnnotatorNotes T2	"C0021289", "Infant, Newborn", "Age Group" ,"LIVB"
+T3	C0025289 25 35	méningites
+#3	AnnotatorNotes T3	"C0025289", "Meningitis", "Disease or Syndrome" ,"DISO"

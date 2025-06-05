@@ -1,0 +1,68 @@
+T23	sosy 1021 1027	lésion
+T2	osteomusculaires 1097 1111	calcifications
+T16	traitement 1230 1249	chirurgie d’exérèse
+T25	pathologie 1272 1306	métastases osseuses et pulmonaires
+T26	anatomie 1283 1291	osseuses
+T33	anatomie 1295 1306	pulmonaires
+T54	examen 1328 1339	taux de PSA
+T15	substance 1374 1388	chimiothérapie
+T12	substance 1398 1416	acide zolédronique
+T7	examen 153 164	PSA sérique
+T31	anatomie 18 29	prostatique
+T35	traitement 183 204	radiothérapie externe
+T27	anatomie 237 253	région pelvienne
+T30	anatomie 296 304	prostate
+T1	tumeur 3 29	adénocarcinome prostatique
+T52	examen 328 339	taux de PSA
+T29	duree 397 410	pendant 5 ans
+T53	examen 431 442	taux de PSA
+T13	substance 540 560	analogue de la LH-RH
+T10	examen 575 578	PSA
+T38	examen 609 627	évolution clinique
+T3	etatsosy 675 722	douleur de hanche et de la fosse iliaque gauche
+T44	anatomie 702 722	fosse iliaque gauche
+T20	anatomie 686 692	hanche
+T4	etatsosy 737 774	œdème du membre inférieur ipsilatéral
+T36	examen 780 807	tomodensitométrie pelvienne
+T28	anatomie 798 807	pelvienne
+T5	date 820 832	janvier 2003
+T24	sosy 866 929	masse de 10x11x13 cm située dans la région ilio-pubienne gauche
+T32	anatomie 902 929	région ilio-pubienne gauche
+T14	examen 991 1011	biopsie à l’aiguille
+T34	age 76 82	68 ans
+T39	date 86 98	juillet 1995
+T40	valeur 168 177	8.0 ng/ml
+T8	valeur 366 374	1.8ng/ml
+T21	moment 340 356	post-irradiation
+T9	date 484 493	mars 2000
+T42	valeur 470 480	12.1 ng/ml
+T18	sosy 675 722	douleur de hanche et de la fosse iliaque gauche
+T37	anatomie 746 774	membre inférieur ipsilatéral
+T6	tumeur 1050 1057	sarcome
+T11	tumeur 1272 1306	métastases osseuses et pulmonaires
+T19	substance 1423 1432	docétaxel
+T22	respiratoire 1272 1306	métastases osseuses et pulmonaires
+T41	osteomusculaires 1272 1306	métastases osseuses et pulmonaires
+T43	sosy 737 774	œdème du membre inférieur ipsilatéral
+T45	genre 58 60	Mr
+A1	genre T45 masculin
+T46	sosy 1087 1111	multiples calcifications
+A2	norme T40 haut
+A3	norme T8 bas
+A4	norme T42 haut
+T47	dose 205 218	65 Grays (Gy)
+T48	dose 224 229	45 Gy
+T49	dose 257 262	20 Gy
+T50	valeur 875 886	10x11x13 cm
+T51	valeur 104 126	stade clinique T3BN0M0
+T55	homme 3 29	adénocarcinome prostatique
+T56	valeur 128 146	Gleason de 5 (2+3)
+T57	anatomie 157 164	sérique
+T58	sosy 153 177	PSA sérique de 8.0 ng/ml
+T59	sosy 328 374	taux de PSA post-irradiation était de 1.8ng/ml
+T60	sosy 416 480	progression du taux de PSA avait été observée jusqu’à 12.1 ng/ml
+T61	sosy 575 604	PSA était devenu indétectable
+T62	traitement 955 974	irradiation initial
+T17	sosy 1312 1339	augmentation du taux de PSA
+T63	pathologie 3 29	adénocarcinome prostatique
+T64	pathologie 1050 1057	sarcome

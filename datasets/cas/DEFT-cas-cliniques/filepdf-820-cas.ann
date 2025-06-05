@@ -1,0 +1,6 @@
+T1	origine 202 230	échographie réalisée à 27 SA
+T2	issue 288 295	mort-né
+A1	issue T2 décès
+T3	age 16 22	26 ans
+T4	genre 2 12	Primigeste
+A2	genre T4 féminin

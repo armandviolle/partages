@@ -1,0 +1,6 @@
+T1	age 16 22	43 ans
+T2	genre 3 8	homme
+A1	genre T2 masculin
+T3	origine 50 207	une inflammation conjonctivale de l’œil gauche, avec apparition progressive d’une exophtalmie qui s’est aggravée d’une ophtalmolplégie et d’une cécité gauche
+T4	issue 1505 1654	En post-opératoire, il y a eu une régression de l’exophtalmie. La TDM orbitaire de contrôle n’a pas mis en évidence de récidive avec un recul d’un an
+A2	issue T4 amélioration

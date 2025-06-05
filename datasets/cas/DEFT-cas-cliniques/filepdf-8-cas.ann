@@ -1,0 +1,6 @@
+T1	genre 0 8	Monsieur
+T2	age 23 29	36 ans
+A1	genre T1 masculin
+T3	origine 77 138	des crises de colique néphrétique gauche évoluant depuis 1982
+T4	issue 1491 1574	Le dernier contrôle urographique effectué en février 1997 est toujours satisfaisant
+A2	issue T4 amélioration

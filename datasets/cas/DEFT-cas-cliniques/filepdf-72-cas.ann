@@ -1,0 +1,92 @@
+T10	examen 268 284	examen somatique
+T12	examen 324 352	tomodensitométrie abdominale
+T13	anatomie 342 352	abdominale
+T11	examen 996 1038	examen histologique et immunohistochimique
+T6	pathologie 95 125	diabète non insulino-dépendant
+T8	sosy 48 71	hypertension artérielle
+T9	anatomie 61 71	artérielle
+T14	duree 72 85	depuis 12 ans
+T15	duree 126 138	depuis 6 ans
+T16	sosy 180 217	érythrose des extrémités et du visage
+T17	anatomie 194 204	extrémités
+T18	anatomie 211 217	visage
+T19	sosy 223 245	sensation vertigineuse
+T20	sosy 253 264	éructations
+T21	sosy 369 396	processus tumoral gastrique
+T22	anatomie 387 396	gastrique
+T23	sosy 517 561	masse latéro-aortique gauche de 4 x 4 x 3 cm
+T24	anatomie 523 545	latéro-aortique gauche
+T25	examen 577 591	bilan hormonal
+T27	traitement 740 772	résection de la tumeur gastrique
+T28	pathologie 756 772	tumeur gastrique
+T29	anatomie 763 772	gastrique
+T30	traitement 842 878	exérèse de la tumeur latéro-aortique
+T31	pathologie 856 862	tumeur
+T32	anatomie 863 878	latéro-aortique
+T33	sosy 944 966	poussées hypertensives
+T34	pathologie 977 993	tumeur gastrique
+T35	anatomie 984 993	gastrique
+T36	pathologie 1053 1067	schwanosarcome
+T37	anatomie 1078 1084	berges
+T38	pathologie 1125 1147	tumeur latéro-aortique
+T39	anatomie 1132 1147	latéro-aortique
+T40	pathologie 1168 1184	phéochromocytome
+T41	examen 1280 1298	tension artérielle
+T42	examen 1325 1333	glycémie
+T44	mode 1375 1379	oral
+T45	moment 1380 1413	au 3ème jour après l’intervention
+T48	examen 1481 1489	glycémie
+T49	valeur 1494 1501	normale
+A5	norme T49 normal
+T50	sosy 1529 1548	récidives tumorales
+A6	assertion T50 absent
+T52	pathologie 1555 1565	métastases
+A7	assertion T52 absent
+T51	valeur 291 297	normal
+A8	norme T51 normal
+T63	valeur 549 561	4 x 4 x 3 cm
+T53	examen 635 668	taux des catécholamines sanguines
+T65	examen 678 699	acide vanylmandélique
+T54	valeur 438 450	7 x 6 x 5 cm
+T56	sosy 1448 1464	bon état général
+T58	sosy 1466 1476	normotendu
+T1	sosy 1078 1115	berges de la résection étaient saines
+T2	valeur 299 318	sans particularités
+T3	sosy 413 473	petite courbure mesurant 7 x 6 x 5 cm, de densité hétérogène
+T4	sosy 618 715	augmentation des taux des catécholamines sanguines, et de l’acide vanylmandélique dans les urines
+T5	sosy 1260 1298	normalisation de la tension artérielle
+T7	sosy 1305 1333	normalisation de la glycémie
+T26	substance 1349 1374	traitement antidiabétique
+A1	prise T26 arrêt
+T55	sosy 1481 1501	glycémie est normale
+T57	moment 1571 1591	un recul de 2 années
+T43	sosy 268 318	examen somatique était normal, sans particularités
+T46	anatomie 659 668	sanguines
+T47	anatomie 709 715	urines
+T59	anatomie 1288 1298	artérielle
+A2	norme T2 normal
+T60	cardiovasculaires 48 71	hypertension artérielle
+T61	nutritionnelles 95 125	diabète non insulino-dépendant
+T62	endocriniennes 95 125	diabète non insulino-dépendant
+T64	etatsosy 180 217	érythrose des extrémités et du visage
+T66	etatsosy 253 264	éructations
+T67	etatsosy 223 245	sensation vertigineuse
+T68	tumeur 369 396	processus tumoral gastrique
+T69	digestif 369 396	processus tumoral gastrique
+T70	tumeur 756 772	tumeur gastrique
+T71	digestif 756 772	tumeur gastrique
+T72	cardiovasculaires 944 966	poussées hypertensives
+T73	tumeur 1053 1067	schwanosarcome
+T74	tumeur 977 993	tumeur gastrique
+T75	digestif 977 993	tumeur gastrique
+T76	tumeur 1168 1184	phéochromocytome
+T77	ORL 223 245	sensation vertigineuse
+T78	nerveux 223 245	sensation vertigineuse
+T79	cardiovasculaires 1125 1147	tumeur latéro-aortique
+T80	etatsosy 1125 1147	tumeur latéro-aortique
+T81	genre 0 8	Monsieur
+A3	genre T81 masculin
+T82	age 24 30	50 ans
+T83	origine 165 264	des poussées d’érythrose des extrémités et du visage, une sensation vertigineuse et des éructations
+T84	issue 1416 1591	Actuellement, le patient est en bon état général, normotendu, sa glycémie est normale. Il n’y a pas de signes de récidives tumorales ou de métastases avec un recul de 2 années
+A4	issue T84 amélioration

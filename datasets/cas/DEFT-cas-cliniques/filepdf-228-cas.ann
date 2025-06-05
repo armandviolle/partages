@@ -1,0 +1,6 @@
+T1	age 12 18	50 ans
+T2	genre 3 8	homme
+A1	genre T2 masculin
+T3	origine 49 108	une symptomatologie associant une fièvre à 39°C depuis 48 h
+T4	issue 1694 1795	Un mois après l'intervention, une TDM de contrôle a montré l'intégrité de la vésicule séminale gauche
+A2	issue T4 amélioration

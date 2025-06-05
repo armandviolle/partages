@@ -1,0 +1,103 @@
+T100163	valeur 2226 2233	17 ml/s
+T100198	sosy 2151 2158	dysurie
+T100199	sosy 2160 2171	pollakiurie
+T100200	sosy 2175 2199	impériosité mictionnelle
+T10017	pathologie 1052 1061	prolapsus
+T10019	traitement 1725 1745	transfixion vésicale
+T10022	pathologie 2073 2082	prolapsus
+T10023	examen 2204 2217	débit maximum
+T2001	anatomie 604 611	urèthre
+T2002	anatomie 829 843	sous-uréthrale
+T2003	anatomie 1370 1378	vaginale
+T2004	mode 1430 1443	trans-vésical
+T2005	anatomie 1518 1551	face latérale droite de la vessie
+T20041	valeur 678 684	500 ml
+T20061	examen 288 303	examen clinique
+T20062	examen 459 477	bilan urodynamique
+T20063	examen 1384 1395	cystoscopie
+T20064	examen 1689 1700	cystoscopie
+T200101	mode 963 982	voie coelioscopique
+T200111	moment 1962 1974	au 4ème jour
+T200112	moment 2007 2035	un mois après l’intervention
+T200141	traitement 922 958	Deux bandelettes sont mises en place
+T200143	traitement 1556 1586	tunneliseur a alors été retiré
+T200144	traitement 1932 1961	sonde uréthrale a été retirée
+T200161	valeur 620 629	28 cm H20
+T200162	valeur 650 657	42 ml/s
+T200191	pathologie 79 108	prolapsus utérin du 1er degré
+T200192	sosy 114 136	rectocèle du 1er degré
+T200193	sosy 144 165	incontinence urinaire
+T200194	sosy 248 281	antécédent médical ou chirurgical
+T200195	sosy 321 359	fuites d’urines importantes à l’effort
+T200197	sosy 2089 2105	fuite à l’effort
+T2006	pathologie 41 64	cystocèle du 3ème degré
+T2007	valeur 54 64	3ème degré
+T2008	anatomie 89 95	utérin
+T2009	valeur 99 108	1er degré
+T20010	valeur 127 136	1er degré
+T20011	traitement 378 410	manœuvre de Bonney et de Ulmsten
+T20012	anatomie 491 497	vessie
+T20013	sosy 491 565	vessie de bonne capacité, percevant normalement le besoin, non hyperactive
+T20014	examen 570 611	pression de clôture maximale de l’urèthre
+T20015	examen 689 704	volume résiduel
+T20016	sosy 689 714	volume résiduel était nul
+T20017	examen 634 647	débit maximum
+T20018	traitement 762 778	promontofixation
+T20019	traitement 794 870	cure d’incontinence par bandelette sous-uréthrale Uratape‚ trans-obturatrice
+T20020	mode 853 870	trans-obturatrice
+T20021	traitement 875 887	intervention
+T20022	traitement 904 920	promontofixation
+T20024	traitement 1091 1147	bandelette Uratape‚ transobturatrice a été mise en place
+T20025	sosy 1327 1378	liquide évoquant des urines par l’incision vaginale
+T20026	mode 1632 1673	trajet horizontal voire un peu descendant
+T20027	traitement 1263 1285	passage du tunneliseur
+T20028	traitement 1593 1623	nouveau passage a été effectué
+T20030	anatomie 1737 1745	vésicale
+T20031	anatomie 1847 1854	urèthre
+T20032	traitement 1860 1887	incisions ont été refermées
+T20033	anatomie 1938 1947	uréthrale
+T20034	examen 1982 2006	consultation de contrôle
+T20036	sosy 2126 2144	uriner normalement
+T20038	valeur 2254 2260	260 ml
+T20039	examen 2265 2280	volume résiduel
+T20040	sosy 2265 2290	volume résiduel était nul
+T20042	anatomie 157 165	urinaire
+T20043	anatomie 330 336	urines
+T20044	sosy 570 629	pression de clôture maximale de l’urèthre était à 28 cm H20
+T20045	sosy 634 657	débit maximum à 42 ml/s
+T20046	sosy 667 684	miction de 500 ml
+T20047	mode 1111 1127	transobturatrice
+T20048	traitement 1750 1779	bandelette a alors été passée
+T20049	traitement 1808 1819	positionnée
+T20050	sosy 2204 2233	débit maximum était à 17 ml/s
+T20051	sosy 2243 2260	miction de 260 ml
+T1	traitement 1361 1378	incision vaginale
+A1	assertion T10019 absent
+A2	assertion T100198 absent
+A3	assertion T100199 absent
+A4	assertion T100200 absent
+A5	norme T100163 normal
+A6	norme T200162 normal
+#1	AnnotatorNotes T200162	Entre 15 et 50 ml/s
+A7	assertion T200194 absent
+T2	anatomie 1348 1354	urines
+A8	assertion T10022 absent
+A9	assertion T200197 absent
+T3	femme 41 64	cystocèle du 3ème degré
+T4	etatsosy 41 64	cystocèle du 3ème degré
+T5	femme 79 108	prolapsus utérin du 1er degré
+T6	etatsosy 79 108	prolapsus utérin du 1er degré
+T7	digestif 114 136	rectocèle du 1er degré
+T8	etatsosy 114 136	rectocèle du 1er degré
+T9	femme 144 165	incontinence urinaire
+T10	etatsosy 144 165	incontinence urinaire
+T11	femme 321 348	fuites d’urines importantes
+T12	etatsosy 321 348	fuites d’urines importantes
+T13	femme 1052 1061	prolapsus
+T14	etatsosy 1052 1061	prolapsus
+T15	genre 0 6	Madame
+T16	age 13 19	51 ans
+A10	genre T15 féminin
+T17	origine 37 211	une cystocèle du 3ème degré associée à un prolapsus utérin du 1er degré, une rectocèle du 1er degré et une incontinence urinaire à l’effort nécessitant le port de protections
+T18	issue 2037 2199	il n’existait plus aucun élément de prolapsus ni de fuite à l’effort. La patiente disait uriner normalement, sans dysurie, pollakiurie ou impériosité mictionnelle
+A11	issue T18 guérison

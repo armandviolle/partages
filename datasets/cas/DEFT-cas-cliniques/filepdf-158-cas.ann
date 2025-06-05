@@ -1,0 +1,6 @@
+T1	genre 0 8	Monsieur
+T2	age 13 19	37 ans
+A1	genre T1 masculin
+T3	origine 72 95	une urticaire chronique
+T4	issue 1662 1822	Le patient fût revu à 1 mois et ne présentait plus aucun signe dermatologique ce qui a fait conclure à l’origine paranéoplasique de cette vasculite urticarienne
+A2	issue T4 guérison

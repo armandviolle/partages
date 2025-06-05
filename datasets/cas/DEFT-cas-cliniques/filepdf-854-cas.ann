@@ -1,0 +1,125 @@
+T1001	anatomie 261 271	thoracique
+T1002	anatomie 344 353	axillaire
+T1004	anatomie 530 536	basale
+T1005	anatomie 588 598	thoracique
+T1006	anatomie 667 693	muscle grand dentelé droit
+T1007	anatomie 1042 1052	abdominale
+T1008	anatomie 1630 1652	base du lobe inférieur
+T1009	anatomie 2072 2081	hématique
+T10010	anatomie 2368 2376	cellules
+T10011	anatomie 2391 2398	cavités
+T10012	anatomie 2608 2629	cellules épithéliales
+T10013	anatomie 2698 2717	cellules fusiformes
+T10051	duree 183 196	depuis 8 mois
+T10061	examen 312 318	examen
+T10062	examen 485 508	radiographie thoracique
+T10063	examen 570 598	tomodensitométrie thoracique
+T10064	examen 1030 1052	échographie abdominale
+T10065	examen 1108 1124	ponction biopsie
+T10066	examen 1952 1973	analyse macroscopique
+T100111	moment 3119 3131	2 mois après
+T100112	moment 3138 3180	14 mois après la constatation de la tumeur
+T100121	substance 2677 2689	cytokératine
+T100122	substance 2896 2910	chimiothérapie
+T100123	substance 2923 2934	adriamycine
+T100124	substance 2940 2950	ifosfamide
+T100141	traitement 1173 1198	intervention chirurgicale
+T100142	traitement 1232 1306	thoracotomie postéro latérale passant par le 6ème espace intercostal droit
+T100144	traitement 1705 1725	exérèse de la tumeur
+T100145	traitement 2745 2764	traitement adjuvant
+T100162	valeur 644 652	5x5x8 cm
+T100163	valeur 933 939	4x2 cm
+T100164	valeur 2024 2028	220g
+T100181	pathologie 49 83	antécédents pathologiques notables
+T100191	sosy 131 157	masse pariétale thoracique
+T100192	sosy 255 308	masse thoracique augmentant progressivement de volume
+T100193	sosy 332 406	tuméfaction axillaire basse droite de 6/5 cm, ferme, fixe, peu douloureuse
+T100194	sosy 415 427	autre lésion
+T100195	sosy 522 564	opacité basale droite de tonalité hydrique
+T100196	sosy 628 693	masse ovoïde de 5x5x8 cm aux dépend du muscle grand dentelé droit
+T100197	sosy 758 779	composante nécrotique
+T100200	sosy 2064 2095	contenu hématique et nécrotique
+T100201	sosy 2114 2156	aspect blanchâtre, encéphaloïde et friable
+T100202	sosy 3028 3049	récidive de la tumeur
+T10014	valeur 370 376	6/5 cm
+T10015	sosy 200 230	douleur basi-thoracique droite
+T10016	anatomie 208 223	basi-thoracique
+T10017	sosy 453 480	état général a été conservé
+T10018	anatomie 498 508	thoracique
+T10019	anatomie 863 881	espace intercostal
+T10020	anatomie 825 839	endothoracique
+T10021	sosy 980 1024	important épanchement pleural multicloisonné
+T10022	sosy 787 801	masse tumorale
+T10023	valeur 1059 1066	normale
+T10024	examen 1080 1102	fibroscopie bronchique
+T10025	anatomie 1092 1102	bronchique
+T10026	sosy 1131 1136	masse
+T10027	pathologie 1151 1167	synovialosarcome
+T10028	mode 1245 1261	postéro latérale
+T10033	anatomie 1560 1575	endothoraciques
+T10034	anatomie 1691 1701	diaphragme
+T10036	anatomie 1762 1774	extrapleural
+T10039	sosy 2047 2055	kystique
+T10041	sosy 2189 2348	population cellulaire assez polymorphe agencée tantôt en faisceaux plus ou moins tourbillonnants entrecroisés avec parfois un aspect pseudo hémangiopéricytaire
+T10042	sosy 2474 2516	atypies cytonucléaires modérées à franches
+T10043	examen 2520 2535	index mitotique
+T10044	substance 2731 2740	vimentine
+T10045	traitement 2792 2805	radiothérapie
+T10046	dose 2819 2826	50 Gray
+T10047	traitement 2859 2871	thoracotomie
+T10048	anatomie 2651 2670	membrane épithélial
+T10050	sosy 3068 3095	métastases parenchymateuses
+T200143	traitement 1316 1355	incision cutanée à cheval sur la tumeur
+T200165	valeur 2555 2579	53 mitoses sur 10 champs
+T200182	sosy 1349 1355	tumeur
+T200198	sosy 815 881	extension endothoracique en sablier à travers l'espace intercostal
+T20015	anatomie 137 157	pariétale thoracique
+T20020	mode 715 724	injection
+T20021	substance 728 748	produit de contraste
+T20025	sosy 891 939	composante charnue du même aspect faisant 4x2 cm
+T20026	sosy 946 958	lyse osseuse
+T20027	anatomie 951 958	osseuse
+T20029	anatomie 1002 1009	pleural
+T20033	sosy 1030 1066	échographie abdominale a été normale
+T20037	mode 1277 1306	6ème espace intercostal droit
+T20038	mode 1325 1332	cutanée
+T20039	sosy 1384 1392	kystique
+T20040	anatomie 1464 1546	jonction de l'arc moyen et antérieur de la 7ème côte et du 7ème espace intercostal
+T20041	sosy 1552 1607	limites endothoraciques de la tumeur ont été imprécises
+T20045	sosy 1845 1908	nature très friable de la tumeur et de ses limites mal définies
+T20046	sosy 2010 2028	tumeur pesant 220g
+T20049	sosy 2161 2167	tumeur
+T20052	anatomie 2200 2210	cellulaire
+T20055	sosy 2520 2579	index mitotique est élevé évalué à 53 mitoses sur 10 champs
+T20056	examen 2585 2603	immuno-histochimie
+T20067	duree 2883 2892	six cures
+T20068	moment 2952 2976	Au bout d'un an de suivi
+T20071	anatomie 3079 3095	parenchymateuses
+T20072	sosy 3174 3180	tumeur
+T20073	sosy 2979 3021	état général de notre patient s'est altéré
+T20075	substance 2642 2650	antigène
+A1	assertion T100194 absent
+A2	assertion T20026 absent
+T1	sosy 1396 1546	en bissac dont l'orifice de communication se trouve à hauteur de la jonction de l'arc moyen et antérieur de la 7ème côte et du 7ème espace intercostal
+T2	sosy 2368 2453	cellules tapissent des cavités de dimension variable prenant un aspect endothéliforme
+A3	norme T10023 normal
+A4	etat T100181 passé
+A5	assertion T100181 absent
+T200199	etatsosy 200 230	douleur basi-thoracique droite
+T200200	tumeur 1582 1588	tumeur
+T200201	tumeur 1719 1725	tumeur
+T200202	tumeur 1871 1877	tumeur
+T200203	tumeur 2010 2016	tumeur
+T200204	tumeur 3043 3049	tumeur
+T200205	respiratoire 980 1024	important épanchement pleural multicloisonné
+T3	tumeur 1151 1167	synovialosarcome
+T4	tumeur 1349 1355	tumeur
+T5	tumeur 3174 3180	tumeur
+T6	tumeur 3068 3095	métastases parenchymateuses
+T7	peau 3068 3095	métastases parenchymateuses
+T8	genre 21 28	patient
+T9	age 36 42	18 ans
+A6	genre T8 masculin
+T10	origine 127 157	une masse pariétale thoracique
+T11	issue 3112 3118	décédé
+A7	issue T11 décès

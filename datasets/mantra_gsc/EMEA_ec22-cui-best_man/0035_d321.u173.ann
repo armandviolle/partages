@@ -1,0 +1,28 @@
+T15	C0085593 110 118	frissons
+#15	AnnotatorNotes T15	"C0085593", "Chills", "Sign or Symptom" ,"DISO"
+T17	C0018681 120 128	céphalée
+#17	AnnotatorNotes T17	"C0018681", "Headache", "Sign or Symptom" ,"DISO"
+T18	C0015967 130 136	fièvre
+#18	AnnotatorNotes T18	"C0015967", "Fever", "Finding" ,"DISO"
+T19	C0042963 138 149	vomissement
+#19	AnnotatorNotes T19	"C0042963", "Vomiting", "Sign or Symptom" ,"DISO"
+T20	C0020517 151 172	réactions allergiques
+#20	AnnotatorNotes T20	"C0020517", "Hypersensitivity", "Pathologic Function" ,"DISO"
+T21	C1527304 151 172	réactions allergiques
+#21	AnnotatorNotes T21	"C1527304", "Allergic Reaction", "Pathologic Function" ,"DISO"
+T22	C0027497 174 180	nausée
+#22	AnnotatorNotes T22	"C0027497", "Nausea", "Sign or Symptom" ,"DISO"
+T23	C0003862 182 192	arthralgie
+#23	AnnotatorNotes T23	"C0003862", "Arthralgia", "Sign or Symptom" ,"DISO"
+T24	C0024031 224 233	lombalgie
+#24	AnnotatorNotes T24	"C0024031", "Low Back Pain", "Sign or Symptom" ,"DISO"
+T25	C0021440 10 38	administration intraveineuse
+#25	AnnotatorNotes T25	"C0021440", "Intravenous infusion procedures", "Therapeutic or Preventive Procedure" ,"PROC"
+T26	C0559546 78 101	réactions d’intolérance
+#26	AnnotatorNotes T26	"C0559546", "Adverse reactions", "Finding" ,"DISO"
+T27	C0424755 130 136	fièvre
+#27	AnnotatorNotes T27	"C0424755", "Fever symptoms (finding)", "Finding" ,"DISO"
+T28	C0020649 194 220	faible pression artérielle
+#28	AnnotatorNotes T28	"C0020649", "Hypotension", "Finding" ,"DISO"
+T1	C0021027 41 56	immunoglobuline
+#1	AnnotatorNotes T1	"C0021027", "Immunoglobulins", "Amino Acid Peptide or Protein|Pharmacologic Substance|Immunologic Factor" ,"CHEM"

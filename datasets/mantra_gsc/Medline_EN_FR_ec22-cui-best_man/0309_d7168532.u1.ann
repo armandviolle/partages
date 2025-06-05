@@ -1,0 +1,8 @@
+T1	C0036714 0 12	Sergentomyia
+#1	AnnotatorNotes T1	"C0036714", "Sergentomyia", "Eukaryote" ,"LIVB"
+T2	C0002037 56 63	Algérie
+#2	AnnotatorNotes T2	"C0002037", "Algeria", "Geographic Area" ,"GEOG"
+T3	C0012578 65 72	Diptera
+#3	AnnotatorNotes T3	"C0012578", "Diptera", "Eukaryote" ,"LIVB"
+T4	C0033888 74 85	Psychodidae
+#4	AnnotatorNotes T4	"C0033888", "Psychodidae", "Eukaryote" ,"LIVB"

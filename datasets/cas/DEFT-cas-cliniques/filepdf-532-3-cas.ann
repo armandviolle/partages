@@ -1,0 +1,29 @@
+T3	examen 331 363	prélèvements de sang et d'urines
+T4	anatomie 347 351	sang
+T5	anatomie 433 439	urines
+T1	examen 444 457	immunoanalyse
+T6	anatomie 510 516	urines
+T8	genre 10 15	femme
+A1	genre T8 féminin
+T7	anatomie 357 363	urines
+T9	examen 422 439	examen des urines
+T10	substance 478 481	BZD
+T11	examen 498 526	extrait des urines par CG-SM
+T12	substance 570 580	bromazépam
+T13	substance 582 589	Lexomil
+T14	nerveux 146 173	ne se souvient plus de rien
+T15	etatsosy 146 173	ne se souvient plus de rien
+#1	AnnotatorNotes T14	amnésie
+T2	chimiques 558 580	présence de bromazépam
+T16	etatsosy 262 276	aucun souvenir
+T17	nerveux 262 276	aucun souvenir
+T18	moment 31 47	lundi après-midi
+T19	moment 121 140	le samedi précédent
+T20	substance 200 220	boissons alcoolisées
+T21	moment 236 252	soirée du samedi
+T22	moment 283 299	fin de sa soirée
+T23	moment 306 325	la nuit qui a suivi
+T24	examen 395 418	expertise toxicologique
+T25	sosy 467 481	absence de BZD
+T26	sosy 146 173	ne se souvient plus de rien
+T27	sosy 558 580	présence de bromazépam

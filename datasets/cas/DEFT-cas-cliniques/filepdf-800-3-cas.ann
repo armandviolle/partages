@@ -1,0 +1,114 @@
+T1001	anatomie 94 108	dorsolombaires
+T1002	anatomie 298 308	pulmonaire
+T1003	anatomie 929 935	rénale
+T1004	anatomie 1631 1664	cellules souches hématopoïétiques
+T10051	duree 130 147	depuis trois mois
+T10061	examen 211 226	examen clinique
+T10062	examen 267 277	indice OMS
+T10063	examen 358 375	reste de l’examen
+T10064	examen 559 585	analyse du frottis sanguin
+T10065	examen 645 658	médullogramme
+T10067	examen 1013 1025	bilan osseux
+T10068	examen 1152 1161	score ISS
+T100111	moment 1364 1402	Trois mois après l’arrêt du traitement
+T100122	substance 1247 1263	Cyclophosphamide
+T100123	substance 1265 1276	Thalidomide
+T100124	substance 1280 1293	Déxaméthasone
+T100161	valeur 468 477	17 Giga/l
+T100162	valeur 517 522	9g/dl
+T100163	valeur 545 555	137 Giga/l
+T100164	valeur 608 611	32%
+T100165	valeur 813 819	1,5G/l
+T100166	valeur 1000 1008	6,75mg/l
+T100181	pathologie 24 62	antécédents pathologiques particuliers
+T100192	sosy 175 207	amaigrissement (16kg en 03 mois)
+T100196	sosy 1427 1444	rechute explosive
+T1005	anatomie 112 120	costales
+T1006	valeur 191 195	16kg
+T1008	sosy 165 168	AEG
+T1009	valeur 255 258	39°
+T10010	valeur 280 281	2
+T10012	examen 285 308	auscultation pulmonaire
+T10013	sosy 320 353	râles ronflants basaux bilatéraux
+T10014	examen 429 439	hémogramme
+T10015	examen 449 465	hyperleucocytose
+T10016	examen 483 514	anémie normochrome normocytaire
+T10017	examen 530 542	thrombopénie
+T10018	sosy 608 640	32% de plasmocytes dystrophiques
+T10019	valeur 696 699	42%
+T10020	sosy 670 736	moelle riche, envahie par 42% de plasmocytes souvent dystrophiques
+T10021	examen 766 779	protidogramme
+T10022	examen 789 810	hypogammaglubilinémie
+T10023	examen 827 842	hypoalbuminémie
+T10024	valeur 845 850	30G/l
+T10025	examen 920 935	fonction rénale
+T10026	examen 942 950	calcémie
+T10027	valeur 956 964	normales
+T10028	examen 974 997	hyperbéta2µglobulinémie
+T10029	anatomie 1019 1025	osseux
+T10032	valeur 1164 1165	3
+T10033	substance 1298 1312	biphosphonates
+T10034	examen 1454 1470	hyperleucocytose
+T10035	valeur 1473 1482	80 Giga/l
+T10036	valeur 1492 1495	84%
+T10037	sosy 1492 1510	84% de plasmocytes
+T200121	substance 1232 1245	protocole CTD
+T200125	substance 1526 1550	traitement de rattrapage
+T200191	sosy 85 120	douleurs dorsolombaires et costales
+T200194	sosy 483 522	anémie normochrome normocytaire à 9g/dl
+T200197	traitement 1598 1613	intensification
+T200198	traitement 1617 1664	autogreffe de cellules souches hématopoïétiques
+T2008	duree 196 206	en 03 mois
+T2009	sosy 245 258	fébrile à 39°
+T20012	sosy 267 281	indice OMS à 2
+T20015	valeur 380 398	sans particularité
+T20016	sosy 358 398	reste de l’examen est sans particularité
+T20019	sosy 449 477	hyperleucocytose à 17 Giga/l
+T20020	sosy 530 555	thrombopénie à 137 Giga/l
+T20021	anatomie 578 585	sanguin
+T20022	examen 615 640	plasmocytes dystrophiques
+T20027	sosy 789 819	hypogammaglubilinémie à 1,5G/l
+T20028	sosy 827 850	hypoalbuminémie à 30G/l
+T20030	examen 863 877	immunofixation
+T20031	sosy 888 915	pas de protéine monoclonale
+T20032	examen 895 915	protéine monoclonale
+T20034	sosy 920 964	fonction rénale et la calcémie sont normales
+T20035	sosy 974 1008	hyperbéta2µglobulinémie à 6,75mg/l
+T20037	sosy 1037 1061	déminéralisation diffuse
+T20038	sosy 1070 1085	tassement de L1
+T20039	anatomie 1083 1085	L1
+T20040	pathologie 1107 1143	leucémie à plasmocytes non sécrétant
+T20042	sosy 1152 1165	score ISS à 3
+T20045	sosy 1454 1482	hyperleucocytose à 80 Giga/l
+T20047	examen 1499 1510	plasmocytes
+T20050	substance 1571 1584	protocole VTD
+T20052	anatomie 670 676	moelle
+A1	norme T1009 haut
+A2	norme T20015 normal
+A3	assertion T20031 absent
+A4	norme T10027 normal
+A5	etat T100181 passé
+A6	assertion T100181 absent
+T200200	etatsosy 85 120	douleurs dorsolombaires et costales
+T1	etatsosy 175 189	amaigrissement
+T2	etatsosy 320 353	râles ronflants basaux bilatéraux
+T3	hemopathies 483 514	anémie normochrome normocytaire
+T4	hemopathies 449 465	hyperleucocytose
+T5	etatsosy 449 465	hyperleucocytose
+T6	hemopathies 530 542	thrombopénie
+T7	hemopathies 789 810	hypogammaglubilinémie
+T8	immunitaire 789 810	hypogammaglubilinémie
+T9	hemopathies 827 842	hypoalbuminémie
+T10	osteomusculaires 1037 1061	déminéralisation diffuse
+T11	osteomusculaires 1070 1085	tassement de L1
+T12	nutritionnelles 1037 1061	déminéralisation diffuse
+T13	immunitaire 1107 1143	leucémie à plasmocytes non sécrétant
+T14	tumeur 1107 1143	leucémie à plasmocytes non sécrétant
+T15	hemopathies 1454 1470	hyperleucocytose
+T16	etatsosy 1454 1470	hyperleucocytose
+T17	genre 0 7	Patient
+A7	genre T17 masculin
+T18	age 11 17	59 ans
+T19	origine 81 207	des douleurs dorsolombaires et costales évoluant depuis trois mois, associées à une AEG et un amaigrissement (16kg en 03 mois)
+T20	issue 1403 1444	le patient présente une rechute explosive
+A8	issue T20 détérioration

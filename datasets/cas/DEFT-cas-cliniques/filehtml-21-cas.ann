@@ -1,0 +1,6 @@
+T1	age 14 20	32 ans
+T2	genre 3 10	patient
+A1	genre T2 masculin
+T3	origine 161 332	des signes cliniques apparus dans les trois jours précédents : agitation, hallucinations auditives et visuelles, propos incohérents, anorexie, insomnie, céphalées modérées
+T4	issue 1116 1154	l’ensemble des symptômes avait disparu
+A2	issue T4 amélioration

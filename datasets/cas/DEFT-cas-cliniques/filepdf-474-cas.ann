@@ -1,0 +1,6 @@
+T1	age 14 20	58 ans
+T2	genre 3 10	patient
+A1	genre T2 masculin
+T3	origine 408 601	trouble de la vigilance, quelques jours après le début d’une nouvelle cure de désintoxication à l’éthanol et l’introduction d’un traitement par baclofène à la posologie de 70 mg par jour per os
+T4	issue 2899 3086	les symptômes neurologiques disparaissaient, la dépression respiratoire s’amoindrissait avec une augmentation de la fréquence respiratoire et une correction de l’acidose sur la gazométrie
+A2	issue T4 guérison

@@ -1,0 +1,12 @@
+T1	C1522384 21 25	sexe
+#1	AnnotatorNotes T1	"C1522384", "sex", "Organism Attribute" ,"PHYS"
+T2	C0008059 66 72	enfant
+#2	AnnotatorNotes T2	"C0008059", "Child", "Age Group" ,"LIVB"
+T3	C0205653 81 91	adolescent
+#3	AnnotatorNotes T3	"C0205653", "Adolescent (age group)", "Age Group" ,"LIVB"
+T4	C0008972 2 7	étude
+#4	AnnotatorNotes T4	"C0008972", "Clinical Research", "Research Activity" ,"PROC"
+T5	C0079399 21 25	sexe
+#5	AnnotatorNotes T5	"C0079399", "Gender", "Organism Attribute" ,"PHYS"
+T6	C0449381 11 20	pharmétre
+#6	AnnotatorNotes T6	"C0449381", "Observation parameter", "Finding" ,"DISO"

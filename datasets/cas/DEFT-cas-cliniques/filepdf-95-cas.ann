@@ -1,0 +1,7 @@
+T1	age 12 18	75 ans
+T2	genre 3 8	homme
+T3	issue 4101 4214	Un an plus tard, le patient présentait une récidive tumorale sous la forme de deux petites lésions de stade TaGII
+T4	origine 621 697	récidive de ces petites lésions au niveau de la base et du dôme de la vessie
+A1	issue T3 détérioration
+A2	genre T2 masculin
+T5	origine 51 126	une tumeur superficielle et multifocale de vessie, de stade clinique Ta GII

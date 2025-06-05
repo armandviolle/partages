@@ -1,0 +1,8 @@
+T1	issue 1964 1971	décédés
+T2	genre 847 855	3 hommes
+T3	genre 859 867	2 femmes
+T4	age 906 911	42-78
+A1	genre T2 masculin
+A2	issue T1 décès
+A3	genre T3 féminin
+T5	origine 51 57	un CNE

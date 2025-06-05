@@ -1,0 +1,147 @@
+T25	examen 162 177	examen clinique
+T26	examen 2023 2042	examen histologique
+T27	examen 2723 2747	radiographie des poumons
+T1	date 2944 2954	avril 2001
+T29	examen 387 408	échographie hépatique
+T31	anatomie 617 635	abdomino-pelvienne
+T2	date 77 86	août 1991
+T39	examen 877 901	urographie intraveineuse
+T3	examen 598 635	tomodensi tométrie abdomino-pelvienne
+T5	anatomie 888 901	intraveineuse
+T6	anatomie 399 408	hépatique
+T7	anatomie 2442 2449	osseuse
+T8	examen 2699 2719	échographique rénale
+T9	anatomie 2713 2719	rénale
+T10	anatomie 2740 2747	poumons
+T11	sosy 91 121	hématurie macroscopique isolée
+T12	anatomie 196 212	fosses lombaires
+T13	anatomie 270 295	organes génitaux externes
+T15	anatomie 360 366	rénale
+T17	anatomie 427 448	veine cave inférieure
+T18	sosy 480 539	masse rénale polaire inférieure, hyperéchogène, irrégulière
+T19	anatomie 486 511	rénale polaire inférieure
+T20	anatomie 663 692	pôle inférieur du rein gauche
+T22	anatomie 1011 1015	rein
+T30	pathologie 1109 1123	néphroblastome
+T33	traitement 1155 1174	néphrectomie gauche
+T34	moment 1191 1226	5 jours après l’épisode hématurique
+T35	substance 1274 1297	chimiothérapie première
+T36	traitement 1321 1333	néphrectomie
+T37	examen 1338 1375	urétéropyelographie rétrograde gauche
+T41	traitement 1724 1793	néphrectomie était pratiquée avec conservation de la surrénale gauche
+T42	anatomie 1777 1793	surrénale gauche
+T43	anatomie 1798 1812	uretère gauche
+T45	anatomie 2256 2260	hile
+T46	pathologie 2397 2403	tumeur
+T48	anatomie 2841 2847	rénale
+T49	valeur 2898 2907	53 mmol/l
+T50	examen 2660 2664	ECBU
+T51	examen 2670 2680	créatinine
+T52	examen 2882 2895	créatininémie
+T57	examen 2755 2789	examens cliniques et paracliniques
+T58	examen 1650 1685	exploration de la cavité abdominale
+T61	valeur 184 190	normal
+T65	valeur 373 380	normale
+T66	valeur 415 422	normale
+T67	valeur 2505 2512	normale
+T68	valeur 296 303	normaux
+T69	valeur 1051 1058	normaux
+T70	examen 2685 2697	radiologique
+A3	norme T65 normal
+A4	norme T61 normal
+A5	norme T68 normal
+T53	sosy 128 134	fièvre
+A6	assertion T53 absent
+T62	sosy 138 157	syndrome infectieux
+A7	assertion T62 absent
+T72	sosy 196 264	fosses lombaires étaient libres de toute masse palpable et indolores
+A8	assertion T72 absent
+A9	norme T66 normal
+T76	sosy 549 577	vascularisation périphérique
+T78	sosy 654 740	masse du pôle inférieur du rein gauche infiltrant la voie excrétrice et le sinus rénal
+T81	anatomie 707 722	voie excrétrice
+T82	anatomie 729 740	sinus rénal
+T84	valeur 763 775	1,8 x 1,5 cm
+T86	sosy 928 997	néphrographie intense sans visualisation de la voie excrétrice gauche
+T87	anatomie 975 997	voie excrétrice gauche
+T88	anatomie 1023 1042	cavités excrétrices
+A12	norme T69 normal
+A13	assertion T30 hypothétique
+T90	anatomie 1411 1426	voie excrétrice
+T91	sosy 1445 1483	obstacle à la jonction pyelo-urétérale
+T92	anatomie 1459 1483	jonction pyelo-urétérale
+T94	anatomie 1603 1611	bassinet
+T95	anatomie 1618 1634	calice inférieur
+T96	anatomie 1668 1685	cavité abdominale
+T97	sosy 1707 1717	métastases
+A14	assertion T97 absent
+T98	traitement 1798 1828	uretère gauche était sectionné
+T99	anatomie 1850 1875	jonction urétéro-vésicale
+T93	anatomie 1912 1948	sus et sous pédiculaire rénal gauche
+T100	traitement 1957 2018	curage a été fait en totalité jusqu’à la bifurcation aortique
+T101	sosy 1893 1948	paquet lymphonodal sus et sous pédiculaire rénal gauche
+T54	anatomie 1998 2018	bifurcation aortique
+T64	anatomie 2196 2251	branche afférente polaire inférieure de la veine rénale
+T102	valeur 2412 2421	pT1 N0 M0
+A15	norme T67 normal
+T55	valeur 2818 2825	normaux
+A16	norme T55 normal
+T103	valeur 2094 2109	1,8 x 1,5 x 1cm
+T104	anatomie 2074 2090	cellules claires
+T105	anatomie 2133 2140	capsule
+T107	pathologie 2321 2333	adénopathies
+T108	sosy 2361 2374	métastatiques
+A17	assertion T108 absent
+#1	AnnotatorNotes T107	infection des ganglions
+T110	frequence 2584 2599	tous les 6 mois
+T111	frequence 2623 2629	annuel
+T16	sosy 270 303	organes génitaux externes normaux
+T14	sosy 351 380	fonction rénale était normale
+T21	sosy 427 460	veine cave inférieure était libre
+T23	sosy 1011 1058	rein et les cavités excrétrices étaient normaux
+T32	sosy 2256 2279	hile n’était pas envahi
+T47	sosy 2832 2872	fonction rénale ne s’est jamais dégradée
+T56	moment 902 910	post TDM
+T24	sosy 162 190	examen clinique était normal
+T59	sosy 387 422	échographie hépatique était normale
+T60	sosy 325 346	anomalies biologiques
+A1	assertion T60 absent
+T38	sosy 1581 1634	lacune irrégulière du bassinet et du calice inférieur
+T40	pathologie 2057 2251	adénocarcinome à cellules claires de 1,8 x 1,5 x 1cm ne franchissant pas la capsule, envahissant le groupe caliciel inférieur ainsi qu’une branche afférente polaire inférieure de la veine rénale
+T71	sosy 2755 2825	examens cliniques et paracliniques successifs ont toujours été normaux
+T4	sosy 29 62	antécédents médicaux particuliers
+A2	assertion T4 absent
+T73	examen 351 366	fonction rénale
+T74	sosy 1139 1148	hématurie
+T75	sosy 1207 1226	épisode hématurique
+T77	anatomie 1515 1524	urétérale
+T79	examen 1530 1559	opacification pyelocalicielle
+T83	anatomie 1544 1559	pyelocalicielle
+T85	examen 1509 1524	sonde urétérale
+T106	examen 2285 2302	grade de Syrjanen
+T109	valeur 2312 2314	II
+T114	examen 2563 2568	suivi
+T112	examen 2632 2658	suivi clinique, biologique
+T113	examen 2832 2847	fonction rénale
+T115	moment 2976 3004	un recul de 10 ans et 8 mois
+T116	sosy 748 847	masse mesurait 1,8 x 1,5 cm, était faiblement hypodense et prenait le contraste de façon hétérogène
+T117	sosy 2285 2314	grade de Syrjanen était de II
+T119	traitement 2547 2557	traitement
+A18	assertion T119 absent
+T89	anatomie 2157 2182	groupe caliciel inférieur
+T44	moment 2600 2617	la première année
+T63	examen 2666 2668	VS
+T80	sosy 2882 2907	créatininémie à 53 mmol/l
+T118	femme 91 121	hématurie macroscopique isolée
+T120	etatsosy 91 121	hématurie macroscopique isolée
+T121	femme 1139 1148	hématurie
+T122	etatsosy 1139 1148	hématurie
+T123	tumeur 2057 2090	adénocarcinome à cellules claires
+T124	hemopathies 2321 2333	adénopathies
+T125	tumeur 2397 2403	tumeur
+T28	age 14 23	2 ans 1/2
+T126	genre 0 10	Une enfant
+A10	genre T126 féminin
+T127	origine 91 157	hématurie macroscopique isolée, sans fièvre ni syndrome infectieux
+T128	issue 2751 2872	Les examens cliniques et paracliniques successifs ont toujours été normaux et la fonction rénale ne s’est jamais dégradée
+A11	issue T128 guérison

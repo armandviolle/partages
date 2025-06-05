@@ -1,0 +1,6 @@
+T1	genre 0 6	Madame
+T2	age 19 25	70 ans
+T3	origine 71 99	accident de la voie publique
+A1	genre T1 féminin
+T4	issue 2009 2089	une évolution favorable avec un retour à domicile sans drainage vésical à 1 mois
+A2	issue T4 amélioration

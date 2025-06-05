@@ -1,0 +1,6 @@
+T1	genre 0 3	Mme
+T2	age 39 45	36 ans
+A1	genre T1 féminin
+T3	origine 103 165	des dorsalgies chroniques étiquetées ostéochondrose vertébrale
+T4	issue 558 657	mutation faux-sens (c.733 G>T) à l’état homozygote située sur l’exon 9, serine189isoleucine (S189I)
+A2	issue T4 stable

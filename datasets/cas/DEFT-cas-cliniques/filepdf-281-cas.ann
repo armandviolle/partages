@@ -1,0 +1,188 @@
+T6	cardiovasculaires 1093 1116	hypertension artérielle
+T68	age 11 17	57 ans
+T18	anatomie 1106 1116	artérielle
+T4	endocriniennes 1121 1151	diabète non insulino-dépendant
+T13	examen 1221 1237	IRM hypophysaire
+T67	mode 148 158	percutanée
+T54	mode 1489 1499	voie orale
+T59	etatsosy 165 205	calculs rénaux bilatéraux et récidivants
+T47	anatomie 173 190	rénaux bilatéraux
+T53	anatomie 1806 1826	ventriculaire gauche
+T50	examen 1948 1965	scanner abdominal
+T14	anatomie 1956 1965	abdominal
+T19	date 2080 2090	avril 2004
+T20	examen 214 231	bilan métabolique
+T39	anatomie 2116 2147	supérieure et inférieure gauche
+T32	traitement 2184 2211	chirurgie trans-sphénoidale
+T17	anatomie 2241 2261	anatomo-pathologique
+T31	anatomie 2291 2306	parathyroidiens
+T41	date 2494 2506	janvier 2005
+T25	examen 2534 2550	bilan biologique
+T27	examen 2561 2572	PTH sérique
+T23	examen 2576 2598	bilan phospho-calcique
+T44	valeur 2599 2606	normaux
+T65	valeur 2625 2634	175 ng/ml
+T43	valeur 2647 2653	normal
+T48	valeur 2700 2718	sans particularité
+T46	sosy 2768 2788	récidive lithiasique
+T15	examen 287 319	analyse morpho-constitutionnelle
+T3	femme 343 350	calculs
+T60	etatsosy 343 350	calculs
+T10	date 386 399	décembre 2003
+T16	examen 408 415	analyse
+T1	etatsosy 437 461	calcul calcium-dépendant
+T9	valeur 669 679	1.46mmol/l
+T24	examen 634 650	bilan biologique
+T8	date 70 74	1998
+T11	valeur 714 725	2.73 mmol/l
+T51	examen 819 846	scintigraphie au Sesta-MIBI
+T64	tumeur 866 920	nodules parathyroidiens supérieur et inférieur gauches
+T63	anatomie 874 920	parathyroidiens supérieur et inférieur gauches
+T7	tumeur 927 956	nodule froid thyroidien droit
+T37	anatomie 940 956	thyroidien droit
+T33	examen 989 1001	consultation
+T5	genre 0 6	Madame
+A1	genre T5 féminin
+T21	femme 34 53	maladie lithiasique
+T12	valeur 687 696	123 pg/ml
+T22	valeur 773 779	390 mg
+T26	examen 698 711	calcium total
+T29	examen 681 684	PTH
+T30	examen 652 666	calcium ionisé
+T34	examen 727 739	phosphorémie
+T36	valeur 742 745	0.9
+T42	examen 747 770	calciurie des 24 heures
+T49	traitement 93 124	lithotripsies extra corporelles
+T52	traitement 130 159	néphrolithotomies percutanées
+T55	traitement 380 384	NLPC
+#1	AnnotatorNotes T55	néphrolithotomie percutanée
+T2	femme 165 205	calculs rénaux bilatéraux et récidivants
+T28	endocriniennes 570 603	hyperparathyroidie primaire (HPP)
+T56	endocriniennes 607 610	HPP
+T40	anatomie 796 812	parathyroidienne
+T57	examen 784 812	échographie parathyroidienne
+T62	endocriniennes 1036 1039	HPP
+T66	anatomie 1225 1237	hypophysaire
+T38	traitement 2153 2174	thyroidectomie totale
+T45	traitement 2097 2147	parathyroidectomie supérieure et inférieure gauche
+T58	examen 2234 2261	examen anatomo-pathologique
+T69	cardiovasculaires 1775 1778	HTA
+T70	cardiovasculaires 1793 1826	hypertrophie ventriculaire gauche
+T71	respiratoire 1188 1215	syndrome d'apnée du sommeil
+T72	nerveux 1188 1215	syndrome d'apnée du sommeil
+T73	respiratoire 1831 1858	syndrome d'apnée du sommeil
+T74	nerveux 1831 1858	syndrome d'apnée du sommeil
+T75	osteomusculaires 1517 1528	Acromégalie
+T76	nerveux 1517 1528	Acromégalie
+T77	endocriniennes 1517 1528	Acromégalie
+T78	osteomusculaires 1932 1943	acromégalie
+T80	nerveux 1932 1943	acromégalie
+T81	endocriniennes 1932 1943	acromégalie
+T82	sosy 1989 2018	syndrome tumoral pancréatique
+T83	sosy 2022 2050	syndrome tumoral surrénalien
+T84	anatomie 2039 2050	surrénalien
+T85	anatomie 2006 2018	pancréatique
+A2	assertion T82 absent
+A3	assertion T83 absent
+T86	nerveux 1865 1890	syndrome du canal carpien
+T87	blessures 1865 1890	syndrome du canal carpien
+T88	sosy 1865 1890	syndrome du canal carpien
+T89	sosy 1831 1858	syndrome d'apnée du sommeil
+T90	sosy 1784 1826	discrète hypertrophie ventriculaire gauche
+T61	sosy 1775 1778	HTA
+T91	sosy 1913 1943	complications de l'acromégalie
+T92	anatomie 2194 2211	trans-sphénoidale
+T93	date 2215 2229	septembre 2004
+T35	sosy 1048 1078	syndrome dysmorphique clinique
+T94	nutritionnelles 1121 1151	diabète non insulino-dépendant
+T95	tumeur 1621 1671	Néoplasie Endocrinienne Multiple de type 1 (NEM 1)
+T96	endocriniennes 1621 1671	Néoplasie Endocrinienne Multiple de type 1 (NEM 1)
+T97	genetique 1621 1671	Néoplasie Endocrinienne Multiple de type 1 (NEM 1)
+T98	tumeur 2282 2306	adénomes parathyroidiens
+T99	tumeur 2335 2354	adénome somatotrope
+T100	nerveux 2335 2354	adénome somatotrope
+T101	endocriniennes 2335 2354	adénome somatotrope
+A4	assertion T46 absent
+T79	sosy 2735 2751	reliquat tumoral
+A5	assertion T79 absent
+T102	examen 2677 2693	IRM hypophysaire
+T103	anatomie 2681 2693	hypophysaire
+T104	anatomie 2411 2419	thyroide
+T105	examen 2608 2612	IgF1
+T106	examen 1353 1357	IgF1
+T107	valeur 1366 1375	389 ng/ml
+T108	sosy 1156 1181	syndrome du canal carpien
+T109	nerveux 1156 1181	syndrome du canal carpien
+T110	blessures 1156 1181	syndrome du canal carpien
+T111	sosy 1188 1215	syndrome d'apnée du sommeil
+T112	examen 2638 2646	cycle GH
+T113	examen 464 474	Wheddelite
+T114	examen 480 491	Carbapatite
+T115	examen 499 521	Phosphate Octocalcique
+T116	valeur 475 478	60%
+T117	valeur 492 495	20%
+T118	valeur 522 525	10%
+T119	valeur 1286 1303	10 mm de diamètre
+T120	sosy 165 205	calculs rénaux bilatéraux et récidivants
+T121	endocriniennes 866 920	nodules parathyroidiens supérieur et inférieur gauches
+T122	endocriniennes 927 956	nodule froid thyroidien droit
+T123	genetique 1048 1078	syndrome dysmorphique clinique
+T124	osteomusculaires 1048 1078	syndrome dysmorphique clinique
+T125	endocriniennes 1561 1587	pathologies endocriniennes
+T126	etatsosy 1784 1826	discrète hypertrophie ventriculaire gauche
+T127	endocriniennes 2282 2306	adénomes parathyroidiens
+T128	frequence 91 92	8
+T129	frequence 128 129	2
+T130	anatomie 113 124	corporelles
+A6	assertion T20 absent
+T131	sosy 464 478	Wheddelite 60%
+T132	sosy 480 495	Carbapatite 20%
+T133	sosy 499 525	Phosphate Octocalcique 10%
+T134	pathologie 570 603	hyperparathyroidie primaire (HPP)
+A7	assertion T134 possible
+T135	sosy 652 679	calcium ionisé : 1.46mmol/l
+T136	sosy 681 696	PTH : 123 pg/ml
+T137	sosy 698 725	calcium total : 2.73 mmol/l
+T138	sosy 727 745	phosphorémie : 0.9
+T139	sosy 747 779	calciurie des 24 heures : 390 mg
+T140	moment 761 770	24 heures
+T141	anatomie 1168 1181	canal carpien
+T142	sosy 1258 1303	processus intra-sellaire de 10 mm de diamètre
+T143	sosy 1309 1333	extension supra-sellaire
+A8	assertion T143 absent
+T144	anatomie 1268 1282	intra-sellaire
+T145	anatomie 1319 1333	supra-sellaire
+T146	examen 1335 1349	Biologiquement
+T147	sosy 1353 1375	IgF1 était à 389 ng/ml
+T148	sosy 1381 1444	hormone de croissance (STH ou GH) était élevée et non-freinable
+T149	examen 1381 1414	hormone de croissance (STH ou GH)
+T150	valeur 1421 1427	élevée
+T151	examen 1451 1474	épreuve d'hyperglycémie
+T152	anatomie 1573 1587	endocriniennes
+T153	anatomie 1631 1644	Endocrinienne
+T154	sosy 1696 1771	mutation de la protéine A 541 T au niveau de l'Exon 10 du gène de la Ménine
+T155	anatomie 1711 1727	protéine A 541 T
+T156	anatomie 1743 1750	Exon 10
+T157	anatomie 1754 1771	gène de la Ménine
+T158	anatomie 1877 1890	canal carpien
+T159	sosy 2362 2390	élément suspect de malignité
+A9	assertion T159 absent
+T160	sosy 2421 2487	multi-hétéro nodulaire avec remaniements fibreux et inflammatoires
+T161	sosy 2561 2606	PTH sérique et bilan phospho-calcique normaux
+T162	anatomie 2565 2572	sérique
+T163	sosy 2608 2634	IgF1 normalisé à 175 ng/ml
+T164	sosy 2638 2673	cycle GH normal freinable sous HGPO
+T165	examen 2669 2673	HGPO
+T166	sosy 2677 2718	IRM hypophysaire était sans particularité
+T167	pathologie 34 53	maladie lithiasique
+T168	sosy 343 350	calculs
+T169	pathologie 607 610	HPP
+T170	sosy 437 461	calcul calcium-dépendant
+T171	pathologie 1036 1039	HPP
+T172	pathologie 1093 1116	hypertension artérielle
+T173	pathologie 1121 1151	diabète non insulino-dépendant
+T174	sosy 1517 1528	Acromégalie
+T175	pathologie 1561 1587	pathologies endocriniennes
+T176	pathologie 1621 1671	Néoplasie Endocrinienne Multiple de type 1 (NEM 1)
+T177	pathologie 2282 2306	adénomes parathyroidiens
+T178	pathologie 2335 2354	adénome somatotrope

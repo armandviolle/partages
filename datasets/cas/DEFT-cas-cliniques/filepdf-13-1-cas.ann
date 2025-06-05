@@ -1,0 +1,6 @@
+T1	age 13 19	17 ans
+T2	genre 887 897	Le patient
+A1	genre T2 masculin
+T3	origine 83 179	des signes d’infection urinaire évoluant depuis 15 jours dans un contexte fébrile (fièvre à 39°)
+T4	issue 1214 1364	L’évolution était marquée par une apyrexie deux jours après le drainage, et une restitution ad integrum de la prostate sur le TDM réalisé après 2 mois
+A2	issue T4 guérison

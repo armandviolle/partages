@@ -1,0 +1,6 @@
+T1	genre 25 33	fillette
+T2	age 42 48	12 ans
+A1	genre T1 féminin
+T3	origine 345 378	l’installation d’une tétraparésie
+T4	issue 2494 2536	La scintigraphie n’a pas montré d’anomalie
+A2	issue T4 amélioration

@@ -1,0 +1,12 @@
+T7	C0036140 26 30	sels
+#7	AnnotatorNotes T7	"C0036140", "Salts", "Chemical Viewed Structurally" ,"CHEM"
+T8	C0037638 319 326	solvant
+#8	AnnotatorNotes T8	"C0037638", "Solvents", "Indicator Reagent or Diagnostic Aid" ,"CHEM"
+T9	C0369760 295 310	acide organique
+#9	AnnotatorNotes T9	"C0369760", "Organic acid", "Organic Chemical" ,"CHEM"
+T10	C0026162 281 288	minéral
+#10	AnnotatorNotes T10	"C0026162", "Minerals", "Inorganic Chemical" ,"CHEM"
+T11	C0001128 275 280	acide
+#11	AnnotatorNotes T11	"C0001128", "Acids", "Chemical" ,"CHEM"
+T12	C1522240 0 7	Procédé
+#12	AnnotatorNotes T12	"C1522240", "Process", "Phenomenon or Process" ,"PHEN"

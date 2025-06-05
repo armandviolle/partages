@@ -1,0 +1,6 @@
+T1	age 22 28	38 ans
+T2	genre 2680 2690	Le patient
+T3	issue 2691 2697	décède
+A1	genre T2 masculin
+A2	issue T3 décès
+T4	origine 96 300	s’injecte volontairement par voie intraveineuse 5 g de pentobarbital et 5 mg de dexmédétomidine (Dexdomitor ), deux produits qu’il utilise dans son cabinet pour euthanasier ou anesthésier chiens et chats.

@@ -1,0 +1,6 @@
+T1	age 12 18	26 ans
+T2	genre 3 8	homme
+A1	genre T2 masculin
+T3	origine 209 287	une dermatose prurigineuse du visage résistante à plusieurs traitements locaux
+T4	issue 840 928	L’évolution était marquée par une guérison clinique obtenue après un recul de trois mois
+A2	issue T4 guérison

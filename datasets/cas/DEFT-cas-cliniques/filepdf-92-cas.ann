@@ -1,0 +1,6 @@
+T1	genre 543 553	Le patient
+T2	age 7 13	71 ans
+A1	genre T1 masculin
+T3	issue 5009 5069	le patient était asymptomatique avec une échographie normale
+A2	issue T3 guérison
+T4	origine 1251 1333	Une pyélonéphrite aiguë droite apparaissait dans les suites opératoires immédiates

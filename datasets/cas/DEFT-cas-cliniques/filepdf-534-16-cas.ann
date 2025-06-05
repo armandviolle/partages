@@ -1,0 +1,31 @@
+T4	mode 161 168	injecte
+T6	substance 172 179	produit
+T14	anatomie 228 234	veines
+T2	sosy 282 289	affolée
+T15	dispositif 362 365	lit
+T10	sosy 388 394	violée
+T3	examen 402 442	prélèvement biologique, ni gynécologique
+T1	etatsosy 633 641	douleurs
+T9	substance 731 739	propofol
+T5	substance 757 766	midazolam
+T16	substance 743 752	étomidate
+T17	genre 10 15	fille
+A1	genre T17 féminin
+T18	age 19 25	17 ans
+T19	moment 84 111	La veille de l'intervention
+T20	etatsosy 211 234	brûlure dans les veines
+#1	AnnotatorNotes T20	douleur
+T7	mode 676 685	injection
+T8	substance 771 781	thiopental
+T11	nerveux 703 725	endormissement profond
+T12	nerveux 241 263	ne se souvient de rien
+T13	etatsosy 241 263	ne se souvient de rien
+T21	chimiques 161 179	injecte un produit
+T22	traitement 52 82	opération chirurgicale bénigne
+A2	assertion T3 absent
+T23	traitement 161 179	injecte un produit
+T24	sosy 211 234	brûlure dans les veines
+T25	sosy 241 263	ne se souvient de rien
+T26	sosy 633 641	douleurs
+T27	sosy 703 725	endormissement profond
+A3	assertion T27 non-associé

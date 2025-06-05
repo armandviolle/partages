@@ -1,0 +1,6 @@
+T1	genre 0 9	Un garçon
+T2	age 13 18	4 ans
+A1	genre T1 masculin
+T3	origine 43 120	des douleurs post-mictionnelles, localisées à l'extrémité distale de la verge
+T4	issue 1562 1651	Les suites opératoires furent simples, permettant une sortie au 6ème jour post-opératoire
+A2	issue T4 guérison

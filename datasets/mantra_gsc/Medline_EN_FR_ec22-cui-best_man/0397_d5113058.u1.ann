@@ -1,0 +1,12 @@
+T1	C0376706 57 66	mécanique
+#1	AnnotatorNotes T1	"C0376706", "Mechanics", "Natural Phenomenon or Process" ,"PHEN"
+T2	C0013839 13 30	electromyographie
+#2	AnnotatorNotes T2	"C0013839", "Electromyography", "Diagnostic Procedure" ,"PROC"
+T3	C0008972 45 50	étude
+#3	AnnotatorNotes T3	"C0008972", "Clinical Research", "Research Activity" ,"PROC"
+T4	C1269614 67 74	thoraco
+#4	AnnotatorNotes T4	"C1269614", "Entire thorax", "Body Part Organ or Organ Component" ,"ANAT"
+T5	C0086418 104 109	homme
+#5	AnnotatorNotes T5	"C0086418", "Homo sapiens", "Human" ,"LIVB"
+T6	C0697197 75 85	pulmonaire
+#6	AnnotatorNotes T6	"C0697197", "Pulmonaria", "Plant" ,"LIVB"

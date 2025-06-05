@@ -1,0 +1,101 @@
+T1001	anatomie 627 635	vaginale
+T10061	examen 395 408	exam clinique
+T10062	examen 839 863	échographie obstétricale
+T10063	examen 1153 1156	CRP
+T10065	examen 1638 1649	exploration
+T100111	moment 89 103	dans l’enfance
+T100112	moment 809 831	18 h avant l’admission
+T100113	moment 965 991	2 heures avant l’admission
+T100161	valeur 522 527	26 cm
+T100162	valeur 1144 1146	2%
+T100193	sosy 533 564	contractions utérines présentes
+T100194	sosy 715 745	présentation céphalique mobile
+T100197	sosy 1082 1128	nombreux trophozoîtes de plasmodium falciparum
+T100198	sosy 1283 1306	souffrance fœtale aigue
+T100199	sosy 1371 1390	dilatation complète
+T1002	valeur 465 472	38°,5 C
+T1005	examen 475 494	Examen obstétricale
+T1006	anatomie 546 554	utérines
+T1008	anatomie 577 587	cardiaques
+T1009	examen 619 635	touchée vaginale
+T10010	anatomie 641 644	col
+T10011	valeur 680 685	30 %,
+T10012	sosy 641 709	col en voie de centralisation effacé à 30 %, dilaté à un doigt large
+T10013	anatomie 728 738	céphalique
+T10014	anatomie 751 765	poche des eaux
+T10016	examen 956 959	NFS
+T10017	examen 1037 1039	Hb
+T10018	valeur 1042 1046	10,2
+T10020	examen 1130 1141	parasitémie
+T10021	valeur 1167 1173	269,40
+T10022	substance 1214 1224	corticoïde
+T10023	examen 1229 1269	enregistrement du rythme cardiaque fœtal
+T10024	anatomie 1254 1263	cardiaque
+T10025	examen 1523 1528	apgar
+T10026	valeur 1529 1533	8/10
+T10027	valeur 1543 1548	10/10
+T10028	moment 1549 1562	à la 5ème min
+T10029	examen 1654 1665	parasitèmie
+T10030	valeur 1666 1671	< 0,1
+T20041	valeur 1515 1521	1100 g
+T200101	mode 1425 1435	voie basse
+T200191	pathologie 74 88	accès palustre
+T200192	sosy 305 342	rupture prématuré des membranes (RPM)
+T200195	sosy 751 771	poche des eaux rompu
+T200196	sosy 1001 1031	anémie hypochrome microcytaire
+T2002	sosy 118 139	Fausse couche précoce
+T2004	duree 174 214	33 semaines d’aménorrhées (SA) + 2 jours
+T2005	pathologie 250 264	accès palustre
+T2006	sosy 279 301	accouchement prématuré
+T2007	anatomie 327 336	membranes
+T2008	moment 343 350	à 33 SA
+T2009	sosy 429 439	consciente
+T20010	sosy 441 453	normo tendue
+T20011	sosy 455 472	fébrile à 38°,5 C
+T20014	examen 504 519	hauteur utérine
+T20015	sosy 504 527	hauteur utérine à 26 cm
+T20017	examen 570 613	bruits cardiaques fœtaux perçu et réguliers
+T20024	sosy 777 800	issus de liquide claire
+T20025	sosy 802 805	RPM
+T20026	examen 886 902	biométrie fœtale
+T20027	examen 922 940	âge gestationnelle
+T20028	valeur 944 949	29 SA
+T20029	sosy 922 949	âge gestationnelle de 29 SA
+T20033	sosy 1053 1067	goutte épaisse
+T20034	sosy 1130 1146	parasitémie à 2%
+T20036	sosy 1153 1173	CRP réalisé : 269,40
+T20037	dose 1197 1210	première dose
+T20042	examen 1496 1514	poids de naissance
+T20043	sosy 1496 1521	poids de naissance 1100 g
+T20049	sosy 1654 1671	parasitèmie < 0,1
+T20050	anatomie 512 519	utérine
+T20051	valeur 695 709	un doigt large
+T20052	sosy 1037 1046	Hb à 10,2
+T20053	sosy 1523 1548	apgar 8/10 passer à 10/10
+#1	AnnotatorNotes T200191	paludisme
+A1	norme T1002 haut
+A2	norme T20041 bas
+A3	etat T200191 passé
+A4	assertion T2006 hypothétique
+A5	assertion T200192 hypothétique
+A6	assertion T100198 non-associé
+A7	assertion T10023 non-associé
+A8	assertion T20043 non-associé
+A9	assertion T20042 non-associé
+A10	assertion T20053 non-associé
+A11	assertion T10025 non-associé
+A12	assertion T10065 non-associé
+A13	assertion T10029 non-associé
+A14	assertion T20049 non-associé
+T200197	hemopathies 1001 1031	anémie hypochrome microcytaire
+T1	parasitaires 74 88	accès palustre
+T2	femme 118 139	Fausse couche précoce
+T3	parasitaires 250 264	accès palustre
+T4	parasitaires 1082 1128	nombreux trophozoîtes de plasmodium falciparum
+T5	etatsosy 455 472	fébrile à 38°,5 C
+T6	age 12 18	28 ans
+T7	genre 0 8	Patiente
+A15	genre T7 féminin
+T8	origine 247 350	un accès palustre avec menace d’accouchement prématuré et rupture prématuré des membranes (RPM) à 33 SA
+T9	issue 1392 1486	l’accouchement s’est déroulé par voie basse donnant naissance à un nouveau-né de sexe masculin
+A16	issue T9 amélioration

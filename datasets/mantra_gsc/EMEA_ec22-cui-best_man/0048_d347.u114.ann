@@ -1,0 +1,10 @@
+T6	C0020155 19 30	volontaires
+#6	AnnotatorNotes T6	"C0020155", "Human Volunteers", "Population Group" ,"LIVB"
+T8	C0008972 4 9	étude
+#8	AnnotatorNotes T8	"C0008972", "Clinical Research", "Research Activity" ,"PROC"
+T9	C2317227 120 153	administrée en bolus intraveineux
+#9	AnnotatorNotes T9	"C2317227", "Administration of intravenous fluid bolus", "Therapeutic or Preventive Procedure" ,"PROC"
+T28	C0020651 59 84	hypotension orthostatique
+#28	AnnotatorNotes T28	"C0020651", "Hypotension, Orthostatic", "Finding" ,"DISO"
+T3	C1997894 19 30	volontaires
+#3	AnnotatorNotes T3	"C1997894", "Clinical trial participant (person)", "Population Group" ,"LIVB"

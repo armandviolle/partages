@@ -1,0 +1,212 @@
+T9	substance 1053 1056	MMF
+T10	substance 1228 1237	rituximab
+T11	substance 1431 1445	acétaminophène
+T12	substance 1477 1492	diphenhydramine
+T13	substance 1581 1590	rituximab
+T14	substance 1619 1628	rituximab
+T31	substance 2180 2189	rituximab
+T29	substance 2298 2312	oxygène à 40 %
+T32	substance 2359 2368	rituximab
+T26	substance 2419 2433	hydrocortisone
+T23	substance 2478 2493	diphenhydramine
+T34	substance 2518 2528	salbutamol
+T35	substance 2875 2885	salbutamol
+T24	substance 2926 2941	diphenhydramine
+T33	substance 3075 3084	rituximab
+T27	substance 3326 3344	méthylprednisolone
+T25	substance 3372 3387	diphenhydramine
+T22	substance 3599 3602	MMF
+T15	substance 3678 3687	rituximab
+T16	substance 3887 3896	rituximab
+T18	substance 4021 4024	MMF
+T19	substance 4075 4085	prednisone
+T5	substance 771 789	méthylprednisolone
+T6	substance 839 854	diphenhydramine
+T7	substance 951 978	mofétil mycophénolate (MMF)
+T36	traitement 415 429	plasmaphérèses
+T37	traitement 544 557	plasmaphérèse
+T38	sosy 581 590	urticaire
+T39	sosy 597 613	œdème généralisé
+T40	sosy 619 631	désaturation
+T41	sosy 638 657	épanchement pleural
+T42	dose 790 795	50 mg
+T43	mode 800 823	voie intraveineuse (IV)
+T45	dose 855 860	30 mg
+T46	mode 865 872	voie IV
+T47	moment 484 495	Au jour -36
+T48	dose 979 985	500 mg
+T49	mode 990 1000	voie orale
+T50	frequence 1002 1020	deux fois par jour
+T51	moment 876 886	Au jour -1
+T52	traitement 1156 1169	plasmaphérèse
+T53	dose 1238 1247	375 mg/m2
+T54	mode 1252 1259	voie IV
+T55	frequence 1272 1292	une fois par semaine
+T56	duree 1293 1316	pendant quatre semaines
+T57	moment 1391 1400	Au jour 0
+T58	dose 1446 1452	300 mg
+T59	mode 1457 1467	voie orale
+T60	mode 1493 1498	30 mg
+T61	mode 1503 1510	voie IV
+T62	dose 1630 1636	375 mg
+T63	substance 1651 1661	NaCl 0,9 %
+T65	dose 1642 1650	187,5 ml
+T66	sosy 1910 1935	difficultés respiratoires
+T67	sosy 1942 1963	serrement de la gorge
+T68	anatomie 1958 1963	gorge
+T28	mode 2167 2176	perfusion
+A3	prise T31 arrêt
+T69	substance 2240 2250	NaCl 0,9 %
+T73	dose 2434 2440	120 mg
+T74	mode 2445 2452	voie IV
+T75	dose 2494 2499	25 mg
+T76	mode 2504 2511	voie IV
+T77	dose 2529 2536	200 mcg
+T78	mode 2540 2550	inhalation
+T79	dose 2902 2909	200 mcg
+T80	dose 2942 2947	25 mg
+T81	mode 2952 2959	voie IV
+T82	traitement 3020 3033	plasmaphérèse
+T83	traitement 3153 3167	plasmaphérèses
+T84	dose 3305 3322	une dose de 50 mg
+T85	mode 3349 3356	voie IV
+T86	dose 3391 3396	30 mg
+T87	mode 3401 3408	voie IV
+T88	sosy 3711 3734	réaction anaphylactoïde
+A4	prise T15 arrêt
+T89	dose 3877 3882	30 mg
+T90	moment 3983 3993	au jour 44
+T91	dose 4025 4031	500 mg
+T92	mode 4036 4046	voie orale
+T93	frequence 4047 4065	deux fois par jour
+T94	dose 4086 4091	20 mg
+T95	mode 4096 4106	voie orale
+T96	frequence 4107 4125	deux fois par jour
+T97	pathologie 211 256	purpura thrombotique thrombocytopénique (PTT)
+T99	pathologie 161 205	syndrome hémolytique urémique (SHU) atypique
+T101	pathologie 115 144	microangiopathie thrombotique
+T102	moment 267 280	À l’admission
+T103	frequence 395 410	quotidiennement
+T104	sosy 513 557	réaction transfusionnelle à la plasmaphérèse
+T105	sosy 892 918	état est toujours instable
+T106	sosy 1070 1105	insuffisance rénale chronique (IRC)
+T107	anatomie 1083 1089	rénale
+T109	pathologie 1144 1147	SHU
+T111	moment 1700 1706	À 16 h
+T112	mode 1725 1734	perfusion
+T115	moment 1783 1792	à 16 h 15
+T116	moment 1875 1884	à 16 h 20
+T117	anatomie 1922 1935	respiratoires
+T118	examen 1977 2001	fréquence cardiaque (FC)
+T120	valeur 2002 2023	103 battements/minute
+T121	examen 2029 2052	tension artérielle (TA)
+T123	valeur 2053 2064	132/78 mmHg
+T124	examen 2070 2097	fréquence respiratoire (FR)
+T126	valeur 2098 2120	28 respirations/minute
+T127	examen 2128 2154	saturation en oxygène (O2)
+T128	valeur 2158 2162	96 %
+T130	moment 2453 2462	à 16 h 28
+T131	moment 2551 2560	à 16 h 45
+T132	moment 2562 2568	À 17 h
+T133	examen 2723 2725	FC
+T134	valeur 2726 2747	153 battements/minute
+T135	examen 2753 2755	TA
+T136	valeur 2756 2767	136/80 mmHg
+T137	examen 2773 2775	FR
+T138	valeur 2776 2798	20 respirations/minute
+T139	examen 2806 2822	saturation en O2
+T140	valeur 2826 2830	98 %
+T141	moment 2993 3002	à 17 h 15
+T142	moment 3006 3015	à 22 h 30
+T143	mode 3062 3071	perfusion
+T144	traitement 3414 3435	échanges plasmatiques
+T145	moment 3603 3632	huit mois après son admission
+T146	substance 3139 3142	AcM
+#1	AnnotatorNotes T146	anticorps monoclonaux
+A5	assertion T97 hypothétique
+T149	pathologie 300 308	allergie
+A7	assertion T149 absent
+T152	substance 692 705	prémédication
+A8	norme T134 haut
+T150	substance 3204 3217	prémédication
+T151	duree 3662 3674	quatre doses
+T153	frequence 1090 1099	chronique
+T154	moment 94 105	au jour -42
+T155	duree 3470 3480	trois mois
+T156	mode 3853 3862	perfusion
+T157	sosy 3273 3298	réaction transfusionnelle
+T159	mode 2860 2871	inhalations
+T1	substance 330 347	aucune médication
+T2	substance 466 482	corticostéroïdes
+T3	frequence 453 461	régulier
+T4	traitement 733 752	échange plasmatique
+T17	dose 759 767	une dose
+T20	dose 827 835	une dose
+T8	moment 1183 1199	dès le lendemain
+T21	substance 1516 1529	prémédication
+T30	moment 1592 1601	À 14 h 45
+T44	mode 1606 1615	perfusion
+T64	moment 1814 1832	Cinq minutes après
+T70	dose 2408 2416	une dose
+T71	dose 2466 2474	une dose
+T72	sosy 2574 2583	symptômes
+A1	assertion T72 absent
+T98	moment 2665 2679	À ce moment-là
+T100	examen 2685 2698	signes vitaux
+T108	dose 2848 2871	Deux autres inhalations
+T110	dose 2887 2898	dose totale
+T113	dose 2914 2922	une dose
+A2	prise T146 arrêt
+T122	moment 3546 3561	le dernier mois
+T125	substance 3786 3796	médication
+T129	dose 3821 3832	dose totale
+T147	substance 4006 4016	médication
+T148	valeur 48 53	30 kg
+T160	valeur 55 61	1,30 m
+T161	valeur 63 70	1,04 m2
+T164	substance 2656 2663	oxygène
+T165	moment 3042 3084	deux jours après la perfusion de rituximab
+A6	prise T125 arrêt
+T162	sosy 1977 2023	fréquence cardiaque (FC) 103 battements/minute
+T163	sosy 2029 2064	tension artérielle (TA) 132/78 mmHg
+T166	sosy 2070 2120	fréquence respiratoire (FR) 28 respirations/minute
+T167	sosy 2128 2162	saturation en oxygène (O2) de 96 %
+T168	sosy 2723 2747	FC 153 battements/minute
+T169	sosy 2753 2767	TA 136/80 mmHg
+T170	sosy 2773 2798	FR 20 respirations/minute
+T171	sosy 2806 2846	saturation en O2 de 98 % à l’air ambiant
+T172	valeur 1751 1762	30 mg/heure
+T173	valeur 1687 1698	15 mg/heure
+T174	valeur 1771 1782	45 mg/heure
+T175	valeur 2253 2264	50 ml/heure
+T176	anatomie 650 657	pleural
+T177	anatomie 741 752	plasmatique
+T178	anatomie 1987 1996	cardiaque
+T179	anatomie 2037 2047	artérielle
+T180	anatomie 2080 2092	respiratoire
+T181	mode 2316 2325	ventimask
+T114	dose 3360 3368	une dose
+T119	anatomie 3423 3435	plasmatiques
+T158	hemopathies 115 144	microangiopathie thrombotique
+T183	homme 161 205	syndrome hémolytique urémique (SHU) atypique
+T184	hemopathies 161 205	syndrome hémolytique urémique (SHU) atypique
+T185	peau 581 590	urticaire
+T187	respiratoire 638 657	épanchement pleural
+T188	homme 1070 1105	insuffisance rénale chronique (IRC)
+T189	homme 1144 1147	SHU
+T190	hemopathies 1144 1147	SHU
+T191	respiratoire 1910 1935	difficultés respiratoires
+T195	immunitaire 3711 3734	réaction anaphylactoïde
+T182	hemopathies 513 557	réaction transfusionnelle à la plasmaphérèse
+T196	immunitaire 513 557	réaction transfusionnelle à la plasmaphérèse
+T197	immunitaire 581 590	urticaire
+T198	etatsosy 597 613	œdème généralisé
+T186	hemopathies 3273 3298	réaction transfusionnelle
+T192	immunitaire 3273 3298	réaction transfusionnelle
+T193	cardiovasculaires 2723 2747	FC 153 battements/minute
+T194	age 38 46	huit ans
+T199	genre 28 34	garçon
+A9	genre T199 masculin
+T200	origine 111 265	une microangiopathie thrombotique secondaire à un syndrome hémolytique urémique (SHU) atypique avec purpura thrombotique thrombocytopénique (PTT) probable
+T201	issue 3955 4125	Le patient reçoit son congé au jour 44 avec, comme médication, du MMF 500 mg par voie orale deux fois par jour et de la prednisone 20 mg par voie orale deux fois par jour
+A10	issue T201 guérison

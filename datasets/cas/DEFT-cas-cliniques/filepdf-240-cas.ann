@@ -1,0 +1,6 @@
+T1	genre 1178 1187	le malade
+T2	age 12 18	48 ans
+A1	genre T1 masculin
+T3	origine 68 197	lombalgie droite et syndrome bronchique, évoluant dans un contexte d'altération de l'état général avec fièvre et sueurs nocturnes
+T4	issue 2582 2657	L’évolution après 2 ans est restée stationnaire sans récidives néoplasiques
+A2	issue T4 stable

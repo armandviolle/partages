@@ -1,0 +1,6 @@
+T1	genre 41 46	homme
+A1	genre T1 masculin
+T2	age 1140 1146	17 ans
+T3	origine 1690 1737	un œdème du visage apparu depuis quelques jours
+T4	issue 7329 7469	Quatre ans après cette seconde greffe allogénique, le patient est en bon état général, bien qu’il subisse une dialyse trois fois par semaine
+A2	issue T4 amélioration

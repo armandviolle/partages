@@ -1,0 +1,17 @@
+T1005	duree 118 125	3 jours
+T2001	sosy 33 45	Masturbation
+T2002	sosy 46 56	Craquement
+T2003	sosy 74 92	déviation du pénis
+T2004	anatomie 87 92	pénis
+T2008	examen 147 168	Pronostic fonctionnel
+T1	date 0 4	1999
+T2	sosy 57 64	douleur
+T3	sosy 65 71	oedème
+A1	assertion T2008 absent
+T4	etatsosy 65 71	oedème
+T5	etatsosy 57 64	douleur
+T6	homme 74 92	déviation du pénis
+T7	age 5 11	22 ans
+T8	genre 87 92	pénis
+A2	genre T8 masculin
+T9	origine 46 92	Craquement douleur oedème + déviation du pénis

@@ -1,0 +1,49 @@
+T1001	anatomie 391 403	sus-vésicale
+T10051	duree 72 88	depuis une année
+T10061	examen 172 187	examen clinique
+T10062	examen 232 269	examen cytobactériologique des urines
+T10063	examen 287 298	échographie
+T10064	examen 305 322	tomodensitométrie
+T100141	traitement 552 557	opéré
+T100142	traitement 620 662	excision totale de l’ouraque, du péritoine
+T100143	traitement 679 720	ablation d’une collerette du dôme vésical
+T100191	sosy 39 62	douleurs hypogastriques
+T100192	sosy 143 167	impériosité mictionnelle
+T100193	sosy 207 226	masse hypogastrique
+T1003	anatomie 48 62	hypogastriques
+T1004	sosy 105 135	pollakiurie nocturne et diurne
+T1005	valeur 276 283	négatif
+T1008	anatomie 511 518	ouraque
+T10010	anatomie 587 594	ouraque
+T10012	anatomie 653 662	péritoine
+T10013	anatomie 694 720	collerette du dôme vésical
+T1002	sosy 847 865	signe de malignité
+T200161	valeur 420 436	2 cm de diamètre
+T200162	valeur 598 614	2 cm de diamètre
+T200194	sosy 369 480	formation liquidienne sus-vésicale bien limitée de 2 cm de diamètre ne se rehaussant pas après injection de PDC
+T2005	moment 117 125	nocturne
+T2006	moment 129 135	diurne
+T2007	anatomie 263 269	urines
+T2008	sosy 232 283	examen cytobactériologique des urines était négatif
+T2009	substance 477 480	PDC
+T20010	mode 464 473	injection
+T20011	sosy 500 518	kyste de l’ouraque
+T20013	sosy 576 614	kyste de l’ouraque de 2 cm de diamètre
+T20015	anatomie 641 648	ouraque
+T20017	examen 784 794	histologie
+A1	assertion T1002 absent
+A2	norme T1005 normal
+A3	assertion T100193 absent
+T200195	etatsosy 39 62	douleurs hypogastriques
+T200196	etatsosy 105 135	pollakiurie nocturne et diurne
+T200197	tumeur 500 518	kyste de l’ouraque
+T200198	tumeur 576 594	kyste de l’ouraque
+T1	homme 105 135	pollakiurie nocturne et diurne
+T2	homme 143 167	impériosité mictionnelle
+T3	etatsosy 143 167	impériosité mictionnelle
+T4	genre 6 11	homme
+T5	age 15 21	20 ans
+A4	genre T4 masculin
+T6	origine 39 167	douleurs hypogastriques évoluant depuis une année associées à une pollakiurie nocturne et diurne et une impériosité mictionnelle
+T7	issue 820 865	sans mettre en évidence de signe de malignité
+A5	issue T7 guérison

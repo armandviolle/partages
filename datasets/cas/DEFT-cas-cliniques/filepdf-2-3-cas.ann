@@ -1,0 +1,55 @@
+T8	examen 426 450	scanner abdomino-pelvien
+T9	anatomie 434 450	abdomino-pelvien
+T10	valeur 948 958	100 mmol/L
+T11	examen 236 246	créatinine
+T12	examen 913 926	créatininémie
+T18	examen 571 582	température
+T19	examen 298 309	échographie
+T2	pathologie 32 50	cancer prostatique
+T20	anatomie 39 50	prostatique
+T21	sosy 56 81	métastases ganglionnaires
+T22	anatomie 67 81	ganglionnaires
+T23	traitement 102 136	résection endoscopique prostatique
+T24	anatomie 125 136	prostatique
+T25	traitement 142 153	pulpectomie
+T27	sosy 182 246	insuffisance rénale aiguë obstructive à 330 mmol/l de créatinine
+T28	anatomie 195 201	rénale
+T29	valeur 222 232	330 mmol/l
+T30	sosy 252 258	fièvre
+T31	sosy 262 293	urétérohydronéphrose bilatérale
+T33	sosy 314 345	compression urétérale pelvienne
+T34	anatomie 326 345	urétérale pelvienne
+T35	sosy 368 410	envahissement ganglionnaire iliaque massif
+T36	anatomie 382 403	ganglionnaire iliaque
+T17	traitement 456 490	néphrostomie percutanée bilatérale
+T39	anatomie 558 564	rénale
+T41	sosy 683 690	sténose
+T42	sosy 766 815	réaggravation en 3 semaines de la fonction rénale
+T44	anatomie 809 815	rénale
+A3	norme T10 normal
+A4	norme T29 haut
+T48	duree 583 597	en trois jours
+T49	traitement 740 753	néphrostomies
+#1	AnnotatorNotes T49	mise en place d'une dérivation des cavités rénales avec l'extérieur
+T1	anatomie 469 479	percutanée
+T4	examen 549 564	fonction rénale
+T5	duree 780 793	en 3 semaines
+T6	examen 800 815	fonction rénale
+T13	duree 973 982	de 3 mois
+T14	traitement 603 628	montée de sondes double J
+T15	traitement 696 710	descente de JJ
+T16	traitement 821 879	JJ standards ont été remplacées par des sondes JJ trèflées
+T3	examen 967 972	suivi
+T7	tumeur 32 50	cancer prostatique
+T26	homme 32 50	cancer prostatique
+T32	tumeur 56 81	métastases ganglionnaires
+T37	endocriniennes 56 81	métastases ganglionnaires
+T38	etatsosy 252 258	fièvre
+T40	homme 262 293	urétérohydronéphrose bilatérale
+T43	homme 683 690	sténose
+T45	genre 3 10	patient
+T46	age 14 20	78 ans
+A1	genre T45 masculin
+T47	origine 182 309	insuffisance rénale aiguë obstructive à 330 mmol/l de créatinine avec fièvre et urétérohydronéphrose bilatérale à l'échographie
+T50	issue 880 982	ce qui a permis de normaliser la créatininémie et de la maintenir à 100 mmol/L avec un suivi de 3 mois
+A2	issue T50 amélioration

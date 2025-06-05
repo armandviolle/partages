@@ -1,0 +1,6 @@
+T1	genre 0 8	Monsieur
+T2	age 21 27	20 ans
+T3	issue 2428 2434	décédé
+A1	issue T3 décès
+A2	genre T1 masculin
+T4	origine 46 69	une masse rénale gauche

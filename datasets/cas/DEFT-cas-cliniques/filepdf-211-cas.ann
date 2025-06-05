@@ -1,0 +1,126 @@
+T12	examen 1449 1469	examen macroscopique
+T15	examen 182 204	échographie abdominale
+T17	anatomie 194 204	abdominale
+T22	examen 2721 2775	contrôle (clinique, biologique et tomodensitométrique)
+T14	examen 326 358	scanner abdominal sans injection
+T16	anatomie 334 343	abdominal
+T10	examen 988 994	examen
+T23	examen 59 64	bilan
+T24	examen 147 175	bilan de médecine du travail
+T26	examen 1132 1147	bilan hépatique
+T27	examen 1089 1105	bilan biologique
+T29	examen 1320 1338	examen extemporané
+T30	examen 1823 1842	examen histologique
+T31	examen 2512 2529	immunohistochimie
+T32	examen 1112 1130	ionogramme sanguin
+T33	valeur 1170 1176	normal
+T34	examen 856 869	radiologiques
+T35	examen 943 955	radiologique
+T42	examen 1181 1199	tension artérielle
+T4	sosy 71 94	hypertension artérielle
+T5	anatomie 84 94	artérielle
+T7	sosy 100 123	hématurie microscopique
+T8	sosy 220 320	masse tissulaire rénale gauche de 45 mm de diamètre, iso-échogène par rapport au parenchyme adjacent
+T18	anatomie 226 250	tissulaire rénale gauche
+T20	sosy 400 551	lésion tissulaire médio-rénale gauche, bien limitée, de 60 mm dans son grand axe, spontanément isodense, se rehaussant discrètement de manière homogène
+T21	anatomie 407 437	tissulaire médio-rénale gauche
+T41	sosy 614 660	tumeur faisait saillie dans la cavité pyélique
+T43	anatomie 645 660	cavité pyélique
+T44	sosy 667 707	dilatation des cavités pyélo-calicielles
+A3	assertion T44 absent
+T45	anatomie 682 707	cavités pyélo-calicielles
+T46	sosy 739 816	petite formation nodulaire corticale moyenne et externe du rein controlatéral
+T47	anatomie 798 816	rein controlatéral
+T49	sosy 877 890	tumeur gauche
+T51	sosy 928 955	autre anomalie radiologique
+A4	assertion T51 absent
+T52	sosy 1013 1038	tumeur maligne bilatérale
+T55	traitement 1059 1068	chirurgie
+T25	examen 1107 1110	NFS
+A5	norme T33 normal
+T38	valeur 1209 1213	13/7
+A6	norme T38 normal
+T39	traitement 1220 1247	néphréctomie élargie gauche
+T57	traitement 1255 1274	tumorectomie droite
+T11	sosy 1393 1402	malignité
+A7	assertion T11 absent
+T59	sosy 1421 1442	néphrome néphronogène
+T60	sosy 1498 1612	tumeur rénale gauche de 5 cm de diamètre, faisant hernie dans les cavités pyélocalicielles sans envahir leur paroi
+T61	anatomie 1505 1518	rénale gauche
+T62	anatomie 1564 1588	cavités pyélocalicielles
+T63	anatomie 1607 1612	paroi
+T64	sosy 1620 1674	tumeur rénale droite de 1,5 cm de grand axe, corticale
+T65	anatomie 1627 1640	rénale droite
+T68	sosy 1765 1772	nécrose
+A8	assertion T68 absent
+T70	sosy 1889 2012	prolifération de petites cellules d’aspect “blastémateux”, au rapport nucléo-cytoplasmique élevé et au noyau rond ou ovoïde
+T71	anatomie 1906 1922	petites cellules
+T37	examen 1951 1979	rapport nucléo-cytoplasmique
+T74	sosy 2406 2448	tumeur faisait effraction dans le bassinet
+T75	anatomie 2440 2448	bassinet
+T76	sosy 2466 2485	invasion capsulaire
+T77	anatomie 2475 2485	capsulaire
+T78	sosy 2489 2507	embols vasculaires
+T79	anatomie 2496 2507	vasculaires
+A10	assertion T78 absent
+A11	assertion T76 absent
+T80	examen 2531 2547	Cytokératine KL1
+T81	examen 2549 2558	Vimentine
+T82	examen 2560 2563	CK7
+T83	examen 2565 2568	EMA
+T84	examen 2572 2576	CD56
+T86	sosy 2614 2668	tumeurs avaient les caractères morphologiques d’un A.M
+T87	valeur 254 259	45 mm
+T88	valeur 456 480	60 mm dans son grand axe
+T89	valeur 901 918	11 mm de diamètre
+T90	valeur 1644 1663	1,5 cm de grand axe
+T93	examen 1153 1162	hémostase
+T94	valeur 1522 1538	5 cm de diamètre
+T95	anatomie 1713 1718	tissu
+T97	sosy 2384 2398	calcifications
+T98	anatomie 2062 2070	cellules
+T99	sosy 2099 2114	cavité kystique
+T102	anatomie 2132 2140	papilles
+T103	anatomie 2269 2277	papilles
+T104	sosy 1713 1758	tissu homogène blanchâtre, d’aspect feuilleté
+T66	sosy 2119 2339	volumineuses papilles à axe oedématié, formant des zones plus massives au sein desquelles se distinguaient des tubes de petite taille, des acini, des papilles à axe conjonctif grêle et dense, des structures gloméruloïdes
+T1	sosy 23 41	antécédent notable
+A1	assertion T1 absent
+T2	anatomie 301 311	parenchyme
+T3	sosy 1089 1176	bilan biologique (NFS, ionogramme sanguin, bilan hépatique et d’hémostase) était normal
+T6	sosy 1181 1213	tension artérielle était de 13/7
+T9	sosy 1682 1689	tumeurs
+T28	sosy 2033 2045	anisocaryose
+A2	assertion T28 absent
+T36	sosy 2049 2056	mitoses
+A12	assertion T36 absent
+T40	anatomie 2344 2350	stroma
+T50	moment 2776 2796	à trois et neuf mois
+T53	sosy 2721 2821	contrôle (clinique, biologique et tomodensitométrique) à trois et neuf mois était sans particularité
+T54	valeur 2803 2821	sans particularité
+T13	anatomie 1138 1147	hépatique
+T19	anatomie 1123 1130	sanguin
+T48	anatomie 1189 1199	artérielle
+T56	cardiovasculaires 71 94	hypertension artérielle
+T58	etatsosy 71 94	hypertension artérielle
+T67	femme 100 123	hématurie microscopique
+T69	etatsosy 100 123	hématurie microscopique
+T72	tumeur 614 620	tumeur
+T73	tumeur 877 890	tumeur gauche
+T85	tumeur 1013 1038	tumeur maligne bilatérale
+T91	tumeur 1421 1442	néphrome néphronogène
+T92	femme 1421 1442	néphrome néphronogène
+T96	tumeur 1498 1518	tumeur rénale gauche
+T100	femme 1498 1518	tumeur rénale gauche
+T101	tumeur 1682 1689	tumeurs
+T105	tumeur 1620 1640	tumeur rénale droite
+T106	femme 1620 1640	tumeur rénale droite
+T107	tumeur 2406 2412	tumeur
+T108	tumeur 2614 2621	tumeurs
+T109	tumeur 2099 2114	cavité kystique
+T110	genre 0 3	Mme
+T111	age 10 16	51 ans
+A9	genre T110 féminin
+T112	origine 71 123	hypertension artérielle avec hématurie microscopique
+T113	issue 2671 2821	Les suites post-opératoires étaient simples et le contrôle (clinique, biologique et tomodensitométrique) à trois et neuf mois était sans particularité
+A13	issue T113 guérison

@@ -1,0 +1,6 @@
+T1	genre 0 8	Patiente
+T2	age 17 23	14 ans
+T3	origine 37 53	genuvalgum droit
+A1	genre T1 féminin
+T4	issue 3313 3380	Actuellement elle marche correctement avec bonne évolution générale
+A2	issue T4 amélioration

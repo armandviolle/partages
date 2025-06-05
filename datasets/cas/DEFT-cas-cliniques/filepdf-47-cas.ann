@@ -1,0 +1,85 @@
+T1001	anatomie 765 781	surrénale gauche
+T1003	anatomie 196 206	abdominale
+T1006	anatomie 675 686	rein gauche
+T1008	anatomie 1073 1082	surrénale
+T1009	anatomie 941 950	surrénale
+T10062	examen 210 225	examen clinique
+T10066	examen 702 719	tomodensitométrie
+T10067	examen 1001 1012	exploration
+T10068	examen 1331 1349	étude histologique
+T10069	examen 1450 1477	surveillance radio-clinique
+T100111	moment 1478 1486	à 3 mois
+T100142	traitement 1157 1172	surrénalectomie
+T100143	traitement 1275 1287	intervention
+T100182	pathologie 1394 1434	phéochromocytome bénin de forme kystique
+T100199	sosy 1112 1152	pic hypertensif de 24 mmHg de systolique
+T10010	examen 1235 1237	TA
+T10014	valeur 232 251	sans particularités
+T10022	traitement 1087 1097	dissection
+T10023	valeur 1131 1138	24 mmHg
+T10024	examen 1142 1152	systolique
+T10025	valeur 1499 1511	satisfaisant
+T2002	anatomie 406 416	abdominale
+T2004	anatomie 507 511	rein
+T2005	anatomie 550 567	queue du pancréas
+T2007	anatomie 114 130	surrénale gauche
+T20061	examen 184 206	échographie abdominale
+T20063	examen 288 311	tension artérielle (TA)
+T20064	examen 394 416	échographie abdominale
+T20065	examen 571 574	UIV
+T200141	traitement 968 989	opérée par lombotomie
+T200161	valeur 337 344	normale
+T200162	valeur 360 367	12 mmHg
+T200163	valeur 383 389	6 mmHg
+T200164	valeur 800 817	12 cm de diamètre
+T200181	pathologie 31 69	antécédents pathologiques particuliers
+T200191	sosy 93 130	masse kystique de la surrénale gauche
+T200192	sosy 255 283	état général était excellent
+T200193	sosy 430 567	masse kystique située dans le rétropéritoine et développée entre la rate, le rein, l’arrière cavité des épiploons et la queue du pancréas
+T200195	sosy 588 654	sécrétion et une excrétion rénale normale, bilatérale et synchrone
+T200197	sosy 733 817	masse kystique cloisonnée de la surrénale gauche, bien limitée, de 12 cm de diamètre
+T200198	sosy 1030 1082	masse kystique développée aux dépens de la surrénale
+T20011	sosy 210 251	examen clinique était sans particularités
+T20013	frequence 320 330	trois fois
+T20014	examen 347 357	systolique
+T20015	examen 369 380	diastolique
+T20016	anatomie 460 474	rétropéritoine
+T20017	anatomie 498 502	rate
+T20018	anatomie 515 543	arrière cavité des épiploons
+T20019	valeur 622 629	normale
+T20020	anatomie 615 621	rénale
+T20021	examen 588 621	sécrétion et une excrétion rénale
+T20022	sosy 660 686	abaissement du rein gauche
+T20023	sosy 919 950	kyste hydatique de la surrénale
+T20027	sosy 1216 1237	modification de la TA
+T20030	sosy 288 344	tension artérielle (TA) mesurée trois fois était normale
+T20031	sosy 347 367	systolique à 12 mmHg
+T20032	sosy 369 389	diastolique à 6 mmHg
+T1	sosy 1450 1511	surveillance radio-clinique à 3 mois s’est avéré satisfaisant
+A1	assertion T200181 absent
+A2	norme T10014 normal
+A3	norme T200161 normal
+A4	norme T20019 normal
+A5	norme T10023 haut
+A6	norme T200162 normal
+A7	norme T200163 normal
+A8	etat T200181 passé
+T2	anatomie 296 306	artérielle
+A9	assertion T20027 absent
+T200199	tumeur 1394 1434	phéochromocytome bénin de forme kystique
+T200200	parasitaires 919 950	kyste hydatique de la surrénale
+T3	endocriniennes 93 130	masse kystique de la surrénale gauche
+T4	tumeur 93 130	masse kystique de la surrénale gauche
+T5	endocriniennes 919 950	kyste hydatique de la surrénale
+T6	tumeur 919 950	kyste hydatique de la surrénale
+T7	tumeur 1030 1082	masse kystique développée aux dépens de la surrénale
+T8	endocriniennes 1030 1082	masse kystique développée aux dépens de la surrénale
+T9	endocriniennes 733 781	masse kystique cloisonnée de la surrénale gauche
+T10	tumeur 733 781	masse kystique cloisonnée de la surrénale gauche
+T11	cardiovasculaires 1112 1152	pic hypertensif de 24 mmHg de systolique
+T12	genre 0 3	Mme
+A10	genre T12 féminin
+T13	age 18 24	26 ans
+T14	origine 93 206	masse kystique de la surrénale gauche découverte fortuitement lors de la réalisation d’une échographie abdominale
+T15	issue 1447 1511	La surveillance radio-clinique à 3 mois s’est avéré satisfaisant
+A11	issue T15 amélioration

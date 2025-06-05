@@ -1,0 +1,53 @@
+T1003	anatomie 476 489	aire vésicale
+T10065	examen 725 739	interrogatoire
+T100111	moment 108 140	6 mois avant son hospitalisation
+T100181	pathologie 34 72	antécédents pathologiques particuliers
+T100193	sosy 369 415	image de lithiase vésicale de 4 cm de diamètre
+T100194	sosy 439 489	image de lithiase se projetant sur l'aire vésicale
+T100195	sosy 679 696	stérilet calcifié
+T1005	valeur 328 335	stérile
+T1007	anatomie 507 519	endovésicale
+T10011	traitement 642 652	extraction
+T2001	anatomie 208 218	pelviennes
+T2002	anatomie 387 395	vésicale
+T20051	duree 804 816	depuis 3 ans
+T20061	examen 264 279	examen clinique
+T20062	examen 310 314	ECBU
+T20063	examen 341 352	échographie
+T20064	examen 421 425	AuSP
+T200141	traitement 776 803	mise en place d'un stérilet
+T200161	valeur 399 415	4 cm de diamètre
+T200191	sosy 146 177	hématurie terminale caillotante
+T200192	sosy 199 218	douleurs pelviennes
+T2005	pathologie 187 197	cystalgies
+T2006	sosy 220 231	pollakiurie
+T2007	sosy 235 257	brûlures mictionnelles
+T2008	valeur 286 304	sans particularité
+T2009	sosy 264 304	examen clinique était sans particularité
+T20010	sosy 310 335	ECBU s'est révélé stérile
+T20011	traitement 495 519	lithotritie endovésicale
+T20012	traitement 578 633	extraction du calcul par voie chirurgicale sus pubienne
+T20013	sosy 592 598	calcul
+T20014	mode 603 633	voie chirurgicale sus pubienne
+A1	norme T2008 normal
+A2	norme T1005 normal
+A3	etat T100181 passé
+A4	assertion T100181 absent
+A5	assertion T20011 absent
+T200193	etatsosy 199 218	douleurs pelviennes
+T200194	etatsosy 146 177	hématurie terminale caillotante
+T1	femme 146 177	hématurie terminale caillotante
+T2	femme 187 197	cystalgies
+T3	femme 235 257	brûlures mictionnelles
+T4	femme 220 231	pollakiurie
+T5	etatsosy 220 231	pollakiurie
+T6	etatsosy 235 257	brûlures mictionnelles
+T7	etatsosy 592 598	calcul
+T8	digestif 378 395	lithiase vésicale
+T10	digestif 448 489	lithiase se projetant sur l'aire vésicale
+T9	genre 0 6	Madame
+T11	age 21 27	38 ans
+A6	genre T9 féminin
+T12	origine 142 257	une hématurie terminale caillotante avec des cystalgies, douleurs pelviennes, pollakiurie et brûlures mictionnelles
+T13	issue 818 856	Les suites opératoires étaient simples
+A7	issue T13 guérison

@@ -1,0 +1,6 @@
+T1	genre 16 26	un patient
+T2	age 34 40	48 ans
+A1	genre T1 masculin
+T3	origine 391 495	une hématurie terminale épisodique associée à des lombalgies droites peu intenses évoluant depuis 5 mois
+T4	issue 3014 3173	L'hématurie et les lombalgies ont disparu au cinquième jour post-opératoire. Le patient est sorti avec un rendez-vous pour contrôle endoscopique dans six mois.
+A2	issue T4 guérison

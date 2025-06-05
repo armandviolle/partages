@@ -1,0 +1,6 @@
+T1	genre 0 6	Madame
+T2	age 12 18	86 ans
+A1	genre T1 féminin
+T3	issue 2994 3125	Sortie le lendemain, la patiente a été revue trois mois plus tard, elle allait bien et ne présentait pas de récidive de l’hématurie
+A2	issue T3 guérison
+T4	origine 1277 1374	récidive infectieuse et apparition d’une hématurie de sang rouge attribuée au contexte infectieux

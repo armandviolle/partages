@@ -1,0 +1,6 @@
+T1	genre 12 24	une patiente
+T2	issue 2336 2343	décédée
+T3	age 33 39	50 ans
+A1	genre T1 féminin
+A2	issue T2 décès
+T4	origine 96 205	une dyspnée stade II à III de la NYHA d’aggravation progressive associée à des douleurs thoraciques atypiques

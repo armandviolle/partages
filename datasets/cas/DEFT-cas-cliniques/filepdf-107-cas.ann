@@ -1,0 +1,6 @@
+T1	genre 0 3	Mme
+T2	age 15 21	71 ans
+A1	genre T1 féminin
+T3	origine 55 241	des douleurs abdominales diffuses, à type de pesanteur, prédominant au niveau de la région lomboabdominale droite, sans autre signe fonctionnel, évoluant progressivement durant trois ans
+T4	issue 2920 3001	Une TDM abdominale effectuée à un an post- opératoire ne montrait pas de récidive
+A2	issue T4 guérison

@@ -1,0 +1,6 @@
+T1	genre 0 3	Mme
+T2	age 16 22	92 ans
+A1	genre T1 féminin
+T3	origine 125 180	plusieurs épisodes d’hématurie macroscopique en un mois
+T4	issue 971 1068	la patiente n’a présenté aucun signe clinique ni échographique de récidive après 10 mois de recul
+A2	issue T4 guérison

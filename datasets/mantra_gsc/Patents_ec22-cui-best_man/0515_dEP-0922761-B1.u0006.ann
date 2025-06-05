@@ -1,0 +1,8 @@
+T8	C0003250 62 82	anticorps monoclonal
+#8	AnnotatorNotes T8	"C0003250", "Monoclonal Antibodies", "Amino Acid Peptide or Protein|Immunologic Factor" ,"CHEM"
+T9	C0015982 212 219	fibrine
+#9	AnnotatorNotes T9	"C0015982", "Fibrin", "Amino Acid Peptide or Protein|Pharmacologic Substance|Biologically Active Substance" ,"CHEM"
+T10	C0020980 0 21	Procédé d'immunoessai
+#10	AnnotatorNotes T10	"C0020980", "Immunoassay method", "Laboratory Procedure" ,"PROC"
+T11	C0060327 183 202	monomère de fibrine
+#11	AnnotatorNotes T11	"C0060327", "fibrinmonomer", "Amino Acid Peptide or Protein|Biologically Active Substance" ,"CHEM"

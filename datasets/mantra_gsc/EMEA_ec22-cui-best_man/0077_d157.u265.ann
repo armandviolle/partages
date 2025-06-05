@@ -1,0 +1,14 @@
+T4	C0559546 4 23	effets indésirables
+#4	AnnotatorNotes T4	"C0559546", "Adverse reactions", "Finding" ,"DISO"
+T5	C0559546 28 47	effets indésirables
+#5	AnnotatorNotes T5	"C0559546", "Adverse reactions", "Finding" ,"DISO"
+T6	C0460002 120 126	organe
+#6	AnnotatorNotes T6	"C0460002", "body system", "Body System" ,"ANAT"
+T25	C0877248 4 23	effets indésirables
+#25	AnnotatorNotes T25	"C0877248", "Adverse event", "Finding", "DISO"
+T26	C0877248 28 47	effets indésirables
+#26	AnnotatorNotes T26	"C0877248", "Adverse event", "Finding", "DISO"
+T35	C0041755 4 23	effets indésirables
+#35	AnnotatorNotes T35	"C0041755", "Adverse reaction to drug", "Injury or Poisoning", "DISO"
+T36	C0041755 28 47	effets indésirables
+#36	AnnotatorNotes T36	"C0041755", "Adverse reaction to drug", "Injury or Poisoning", "DISO"

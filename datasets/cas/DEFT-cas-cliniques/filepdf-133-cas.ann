@@ -1,0 +1,118 @@
+T22	examen 1145 1163	étude histologique
+T23	examen 1795 1821	étude anatomo-pathologique
+T20	anatomie 1801 1821	anatomo-pathologique
+T21	anatomie 451 461	pulmonaire
+T1	duree 39 50	depuis 1999
+T4	date 514 528	septembre 2000
+T19	examen 749 760	uro-scanner
+T18	examen 904 931	examen cyto-bactériologique
+T5	pathologie 60 110	sclérodermie systémique d’installation progressive
+T6	anatomie 174 179	mains
+T7	anatomie 187 198	avant-pieds
+T8	sosy 204 240	arthralgies des coudes et des genoux
+T9	anatomie 220 226	coudes
+T10	anatomie 234 240	genoux
+T12	sosy 245 280	syndrome du canal carpien bilatéral
+T14	sosy 287 306	syndrome sec buccal
+T24	pathologie 360 372	sclérodermie
+T25	sosy 400 425	atteinte diffuse du tronc
+T26	anatomie 420 425	tronc
+T27	sosy 431 474	atteinte cardiaque, pulmonaire et digestive
+T28	anatomie 440 449	cardiaque
+T29	anatomie 465 474	digestive
+T30	sosy 538 591	hématurie totale abondante avec formation de caillots
+T32	anatomie 775 780	reins
+T33	examen 821 839	cytologie urinaire
+T34	examen 960 971	cystoscopie
+T36	examen 1171 1179	biopsies
+T37	pathologie 1202 1215	cystite aiguë
+T38	sosy 1243 1274	lésions vasculaires capillaires
+T39	anatomie 1251 1274	vasculaires capillaires
+T41	sosy 1280 1347	thromboses faites par des thrombus de fibrine ou fibrino-cruoriques
+T43	sosy 1527 1539	anémie aiguë
+T44	sosy 1557 1581	hématurie très abondante
+T45	examen 1596 1607	cystoscopie
+T46	sosy 1680 1751	lésions framboisées faisant saillie dans la vessie et saignant en nappe
+T47	anatomie 1724 1730	vessie
+T48	sosy 1764 1771	lésions
+T49	traitement 1780 1789	réséquées
+T50	sosy 1846 1864	larges ulcérations
+T51	sosy 1881 1940	nombreuses lésions vasculaires artériolaires et capillaires
+T52	anatomie 1900 1925	vasculaires artériolaires
+T53	anatomie 1929 1940	capillaires
+T54	sosy 1946 1965	lésions vasculaires
+T55	anatomie 1954 1965	vasculaires
+T56	sosy 1988 2004	micro-thromboses
+T57	sosy 2013 2044	proliférations endo-capillaires
+T58	anatomie 2028 2044	endo-capillaires
+T59	anatomie 2100 2107	chorion
+T60	sosy 2172 2211	hématurie chronique de faible abondance
+T61	valeur 626 647	7,5 gramme par 100 ml
+T62	examen 596 617	taux de l’hémoglobine
+T63	anatomie 868 889	cellules épithéliales
+T65	anatomie 1031 1082	bas fond et de la face latérale gauche de la vessie
+T73	valeur 890 898	normales
+T35	pathologie 131 198	syndrome de Raynaud bilatéral touchant les mains et les avant-pieds
+T67	sosy 660 685	intolérance hémodynamique
+A3	norme T73 normal
+T72	sosy 1018 1119	au niveau du bas fond et de la face latérale gauche de la vessie des zones intensément inflammatoires
+T75	moment 1449 1462	Un mois après
+T77	substance 2228 2251	suplémentation ferrique
+A5	norme T61 bas
+T79	mode 707 717	transfusée
+T70	traitement 1626 1638	décaillotage
+T82	anatomie 2076 2091	tissu collagène
+T80	sosy 2060 2107	augmentation du tissu collagène dans le chorion
+T2	anatomie 300 306	buccal
+T3	sosy 868 898	cellules épithéliales normales
+T13	sosy 770 816	deux reins indemnes de tout processus expansif
+T11	anatomie 257 270	canal carpien
+T15	moment 308 337	Au cours de la première année
+T16	substance 726 744	culots globulaires
+T31	traitement 986 1005	anesthésie générale
+T40	examen 1132 1141	biopsiées
+T66	substance 2304 2315	corticoïdes
+T68	substance 2321 2339	immunosuppresseurs
+T74	sosy 1406 1447	régression transitoire de cette hématurie
+T64	duree 2252 2265	au long cours
+T17	sosy 903 954	’examen cyto-bactériologique des urines été stérile
+T69	sosy 596 647	taux de l’hémoglobine était à 7,5 gramme par 100 ml
+T42	anatomie 831 839	urinaire
+T71	valeur 947 954	stérile
+T76	peau 60 110	sclérodermie systémique d’installation progressive
+T78	cardiovasculaires 131 150	syndrome de Raynaud
+T81	osteomusculaires 204 240	arthralgies des coudes et des genoux
+T83	etatsosy 204 240	arthralgies des coudes et des genoux
+T84	nerveux 245 280	syndrome du canal carpien bilatéral
+T85	blessures 245 280	syndrome du canal carpien bilatéral
+T86	stomatognathique 287 306	syndrome sec buccal
+T87	peau 360 372	sclérodermie
+T88	femme 538 591	hématurie totale abondante avec formation de caillots
+T89	etatsosy 538 591	hématurie totale abondante avec formation de caillots
+T90	femme 1202 1215	cystite aiguë
+T91	digestif 1243 1274	lésions vasculaires capillaires
+T92	cardiovasculaires 1280 1347	thromboses faites par des thrombus de fibrine ou fibrino-cruoriques
+T93	cardiovasculaires 1243 1274	lésions vasculaires capillaires
+T94	hemopathies 1527 1539	anémie aiguë
+T95	femme 1557 1581	hématurie très abondante
+T96	etatsosy 1557 1581	hématurie très abondante
+T97	etatsosy 1764 1771	lésions
+T98	etatsosy 1846 1864	larges ulcérations
+T99	digestif 1946 1965	lésions vasculaires
+T100	cardiovasculaires 1946 1965	lésions vasculaires
+T101	etatsosy 1946 1965	lésions vasculaires
+T102	cardiovasculaires 1988 2004	micro-thromboses
+T103	femme 2172 2211	hématurie chronique de faible abondance
+T104	etatsosy 2172 2211	hématurie chronique de faible abondance
+T105	immunitaire 287 306	syndrome sec buccal
+T106	peau 287 306	syndrome sec buccal
+T107	respiratoire 431 474	atteinte cardiaque, pulmonaire et digestive
+T108	digestif 431 474	atteinte cardiaque, pulmonaire et digestive
+T109	cardiovasculaires 431 474	atteinte cardiaque, pulmonaire et digestive
+T110	infections 1087 1119	zones intensément inflammatoires
+T111	genre 0 3	Mme
+T112	age 18 24	56 ans
+A1	genre T111 féminin
+T113	origine 538 591	hématurie totale abondante avec formation de caillots
+T114	issue 2154 2265	persistance d’une hématurie chronique de faible abondance nécessitant une suplémentation ferrique au long cours
+A2	issue T114 stable

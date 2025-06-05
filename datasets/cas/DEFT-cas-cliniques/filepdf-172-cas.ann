@@ -1,0 +1,139 @@
+T20	examen 1041 1063	créatinine plasmatique
+T45	anatomie 1052 1063	plasmatique
+T11	valeur 1065 1072	20 mg/l
+T12	valeur 109 116	37 mg/l
+T10	homme 1122 1151	urètre supérieur surnuméraire
+T70	anatomie 1247 1253	vessie
+T4	tumeur 1303 1310	fistule
+T39	traitement 1353 1365	néphrostomie
+T33	homme 1382 1413	urétérohydronéphrose bilatérale
+T18	anatomie 1403 1413	bilatérale
+T68	anatomie 1424 1451	diverticules para-urétéraux
+T71	anatomie 1515 1521	vessie
+T15	sosy 160 188	altération de l’état général
+T30	traitement 1653 1676	fermeture de la fistule
+T5	tumeur 1669 1676	fistule
+T56	traitement 1698 1731	résection de la poche prévésicale
+T25	traitement 1736 1746	dissection
+T29	traitement 1752 1780	exérèse de l’urètre épispade
+T67	anatomie 1765 1780	urètre épispade
+T32	traitement 1865 1882	geste chirurgical
+T9	etatsosy 190 202	vomissements
+T26	traitement 1911 1921	dissection
+T57	traitement 1927 2002	résection des diverticules et de la portion terminale sténosée des uretères
+T62	anatomie 1994 2002	uretères
+T19	anatomie 2030 2056	urétérovésicale bilatérale
+T75	examen 2071 2114	étude microscopique de la poche prévésicale
+T61	anatomie 2210 2229	tissu fibro-adipeux
+T1	etatsosy 2313 2336	convulsions apyrétiques
+T76	sosy 2313 2336	convulsions apyrétiques
+T60	examen 241 252	température
+T94	examen 2494 2515	scintigraphie au DMSA
+T50	anatomie 2589 2599	rein droit
+T31	anatomie 2618 2624	gauche
+T8	homme 2699 2724	insuffisance rénale aiguë
+T55	anatomie 2712 2718	rénale
+T3	etatsosy 318 325	dysurie
+T21	duree 335 346	depuis 1 an
+T6	etatsosy 362 380	fièvre récidivante
+T28	examen 384 402	examen de la verge
+T69	anatomie 397 402	verge
+T47	anatomie 457 462	pénis
+T78	anatomie 474 478	méat
+T63	anatomie 610 618	urinaire
+T36	valeur 625 631	normal
+T7	homme 63 82	insuffisance rénale
+T65	anatomie 640 645	urine
+T35	anatomie 681 695	méat inférieur
+T74	examen 700 730	échographie abdomino-pelvienne
+T14	anatomie 712 730	abdomino-pelvienne
+T54	anatomie 76 82	rénale
+T2	etatsosy 769 805	dilatation du haut appareil urinaire
+T16	anatomie 783 805	haut appareil urinaire
+T41	anatomie 814 830	parenchyme rénal
+T13	examen 84 106	Créatinine plasmatique
+T23	anatomie 842 852	deux cotés
+T42	anatomie 860 874	paroi vésicale
+T38	traitement 889 926	néphrostomie bilatérale à ciel ouvert
+T17	anatomie 902 912	bilatérale
+T44	anatomie 95 106	plasmatique
+T27	age 20 25	2 ans
+T40	etatsosy 160 188	altération de l’état général
+T43	nerveux 160 188	altération de l’état général
+T49	etatsosy 206 230	trouble de la conscience
+T53	valeur 255 260	37,6°
+T22	moment 2525 2537	1 mois après
+T59	sosy 190 202	vomissements
+T64	sosy 206 230	trouble de la conscience
+T66	nerveux 206 230	trouble de la conscience
+T72	genre 6 12	garçon
+T34	homme 318 325	dysurie
+T73	anatomie 558 583	jonction balanopréputiale
+T77	homme 590 601	incontinent
+T79	examen 1078 1107	urétrocystographie rétrograde
+T24	moment 1618 1646	au 14ème jour postopératoire
+T46	moment 2279 2292	au 13ème jour
+T51	valeur 2602 2605	18%
+T52	valeur 2627 2630	13%
+A1	norme T12 haut
+#1	AnnotatorNotes T12	Normal de 7 à 14 mg/l chez l'homme
+A2	norme T11 haut
+T58	moment 952 969	En postopératoire
+A3	genre T72 masculin
+A4	norme T53 normal
+T37	moment 2668 2680	au 4ème mois
+T48	issue 2661 2667	décédé
+A5	issue T48 décès
+T80	sosy 362 380	fièvre récidivante
+T81	sosy 241 260	température à 37,6°
+T82	sosy 758 805	importante dilatation du haut appareil urinaire
+T83	sosy 814 852	parenchyme rénal réduit des deux cotés
+T84	sosy 860 883	paroi vésicale épaissie
+T85	anatomie 1174 1186	pseudovessie
+T86	homme 486 505	hypospade balanique
+T87	genetique 486 505	hypospade balanique
+T88	homme 527 535	épispade
+T89	genetique 527 535	épispade
+T90	genetique 1122 1151	urètre supérieur surnuméraire
+T91	homme 1174 1186	pseudovessie
+T92	genetique 1174 1186	pseudovessie
+T93	homme 1765 1780	urètre épispade
+T95	genetique 1765 1780	urètre épispade
+T96	etatsosy 2210 2243	tissu fibro-adipeux inflammatoire
+T97	nerveux 2313 2336	convulsions apyrétiques
+T98	sosy 84 116	Créatinine plasmatique à 37 mg/l
+T99	moment 120 135	A son admission
+T100	examen 264 290	interrogatoire des parents
+T101	sosy 430 601	légère courbure dorsale du pénis et de deux méats, l’un hypospade balanique continent et l’autre épispade situé au niveau de la jonction balanopréputiale, mais incontinent
+T102	anatomie 446 453	dorsale
+T103	anatomie 496 505	balanique
+T104	sosy 606 631	jet urinaire était normal
+T105	sosy 638 695	l’urine s’éliminait essentiellement par le méat inférieur
+T106	sosy 970 1011	l’état général du patient s’est améliorée
+T107	sosy 1021 1073	légère baisse de la créatinine plasmatique (20 mg/l)
+T108	mode 1097 1107	rétrograde
+T109	anatomie 1122 1138	urètre supérieur
+T110	sosy 1122 1310	urètre supérieur surnuméraire, s’abouchant dans une pseudovessie, celle-ci est située dans un plan sagittal par rapport à la vessie normale, et reliée à sa paroi antérieure par une fistule
+T111	anatomie 1278 1294	paroi antérieure
+T112	dispositif 1343 1365	drains de néphrostomie
+T113	examen 1325 1365	opacification par drains de néphrostomie
+T114	sosy 1419 1530	deux diverticules para-urétéraux manifestement secondaires à une hyperpression dont témoigne la vessie de lutte
+T115	sosy 1552 1584	aspect en tète de “Mickey mouse”
+T116	anatomie 1714 1731	poche prévésicale
+T117	mode 1814 1860	voie combinée pénienne et sus-rétrosymphisaire
+T118	sosy 1941 1953	diverticules
+T119	traitement 2015 2067	réimplantation urétérovésicale bilatérale type Cohen
+T120	anatomie 2097 2114	poche prévésicale
+T121	anatomie 2139 2145	parois
+T122	sosy 2139 2243	parois tapissées d’épithélium type urothélium régulier reposant sur un tissu fibro-adipeux inflammatoire
+T123	anatomie 2158 2168	épithélium
+T124	anatomie 2174 2184	urothélium
+T125	examen 2468 2473	suivi
+T126	moment 2414 2435	Après un court séjour
+T127	sosy 2550 2630	fonction de filtration glomérulaire du rein droit à 18% et celle du gauche à 13%
+T128	sosy 63 82	insuffisance rénale
+T129	sosy 318 325	dysurie
+T130	pathologie 1382 1413	urétérohydronéphrose bilatérale
+T131	pathologie 1669 1676	fistule
+T132	sosy 1765 1780	urètre épispade
+T133	pathologie 2699 2724	insuffisance rénale aiguë

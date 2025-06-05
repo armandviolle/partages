@@ -1,0 +1,6 @@
+T1	age 10 16	80 ans
+T2	genre 1029 1039	Le patient
+T3	issue 1185 1191	décédé
+A1	issue T3 décès
+A2	genre T2 masculin
+T4	origine 119 273	induration des corps caverneux (donnant l’aspect d’un priapisme) avec rétention aiguë des urines qui a nécessité la mise en place d’un cathéter sus-pubien

@@ -1,0 +1,6 @@
+T1	genre 0 4	Karl
+T2	age 6 12	33 ans
+T3	origine 80 132	retrouvé 10 jours plus tard flottant dans la Garonne
+A1	genre T1 masculin
+T4	issue 66 88	Son corps est retrouvé
+A2	issue T4 décès

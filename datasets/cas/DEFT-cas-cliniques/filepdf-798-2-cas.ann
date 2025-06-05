@@ -1,0 +1,6 @@
+T1	genre 0 7	Khadija
+T2	issue 1632 1639	décédée
+T3	age 249 254	9 ans
+T4	origine 297 318	détresse respiratoire
+A1	issue T2 décès
+A2	genre T1 féminin

@@ -1,0 +1,118 @@
+T60	anatomie 1000 1031	structures internes vasculaires
+T29	examen 1068 1107	imagerie par résonance magnétique (IRM)
+T37	sosy 1175 1217	hypersignal T1 spontané global de la masse
+T31	mode 1280 1289	injection
+T113	anatomie 1393 1399	artère
+T66	age 13 19	42 ans
+T50	anatomie 1406 1428	partie moyenne du rein
+T38	sosy 1454 1459	masse
+T24	traitement 1517 1537	exérèse chirurgicale
+T2	etatsosy 157 177	douleurs abdominales
+T114	anatomie 1595 1601	artère
+T8	anatomie 166 177	abdominales
+T46	traitement 1660 1679	néphrectomie totale
+T39	sosy 1849 1876	vascularisation de la masse
+T51	anatomie 1955 1978	branche médiane du rein
+T115	anatomie 2002 2008	artère
+T65	anatomie 2120 2140	vasculaire proximale
+T52	anatomie 2207 2230	branche médiane du rein
+T40	sosy 225 309	masse palpable, molle débordant l'auvent costal gauche et descendant jusqu'au pelvis
+T53	anatomie 2286 2312	branches restantes du rein
+T78	mode 2381 2398	voie sous costale
+T3	tumeur 2427 2477	tumeur occupant la totalité de l'hypocondre gauche
+T28	anatomie 2460 2477	hypocondre gauche
+T89	tumeur 2574 2588	tumeur maligne
+T12	sosy 26 60	antécédent médical, familial connu
+T5	tumeur 2603 2609	tumeur
+T22	examen 2628 2646	examen extemporané
+T25	anatomie 259 279	auvent costal gauche
+T13	anatomie 2837 2845	artériel
+T6	duree 2849 2859	20 minutes
+T10	anatomie 2870 2890	anatomo-pathologique
+T47	anatomie 303 309	pelvis
+T54	anatomie 3081 3085	rein
+T124	anatomie 3124 3135	médio-rénal
+T14	sosy 316 330	autre anomalie
+T18	examen 346 362	bilan biologique
+T44	valeur 369 375	normal
+T34	sosy 406 455	volumineuse masse située dans l'hypocondre gauche
+T26	anatomie 438 455	hypocondre gauche
+T35	sosy 519 561	masse refoulait la rate vers le diaphragme
+T48	anatomie 538 542	rate
+T19	anatomie 551 561	diaphragme
+T56	valeur 590 608	sans particularité
+T57	examen 613 631	scanner hélicoidal
+T36	sosy 661 677	masse graisseuse
+T32	anatomie 728 740	locorégional
+T49	anatomie 842 846	rate
+T20	anatomie 887 894	estomac
+T27	anatomie 900 920	angle colique gauche
+T30	mode 968 977	injection
+T1	genre 4 9	femme
+A1	genre T1 féminin
+A2	assertion T12 absent
+T4	sosy 69 108	sclérose tubéreuse de Bourneville (STB)
+A3	assertion T4 absent
+T15	sosy 157 190	douleurs abdominales aspécifiques
+T16	examen 194 209	examen clinique
+A4	assertion T14 absent
+T11	examen 379 390	échographie
+T17	sosy 714 740	envahissement locorégional
+A5	assertion T17 absent
+T7	cardiovasculaires 1032 1044	anévrysmales
+T9	substance 1293 1303	gadolinium
+T21	moment 978 994	au temps précoce
+T23	moment 1304 1320	au temps précoce
+T33	etatsosy 1349 1368	néo-vascularisation
+T41	sosy 1349 1368	néo-vascularisation
+T45	sosy 1476 1496	rupture hémorragique
+A6	assertion T45 possible
+T61	cardiovasculaires 1595 1613	artère anévrysmale
+T62	traitement 1713 1763	embolisation pré-opératoire de l'artère principale
+T63	anatomie 1746 1763	artère principale
+T64	traitement 1781 1805	artériographie sélective
+T68	etatsosy 1902 1921	néo-vascularisation
+T69	sosy 1902 1978	néo-vascularisation en blush tumoral, naissant d'une branche médiane du rein
+T42	anatomie 2065 2070	aorte
+T59	traitement 2074 2086	embolisation
+T70	traitement 2110 2198	occlusion vasculaire proximale à l'aide de coils métalliques de 5 et de 8 mm de diamètre
+T43	traitement 2828 2845	clampage artériel
+T71	examen 2863 2890	examen anatomo-pathologique
+T72	tumeur 2932 2946	angiomyolipome
+T73	examen 2991 3014	contrôle scanographique
+T74	moment 3023 3039	à trois semaines
+T55	tumeur 1931 1938	tumoral
+T58	digestif 2427 2477	tumeur occupant la totalité de l'hypocondre gauche
+T75	sosy 334 375	ensemble du bilan biologique était normal
+T76	sosy 460 511	structure était hétérogène, à prédominance échogène
+T77	sosy 566 608	reste de l'examen était sans particularité
+T79	examen 566 583	reste de l'examen
+T80	anatomie 935 948	ligne médiane
+T81	examen 968 994	injection au temps précoce
+T82	sosy 1000 1044	structures internes vasculaires anévrysmales
+T83	anatomie 1239 1249	graisseuse
+T84	examen 1280 1320	injection de gadolinium au temps précoce
+T85	sosy 1381 1428	volumineuse artère de la partie moyenne du rein
+T86	sosy 1583 1630	volumineuse artère anévrysmale trans-capsulaire
+T87	anatomie 1614 1630	trans-capsulaire
+A7	assertion T46 possible
+T88	mode 1690 1707	abord pédiculaire
+T67	sosy 2002 2070	artère accessoire polaire supérieure naissait directement de l'aorte
+T90	dispositif 2153 2198	coils métalliques de 5 et de 8 mm de diamètre
+T91	traitement 2335 2346	chirurgical
+T92	examen 2481 2505	exploration chirurgicale
+T93	sosy 2538 2588	signe macroscopique en faveur d'une tumeur maligne
+A8	assertion T93 absent
+T94	anatomie 2610 2620	graisseuse
+T95	sosy 2603 2620	tumeur graisseuse
+A9	assertion T22 absent
+T96	pathologie 2698 2709	liposarcome
+A10	assertion T96 possible
+T97	pathologie 2732 2746	angiomyolipome
+A11	assertion T97 possible
+T98	traitement 2764 2781	temps chirurgical
+T99	sosy 3103 3188	encoche triangulaire médio-rénale à base périphérique et dont le sommet était le coil
+T100	anatomie 3139 3156	base périphérique
+T101	dispositif 3184 3188	coil
+T102	sosy 2427 2477	tumeur occupant la totalité de l'hypocondre gauche
+T103	pathologie 2932 2946	angiomyolipome

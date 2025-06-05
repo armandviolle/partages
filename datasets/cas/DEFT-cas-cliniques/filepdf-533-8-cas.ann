@@ -1,0 +1,59 @@
+T10061	examen 240 252	prélèvements
+T10062	examen 301 322	analyse toxicologique
+T10064	examen 786 794	analyses
+T10065	examen 1223 1250	prélèvements au laboratoire
+T100111	moment 96 131	à son réveil vers 8 heures du matin
+T100112	moment 941 954	le matin même
+T100113	moment 1352 1372	à 08 heures le matin
+T100114	moment 1472 1485	8 jours après
+T100121	substance 414 425	hydroxyzine
+T100122	substance 1521 1532	hydroxyzine
+T100123	substance 2008 2019	hydroxyzine
+T100124	substance 1776 1787	hydroxyzine
+T100125	substance 2151 2162	hydroxyzine
+T100126	substance 2524 2535	hydroxyzine
+T100127	substance 3495 3506	hydroxyzine
+T1001	sosy 80 95	Quasi-amnésique
+T1002	substance 427 433	ATARAX
+T1003	substance 508 515	HALCION
+T1004	substance 518 527	triazolam
+T1005	dose 628 642	deux comprimés
+T1006	substance 837 846	triazolam
+T1007	substance 868 884	hydroxytriazolam
+T1008	substance 1088 1105	Thydroxytriazolam
+T1009	examen 1537 1569	chromatographie en phase gazeuse
+T10010	examen 1583 1605	spectrométrie de masse
+T10012	substance 2815 2824	chlore 37
+T10013	substance 2738 2750	chlore 35/37
+T10014	substance 2903 2909	chlore
+T10015	examen 3042 3048	CPG/SM
+T20063	examen 686 719	contre-expertise des prélèvements
+T2003	sosy 213 220	droguée
+T2004	anatomie 406 411	urine
+T2006	sosy 390 454	présence dans l'urine d'hydroxyzine (ATARAX®) et ses metabolites
+T2009	sosy 491 528	prise possible d'HALCION® (triazolam)
+T20013	anatomie 892 897	urine
+T20014	sosy 837 897	triazolam, ni son metabolite l'hydroxytriazolam dans l'urine
+T20016	examen 1075 1118	stabilité de Thydroxytriazolam dans l'urine
+T20018	valeur 992 997	+4° C
+T20019	valeur 1159 1164	+4° C
+T20021	anatomie 1336 1341	urine
+T20024	anatomie 1644 1650	urines
+T20028	examen 2310 2320	ionisation
+T20029	examen 2366 2388	spectrométrie de masse
+T20030	examen 2400 2435	ionisation chimique en mode positif
+T20033	substance 2625 2631	chlore
+A1	assertion T2009 possible
+T1	examen 370 376	CPG/SM
+A2	assertion T20014 absent
+T2	anatomie 1113 1118	urine
+T3	examen 1336 1351	urine collectée
+T4	examen 1644 1660	urines analysées
+T5	nerveux 80 95	Quasi-amnésique
+T6	etatsosy 80 95	Quasi-amnésique
+T7	chimiques 213 220	droguée
+T8	chimiques 390 425	présence dans l'urine d'hydroxyzine
+T9	genre 4 9	femme
+A3	genre T9 féminin
+T10	age 18 24	55 ans
+T11	origine 80 146	Quasi-amnésique à son réveil vers 8 heures du matin à son domicile

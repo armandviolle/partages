@@ -1,0 +1,6 @@
+T1	C0039601 12 24	testostérone
+#1	AnnotatorNotes T1	"C0039601", "Testosterone", "Steroid|Pharmacologic Substance|Hormone" ,"CHEM"
+T2	C0036536 32 41	sécrétion
+#2	AnnotatorNotes T2	"C0036536", "Process of secretion", "Biologic Function" ,"PHEN"
+T3	C0033371 45 55	prolactine
+#3	AnnotatorNotes T3	"C0033371", "Prolactin", "Amino Acid Peptide or Protein|Pharmacologic Substance|Hormone" ,"CHEM"

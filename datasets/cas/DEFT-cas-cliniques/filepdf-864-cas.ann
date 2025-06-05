@@ -1,0 +1,111 @@
+T42	examen 1001 1012	hémoglobine
+T11	valeur 1015 1021	13g/dl
+T94	examen 1026 1036	plaquettes
+T12	valeur 1037 1056	345000 éléments/mm3
+T26	examen 1061 1102	bilan phosphocalcique sanguin et urinaire
+T66	anatomie 1083 1090	sanguin
+T71	anatomie 1094 1102	urinaire
+T46	valeur 1107 1113	normal
+T23	examen 1118 1148	bilan fonctionnel respiratoire
+T64	anatomie 1136 1148	respiratoire
+T36	sosy 1215 1227	désaturation
+T163	examen 1232 1253	gazométrie artérielle
+T16	anatomie 1243 1253	artérielle
+T20	examen 125 130	bilan
+T7	examen 1265 1269	PaO2
+T15	examen 1281 1286	PaCO2
+T5	valeur 1289 1296	40 mmHg
+T48	valeur 1371 1378	normale
+T31	anatomie 1459 1469	bronchique
+T104	examen 1574 1594	biopsies bronchiques
+T33	anatomie 1583 1594	bronchiques
+T180	examen 1694 1706	radiologique
+T27	examen 1767 1784	bilan étiologique
+T40	examen 185 200	examen clinique
+T14	sosy 221 231	apyrétique
+T37	sosy 233 251	eupnéique au repos
+T2	osteomusculaires 268 289	hippocratisme digital
+T35	anatomie 282 289	digital
+T17	examen 293 316	auscultation pulmonaire
+T53	anatomie 306 316	pulmonaire
+T8	age 37 43	50 ans
+T18	anatomie 386 403	bases pulmonaires
+T60	examen 409 432	radiographie thoracique
+T67	anatomie 422 432	thoracique
+T10	genre 20 28	patiente
+T61	examen 443 466	radiographie thoracique
+T68	anatomie 456 466	thoracique
+T9	examen 542 556	TDM thoracique
+T69	anatomie 546 556	thoracique
+T19	anatomie 632 649	bases pulmonaires
+T13	pathologie 64 102	antécédents pathologiques particuliers
+T4	sosy 666 695	épanchement pleural liquidien
+T52	anatomie 678 685	pleural
+T1	sosy 709 735	adénopathies médiastinales
+T45	anatomie 722 735	médiastinales
+T25	examen 752 768	bilan biologique
+T3	sosy 786 808	syndrome inflammatoire
+T62	examen 814 866	recherches des mycobactéries dans les expectorations
+T51	valeur 872 881	négatives
+T39	examen 886 892	examen
+T6	examen 902 922	IDR à la tuberculine
+T50	valeur 927 935	négative
+T43	examen 939 949	hémogramme
+T22	examen 961 963	GB
+T21	valeur 964 981	9750 éléments/mm3
+T151	examen 994 997	PNN
+A1	genre T10 féminin
+A3	norme T11 normal
+A2	assertion T13 absent
+A4	assertion T3 absent
+T24	valeur 987 990	75%
+A5	assertion T36 absent
+T28	examen 1445 1469	bronchoscopie bronchique
+T29	sosy 1396 1427	trouble ventilatoire restrictif
+A6	assertion T29 absent
+T30	examen 1350 1366	pléthysmographie
+T32	sosy 1480 1524	aspect inflammatoire diffus de premier degré
+T34	respiratoire 1642 1666	microlithiase alvéolaire
+T38	examen 1529 1532	LBA
+T41	sosy 1552 1566	calcosphérites
+A7	assertion T41 absent
+T44	examen 1429 1432	CPT
+T47	valeur 1434 1439	89,7%
+A8	assertion T4 absent
+A9	assertion T1 absent
+T49	sosy 571 649	micronodules hyperdenses calciques prédominant au niveau des bases pulmonaires
+T54	etatsosy 326 366	râles crépitants bilatéraux prédominants
+T55	sosy 326 403	râles crépitants bilatéraux prédominants au niveau des deux bases pulmonaires
+T56	peau 480 493	fine miliaire
+T57	respiratoire 503 525	micronodules calcifiés
+#1	AnnotatorNotes T57	nodules pulmonaires
+T58	tumeur 503 525	micronodules calcifiés
+T59	tumeur 571 649	micronodules hyperdenses calciques prédominant au niveau des bases pulmonaires
+T63	respiratoire 571 649	micronodules hyperdenses calciques prédominant au niveau des bases pulmonaires
+T65	respiratoire 136 157	syndrome interstitiel
+T70	etatsosy 1480 1507	aspect inflammatoire diffus
+T72	anatomie 145 157	interstitiel
+T73	sosy 136 157	syndrome interstitiel
+T74	examen 246 251	repos
+T75	sosy 260 289	discret hippocratisme digital
+T76	anatomie 343 353	bilatéraux
+T77	sosy 480 493	fine miliaire
+T78	sosy 503 525	micronodules calcifiés
+T79	sosy 814 881	recherches des mycobactéries dans les expectorations sont négatives
+T80	sosy 902 935	IDR à la tuberculine est négative
+T81	sosy 961 981	GB 9750 éléments/mm3
+T82	sosy 987 997	75% de PNN
+T83	sosy 1001 1021	hémoglobine à 13g/dl
+T84	sosy 1026 1056	plaquettes 345000 éléments/mm3
+T85	sosy 1061 1113	bilan phosphocalcique sanguin et urinaire est normal
+T86	examen 1170 1193	test de marche de 6 min
+T87	sosy 1265 1279	PaO2 à 88mm Hg
+T88	valeur 1272 1279	88mm Hg
+T89	sosy 1281 1296	PaCO2 à 40 mmHg
+T90	examen 1313 1344	résistances des voies aériennes
+T91	anatomie 1329 1344	voies aériennes
+T92	sosy 1313 1378	résistances des voies aériennes à la pléthysmographie est normale
+T93	sosy 1429 1439	CPT: 89,7%
+T95	sosy 1574 1623	biopsies bronchiques étagées sont non concluantes
+T96	pathologie 1642 1666	microlithiase alvéolaire
+T97	sosy 1753 1784	négativité du bilan étiologique

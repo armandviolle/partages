@@ -1,0 +1,12 @@
+T1	C0035168 24 33	recherche
+#1	AnnotatorNotes T1	"C0035168", "research", "Research Activity" ,"PROC"
+T2	C0582103 0 6	Examen
+#2	AnnotatorNotes T2	"C0582103", "Medical Examination", "Health Care Activity" ,"PROC"
+T3	C0242481 24 33	recherche
+#3	AnnotatorNotes T3	"C0242481", "Research Activities", "Research Activity" ,"PROC"
+T4	C0242181 59 85	substances dites de réveil
+#4	AnnotatorNotes T4	"C0242181", "Analeptics", "Pharmacologic Substance" ,"CHEM"
+T5	C0009421 12 20	comateux
+#5	AnnotatorNotes T5	"C0009421", "Comatose", "Disease or Syndrome" ,"DISO"
+T6	C0031809 0 6	Examen
+#6	AnnotatorNotes T6	"C0031809", "Physical Examination", "Health Care Activity" ,"PROC"

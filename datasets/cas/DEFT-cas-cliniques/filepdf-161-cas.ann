@@ -1,0 +1,6 @@
+T1	age 13 19	18 ans
+T2	genre 140 150	le patient
+A1	genre T2 masculin
+T3	origine 162 296	un écoulement urinaire post-mictionnel avec des brûlures mictionnels par moment sans épisode rétention vésicale complète ni de dysurie
+T4	issue 746 853	Les suites post-opératoires immédiates et à moyen terme furent sans particularité, la miction était normale
+A2	issue T4 guérison

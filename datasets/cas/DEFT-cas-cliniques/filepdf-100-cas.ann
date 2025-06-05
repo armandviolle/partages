@@ -1,0 +1,120 @@
+T10025	anatomie 172 184	testiculaire
+T10018	anatomie 947 953	rectal
+T1004	traitement 138 158	orchidectomie droite
+T1005	sosy 164 184	ectopie testiculaire
+T1007	traitement 208 238	lobectomie thyroïdienne gauche
+T1009	anatomie 390 395	reins
+T10013	anatomie 476 503	endo-rectale de la prostate
+T10019	anatomie 611 619	prostate
+T10020	anatomie 650 656	vessie
+T10024	anatomie 1066 1074	vésicale
+T10029	sosy 1334 1383	déformation de la lèvre antérieure du col vésical
+T10031	traitement 1537 1620	résection trans-uréthrale à visée histologique de la zone antérieure de la prostate
+T10032	mode 1547 1562	trans-uréthrale
+T10037	examen 2821 2845	échographie sus pubienne
+T10041	examen 598 619	volume de la prostate
+T10042	valeur 635 645	30 grammes
+T10043	sosy 699 737	résidu post mictionnel non négligeable
+T10047	valeur 1032 1041	1,5 ng/ml
+T10048	sosy 39 101	symptomatologie mictionnelle sévère, irritative et obstructive
+T10052	examen 2063 2107	examen histologique des copeaux de résection
+T10058	examen 1739 1760	prélèvement de sperme
+T10062	anatomie 359 376	appareil urinaire
+T10063	sosy 420 460	dilatation des cavités pyélo-calicielles
+T10064	anatomie 435 460	cavités pyélo-calicielles
+T10065	anatomie 540 551	lobe médian
+T10050	anatomie 921 933	endo-vésical
+T10060	anatomie 1096 1107	prostatique
+T10054	anatomie 1256 1270	extra-vésicale
+T10079	anatomie 2252 2271	canaux prostatiques
+T10080	anatomie 2281 2288	lumière
+T10083	anatomie 2460 2471	prostatique
+T10087	moment 2629 2690	quatre semaines et trois mois après la résection endoscopique
+T10089	valeur 2793 2816	débit maximum à 40 ml/s
+T10095	anatomie 3081 3102	bas appareil urinaire
+T2008	anatomie 219 231	thyroïdienne
+T2009	sosy 245 279	irradiation nucléaire accidentelle
+T20019	sosy 519 593	aspect de volumineux lobe médian multikystique, mesuré à 40 mm de diamètre
+T20025	examen 798 832	examen tomodensitométrique pelvien
+T20026	anatomie 825 832	pelvien
+T20027	sosy 865 933	dystrophie multikystique du lobe médian à développement endo-vésical
+T20028	examen 939 953	toucher rectal
+T20029	sosy 974 995	anomalie particulière
+T20030	examen 1002 1013	taux de PSA
+T20031	examen 1054 1074	fibroscopie vésicale
+T20034	sosy 1089 1120	nature prostatique de la lésion
+T20035	sosy 1150 1182	atteinte de la muqueuse vésicale
+T20036	examen 1202 1218	I.R.M. du pelvis
+T20037	anatomie 1212 1218	pelvis
+T20038	sosy 1226 1324	lésion multikystique semblait extra-vésicale, bien encapsulée, polypoïde à développement supérieur
+T20040	anatomie 1352 1383	lèvre antérieure du col vésical
+T20041	sosy 1406 1435	gène fonctionnelle du patient
+T20043	anatomie 1491 1503	sous-vésical
+T20044	sosy 1482 1503	obstacle sous-vésical
+T20047	anatomie 1590 1620	zone antérieure de la prostate
+T20053	sosy 1850 1929	formation pédiculée antérieure, volumineuse, basculant au niveau du col vésical
+T20054	anatomie 1918 1929	col vésical
+T20055	traitement 1939 1957	résection complète
+T20056	sosy 2000 2021	lésion était kystique
+T20058	anatomie 2130 2150	glandes prostatiques
+T20059	pathologie 2206 2216	adénomyome
+T20060	sosy 2221 2227	lésion
+T20061	sosy 2242 2363	multiples canaux prostatiques, dont la lumière étirée, festonnée, était bordée d’une double assise de cellules régulières
+T20063	anatomie 2344 2352	cellules
+T20064	examen 2367 2407	immunomarquage avec l'anticorps anti-PSA
+T20066	pathologie 2522 2545	cystadénome de prostate
+T20067	anatomie 2537 2545	prostate
+T20011	examen 342 376	échographie de l'appareil urinaire
+T20016	examen 463 503	'exploration endo-rectale de la prostate
+T20069	anatomie 893 904	lobe médian
+T20071	anatomie 1165 1182	muqueuse vésicale
+T20073	sosy 2552 2577	caractère tumoral suspect
+T20077	examen 2780 2791	débitmétrie
+T20079	anatomie 2833 2845	sus pubienne
+T20080	sosy 2867 2888	récidive endovésicale
+T20081	anatomie 2876 2888	endovésicale
+T20083	examen 2938 2954	ECBU de contrôle
+T20084	moment 3007 3018	dans 6 mois
+T20085	frequence 3025 3037	tous les ans
+T20086	examen 3047 3058	débitmétrie
+T20087	examen 3066 3102	échographie du bas appareil urinaire
+T20095	moment 185 202	à l’âge de 10 ans
+T20098	valeur 406 413	normale
+T20099	valeur 576 593	40 mm de diamètre
+T200106	moment 1808 1825	En per-opératoire
+T200115	sosy 2708 2757	amélioration nette de la symptomatologie urinaire
+T200118	sosy 2913 2934	résidu postmictionnel
+A1	assertion T20029 absent
+T2	sosy 1655 1702	risque post-opératoire d'éjaculation rétrograde
+A2	assertion T2 hypothétique
+A3	assertion T20073 absent
+T3	sosy 2367 2436	immunomarquage avec l'anticorps anti-PSA était très nettement positif
+T4	sosy 2130 2176	glandes prostatiques normalement différenciées
+T5	sosy 390 413	reins de taille normale
+A4	assertion T10063 absent
+T6	sosy 650 690	vessie présentait des contours réguliers
+A5	assertion T20035 absent
+A6	assertion T20027 hypothétique
+A7	assertion T20080 absent
+A8	assertion T200118 absent
+T7	sosy 598 645	volume de la prostate était estimé à 30 grammes
+T8	examen 743 765	données morphologiques
+T9	examen 1978 1995	Macroscopiquement
+T10	examen 2484 2496	histologique
+T1	sosy 2938 2968	ECBU de contrôle était stérile
+T11	sosy 1002 1041	taux de PSA était rassurant à 1,5 ng/ml
+A9	assertion T20059 absent
+T12	valeur 2429 2436	positif
+T13	anatomie 2749 2757	urinaire
+T14	valeur 2961 2968	stérile
+T15	homme 39 101	symptomatologie mictionnelle sévère, irritative et obstructive
+T16	homme 164 184	ectopie testiculaire
+T17	genetique 164 184	ectopie testiculaire
+T18	tumeur 2522 2545	cystadénome de prostate
+T19	homme 2522 2545	cystadénome de prostate
+T20	age 11 17	40 ans
+T21	genre 284 291	patient
+A10	genre T21 masculin
+T22	origine 39 101	symptomatologie mictionnelle sévère, irritative et obstructive
+T23	issue 2860 2888	pas de récidive endovésicale
+A11	issue T23 guérison

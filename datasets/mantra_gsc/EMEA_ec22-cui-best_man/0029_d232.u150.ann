@@ -1,0 +1,8 @@
+T5	C0029944 10 19	surdosage
+#5	AnnotatorNotes T5	"C0029944", "overdose", "Injury or Poisoning" ,"DISO"
+T6	C0332293 71 78	traitée
+#6	AnnotatorNotes T6	"C0332293", "Treated with", "Therapeutic or Preventive Procedure" ,"PROC"
+T7	C0021888 24 46	pression intraoculaire
+#7	AnnotatorNotes T7	"C0021888", "Physiologic Intraocular Pressure", "Organ or Tissue Function" ,"PHYS"
+T12	C1704292 100 115	ophtalmologiste
+#12	AnnotatorNotes T12	"C1704292", "Ophthalmologist (occupation)", "Professional or Occupational Group" ,"LIVB"

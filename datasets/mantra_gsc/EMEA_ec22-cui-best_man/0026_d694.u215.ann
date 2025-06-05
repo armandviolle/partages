@@ -1,0 +1,6 @@
+T5	C0584668 50 61;74 96	utilisation devra être interrompue
+#5	AnnotatorNotes T5	"C0584668", "Recommendation to stop drug treatment", "Health Care Activity" ,"PROC"
+T18	C1278220 10 45	détérioration de la fonction rénale
+#18	AnnotatorNotes T18	"C1278220", "Deteriorating renal function", "Laboratory or Test Result" ,"PHEN"
+T21	C0729650 118 128	composants
+#21	AnnotatorNotes T21	"C0729650", "Constituents", "Substance", "OBJC"

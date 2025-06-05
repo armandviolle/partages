@@ -1,0 +1,6 @@
+T1	genre 32 42	un patient
+T2	age 46 52	51 ans
+A1	genre T1 masculin
+T3	origine 145 196	le sevrage et le bilan de cette intoxication au TCE
+T4	issue 2602 2719	A 3 mois de l'intervention, l'évolution clinique était favorable mais le patient avait récidivé sa toxicomanie au TCE
+A2	issue T4 stable

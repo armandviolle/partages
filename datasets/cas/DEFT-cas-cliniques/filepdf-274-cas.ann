@@ -1,0 +1,6 @@
+T1	genre 0 10	Le patient
+T2	age 14 20	41 ans
+A1	genre T1 masculin
+T3	origine 40 91	masse scrotale droite indolore apparue il y a un an
+T4	issue 1432 1489	un an après l'intervention, aucune récidive n'a été notée
+A2	issue T4 guérison

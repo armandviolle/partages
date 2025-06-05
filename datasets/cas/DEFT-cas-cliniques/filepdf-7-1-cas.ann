@@ -1,0 +1,6 @@
+T1	genre 0 6	Jeremy
+T2	age 8 13	6 ans
+A1	genre T1 masculin
+T3	origine 43 74	un accident de la voie publique
+T4	issue 2331 2417	Après 20 mois de revul, le rein présente un aspect morphologique et fonctionnel normal
+A2	issue T4 guérison

@@ -1,0 +1,6 @@
+T1	genre 0 8	Monsieur
+T2	age 16 22	78 ans
+A1	genre T1 masculin
+T3	origine 182 368	un trouble de la marche avec syndrome de chutes, des douleurs lombaires, des troubles cognitifs et une hypersomnie entraînant une perte d’autonomie accentuée dans les trois derniers mois
+T4	issue 18989 19209	la démarche de monsieur P. M. s’était grandement améliorée et était plus assurée, ce qui réduit le risque de chutes. Le ralentissement psychomoteur étant moins marqué, le patient a également récupéré sur le plan cognitif
+A2	issue T4 amélioration

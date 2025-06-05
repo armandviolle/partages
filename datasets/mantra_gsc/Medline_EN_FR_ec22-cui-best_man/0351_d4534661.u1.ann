@@ -1,0 +1,12 @@
+T1	C0226896 3 9	bouche
+#1	AnnotatorNotes T1	"C0226896", "Oral cavity", "Body Space or Junction" ,"ANAT"
+T2	C0230028 3 9	bouche
+#2	AnnotatorNotes T2	"C0230028", "Oral region", "Body Location or Region" ,"ANAT"
+T3	C1267547 3 9	bouche
+#3	AnnotatorNotes T3	"C1267547", "Entire mouth region", "Body Location or Region" ,"ANAT"
+T4	C1278910 3 9	bouche
+#4	AnnotatorNotes T4	"C1278910", "Entire oral cavity", "Body Location or Region" ,"ANAT"
+T5	C0243107 36 45	evolution
+#5	AnnotatorNotes T5	"C0243107", "development aspects", "Physiologic Function" ,"PHYS"
+T6	C0020119 36 45	evolution
+#6	AnnotatorNotes T6	"C0020119", "Human Development", "Physiologic Function" ,"PHYS"

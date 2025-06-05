@@ -1,0 +1,6 @@
+T1	genre 0 3	Mr.
+T2	age 8 14	50 ans
+A1	genre T1 masculin
+T3	origine 295 346	une orchi-épididymite aiguë droite fébrile (38,5°C)
+T4	issue 4637 4768	Une uro-tomodensitométrie n’a révélé aucune lésion de l’appareil urinaire. Le cadre osseux était indemne de toute lésion bacillaire
+A2	issue T4 stable

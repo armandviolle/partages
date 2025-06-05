@@ -1,0 +1,6 @@
+T1	genre 0 3	Mme
+T2	issue 1547 1554	simples
+T3	origine 43 82	suspicion de colique néphrétique gauche
+T4	age 8 14	53 ans
+A1	issue T2 guérison
+A2	genre T1 féminin

@@ -1,0 +1,8 @@
+T1	age 15 21	47 ans
+T2	genre 2236 2245	le malade
+A1	genre T2 masculin
+T3	genre 0 2	Mr
+A2	genre T3 masculin
+T4	origine 389 424	une reprise évolutive de sa maladie
+T5	issue 1997 2296	L’évolution était marquée par l’amélioration de l’état respiratoire et diminution des épisodes des aphtes cutanéo-muqueux, mais le contrôle échographique après 8 mois de traitement a mis en évidence la persistance du thrombus cardiaque et le malade était proposée pour une thrombectomie chirurgicale
+A3	issue T5 stable

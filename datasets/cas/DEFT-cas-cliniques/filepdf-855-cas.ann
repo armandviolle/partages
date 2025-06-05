@@ -1,0 +1,55 @@
+T33	immunitaire 132 155	polyarthrite rhumatoïde
+T18	pathologie 132 155	polyarthrite rhumatoïde
+T20	examen 238 266	surveillance ophtalmologique
+T14	anatomie 251 266	ophtalmologique
+T2	examen 318 333	acuité visuelle
+T22	anatomie 325 333	visuelle
+T1	moment 336 349	A l’admission
+T12	examen 352 374	examen ophtalmologique
+T15	anatomie 359 374	ophtalmologique
+T3	examen 390 405	acuité visuelle
+T23	anatomie 397 405	visuelle
+T4	examen 454 469	acuité visuelle
+T24	anatomie 461 469	visuelle
+T13	examen 522 532	fond d’œil
+T26	anatomie 529 532	œil
+T19	anatomie 553 563	rétinienne
+T28	age 57 59	33
+T7	anatomie 608 618	bilatérale
+T29	age 63 69	42 ans
+T31	substance 721 746	antipaludéens de synthèse
+T5	examen 762 777	acuité visuelle
+T25	anatomie 769 777	visuelle
+T11	substance 82 107	antipaludéens de synthèse
+T8	genre 38 47	patientes
+A1	genre T8 féminin
+T17	osteomusculaires 132 155	polyarthrite rhumatoïde
+T30	peau 132 155	polyarthrite rhumatoïde
+T32	peau 163 175	sclérodermie
+T34	pathologie 163 175	sclérodermie
+T16	duree 215 232	pendant 3 à 4 ans
+A2	assertion T20 absent
+T6	sosy 295 333	baisse importante de l’acuité visuelle
+T21	nerveux 295 333	baisse importante de l’acuité visuelle
+T35	oeil 295 333	baisse importante de l’acuité visuelle
+T36	etatsosy 295 333	baisse importante de l’acuité visuelle
+T37	valeur 406 426	inférieure à 2/10ème
+T38	valeur 470 490	inférieure à 6/10ème
+A3	norme T37 bas
+A4	norme T38 bas
+T9	examen 540 581	angiographie rétinienne à la fluoresceine
+T39	oeil 595 641	maculopathie bilatérale en œil de bœuf typique
+T27	nerveux 674 689	scotome central
+T40	oeil 674 689	scotome central
+T41	etatsosy 674 689	scotome central
+A5	prise T31 arrêt
+T10	valeur 789 801	stationnaire
+T42	virales 82 95	antipaludéens
+T43	virales 721 734	antipaludéens
+T44	sosy 390 426	acuité visuelle inférieure à 2/10ème
+T45	sosy 454 490	acuité visuelle inférieure à 6/10ème
+T46	sosy 595 641	maculopathie bilatérale en œil de bœuf typique
+T47	examen 647 659	champ visuel
+T48	anatomie 653 659	visuel
+T49	sosy 674 689	scotome central
+T50	sosy 762 801	acuité visuelle est restée stationnaire

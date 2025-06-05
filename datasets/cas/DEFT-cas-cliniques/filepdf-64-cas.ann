@@ -1,0 +1,67 @@
+T1001	anatomie 158 168	abdominale
+T1002	anatomie 195 219	tissulaire rénale gauche
+T1003	anatomie 256 273	abdominopelvienne
+T1004	anatomie 341 370	pôle supérieur du rein gauche
+T1005	anatomie 690 702	veine rénale
+T1007	anatomie 973 982	vaisseaux
+T1008	anatomie 1130 1159	pôle supérieur du rein gauche
+T1009	anatomie 1329 1335	rénale
+T10010	anatomie 1350 1360	pulmonaire
+T10011	anatomie 1374 1392	abdomino-pelvienne
+T10061	examen 146 168	échographie abdominale
+T10062	examen 238 273	tomodensitométrie abdominopelvienne
+T10063	examen 541 578	reste de l’examen tomodensitométrique
+T10064	examen 821 846	étude anatomopathologique
+T10065	examen 876 896	examen macroscopique
+T10066	examen 919 929	histologie
+T10067	examen 1274 1310	examens biologiques et radiologiques
+T10068	examen 1337 1360	radiographie pulmonaire
+T10069	examen 1362 1392	échographie abdomino-pelvienne
+T100111	moment 1212 1231	un recul de 34 mois
+T100141	traitement 782 801	néphrectomie totale
+T100162	valeur 1311 1318	normaux
+T100181	pathologie 39 77	antécédents pathologiques particuliers
+T100182	pathologie 650 662	adénopathies
+T100191	sosy 189 219	masse tissulaire rénale gauche
+T100194	sosy 594 634	intégrité de l’espace péri et pararénale
+T100195	pathologie 741 763	tumeur maligne du rein
+T100196	sosy 956 1000	prolifération de vaisseaux à lumière élargie
+T100197	sosy 1104 1159	lymphangiome caverneux du pôle supérieur du rein gauche
+T10013	anatomie 827 846	anatomopathologique
+T10014	anatomie 900 904	rein
+T10015	sosy 900 914	rein spongieux
+T10016	examen 1320 1335	fonction rénale
+T2006	anatomie 759 763	rein
+T200161	valeur 301 317	4 cm de diamètre
+T200192	sosy 292 395	masse de 4 cm de diamètre intéressait surtout le pôle supérieur du rein gauche à développement exorénal
+T200193	sosy 449 513	rehaussement hétérogène avec de nombreuses logettes liquidiennes
+T200196	sosy 1004 1049	confluents occupés par un liquide éosinophile
+T20012	sosy 109 142	colique néphrétique gauche isolée
+T20013	anatomie 117 135	néphrétique gauche
+T20014	anatomie 387 395	exorénal
+T20017	anatomie 609 634	espace péri et pararénale
+T20018	sosy 676 702	liberté de la veine rénale
+T20021	sosy 1062 1082	quelques lymphocytes
+T20022	anatomie 1117 1126	caverneux
+T20023	sosy 1250 1264	parfaite santé
+T20025	sosy 1274 1318	examens biologiques et radiologiques normaux
+T1	date 88 103	20 octobre 1996
+T3	anatomie 1004 1014	confluents
+A1	assertion T100197 possible
+A2	assertion T100181 absent
+A3	assertion T100182 absent
+A4	norme T100162 normal
+A5	etat T100181 passé
+T4	mode 399 408	injection
+T5	substance 412 432	produit de contraste
+T200197	etatsosy 109 142	colique néphrétique gauche isolée
+T200198	tumeur 741 763	tumeur maligne du rein
+T2	homme 741 763	tumeur maligne du rein
+T6	tumeur 1104 1159	lymphangiome caverneux du pôle supérieur du rein gauche
+T7	homme 1104 1159	lymphangiome caverneux du pôle supérieur du rein gauche
+T8	genre 15 22	patient
+A6	genre T8 masculin
+T9	age 26 32	39 ans
+T10	origine 109 142	colique néphrétique gauche isolée
+T11	issue 1207 1393	Avec un recul de 34 mois, le malade est en parfaite santé avec des examens biologiques et radiologiques normaux (fonction rénale, radiographie pulmonaire, échographie abdomino-pelvienne)
+A7	issue T11 guérison

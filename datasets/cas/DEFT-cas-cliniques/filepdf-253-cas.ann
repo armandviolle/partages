@@ -1,0 +1,6 @@
+T1	genre 0 9	Un garçon
+T2	age 13 19	3 mois
+A1	genre T1 masculin
+T3	origine 63 133	syndrome de détresse respiratoire associée à une fièvre chiffrée à 39°
+T4	issue 1913 1935	une nette amélioration
+A2	issue T4 amélioration

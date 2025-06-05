@@ -1,0 +1,6 @@
+T1	genre 39 49	un patient
+T2	age 57 63	21 ans
+A1	genre T1 masculin
+T3	origine 129 357	oligo-anurie et dont l’anamnèse a retrouvé la présence de lombalgies bilatérales remontant à 2 mois associées à une pollakiurie nocturne, dysurie et douleurs hypogastriques, avec une constipation et un amaigrissement non chiffré
+T4	issue 3317 3387	le patient est toujours en rémission complète avec un recul de 12 mois
+A2	issue T4 amélioration

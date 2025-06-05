@@ -1,0 +1,6 @@
+T1	age 8 14	83 ans
+T2	genre 678 687	testicule
+A1	genre T2 masculin
+T3	origine 66 163	une grosse bourse gauche d'apparition récente non douloureuse et une altération de l'état général
+T4	issue 2703 2826	Le recul est actuellement de 18 mois avec des marqueurs sériques et un examen tomodensitométrique thoraco-abdominal normaux
+A2	issue T4 amélioration

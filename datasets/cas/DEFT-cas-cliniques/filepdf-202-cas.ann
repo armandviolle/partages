@@ -1,0 +1,213 @@
+T23	sosy 91 105	violente chute
+T35	anatomie 1032 1045	fémoral droit
+T79	anatomie 1074 1080	rénale
+T96	valeur 1135 1159	moyennement satisfaisant
+T45	sosy 1292 1317	instabilité hémodynamique
+T9	anatomie 1364 1373	abdominal
+T8	anatomie 1387 1394	abdomen
+T1	homme 1425 1431	anurie
+T139	age 14 20	32 ans
+T50	traitement 1508 1570	laparotomie exploratrice à visée décompressive et hémostatique
+T65	anatomie 1666 1680	pédicule rénal
+T3	etatsosy 1705 1729	hématome rétropéritonéal
+T89	mode 1714 1729	rétropéritonéal
+T13	anatomie 1795 1818	aortique endovasculaire
+T48	traitement 1842 1853	laparotomie
+T70	anatomie 1920 1931	péritonéale
+T99	anatomie 1957 1973	aorte thoracique
+T100	traitement 1982 2017	thoracotomie antéro-latérale gauche
+T51	anatomie 1995 2017	antéro-latérale gauche
+T53	anatomie 2040 2051	loge rénale
+T103	anatomie 2066 2076	vasculaire
+T57	anatomie 192 219	flanc et une fosse lombaire
+T22	anatomie 2117 2126	cardiaque
+T104	anatomie 2167 2177	vasculaire
+T14	anatomie 2213 2221	aortique
+T49	traitement 2228 2239	laparotomie
+T29	sosy 192 235	flanc et une fosse lombaire très douloureux
+T15	anatomie 2348 2371	aortique endovasculaire
+T58	sosy 266 288	masse rétropéritonéale
+T68	anatomie 2660 2669	péritoine
+T16	anatomie 2681 2689	aortique
+T91	anatomie 272 288	rétropéritonéale
+T90	mode 2858 2873	rétropéritonéal
+T105	examen 294 307	visualisation
+T41	anatomie 2966 2971	grêle
+T46	anatomie 2981 2991	ischémique
+T17	anatomie 3031 3044	endo-aortique
+T24	anatomie 3049 3061	colon gauche
+T71	anatomie 311 315	rein
+T54	anatomie 3130 3141	loge rénale
+T33	anatomie 3159 3175	fascia de Gérota
+T55	anatomie 3266 3277	loge rénale
+T67	anatomie 3313 3334	pédicule rénal gauche
+T75	anatomie 3373 3384	rein gauche
+T97	examen 341 348	scanner
+T12	anatomie 3446 3456	abdominale
+T95	valeur 3463 3481	sans particularité
+T6	duree 3521 3531	20 minutes
+T42	anatomie 3547 3561	intestin grêle
+T93	sosy 3610 3645	saignement diffus de la loge rénale
+T56	anatomie 3634 3645	loge rénale
+T10	anatomie 3656 3665	abdominal
+T11	anatomie 3795 3804	abdominal
+T141	anatomie 3838 3845	cutanée
+T2	etatsosy 390 414	hématome rétropéritonéal
+T52	moment 3923 3935	le lendemain
+T87	anatomie 399 414	rétropéritonéal
+T94	anatomie 4073 4077	sang
+T101	substance 4110 4120	traitement
+T27	substance 4138 4156	culots globulaires
+T111	anatomie 4145 4155	globulaire
+T7	dose 4158 4166	3 poches
+T115	anatomie 4188 4200	plaquettaire
+T4	homme 4252 4271	insuffisance rénale
+T84	anatomie 4265 4271	rénale
+T32	anatomie 4303 4315	extra-rénale
+T34	examen 4365 4380	fonction rénale
+T86	anatomie 4374 4380	rénale
+T60	valeur 4381 4388	normale
+T25	examen 4390 4403	créatininémie
+T74	anatomie 441 452	rein gauche
+T92	sosy 551 567	saignement actif
+T62	substance 595 615	produit de contraste
+T125	sosy 658 665	lésions
+T88	anatomie 752 767	rétropéritonéal
+T69	anatomie 776 794	cavité péritonéale
+T102	mode 882 893	transfusion
+T26	substance 899 917	culots globulaires
+T110	anatomie 906 916	globulaire
+T98	examen 953 960	scanner
+T5	anatomie 1879 1894	aorte coeliaque
+T19	sosy 818 853	dégradation de l'état hémodynamique
+T20	examen 239 250	échographie
+T18	etatsosy 743 767	hématome rétropéritonéal
+T21	examen 162 177	examen clinique
+T28	sosy 51 68	choc hémorragique
+T30	sosy 1387 1419	abdomen tendu, mat et volumineux
+T31	sosy 1339 1373	syndrome du compartiment abdominal
+T36	sosy 730 794	rupture de l'hématome rétropéritonéal dans la cavité péritonéale
+T37	sosy 441 514	rein gauche était dévascularisé et fracturé en une multitude de fragments
+T38	etatsosy 699 712	hémopéritoine
+T39	digestif 699 712	hémopéritoine
+T40	sosy 699 712	hémopéritoine
+A1	assertion T125 absent
+T43	blessures 91 105	violente chute
+T44	etatsosy 51 68	choc hémorragique
+T47	moment 4338 4355	au quinzième jour
+T61	sosy 3770 3804	syndrome du compartiment abdominal
+T63	traitement 1576 1595	nephrectomie totale
+T64	anatomie 2537 2552	aorte coeliaque
+T66	traitement 2338 2371	occlusion aortique endovasculaire
+T72	examen 2296 2310	artériographie
+T73	etatsosy 2849 2873	hématome rétropéritonéal
+T59	anatomie 2928 2946	organes abdominaux
+T77	traitement 3022 3044	clampage endo-aortique
+T78	etatsosy 3074 3082	hématome
+T80	etatsosy 3300 3308	hématome
+T76	valeur 4406 4415	90 µmol/l
+A2	norme T76 normal
+T81	valeur 4059 4069	4,6 litres
+T82	genre 3 10	patient
+T83	digestif 423 436	hémopéritoine
+T85	etatsosy 423 436	hémopéritoine
+T106	sosy 423 436	hémopéritoine
+T107	sosy 939 949	hémorragie
+T108	etatsosy 939 949	hémorragie
+T109	etatsosy 818 853	dégradation de l'état hémodynamique
+T112	etatsosy 3610 3620	saignement
+A3	genre T82 masculin
+T113	dispositif 1163 1183	introducteur fémoral
+T114	valeur 516 523	grade V
+T116	valeur 2693 2709	7 cm de longueur
+T117	valeur 2716 2733	20 mm de diamètre
+T118	valeur 2749 2754	20 cc
+T119	dispositif 3486 3495	ballonnet
+T120	traitement 36 45	déchocage
+T121	sosy 294 315	visualisation du rein
+A4	assertion T121 absent
+T122	anatomie 625 633	artériel
+T123	moment 616 633	au temps artériel
+T124	sosy 586 633	fuite de produit de contraste au temps artériel
+T126	dose 897 898	8
+T127	examen 996 1045	angiographie par un abord percutané fémoral droit
+T128	mode 1016 1045	abord percutané fémoral droit
+T129	traitement 1051 1080	embolisation sélective rénale
+T130	moment 1111 1128	post-embolisation
+T131	anatomie 1176 1183	fémoral
+T132	sosy 1437 1473	pression intravésicale à 40 cm d'eau
+T133	examen 1437 1459	pression intravésicale
+T134	anatomie 1446 1459	intravésicale
+T135	valeur 1462 1473	40 cm d'eau
+T136	traitement 1785 1818	occlusion aortique endovasculaire
+T137	dispositif 1823 1832	ballonnet
+T138	traitement 1857 1894	clampage premier de l'aorte coeliaque
+T140	traitement 1910 1931	ouverture péritonéale
+T142	traitement 1935 1973	clampage premier de l'aorte thoracique
+A5	assertion T142 possible
+A6	assertion T138 possible
+A7	assertion T136 possible
+T143	traitement 2057 2086	contrôle vasculaire préalable
+A8	assertion T143 absent
+T144	traitement 2021 2051	abord direct de la loge rénale
+A9	assertion T144 possible
+T145	sosy 2105 2126	désamorçage cardiaque
+A10	assertion T145 hypothétique
+T146	traitement 2158 2177	contrôle vasculaire
+A11	assertion T146 possible
+T147	traitement 2204 2221	contrôle aortique
+T148	dispositif 2259 2271	introducteur
+T149	dispositif 2376 2394	introducteur de 7F
+T150	traitement 2376 2452	introducteur de 7F a été changé sur guide au profit d'un introducteur de 10F
+T151	dispositif 2433 2452	introducteur de 10F
+T152	traitement 2471 2513	glissé sous contrôle scopique un ballonnet
+T153	dispositif 2504 2513	ballonnet
+T154	traitement 2524 2569	placé dans l'aorte coeliaque en regard de T12
+T155	anatomie 2566 2569	T12
+T156	dispositif 2615 2638	coïls de l'embolisation
+T157	traitement 2647 2669	ouverture du péritoine
+T158	dispositif 2674 2733	ballon aortique de 7 cm de longueur et de 20 mm de diamètre
+T159	traitement 2674 2754	ballon aortique de 7 cm de longueur et de 20 mm de diamètre a été gonflé à 20 cc
+T160	sosy 2770 2801	remontée tensionnelle immédiate
+T161	valeur 2824 2832	4 litres
+T162	traitement 2807 2845	hémopéritoine de 4 litres a été évacué
+T163	sosy 2807 2832	hémopéritoine de 4 litres
+T164	anatomie 2897 2910	ligne médiane
+T165	sosy 2849 2961	hématome rétropéritonéal dépassait largement la ligne médiane et refoulait les organes abdominaux vers la droite
+T166	sosy 2966 2991	grêle d'aspect ischémique
+T167	traitement 3049 3096	colon gauche noyé dans l'hématome a été récliné
+T168	traitement 3111 3141	abord direct de la loge rénale
+T169	traitement 3146 3175	ouverture du fascia de Gérota
+T170	anatomie 3188 3214	fragment polaire inférieur
+T171	traitement 3180 3261	premier fragment polaire inférieur totalement dévascularisé et libre a été enlevé
+T172	sosy 3266 3308	loge rénale était disséquée par l'hématome
+T173	traitement 3362 3384	éxérèse du rein gauche
+T174	sosy 3374 3418	ein gauche qui était fracturé en 3 fragments
+T175	examen 3434 3456	exploration abdominale
+T176	sosy 3423 3481	reste de l'exploration abdominale était sans particularité
+T177	traitement 3486 3509	ballonnet a été déflaté
+T178	sosy 3547 3581	intestin grêle a repris sa couleur
+T179	traitement 3534 3543	occlusion
+T180	traitement 3828 3855	fermeture cutanée exclusive
+T181	dispositif 3860 3869	ballonnet
+T182	traitement 3860 3882	ballonnet a été retiré
+T183	moment 3883 3904	en fin d'intervention
+T184	moment 3960 3966	à 48 h
+T185	traitement 3972 3988	retrait du champ
+T186	traitement 3992 4011	fermeture pariétale
+T187	anatomie 4002 4011	pariétale
+T188	traitement 4033 4077	recyclé par le cell-saver 4,6 litres de sang
+T189	dispositif 4048 4058	cell-saver
+T190	dispositif 4124 4134	cell-saver
+T191	dose 4136 4137	8
+T192	substance 4170 4176	plasma
+T193	substance 4182 4201	pools plaquettaires
+T194	dose 4180 4181	2
+T195	traitement 4293 4315	épuration extra-rénale
+A12	assertion T195 absent
+T196	sosy 4365 4416	fonction rénale normale (créatininémie à 90 µmol/l)
+T197	sosy 390 414	hématome rétropéritonéal
+T198	sosy 1425 1431	anurie
+T199	sosy 1705 1729	hématome rétropéritonéal
+T200	sosy 3074 3082	hématome
+T201	pathologie 4252 4271	insuffisance rénale

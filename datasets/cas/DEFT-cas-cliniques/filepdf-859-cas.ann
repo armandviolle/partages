@@ -1,0 +1,6 @@
+T1	genre 35 42	féminin
+T2	age 52 58	5 mois
+A1	genre T1 féminin
+T3	origine 294 316	une dysmorphie faciale
+T4	issue 1470 1614	La prise en charge ophtalmologique a consisté en une résection des 2 kystes dermoïdes avec une cure chirurgicale réparatrice de la fente labiale
+A2	issue T4 amélioration

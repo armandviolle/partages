@@ -1,0 +1,10 @@
+T1	C0032961 9 19	grossesses
+#1	AnnotatorNotes T1	"C0032961", "Pregnancy", "Organism Function" ,"PHYS"
+T2	C0005767 91 95	sang
+#2	AnnotatorNotes T2	"C0005767", "Blood", "Tissue" ,"ANAT"
+T3	C0026591 96 104	maternel
+#3	AnnotatorNotes T3	"C0026591", "Mother (person)", "Family Group" ,"LIVB"
+T5	C0201539 63 82	alpha-foetoprotéine
+#5	AnnotatorNotes T5	"C0201539", "Alpha one fetoprotein measurement", "Laboratory Procedure" ,"PROC"
+T6	C0229664 91 95	sang
+#6	AnnotatorNotes T6	"C0229664", "peripheral blood", "Body Substance" ,"ANAT"

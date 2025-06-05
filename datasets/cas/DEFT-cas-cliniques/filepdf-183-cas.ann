@@ -1,0 +1,6 @@
+T1	genre 0 8	Monsieur
+T2	age 22 28	53 ans
+A1	genre T1 masculin
+T3	origine 70 150	une hématurie totale, des lombalgies droites et une altération de l’état général
+T4	issue 2156 2229	Après 2 ans de recul, le patient était indemne de toute récidive tumorale
+A2	issue T4 amélioration

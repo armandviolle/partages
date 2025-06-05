@@ -1,0 +1,6 @@
+T1	age 15 21	15 ans
+T2	genre 6 11	fille
+A1	genre T2 féminin
+T3	origine 48 80	un écoulement ombilical purulent
+T4	issue 852 920	l'évolution était favorable sans récidive de l'écoulement ombilicale
+A2	issue T4 guérison

@@ -1,0 +1,6 @@
+T1	age 13 19	22 ans
+T2	genre 4 9	femme
+A1	genre T2 féminin
+T3	origine 116 240	ingéré volontairement 200 mL de teinture mère de Nux vomica, correspondant à une dose de 212 mg de strychnine soit 3,5 mg/kg
+T4	issue 2041 2186	La patiente sortira deux jours après son admission, en bonne santé et une prise en charge ambulatoire de ses troubles du comportement alimentaire
+A2	issue T4 amélioration

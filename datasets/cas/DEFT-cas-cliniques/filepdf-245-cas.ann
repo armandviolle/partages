@@ -1,0 +1,6 @@
+T1	genre 0 3	Mme
+T2	age 18 24	31 ans
+A1	genre T1 féminin
+T3	origine 57 244	une voussure du flanc droit de taille croissante depuis 8mois avant son hospitalisation associée à une altération de l'état général avec impotence fonctionnelle du membre inférieur gauche
+T4	issue 1728 1850	La surveillance radiologique n'a pas détecté de récidive locale, ni de métastases à distance avec un recul actuel de 2 ans
+A2	issue T4 amélioration

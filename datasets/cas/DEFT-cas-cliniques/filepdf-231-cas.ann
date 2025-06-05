@@ -1,0 +1,6 @@
+T1	genre 0 8	Monsieur
+T2	age 22 37	vingt-trois ans
+A1	genre T1 masculin
+T3	origine 97 175	hémato-chylurie (urine couleur laitfraise) intermittente évoluant depuis un an
+T4	issue 2371 2524	Revu à 4 mois de l’intervention, le patient n’a pas présenté de récidives et une nette amélioration de l’état général avec reprise de poids est constatée
+A2	issue T4 guérison

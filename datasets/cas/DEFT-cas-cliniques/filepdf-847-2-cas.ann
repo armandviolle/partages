@@ -1,0 +1,6 @@
+T1	genre 0 7	Patient
+T2	age 11 17	59 ans
+A1	genre T1 masculin
+T3	origine 76 301	un syndrome douloureux épigastrique rythmé par les repas évoluant depuis 10 ans, des vomissements alimentaires post prandiaux survenant deux heures après les repas d’apparition récente mais avec conservation de l’état général
+T4	issue 1191 1267	Les suites immédiates ou tardives été bonnes. Le malade va bien actuellement
+A2	issue T4 amélioration

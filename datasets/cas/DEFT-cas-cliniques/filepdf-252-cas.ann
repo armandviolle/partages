@@ -1,0 +1,143 @@
+T1001	anatomie 111 128	lombaires droites
+T1002	anatomie 625 646	fosse lombaire droite
+T1003	anatomie 247 268	fosse lombaire droite
+T1004	anatomie 664 670	rénale
+T1006	anatomie 1196 1207	rein gauche
+T1007	anatomie 915 925	rein droit
+T1009	anatomie 877 888	rein gauche
+T10010	anatomie 1363 1371	cortical
+T10011	anatomie 1648 1665	voies excrétrices
+T10012	anatomie 1691 1706	cavité kystique
+T10013	anatomie 1769 1786	cavités urinaires
+T10014	mode 2003 2033	11ème espace intercostal droit
+T10016	anatomie 2206 2219	dôme saillant
+T10017	anatomie 2258 2266	muqueuse
+T10018	anatomie 2318 2324	pyélon
+T10019	anatomie 2368 2385	voies excrétrices
+T10020	anatomie 2530 2541	loge rénale
+T10021	anatomie 2904 2914	rein droit
+T10022	anatomie 2949 2960	rein gauche
+T10051	duree 138 154	depuis 24 heures
+T10061	examen 158 164	examen
+T10062	examen 273 289	bilan biologique
+T10063	examen 376 413	examen cytobactériologique des urines
+T10064	examen 652 670	échographie rénale
+T10065	examen 892 902	uroscanner
+T10066	examen 1301 1315	échographiques
+T10067	examen 1530 1554	urographie intraveineuse
+T10068	examen 2037 2048	exploration
+T10070	examen 2545 2571	examen anatomopathologique
+T10071	examen 2881 2892	échographie
+T100111	moment 498 527	Après 48 heures de traitement
+T100112	moment 1565 1579	après 15 jours
+T100115	moment 2821 2840	un recul de 15 mois
+T100121	substance 466 476	céfotaxime
+T100122	substance 485 496	gentamicine
+T100123	substance 2753 2776	antiseptiques urinaires
+T100141	traitement 1426 1446	drainage scannoguidé
+T100142	traitement 1857 1880	indication chirurgicale
+T100143	traitement 1968 1978	lombotomie
+T100162	valeur 1187 1192	28 mm
+T100164	valeur 858 863	28 mm
+T100181	pathologie 33 67	antécédents pathologiques notables
+T100195	sosy 302 324	syndrome inflammatoire
+T100196	sosy 435 451	Escherichia coli
+T100198	sosy 592 646	apparition d'un empâtement de la fosse lombaire droite
+T100199	sosy 699 812	structure arrondie, bien limitée hypoéchogène homogène, sous capsulaire, de 69 mm de diamètre médio rénale droite
+T100205	sosy 1915 1933	épisode infectieux
+T100208	sosy 2859 2873	asymptomatique
+T10023	valeur 206 210	40°C
+T10024	examen 192 203	température
+T10027	examen 1319 1339	tomodensitométriques
+T10028	valeur 1456 1462	250 CC
+T10032	valeur 2158 2163	60 CC
+T10036	sosy 2518 2523	kyste
+T10037	anatomie 2552 2571	anatomopathologique
+T10039	valeur 2893 2900	normale
+T2005	anatomie 793 812	médio rénale droite
+T20015	anatomie 2081 2100	médio rénale droite
+T20069	examen 2131 2148	ponction du kyste
+T200144	traitement 2193 2219	résection du dôme saillant
+T200145	traitement 2467 2496	drain N°12 a été mis en place
+T200146	traitement 1899 1933	traitement de l'épisode infectieux
+T200147	traitement 2502 2541	drainer le péri kyste et la loge rénale
+T200161	valeur 775 792	69 mm de diamètre
+T200163	valeur 989 1005	7 cm de diamètre
+T200165	valeur 2109 2126	55 mm de diamètre
+T200191	sosy 562 586	persistance de la fièvre
+T200192	sosy 102 128	douleurs lombaires droites
+T200193	sosy 192 210	température à 40°C
+T200194	sosy 216 268	douleurs à l'ébranlement de la fosse lombaire droite
+T200197	sosy 92 98	fièvre
+T200200	sosy 938 1031	formation kystique corticale bien limitée mesurant 7 cm de diamètre à contenu liquidien dense
+T200201	sosy 1087 1124	rehaussement net de la paroi kystique
+T200202	sosy 1357 1382	kyste cortical surinfecté
+T200203	sosy 1593 1627	sécrétion bilatérale et symétrique
+T200204	sosy 1633 1665	dilatation des voies excrétrices
+T200206	sosy 2062 2126	formation kystique médio rénale droite faisant 55 mm de diamètre
+T20024	examen 326 350	vitesse de sédimentation
+T20025	valeur 353 355	85
+T20027	sosy 825 888	structure kystique anéchogène de 28 mm au niveau du rein gauche
+T20028	anatomie 957 966	corticale
+T20029	mode 1039 1048	injection
+T20030	substance 1052 1072	produit de contraste
+T2008	sosy 1156 1257	deuxième formation kystique de 28 mm du rein gauche à contenu liquidien et à paroi fine non rehaussée
+T20031	examen 1290 1299	cliniques
+T20033	sosy 1456 1469	250 CC de pus
+T20035	traitement 1489 1526	drain a continué a ramener des urines
+T20036	mode 1541 1554	intraveineuse
+T20037	sosy 1671 1713	opacification de la cavité kystique droite
+T20038	sosy 1746 1786	communication avec les cavités urinaires
+T20039	sosy 1823 1841	kyste pyélogénique
+T20040	traitement 1937 1949	intervention
+T20042	sosy 2143 2148	kyste
+T20043	sosy 2158 2187	60 CC de liquide jaune citrin
+T20045	traitement 2240 2275	destruction de la muqueuse restante
+T20046	mode 2279 2288	injection
+T20047	examen 2292 2309	bleu de méthylène
+T20048	pathologie 2338 2385	fistule entre le kyste et les voies excrétrices
+T20049	traitement 2420 2462	fermée par 2 surjets superposés au PDS 5/0
+T20050	sosy 2607 2648	diverticule caliciel (kyste pyélogénique)
+T20052	anatomie 2619 2627	caliciel
+T20053	moment 2728 2732	à J6
+T20054	sosy 2881 2914	échographie normale du rein droit
+T20055	sosy 2925 2960	kyste asymptomatique du rein gauche
+T20056	examen 2976 2985	surveillé
+T20057	moment 165 178	à l'admission
+T20058	sosy 326 369	vitesse de sédimentation à 85 la 1ère heure
+T20059	anatomie 755 770	sous capsulaire
+T20060	anatomie 2399 2409	calicielle
+A1	assertion T100181 absent
+T1	moment 356 369	la 1ère heure
+A2	assertion T200204 absent
+A3	norme T10023 haut
+A4	norme T10039 normal
+A5	etat T100181 passé
+T2	anatomie 407 413	urines
+T3	anatomie 1520 1526	urines
+T200209	etatsosy 216 268	douleurs à l'ébranlement de la fosse lombaire droite
+T200210	etatsosy 102 128	douleurs lombaires droites
+T200211	etatsosy 580 586	fièvre
+T4	etatsosy 302 324	syndrome inflammatoire
+T6	femme 825 888	structure kystique anéchogène de 28 mm au niveau du rein gauche
+T7	femme 699 812	structure arrondie, bien limitée hypoéchogène homogène, sous capsulaire, de 69 mm de diamètre médio rénale droite
+T8	femme 1156 1207	deuxième formation kystique de 28 mm du rein gauche
+T9	femme 2925 2960	kyste asymptomatique du rein gauche
+T10	infections 2607 2648	diverticule caliciel (kyste pyélogénique)
+T11	etatsosy 2607 2648	diverticule caliciel (kyste pyélogénique)
+T12	tumeur 2629 2647	kyste pyélogénique
+T13	femme 2062 2100	formation kystique médio rénale droite
+T14	tumeur 1823 1841	kyste pyélogénique
+T15	tumeur 1357 1382	kyste cortical surinfecté
+T16	tumeur 2143 2148	kyste
+T17	tumeur 2338 2345	fistule
+T18	tumeur 2518 2523	kyste
+T19	etatsosy 92 98	fièvre
+T5	infections 1915 1933	épisode infectieux
+T20	femme 2607 2648	diverticule caliciel (kyste pyélogénique)
+T21	genre 4 12	fillette
+T22	age 21 27	12 ans
+A6	genre T21 féminin
+T23	origine 92 154	fièvre et douleurs lombaires droites évoluant depuis 24 heures
+T24	issue 2778 2985	L'évolution clinique a été favorable après un recul de 15 mois avec une patiente asymptomatique et une échographie normale du rein droit. Le petit kyste asymptomatique du rein gauche est simplement surveillé
+A7	issue T24 guérison

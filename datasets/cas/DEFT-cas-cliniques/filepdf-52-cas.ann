@@ -1,0 +1,6 @@
+T1	age 12 18	73 ans
+T2	genre 3 8	homme
+A1	genre T2 masculin
+T3	origine 59 86	une hématurie macroscopique
+T4	issue 1576 1625	Le patient n’a pas de récidive tumorale à ce jour
+A2	issue T4 amélioration

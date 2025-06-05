@@ -1,0 +1,85 @@
+T4	duree 63 76	depuis 20 ans
+T5	traitement 106 123	colectomie totale
+T6	traitement 135 151	résection iléale
+T7	anatomie 145 151	iléale
+T8	sosy 176 198	anastomose iléorectale
+T9	anatomie 187 198	iléorectale
+T11	sosy 236 285	volumineux abcès de la fosse ischiorectale droite
+T12	anatomie 259 285	fosse ischiorectale droite
+T13	pathologie 300 370	fistule suprasphincterienne remontant sur la face antérieure du rectum
+T14	anatomie 308 327	suprasphincterienne
+T15	anatomie 345 370	face antérieure du rectum
+T16	sosy 502 532	écoulement d’urines par l’anus
+T18	anatomie 528 532	anus
+T19	pathologie 570 592	fistule recto-urétrale
+T20	anatomie 578 592	recto-urétrale
+T21	pathologie 614 623	fécalurie
+A3	assertion T21 absent
+#1	AnnotatorNotes T21	présence de matière fécale dans les urines
+T22	pathologie 628 639	pneumaturie
+A4	assertion T22 absent
+T23	examen 643 688	urétrocystographie rétrograde et mictionnelle
+T25	pathologie 725 813	fistule au niveau de la paroi postérieure de la partie terminale de l’urètre prostatique
+T26	anatomie 749 813	paroi postérieure de la partie terminale de l’urètre prostatique
+T27	examen 818 829	rectoscopie
+T28	traitement 878 921	drainage vésical simple par sonde à demeure
+T29	anatomie 887 894	vésical
+T31	pathologie 983 990	fistule
+T32	traitement 1023 1043	ablation de la sonde
+T30	sosy 1047 1077	écoulement d’urines par l’anus
+T34	anatomie 1073 1077	anus
+T35	sosy 1084 1105	suppuration périnéale
+T36	anatomie 1096 1105	périnéale
+T37	traitement 1220 1259	obturer le versant rectal de la fistule
+T38	anatomie 1231 1259	versant rectal de la fistule
+T39	pathologie 1252 1259	fistule
+T40	anatomie 1317 1333	muqueuse rectale
+T44	duree 1390 1406	pendant six mois
+T45	pathologie 1461 1468	fistule
+T46	sosy 1485 1506	lésions anopérinéales
+T47	anatomie 1493 1506	anopérinéales
+A5	assertion T46 absent
+T48	sosy 1563 1597	miliaire pulmonaire carcinomateuse
+T49	anatomie 1572 1582	pulmonaire
+T53	moment 1528 1556	46 mois après l’intervention
+T54	traitement 1166 1202	lambeau muqueux rectal d’abaissement
+T56	sosy 1615 1637	récidive de la fistule
+A7	assertion T56 absent
+T1	sosy 1317 1345	muqueuse rectale était saine
+T2	pathologie 34 62	maladie de Crohn iléocolique
+T3	traitement 77 83	opérée
+T10	moment 200 208	A 49 ans
+T17	traitement 225 230	opéré
+T24	moment 449 463	Après six mois
+T33	sosy 848 873	orifice fistuleux évident
+A1	assertion T33 absent
+T41	moment 1125 1139	Après dix mois
+T42	traitement 1285 1294	chirurgie
+A2	assertion T45 absent
+T50	frequence 84 99	à deux reprises
+T52	traitement 376 399	mises à plat itératives
+T55	anatomie 1174 1181	muqueux
+T57	anatomie 1182 1188	rectal
+T43	anatomie 51 62	iléocolique
+T58	anatomie 515 521	urines
+T59	anatomie 1060 1066	urines
+T51	digestif 34 62	maladie de Crohn iléocolique
+T60	digestif 236 285	volumineux abcès de la fosse ischiorectale droite
+T61	infections 236 285	volumineux abcès de la fosse ischiorectale droite
+T62	homme 502 532	écoulement d’urines par l’anus
+T63	homme 570 592	fistule recto-urétrale
+T64	digestif 570 592	fistule recto-urétrale
+T65	homme 1047 1077	écoulement d’urines par l’anus
+T67	tumeur 1563 1597	miliaire pulmonaire carcinomateuse
+T69	homme 300 327	fistule suprasphincterienne
+T70	digestif 300 327	fistule suprasphincterienne
+T71	homme 725 813	fistule au niveau de la paroi postérieure de la partie terminale de l’urètre prostatique
+T72	digestif 725 813	fistule au niveau de la paroi postérieure de la partie terminale de l’urètre prostatique
+T66	cardiovasculaires 1563 1582	miliaire pulmonaire
+T68	peau 1563 1582	miliaire pulmonaire
+T73	genre 3 8	homme
+T74	age 12 18	53 ans
+A6	genre T73 masculin
+T75	origine 502 592	écoulement d’urines par l’anus qui permit de mettre en évidence une fistule recto-urétrale
+T76	issue 1519 1527	décédait
+A8	issue T76 décès

@@ -1,0 +1,6 @@
+T1	genre 0 10	Un patient
+T2	age 14 20	56 ans
+T3	origine 94 117	hématurie macroscopique
+A1	genre T1 masculin
+T4	issue 1312 1393	En mars 2001, le patient était asymptomatique, le PSA était inférieur à 0,1 ng/ml
+A2	issue T4 amélioration

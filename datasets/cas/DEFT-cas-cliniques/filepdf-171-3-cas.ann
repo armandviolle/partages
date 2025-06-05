@@ -1,0 +1,6 @@
+T1	genre 0 6	Madame
+T2	age 19 25	53 ans
+A1	genre T1 féminin
+T3	origine 32 170	depuis plus de 6 mois une symptomatologie associant dysurie, pollakiurie et impériosité mictionnelle et une incontinence urinaire d’effort
+T4	issue 951 1045	L’évolution était favorable sans signe de récidive tumorale avec un recul clinique de deux ans
+A2	issue T4 guérison

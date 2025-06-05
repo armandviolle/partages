@@ -1,0 +1,6 @@
+T1	genre 1190 1201	la patiente
+T2	age 19 25	28 ans
+A1	genre T1 féminin
+T3	origine 88 196	à 34 SA+ 5j, pour des vomissements incoercibles et des coliques hépatiques évoluant dans un contexte fébrile
+T4	issue 1144 1283	Devant l’amélioration clinique et biologique, la patiente quittait le service au bout de 6 jours. La grossesse s’était déroulée normalement
+A2	issue T4 guérison

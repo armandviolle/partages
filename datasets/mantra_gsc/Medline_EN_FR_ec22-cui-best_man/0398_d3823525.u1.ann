@@ -1,0 +1,8 @@
+T1	C1260971 0 35	Exposition professionnelle au bruit
+#1	AnnotatorNotes T1	"C1260971", "Occupational exposure to noise", "Finding" ,"DISO"
+T2	C1384666 37 52	déficit auditif
+#2	AnnotatorNotes T2	"C1384666", "hearing impairment", "Finding" ,"DISO"
+T3	C0020538 56 79	hypertension artérielle
+#3	AnnotatorNotes T3	"C0020538", "Hypertensive disease", "Disease or Syndrome" ,"DISO"
+T4	C0018772 37 52	déficit auditif
+#4	AnnotatorNotes T4	"C0018772", "Hearing Loss, Partial", "Finding" ,"DISO"

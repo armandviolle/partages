@@ -1,0 +1,6 @@
+T3	C0376539 41 46	EPREX
+#3	AnnotatorNotes T3	"C0376539", "Eprex", "Amino Acid Peptide or Protein|Pharmacologic Substance" ,"CHEM"
+T4	C0014772 101 126	nombre de globules rouges
+#4	AnnotatorNotes T4	"C0014772", "Red Blood Cell Count measurement", "Laboratory Procedure" ,"PROC"
+T13	C1287262 101 126	nombre de globules rouges
+#13	AnnotatorNotes T13	"C1287262", "Finding of red blood cell count", "Laboratory or Test Result" ,"PHEN"

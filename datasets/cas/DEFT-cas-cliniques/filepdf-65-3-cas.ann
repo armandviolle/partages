@@ -1,0 +1,95 @@
+T20	traitement 1025 1042	lombotomie droite
+T18	anatomie 1036 1042	droite
+T35	anatomie 1116 1120	sang
+T30	anatomie 1164 1180	surfaces du rein
+T44	tumeur 1312 1318	kystes
+T34	sosy 1338 1348	saignement
+T1	etatsosy 136 166	douleur de l'hypochondre droit
+T5	sosy 1371 1378	lésions
+T31	anatomie 1416 1420	rein
+T49	age 15 21	68 ans
+T16	anatomie 149 166	hypochondre droit
+T38	sosy 172 183	vomissement
+T56	nerveux 243 263	mauvais état général
+T2	etatsosy 269 290	dyspnée superficielle
+T7	pathologie 33 44	antécédents
+T47	anatomie 385 402	bases thoraciques
+T28	examen 408 431	radiographie pulmonaire
+T26	anatomie 421 431	pulmonaire
+T6	respiratoire 451 481	épanchement pleural bilatérale
+T23	anatomie 463 481	pleural bilatérale
+T11	anatomie 485 492	abdomen
+T10	examen 558 574	bilan biologique
+T8	anatomie 60 70	artérielle
+T3	etatsosy 601 617	hyperleucocytose
+T4	homme 636 655	insuffisance rénale
+T33	anatomie 649 655	rénale
+T37	examen 657 661	urée
+T66	examen 677 693	réserve alcaline
+T36	examen 849 905	tomodensitométrie sans injection du produit de contraste
+T19	mode 872 881	injection
+T25	substance 885 905	produit de contraste
+T32	anatomie 922 932	rein droit
+T9	date 101 116	16 février 1984
+T24	valeur 696 704	18 meq/l
+T27	valeur 664 671	0,75g/l
+T29	valeur 832 844	345UI/100 ml
+T40	valeur 620 629	26000/mn3
+T41	cardiovasculaires 47 70	hypertension artérielle
+T42	examen 212 218	examen
+T43	anatomie 294 301	abdomen
+T45	examen 818 828	amylasurie
+T46	examen 779 789	amylasémie
+T50	valeur 799 812	120 UI/100 ml
+T13	anatomie 1243 1258	pôle supérieure
+A1	assertion T5 absent
+A2	assertion T34 absent
+T14	etatsosy 1005 1008	HSC
+#1	AnnotatorNotes T14	hématome sous-capsulaire
+T15	sosy 1296 1318	rupture de deux kystes
+T17	respiratoire 269 290	dyspnée superficielle
+T22	etatsosy 243 263	mauvais état général
+T39	sosy 243 263	mauvais état général
+T48	sosy 269 290	dyspnée superficielle
+T51	sosy 294 325	abdomen était ballonné et tendu
+T52	examen 485 509	abdomen sans préparation
+A3	norme T24 bas
+#2	AnnotatorNotes T24	Normal entre 30 et 125
+A4	norme T40 haut
+A5	norme T27 haut
+#3	AnnotatorNotes T27	Normal entre 0,1 et 0,5
+A6	norme T29 haut
+#4	AnnotatorNotes T29	Normal entre 10 et 45 Ul
+A7	norme T50 normal
+#5	AnnotatorNotes T50	Normal si inférieur à 190 Ul
+T12	examen 1148 1180	exploration des surfaces du rein
+T53	sosy 532 553	niveaux hydroaériques
+A8	assertion T53 absent
+T54	sosy 741 758	pancréatite aigue
+A9	assertion T54 hypothétique
+T55	etatsosy 172 183	vomissement
+T57	digestif 188 208	syndrome subocclusif
+#6	AnnotatorNotes T57	occlusion intestinale
+T58	genre 232 239	patient
+A10	genre T58 masculin
+T59	sosy 374 402	matité des bases thoraciques
+T60	fonction 335 342	transit
+T61	sosy 336 356	ransit était audible
+T62	sosy 601 629	hyperleucocytose à 26000/mn3
+T63	sosy 636 672	insuffisance rénale (urée à 0,75g/l)
+T64	sosy 677 704	réserve alcaline à 18 meq/l
+T65	sosy 779 812	amylasémie était de 120 UI/100 ml
+T67	sosy 818 844	amylasurie de 345UI/100 ml
+T68	sosy 922 992	rein droit de volume normal entouré d'une masse de densité liquidienne
+T21	sosy 1005 1008	HSC
+A11	assertion T21 hypothétique
+T69	sosy 1062 1082	ouverture de la loge
+T70	traitement 1096 1144	issue de caillot de sang organisé très important
+T71	sosy 1205 1258	deux petites excavations au niveau du pôle supérieure
+T72	traitement 1403 1420	conserver le rein
+T73	moment 1518 1535	recul de deux ans
+T74	sosy 1471 1509	évolution à long terme était favorable
+T75	pathologie 47 78	hypertension artérielle traitée
+T76	sosy 136 166	douleur de l'hypochondre droit
+T77	pathologie 188 208	syndrome subocclusif
+T78	pathologie 451 481	épanchement pleural bilatérale

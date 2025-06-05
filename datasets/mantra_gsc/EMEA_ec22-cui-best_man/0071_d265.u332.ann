@@ -1,0 +1,8 @@
+T5	C0939393 177 186	NeuroBloc
+#5	AnnotatorNotes T5	"C0939393", "Myobloc", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T6	C0031831 119 126	médecin
+#6	AnnotatorNotes T6	"C0031831", "Physicians", "Professional or Occupational Group" ,"LIVB"
+T7	C0021485 153 162	injection
+#7	AnnotatorNotes T7	"C0021485", "Injection of therapeutic agent", "Therapeutic or Preventive Procedure" ,"PROC"
+T8	C1533685 153 162	injection
+#8	AnnotatorNotes T8	"C1533685", "Injection procedure", "Therapeutic or Preventive Procedure" ,"PROC"

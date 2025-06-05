@@ -1,0 +1,62 @@
+T3	date 651 663	janvier 2004
+T1	date 84 88	1982
+T6	anatomie 94 100	rachis
+T7	sosy 94 128	rachis était douloureux et enraidi
+T9	sosy 134 168	perte des courbures physiologiques
+T10	examen 193 214	clichés radiologiques
+T11	sosy 216 236	discopathies étagées
+T12	sosy 242 251	pincement
+T13	sosy 253 267	calcifications
+T14	sosy 271 282	vide discal
+T15	anatomie 276 282	discal
+T16	anatomie 318 326	oreilles
+T17	anatomie 332 336	yeux
+T18	anatomie 344 352	gencives
+T19	sosy 369 378	ochronose
+T20	anatomie 405 424	conque des oreilles
+T21	sosy 405 432	conque des oreilles bleutée
+T22	sosy 434 485	tache brune temporale en croissant des sclérotiques
+T23	anatomie 446 455	temporale
+T24	anatomie 473 485	sclérotiques
+T25	sosy 487 528	coloration brunâtre des dents et gencives
+T26	anatomie 511 516	dents
+T27	anatomie 520 528	gencives
+T29	sosy 552 582	urines ont bruni à l’air libre
+T30	examen 588 608	acide homogentisique
+T31	valeur 617 626	10 mmol/l
+T32	sosy 666 698	aspect bleuté du voile du palais
+T33	anatomie 683 698	voile du palais
+T34	anatomie 704 710	rachis
+T35	sosy 704 731	rachis est toujours enraidi
+T36	pathologie 751 795	polyarthropatie (épaules, genoux, chevilles)
+T37	anatomie 768 775	épaules
+T38	anatomie 777 783	genoux
+T39	anatomie 785 794	chevilles
+T40	sosy 804 835	souffle d’insuffisance aortique
+T41	anatomie 827 835	aortique
+T42	sosy 843 866	hypertension artérielle
+T43	anatomie 856 866	artérielle
+T44	pathologie 54 76	arthrose dorsolombaire
+T49	anatomie 63 76	dorsolombaire
+T45	sosy 918 931	consanguinité
+T2	sosy 588 626	acide homogentisique était à 10 mmol/l
+T4	anatomie 552 558	urines
+T5	osteomusculaires 54 76	arthrose dorsolombaire
+T8	osteomusculaires 216 236	discopathies étagées
+T28	osteomusculaires 242 251	pincement
+T46	osteomusculaires 253 267	calcifications
+T47	osteomusculaires 271 282	vide discal
+T48	etatsosy 369 378	ochronose
+T50	osteomusculaires 751 795	polyarthropatie (épaules, genoux, chevilles)
+T51	cardiovasculaires 804 835	souffle d’insuffisance aortique
+T52	cardiovasculaires 843 866	hypertension artérielle
+T53	blessures 94 128	rachis était douloureux et enraidi
+T54	nutritionnelles 552 582	urines ont bruni à l’air libre
+T55	genetique 552 582	urines ont bruni à l’air libre
+T56	blessures 704 731	rachis est toujours enraidi
+T57	etatsosy 751 795	polyarthropatie (épaules, genoux, chevilles)
+T58	genre 631 638	patient
+A1	genre T58 masculin
+T59	origine 54 76	arthrose dorsolombaire
+T60	issue 666 866	aspect bleuté du voile du palais, son rachis est toujours enraidi et il présente une polyarthropatie (épaules, genoux, chevilles) avec un souffle d’insuffisance aortique et une hypertension artérielle
+A2	issue T60 détérioration

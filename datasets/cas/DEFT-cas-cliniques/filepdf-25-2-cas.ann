@@ -1,0 +1,38 @@
+T23	age 11 17	67 ans
+T12	anatomie 133 141	prostate
+T18	sosy 133 184	prostate augmentée de volume et plus ferme à droite
+T17	examen 188 211	échographie endorectale
+T22	tumeur 231 273	nodules hypoéchogènes et hypervascularisés
+T3	sosy 24 34	antécédent
+T27	examen 302 313	taux de PSA
+T4	examen 339 381	ponctions biopsies de prostate échoguidées
+T13	anatomie 361 369	prostate
+T5	frequence 429 438	chronique
+T7	anatomie 488 498	cytoplasme
+T14	sosy 521 539	signe de malignité
+T16	substance 569 583	ant ibiotiques
+T11	duree 603 626	pendant quatre semaines
+T24	substance 636 650	alpha-bloquant
+T1	etatsosy 96 103	dysurie
+A1	assertion T3 absent
+T9	genre 0 7	Patient
+A2	genre T9 masculin
+T10	infections 65 90	adénomite aiguë à E. coli
+T20	homme 65 90	adénomite aiguë à E. coli
+T2	valeur 323 333	4,49 ng/ml
+T8	anatomie 200 211	endorectale
+A3	assertion T14 absent
+T19	substance 585 602	fl uoroquinolones
+T6	sosy 406 446	réaction inflammatoire chronique diffuse
+T15	sosy 455 514	présence de corps de M.G dans le cytoplasme des macrophages
+A4	norme T2 haut
+T21	pathologie 65 90	adénomite aiguë à E. coli
+T25	sosy 96 111	dysurie franche
+T26	etatsosy 406 446	réaction inflammatoire chronique diffuse
+T28	organisme 83 90	E. coli
+T29	anatomie 280 297	zone périphérique
+T30	sosy 302 333	taux de PSA était de 4,49 ng/ml
+T31	moment 698 715	recul de six mois
+T32	sosy 674 689	symptomatologie
+A5	assertion T32 absent
+T33	sosy 231 273	nodules hypoéchogènes et hypervascularisés

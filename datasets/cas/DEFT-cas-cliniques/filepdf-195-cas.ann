@@ -1,0 +1,164 @@
+T30	examen 1002 1017	examen clinique
+T5	sosy 1083 1127	lésions cicatricielles de l’éruption cutanée
+T73	anatomie 1120 1127	cutanée
+T40	examen 1132 1159	palpation de ces dermatomes
+T3	etatsosy 1176 1184	douleurs
+T27	etatsosy 1210 1231	décharges électriques
+T6	homme 123 141	rétention d’urines
+T49	examen 1236 1250	toucher rectal
+T45	anatomie 1244 1250	rectal
+T42	anatomie 1264 1272	prostate
+T31	examen 1314 1333	examen neurologique
+T37	anatomie 1321 1333	neurologique
+T59	anatomie 135 141	urines
+T17	anatomie 1368 1383	bulbo-caverneux
+T70	examen 1387 1423	échographie prostatique transrectale
+T44	anatomie 1399 1410	prostatique
+T43	anatomie 1437 1445	prostate
+T32	examen 1464 1492	fibroscopie uréthro-vésicale
+T65	anatomie 1476 1492	uréthro-vésicale
+T61	anatomie 1506 1523	filière uréthrale
+T38	valeur 1524 1531	normale
+T19	anatomie 1536 1547	col vésical
+T62	anatomie 1575 1581	vessie
+T36	anatomie 1656 1664	muqueuse
+T39	valeur 1665 1672	normale
+T63	anatomie 1706 1712	vessie
+T13	sosy 1860 1868	anomalie
+T48	traitement 1927 1944	sondage à demeure
+T52	substance 1951 1976	traitement alpha-bloquant
+T4	etatsosy 2169 2176	dysurie
+T67	examen 2285 2296	échographie
+T14	sosy 253 264	sciatalgies
+T53	substance 2400 2414	alpha-bloquant
+T68	examen 2637 2648	échographie
+T24	pathologie 269 299	diabète non-insulino-dépendant
+T9	sosy 2770 2790	troubles mictionnels
+T35	anatomie 2779 2790	mictionnels
+T69	examen 2941 2952	échographie
+T8	sosy 427 447	troubles mictionnels
+T34	anatomie 436 447	mictionnels
+T15	moment 448 465	avant cet épisode
+T33	anatomie 520 532	fesse gauche
+T7	homme 537 555	rétention d’urines
+T60	anatomie 549 555	urines
+T72	anatomie 600 607	cutanée
+T2	etatsosy 656 664	douleurs
+T21	anatomie 692 709	territoire cutané
+T10	dose 802 807	10 mg
+T41	frequence 808 816	par jour
+T12	traitement 863 883	ablation de la sonde
+T1	digestif 925 946	cholestase biologique
+T16	examen 936 946	biologique
+T18	etatsosy 1195 1203	brûlures
+A1	assertion T13 absent
+T22	examen 1831 1848	uréthromanométrie
+T23	examen 1677 1692	cystomanométrie
+T25	virales 2060 2064	zona
+T26	age 19 25	67 ans
+T28	sosy 361 385	neuropathie périphérique
+A2	assertion T28 absent
+A3	assertion T8 absent
+T29	moment 468 482	Depuis un mois
+T46	virales 509 532	zona de la fesse gauche
+T47	peau 591 607	éruption cutanée
+T54	etatsosy 675 683	brûlures
+T55	substance 778 788	alfuzosine
+T64	peau 728 736	éruption
+T50	peau 1111 1127	éruption cutanée
+T66	examen 2178 2200	débit urinaire maximal
+T56	valeur 2204 2212	9,3 ml/s
+T71	valeur 2300 2306	800 ml
+T74	examen 2251 2273	résidu post-mictionnel
+T75	virales 2463 2467	zona
+T76	virales 2703 2707	zona
+T77	moment 2432 2450	Dix semaines après
+T78	moment 2667 2690	Quatorze semaines après
+T79	etatsosy 2495 2504	dysurique
+T80	sosy 2495 2504	dysurique
+T81	sosy 2733 2742	dysurique
+A5	assertion T81 absent
+A6	assertion T9 absent
+T11	examen 2795 2806	débitmétrie
+T58	valeur 2845 2854	18,5 ml/s
+T82	sosy 3019 3037	trouble mictionnel
+A7	assertion T82 absent
+T57	examen 2509 2520	débitmétrie
+T83	valeur 2559 2567	8,7 ml/s
+T84	valeur 2592 2598	200 ml
+T85	valeur 2658 2664	250 ml
+T86	valeur 2879 2885	300 ml
+T87	valeur 2237 2243	216 ml
+T88	valeur 1733 1752	supérieure à 800 ml
+T89	valeur 1806 1812	608 ml
+T90	moment 2029 2047	six semaines après
+T20	genre 217 224	patient
+T51	nutritionnelles 269 299	diabète non-insulino-dépendant
+T91	endocriniennes 269 299	diabète non-insulino-dépendant
+T92	nerveux 253 264	sciatalgies
+T93	etatsosy 253 264	sciatalgies
+T94	valeur 1449 1459	20 grammes
+#1	AnnotatorNotes T55	alpha-bloquant, traitement de l'hypertrophie de la prostate
+T95	examen 2863 2875	volume uriné
+T96	examen 2576 2588	volume uriné
+T97	examen 2221 2233	volume uriné
+A4	genre T20 masculin
+A8	etat T24 passé
+T98	moment 2955 2969	Six mois après
+T99	dispositif 154 169	sonde à demeure
+T100	sosy 1264 1310	prostate de petit volume, souple et symétrique
+T101	homme 2169 2176	dysurie
+T102	homme 2495 2504	dysurique
+T103	genre 0 2	M.
+A9	genre T103 masculin
+T104	traitement 142 169	traitée par sonde à demeure
+T105	sosy 656 709	douleurs à type de brûlures dans le territoire cutané
+A10	assertion T12 absent
+T106	substance 954 974	traitement antiviral
+A11	prise T106 arrêt
+T107	sosy 1048 1077	dermatomes sensitifs S3 et S4
+T108	anatomie 1069 1077	S3 et S4
+T109	sosy 1149 1159	dermatomes
+T110	sosy 1176 1231	douleurs à type de brûlures et de décharges électriques
+T111	sosy 1347 1383	abolition du réflexe bulbo-caverneux
+T112	examen 1360 1383	réflexe bulbo-caverneux
+T113	mode 1411 1423	transrectale
+T114	sosy 1437 1459	prostate de 20 grammes
+T115	sosy 1506 1531	filière uréthrale normale
+T116	sosy 1536 1567	col vésical spontanément ouvert
+T117	sosy 1575 1672	vessie de grande capacité, ne présentant pas de stigmates de luttes et ayant une muqueuse normale
+T118	sosy 1706 1827	vessie de grande capacité (supérieure à 800 ml), compliante, hypoesthésique (premier besoin perçu à 608 ml), acontractile
+T119	traitement 2019 2028	désondage
+A12	assertion T119 possible
+T120	traitement 2095 2104	désondage
+T121	sosy 2109 2138	patient a repris ses mictions
+T122	sosy 2178 2212	débit urinaire maximal de 9,3 ml/s
+T123	sosy 2221 2243	volume uriné de 216 ml
+T124	sosy 2251 2306	résidu post-mictionnel mesuré par échographie de 800 ml
+T125	traitement 2342 2350	drainage
+A13	assertion T125 absent
+T126	sosy 2533 2567	débit urinaire maximal de 8,7 ml/s
+T127	sosy 2576 2598	volume uriné de 200 ml
+T128	anatomie 2539 2547	urinaire
+T129	anatomie 2583 2588	uriné
+T130	anatomie 2228 2233	uriné
+T131	anatomie 2184 2192	urinaire
+T132	examen 2533 2547	débit urinaire
+T133	sosy 2603 2664	résidu post-mictionnel mesuré par échographie était de 250 ml
+T134	examen 2819 2833	débit urinaire
+T135	anatomie 2825 2833	urinaire
+T136	sosy 2819 2854	débit urinaire maximal de 18,5 ml/s
+T137	sosy 2863 2885	volume uriné de 300 ml
+T138	anatomie 2870 2875	uriné
+T139	sosy 2914 2936	résidu post-mictionnel
+A14	assertion T139 absent
+T140	sosy 123 141	rétention d’urines
+T141	pathologie 509 532	zona de la fesse gauche
+T142	sosy 537 555	rétention d’urines
+T143	sosy 591 607	éruption cutanée
+T144	sosy 728 736	éruption
+T145	pathologie 925 946	cholestase biologique
+T146	sosy 2060 2064	zona
+T147	sosy 2169 2176	dysurie
+T148	sosy 2463 2467	zona
+T149	sosy 2703 2707	zona

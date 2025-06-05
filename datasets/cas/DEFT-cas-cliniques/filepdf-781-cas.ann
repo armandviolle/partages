@@ -1,0 +1,99 @@
+T20	examen 1431 1496	étude histopathologique au niveau de la zone de stomie et l’iléon
+T21	examen 1531 1556	étude immunohistochimique
+T7	substance 1685 1723	céphalosporine de troisième génération
+T8	substance 1725 1734	aminoside
+T9	substance 1738 1751	métronidazole
+T10	duree 1753 1770	pendant deux jour
+T13	examen 447 462	examen clinique
+T18	anatomie 633 642	abdominal
+T15	examen 828 850	échographie abdominale
+T19	anatomie 840 850	abdominale
+T16	examen 854 883	échographie trasfontanellaire
+T17	examen 889 910	échographie cardiaque
+T12	anatomie 866 883	trasfontanellaire
+T22	anatomie 901 910	cardiaque
+T24	sosy 364 381	syndrome occlusif
+T25	sosy 397 415	émission méconiale
+T26	anatomie 406 415	méconiale
+T27	sosy 423 443	vomissements bilieux
+T28	anatomie 436 443	bilieux
+T29	moment 463 478	à son admission
+T30	sosy 620 642	ballonnement abdominal
+T31	anatomie 560 568	frontale
+T32	sosy 585 613	pli de déshydratation pâteux
+T14	examen 741 744	ASP
+T23	examen 807 824	bilan malformatif
+T34	sosy 1018 1076	disparité de calibre intestinal au niveau de l’iléon moyen
+T35	anatomie 1039 1049	intestinal
+T36	anatomie 1065 1076	iléon moyen
+T37	sosy 1082 1158	rétrécissement intéressant tout le colon et les huit dernières anses iléales
+T38	anatomie 1117 1122	colon
+T39	anatomie 1130 1158	huit dernières anses iléales
+T40	sosy 1166 1205	dilatation importante des anses d’amont
+T41	anatomie 1192 1205	anses d’amont
+T42	examen 1211 1219	biopsies
+T43	anatomie 1241 1254	anses dilates
+T44	anatomie 1338 1351	anses iléales
+T45	traitement 1382 1392	iléostomie
+T46	anatomie 1407 1427	dernière anse iléale
+T47	anatomie 1479 1485	stomie
+T48	anatomie 1491 1496	iléon
+T49	pathologie 1515 1527	aganglionnie
+T50	anatomie 1581 1604	cellules ganglionnaires
+T51	substance 1653 1683	antibiothérapie prophylactique
+T52	sosy 1845 1893	aggravation des images radiologiques pulmonaires
+T54	anatomie 1882 1893	pulmonaires
+T55	sosy 2184 2190	fièvre
+T56	sosy 2197 2212	refus de tétées
+T58	moment 344 355	à J3 de vie
+T59	examen 1836 1839	CRP
+T64	examen 695 710	examen clinique
+T66	examen 980 1004	exploration chirurgicale
+T68	valeur 918 924	normal
+T69	valeur 730 737	normale
+T71	sosy 50 69	parents consanguins
+T60	moment 949 976	à J2 de son hospitalisation
+A3	norme T68 normal
+A4	norme T69 normal
+T62	examen 646 664	épreuve à la sonde
+T63	sosy 505 520	tonique réactif
+T65	moment 1936 1961	7ème jour post opératoire
+T70	moment 2066 2087	à J12 post opératoire
+T72	substance 1776 1810	quadrithérapie à visée nosocomiale
+T74	moment 1607 1625	En post opératoire
+T2	pathologie 159 205	suites post opératoires d’un syndrome occlusif
+A1	etat T2 familial
+A2	assertion T25 absent
+T3	sosy 758 801	niveaux hydroaériques coliques et gréliques
+T4	examen 1280 1297	macroscopiquement
+T5	sosy 1316 1351	bon péristaltisme des anses iléales
+T11	sosy 1570 1604	absence de cellules ganglionnaires
+T53	sosy 1820 1839	ascension de la CRP
+T57	moment 2008 2029	au bout de trois jour
+T67	moment 2121 2138	dans deux semaine
+T75	moment 2227 2254	une semaine après sa sortie
+T33	sosy 646 679	épreuve à la sonde était positive
+T61	sosy 807 924	bilan malformatif (l’échographie abdominale, l’échographie trasfontanellaire et l’échographie cardiaque) était normal
+T73	sosy 695 737	examen clinique était par ailleurs normale
+T1	valeur 671 679	positive
+T6	anatomie 780 788	coliques
+T76	anatomie 792 801	gréliques
+T77	examen 1861 1893	images radiologiques pulmonaires
+T78	substance 1897 1909	alimentation
+T79	mode 1910 1915	orale
+T80	substance 1979 1991	alimentation
+T81	mode 1992 2000	entérale
+T82	etatsosy 423 435	vomissements
+T83	genetique 1515 1527	aganglionnie
+T84	endocriniennes 1515 1527	aganglionnie
+T85	genetique 1570 1604	absence de cellules ganglionnaires
+T86	endocriniennes 1570 1604	absence de cellules ganglionnaires
+T87	etatsosy 2184 2190	fièvre
+T88	etatsosy 620 642	ballonnement abdominal
+T89	etatsosy 364 381	syndrome occlusif
+T90	genre 19 26	féminin
+A5	genre T90 féminin
+T91	age 0 10	Nouveau né
+T92	origine 361 443	un syndrome occlusif avec absence d’émission méconiale et des vomissements bilieux
+T93	issue 2140 2164	L’évolution était fatale
+A6	issue T93 décès

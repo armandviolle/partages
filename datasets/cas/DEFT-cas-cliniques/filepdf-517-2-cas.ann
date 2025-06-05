@@ -1,0 +1,6 @@
+T1	genre 18 23	femme
+T2	age 27 33	38 ans
+A1	genre T1 féminin
+T3	origine 35 101	VIH 1 positive à la suite d'une toxicomanie par voie intraveineuse
+T4	issue 356 394	une rechute de sa conduite toxicophile
+A2	issue T4 détérioration

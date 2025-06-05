@@ -1,0 +1,6 @@
+T1	C0021054 0 23	Facteurs immunologiques
+#1	AnnotatorNotes T1	"C0021054", "Immunologic Factors", "Immunologic Factor" ,"CHEM"
+T2	C0018131 27 44	survie du greffon
+#2	AnnotatorNotes T2	"C0018131", "Graft Survival", "Organ or Tissue Function" ,"PHYS"
+T3	C0022671 37 50	greffon rénal
+#3	AnnotatorNotes T3	"C0022671", "Kidney Transplantation", "Therapeutic or Preventive Procedure" ,"PROC"

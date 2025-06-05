@@ -1,0 +1,83 @@
+T25	age 13 19	56 ans
+T2	valeur 187 191	100%
+T20	substance 21 30	éthylique
+T13	examen 244 252	polypnée
+T5	examen 260 283	auscultation pulmonaire
+T14	anatomie 273 283	pulmonaire
+T11	valeur 293 300	normale
+T6	frequence 31 40	chronique
+T32	examen 317 324	acidose
+T1	genre 4 9	femme
+T7	anatomie 435 447	conjonctives
+T12	valeur 488 495	normale
+T16	traitement 517 528	réanimation
+T42	etatsosy 574 594	cyanose périphérique
+T31	anatomie 582 594	périphérique
+T10	anatomie 617 627	musculaire
+T38	etatsosy 696 721	tachycardie ventriculaire
+T19	anatomie 708 721	ventriculaire
+T15	anatomie 757 767	pulmonaire
+T9	anatomie 808 825	contenu gastrique
+T17	anatomie 830 834	sang
+T18	anatomie 842 848	urines
+T4	examen 871 894	analyses toxicologiques
+A1	genre T1 féminin
+T3	issue 793 798	décès
+A2	issue T3 décès
+T21	cardiovasculaires 696 721	tachycardie ventriculaire
+T22	cardiovasculaires 727 736	asystolie
+T26	respiratoire 751 767	Ádème pulmonaire
+T23	moment 83 98	A son admission
+T8	examen 141 143	TA
+T24	examen 157 159	FC
+T27	examen 169 171	FR
+T28	examen 180 184	Sp02
+T29	examen 193 195	TC
+T30	temperature 196 200	36°C
+T33	valeur 144 155	199/82 mmHg
+T34	valeur 160 167	130/min
+T35	valeur 172 178	35/min
+T36	examen 473 483	bilirubine
+T37	valeur 342 346	9 mM
+T39	nutritionnelles 317 340	acidose lactique isolée
+T40	examen 287 292	radio
+T41	etatsosy 244 258	polypnée ample
+T43	sosy 244 258	polypnée ample
+#1	AnnotatorNotes T41	augmentation de la fréquence respiratoire
+T44	etatsosy 381 401	sensation de chaleur
+T45	sosy 381 401	sensation de chaleur
+#2	AnnotatorNotes T44	bouffées de chaleur
+T46	nerveux 408 429	hypersudation profuse
+T47	nerveux 551 557	agitée
+T48	etatsosy 551 557	agitée
+T49	nerveux 605 647	contracture musculaire généralisée extrême
+T50	etatsosy 605 647	contracture musculaire généralisée extrême
+T51	substance 664 671	curares
+T52	osteomusculaires 605 647	contracture musculaire généralisée extrême
+#3	AnnotatorNotes T52	raideur musculaire
+A3	norme T33 haut
+A4	norme T30 bas
+A5	norme T34 haut
+T53	chimiques 44 81	ingéré par mégarde un liquide inconnu
+A6	norme T2 normal
+T54	examen 209 226	plan ventilatoire
+T55	chimiques 21 40	éthylique chronique
+T56	etatsosy 408 429	hypersudation profuse
+T57	substance 66 81	liquide inconnu
+T58	sosy 141 155	TA 199/82 mmHg
+T59	sosy 157 167	FC 130/min
+T60	sosy 169 178	FR 35/min
+T61	sosy 180 191	Sp02 = 100%
+T62	sosy 193 200	TC 36°C
+T63	sosy 260 300	auscultation pulmonaire et radio normale
+T64	sosy 317 347	acidose lactique isolée (9 mM)
+T65	sosy 473 495	bilirubine est normale
+T66	sosy 435 459	conjonctives sont jaunes
+T67	sosy 21 40	éthylique chronique
+T68	sosy 408 429	hypersudation profuse
+T69	sosy 551 557	agitée
+T70	sosy 574 594	cyanose périphérique
+T71	sosy 605 647	contracture musculaire généralisée extrême
+T72	sosy 696 721	tachycardie ventriculaire
+T73	sosy 727 736	asystolie
+T74	pathologie 751 767	Ádème pulmonaire

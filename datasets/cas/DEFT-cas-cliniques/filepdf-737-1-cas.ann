@@ -1,0 +1,227 @@
+T1001	anatomie 290 299	axillaire
+T1002	anatomie 762 772	pulmonaire
+T1003	anatomie 800 813	poumon gauche
+T1004	anatomie 3210 3220	pulmonaire
+T1005	anatomie 2613 2623	pulmonaire
+T10041	dose 1396 1416	0,5 litre par minute
+T10051	duree 196 216	depuis deux semaines
+T10052	duree 235 260	durant les derniers jours
+T10061	examen 368 395	résultats de tests sanguins
+T10062	examen 506 517	hémoglobine
+T10063	examen 749 772	radiographie pulmonaire
+T10064	examen 1283 1321	saturation en oxygène de l’air ambiant
+T10065	examen 2227 2231	PaO2
+T10066	examen 2264 2285	analyses de biochimie
+T10068	examen 3197 3220	radiographie pulmonaire
+T10069	examen 2701 2720	gazométrie sanguine
+T10070	examen 2764 2775	gaz sanguin
+T10071	examen 2600 2623	radiographie pulmonaire
+T100101	mode 923 933	inhalation
+T100111	moment 1781 1812	Trois jours après son admission
+T100112	moment 2234 2258	Quelques jours plus tard
+T100113	moment 2997 3017	deux jours plus tard
+T100114	moment 3262 3298	après treize jours d’hospitalisation
+T100115	moment 3653 3666	depuis 4 mois
+T100122	substance 825 838	antibiotiques
+T100123	substance 688 699	tobramycine
+T100124	substance 703 716	piperacilline
+T100125	substance 600 613	antibiotiques
+T100126	substance 891 902	fluticasone
+T100127	substance 909 919	salbutamol
+T100129	substance 1751 1762	fluticasone
+T100130	substance 1769 1779	salbutamol
+T100131	substance 1988 1995	oxygène
+T100132	substance 2539 2554	oxygénothérapie
+T100133	substance 2915 2922	dapsone
+T100161	valeur 468 480	0,18 x 109/l
+T100162	valeur 520 526	79 g/l
+T100165	valeur 2815 2820	7,4 %
+T100191	sosy 1156 1160	toux
+T100193	sosy 787 813	infiltrat du poumon gauche
+T100196	sosy 191 260	toux depuis deux semaines avec exacerbation durant les derniers jours
+T100197	sosy 1456 1486	amélioration de l’ordre de 5 %
+T100199	sosy 1624 1657	infection au Bordetella pertussis
+T100201	sosy 2572 2593	amélioration clinique
+T1006	valeur 3042 3049	94-95 %
+T1007	pathologie 69 105	leucémie lymphoblastique aigüe (LAL)
+T1008	examen 278 299	température axillaire
+T10010	sosy 262 310	fièvre avec une température axillaire de 38,2 °C
+T10011	examen 434 465	décompte absolu de neutrophiles
+T10013	mode 614 626	intraveineux
+T10015	substance 717 727	tazobactam
+T10016	mode 839 851	intraveineux
+T10017	substance 867 880	azithromycine
+T10018	mode 881 886	orale
+T10019	substance 1017 1024	dapsone
+T10020	substance 1096 1103	codéine
+T10021	pathologie 1086 1089	PPC
+T10024	mode 1188 1193	orale
+T10025	sosy 1267 1278	neutropénie
+T10026	valeur 1340 1344	87 %
+T10027	substance 1376 1383	oxygène
+T10028	valeur 1483 1486	5 %
+T10029	substance 1672 1683	montélukast
+T10031	dose 1966 1985	de 0,5 à 0,75 litre
+T10032	sosy 2010 2036	désature occasionnellement
+T10033	substance 2074 2081	oxygène
+T10034	examen 2132 2153	saturation en oxygène
+T10035	examen 2185 2213	pression partielle d’oxygène
+T10036	valeur 2218 2225	normale
+T10037	sosy 2300 2320	aucune particularité
+T10038	valeur 2397 2405	négatifs
+T10039	sosy 2443 2457	pancytopénique
+T10040	examen 2464 2500	saturation d’oxygène à l’air ambiant
+T10043	mode 2555 2561	nasale
+T10044	valeur 2624 2631	normale
+T10045	substance 2664 2671	oxygène
+T10046	sosy 2742 2759	méthémoglobinémie
+T10049	examen 2855 2884	analyse pharmacothérapeutique
+T10050	substance 2949 2956	dapsone
+T10053	examen 2961 2975	méthémoglobine
+T10054	valeur 2989 2996	normale
+T10055	examen 3033 3039	sature
+T10057	substance 3127 3134	dapsone
+T10058	examen 3164 3185	saturation en oxygène
+T10060	valeur 3221 3228	normale
+T10072	pathologie 3340 3343	PPC
+T10073	substance 3348 3360	trimethoprim
+T10074	substance 3361 3377	sulfamethoxazole
+T10075	substance 3471 3478	dapsone
+T10076	sosy 3623 3631	Tachypné
+T10077	sosy 3645 3652	Cyanose
+T10078	sosy 3681 3693	Désaturation
+T10079	sosy 3696 3728	Coloration bleutée des muqueuses
+T10080	examen 3504 3509	metHb
+T10082	examen 3537 3542	MetHb
+T10086	valeur 3637 3642	2,8 %
+T10087	valeur 3673 3678	1,4 %
+T10088	valeur 3614 3619	7,4 %
+T10089	dose 3597 3606	1,5 mg/kg
+T10090	sosy 3574 3595	intolérance gastrique
+T10091	anatomie 3586 3595	gastrique
+T20067	examen 2329 2383	résultats de cultures microbiologiques et virologiques
+T200121	substance 45 59	chimiothérapie
+T200134	substance 3311 3336	traitement prophylactique
+T200163	valeur 1907 1913	normal
+T200164	valeur 2156 2168	plus de 92 %
+T200192	sosy 415 481	neutropénie grave (décompte absolu de neutrophiles : 0,18 x 109/l)
+T200195	sosy 957 980	allergie médicamenteuse
+T200200	sosy 1921 1925	toux
+T20010	valeur 303 310	38,2 °C
+T20012	sosy 314 323	tachypnée
+T20013	examen 341 360	évaluation médicale
+T20014	anatomie 387 395	sanguins
+T20018	sosy 489 527	anémie (valeur d’hémoglobine = 79 g/l)
+T20020	sosy 649 668	neutropénie fébrile
+T20026	substance 1064 1075	prophylaxie
+T20029	substance 1173 1187	chimiothérapie
+T20037	sosy 1829 1837	afébrile
+T20038	sosy 1846 1877	état général semble s’améliorer
+T20039	examen 1883 1902	rythme respiratoire
+T20040	sosy 1883 1913	rythme respiratoire est normal
+T20048	mode 2094 2110	lunettes nasales
+T20054	sosy 2185 2225	pression partielle d’oxygène est normale
+T20056	sosy 2329 2405	résultats de cultures microbiologiques et virologiques redeviennent négatifs
+T20059	valeur 2508 2512	88 %
+T20074	sosy 2600 2631	radiographie pulmonaire normale
+T20076	sosy 2654 2671	besoin en oxygène
+T20077	anatomie 2712 2720	sanguine
+T20079	anatomie 2768 2775	sanguin
+T20080	examen 2797 2811	méthémoglobine
+T20081	sosy 2797 2820	méthémoglobine de 7,4 %
+T20084	sosy 2961 2996	méthémoglobine revient à la normale
+T20085	sosy 3025 3063	patient sature à 94-95 % à l’air libre
+T20086	examen 3087 3101	méthémoglobine
+T20088	sosy 3157 3185	faible saturation en oxygène
+T20090	sosy 3197 3228	radiographie pulmonaire normale
+T200102	anatomie 3719 3728	muqueuses
+T200103	sosy 1283 1344	saturation en oxygène de l’air ambiant du patient est de 87 %
+T200104	sosy 2464 2512	saturation d’oxygène à l’air ambiant est de 88 %
+T200105	sosy 3068 3101	valeur anormale de méthémoglobine
+A1	norme T20010 haut
+A2	assertion T200195 absent
+#1	AnnotatorNotes T10021	Penumonie à Pneumocystis
+A3	norme T100165 haut
+A4	norme T10044 normal
+A5	prise T100133 arrêt
+A6	prise T10050 arrêt
+T1	substance 3437 3440	TMP
+T2	substance 3441 3444	SMX
+A7	prise T1 arrêt
+A8	prise T2 arrêt
+T3	date 3608 3613	26/01
+T4	date 3632 3636	27/1
+T5	date 3668 3672	28/1
+T6	pathologie 3550 3553	LAL
+A9	assertion T100199 hypothétique
+A10	norme T10060 normal
+A11	norme T200163 normal
+A12	norme T100162 bas
+#2	AnnotatorNotes T100162	Normal entre 130 et 170 g/L pour un homme (quid d'un enfant ?)
+A13	norme T10026 bas
+#3	AnnotatorNotes T10026	Normal entre 94 et 100%
+A14	norme T200164 bas
+A15	norme T20059 bas
+A16	norme T1006 normal
+A17	norme T10054 normal
+A18	norme T10036 normal
+A19	norme T10086 normal
+A20	norme T10087 normal
+A21	norme T10088 haut
+A22	prise T20029 arrêt
+A23	prise T100129 arrêt
+A24	prise T100130 arrêt
+T7	anatomie 1890 1902	respiratoire
+T8	frequence 1996 2006	par minute
+T9	substance 2146 2153	oxygène
+T10	substance 2206 2213	oxygène
+A25	assertion T10037 absent
+T11	substance 2477 2484	oxygène
+T12	substance 3178 3185	oxygène
+T200201	hemopathies 489 495	anémie
+T200202	etatsosy 262 268	fièvre
+T200204	etatsosy 191 234	toux depuis deux semaines avec exacerbation
+T13	hemopathies 69 105	leucémie lymphoblastique aigüe (LAL)
+T14	immunitaire 69 105	leucémie lymphoblastique aigüe (LAL)
+T15	tumeur 69 105	leucémie lymphoblastique aigüe (LAL)
+T16	tumeur 3550 3553	LAL
+T17	immunitaire 3550 3553	LAL
+T18	hemopathies 3550 3553	LAL
+T19	respiratoire 191 234	toux depuis deux semaines avec exacerbation
+T20	respiratoire 314 323	tachypnée
+T21	etatsosy 314 323	tachypnée
+T22	hemopathies 415 432	neutropénie grave
+T23	hemopathies 649 668	neutropénie fébrile
+T24	hemopathies 1267 1278	neutropénie
+T25	respiratoire 1921 1925	toux
+T26	etatsosy 1921 1925	toux
+T27	respiratoire 3623 3631	Tachypné
+T28	etatsosy 3623 3631	Tachypné
+T29	etatsosy 3645 3652	Cyanose
+T30	respiratoire 1156 1160	toux
+T31	etatsosy 1156 1160	toux
+T200205	hemopathies 101 104	LAL
+T32	respiratoire 787 813	infiltrat du poumon gauche
+T33	hemopathies 787 813	infiltrat du poumon gauche
+T34	respiratoire 1086 1089	PPC
+T35	infections 1086 1089	PPC
+T36	infections 3340 3343	PPC
+T37	respiratoire 3340 3343	PPC
+T38	digestif 3574 3595	intolérance gastrique
+T39	etatsosy 2010 2036	désature occasionnellement
+T40	etatsosy 3681 3693	Désaturation
+#4	AnnotatorNotes T40	hypoxémie
+T41	hemopathies 2443 2457	pancytopénique
+T42	hemopathies 2742 2759	méthémoglobinémie
+T43	hemopathies 2797 2811	méthémoglobine
+T44	hemopathies 2961 2975	méthémoglobine
+T45	hemopathies 3087 3101	méthémoglobine
+T46	etatsosy 3696 3728	Coloration bleutée des muqueuses
+#5	AnnotatorNotes T46	cyanose
+T47	etatsosy 3157 3185	faible saturation en oxygène
+T48	genre 3 9	garçon
+A26	genre T48 masculin
+T49	age 13 29	deux ans et demi
+T50	origine 191 323	toux depuis deux semaines avec exacerbation durant les derniers jours, fièvre avec une température axillaire de 38,2 °C et tachypnée
+T51	issue 2924 3063	À la suite de l’arrêt du dapsone, la méthémoglobine revient à la normale deux jours plus tard, et le patient sature à 94-95 % à l’air libre
+A27	issue T51 amélioration

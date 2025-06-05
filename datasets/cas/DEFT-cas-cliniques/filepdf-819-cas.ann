@@ -1,0 +1,260 @@
+T1001	anatomie 315 338	membre inférieur gauche
+T1002	anatomie 355 377	membre inférieur droit
+T1003	anatomie 444 454	thoracique
+T1004	anatomie 732 736	bras
+T1005	anatomie 787 803	cardiovacsulaire
+T1007	anatomie 807 824	pleuro-pulmonaire
+T1008	anatomie 970 973	dos
+T1009	anatomie 1354 1362	myocarde
+T10012	anatomie 2168 2177	cardiaque
+T10014	anatomie 3400 3408	myocarde
+T10015	anatomie 3071 3079	myocarde
+T10051	duree 509 525	depuis 19 heures
+T10061	examen 575 581	examen
+T10062	examen 682 699	pression sanguine
+T10063	examen 744 763	fréquence cardiaque
+T10064	examen 779 824	examens cardiovacsulaire et pleuro-pulmonaire
+T10065	examen 855 876	examen cutanéomuqueux
+T10066	examen 978 1005	reste de l’examen somatique
+T10067	examen 1029 1048	électrocardiogramme
+T10068	examen 1245 1267	créatine phosphokinase
+T10069	examen 1285 1289	ASAT
+T10070	examen 1308 1311	LDH
+T10071	examen 1407 1424	échocardiographie
+T10072	examen 1537 1552	coronarographie
+T10073	examen 1805 1820	glycémie à jeun
+T10074	examen 1841 1856	bilan lipidique
+T10075	examen 1899 1902	HDL
+T10076	examen 1913 1916	LDL
+T10077	examen 1925 1927	TG
+T10078	examen 2016 2030	interrogatoire
+T10080	examen 2119 2139	bilan phtisiologique
+T10081	examen 2216 2233	échocardiographie
+T10082	examen 2317 2334	bilan d’hémostase
+T10083	examen 2359 2375	formule sanguine
+T10084	examen 2481 2484	CRP
+T10085	examen 2682 2692	protéine C
+T10086	examen 2699 2709	protéine S
+T10087	examen 2753 2788	mutation G29210A de la prothrombine
+T10088	examen 2809 2828	bilan immunologique
+T100111	moment 582 595	à l’admission
+T100112	moment 3756 3775	un recul de 44 mois
+T100121	substance 2540 2553	anticoagulant
+T100122	substance 2569 2585	anticardiolipine
+T100123	substance 2618 2631	antithrombine
+T100124	substance 3599 3612	anticoagulant
+T100125	substance 3622 3636	antivitamine K
+T100126	substance 3688 3701	azathiopirine
+T100161	valeur 1232 1240	1.45µg/l
+T100162	valeur 1270 1279	2360 UI/l
+T100163	valeur 1292 1300	141 UI/l
+T100164	valeur 1314 1323	1579 UI/l
+T100165	valeur 1829 1836	0.96g/l
+T100166	valeur 3030 3036	normal
+T100167	valeur 1891 1897	1,6g/l
+T100168	valeur 1905 1911	0.5g/l
+T100169	valeur 1919 1923	1g/l
+T100170	valeur 1930 1936	1.3g/l
+T100171	valeur 2487 2492	6mg/l
+T100172	valeur 2517 2523	2.5g/l
+T100173	valeur 2638 2645	normale
+T100174	valeur 2647 2650	94%
+T100175	valeur 1863 1869	normal
+T100176	dose 3714 3721	150mg/l
+T100182	pathologie 2282 2312	cardiomyopathie hypertrophique
+T100191	sosy 247 263	aphtose génitale
+T100192	sosy 205 232	aphtose buccale récidivante
+T100195	sosy 542 549	nausées
+T100196	sosy 559 571	vomissements
+T100197	sosy 616 625	conscient
+T100198	sosy 627 637	apyrétique
+T100199	sosy 639 648	eupnéique
+T100201	sosy 904 929	cicatrice d’aphte génital
+T100202	sosy 939 973	pseudofolliculite au niveau du dos
+T100204	sosy 1017 1025	anomalie
+T100205	pathologie 1441 1532	akinésie des segments apico-médians des parois antérieure, antérolatérale et antéro-septale
+T100206	sosy 1569 1633	occlusion du segment proximal de l’interventriculaire antérieure
+T100207	sosy 1974 2011	antécédent cardiovasculaire familiale
+T100208	sosy 2160 2188	origine cardiaque emboligène
+T100209	sosy 2405 2427	syndrome inflammatoire
+T10016	frequence 122 131	chronique
+T10017	dose 142 158	24 paquets/année
+T10018	anatomie 213 220	buccale
+T10019	anatomie 255 263	génitale
+T10022	anatomie 64 81	cardiovasculaires
+T10023	examen 658 669	température
+T10024	valeur 672 676	37°C
+T10025	valeur 702 712	120/70mmhg
+T10026	valeur 766 773	110 bpm
+T1006	anatomie 862 876	cutanéomuqueux
+T10027	anatomie 922 929	génital
+T10029	valeur 1184 1191	112 cpm
+T10030	examen 1155 1181	rythme régulier et sinusal
+T10011	examen 1209 1218	tropinine
+T10039	examen 2064 2088	sérologies syphilitiques
+T10040	examen 2090 2093	VIH
+T10041	examen 2095 2112	Hépatites virales
+T10042	valeur 2147 2154	négatif
+T10044	pathologie 2252 2275	cardiopathie valvulaire
+T10045	examen 2445 2447	VS
+T10046	valeur 2456 2460	15mm
+T10047	moment 2461 2476	à la 1ère heure
+T10048	examen 2499 2510	fibrinogène
+T10049	valeur 2592 2600	négative
+T10053	substance 2776 2788	prothrombine
+T10054	sosy 2671 2709	déficit en protéine C et en protéine S
+T10055	sosy 2717 2788	résistance à la protéine C et de la mutation G29210A de la prothrombine
+T10056	valeur 2974 2981	négatif
+T10013	examen 2986 3013	dosage de l’homocyctéinémie
+T10058	pathologie 3090 3107	maladie de Behçet
+T10059	anatomie 3140 3153	buccogénitale
+T10060	sosy 3132 3153	aphtose buccogénitale
+T10090	sosy 3159 3176	pseudofolliculite
+T10091	examen 3183 3198	testpathergique
+T10092	valeur 3199 3206	positif
+T10093	pathologie 3269 3286	maladie de Behçet
+T10095	valeur 3341 3348	positif
+T10096	pathologie 3387 3408	infarctus du myocarde
+T10097	pathologie 3504 3527	cardiopathie ischémique
+T10098	dose 3559 3567	1mg/kg/j
+T100100	substance 3645 3655	colchicine
+T100101	sosy 3836 3850	asymptomatique
+T20010	anatomie 1454 1532	segments apico-médians des parois antérieure, antérolatérale et antéro-septale
+T20013	anatomie 2939 2966	polynucléaires neutrophiles
+T20087	examen 2733 2743	protéine C
+T20089	examen 2834 2870	recherche d’anticorps anti-nucléaire
+T200141	traitement 1635 1690	désobstruée et dilatée avec mise en place d’un stent nu
+T200181	pathologie 112 131	tabagisme chronique
+T200193	sosy 271 298	thrombophlébite récidivante
+T200194	sosy 436 499	douleur thoracique angineuse constrictive, intense et prolongée
+T200200	sosy 682 712	pression sanguine à 120/70mmhg
+T20016	sosy 45 94	acteurs de risques cardiovasculaires athéromateux
+T20026	sosy 658 676	température à 37°C
+T20027	anatomie 691 699	sanguine
+T20029	sosy 744 773	fréquence cardiaque à 110 bpm
+T20030	valeur 833 851	sans particularité
+T20032	sosy 779 851	examens cardiovacsulaire et pleuro-pulmonaire étaient sans particularité
+T20036	pathologie 1062 1090	ischémie en antérieur étendu
+T20039	sosy 1155 1191	rythme régulier et sinusal à 112 cpm
+T20040	sosy 1093 1150	onde de Pardée en antérieur étendu avec onde Q de nécrose
+T20042	sosy 1209 1240	tropinine est élevée à 1.45µg/l
+T20011	sosy 1245 1279	créatine phosphokinase à 2360 UI/l
+T20043	sosy 1285 1300	ASAT à 141 UI/l
+T20044	sosy 1308 1323	LDH à 1579 UI/l
+T20045	pathologie 1341 1377	infarctus du myocarde en phase aigüe
+T20046	anatomie 1582 1633	segment proximal de l’interventriculaire antérieure
+T20047	sosy 1751 1785	facteur de risque d’athérosclérose
+T20048	sosy 1805 1836	glycémie à jeun était à 0.96g/l
+T20049	sosy 1841 1869	bilan lipidique était normal
+T20050	examen 1871 1888	cholestérol total
+T20052	sosy 1871 1897	cholestérol total : 1,6g/l
+T20053	sosy 1899 1911	HDL : 0.5g/l
+T20054	sosy 1913 1923	LDL : 1g/l
+T20055	sosy 1925 1936	TG : 1.3g/l
+T20060	anatomie 2265 2275	valvulaire
+T20090	sosy 2317 2354	bilan d’hémostase était sans anomalie
+T20091	valeur 2382 2400	sans particularité
+T20094	sosy 2445 2476	VS était à 15mm à la 1ère heure
+T20095	sosy 2481 2492	CRP à 6mg/l
+T20097	sosy 2499 2523	fibrinogène est à 2.5g/l
+T20098	examen 2528 2585	recherche d’anticoagulant circulant et d’anticardiolipine
+T20099	sosy 2528 2600	recherche d’anticoagulant circulant et d’anticardiolipine était négative
+T200100	examen 2604 2631	activité de l’antithrombine
+T200101	sosy 2604 2651	activité de l’antithrombine était normale (94%)
+T200104	examen 2874 2905	anticorps antiphospholipidiques
+T200105	examen 2909 2966	anticorps anti-cytoplasme des polynucléaires neutrophiles
+T200106	sosy 2809 2981	bilan immunologique à la recherche d’anticorps anti-nucléaire, d’anticorps antiphospholipidiques, d’anticorps anti-cytoplasme des polynucléaires neutrophiles, était négatif
+T200108	sosy 2986 3036	dosage de l’homocyctéinémie était également normal
+T200109	pathologie 3058 3079	infarctus du myocarde
+T200116	sosy 3183 3206	testpathergique positif
+T200118	examen 3316 3340	immunophénotypage HLAB51
+T200119	sosy 3316 3348	immunophénotypage HLAB51 positif
+T200127	substance 3487 3527	traitement de la cardiopathie ischémique
+T200129	anatomie 3517 3527	ischémique
+T200130	substance 3533 3548	corticothérapie
+T200136	sosy 2035 2154	bilan infectieux, comprenant sérologies syphilitiques, VIH, Hépatites virales et le bilan phtisiologique, était négatif
+T200137	anatomie 2367 2375	sanguine
+T200138	sosy 2359 2400	formule sanguine était sans particularité
+A1	assertion T20016 absent
+T1	date 342 346	2001
+T2	date 381 385	2006
+A2	norme T20030 normal
+A3	norme T100161 haut
+T3	anatomie 1985 2001	cardiovasculaire
+A4	assertion T100207 absent
+T4	examen 2035 2051	bilan infectieux
+A6	assertion T10044 absent
+A7	assertion T100182 absent
+T5	valeur 2341 2354	sans anomalie
+A5	norme T5 normal
+A8	norme T20091 normal
+A9	assertion T10055 absent
+A10	assertion T10054 absent
+A11	norme T100166 normal
+A12	norme T10024 normal
+A13	norme T10026 normal
+A14	norme T100163 haut
+#1	AnnotatorNotes T100163	Normal si <35 UI/L
+A15	norme T100164 haut
+#2	AnnotatorNotes T100164	Normal si <248 UI/L
+A16	norme T100162 haut
+#3	AnnotatorNotes T100162	CK, Normal si <171 UI/L pour les hommes
+A17	norme T100169 normal
+#4	AnnotatorNotes T100169	Normal si <1,60g/L
+A18	norme T100168 normal
+#5	AnnotatorNotes T100168	Normal si >0,40g/L
+A19	norme T100167 normal
+#6	AnnotatorNotes T100167	Normal entre 1,6 et 2,0g/L
+A20	norme T100175 normal
+A21	norme T100170 normal
+#7	AnnotatorNotes T100170	Normal si <1,30 g/L
+A22	norme T100171 haut
+#8	AnnotatorNotes T100171	Normal si <5mg/L
+A23	norme T100172 normal
+#9	AnnotatorNotes T100172	Normal entre 2 et 4 g/L
+A24	norme T100173 normal
+A25	norme T10046 haut
+#10	AnnotatorNotes T10046	Normal entre 2 et 5 mm
+T6	anatomie 754 763	cardiaque
+A26	assertion T100204 absent
+A27	assertion T20047 absent
+A28	assertion T100209 absent
+T200202	etatsosy 436 499	douleur thoracique angineuse constrictive, intense et prolongée
+T7	chimiques 112 131	tabagisme chronique
+T8	stomatognathique 205 232	aphtose buccale récidivante
+T9	stomatognathique 247 263	aphtose génitale
+T10	etatsosy 559 571	vomissements
+T11	etatsosy 542 549	nausées
+T12	cardiovasculaires 271 298	thrombophlébite récidivante
+T13	etatsosy 904 929	cicatrice d’aphte génital
+T14	etatsosy 1062 1090	ischémie en antérieur étendu
+T15	cardiovasculaires 3058 3079	infarctus du myocarde
+T16	stomatognathique 3090 3107	maladie de Behçet
+T17	oeil 3090 3107	maladie de Behçet
+T18	cardiovasculaires 3090 3107	maladie de Behçet
+T19	genetique 3090 3107	maladie de Behçet
+T20	peau 3090 3107	maladie de Behçet
+T21	oeil 247 263	aphtose génitale
+T22	genetique 247 263	aphtose génitale
+T23	cardiovasculaires 247 263	aphtose génitale
+T24	peau 247 263	aphtose génitale
+T25	peau 3132 3153	aphtose buccogénitale
+T26	oeil 3132 3153	aphtose buccogénitale
+T27	cardiovasculaires 3132 3153	aphtose buccogénitale
+T28	genetique 3132 3153	aphtose buccogénitale
+T29	stomatognathique 3132 3153	aphtose buccogénitale
+T30	peau 205 232	aphtose buccale récidivante
+T31	oeil 205 232	aphtose buccale récidivante
+T32	genetique 205 232	aphtose buccale récidivante
+T33	cardiovasculaires 205 232	aphtose buccale récidivante
+T34	peau 3159 3176	pseudofolliculite
+T35	cardiovasculaires 3504 3527	cardiopathie ischémique
+T36	cardiovasculaires 3387 3408	infarctus du myocarde
+T37	genre 0 3	Mr.
+A29	genre T37 masculin
+T38	age 31 37	40 ans
+T39	origine 432 571	une douleur thoracique angineuse constrictive, intense et prolongée évoluant depuis 19 heures, associée à des nausées et à des vomissements
+T40	issue 3777 3804	l’évolution était favorable
+A30	issue T40 amélioration
+T41	issue 3750 3866	Après un recul de 44 mois, l’évolution était favorable et le patient est actuellement asymptomatique sous traitement
+A31	issue T41 amélioration

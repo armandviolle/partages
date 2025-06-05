@@ -1,0 +1,52 @@
+T1001	anatomie 484 491	cheveux
+T1002	anatomie 506 515	gastrique
+T10051	duree 83 102	depuis leur enfance
+T10062	examen 362 370	autopsie
+T10063	examen 459 515	prélèvements de sang, de cheveux et de contenu gastrique
+T10064	examen 539 568	analyse de première intention
+T10065	examen 806 830	analyses complémentaires
+T10067	examen 911 935	screening des alcaloïdes
+T100121	substance 342 358	plantes toxiques
+T100122	substance 593 601	toxiques
+T100123	substance 644 671	traitement anti-épileptique
+T100124	substance 673 689	acide valproïque
+T100125	substance 691 701	clonazepam
+T100126	substance 703 716	carbamazépine
+T100127	substance 959 967	atropine
+T100128	substance 974 985	scopolamine
+T100129	substance 1343 1349	datura
+T100130	substance 1091 1097	datura
+T100191	sosy 59 82	problèmes psychomoteurs
+T100192	sosy 384 403	signes de violences
+T100193	sosy 418 453	résidus de fumées dans les trachées
+T100194	sosy 581 601	présence de toxiques
+T100195	sosy 948 1022	présence d'atropine et de scopolamine dans le sang et le contenu gastrique
+T100196	sosy 1178 1207	état de stupeur semi-comateux
+T1003	substance 620 624	HbCO
+T1004	substance 626 634	cyanures
+T1005	substance 876 893	toxiques végétaux
+T1006	substance 925 935	alcaloïdes
+T1007	anatomie 1013 1022	gastrique
+T20061	examen 202 209	enquête
+T20066	examen 862 893	recherche des toxiques végétaux
+T2003	anatomie 445 453	trachées
+T2004	anatomie 475 479	sang
+T2009	anatomie 994 998	sang
+T20011	substance 1099 1136	hallucinogène narcotique incapacitant
+T20012	anatomie 69 82	psychomoteurs
+T20013	valeur 1029 1057	concentrations non mortelles
+A1	assertion T100196 possible
+T1	sosy 1289 1295	drogué
+T100197	chimiques 581 635	présence de toxiques dus à l'incendie (HbCO, cyanures)
+T100198	etatsosy 660 671	épileptique
+T2	nerveux 59 82	problèmes psychomoteurs
+T3	etatsosy 59 82	problèmes psychomoteurs
+T4	blessures 384 403	signes de violences
+T5	chimiques 429 453	fumées dans les trachées
+T6	chimiques 948 1022	présence d'atropine et de scopolamine dans le sang et le contenu gastrique
+T7	genre 12 18	soeurs
+A2	genre T7 féminin
+T8	age 37 42	7 ans
+T9	origine 59 198	problèmes psychomoteurs depuis leur enfance sont retrouvées brûlées dans leur habitation, comme endormies, sans signe de tentative de fuite
+T10	issue 1395 1400	tuées
+A3	issue T10 décès

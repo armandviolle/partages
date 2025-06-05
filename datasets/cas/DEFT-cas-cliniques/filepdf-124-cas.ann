@@ -1,0 +1,204 @@
+T56	examen 1018 1044	étude anatomo-pathologique
+T54	anatomie 1024 1044	anatomo-pathologique
+T34	examen 1317 1332	examen clinique
+T38	examen 1338 1360	radiographie du thorax
+T39	examen 1367 1384	scanner abdominal
+T45	anatomie 1375 1384	abdominal
+T5	date 1424 1437	décembre 1997
+T6	date 158 167	mars 1995
+T35	examen 2154 2172	examen extemporané
+T40	examen 2493 2511	scanner thoracique
+T51	anatomie 2501 2511	thoracique
+T42	examen 2519 2540	scintigraphie osseuse
+T9	date 2996 3009	décembre 1999
+T55	anatomie 3144 3154	pulmonaire
+T41	examen 3230 3255	scanner thoraco-abdominal
+T46	anatomie 3238 3255	thoraco-abdominal
+T7	date 3760 3773	novembre 2001
+T10	substance 3851 3864	interleukine2
+T11	substance 3868 3878	interféron
+T43	examen 544 572	tomodensitométrie abdominale
+T47	anatomie 562 572	abdominale
+T44	examen 578 600	échographie abdominale
+T48	anatomie 590 600	abdominale
+T37	examen 608 631	radiographie thoracique
+T49	anatomie 621 631	thoracique
+T12	anatomie 1354 1360	thorax
+T13	date 3329 3333	2001
+T14	pathologie 82 96	cancer du sein
+T15	anatomie 92 96	sein
+T16	sosy 102 111	hématurie
+T17	sosy 127 145	lombalgies gauches
+T18	pathologie 172 262	tumeur rénale gauche de 15 par 10 cm, médiorénale et polaire supérieure, hypervascularisée
+T19	anatomie 179 192	rénale gauche
+T20	pathologie 366 409	tumeur adhérente à la rate et au diaphragme
+T21	anatomie 388 392	rate
+T22	anatomie 399 409	diaphragme
+T23	sosy 433 477	atteinte ganglionnaire latéroaortique gauche
+T24	anatomie 442 477	ganglionnaire latéroaortique gauche
+T25	traitement 732 759	néphrectomie élargie gauche
+T26	traitement 765 780	surrénalectomie
+T27	traitement 808 820	splénectomie
+T28	traitement 828 870	résection diaphragmatique partielle gauche
+T29	anatomie 838 853	diaphragmatique
+T31	traitement 937 957	curage ganglionnaire
+T50	anatomie 944 957	ganglionnaire
+T52	pathologie 1059 1098	adénocarcinome à cellule claire du rein
+T53	sosy 1441 1512	nodule mammaire siégeant à l’union des quadrants externes du sein droit
+T57	anatomie 1448 1456	mammaire
+T58	anatomie 1480 1512	quadrants externes du sein droit
+T59	examen 1678 1690	mammographie
+T60	sosy 1711 1748	masse arrondie de contours assez nets
+T61	sosy 1792 1829	masse était solide, hypervascularisée
+T62	examen 1866 1876	écographie
+T63	pathologie 2007 2021	cancer du rein
+T64	anatomie 2017 2021	rein
+T65	sosy 2045 2063	métastase mammaire
+T66	anatomie 2055 2063	mammaire
+T67	traitement 2086 2150	tumorectomie large allant jusqu’au plan du muscle grand pectoral
+T68	sosy 2205 2214	métastase
+T69	pathologie 2220 2258	adénocarcinome rénale à cellule claire
+T71	anatomie 2533 2540	osseuse
+T72	traitement 2665 2672	exérèse
+T73	sosy 2823 2838	nodule mammaire
+T74	anatomie 2830 2838	mammaire
+T75	pathologie 2844 2884	adénopathie axillaire ou susclaviculaire
+T76	anatomie 2856 2865	axillaire
+T77	anatomie 2869 2884	susclaviculaire
+T78	sosy 2913 2978	lésion scannographique atypique au niveau de la queue du pancréas
+T79	anatomie 2961 2978	queue du pancréas
+T81	anatomie 3156 3167	médiastinal
+T82	anatomie 3169 3181	pancréatique
+T83	traitement 3209 3221	néphrectomie
+T84	sosy 3304 3323	lésion pancréatique
+T85	anatomie 3311 3323	pancréatique
+T87	sosy 3389 3426	localisations métastatiques multiples
+T88	sosy 3465 3501	métastase ganglionnaire médiastinale
+T89	anatomie 3475 3501	ganglionnaire médiastinale
+T90	sosy 3566 3599	métastase de la queue du pancréas
+T91	anatomie 3582 3599	queue du pancréas
+T92	examen 3633 3654	ponction scannoguidée
+T93	sosy 3660 3679	métastase hépatique
+T94	anatomie 3670 3679	hépatique
+T95	traitement 3719 3731	néphrectomie
+T97	anatomie 3808 3818	bronchique
+T98	traitement 3826 3878	immunothérapie associant interleukine2 et interféron
+T100	pathologie 268 284	thrombus veineux
+A3	assertion T100 absent
+T101	anatomie 277 284	veineux
+T103	examen 1913 1916	ACE
+T105	examen 289 333	bilan tomodensitométrique (TDM) locorégional
+T107	examen 496 513	bilan d’extension
+T110	examen 3091 3097	examen
+T112	valeur 3274 3280	normal
+T114	valeur 1926 1933	normaux
+T115	examen 1949 1961	radiologique
+T116	examen 2414 2423	recherche
+T123	examen 3439 3458	scannographiquement
+T127	anatomie 210 221	médiorénale
+T128	anatomie 225 243	polaire supérieure
+T106	sosy 657 674	lésion secondaire
+A4	assertion T106 absent
+T133	sosy 890 932	adhérence intime de la masse à ces organes
+T134	anatomie 1094 1098	rein
+T118	sosy 1540 1559	écoulement mammaire
+T135	anatomie 1551 1559	mammaire
+A5	assertion T118 absent
+T136	anatomie 1583 1587	peau
+T137	sosy 1565 1622	adhérence ni à la peau en regard ni à la paroi thoracique
+A6	assertion T137 absent
+T138	anatomie 1606 1622	paroi thoracique
+T141	sosy 1845 1861	nécrose centrale
+A7	norme T114 normal
+T142	examen 1882 1900	marqueurs tumoraux
+T144	anatomie 2129 2150	muscle grand pectoral
+T109	pathologie 2343 2363	adénopathie palpable
+A8	assertion T109 absent
+T117	traitement 2391 2407	curage axillaire
+A9	assertion T117 absent
+T145	anatomie 2398 2407	axillaire
+T146	moment 2472 2489	en postopératoire
+T119	sosy 2573 2602	lésions secondaires suspectes
+A10	assertion T119 absent
+A11	norme T112 normal
+A12	assertion T84 absent
+T111	anatomie 3554 3560	carène
+T113	sosy 3534 3560	envahissement de la carène
+T121	valeur 196 208	15 par 10 cm
+T124	sosy 3120 3221	hyperfixation au niveau pulmonaire, médiastinal, pancréatique et au niveau de la loge de néphrectomie
+T147	moment 3340 3372	quatre ans après la néphrectomie
+T148	sosy 3687 3731	récidive locale dans la loge de néphrectomie
+T150	anatomie 2244 2258	cellule claire
+T151	traitement 2278 2286	exérèses
+T153	sosy 1770 1784	calcifications
+T154	sosy 1754 1766	spiculations
+A13	assertion T154 absent
+A14	assertion T153 absent
+T155	valeur 1138 1158	grade III de Fuhrman
+T156	sosy 1166 1200	emboles vasculaires microscopiques
+T157	anatomie 1174 1185	vasculaires
+A1	assertion T23 hypothétique
+T1	sosy 2268 2293	limites d’exérèses saines
+T2	sosy 3230 3280	scanner thoraco-abdominal de contrôle a été normal
+T3	pathologie 1638 1671	adénopathies axillaires associées
+A2	assertion T3 absent
+T4	sosy 1104 1129	franchissement capsulaire
+A15	assertion T4 absent
+A16	assertion T14 absent
+T8	anatomie 697 709	sous costale
+T30	anatomie 925 932	organes
+A17	assertion T31 absent
+T32	sosy 994 1014	morbidité opératoire
+T33	examen 1258 1299	surveillance post opératoire semestrielle
+T70	anatomie 1651 1661	axillaires
+T96	sosy 1939 1987	caractère radiologique inhabituel de cette masse
+A18	assertion T65 hypothétique
+T99	sosy 2432 2457	localisation métastatique
+T102	sosy 2625 2657	localisation unique bien limitée
+T104	traitement 2714 2739	traitement complémentaire
+A19	assertion T104 absent
+T108	examen 2745 2777	surveillance clinique ultérieure
+T120	valeur 2784 2791	normale
+A20	assertion T73 absent
+A21	assertion T75 absent
+T125	anatomie 3201 3221	loge de néphrectomie
+T126	sosy 2745 2791	surveillance clinique ultérieure a été normale
+T36	examen 3014 3085	tomographie à émission de positron au 18 FFluorodéoxyglucose (PET scan)
+T80	anatomie 3711 3731	loge de néphrectomie
+T122	traitement 3784 3818	pose d’une endoprothèse bronchique
+A22	etat T14 passé
+T129	mode 692 709	voie sous costale
+T131	examen 1902 1909	CA 15.3
+T139	examen 3512 3528	histologiquement
+T140	examen 3608 3624	histologiquement
+T86	sosy 1882 1933	marqueurs tumoraux (CA 15.3 et ACE) étaient normaux
+A23	norme T120 normal
+T130	femme 172 192	tumeur rénale gauche
+T132	tumeur 172 192	tumeur rénale gauche
+T143	tumeur 1059 1098	adénocarcinome à cellule claire du rein
+T149	femme 1059 1098	adénocarcinome à cellule claire du rein
+T152	digestif 1166 1200	emboles vasculaires microscopiques
+T158	cardiovasculaires 1166 1200	emboles vasculaires microscopiques
+T159	peau 1441 1512	nodule mammaire siégeant à l’union des quadrants externes du sein droit
+T160	etatsosy 1845 1861	nécrose centrale
+T161	tumeur 2007 2021	cancer du rein
+T162	femme 2007 2021	cancer du rein
+T163	tumeur 2205 2214	métastase
+T164	tumeur 2220 2258	adénocarcinome rénale à cellule claire
+T165	femme 2220 2258	adénocarcinome rénale à cellule claire
+T166	tumeur 3389 3426	localisations métastatiques multiples
+T167	tumeur 3465 3501	métastase ganglionnaire médiastinale
+T168	tumeur 3566 3599	métastase de la queue du pancréas
+T169	tumeur 3660 3679	métastase hépatique
+T170	digestif 3660 3679	métastase hépatique
+T171	digestif 3566 3599	métastase de la queue du pancréas
+T172	endocriniennes 3566 3599	métastase de la queue du pancréas
+T173	etatsosy 102 111	hématurie
+T174	femme 102 111	hématurie
+T175	etatsosy 127 145	lombalgies gauches
+T176	genre 16 24	patiente
+T177	age 33 39	78 ans
+A24	genre T176 féminin
+T178	origine 98 284	Une hématurie associée à des lombalgies gauches a révélé en mars 1995 une tumeur rénale gauche de 15 par 10 cm, médiorénale et polaire supérieure, hypervascularisée sans thrombus veineux
+T179	issue 3749 3756	décédée
+A25	issue T179 décès

@@ -1,0 +1,6 @@
+T1	genre 27 32	homme
+T2	age 36 42	42 ans
+A1	genre T1 masculin
+T3	origine 212 309	douleurs musculaires associées à des spasmes musculaires étiquetés syndrome des jambes sans repos
+T4	issue 733 847	L’arrêt du traitement, au début décembre, a fait disparaître rapidement ces troubles du comportement (mi-décembre)
+A2	issue T4 amélioration

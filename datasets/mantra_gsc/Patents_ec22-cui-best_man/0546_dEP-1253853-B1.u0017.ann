@@ -1,0 +1,18 @@
+T10	C0030705 96 103	patient
+#10	AnnotatorNotes T10	"C0030705", "Patients", "Patient or Disabled Group" ,"LIVB"
+T11	C0087111 50 59	thérapies
+#11	AnnotatorNotes T11	"C0087111", "Therapeutic procedure", "Therapeutic or Preventive Procedure" ,"PROC"
+T12	C0087111 136 144	thérapie
+#12	AnnotatorNotes T12	"C0087111", "Therapeutic procedure", "Therapeutic or Preventive Procedure" ,"PROC"
+T13	C0087111 201 209	thérapie
+#13	AnnotatorNotes T13	"C0087111", "Therapeutic procedure", "Therapeutic or Preventive Procedure" ,"PROC"
+T14	C0087111 286 294	thérapie
+#14	AnnotatorNotes T14	"C0087111", "Therapeutic procedure", "Therapeutic or Preventive Procedure" ,"PROC"
+T15	C0237401 150 158	individu
+#15	AnnotatorNotes T15	"C0237401", "Individual", "Human" ,"LIVB"
+T16	C0237401 215 223	individu
+#16	AnnotatorNotes T16	"C0237401", "Individual", "Human" ,"LIVB"
+T17	C0027361 150 158	individu
+#17	AnnotatorNotes T17	"C0027361", "Persons", "Population Group" ,"LIVB"
+T18	C0027361 215 223	individu
+#18	AnnotatorNotes T18	"C0027361", "Persons", "Population Group" ,"LIVB"

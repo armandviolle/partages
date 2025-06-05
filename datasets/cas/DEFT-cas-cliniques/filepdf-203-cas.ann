@@ -1,0 +1,6 @@
+T1	age 10 16	45 ans
+T2	genre 0 6	Madame
+A1	genre T2 féminin
+T3	origine 42 101	un calcul pyélique droit symptomatique de 15 mm de diamètre
+T4	issue 1847 1996	Deux ans après l’intervention, la patiente était asymptomatique, les examens biologiques étaient normaux et il n’existait pas de récidive lithiasique
+A2	issue T4 guérison

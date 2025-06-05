@@ -1,0 +1,68 @@
+T34	C0087111 37 47	traitement
+#34	AnnotatorNotes T34	"C0087111", "Therapeutic procedure", "Therapeutic or Preventive Procedure" ,"PROC"
+T35	C0002965 208 222	angor instable
+#35	AnnotatorNotes T35	"C0002965", "Angina, Unstable", "Disease or Syndrome" ,"DISO"
+T36	C0948089 227 250	syndrome coronaire aigu
+#36	AnnotatorNotes T36	"C0948089", "Acute Coronary Syndrome", "Disease or Syndrome" ,"DISO"
+T37	C0027051 289 310	infarctus du myocarde
+#37	AnnotatorNotes T37	"C0027051", "Myocardial Infarction", "Disease or Syndrome" ,"DISO"
+T38	C0011071 326 337	mort subite
+#38	AnnotatorNotes T38	"C0011071", "Sudden death", "Pathologic Function" ,"DISO"
+T39	C0007787 353 384	accident ischémique transitoire
+#39	AnnotatorNotes T39	"C0007787", "Transient Ischemic Attack", "Disease or Syndrome" ,"DISO"
+T40	C0004153 403 417	athérosclérose
+#40	AnnotatorNotes T40	"C0004153", "Atherosclerosis", "Disease or Syndrome" ,"DISO"
+T41	C0042487 470 488	thrombose veineuse
+#41	AnnotatorNotes T41	"C0042487", "Venous Thrombosis", "Pathologic Function" ,"DISO"
+T42	C0149871 494 521	thrombose veineuse profonde
+#42	AnnotatorNotes T42	"C0149871", "Deep Vein Thrombosis", "Disease or Syndrome" ,"DISO"
+T43	C0040046 527 542	thrombophlébite
+#43	AnnotatorNotes T43	"C0040046", "Thrombophlebitis", "Disease or Syndrome" ,"DISO"
+T44	C0549124 548 566	embolie artérielle
+#44	AnnotatorNotes T44	"C0549124", "Arterial embolism", "Pathologic Function" ,"DISO"
+T45	C0795687 608 638	thrombose artérielle cérébrale
+#45	AnnotatorNotes T45	"C0795687", "Cerebral arterial thrombosis", "Pathologic Function" ,"DISO"
+T46	C0007780 644 661	embolie cérébrale
+#46	AnnotatorNotes T46	"C0007780", "Cerebral Embolism", "Disease or Syndrome" ,"DISO"
+T47	C0866187 667 681	embolie rénale
+#47	AnnotatorNotes T47	"C0866187", "Renal embolism", "Disease or Syndrome" ,"DISO"
+T48	C0034065 687 705	embolie pulmonaire
+#48	AnnotatorNotes T48	"C0034065", "Pulmonary Embolism", "Disease or Syndrome" ,"DISO"
+T49	C0040053 713 722	thrombose
+#49	AnnotatorNotes T49	"C0040053", "Thrombosis", "Pathologic Function" ,"DISO"
+T50	C0040053 990 999	thrombose
+#50	AnnotatorNotes T50	"C0040053", "Thrombosis", "Pathologic Function" ,"DISO"
+T51	C0021102 772 780	implants
+#51	AnnotatorNotes T51	"C0021102", "Implants", "Medical Device" ,"DEVI"
+T52	C0007439 789 808	cathéters à demeure
+#52	AnnotatorNotes T52	"C0007439", "Indwelling Catheter", "Medical Device" ,"DEVI"
+T53	C0019004 872 883	hémodialyse
+#53	AnnotatorNotes T53	"C0019004", "Hemodialysis", "Therapeutic or Preventive Procedure" ,"PROC"
+T54	C0184661 900 910	procédures
+#54	AnnotatorNotes T54	"C0184661", "Interventional procedure", "Diagnostic Procedure|Therapeutic or Preventive Procedure" ,"PROC"
+T55	C0005767 930 934	sang
+#55	AnnotatorNotes T55	"C0005767", "Blood", "Tissue" ,"ANAT"
+T56	C0040038 53 77	trouble thromboembolique
+#56	AnnotatorNotes T56	"C0040038", "Thromboembolism", "Disease or Syndrome" ,"DISO"
+T57	C0040038 163 187	trouble thromboembolique
+#57	AnnotatorNotes T57	"C0040038", "Thromboembolism", "Disease or Syndrome" ,"DISO"
+T58	C1273976 255 284	premier infarctus du myocarde
+#58	AnnotatorNotes T58	"C1273976", "First myocardial infarction", "Disease or Syndrome" ,"DISO"
+T59	C0038454 390 397	attaque
+#59	AnnotatorNotes T59	"C0038454", "Cerebrovascular accident", "Disease or Syndrome" ,"DISO"
+T61	C0336548 740 759	valves prothétiques
+#61	AnnotatorNotes T61	"C0336548", "Prosthetic valve", "Medical Device" ,"DEVI"
+T62	C0038257 817 824	tuteurs
+#62	AnnotatorNotes T62	"C0038257", "device Stent", "Medical Device" ,"DEVI"
+T63	C0007202 835 860	pontage cardio-pulmonaire
+#63	AnnotatorNotes T63	"C0007202", "Cardiopulmonary Bypass", "Therapeutic or Preventive Procedure" ,"PROC"
+T65	C0010072 572 602	thrombose artérielle coronaire
+#65	AnnotatorNotes T65	"C0010072", "Coronary Thrombosis", "Disease or Syndrome" ,"DISO"
+T66	C0229664 930 934	sang
+#66	AnnotatorNotes T66	"C0229664", "peripheral blood", "Body Substance" ,"ANAT"
+T102	C1306889 423 464	maladie artérielle occlusive périphérique
+#102	AnnotatorNotes T102	"C1306889", "Peripheral arterial occlusive disease", "Disease or Syndrome" ,"DISO"
+T81	C0262935 644 661	embolie cérébrale
+#81	AnnotatorNotes T81	"C0262935", "Brain Embolism", "Disease or Syndrome", "DISO"
+T82	C0332157 939 947	exposé à
+#82	AnnotatorNotes T82	"C0332157", "Exposure to", "Clinical Attribute" ,"PHYS"

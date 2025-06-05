@@ -1,0 +1,6 @@
+T1	genre 338 348	Ce patient
+T2	age 6 12	66 ans
+A1	genre T1 masculin
+T3	origine 30 52	des lombalgies gauches
+T4	issue 1636 1718	Six mois après l’intervention, le patient se porte bien et sans signes de récidive
+A2	issue T4 guérison

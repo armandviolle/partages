@@ -1,0 +1,4 @@
+T2	C0288171 34 44	Irbesartan
+#2	AnnotatorNotes T2	"C0288171", "irbesartan", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T3	C0008972 8 14	études
+#3	AnnotatorNotes T3	"C0008972", "Clinical Research", "Research Activity" ,"PROC"

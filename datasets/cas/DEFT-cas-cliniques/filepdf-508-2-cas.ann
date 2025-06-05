@@ -1,0 +1,37 @@
+T39	moment 1204 1215	post-mortem
+T20	anatomie 491 499	bronches
+T26	dose 1321 1334	1 à 2 grammes
+T10	mode 1338 1344	poudre
+T2	substance 1366 1376	alcaloïdes
+T25	anatomie 1424 1440	muscle cardiaque
+T1	infections 1491 1514	intoxication au Vératre
+T16	sosy 355 375	trace de traumatisme
+T11	anatomie 507 514	poumons
+T22	anatomie 529 539	gastriques
+T9	anatomie 662 679	contenu gastrique
+T14	anatomie 686 690	sang
+T4	examen 713 734	analyse toxicologique
+T12	examen 740 749	résultats
+T35	moment 88 101	un mois après
+T15	anatomie 891 895	sang
+T3	genre 5 11	hommes
+A1	genre T3 masculin
+T7	age 29 47	trentaine d'années
+T8	issue 107 112	décès
+A2	issue T8 décès
+T17	examen 327 335	autopsie
+A3	assertion T16 absent
+T18	examen 520 539	contenus gastriques
+T6	substance 962 973	vératridine
+T23	substance 980 988	cévadine
+T5	valeur 307 323	3 mm de diamètre
+T13	substance 280 296	graines sauvages
+T19	substance 573 587	graines noires
+T21	substance 641 648	graines
+T24	substance 808 817	strontium
+T27	substance 1071 1078	Vératre
+T28	substance 1080 1099	plante très toxique
+T29	substance 1348 1360	plante sèche
+T30	substance 1380 1387	vératre
+T31	substance 1507 1514	Vératre
+T32	sosy 1491 1514	intoxication au Vératre

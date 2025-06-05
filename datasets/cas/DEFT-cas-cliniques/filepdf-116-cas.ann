@@ -1,0 +1,62 @@
+T11	examen 1170 1192	échographie abdominale
+T12	anatomie 1182 1192	abdominale
+T16	examen 892 919	’étude anatomo-pathologique
+T13	anatomie 899 919	anatomo-pathologique
+T2	anatomie 80 95	testicule droit
+T3	anatomie 109 125	testicule gauche
+T4	sosy 238 244	hernie
+T5	anatomie 347 357	testicules
+T7	anatomie 591 600	testicule
+T9	anatomie 605 621	testicule gauche
+T14	traitement 797 819	orchidopexie in-dartos
+T17	examen 924 932	biopsies
+T15	anatomie 1103 1113	testicules
+T19	examen 248 270	exploration opératoire
+T22	valeur 992 998	normal
+T24	valeur 368 375	normale
+T26	valeur 1156 1164	normales
+A3	norme T24 normal
+T21	anatomie 973 991	tissu testiculaire
+T18	moment 943 960	en per-opératoire
+T23	sosy 44 74	hernie inguino-scrotale droite
+T25	anatomie 51 74	inguino-scrotale droite
+T27	examen 147 156	caryotype
+T28	valeur 179 183	46XY
+T29	sosy 342 404	deux testicules de taille normale, d’aspect poly-microkystique
+T30	anatomie 423 445	épididymo-testiculaire
+T31	sosy 410 455	indépendance épididymo-testiculaire partielle
+T33	anatomie 466 482	canaux déférents
+T38	anatomie 676 706	orifice inguinal profond droit
+T39	traitement 711 746	dissection des cordons spermatiques
+T40	anatomie 726 746	cordons spermatiques
+T41	moment 1075 1092	à l’age de 8 mois
+T1	sosy 80 104	testicule droit en place
+T6	sosy 109 142	testicule gauche est non palpable
+T10	sosy 283 302	sac herniaire large
+T32	sosy 973 1017	tissu testiculaire normal d’aspect infantile
+T43	sosy 1098 1164	deux testicules étaient en place de taille et consistance normales
+T35	sosy 461 525	deux canaux déférents étaient fusionnés à leurs parties distales
+T34	sosy 573 600	n’a pas trouvé de testicule
+A1	assertion T34 absent
+T36	traitement 628 706	récupéré par voie intra-pèritonéale à travers l’orifice inguinal profond droit
+T37	traitement 202 207	opéré
+T44	traitement 310 319	ouverture
+T45	anatomie 509 525	parties distales
+T20	examen 539 572	exploration du coté controlatéral
+T46	anatomie 554 572	coté controlatéral
+T47	anatomie 646 663	intra-pèritonéale
+T48	examen 1067 1074	examiné
+T49	sosy 1226 1235	anomalies
+A2	assertion T49 absent
+T50	mode 641 663	voie intra-pèritonéale
+T8	etatsosy 44 74	hernie inguino-scrotale droite
+T42	etatsosy 238 244	hernie
+T51	homme 109 142	testicule gauche est non palpable
+T52	genetique 109 142	testicule gauche est non palpable
+T53	endocriniennes 109 142	testicule gauche est non palpable
+T54	age 21 27	2 mois
+T55	genre 169 177	masculin
+A4	genre T55 masculin
+T56	origine 44 104	hernie inguino-scrotale droite avec testicule droit en place
+T57	issue 1166 1245	Une échographie abdominale a été réalisée, n’a pas trouvé d’anomalies associées
+A5	issue T57 guérison

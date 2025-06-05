@@ -1,0 +1,6 @@
+T1	age 15 21	18 ans
+T2	genre 6 11	fille
+A1	genre T2 féminin
+T3	origine 247 370	des douleurs pelviennes et des métrorragies de moyenne abondance avec des leucorrhées fétides associées à un amaigrissement
+T4	issue 1832 1885	La patiente a été mise sous chimiothérapie palliative
+A2	issue T4 détérioration

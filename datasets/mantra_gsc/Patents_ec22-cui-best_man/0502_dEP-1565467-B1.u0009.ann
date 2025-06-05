@@ -1,0 +1,12 @@
+T7	C0036140 1654 1658	sels
+#7	AnnotatorNotes T7	"C0036140", "Salts", "Chemical Viewed Structurally" ,"CHEM"
+T8	C0439962 1628 1636	mélanges
+#8	AnnotatorNotes T8	"C0439962", "Mixture", "Substance" ,"OBJC"
+T9	C0001898 223 230	alanine
+#9	AnnotatorNotes T9	"C0001898", "Alanine", "Amino Acid Peptide or Protein|Biologically Active Substance" ,"CHEM"
+T10	C0001898 366 373	alanine
+#10	AnnotatorNotes T10	"C0001898", "Alanine", "Amino Acid Peptide or Protein|Biologically Active Substance" ,"CHEM"
+T11	C0001898 498 505	alanine
+#11	AnnotatorNotes T11	"C0001898", "Alanine", "Amino Acid Peptide or Protein|Biologically Active Substance" ,"CHEM"
+T12	C0001898 640 647	alanine
+#12	AnnotatorNotes T12	"C0001898", "Alanine", "Amino Acid Peptide or Protein|Biologically Active Substance" ,"CHEM"

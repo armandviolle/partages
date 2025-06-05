@@ -1,0 +1,383 @@
+T30	substance 1050 1063	isotrétinoïne
+T5	substance 141 154	isotrétinoïne
+T39	examen 1537 1552	examen physique
+T17	substance 2096 2106	Nifédipine
+T13	substance 2280 2294	Acétaminophène
+T14	substance 2510 2524	Acétaminophène
+T15	substance 2626 2636	Furosémide
+T16	substance 2669 2678	Lorazépam
+T12	substance 2735 2741	250 mg
+T36	substance 2845 2853	propofol
+T25	substance 2919 2927	fentanyl
+T26	substance 2998 3006	fentanyl
+T31	substance 3067 3075	kétamine
+T28	substance 3079 3092	hydromorphone
+T45	examen 3315 3350	échographie abdominale et pelvienne
+T47	anatomie 3327 3337	abdominale
+T40	examen 3491 3509	examen ophtalmique
+T32	substance 3853 3867	norépinéphrine
+T44	examen 4023 4092	tomodensitométrie cérébrale avec coupe fine au niveau du nerf optique
+T50	examen 4127 4170	imagerie par résonance magnétique cérébrale
+T42	examen 4411 4462	scintigraphie à la méta-iodo-benzylguanidine (MIBG)
+T33	substance 4734 4748	norépinéphrine
+T43	examen 4778 4801	scintigraphie à la MIBG
+T51	examen 4843 4887	imagerie par résonance magnétique abdominale
+T48	anatomie 4877 4887	abdominale
+T52	examen 5144 5187	imagerie par résonance magnétique cervicale
+T38	examen 546 569	examen du fond de l’œil
+T46	examen 5510 5547	échographie de la glande thyroïdienne
+T34	substance 6073 6087	norépinéphrine
+T35	substance 6119 6133	norépinéphrine
+T8	substance 6593 6603	furosémide
+T41	examen 6677 6700	radiographie pulmonaire
+T53	anatomie 6690 6700	pulmonaire
+T9	substance 6788 6801	lévofloxacine
+T10	substance 6839 6849	furosémide
+T29	substance 769 782	isotrétinoïne
+T19	substance 828 842	acétaminophène
+T37	substance 872 882	salbutamol
+T27	substance 916 927	fluticasone
+T18	pathologie 1070 1076	myopie
+T21	mode 886 896	inhalation
+T22	mode 847 857	voie orale
+T23	frequence 858 867	au besoin
+T24	frequence 897 906	au besoin
+T49	mode 931 941	inhalation
+T55	frequence 942 951	au besoin
+T56	dose 783 788	40 mg
+T57	mode 793 803	voie orale
+T58	frequence 804 821	une fois par jour
+T59	dose 2107 2113	2,5 mg
+T60	dose 2128 2132	5 mg
+T61	dose 2147 2152	10 mg
+T62	substance 2169 2185	Phénoxybenzamine
+T63	dose 2186 2191	10 mg
+T64	dose 2203 2207	5 mg
+T65	dose 2218 2223	10 mg
+T66	substance 2250 2267	NaCl 0,45% (mL/h)
+T68	mode 2114 2116	PO
+T69	mode 2133 2135	PO
+T70	mode 2153 2155	PO
+T71	mode 2192 2194	PO
+T72	mode 2208 2210	PO
+T73	mode 2224 2226	PO
+T74	frequence 2117 2125	Q 4H PRN
+T75	frequence 2136 2144	Q 4H PRN
+T76	frequence 2156 2164	Q 4H PRN
+T77	frequence 2195 2200	2 x/j
+T78	frequence 2211 2215	2x/j
+T79	frequence 2227 2231	3x/j
+T80	dose 2295 2301	650 mg
+T81	mode 2302 2304	PO
+T82	frequence 2305 2315	Q 4-6H PRN
+T83	substance 2328 2338	Métoprolol
+T84	dose 2339 2344	50 mg
+T85	mode 2345 2347	PO
+T86	frequence 2348 2353	2 x/j
+T87	substance 2360 2376	NaCl 0,45% + D5%
+T89	substance 2379 2382	KCl
+T90	dose 2383 2391	20 mEq/L
+T91	dose 2525 2531	650 mg
+T92	mode 2532 2534	PO
+T93	frequence 2535 2543	Q 4H PRN
+T94	substance 2558 2574	NaCl 0,45% + D5%
+T96	substance 2577 2580	KCl
+T97	dose 2581 2589	20 mEq/L
+T98	dose 2637 2642	10 mg
+T99	dose 2653 2658	20 mg
+T100	mode 2643 2645	IV
+T101	mode 2659 2661	IV
+T102	dose 2679 2683	2 mg
+T103	dose 2702 2706	2 mg
+T104	mode 2684 2686	IV
+T105	frequence 2687 2695	Q 6H PRN
+T106	mode 2707 2709	SL
+T107	frequence 2710 2718	Q 6H PRN
+T108	substance 2725 2734	Naproxène
+T109	mode 2742 2744	PO
+T110	frequence 2745 2750	3 x/j
+T111	substance 2757 2770	Lévofloxacine
+T112	dose 2771 2777	500 mg
+T113	mode 2778 2780	PO
+T114	frequence 2781 2785	1x/j
+T115	substance 2792 2805	Hydromorphone
+T116	dose 2806 2812	1-2 mg
+T117	mode 2813 2815	PO
+T118	frequence 2816 2824	Q 4H PRN
+T119	substance 2855 2867	rémifentanyl
+T120	substance 2871 2881	rocuronium
+T121	substance 2906 2917	bupivicaïne
+T122	substance 2929 2940	épimorphine
+T123	substance 2943 2955	rémifentanyl
+T124	substance 2959 2970	sévoflurane
+T125	substance 2985 2996	bupivicaïne
+T126	substance 3010 3021	épimorphine
+T127	moment 3094 3103	Au jour 2
+T128	sosy 3261 3276	légère céphalée
+T129	substance 3301 3311	nifédipine
+T130	anatomie 3341 3350	pelvienne
+T131	substance 3471 3487	phénoxybenzamine
+T132	anatomie 3498 3509	ophtalmique
+T133	moment 3545 3554	Au jour 3
+T134	substance 3657 3673	phénoxybenzamine
+T135	substance 3727 3737	nifédipine
+A2	prise T135 arrêt
+T136	substance 3876 3887	épinéphrine
+T137	anatomie 4041 4050	cérébrale
+T138	anatomie 4161 4170	cérébrale
+T139	examen 3964 3983	électrocardiogramme
+T140	moment 4173 4182	Au jour 5
+T141	substance 4758 4773	normétanéphrine
+T142	moment 5017 5027	Au jour 11
+T143	examen 5033 5069	tomographie d’émission par positrons
+T144	anatomie 5178 5187	cervicale
+T145	moment 5202 5212	Au jour 15
+T146	moment 5276 5286	au jour 18
+T147	traitement 5292 5331	résection de la glande surrénale droite
+T148	substance 5430 5440	métoprolol
+T149	moment 5575 5585	Au jour 16
+T150	substance 5679 5689	métoprolol
+T151	moment 5909 5919	Au jour 18
+T152	traitement 5937 5957	exérèse de la tumeur
+T153	sosy 5996 6007	hypotension
+T154	substance 6041 6053	crystalloïde
+T155	substance 6058 6066	colloïde
+T156	moment 6328 6338	Au jour 19
+T157	moment 6450 6460	Au jour 20
+T158	moment 6605 6615	Au jour 21
+T54	moment 6885 6895	Au jour 23
+T159	substance 6908 6923	antibiothérapie
+T160	pathologie 6960 6969	pneumonie
+T161	moment 7025 7035	Au jour 25
+T162	pathologie 121 134	acné vulgaire
+T163	examen 166 174	anamnèse
+T164	sosy 200 225	transpirations excessives
+T165	sosy 274 306	céphalées frontales récidivantes
+T166	anatomie 284 293	frontales
+T167	sosy 316 339	diminution de la vision
+T169	sosy 443 506	hypertension artérielle atteignant des valeurs de 185/120 mm Hg
+T170	anatomie 456 466	artérielle
+T171	valeur 493 506	185/120 mm Hg
+A4	norme T171 haut
+T172	pathologie 672 685	acné vulgaire
+T173	sosy 691 723	céphalées frontales récidivantes
+T174	anatomie 701 710	frontales
+T177	pathologie 732 738	asthme
+T178	sosy 979 1001	allergies saisonnières
+T179	pathologie 1005 1025	hypercholestérolémie
+T180	examen 1378 1396	tension artérielle
+T181	examen 1404 1423	fréquence cardiaque
+T182	valeur 1455 1468	184/112 mm Hg
+T183	valeur 1474 1498	96 battements par minute
+T184	substance 1725 1735	nifédipine
+T185	sosy 1778 1868	augmentation de la tension artérielle, qui atteint des valeurs supérieures à 200/130 mm Hg
+T188	valeur 1855 1868	200/130 mm Hg
+T186	examen 1797 1815	tension artérielle
+A5	norme T188 haut
+T187	examen 3108 3126	tension artérielle
+T189	examen 3133 3152	fréquence cardiaque
+T190	valeur 3190 3202	191/95 mm Hg
+T191	valeur 3206 3231	125 battements par minute
+T192	sosy 3376 3404	masse surrénalienne à droite
+T193	anatomie 3382 3404	surrénalienne à droite
+T194	pathologie 3421 3437	phéochromocytome
+T195	pathologie 3530 3542	papilloedème
+A6	assertion T195 absent
+T196	sosy 3580 3605	hypotension orthostatique
+T197	examen 3610 3628	tension artérielle
+T198	traitement 3757 3779	remplissage vasculaire
+T199	anatomie 3769 3779	vasculaire
+T200	examen 3902 3915	thyrothropine
+T201	examen 3920 3932	parathormone
+T202	examen 3938 3949	aldostérone
+T203	anatomie 4080 4092	nerf optique
+T204	examen 4187 4216	tension artérielle systolique
+T205	valeur 4240 4256	140 et 170 mm Hg
+T206	examen 4272 4302	tension artérielle diastolique
+T207	valeur 4312 4320	90 mm Hg
+T208	substance 4357 4386	acide méthylènediphosphonique
+T209	mode 4338 4347	injection
+T210	examen 4542 4564	évaluation moléculaire
+T211	moment 4630 4639	Au jour 9
+T212	sosy 4915 4943	masse surrénalienne à droite
+T213	anatomie 4921 4943	surrénalienne à droite
+T214	sosy 4956 5015	foyer d’hypercaptation au pôle inférieur du lobe thyroïdien
+T215	anatomie 4982 5015	pôle inférieur du lobe thyroïdien
+T216	sosy 5094 5140	graisse brune au niveau de la surrénale droite
+T217	anatomie 5124 5140	surrénale droite
+T218	anatomie 5308 5331	glande surrénale droite
+T219	examen 5341 5382	exploration de la glande surrénale gauche
+T220	anatomie 5359 5382	glande surrénale gauche
+T221	traitement 5484 5506	remplissage vasculaire
+T222	examen 5627 5646	fréquence cardiaque
+T223	examen 5709 5728	fréquence cardiaque
+T224	valeur 5750 5774	70 battements par minute
+T225	examen 5830 5848	tension artérielle
+T226	pathologie 5951 5957	tumeur
+T227	traitement 5962 5973	laparotomie
+T228	examen 6204 6232	rapport d’anatomo-pathologie
+T229	anatomie 6214 6232	anatomo-pathologie
+T230	pathologie 6259 6275	phéochromocytome
+T231	sosy 6282 6301	invasion vasculaire
+T232	anatomie 6291 6301	vasculaire
+A7	assertion T231 absent
+T233	sosy 6308 6326	foyers nécrotiques
+T234	examen 6358 6376	tension artérielle
+T235	valeur 6393 6401	normales
+T236	sosy 6533 6554	surcharge liquidienne
+A8	assertion T236 hypothétique
+T237	examen 6620 6638	tension artérielle
+T238	valeur 6664 6672	normales
+T239	anatomie 6740 6762	base pulmonaire droite
+T240	sosy 6725 6762	infiltrat à la base pulmonaire droite
+A9	assertion T160 absent
+T241	examen 7082 7100	tension artérielle
+T242	valeur 7111 7123	115/60 mm Hg
+T244	examen 1333 1341	anamnèse
+T246	sosy 1507 1521	asymptomatique
+T251	valeur 3954 3960	normal
+T258	valeur 5192 5199	normale
+T265	examen 7278 7296	tension artérielle
+T269	substance 2473 2484	épinéphrine
+T278	moment 1344 1359	À son admission
+A10	norme T182 haut
+T248	examen 1604 1679	dosage des cathécolamines et de leurs métabolites sur une collecte urinaire
+T279	duree 1680 1692	de 24 heures
+T280	moment 1736 1761	quelques heures plus tard
+A11	norme T191 haut
+A12	norme T190 haut
+T249	examen 4644 4703	dosage des catécholamines et de leurs métabolites urinaires
+T250	examen 3784 3822	dosage des catécholamines plasmatiques
+A13	norme T235 normal
+A14	norme T238 normal
+A15	norme T242 normal
+T256	examen 7164 7223	dosage des catécholamines et de leurs métabolites urinaires
+T257	sosy 233 270	augmentation graduelle de l’intensité
+A16	assertion T240 présent
+T259	mode 6877 6883	soluté
+T260	substance 4430 4462	méta-iodo-benzylguanidine (MIBG)
+T264	substance 4797 4801	MIBG
+T268	pathologie 1171 1184	acné vulgaire
+T270	pathologie 1190 1196	asthme
+A17	assertion T268 non-associé
+A18	assertion T270 non-associé
+T271	sosy 1226 1238	hypertension
+T272	pathologie 1243 1255	néphropathie
+T273	pathologie 1260 1317	néoplasme de la glande thyroïde et des glandes surrénales
+T281	anatomie 1276 1291	glande thyroïde
+T282	anatomie 1299 1317	glandes surrénales
+A19	assertion T271 absent
+A20	assertion T272 absent
+A21	assertion T273 absent
+T285	valeur 5787 5812	120 battements par minute
+A22	norme T285 haut
+T286	moment 7125 7146	Une semaine plus tard
+T287	examen 7253 7269	suivi à domicile
+T175	anatomie 3143 3152	cardiaque
+T176	anatomie 3116 3126	artérielle
+T262	anatomie 3618 3628	artérielle
+T288	anatomie 4195 4216	artérielle systolique
+T289	anatomie 7090 7100	artérielle
+T290	anatomie 7286 7296	artérielle
+T291	anatomie 6628 6638	artérielle
+T1	sosy 3610 3644	tension artérielle est transitoire
+T2	sosy 546 581	examen du fond de l’œil est douteux
+T3	sosy 511 537	patient est asymptomatique
+T4	examen 624 638	investigations
+A3	etat T272 familial
+A23	etat T273 familial
+T6	valeur 1563 1583	aucune particularité
+T7	substance 1615 1653	cathécolamines et de leurs métabolites
+T11	moment 1901 1925	durant l’hospitalisation
+T20	substance 1883 1894	médicaments
+T67	substance 2442 2451	Colloïdes
+T88	substance 2454 2467	Crystalloïdes
+T95	substance 2615 2618	ACP
+T168	mode 2602 2611	Épidurale
+T243	mode 2973 2982	Épidurale
+T245	substance 3024 3064	ACP : analgésie contrôlée par le patient
+T254	dose 3292 3297	doses
+T255	frequence 3564 3577	deux épisodes
+T266	dose 3649 3653	dose
+A24	changement T266 diminution
+T267	sosy 3834 3887	augmentation de la norépinéphrine et de l’épinéphrine
+T274	sosy 3964 4008	électrocardiogramme ne révèle rien d’anormal
+A25	assertion T44 absent
+T263	sosy 4715 4773	augmentation de la norépinéphrine et de la normétanéphrine
+T275	sosy 4821 4839	captation anormale
+A26	assertion T275 absent
+T276	moment 5442 5467	La veille de la chirurgie
+T277	anatomie 5528 5547	glande thyroïdienne
+T283	sosy 5565 5573	anomalie
+A27	assertion T283 absent
+T284	sosy 5602 5646	diminution marquée de la fréquence cardiaque
+T292	dose 6581 6589	une dose
+T293	dose 6819 6835	une seconde dose
+T294	sosy 6983 7023	amélioration de la surcharge liquidienne
+T295	substance 1963 1974	Médicaments
+T296	substance 2011 2022	MÉDICAMENTS
+T297	moment 2074 2095	Période préopératoire
+T298	moment 2394 2416	Période périopératoire
+T299	moment 2487 2509	Période postopératoire
+A28	assertion T194 possible
+T300	anatomie 5496 5506	vasculaire
+T247	sosy 3892 3960	dosage de thyrothropine, de parathormone et d’aldostérone est normal
+T252	sosy 5144 5199	imagerie par résonance magnétique cervicale est normale
+T253	sosy 5830 5906	tension artérielle du patient a légèrement diminué, mais elle demeure stable
+T261	sosy 4272 4320	tension artérielle diastolique avoisine 90 mm Hg
+T301	sosy 4187 4256	tension artérielle systolique du patient varie entre 140 et 170 mm Hg
+T302	sosy 5709 5812	fréquence cardiaque avoisinent désormais 70 battements par minute au lieu des 120 battements par minute
+T303	sosy 6358 6401	tension artérielle du patient sont normales
+T304	sosy 6620 6672	tension artérielle demeure dans les valeurs normales
+T305	sosy 7082 7123	tension artérielle s’élève à 115/60 mm Hg
+T306	sosy 1378 1498	tension artérielle et une fréquence cardiaque qui s’élèvent respectivement à 184/112 mm Hg et à 96 battements par minute
+T307	sosy 1537 1583	examen physique ne révèle aucune particularité
+T308	anatomie 566 569	œil
+T309	anatomie 1386 1396	artérielle
+T310	anatomie 1414 1423	cardiaque
+T311	anatomie 1671 1679	urinaire
+T312	anatomie 1805 1815	artérielle
+T313	anatomie 3810 3822	plasmatiques
+T314	anatomie 4280 4302	artérielle diastolique
+T315	anatomie 5637 5646	cardiaque
+T316	anatomie 5719 5728	cardiaque
+T317	anatomie 5838 5848	artérielle
+A1	prise T35 arrêt
+T318	anatomie 6366 6376	artérielle
+A29	prise T159 arrêt
+T319	anatomie 7214 7223	urinaires
+T320	substance 7175 7189	catécholamines
+T321	substance 7202 7213	métabolites
+A30	norme T6 normal
+T322	nerveux 274 306	céphalées frontales récidivantes
+T324	peau 121 134	acné vulgaire
+T325	oeil 316 339	diminution de la vision
+T327	cardiovasculaires 443 466	hypertension artérielle
+T328	peau 672 685	acné vulgaire
+T329	nerveux 691 723	céphalées frontales récidivantes
+T330	respiratoire 732 738	asthme
+T331	immunitaire 732 738	asthme
+T332	immunitaire 979 1001	allergies saisonnières
+T334	chimiques 1005 1063	hypercholestérolémie secondaire à la prise d’isotrétinoïne
+T335	oeil 1070 1076	myopie
+T336	cardiovasculaires 1778 1815	augmentation de la tension artérielle
+T337	nerveux 3261 3276	légère céphalée
+T338	cardiovasculaires 3580 3605	hypotension orthostatique
+T339	tumeur 5951 5957	tumeur
+T340	cardiovasculaires 5996 6007	hypotension
+T341	tumeur 6259 6275	phéochromocytome
+T342	respiratoire 6725 6762	infiltrat à la base pulmonaire droite
+T343	tumeur 4915 4943	masse surrénalienne à droite
+T344	endocriniennes 4915 4943	masse surrénalienne à droite
+T326	nerveux 316 339	diminution de la vision
+T345	etatsosy 316 339	diminution de la vision
+T346	etatsosy 443 466	hypertension artérielle
+T323	nutritionnelles 1005 1025	hypercholestérolémie
+T333	etatsosy 1778 1815	augmentation de la tension artérielle
+T347	nerveux 3580 3605	hypotension orthostatique
+T348	genre 21 26	homme
+T349	age 30 36	17 ans
+A31	genre T348 masculin
+T350	origine 197 339	de transpirations excessives, d’une augmentation graduelle de l’intensité de céphalées frontales récidivantes et d’une diminution de la vision
+T351	issue 6971 7023	On note une amélioration de la surcharge liquidienne
+A32	issue T351 amélioration

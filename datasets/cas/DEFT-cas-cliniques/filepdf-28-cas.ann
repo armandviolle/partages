@@ -1,0 +1,6 @@
+T1	age 10 16	74 ans
+T2	issue 3573 3578	décès
+T3	genre 624 634	Le patient
+A1	issue T2 décès
+A2	genre T3 masculin
+T4	origine 40 70	des douleurs lombaires gauches

@@ -1,0 +1,197 @@
+T14	substance 1500 1511	granisétron
+T15	substance 1538 1551	dexaméthasone
+T16	substance 1683 1693	cisplatine
+T18	substance 1716 1725	étoposide
+T17	substance 1865 1874	étoposide
+T19	substance 2152 2161	étoposide
+T20	substance 2560 2575	diphenhydramine
+T27	substance 291 300	estradiol
+T3	substance 3158 3169	granisétron
+T28	substance 317 324	calcium
+T4	substance 3191 3204	dexaméthasone
+T5	substance 3212 3227	diphenhydramine
+T6	substance 3237 3247	ranitidine
+T7	substance 3290 3299	lorazepam
+T26	substance 338 348	vitamine D
+T8	substance 3624 3637	dexaméthasone
+T10	substance 3776 3785	étoposide
+T25	substance 378 386	oxazepam
+T9	substance 3887 3896	étoposide
+T11	substance 3980 3989	étoposide
+T24	substance 409 423	acétaminophène
+T12	substance 4248 4257	étoposide
+T23	substance 467 481	pivampicilline
+T29	substance 698 708	cisplatine
+T30	substance 725 734	étoposide
+T32	dose 349 355	400 UI
+T33	frequence 356 374	deux fois par jour
+T34	dose 301 307	50 mcg
+T35	frequence 307 312	/jour
+T37	dose 325 331	500 mg
+T38	dose 387 392	15 mg
+T39	moment 393 403	au coucher
+T36	dose 424 430	500 mg
+T40	moment 431 440	au besoin
+T41	dose 710 718	25 mg/m2
+T42	dose 736 745	100 mg/m2
+T43	mode 763 781	voie intraveineuse
+T44	duree 782 813	pendant trois jours consécutifs
+T45	frequence 814 849	à des intervalles de trois semaines
+T46	dose 1512 1516	1 mg
+T47	mode 1521 1531	voie orale
+T48	dose 1552 1557	10 mg
+T49	mode 1558 1570	intraveineux
+T50	moment 1726 1745	une heure plus tard
+T51	moment 1694 1704	au temps 0
+T52	mode 1670 1679	perfusion
+T53	sosy 1912 1919	malaise
+T54	anatomie 1961 1965	tête
+A3	prise T19 arrêt
+T55	mode 2140 2149	perfusion
+T56	dose 2539 2556	Une dose de 50 mg
+T57	mode 2596 2614	voie intraveineuse
+T58	dose 3170 3174	1 mg
+T59	mode 3179 3189	voie orale
+T60	dose 3205 3210	20 mg
+T61	dose 3228 3233	50 mg
+T62	dose 3248 3253	50 mg
+T63	mode 3258 3276	voie intraveineuse
+T64	dose 3300 3304	1 mg
+T65	mode 3309 3325	voie sublinguale
+T66	sosy 3372 3379	anxiété
+T67	sosy 3427 3443	hypersensibilité
+T69	mode 3656 3674	voie intraveineuse
+T70	dose 3693 3698	10 mg
+A4	changement T70 diminution
+T71	dose 3710 3715	20 mg
+T72	sosy 3742 3750	insomnie
+T73	mode 3764 3773	perfusion
+T74	duree 3805 3815	90 minutes
+T75	duree 3828 3838	60 minutes
+T76	moment 4022 4031	au jour 4
+T77	dose 4045 4051	200 mg
+T78	moment 4052 4060	le matin
+T79	dose 4064 4070	150 mg
+T80	moment 4071 4083	l’après midi
+T81	sosy 4214 4230	hypersensibilité
+T82	mode 4262 4272	voie orale
+T83	duree 1789 1804	60 à 90 minutes
+T84	moment 1806 1862	Environ trois minutes après le début de l’administration
+T85	pathologie 39 76	adénocarcinome pulmonaire de stade 3A
+T86	anatomie 54 64	pulmonaire
+T87	traitement 105 148	résection au niveau du lobe supérieur droit
+T88	anatomie 128 148	lobe supérieur droit
+T89	sosy 451 481	allergique à la pivampicilline
+T90	substance 631 645	chimiothérapie
+T91	substance 665 679	chimiothérapie
+T92	examen 1028 1046	tension artérielle
+T93	examen 1063 1082	fréquence cardiaque
+T94	examen 1107 1118	température
+T95	examen 1130 1165	clearance de la créatinine calculée
+T96	valeur 1168 1177	1,38 mL/s
+T97	valeur 1049 1061	108/76 mm Hg
+T98	valeur 1085 1105	85 battements/minute
+A5	norme T97 normal
+A6	norme T98 normal
+A7	norme T96 normal
+T100	examen 860 901	paramètres biochimiques et hématologiques
+T101	valeur 907 914	normaux
+A8	norme T101 normal
+T104	substance 1408 1425	préchimiothérapie
+T105	sosy 1946 1965	serrement à la tête
+T106	sosy 1988 2009	difficulté à respirer
+T108	anatomie 2054 2060	faciès
+T109	sosy 2054 2066	faciès rouge
+T31	valeur 2131 2135	91 %
+T111	examen 2202 2212	monitoring
+T112	examen 2286 2304	tension artérielle
+T113	examen 2358 2377	fréquence cardiaque
+T114	examen 2379 2397	tension artérielle
+T115	valeur 2418 2429	114/72 mmHg
+T116	valeur 2441 2452	164/89 mmHg
+A9	norme T116 haut
+T117	examen 2455 2474	fréquence cardiaque
+T118	valeur 2483 2503	82 battements/minute
+T119	valeur 2515 2536	107 battements/minute
+A10	norme T119 haut
+T120	substance 2840 2854	chimiothérapie
+T121	substance 3141 3155	chimiothérapie
+A11	assertion T67 absent
+A12	assertion T81 absent
+T123	duree 646 660	de trois jours
+T128	valeur 1019 1026	normaux
+T130	examen 2099 2120	saturation en oxygène
+A13	norme T118 normal
+A14	norme T115 normal
+T110	substance 2965 2978	prémédication
+T125	substance 3560 3573	prémédication
+T126	moment 3934 3943	au jour 1
+T127	moment 492 535	un mois après son intervention chirurgicale
+T132	substance 1430 1441	hydratation
+T134	sosy 3060 3076	hypersensibilité
+A15	assertion T134 hypothétique
+T1	valeur 68 76	stade 3A
+T2	sosy 179 207	antécédent médical pertinent
+A2	assertion T2 absent
+T13	substance 212 233	médication habituelle
+T21	duree 248 268	depuis quelque temps
+T68	examen 985 998	signes vitaux
+T99	substance 1214 1237	agents antinéoplasiques
+T102	dose 1184 1199	doses adéquates
+T103	examen 1271 1304	surface corporelle de la patiente
+T107	substance 1465 1488	traitement antiémétique
+T122	moment 2011 2022	À ce moment
+T124	sosy 2084 2135	pourcentage de saturation en oxygène abaissé à 91 %
+T129	moment 2398 2415	avant la réaction
+T133	moment 2431 2438	pendant
+T135	moment 2475 2480	avant
+T136	moment 2505 2512	pendant
+T138	sosy 2629 2672	état de la patiente se stabilise rapidement
+T139	moment 2681 2703	trois heures plus tard
+T140	moment 2789 2801	le lendemain
+T141	moment 2804 2836	Le lendemain de sa première dose
+T142	dose 2935 2947	seconde dose
+T143	dose 3278 3286	Une dose
+T144	substance 3392 3402	médication
+T145	substance 3485 3508	agents antinéoplasiques
+T146	substance 3587 3605	cycles subséquents
+T147	dose 3647 3651	dose
+T148	dose 3880 3884	dose
+T149	mode 3968 3977	comprimés
+T150	substance 4107 4134	premier cycle de traitement
+T151	substance 4274 4289	Tous les cycles
+T152	sosy 4353 4361	incident
+A16	assertion T152 absent
+T153	substance 614 627	premier cycle
+T154	duree 4303 4315	six au total
+T156	valeur 1121 1128	36,8 °C
+T157	valeur 1315 1321	165 cm
+T158	valeur 1331 1338	71,8 kg
+T159	valeur 1361 1368	1,81 m2
+T160	sosy 2286 2377	tension artérielle de la patiente s’est subitement élevée tout comme la fréquence cardiaque
+T131	sosy 985 1026	signes vitaux, qui sont également normaux
+T155	sosy 860 914	paramètres biochimiques et hématologiques sont normaux
+T161	sosy 1107 1128	température : 36,8 °C
+T162	sosy 1028 1061	tension artérielle : 108/76 mm Hg
+T163	sosy 1063 1105	fréquence cardiaque : 85 battements/minute
+T164	sosy 1130 1177	clearance de la créatinine calculée : 1,38 mL/s
+T137	sosy 2379 2452	tension artérielle avant la réaction : 114/72 mmHg, pendant : 164/89 mmHg
+T165	sosy 2455 2536	fréquence cardiaque avant : 82 battements/minute, pendant : 107 battements/minute
+T22	anatomie 2294 2304	artérielle
+T166	anatomie 2368 2377	cardiaque
+T167	anatomie 2387 2397	artérielle
+T168	anatomie 2465 2474	cardiaque
+A1	norme T156 bas
+T169	tumeur 39 76	adénocarcinome pulmonaire de stade 3A
+T170	respiratoire 39 76	adénocarcinome pulmonaire de stade 3A
+T171	immunitaire 451 461	allergique
+T172	nerveux 1912 1919	malaise
+T173	etatsosy 1912 1919	malaise
+T175	nerveux 3742 3750	insomnie
+T176	etatsosy 2054 2066	faciès rouge
+T174	genre 4 9	femme
+A17	genre T174 féminin
+T177	age 13 19	48 ans
+T178	origine 39 76	adénocarcinome pulmonaire de stade 3A
+T179	issue 4274 4376	Tous les cycles subséquents (six au total) se sont achevés sans qu’aucun autre incident ne se produise
+A18	issue T179 amélioration

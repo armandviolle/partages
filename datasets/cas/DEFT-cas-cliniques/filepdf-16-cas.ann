@@ -1,0 +1,7 @@
+T1	age 17 23	61 ans
+T2	issue 1978 1984	décède
+T3	genre 601 611	Le patient
+A1	issue T2 décès
+A2	genre T3 masculin
+T4	origine 644 704	une insuffisance rénale sévère et un ténesme uréthro-vésical
+#1	AnnotatorNotes T1	91 ans

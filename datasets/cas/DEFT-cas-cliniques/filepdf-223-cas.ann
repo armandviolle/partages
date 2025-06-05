@@ -1,0 +1,6 @@
+T1	issue 2319 2325	décédé
+T2	genre 50 58	Monsieur
+T3	age 62 68	68 ans
+A1	issue T1 décès
+A2	genre T2 masculin
+T4	origine 75 128	une tumeur pyélocalicielle découverte à l’uro-scanner

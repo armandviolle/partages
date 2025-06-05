@@ -1,0 +1,6 @@
+T1	genre 0 3	Mme
+T2	age 8 13	67ans
+A1	genre T1 féminin
+T3	origine 26 167	une incontinence urinaire d’effort (IUE) depuis un an, l’obligeant au port d’une garniture par jour et décrivait parfois une dysurie initiale
+T4	issue 2195 2389	la malade a repris ses mictions sans dysurie ni résidu. La continence urétrale a été complètement restaurée sans port de garniture ni impériosité, ceci persistait à 3 et 6 mois de l’intervention
+A2	issue T4 guérison

@@ -1,0 +1,4 @@
+T2	C0003241 105 114	anticorps
+#2	AnnotatorNotes T2	"C0003241", "Antibodies", "Amino Acid Peptide or Protein|Immunologic Factor" ,"CHEM"
+T3	C0021027 105 114	anticorps
+#3	AnnotatorNotes T3	"C0021027", "Immunoglobulins", "Amino Acid Peptide or Protein|Pharmacologic Substance|Immunologic Factor" ,"CHEM"

@@ -1,0 +1,10 @@
+T6	C0456386 88 98	médicament
+#6	AnnotatorNotes T6	"C0456386", "Medicament", "Pharmacologic Substance" ,"CHEM"
+T7	C0023884 147 151	foie
+#7	AnnotatorNotes T7	"C0023884", "Liver", "Body Part Organ or Organ Component" ,"ANAT"
+T8	C0013227 88 98	médicament
+#8	AnnotatorNotes T8	"C0013227", "Pharmaceutical Preparations", "Pharmacologic Substance" ,"CHEM"
+T9	C1278929 147 151	foie
+#9	AnnotatorNotes T9	"C1278929", "Entire liver", "Body Part Organ or Organ Component" ,"ANAT"
+T29	C0232478 30 38	la prise
+#29	AnnotatorNotes T29	"C0232478", "Ingestion", "Biologic Function" ,"PHEN"

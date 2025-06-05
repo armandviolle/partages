@@ -1,0 +1,7 @@
+T1	genre 16 26	un patient
+A1	genre T1 masculin
+T2	age 853 867	septembre 1999
+T3	origine 944 1050	un syndrome douloureux suraigu fébrile du transplant résistant au traitement symptomatique et antibiotique
+T4	issue 1809 1890	Avec un recul de 3ans, le patient est vivant sans signe d’évolution de la maladie
+A2	issue T4 amélioration
+#1	AnnotatorNotes T2	35 ans

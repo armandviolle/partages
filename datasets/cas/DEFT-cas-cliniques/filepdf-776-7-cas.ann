@@ -1,0 +1,6 @@
+T1	genre 0 3	Mme
+T2	origine 138 165	chondrocalcinose vertébrale
+T3	age 23 29	62 ans
+A1	genre T1 féminin
+T4	issue 1163 1189	ce qui a amélioré son état
+A2	issue T4 amélioration

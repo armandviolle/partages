@@ -1,0 +1,6 @@
+T4	C0038960 68 78	suspension
+#4	AnnotatorNotes T4	"C0038960", "Suspensions", "Biomedical or Dental Material" ,"CHEM"
+T5	C1382107 68 78	suspension
+#5	AnnotatorNotes T5	"C1382107", "Suspension substance", "Substance" ,"OBJC"
+T6	C0013227 0 26	Composition pharmaceutique
+#6	AnnotatorNotes T6	"C0013227", "Pharmaceutical Preparations", "Pharmacologic Substance" ,"CHEM"

@@ -1,0 +1,6 @@
+T1	genre 32 42	un patient
+T2	age 46 52	38 ans
+A1	genre T1 masculin
+T3	origine 119 276	des lombalgies chroniques associées à de signes obstructifs et irritatifs du bas appareil urinaire et un épisode d’hématurie, le tout évoluant depuis 06 mois
+T4	issue 980 1079	Aucun traitement adjuvant n´a été administré et les contrôles cystoscopiques étaient sans anomalies
+A2	issue T4 guérison

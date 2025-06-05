@@ -1,0 +1,52 @@
+T6	examen 263 280	bilan d'extension
+T7	examen 143 154	cystoscopie
+T9	examen 579 598	examen histologique
+T11	sosy 115 138	hématurie macroscopique
+T12	sosy 170 258	lésions polypoides intra-vésicales de la face latérale droite rétrotrigonales et du dôme
+T13	anatomie 189 204	intra-vésicales
+T14	anatomie 211 247	face latérale droite rétrotrigonales
+T15	anatomie 254 258	dôme
+T5	pathologie 296 375	petites adénopathies le long de la veine cave en regard du pédicule rénal droit
+T16	anatomie 331 341	veine cave
+T17	anatomie 355 375	pédicule rénal droit
+T18	anatomie 405 418	uretère droit
+T19	sosy 437 469	importante uretéro-hydronéphrose
+T20	examen 476 496	cytologies urinaires
+T10	sosy 532 575	lésion tumorale urothéliale de faible grade
+T21	anatomie 548 559	urothéliale
+T8	traitement 614 648	résection transuréthrale de vessie
+T22	anatomie 624 648	transuréthrale de vessie
+T24	sosy 665 776	tumeur urothéliale bien différenciée avec une composante papillaire en surface et infiltration de la musculeuse
+T25	anatomie 672 683	urothéliale
+T26	sosy 781 848	prolifération tumorale s'agençant en ïlots tumoraux à type de "nid"
+T27	substance 883 922	chimiothérapie systémique de rattrapage
+T28	sosy 962 968	lésion
+T29	traitement 978 999	carcinose péritonéale
+T30	anatomie 988 999	péritonéale
+T31	traitement 1020 1031	laparotomie
+T32	moment 1065 1084	neuf mois plus tard
+T33	sosy 388 418	engainement de l'uretère droit
+T1	pathologie 50 59	tabagisme
+A1	etat T1 passé
+T2	sosy 65 87	exposition à l'amiante
+T3	sosy 476 514	cytologies urinaires étaient positives
+T4	anatomie 766 776	musculeuse
+T23	substance 80 87	amiante
+T34	valeur 505 514	positives
+T35	anatomie 487 496	urinaires
+T36	chimiques 50 59	tabagisme
+T37	chimiques 65 87	exposition à l'amiante
+T38	homme 115 138	hématurie macroscopique
+T39	etatsosy 115 138	hématurie macroscopique
+T40	hemopathies 296 341	petites adénopathies le long de la veine cave
+T42	tumeur 665 683	tumeur urothéliale
+T41	homme 437 469	importante uretéro-hydronéphrose
+T43	tumeur 532 575	lésion tumorale urothéliale de faible grade
+T44	homme 532 575	lésion tumorale urothéliale de faible grade
+T45	homme 665 683	tumeur urothéliale
+T46	age 12 18	70 ans
+T47	issue 1036 1041	décès
+A2	issue T47 décès
+T48	genre 1045 1052	patient
+A3	genre T48 masculin
+T49	origine 115 138	hématurie macroscopique

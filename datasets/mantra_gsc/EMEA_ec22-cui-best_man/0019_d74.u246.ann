@@ -1,0 +1,16 @@
+T9	C1267092 33 47	muscles lisses
+#9	AnnotatorNotes T9	"C1267092", "Smooth muscle (tissue)", "Tissue" ,"ANAT"
+T10	C0040300 78 84	tissus
+#10	AnnotatorNotes T10	"C0040300", "Body tissue", "Tissue" ,"ANAT"
+T11	C0030847 131 139	érection
+#11	AnnotatorNotes T11	"C0030847", "Penile Erection", "Organ or Tissue Function" ,"PHYS"
+T12	C0026836 17 40	relâchement des muscles
+#12	AnnotatorNotes T12	"C0026836", "Muscle relaxation phase", "Organ or Tissue Function" ,"PHYS"
+T13	C0030851 85 92	péniens
+#13	AnnotatorNotes T13	"C0030851", "penis", "Body Part Organ or Organ Component" ,"ANAT"
+T38	C0005767 61 68	sanguin
+#38	AnnotatorNotes T38	"C0005767", "Blood", "Tissue" ,"ANAT"
+T39	C0229664 61 68	sanguin
+#39	AnnotatorNotes T39	"C0229664", "peripheral blood", "Body Substance" ,"ANAT"
+T40	C1280739 85 92	péniens
+#40	AnnotatorNotes T40	"C1280739", "Entire penis", "Body Part Organ or Organ Component" ,"ANAT"

@@ -1,0 +1,164 @@
+T1	pathologie 59 88	contage tuberculeux familiale
+A1	etat T1 familial
+A2	assertion T1 non-associé
+T2	moment 89 101	il y a 2 ans
+T3	sosy 142 161	pesanteur pelvienne
+T4	anatomie 152 161	pelvienne
+T5	sosy 171 180	épreintes
+T6	sosy 186 193	dysurie
+T7	sosy 195 206	pollakiurie
+T8	sosy 235 263	altération de l’état général
+T10	sosy 267 281	fièvre à 39,5°
+T11	valeur 276 281	39,5°
+T12	examen 286 300	toucher rectal
+T13	anatomie 305 313	prostate
+T14	sosy 305 370	prostate était très augmentée de volume, irrégulière et rénitente
+T15	examen 375 383	biologie
+T17	valeur 416 424	10900/ml
+T18	sosy 397 424	hyperleucocytose à 10900/ml
+T19	examen 430 445	fonction rénale
+T20	anatomie 439 445	rénale
+T21	valeur 446 453	normale
+T22	sosy 430 453	fonction rénale normale
+T23	examen 460 495	examen cytobactériologique urinaire
+T25	sosy 460 503	examen cytobactériologique urinaire stérile
+T26	examen 507 531	échographie sus-pubienne
+T27	anatomie 519 531	sus-pubienne
+T28	anatomie 545 553	prostate
+T29	sosy 545 625	prostate très augmentée de taille (10,8 x 9,6 x 7,8 cm) hypoéchogène, hétérogène
+T30	valeur 580 599	10,8 x 9,6 x 7,8 cm
+T31	sosy 632 687	urétérohydronéphrose majeure droite (parenchyme laminé)
+T32	anatomie 669 679	parenchyme
+T33	examen 691 701	urographie
+T34	anatomie 715 721	vessie
+T35	sosy 715 749	vessie ascensionnée “montgolfière”
+T36	anatomie 758 776	urètre prostatique
+T37	anatomie 790 800	rein droit
+T38	sosy 758 783	urètre prostatique laminé
+T39	sosy 790 805	rein droit muet
+T40	examen 810 832	TDM abdomino-pelvienne
+T41	anatomie 814 832	abdomino-pelvienne
+T42	anatomie 858 874	loge prostatique
+T43	sosy 880 977	formation liquidienne multi-cloisonée refoulant la vessie en avant et le rectosigmoide en arrière
+T44	anatomie 931 937	vessie
+T45	anatomie 953 966	rectosigmoide
+T46	sosy 999 1016	abcès de prostate
+A3	assertion T46 hypothétique
+T47	anatomie 1008 1016	prostate
+T48	examen 1040 1062	tableau radio-clinique
+T49	sosy 1100 1117	abcés prostatique
+A4	assertion T49 hypothétique
+T50	anatomie 1106 1117	prostatique
+T51	traitement 1139 1144	opéré
+T52	mode 1149 1174	voie médiane sus-pubienne
+T54	valeur 1203 1209	300 cc
+T55	sosy 1203 1250	300 cc de pus brunâtre avec des tissus nécrosés
+T56	traitement 1189 1199	évacuation
+T57	anatomie 1235 1241	tissus
+T58	substance 1275 1292	biantibiothérapie
+T59	substance 1294 1304	ofloxacine
+T60	dose 1305 1311	400 mg
+T61	frequence 1312 1313	j
+T62	substance 1317 1328	gentamicine
+T63	dose 1329 1335	160 mg
+T64	frequence 1336 1337	j
+T65	duree 1339 1355	pendant 10 jours
+T66	examen 1359 1385	étude anatomo-pathologique
+T67	sosy 1413 1534	parenchyme prostatique dystrophique avec discret foyer inflammatoire à prédominance histiocytaire sans signe de malignité
+T68	anatomie 1424 1435	prostatique
+T69	moment 1539 1542	J12
+T70	sosy 1592 1624	hémoptysies de moyenne abondance
+T71	sosy 1634 1673	altération importante de l’état général
+T73	examen 1679 1702	radiographie thoracique
+T74	anatomie 1692 1702	thoracique
+T75	sosy 1726 1754	images en “lâcher de ballon”
+T76	examen 1759 1788	dosage des marqueurs tumoraux
+T77	examen 1803 1821	taux sérique d’ACE
+T78	valeur 1823 1833	48,9 ng/ml
+T79	examen 1841 1848	CA 19-9
+T80	valeur 1850 1858	203 U/ml
+T82	sosy 1803 1866	taux sérique d’ACE (48,9 ng/ml) et de CA 19-9 (203 U/ml) élevés
+T83	examen 1883 1935	taux sérique de l’antigène spécifique de la prostate
+T84	valeur 1937 1946	1,2 ng/ml
+T85	examen 1954 1973	alpha-foetoproteine
+T86	valeur 1975 1984	2,9 ng/ml
+T87	examen 1993 1996	LDH
+T88	valeur 1998 2006	580 UI/l
+T89	examen 2017 2021	BHCG
+T90	valeur 2023 2031	1 mUI/ml
+T91	valeur 2041 2048	normaux
+T92	examen 2054 2084	TDM thoraco-abdomino-pelvienne
+T93	anatomie 2058 2084	thoraco-abdomino-pelvienne
+T94	sosy 1883 2048	taux sérique de l’antigène spécifique de la prostate (1,2 ng/ml), de l’alpha-foetoproteine (2,9 ng/ml), de la LDH (580 UI/l) et de la BHCG (1 mUI/ml) étaient normaux
+T95	sosy 2115 2227	collection hétérogène prostatique avec multiples nodules parenchymateux pulmonaires diffus en “lâcher de ballon”
+T96	anatomie 2137 2148	prostatique
+T97	anatomie 2172 2186	parenchymateux
+T98	anatomie 2187 2198	pulmonaires
+T99	pathologie 2231 2297	adénopathies hilaires et médiastinales avec un épanchement pleural
+T100	anatomie 2244 2252	hilaires
+T101	anatomie 2256 2269	médiastinales
+T102	examen 2315 2377	examen du pelvis en imagerie par résonance magnétique (I.R.M.)
+T103	anatomie 2325 2331	pelvis
+T104	anatomie 2408 2419	prostatique
+T105	pathologie 2426 2524	tumeur qui est d’allure maligne et qui envahissait la face postérieure et la corne vésicale droite
+T106	anatomie 2480 2524	face postérieure et la corne vésicale droite
+T107	sosy 2532 2597	tumeur était nécrosée avec une importante composante hémorragique
+T108	examen 2620 2672	ponction biopsie scano-guidée d’un nodule pulmonaire
+T109	anatomie 2655 2672	nodule pulmonaire
+T110	examen 2695 2713	étude histologique
+T111	pathologie 2730 2773	carcinome neuroendocrine à petites cellules
+T112	sosy 2778 2941	tumeur était constituée de petites cellules polyédriques ou fusiformes, au cytoplasme peu abondant et au noyau oblong pourvu inconstamment d’un très petit nucléole
+T113	anatomie 2813 2821	cellules
+T114	sosy 2963 2990	différenciation glandulaire
+A5	assertion T114 absent
+T115	sosy 3005 3029	arrangements en rosettes
+T116	examen 3050 3076	étude immuno-histochimique
+T117	sosy 3090 3145	positivité modérée avec l’anticorps anti-synaptophysine
+T118	sosy 3153 3236	faible positivité avec l’anticorps anti-neuron specific enolase (N.S.E.) polyclonal
+T119	pathologie 3274 3314	carcinome prostatique à petites cellules
+T120	anatomie 3284 3295	prostatique
+T121	substance 3321 3335	chimiothérapie
+T122	substance 3346 3356	cisplatine
+T123	dose 3358 3367	125 mg/m2
+T124	moment 3368 3370	J1
+T125	moment 3372 3374	J2
+T126	moment 3378 3380	J3
+T127	substance 3385 3394	étoposide
+T128	dose 3396 3404	50 mg/m2
+T129	moment 3405 3407	J2
+T130	moment 3411 3413	J3
+T131	moment 3456 3487	20 jours après la première cure
+T24	anatomie 2765 2773	cellules
+T81	anatomie 3306 3314	cellules
+T9	anatomie 487 495	urinaire
+T53	anatomie 2290 2297	pleural
+T72	anatomie 294 300	rectal
+T132	valeur 496 503	stérile
+T133	anatomie 1365 1385	anatomo-pathologique
+T134	anatomie 1927 1935	prostate
+T135	substance 3483 3487	cure
+T136	etatsosy 186 193	dysurie
+T137	homme 195 206	pollakiurie
+T138	etatsosy 195 206	pollakiurie
+T139	etatsosy 267 273	fièvre
+T140	nerveux 235 263	altération de l’état général
+T141	etatsosy 235 263	altération de l’état général
+T142	hemopathies 397 413	hyperleucocytose
+T143	etatsosy 397 413	hyperleucocytose
+T144	homme 632 667	urétérohydronéphrose majeure droite
+T145	homme 790 805	rein droit muet
+T146	respiratoire 1592 1624	hémoptysies de moyenne abondance
+T147	etatsosy 1592 1624	hémoptysies de moyenne abondance
+T148	hemopathies 2231 2297	adénopathies hilaires et médiastinales avec un épanchement pleural
+T149	tumeur 2426 2457	tumeur qui est d’allure maligne
+T150	tumeur 2532 2538	tumeur
+T151	tumeur 2730 2773	carcinome neuroendocrine à petites cellules
+T152	tumeur 3274 3314	carcinome prostatique à petites cellules
+T153	homme 3274 3314	carcinome prostatique à petites cellules
+T16	examen 397 413	hyperleucocytose
+T154	genre 0 8	Monsieur
+A6	genre T154 masculin
+T155	age 31 37	30 ans
+T156	issue 3449 3455	décédé
+A7	issue T156 décès
+T157	origine 138 281	une pesanteur pelvienne avec des épreintes, une dysurie, pollakiurie évoluant dans un contexte d’altération de l’état général et fièvre à 39,5°

@@ -1,0 +1,180 @@
+T1001	anatomie 618 628	pulmonaire
+T1002	anatomie 677 704	trochantéro-fessière gauche
+T1003	anatomie 866 876	vasculaire
+T1004	anatomie 925 932	vésical
+T1005	anatomie 2008 2014	rénale
+T1006	anatomie 2262 2272	vasculaire
+T10051	duree 2546 2561	pendant 4 jours
+T10061	examen 464 487	tension artérielle (TA)
+T10062	examen 513 537	fréquence cardiaque (FC)
+T10063	examen 647 653	examen
+T10065	examen 1070 1086	bilan biologique
+T10066	examen 1918 1928	biologique
+T10067	examen 1942 1962	créatine kinase (CK)
+T10068	examen 1978 1982	ASAT
+T10069	examen 2038 2051	créatininémie
+T10070	examen 2190 2215	électrocardiogramme (ECG)
+T100111	moment 323 336	À l’admission
+T100112	moment 343 375	deux heures après le traumatisme
+T100113	moment 1040 1062	12 h après l’admission
+T100114	moment 1104 1121	En per-opératoire
+T100115	moment 1734 1755	à J2 de son admission
+T100116	moment 2594 2616	à J3 du postopératoire
+T100117	moment 2687 2709	à J4 d’hospitalisation
+T100121	substance 967 994	culots érythrocytaires (CE)
+T100122	substance 2479 2494	antibiothérapie
+T100123	substance 2514 2526	amoxicilline
+T100124	substance 2527 2545	acide clavulanique
+T100143	traitement 2250 2272	remplissage vasculaire
+T100162	valeur 547 568	160 battements/minute
+T100163	valeur 635 642	normale
+T100164	valeur 708 719	40cm x 30cm
+T100165	valeur 1965 1976	10.900 UI/l
+T100166	valeur 1985 1994	1165 UI/l
+T100167	valeur 2054 2063	29,7 mg/l
+T100168	valeur 2077 2085	40 ml/mn
+T100169	valeur 2151 2161	6,3 mmol/l
+T100194	sosy 784 808	déficit sensitivo-moteur
+T100195	sosy 1137 1162	instabilité hémodynamique
+T100196	sosy 1298 1359	transfusion massive de 04 CE et 04 plasma frais congélé (PFC)
+T100197	sosy 1485 1511	nécrose musculaire étendue
+T100198	sosy 1790 1830	troubles de la conscience (Glasgow à 10)
+T100199	sosy 1834 1882	extension de la nécrose musculaire en profondeur
+T100200	sosy 1890 1904	urines foncées
+T1008	sosy 115 172	délabrement cutanéo-musculaire trochantéro-féssier gauche
+T10012	anatomie 472 482	artérielle
+T10013	anatomie 523 532	cardiaque
+T10014	examen 574 582	polypnée
+T10015	valeur 585 601	24 cycles/minute
+T10016	examen 605 628	auscultation pulmonaire
+T10019	substance 880 896	sérum isotonique
+T10020	substance 903 912	gélatines
+T10021	dose 964 966	02
+T10022	traitement 999 1027	prise en charge chirurgicale
+T10023	examen 1165 1167	TA
+T10024	valeur 1168 1184	80-70/50-40 mmHg
+T10025	examen 1186 1219	pression artérielle moyenne (PAM)
+T10026	valeur 1220 1230	60-50 mmHg
+T10027	examen 1232 1234	FC
+T10028	valeur 1235 1246	150-170 bpm
+T10029	examen 1256 1263	diurèse
+T10030	valeur 1264 1275	1,5 ml/kg/h
+T10031	dose 1321 1323	04
+T10032	substance 1324 1326	CE
+T10033	dose 1330 1332	04
+T10034	substance 1333 1359	plasma frais congélé (PFC)
+T10035	substance 1426 1445	drogues vasoactives
+T10036	anatomie 1493 1503	musculaire
+T10037	sosy 1363 1399	état hémodynamique s’était stabilisé
+T10038	anatomie 1544 1564	muscle grand fessier
+T10039	moment 1597 1615	en post-opératoire
+T10040	traitement 1585 1596	réanimation
+T10042	examen 1700 1707	diurèse
+T10043	valeur 1710 1719	1 ml/kg/h
+T10044	examen 1817 1824	Glasgow
+T10045	valeur 1827 1829	10
+T10046	anatomie 1858 1868	musculaire
+T10047	examen 1999 2014	fonction rénale
+T10048	examen 2065 2074	clearance
+T10049	sosy 1999 2028	fonction rénale était altérée
+T10050	examen 2091 2098	diurèse
+T10052	valeur 2105 2117	<0,5 ml/kg/h
+T10053	examen 2135 2148	hyperkaliémie
+T10054	sosy 2167 2215	signes électriques à l’électrocardiogramme (ECG)
+T10055	substance 2281 2294	cristalloïdes
+T10057	substance 2321 2342	diurétiques de l’anse
+T10058	sosy 2348 2361	hyperkaliémie
+T10059	substance 2393 2401	insuline
+T10060	substance 2402 2409	glucose
+T10071	substance 2411 2424	sérum glucosé
+T10072	substance 2444 2452	insuline
+T10073	frequence 2453 2472	toutes les 8 heures
+T10074	dose 2431 2436	500ml
+T10075	dose 2438 2443	10 UI
+T10076	sosy 2647 2653	anurie
+T20064	substance 952 960	sanguine
+T200141	traitement 854 912	remplissage vasculaire de sérum isotonique et de gélatines
+T200142	examen 917 932	sondage vésical
+T200192	sosy 413 433	pâleur conjonctivale
+T200202	sosy 2135 2161	hyperkaliémie à 6,3 mmol/l
+T2007	valeur 497 508	100/50 mmHg
+T2009	anatomie 127 172	cutanéo-musculaire trochantéro-féssier gauche
+T20010	sosy 364 375	traumatisme
+T20011	sosy 394 403	conscient
+T20012	anatomie 420 433	conjonctivale
+T20013	sosy 464 508	tension artérielle (TA) était de 100/50 mmHg
+T20014	sosy 513 568	fréquence cardiaque (FC) était de 160 battements/minute
+T20015	sosy 574 601	polypnée à 24 cycles/minute
+T20018	sosy 605 642	auscultation pulmonaire était normale
+T20019	sosy 665 719	large plaie trochantéro-fessière gauche de 40cm x 30cm
+T20020	sosy 725 762	perte de substance cutanéo-musculaire
+T20021	anatomie 734 762	substance cutanéo-musculaire
+T20024	mode 940 951	transfusion
+T20030	sosy 1165 1184	TA 80-70/50-40 mmHg
+T20032	sosy 1186 1230	pression artérielle moyenne (PAM) 60-50 mmHg
+T20035	sosy 1232 1246	FC 150-170 bpm
+T20038	sosy 1256 1275	diurèse 1,5 ml/kg/h
+T20039	mode 1298 1309	transfusion
+T20047	traitement 1524 1564	parage emportant le muscle grand fessier
+T20052	sosy 1634 1643	conscient
+T20053	sosy 1645 1656	bien coloré
+T20054	sosy 1658 1690	stable sur le plan hémodynamique
+T20057	sosy 1700 1719	diurèse à 1 ml/kg/h
+T20071	sosy 1942 1976	créatine kinase (CK) à 10.900 UI/l
+T20072	sosy 1978 1994	ASAT à 1165 UI/l
+T20077	sosy 2038 2063	créatininémie à 29,7 mg/l
+T20078	sosy 2065 2085	clearance à 40 ml/mn
+T20079	sosy 2091 2117	diurèse était <0,5 ml/kg/h
+T20081	traitement 2221 2232	réanimation
+T20083	substance 2302 2316	alcalinisation
+T20093	anatomie 1195 1205	artérielle
+T20094	anatomie 1890 1896	urines
+A1	assertion T10065 absent
+A2	norme T100163 normal
+A3	norme T100162 haut
+A4	norme T10045 bas
+A5	norme T2007 normal
+#1	AnnotatorNotes T2007	Normal si inférieur à 140/90
+A6	norme T10015 haut
+#2	AnnotatorNotes T10015	Trop rapide si > 20 cy/min
+A7	norme T10024 normal
+A8	norme T10028 haut
+A9	norme T10026 bas
+A10	norme T10030 normal
+#3	AnnotatorNotes T10030	Normal si > 0,5 ml/kg/h
+A11	norme T100167 haut
+#4	AnnotatorNotes T100167	Normal entre 7 et 13 mg/L pour un homme
+A12	norme T10043 normal
+A13	norme T10052 bas
+A14	norme T100168 bas
+#5	AnnotatorNotes T100168	Normal entre 90 et 140 mL/min
+A15	norme T100166 haut
+#6	AnnotatorNotes T100166	Normal si <35 UI/L pour un homme
+A16	norme T100165 haut
+#7	AnnotatorNotes T100165	Normal si <171 UI/L pour un homme
+A17	norme T100169 haut
+A18	assertion T10054 absent
+T1	etatsosy 413 433	pâleur conjonctivale
+T2	osteomusculaires 115 172	délabrement cutanéo-musculaire trochantéro-féssier gauche
+T3	peau 115 172	délabrement cutanéo-musculaire trochantéro-féssier gauche
+T5	blessures 665 704	large plaie trochantéro-fessière gauche
+T4	osteomusculaires 725 762	perte de substance cutanéo-musculaire
+T6	peau 725 762	perte de substance cutanéo-musculaire
+T7	etatsosy 784 808	déficit sensitivo-moteur
+T8	nerveux 784 808	déficit sensitivo-moteur
+T9	nerveux 1790 1815	troubles de la conscience
+T10	etatsosy 1790 1815	troubles de la conscience
+T11	etatsosy 1834 1882	extension de la nécrose musculaire en profondeur
+T12	osteomusculaires 1834 1882	extension de la nécrose musculaire en profondeur
+T13	nutritionnelles 1890 1904	urines foncées
+T14	genetique 1890 1904	urines foncées
+T15	nutritionnelles 2135 2148	hyperkaliémie
+T16	nutritionnelles 2348 2361	hyperkaliémie
+T17	homme 2647 2653	anurie
+T18	cardiovasculaires 513 568	fréquence cardiaque (FC) était de 160 battements/minute
+T19	genre 0 7	Patient
+T20	age 11 17	19 ans
+A19	genre T19 masculin
+T21	issue 2658 2663	décès
+A20	issue T21 décès
+T22	origine 112 267	un délabrement cutanéo-musculaire trochantéro-féssier gauche suite à une explosion d’une grenade lacrymogène au cours de représailles des forces de l’ordre

@@ -1,0 +1,6 @@
+T1	genre 20 25	femme
+T2	age 29 35	25 ans
+A1	genre T1 féminin
+T3	origine 215 269	l’intention de se suicider via un message téléphonique
+T4	issue 4408 4608	La patiente a été transféré au centre d’éveil à J34 en ventilation spontanée sur trachéotomie en air ambiant, alimentée par sonde de gastrostomie et avec un tableau neurologique d’éveil sous cortical.
+A2	issue T4 amélioration

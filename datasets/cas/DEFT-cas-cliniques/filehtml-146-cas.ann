@@ -1,0 +1,33 @@
+T1001	traitement 36 51	rachianesthésie
+T1003	traitement 82 93	myomectomie
+T1004	pathologie 122 133	épileptique
+T20041	dose 655 659	1 mg
+T200192	sosy 1174 1191	légère somnolence
+T2002	examen 61 74	hystéroscopie
+T2006	traitement 287 313	introduction de l'aiguille
+T2007	substance 368 376	morphine
+T2008	dose 329 364	un dixième du contenu d'une ampoule
+T2009	dose 389 394	0.1mg
+T20010	substance 446 454	morphine
+T20011	mode 317 326	injection
+T20012	mode 490 497	injecte
+T20013	traitement 541 551	anesthésie
+T20014	substance 627 635	morphine
+T20015	dose 612 623	une ampoule
+T20017	sosy 686 701	10 fois la dose
+T20018	dose 714 717	1mg
+T20019	dose 729 734	0.1mg
+T20021	examen 850 862	surveillance
+T20022	moment 1031 1038	la nuit
+T20023	substance 1099 1107	NALOXONE
+T20024	sosy 1129 1140	conséquence
+A1	assertion T20024 absent
+T1	nerveux 122 133	épileptique
+T3	etatsosy 1174 1191	légère somnolence
+T4	chimiques 686 701	10 fois la dose
+T2	genre 103 111	patiente
+A2	genre T2 féminin
+T5	age 115 121	40 ans
+T6	origine 32 93	une rachianesthésie pour une hystéroscopie et une myomectomie
+T7	issue 1110 1191	Il n'y a eu aucune conséquence pour la patiente en dehors d'une légère somnolence
+A3	issue T7 amélioration

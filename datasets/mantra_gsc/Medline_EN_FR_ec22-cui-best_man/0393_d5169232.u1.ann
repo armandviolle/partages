@@ -1,0 +1,6 @@
+T1	C0008354 14 21	choléra
+#1	AnnotatorNotes T1	"C0008354", "Cholera", "Disease or Syndrome" ,"DISO"
+T2	C0006802 52 60	Cameroun
+#2	AnnotatorNotes T2	"C0006802", "Cameroon", "Geographic Area" ,"GEOG"
+T3	C0014499 2 10	épidémie
+#3	AnnotatorNotes T3	"C0014499", "Epidemic", "Phenomenon or Process" ,"PHEN"

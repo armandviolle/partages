@@ -1,0 +1,6 @@
+T1	issue 1041 1063	prolifération tumorale
+T2	age 17 24	18 mois
+T3	genre 34 42	masculin
+A1	genre T3 masculin
+A2	issue T1 détérioration
+T4	origine 73 266	une masse axillaire gauche augmentant progressivement de volume, cette masse est mobile par rapport aux plan superficiel, fixée par rapport au plan profond sans signes inflammatoires ni fistule

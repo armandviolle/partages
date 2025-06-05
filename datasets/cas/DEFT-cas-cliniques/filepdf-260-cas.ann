@@ -1,0 +1,299 @@
+T110	anatomie 1031 1050	graisse péri-rénale
+T118	anatomie 1064 1086	pôle supérieur du rein
+T46	traitement 1098 1126	curage ganglionnaire hilaire
+T62	anatomie 1105 1126	ganglionnaire hilaire
+T16	valeur 1238 1244	150 ml
+T38	examen 137 142	bilan
+T1	tumeur 1506 1532	adénocarcinome médio-rénal
+T124	anatomie 1521 1532	médio-rénal
+T287	valeur 1572 1587	80 x 70 x 40 mm
+T111	anatomie 1649 1668	graisse péri-rénale
+T113	anatomie 1697 1706	péritoine
+T104	moment 1957 1982	2ème mois post-opératoire
+T154	moment 2061 2069	à 3 mois
+T182	moment 2073 2099	à 12 mois post-opératoires
+T22	examen 2109 2131	TDM thoraco-abdominale
+T37	pathologie 211 222	antécédents
+T281	anatomie 2113 2131	thoraco-abdominale
+T122	sosy 2164 2187	récidive loco-régionale
+T81	anatomie 2173 2187	loco-régionale
+T6	tumeur 2240 2254	kyste biliaire
+T117	sosy 2343 2363	rectorragies isolées
+T149	sosy 2370 2389	troubles du transit
+T3	sosy 2393 2411	douleur abdominale
+T27	anatomie 2401 2411	abdominale
+T34	sosy 2415 2443	altération de l'état général
+T85	sosy 2549 2618	lésion bourgeonnante non sténosante sigmoidienne de 30 mm de diamètre
+T13	infections 258 280	tuberculose pulmonaire
+T247	valeur 2601 2618	30 mm de diamètre
+T45	examen 2647 2657	coloscopie
+T42	examen 2663 2671	biopsies
+T105	anatomie 270 280	pulmonaire
+T125	anatomie 2724 2729	rénal
+T87	sosy 2778 2819	masse individualisable abdomino-pelvienne
+T32	anatomie 2801 2819	abdomino-pelvienne
+T71	anatomie 2830 2839	hépatique
+T156	examen 2856 2878	échographie abdominale
+T28	anatomie 2868 2878	abdominale
+T193	age 292 298	20 ans
+T44	traitement 3006 3025	chirurgie d'exérèse
+T80	traitement 3064 3075	laparotomie
+T29	anatomie 3126 3143	cavité abdominale
+T86	sosy 3158 3200	lésion du sommet de la boucle sigmoidienne
+T41	examen 322 339	bilan d'extension
+T67	anatomie 3238 3252	intestin grêle
+T100	examen 3308 3327	palpation hépatique
+T72	anatomie 3318 3327	hépatique
+T7	tumeur 3342 3369	kyste biliaire du segment V
+T11	tumeur 3376 3411	nodule très suspect du segment VIII
+T136	examen 341 362	scintigraphie osseuse
+T114	anatomie 3463 3474	péritonéale
+T131	traitement 3487 3496	résection
+T35	traitement 3497 3507	anastomose
+T68	anatomie 3511 3516	grêle
+T97	anatomie 355 362	osseuse
+T144	examen 366 416	tomodensitométrie (TDM) thoraco-abdomino-pelvienne
+T70	examen 3666 3708	'analyse histologique des pièces prélevées
+T90	sosy 3724 3760	métastases de l'adénocarcinome rénal
+T126	anatomie 3755 3760	rénal
+T69	anatomie 3815 3820	grêle
+T73	anatomie 3841 3850	hépatique
+T25	examen 3856 3911	TDM cérébrale et thoraco-abdomino-pelvienne d'extension
+T48	anatomie 3860 3869	cérébrale
+T141	anatomie 3873 3899	thoraco-abdomino-pelvienne
+T140	anatomie 390 416	thoraco-abdomino-pelvienne
+T12	tumeur 3979 4018	nodule hépatique unique du segment VIII
+T74	anatomie 3986 3995	hépatique
+T224	sosy 4025 4040	récidive locale
+T49	anatomie 4054 4063	cérébrale
+T106	anatomie 4067 4077	pulmonaire
+T89	tumeur 4132 4158	métastase hépatique unique
+T75	anatomie 4142 4151	hépatique
+T137	examen 4359 4380	scintigraphie osseuse
+T98	anatomie 4373 4380	osseuse
+T237	sosy 438 455	lésion secondaire
+T185	etatsosy 4402 4425	douleurs du pied gauche
+T63	anatomie 4414 4425	pied gauche
+T64	anatomie 4482 4494	tarse gauche
+T55	anatomie 4496 4510	omoplate droit
+T56	anatomie 4512 4523	fémur droit
+T54	anatomie 4527 4556	partie basse du rachis dorsal
+T178	tumeur 4661 4679	nodules hépatiques
+T76	anatomie 4669 4679	hépatiques
+T30	anatomie 4698 4708	abdominale
+T9	tumeur 478 524	nodule hypodense de 10 mm du segment V du foie
+T78	traitement 4787 4817	irradiation à visée antalgique
+T99	anatomie 4834 4841	osseuse
+T65	anatomie 4845 4856	pied gauche
+T96	date 4893 4905	octobre 2000
+T246	anatomie 4933 4940	cutanée
+T94	anatomie 4956 4969	racine du nez
+T79	traitement 4992 5003	irradiation
+T59	sosy 5044 5112	déficit neurologique des membres supérieur droit et inférieur gauche
+T92	anatomie 5052 5064	neurologique
+T88	anatomie 5069 5092	membres supérieur droit
+T77	anatomie 5096 5112	inférieur gauche
+T261	nerveux 5137 5158	métastases cérébrales
+T51	anatomie 5148 5158	cérébrales
+T225	sosy 5189 5204	récidive locale
+T61	anatomie 507 524	segment V du foie
+T107	anatomie 5221 5231	pulmonaire
+T24	examen 5239 5248	bilan TDM
+T82	anatomie 5357 5365	lombaire
+T116	traitement 5371 5394	radiothérapie cérébrale
+T50	anatomie 5385 5394	cérébrale
+T93	anatomie 5433 5445	neurologique
+T5	tumeur 545 559	kyste biliaire
+T238	age 59 65	67 ans
+T132	anatomie 612 628	rétropéritonéale
+T109	anatomie 651 665	pédicule rénal
+T138	traitement 695 705	sectionnée
+T17	date 3 11	mai 1999
+T83	traitement 747 783	lombotomie centrée sur la 11ème côte
+T286	tumeur 76 96	tumeur rénale droite
+T152	anatomie 822 843	veine cave inférieure
+T208	anatomie 83 96	rénale droite
+T53	traitement 855 884	dissection de la veine rénale
+T153	anatomie 872 884	veine rénale
+T60	traitement 976 1002	exérèse large du péritoine
+T112	anatomie 993 1002	péritoine
+T2	genre 44 51	patient
+A1	genre T2 masculin
+T4	valeur 174 183	21,8 g/dl
+T8	valeur 199 204	61,7%
+T14	examen 160 171	Hémoglobine
+T15	examen 185 196	Hématocrite
+A2	assertion T237 absent
+T19	traitement 17 20	NTE
+#1	AnnotatorNotes T19	néphrectomie totale élargie
+T21	cardiovasculaires 306 309	HTA
+#2	AnnotatorNotes T21	hypertension artérielle
+T23	traitement 576 579	NTE
+T31	traitement 599 665	laparoscopie rétropéritonéale avec abord premier du pédicule rénal
+T39	anatomie 669 675	artère
+T47	traitement 669 689	artère a été clippée
+T58	anatomie 773 783	11ème côte
+T84	blessures 810 843	plaie de la veine cave inférieure
+T91	traitement 918 930	laparoscopie
+T95	moment 1343 1347	à J7
+T101	examen 1389 1400	Hémoglobine
+T20	valeur 1403 1412	16,8 g/dl
+T108	valeur 1428 1433	52,2%
+T119	examen 1414 1425	Hématocrite
+T18	valeur 1485 1490	650 g
+T43	valeur 1998 2007	13,5 g/dl
+T120	valeur 2023 2028	40,5%
+T121	examen 2009 2020	Hématocrite
+T123	examen 1984 1995	Hémoglobine
+A3	assertion T122 absent
+T26	sosy 2191 2203	métastatique
+A4	assertion T26 absent
+T127	anatomie 2246 2254	biliaire
+T128	date 2271 2280	juin 2000
+T129	moment 2287 2300	13 mois après
+T130	traitement 2304 2307	NTE
+A5	assertion T149 absent
+A6	assertion T3 absent
+A7	assertion T34 absent
+T133	valeur 2512 2521	18,5 g/dl
+T134	valeur 2537 2542	54,5%
+T135	examen 2523 2534	Hématocrite
+T139	examen 2498 2509	Hémoglobine
+T142	tumeur 2709 2729	adénocarcinome rénal
+T10	sosy 2823 2847	nodule hépatique suspect
+A8	assertion T10 absent
+A9	assertion T87 absent
+T102	tumeur 2694 2703	métastase
+T143	tumeur 2962 2984	métastase sigmoidienne
+T150	etatsosy 2694 2703	métastase
+T151	sosy 2962 2984	métastase sigmoidienne
+T155	sosy 2694 2729	métastase de l'adénocarcinome rénal
+T157	homme 1506 1532	adénocarcinome médio-rénal
+T158	homme 2709 2729	adénocarcinome rénal
+T159	homme 76 96	tumeur rénale droite
+T160	moment 2888 2913	lors de l'hospitalisation
+T162	date 3091 3104	fin juin 2000
+T52	sosy 3204 3252	deux lésions intra-luminales de l'intestin grêle
+T163	anatomie 3181 3200	boucle sigmoidienne
+T164	anatomie 3286 3303	valvule de Bauhin
+T166	anatomie 3360 3369	segment V
+T169	sosy 3453 3474	carcinose péritonéale
+A10	assertion T169 absent
+T165	traitement 3524 3559	colectomie segmentaire sigmoidienne
+T167	tumeur 3740 3760	adénocarcinome rénal
+T172	tumeur 3724 3734	métastases
+T173	etatsosy 3724 3734	métastases
+T174	homme 3740 3760	adénocarcinome rénal
+T176	anatomie 3800 3808	sigmoide
+A11	assertion T224 absent
+T33	sosy 4044 4077	métastase cérébrale ou pulmonaire
+A12	assertion T33 absent
+T103	traitement 4166 4180	immunothérapie
+T168	substance 4185 4195	Interféron
+T177	date 4239 4253	septembre 2000
+T179	moment 4260 4273	16 mois après
+T180	traitement 4277 4289	NTE initiale
+T115	traitement 4108 4122	radiofréquence
+T146	traitement 4591 4605	radiofréquence
+T161	traitement 4722 4736	radiofréquence
+T175	examen 4686 4708	échographie abdominale
+T181	tumeur 4824 4856	métastase osseuse du pied gauche
+T184	etatsosy 4824 4856	métastase osseuse du pied gauche
+T186	sosy 4824 4856	métastase osseuse du pied gauche
+T36	traitement 4339 4353	radiofréquence
+T187	sosy 4448 4480	multiples foyers d'hyperfixation
+T188	traitement 4873 4887	immunothérapie
+T189	tumeur 4923 4940	métastase cutanée
+T190	digestif 4132 4158	métastase hépatique unique
+T191	digestif 3979 4018	nodule hépatique unique du segment VIII
+T192	digestif 4661 4679	nodules hépatiques
+T194	peau 4923 4940	métastase cutanée
+T195	date 5008 5021	novembre 2000
+T196	sosy 5027 5037	somnolence
+T197	etatsosy 5027 5037	somnolence
+T198	nerveux 5027 5037	somnolence
+T57	tumeur 5137 5158	métastases cérébrales
+A13	assertion T225 absent
+T66	nerveux 5044 5064	déficit neurologique
+T171	etatsosy 5044 5064	déficit neurologique
+T183	sosy 5211 5231	métastase pulmonaire
+A14	assertion T183 absent
+T40	issue 5458 5466	décédant
+A15	issue T40 décès
+T170	sosy 5420 5445	amélioration neurologique
+A16	assertion T170 absent
+T147	moment 5490 5505	18,5 mois après
+T199	traitement 5509 5512	NTE
+A17	norme T4 haut
+A18	norme T20 normal
+A19	norme T43 normal
+A20	norme T133 haut
+A21	norme T8 haut
+#3	AnnotatorNotes T8	Normal entre 40 et 52% chez l'homme
+#4	AnnotatorNotes T4	Normal entre 13 et 18g chez l'homme
+A22	norme T108 normal
+A23	norme T120 normal
+A24	norme T134 haut
+T200	hemopathies 146 158	polyglobulie
+T201	digestif 478 524	nodule hypodense de 10 mm du segment V du foie
+T202	anatomie 551 559	biliaire
+T203	hemopathies 1375 1387	polyglobulie
+T204	hemopathies 2468 2480	polyglobulie
+T205	traitement 3423 3430	biopsié
+T206	digestif 3342 3369	kyste biliaire du segment V
+T207	digestif 3376 3411	nodule très suspect du segment VIII
+T209	sosy 4402 4425	douleurs du pied gauche
+T210	examen 1202 1218	pertes sanguines
+T211	duree 1185 1196	145 minutes
+T212	valeur 1752 1765	pT3a N0 M0 R0
+T213	sosy 1922 1934	polyglobulie
+A25	assertion T213 absent
+T214	pathologie 258 280	tuberculose pulmonaire
+T215	pathologie 306 317	HTA traitée
+T216	respiratoire 258 280	tuberculose pulmonaire
+T217	digestif 545 559	kyste biliaire
+T218	digestif 2240 2254	kyste biliaire
+T219	digestif 2962 2984	métastase sigmoidienne
+T148	sosy 4132 4158	métastase hépatique unique
+T220	sosy 160 183	Hémoglobine : 21,8 g/dl
+T221	sosy 185 204	Hématocrite : 61,7%
+T222	substance 310 317	traitée
+T223	sosy 886 891	plaie
+T226	anatomie 1209 1218	sanguines
+T227	sosy 1202 1244	pertes sanguines ont été évaluées à 150 ml
+T228	sosy 1389 1412	Hémoglobine : 16,8 g/dl
+T229	sosy 1414 1433	Hématocrite : 52,2%
+T230	examen 1439 1472	histologie de la pièce opératoire
+T231	anatomie 1456 1472	pièce opératoire
+T232	sosy 1506 1765	adénocarcinome médio-rénal à cellules claires Fuhrman 3, mesurant 80 x 70 x 40 mm, avec un dépassement capsulaire focal et envahissement de la graisse péri-rénale, mais sans envahissement du péritoine et des limites d'exérèse saines, classé donc pT3a N0 M0 R0
+T233	anatomie 1535 1543	cellules
+T234	examen 1871 1883	surveillance
+T235	sosy 1984 2007	Hémoglobine : 13,5 g/dl
+T236	sosy 2009 2028	Hématocrite : 40,5%
+T239	sosy 2498 2521	Hémoglobine : 18,5 g/dl
+T240	sosy 2523 2542	Hématocrite : 54,5%
+T241	examen 3108 3143	exploration de la cavité abdominale
+T242	anatomie 3348 3356	biliaire
+T243	anatomie 3399 3411	segment VIII
+T244	anatomie 3547 3559	sigmoidienne
+T245	traitement 3565 3605	rétablissement immédiat de la continuité
+T248	anatomie 3692 3708	pièces prélevées
+T249	anatomie 4006 4018	segment VIII
+T145	valeur 4944 4949	10 mm
+T250	sosy 5296 5365	greffe tumorale sur les orifices de trocarts et la cicatrice lombaire
+A26	assertion T250 absent
+T251	traitement 5479 5489	traitement
+T252	sosy 76 96	tumeur rénale droite
+T253	sosy 146 158	polyglobulie
+T254	sosy 478 524	nodule hypodense de 10 mm du segment V du foie
+T255	sosy 545 559	kyste biliaire
+A27	assertion T255 hypothétique
+T256	sosy 810 843	plaie de la veine cave inférieure
+T257	sosy 2240 2254	kyste biliaire
+T258	sosy 2468 2480	polyglobulie
+T259	sosy 3342 3369	kyste biliaire du segment V
+T260	sosy 3376 3411	nodule très suspect du segment VIII
+T262	sosy 3979 4018	nodule hépatique unique du segment VIII
+T263	sosy 4661 4679	nodules hépatiques
+T264	pathologie 4923 4969	métastase cutanée de 10 mm de la racine du nez
+T265	pathologie 5137 5158	métastases cérébrales

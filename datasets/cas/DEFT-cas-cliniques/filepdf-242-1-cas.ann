@@ -1,0 +1,6 @@
+T1	genre 0 3	Mme
+T2	age 7 13	56 ans
+A1	genre T1 féminin
+T3	origine 34 86	une lombalgie gauche à type de coliques néphrétiques
+T4	issue 1253 1335	les suites de la néphrectomie élargie ont été simples avec un an de recul clinique
+A2	issue T4 guérison

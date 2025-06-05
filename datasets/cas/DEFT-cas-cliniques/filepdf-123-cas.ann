@@ -1,0 +1,6 @@
+T1	age 10 16	25 ans
+T2	genre 18 22	père
+T3	issue 1837 1843	décéda
+A1	issue T3 décès
+A2	genre T2 masculin
+T4	origine 88 169	une lésion nodulaire, indolore, non inflammatoire, localisée au niveau du périnée

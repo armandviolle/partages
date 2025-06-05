@@ -1,0 +1,38 @@
+T20	C0220806 35 47	chimiquement
+#20	AnnotatorNotes T20	"C0220806", "Chemicals", "Chemical" ,"CHEM"
+T21	C0220806 103 111	chimique
+#21	AnnotatorNotes T21	"C0220806", "Chemicals", "Chemical" ,"CHEM"
+T22	C0020275 1540 1549	hydrogène
+#22	AnnotatorNotes T22	"C0020275", "Hydrogen", "Element Ion or Isotope" ,"CHEM"
+T23	C1305923 15 26	polypeptide
+#23	AnnotatorNotes T23	"C1305923", "Polypeptides", "Amino Acid Peptide or Protein" ,"CHEM"
+T24	C0450442 84 89	agent
+#24	AnnotatorNotes T24	"C0450442", "Agent", "Chemical Viewed Functionally" ,"CHEM"
+T25	C0759863 546 560	simple liaison
+#25	AnnotatorNotes T25	"C0759863", "single bond", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T26	C0596383 1348 1358	copolymère
+#26	AnnotatorNotes T26	"C0596383", "Copolymer", "Chemical Viewed Structurally" ,"CHEM"
+T27	C0567415 1532 1537	atome
+#27	AnnotatorNotes T27	"C0567415", "Atom (substance)", "Element Ion or Isotope" ,"CHEM"
+T28	C0038515 1359 1366	styrène
+#28	AnnotatorNotes T28	"C0038515", "Styrene", "Organic Chemical|Hazardous or Poisonous Substance" ,"CHEM"
+T29	C0017951 157 163	glycol
+#29	AnnotatorNotes T29	"C0017951", "Glycols", "Organic Chemical" ,"CHEM"
+T30	C0220853 623 625	OH
+#30	AnnotatorNotes T30	"C0220853", "Hydroxide Ion", "Element Ion or Isotope" ,"CHEM"
+T31	C0018544 630 638	halogène
+#31	AnnotatorNotes T31	"C0018544", "Halogens", "Element Ion or Isotope" ,"CHEM"
+T32	C0018544 796 804	halogène
+#32	AnnotatorNotes T32	"C0018544", "Halogens", "Element Ion or Isotope" ,"CHEM"
+T33	C0018544 1014 1022	halogène
+#33	AnnotatorNotes T33	"C0018544", "Halogens", "Element Ion or Isotope" ,"CHEM"
+T34	C0065571 1367 1381	acide maléique
+#34	AnnotatorNotes T34	"C0065571", "maleic acid", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T35	C0030054 562 563	O
+#35	AnnotatorNotes T35	"C0030054", "Oxygen", "Pharmacologic Substance|Element Ion or Isotope" ,"CHEM"
+T36	C0038774 571 572	S
+#36	AnnotatorNotes T36	"C0038774", "Sulfur", "Pharmacologic Substance|Element Ion or Isotope" ,"CHEM"
+T37	C0030054 864 865	O
+#37	AnnotatorNotes T37	"C0030054", "Oxygen", "Pharmacologic Substance|Element Ion or Isotope" ,"CHEM"
+T38	C0038774 867 868	S
+#38	AnnotatorNotes T38	"C0038774", "Sulfur", "Pharmacologic Substance|Element Ion or Isotope" ,"CHEM"

@@ -1,0 +1,6 @@
+T2	C0042974 40 61	maladie de Willebrand
+#2	AnnotatorNotes T2	"C0042974", "von Willebrand Disease", "Disease or Syndrome" ,"DISO"
+T3	C0033011 19 33	femme atteinte
+#3	AnnotatorNotes T3	"C0033011", "Pregnant Women", "Population Group" ,"LIVB"
+T7	C0559563 0 12	Accouchement
+#7	AnnotatorNotes T7	"C0559563", "Delivery finding", "Finding" ,"DISO"

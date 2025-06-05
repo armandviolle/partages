@@ -1,0 +1,8 @@
+T5	C0018544 232 240	halogène
+#5	AnnotatorNotes T5	"C0018544", "Halogens", "Element Ion or Isotope" ,"CHEM"
+T6	C0038760 348 359	sulfonamide
+#6	AnnotatorNotes T6	"C0038760", "Sulfonamides", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T7	C1956166 140 146	alcoxy
+#7	AnnotatorNotes T7	"C1956166", "alkoxy", "Organic Chemical|Indicator Reagent or Diagnostic Aid" ,"CHEM"
+T8	C0063146 321 330	hydroxyle
+#8	AnnotatorNotes T8	"C0063146", "Hydroxyl Radical", "Inorganic Chemical" ,"CHEM"

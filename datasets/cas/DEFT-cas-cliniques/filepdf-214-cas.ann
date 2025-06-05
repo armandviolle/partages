@@ -1,0 +1,192 @@
+T62	traitement 1026 1038	intervention
+T1	sosy 1115 1130	arrêt cardiaque
+T29	anatomie 1121 1130	cardiaque
+T68	sosy 116 136	masse du flanc droit
+T117	examen 1171 1217	échographie trans-oesophagienne (ETO) continue
+T63	traitement 1243 1255	intervention
+T54	anatomie 125 136	flanc droit
+T53	traitement 1387 1394	exérèse
+T52	examen 142 161	examens biologiques
+T143	anatomie 1514 1528	veines rénales
+T67	examen 1623 1640	macroscopiquement
+T72	valeur 170 177	normaux
+T114	anatomie 1758 1777	veine rénale gauche
+T97	examen 1850 1892	angio-tomodensitométrie thoraco-abdominale
+T19	anatomie 1874 1892	thoraco-abdominale
+T81	moment 1893 1922	au 10ème jour post-opératoire
+T37	sosy 1974 2015	complication dans la loge de néphrectomie
+T75	traitement 2003 2015	néphrectomie
+T83	anatomie 2029 2039	pulmonaire
+T50	examen 2044 2080	examen macroscopique et histologique
+T30	substance 207 221	catécholamines
+T7	tumeur 2094 2150	tumeur multi-nodulaire infiltrant la graisse péri-rénale
+T85	anatomie 2131 2150	graisse péri-rénale
+T31	anatomie 2194 2202	cellules
+T104	anatomie 222 231	urinaires
+T125	anatomie 2281 2291	cytoplasme
+T73	anatomie 2321 2327	noyaux
+T27	examen 236 255	bilan morphologique
+T61	examen 2427 2442	index mitotique
+T145	etatsosy 2496 2503	nécrose
+T111	anatomie 2508 2530	paroi de la veine cave
+T5	tumeur 2557 2579	prolifération tumorale
+T99	examen 257 307	tomodensitométrie (TDM) thoraco-abdomino-pelvienne
+T107	anatomie 2592 2601	urétérale
+T82	examen 2623 2635	prélèvements
+T103	anatomie 2658 2665	uretère
+T8	tumeur 2703 2732	tumeur urothéliale papillaire
+T105	anatomie 2710 2732	urothéliale papillaire
+T12	valeur 2798 2802	1 cm
+T94	anatomie 281 307	thoraco-abdomino-pelvienne
+T108	anatomie 2817 2826	urétérale
+T21	examen 2831 2858	analyse immunohistochimique
+T2	tumeur 3036 3054	cellules tumorales
+T118	examen 311 333	échographie abdominale
+T24	examen 3205 3248	aspect histologique et immuno-histochimique
+T17	anatomie 323 333	abdominale
+T9	tumeur 3272 3321	tumeur neuro-ectodermique primitive du rein droit
+T22	sosy 33 43	antécédent
+T88	anatomie 3311 3321	rein droit
+T10	tumeur 3408 3437	tumeur urothéliale papillaire
+T106	anatomie 3415 3437	urothéliale papillaire
+T109	anatomie 3460 3469	urétérale
+T34	substance 3476 3490	chimiothérapie
+T11	femme 348 368	tumeur rénale droite
+T41	substance 3521 3533	doxorubicine
+T60	substance 3537 3547	ifosfamide
+T89	anatomie 355 368	rénale droite
+T115	moment 3616 3624	à 6 mois
+T70	pathologie 3682 3703	métastases cérébrales
+T39	anatomie 3693 3703	cérébrales
+T167	osteomusculaires 3716 3735	métastases osseuses
+T77	anatomie 3727 3735	osseuses
+T86	traitement 3741 3754	radiothérapie
+T35	substance 3821 3835	chimiothérapie
+T119	substance 3846 3855	étoposide
+T36	substance 3856 3866	cisplatine
+T112	anatomie 388 409	veine cave inférieure
+T23	moment 3984 4024	7 mois après l’intervention chirurgicale
+T25	examen 4030 4038	autopsie
+T43	anatomie 424 436	atrium droit
+T100	examen 441 469	tomodensitométrie abdominale
+T18	anatomie 459 469	abdominale
+T4	femme 60 83	hématurie macroscopique
+T55	anatomie 612 625	ganglionnaire
+T69	pathologie 697 731	métastases pulmonaires et osseuses
+T84	anatomie 708 719	pulmonaires
+T76	anatomie 723 731	osseuses
+T156	traitement 775 802	néphrectomie élargie droite
+T46	anatomie 796 802	droite
+T49	examen 87 102	examen clinique
+T66	traitement 957 995	laparotomie bi-sous-costale en chevron
+A1	assertion T22 absent
+T3	age 21 27	66 ans
+T6	genre 4 12	patiente
+A2	genre T6 féminin
+T16	anatomie 517 532	paroi de la VCI
+#1	AnnotatorNotes T16	veine cave inférieure
+T20	sosy 497 532	envahissement de la paroi de la VCI
+A3	assertion T20 possible
+T26	anatomie 565 583	contours de la VCI
+T28	anatomie 639 642	VCI
+T32	anatomie 1550 1581	ostia des veines sus-hépatiques
+T42	anatomie 1601 1616	paroi de la VCI
+T45	anatomie 1653 1656	VCI
+T47	anatomie 673 676	VCI
+T48	valeur 686 691	30 mm
+A4	assertion T37 absent
+T51	sosy 2021 2039	embolie pulmonaire
+A5	assertion T51 absent
+T56	sosy 2094 2150	tumeur multi-nodulaire infiltrant la graisse péri-rénale
+T13	anatomie 3383 3398	paroi de la VCI
+T15	tumeur 3682 3703	métastases cérébrales
+T38	tumeur 3716 3735	métastases osseuses
+A6	assertion T25 absent
+T14	tumeur 697 731	métastases pulmonaires et osseuses
+T33	respiratoire 697 731	métastases pulmonaires et osseuses
+T40	osteomusculaires 697 731	métastases pulmonaires et osseuses
+T44	nerveux 3682 3703	métastases cérébrales
+T59	tumeur 348 368	tumeur rénale droite
+T64	traitement 818 831	thrombectomie
+T65	traitement 839 860	cavectomie circulaire
+T71	anatomie 896 911	paroi de la VCI
+T74	mode 969 984	bi-sous-costale
+T78	traitement 1011 1022	sternotomie
+A7	assertion T1 absent
+T79	cardiovasculaires 1138 1146	thrombus
+T80	cardiovasculaires 1294 1302	thrombus
+T87	cardiovasculaires 1411 1419	thrombus
+T90	anatomie 1489 1492	VCI
+T91	cardiovasculaires 3352 3368	thrombus tumoral
+T92	tumeur 3352 3368	thrombus tumoral
+T93	dispositif 3637 3650	prothèse cave
+T95	dispositif 1681 1731	prothèse en polytétrafluoroéthylène (PTFE) annelée
+T96	dispositif 1786 1802	tube prothétique
+T98	dispositif 1936 1949	prothèse cave
+T101	mode 1183 1202	trans-oesophagienne
+T102	issue 3976 3983	décédée
+A8	issue T102 décès
+T110	valeur 2752 2772	grade cytologique G1
+T113	valeur 2779 2788	stade pTa
+T116	valeur 3454 3459	pTaG1
+T120	valeur 3325 3338	stade pT4N1M1
+T121	sosy 2871 2918	marquage membranaire pour l’anticorps anti-CD99
+T122	dose 3502 3510	5 cycles
+T123	cardiovasculaires 1398 1406	thrombus
+T124	cardiovasculaires 1330 1337	embolie
+T126	femme 2094 2150	tumeur multi-nodulaire infiltrant la graisse péri-rénale
+T127	femme 2703 2732	tumeur urothéliale papillaire
+T128	femme 3272 3321	tumeur neuro-ectodermique primitive du rein droit
+T129	femme 3408 3437	tumeur urothéliale papillaire
+T130	sosy 142 177	examens biologiques étaient normaux
+T131	examen 195 231	dosages des catécholamines urinaires
+T132	sosy 548 583	irrégularité des contours de la VCI
+T133	sosy 607 642	bloc ganglionnaire autour de la VCI
+T134	sosy 658 691	diamètre de la VCI était de 30 mm
+T135	sosy 876 911	envahissement de la paroi de la VCI
+T136	traitement 1059 1093	circulation extra-corporelle (CEC)
+T137	traitement 1097 1109	normothermie
+T138	anatomie 1153 1165	intra-atrial
+T139	sosy 1138 1165	thrombus était intra-atrial
+T140	traitement 1411 1445	thrombus était extrait en totalité
+T141	traitement 1454 1475	cavectomie circulaire
+T142	traitement 1476 1593	emportant la VCI de l’abouchement des veines rénales jusqu’au dessous des ostia des veines sus-hépatiques principales
+T144	sosy 1601 1648	paroi de la VCI était macroscopiquement envahie
+T146	traitement 1653 1731	VCI était remplacée par une prothèse en polytétrafluoroéthylène (PTFE) annelée
+T147	traitement 1737 1777	réimplantation de la veine rénale gauche
+T148	sosy 1936 1959	prothèse cave perméable
+T57	sosy 2177 2275	vastes nappes de cellules de petites tailles, rondes et peu différenciées se disposant en rosettes
+T149	sosy 2281 2313	cytoplasmes étaient peu visibles
+T150	sosy 2321 2423	noyaux étaient de taille variable, aux contours irréguliers avec un nucléole parfois nettement visible
+T151	anatomie 2389 2397	nucléole
+T152	sosy 2427 2459	index mitotique était très élevé
+T153	sosy 2479 2503	vastes plages de nécrose
+T154	sosy 2508 2579	paroi de la veine cave était infiltrée par cette prolifération tumorale
+T155	sosy 2584 2613	recoupe urétérale était saine
+T157	anatomie 2880 2891	membranaire
+T158	examen 2899 2918	anticorps anti-CD99
+T159	sosy 2937 3030	marquage cytoplasmique granulaire pour les anticorps anti-synaptophysine et antichromogranine
+T160	examen 2980 3030	anticorps anti-synaptophysine et antichromogranine
+T161	examen 3077 3115	marqueurs lymphocytaires (CD3 et CD20)
+T162	examen 3124 3200	anticorps anti-desmine, anti-PS100, anti-EMA, anti-cytokératine et anti-CD30
+T163	sosy 3036 3200	cellules tumorales n’exprimaient pas les marqueurs lymphocytaires (CD3 et CD20), ni les anticorps anti-desmine, anti-PS100, anti-EMA, anti-cytokératine et anti-CD30
+T58	traitement 3575 3597	traitement chirurgical
+T164	examen 3603 3615	réévaluation
+T165	sosy 3637 3660	prothèse cave perméable
+T166	anatomie 3782 3795	localisations
+T168	substance 3896 3907	traitements
+T169	sosy 3910 3963	état général de la patiente s’était rapidement altéré
+T170	traitement 3999 4024	intervention chirurgicale
+T171	examen 4157 4175	anticorps ant-CD99
+T172	anatomie 4105 4113	cellules
+T173	sosy 4071 4120	Prolifération monotone de petites cellules rondes
+T174	sosy 60 83	hématurie macroscopique
+T175	sosy 348 368	tumeur rénale droite
+T176	sosy 1398 1406	thrombus
+T177	sosy 1411 1419	thrombus
+T178	sosy 1294 1302	thrombus
+T179	pathologie 1330 1337	embolie
+T180	sosy 2703 2826	tumeur urothéliale papillaire non infiltrante de grade cytologique G1 et de stade pTa située à 1 cm de la recoupe urétérale
+T181	pathologie 3272 3338	tumeur neuro-ectodermique primitive du rein droit de stade pT4N1M1
+T182	sosy 3352 3368	thrombus tumoral
+T183	pathologie 3716 3735	métastases osseuses

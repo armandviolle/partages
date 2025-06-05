@@ -1,0 +1,6 @@
+T1	age 12 18	32 ans
+T2	genre 3 8	homme
+A1	genre T2 masculin
+T3	origine 61 164	sensation de palpitations et douleur thoracique oppressive après avoir inhalé 5 h auparavant de la MDPV
+T4	issue 570 639	L’évolution est rapidement favorable avec une sortie dès le lendemain
+A2	issue T4 amélioration

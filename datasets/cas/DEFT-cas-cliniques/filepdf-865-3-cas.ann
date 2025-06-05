@@ -1,0 +1,6 @@
+T1	genre 0 11	Parturiente
+T2	age 21 27	35 ans
+A1	genre T1 féminin
+T3	origine 107 163	à 11 SA, dans un tableau de coliques hépatiques fébriles
+T4	issue 964 1155	Devant l’amélioration clinique et biologique, la patiente avait quitté le service en bon état général sous nicardipine LP 50 (1cp x2/j pendant 10j). La grossesse s’était déroulée normalement.
+A2	issue T4 guérison

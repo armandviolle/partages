@@ -1,0 +1,6 @@
+T1	age 14 20	28 ans
+T2	genre 3280 3290	Le patient
+A1	genre T2 masculin
+T3	origine 60 171	douleurs de l’hypochondre droit irradiant en hémi ceinture, sans facteur déclenchant, évoluant depuis 24 heures
+T4	issue 3342 3528	Sa tension artérielle demeure normale sous couvert du même traitement antihypertenseur, sa fonction rénale est normale. Le traitement par anti vitamine K a été stoppé au bout de six mois
+A2	issue T4 amélioration

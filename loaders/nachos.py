@@ -1,5 +1,4 @@
 import os
-from typing import override
 from .base_loader import BaseLoader
 from datasets import Dataset
 from pathlib import Path
@@ -7,7 +6,6 @@ from pathlib import Path
 
 class NACHOS(BaseLoader):
 
-    @override
     def load(self):
         subsets = self.subset if isinstance(self.subset, list) else [self.subset]
         for subset in subsets:

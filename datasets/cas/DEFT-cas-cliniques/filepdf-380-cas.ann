@@ -1,0 +1,6 @@
+T1	genre 32 37	homme
+T2	age 41 47	53 ans
+A1	genre T1 masculin
+T3	origine 61 237	ayant ingéré volontairement, lors d’un épisode dépressif, 3 comprimés d’une préparation magistrale à base d’oxycyanure de mercure mais dont la composition exacte reste inconnue
+T4	issue 1592 1660	jusqu’à la sortie du patient, 52 jours après sa tentative d’autolyse
+A2	issue T4 guérison

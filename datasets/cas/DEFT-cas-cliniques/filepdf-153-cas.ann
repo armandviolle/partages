@@ -1,0 +1,6 @@
+T1	genre 1339 1349	Le patient
+T2	age 21 27	36 ans
+T3	origine 211 262	suspicion de pyélonéphrite aiguë droite obstructive
+A1	genre T1 masculin
+T4	issue 2218 2321	Le patient a quitté le service au cinquième jour postopératoire totalement asymptomatique et apyrétique
+A2	issue T4 guérison

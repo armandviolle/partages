@@ -1,0 +1,69 @@
+T1003	anatomie 394 400	rénale
+T1004	anatomie 605 619	uretère gauche
+T1005	anatomie 636 659	jonction ilio-pelvienne
+T1006	anatomie 719 735	uretère lombaire
+T1007	anatomie 867 881	iliaque gauche
+T1008	anatomie 885 892	uretère
+T1009	anatomie 920 937	paroi postérieure
+T10010	anatomie 1191 1199	vésicale
+T10051	duree 189 203	depuis un mois
+T10062	examen 221 233	uro-génitale
+T10063	examen 237 240	UIV
+T10064	examen 1286 1299	créatininémie
+T10066	examen 116 129	créatininémie
+T10091	frequence 1136 1151	tous les 6 mois
+T100111	moment 1231 1249	recul est de 2 ans
+T100121	substance 172 188	anti-bacillaires
+T100141	traitement 482 494	néphrostomie
+T100142	traitement 326 356	néphrostomie percutanée gauche
+T100143	traitement 858 881	incision iliaque gauche
+T100161	valeur 138 148	1200 mol/l
+T100162	valeur 450 457	17 mg/l
+T100163	valeur 668 684	environ sur 5 cm
+T100164	valeur 1309 1318	180 mol/l
+T100181	pathologie 209 233	tuberculose uro-génitale
+T100192	sosy 292 320	urétéro-hydronéphrose gauche
+T100194	sosy 692 735	sténoses moniliformes de l’uretère lombaire
+T100196	sosy 1162 1199	quelques signes d’irritation vésicale
+T10011	anatomie 93 103	lombalgies
+T10013	examen 385 400	fonction rénale
+T10016	sosy 583 684	sténose complète de l’uretère gauche au niveau de la jonction ilio-pelvienne étendue environ sur 5 cm
+T2001	anatomie 262 266	rein
+T2002	mode 339 349	percutanée
+T20061	examen 426 447	créatininémie moyenne
+T20065	examen 1255 1272	contrôles répétés
+T200141	examen 461 494	opacification par la néphrostomie
+T200144	traitement 989 1016	urétérotomie sur la sténose
+T200191	sosy 93 111	lombalgies gauches
+T200195	sosy 946 970	périurétérite importante
+T20011	sosy 71 77	anurie
+T20012	sosy 116 148	créatininémie était à 1200 mol/l
+T20013	sosy 262 277	rein muet droit
+T20015	sosy 426 457	créatininémie moyenne à 17 mg/l
+T20016	examen 500 537	urétéro-pyélographie rétrograde (UPR)
+T20019	traitement 765 802	montée de sonde urétérale en double J
+T20020	anatomie 781 790	urétérale
+T20022	sosy 885 937	uretère était boudiné et fixé à la paroi postérieure
+T20024	traitement 1031 1077	placer un endoprothèse double J Ch.7 siliconée
+T20025	traitement 1109 1135	sonde double J est changée
+T20026	sosy 1286 1318	créatininémie stable à 180 mol/l
+A1	norme T100164 haut
+#1	AnnotatorNotes T100164	Normal entre 60 et 115mcmol/L pour un homme
+A2	norme T100161 haut
+A3	assertion T20019 absent
+T1	homme 71 77	anurie
+T2	etatsosy 93 111	lombalgies gauches
+T3	infections 209 233	tuberculose uro-génitale
+T4	homme 209 233	tuberculose uro-génitale
+T5	homme 262 277	rein muet droit
+T6	homme 292 320	urétéro-hydronéphrose gauche
+T7	homme 583 619	sténose complète de l’uretère gauche
+T8	homme 692 735	sténoses moniliformes de l’uretère lombaire
+T9	homme 946 970	périurétérite importante
+T10	etatsosy 1180 1199	irritation vésicale
+T11	age 13 19	20 ans
+T12	genre 153 160	patient
+A4	genre T12 masculin
+T13	origine 71 111	anurie associée à des lombalgies gauches
+T14	issue 1228 1318	Le recul est de 2 ans. Les contrôles répétés montrent une créatininémie stable à 180 mol/l
+A5	issue T14 amélioration

@@ -1,0 +1,63 @@
+T5	duree 123 136	depuis 1 mois
+T8	examen 140 162	examen ophtalmologique
+T9	examen 234 246	examen du FO
+T7	examen 399 412	TDM cérébrale
+T13	examen 427 430	IRM
+T10	examen 602 620	échographie rénale
+T11	sosy 113 122	céphalées
+T12	anatomie 147 162	ophtalmologique
+T15	anatomie 244 246	FO
+T16	pathologie 257 293	œdème papillaire de stase bilatérale
+T17	pathologie 300 324	angiome rétinien typique
+T18	anatomie 308 316	rétinien
+T19	anatomie 263 293	papillaire de stase bilatérale
+T20	examen 352 382	angiographie à la fluorescéine
+T21	anatomie 403 412	cérébrale
+T22	examen 436 445	angio-IRM
+T14	pathologie 471 521	hémangioblastome de la fosse cérébrale postérieure
+T23	anatomie 494 521	fosse cérébrale postérieure
+T24	pathologie 531 551	hydrocéphalie active
+T25	anatomie 614 620	rénale
+T26	pathologie 694 714	tumeur rénale gauche
+T27	anatomie 701 714	rénale gauche
+T28	sosy 767 794	hypertension intracrânienne
+T29	anatomie 780 794	intracrânienne
+T30	traitement 848 868	dérivation cérébrale
+T31	mode 859 868	cérébrale
+T32	pathologie 885 898	hydrocéphalie
+T33	sosy 69 83	BAV bilatérale
+T35	anatomie 217 219	OD
+T36	anatomie 228 230	OG
+T37	valeur 223 227	1/10
+T40	examen 191 208	compte des doigts
+T42	moment 939 956	en postopératoire
+T44	sosy 177 187	AV réduite
+#1	AnnotatorNotes T35	oeil droit
+#2	AnnotatorNotes T36	oeil gauche
+#3	AnnotatorNotes T15	fond de l'oeil
+T1	examen 564 587	examens complémentaires
+T2	sosy 642 665	localisation systémique
+T3	traitement 720 739	traitement initiale
+#4	AnnotatorNotes T33	baisse de l'acuité visuelle
+T4	substance 370 382	fluorescéine
+A1	norme T37 bas
+T6	nerveux 113 122	céphalées
+T34	oeil 69 83	BAV bilatérale
+T39	tumeur 300 324	angiome rétinien typique
+T41	oeil 300 324	angiome rétinien typique
+T43	tumeur 471 521	hémangioblastome de la fosse cérébrale postérieure
+T45	nerveux 471 521	hémangioblastome de la fosse cérébrale postérieure
+T46	nerveux 531 551	hydrocéphalie active
+T47	tumeur 694 714	tumeur rénale gauche
+T48	femme 694 714	tumeur rénale gauche
+T49	nerveux 767 794	hypertension intracrânienne
+T50	nerveux 885 898	hydrocéphalie
+T51	nerveux 69 83	BAV bilatérale
+T52	nerveux 257 273	œdème papillaire
+T38	oeil 257 273	œdème papillaire
+T53	genre 16 24	patiente
+A2	genre T53 féminin
+T54	age 39 45	45 ans
+T55	origine 65 122	une BAV bilatérale évoluant dans un contexte de céphalées
+T56	issue 931 938	décédée
+A3	issue T56 décès

@@ -1,0 +1,6 @@
+T1	age 12 18	47 ans
+T2	genre 3 8	homme
+A1	genre T2 masculin
+T3	origine 188 247	des douleurs du testicule droit dans un contexte apyrétique
+T4	issue 1276 1377	Un an après, le patient ne présente aucun symptôme, et en particulier pas de trouble de l’éjaculation
+A2	issue T4 guérison

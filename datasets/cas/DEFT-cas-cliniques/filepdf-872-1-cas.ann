@@ -1,0 +1,164 @@
+T61	examen 1007 1019	surveillance
+T47	valeur 1035 1048	normalisation
+T30	examen 1053 1073	chiffres tensionnels
+T44	substance 1079 1099	sulfate de magnésium
+T24	examen 1104 1119	bilanbiologique
+T42	examen 1143 1154	hémoglobine
+T25	valeur 1155 1163	6.4 g/dl
+T87	examen 1164 1173	plaquette
+T21	valeur 1174 1185	18.000 /mm3
+T88	examen 1186 1188	TP
+T3	valeur 1189 1193	100%
+T14	examen 1194 1198	SGOT
+T46	valeur 1199 1208	1902 UI/L
+T16	examen 1209 1213	SGPT
+T48	valeur 1214 1222	991 UI/L
+T67	examen 1225 1229	urée
+T120	valeur 1230 1238	0.99 g/l
+T36	examen 1240 1250	créatinine
+T49	valeur 1251 1260	56,4 mg/l
+T89	examen 1262 1264	TP
+T4	valeur 1267 1271	100%
+T2	femme 1298 1317	insuffisance rénale
+T58	anatomie 1311 1317	rénale
+T84	traitement 1359 1366	dialyse
+T75	mode 1452 1462	voie basse
+T33	sosy 1510 1535	complication hémorragique
+T31	examen 1574 1594	chiffres tensionnels
+T45	substance 1600 1610	nifédipine
+T26	examen 1613 1629	bilan biologique
+T41	examen 162 182	examen à l’admission
+T119	moment 1643 1658	après 48 heures
+T43	examen 1664 1675	hémoglobine
+T62	examen 1687 1705	taux de plaquettes
+T76	moment 169 182	à l’admission
+T146	age 17 23	24 ans
+T5	valeur 1727 1731	100%
+T153	valeur 1742 1752	diminution
+T65	examen 1757 1770	transaminases
+T11	examen 1771 1775	ASAT
+T10	examen 1781 1785	ALAT
+T68	examen 1791 1795	urée
+T37	examen 1805 1815	créatinine
+T8	valeur 1816 1824	46.9mg/l
+T133	examen 1829 1846	bilirubine totale
+T9	valeur 1850 1855	9mg/l
+T63	examen 218 236	tension artérielle
+T22	anatomie 226 236	artérielle
+T59	sosy 249 281	signes neurosensoriels positives
+T54	valeur 272 280	positive
+T1	nerveux 292 301	céphalées
+T20	pathologie 30 64	antécédents pathologiques notables
+T74	anatomie 315 323	visuelle
+T29	anatomie 333 342	cardiaque
+T50	valeur 350 359	négatives
+T34	sosy 365 396	contractions utérines négatives
+T71	anatomie 378 386	utérines
+T51	valeur 387 396	négatives
+T64	examen 402 417	toucher vaginal
+T73	anatomie 410 417	vaginal
+T32	anatomie 423 426	col
+T7	valeur 450 453	80%
+T55	sosy 483 513	présentation céphalique mobile
+T38	anatomie 496 506	céphalique
+T53	anatomie 521 535	poche des eaux
+T78	examen 547 571	échographie obstétricale
+T39	anatomie 636 646	céphalique
+T52	anatomie 649 657	placenta
+T19	valeur 674 693	Grade II de Grannum
+T23	examen 727 732	bilan
+T82	examen 744 746	Hb
+T72	valeur 747 753	10g/dl
+T83	examen 754 763	plaquette
+T77	valeur 764 775	30.000 /mm3
+T85	examen 776 778	TP
+T81	valeur 779 782	54%
+T86	examen 783 791	natrémie
+T79	valeur 792 800	136mEq/l
+T90	examen 801 809	kaliémie
+T80	valeur 809 818	5.49mEq/l
+T35	examen 819 829	créatinine
+T17	valeur 830 836	23mg/l
+T66	examen 839 843	urée
+T18	valeur 844 851	0.62g/l
+T13	examen 852 856	SGOT
+T57	valeur 857 866	2149 UI/l
+T15	examen 867 871	SGPT
+T69	valeur 872 881	1094 UI/l
+T12	examen 882 885	PAL
+T70	valeur 886 893	294 UI/
+T60	examen 923 958	surveillance clinique et biologique
+T56	traitement 962 986	réanimation obstétricale
+A3	norme T120 bas
+A1	norme T17 bas
+A4	norme T18 bas
+A2	norme T49 normal
+A5	assertion T20 absent
+T91	genre 0 8	Patiente
+A6	genre T91 féminin
+T92	valeur 239 243	14/9
+A7	norme T92 haut
+T93	nerveux 203 212	obnubilée
+T40	sosy 521 543	poche des eaux intacte
+T6	duree 713 721	28-29 SA
+A8	norme T72 bas
+A9	norme T25 bas
+T27	moment 1133 1142	après 48h
+T94	sosy 586 621	grossesse mono-fœtale non évolutive
+A10	assertion T33 absent
+T95	moment 1536 1550	en post-partum
+T28	valeur 1676 1682	6 g/dl
+T96	valeur 1707 1717	30.000/mm3
+T97	examen 1722 1724	TP
+T98	valeur 1776 1779	591
+T99	valeur 1786 1789	571
+T100	valeur 1796 1803	0.88g/l
+A11	norme T100 bas
+A12	norme T8 haut
+T101	femme 108 117	éclampsie
+T102	duree 150 158	à 8 mois
+T103	oeil 303 324	brouillards visuelles
+T104	examen 326 349	bruits cardiaque fœtaux
+A13	norme T28 bas
+A14	assertion T104 non-associé
+T105	sosy 292 301	céphalées
+T106	sosy 303 324	brouillards visuelles
+T107	sosy 326 359	bruits cardiaque fœtaux négatives
+T108	nerveux 303 324	brouillards visuelles
+T109	sosy 100 117	crise d’éclampsie
+T110	sosy 203 212	obnubilée
+T111	sosy 218 243	tension artérielle : 14/9
+T112	sosy 423 472	col souple médian effacé à 80% admettant un doigt
+T113	sosy 649 693	placenta antero-laterale Grade II de Grannum
+T114	sosy 700 721	biométrie de 28-29 SA
+T115	sosy 623 646	présentation céphalique
+T116	sosy 744 753	Hb 10g/dl
+T117	sosy 754 775	plaquette 30.000 /mm3
+T118	sosy 776 782	TP 54%
+T121	sosy 783 800	natrémie 136mEq/l
+T122	sosy 801 818	kaliémie5.49mEq/l
+T123	sosy 819 836	créatinine 23mg/l
+T124	sosy 839 851	urée 0.62g/l
+T125	sosy 852 866	SGOT 2149 UI/l
+T126	sosy 867 881	SGPT 1094 UI/l
+T127	sosy 882 893	PAL 294 UI/
+T128	sosy 1035 1073	normalisation des chiffres tensionnels
+T129	sosy 1143 1163	hémoglobine 6.4 g/dl
+T130	sosy 1164 1185	plaquette 18.000 /mm3
+T131	sosy 1186 1193	TP 100%
+T132	sosy 1194 1208	SGOT 1902 UI/L
+T134	sosy 1209 1222	SGPT 991 UI/L
+T135	sosy 1225 1238	urée 0.99 g/l
+T136	sosy 1240 1260	créatinine 56,4 mg/l
+T137	sosy 1262 1271	TP à 100%
+T138	sosy 1281 1317	aggravation de l’insuffisance rénale
+T139	fonction 1421 1433	accouchement
+T140	sosy 1556 1594	stabilisation des chiffres tensionnels
+T141	sosy 1664 1682	hémoglobine 6 g/dl
+T142	sosy 1687 1717	taux de plaquettesà 30.000/mm3
+T143	sosy 1722 1731	TP à 100%
+T144	sosy 1757 1779	transaminases ASAT 591
+T145	sosy 1781 1789	ALAT 571
+T147	sosy 1791 1803	urée 0.88g/l
+T148	sosy 1805 1824	créatinine 46.9mg/l
+T149	sosy 1829 1855	bilirubine totale de 9mg/l

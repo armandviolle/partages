@@ -1,0 +1,8 @@
+T1	C0087111 0 10	Traitement
+#1	AnnotatorNotes T1	"C0087111", "Therapeutic procedure", "Therapeutic or Preventive Procedure" ,"PROC"
+T2	C0680063 42 48	enfant
+#2	AnnotatorNotes T2	"C0680063", "Offspring", "Family Group" ,"LIVB"
+T4	C0025289 15 25	méningites
+#4	AnnotatorNotes T4	"C0025289", "Meningitis", "Disease or Syndrome" ,"DISO"
+T5	C0007554 53 63	Cefotaxime
+#5	AnnotatorNotes T5	"C0007554", "Cefotaxime", "Organic Chemical|Antibiotic" ,"CHEM"

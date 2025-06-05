@@ -1,0 +1,6 @@
+T1	age 21 26	8 ans
+T2	genre 456 466	Le patient
+A1	genre T2 masculin
+T3	origine 112 257	un syndrome d'hypertension intracrânienne évoluant depuis 5 mois, associée à des troubles de la marche, convulsions tonico-cloniques généralisées
+T4	issue 1686 1799	La TDM cérébrale de contrôle, faite 72 heures après la reprise, a montré une disparition totale du pneumocéphalie
+A2	issue T4 guérison

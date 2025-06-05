@@ -1,0 +1,10 @@
+T5	C0013227 15 26	médicaments
+#5	AnnotatorNotes T5	"C0013227", "Pharmaceutical Preparations", "Pharmacologic Substance" ,"CHEM"
+T6	C0456386 15 26	médicaments
+#6	AnnotatorNotes T6	"C0456386", "Medicament", "Pharmacologic Substance" ,"CHEM"
+T7	C0041755 64 83	effets indésirables
+#7	AnnotatorNotes T7	"C0041755", "Adverse reaction to drug", "Injury or Poisoning" ,"DISO"
+T8	C0877248 64 83	effets indésirables
+#8	AnnotatorNotes T8	"C0877248", "Adverse event", "Finding" ,"DISO"
+T28	C0559546 64 83	effets indésirables
+#28	AnnotatorNotes T28	"C0559546", "Adverse reactions", "Finding" ,"DISO"

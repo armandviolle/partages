@@ -1,0 +1,6 @@
+T1	genre 0 10	Le patient
+T2	age 32 38	51 ans
+A1	genre T1 masculin
+T3	origine 794 1006	une dyspnée, rapportée à un thrombus intra-cardiaque responsable d’embolies pulmonaires à répétition, et d’une symptomatologie infectieuse et inflammatoire, en rapport avec une infection du matériel de dérivation
+T4	issue 4642 4807	avec 5 mois de recul, le système demeure parfaitement fonctionnel avec une normalisation de l’état clinique. Aucune complication n’est survenue notamment infectieuse
+A2	issue T4 guérison

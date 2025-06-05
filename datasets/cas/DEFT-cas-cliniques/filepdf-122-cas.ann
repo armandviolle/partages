@@ -1,0 +1,68 @@
+T17	anatomie 114 133	testiculaire gauche
+T12	examen 1302 1311	palpation
+T15	anatomie 1323 1343	anatomo-pathologique
+T14	examen 1442 1462	analyse histologique
+T11	examen 1557 1572	examen clinique
+T13	examen 1580 1604	échographie testiculaire
+T4	anatomie 1592 1604	testiculaire
+T18	anatomie 404 416	testiculaire
+T16	examen 609 652	imagerie par résonance magnétique nucléaire
+T5	examen 392 416	échographie testiculaire
+T7	sosy 38 52	phimosis serré
+T8	examen 56 71	examen clinique
+T9	sosy 107 219	nodule testiculaire gauche d'environ 1 cm situé au pôle inférieur, de consistance ferme et de contours réguliers
+T19	sosy 441 539	formation ovoïde gauche intraparenchymateuse avec un centre hétérogène et une périphérie calcifiée
+T20	anatomie 458 485	gauche intraparenchymateuse
+T21	anatomie 788 797	testicule
+T22	sosy 962 1047	nodule d'un centimètre a été retrouvé au pôle inférieur du testicule sous l'albuginée
+T23	anatomie 1003 1047	pôle inférieur du testicule sous l'albuginée
+T24	anatomie 1260 1276	testicule gauche
+T25	sosy 1392 1415	kyste épidermoïde isolé
+T26	anatomie 1398 1409	épidermoïde
+T33	valeur 381 388	normaux
+T34	examen 736 748	radiologique
+T29	valeur 136 148	environ 1 cm
+T36	anatomie 158 172	pôle inférieur
+T35	examen 354 372	marqueurs tumoraux
+T39	sosy 762 797	kyste épidermoïde (KE) du testicule
+T41	traitement 803 826	chirurgie conservatrice
+T43	traitement 881 919	clampage premier du cordon spermatique
+T44	anatomie 901 919	cordon spermatique
+T47	traitement 1064 1071	énucléé
+T48	sosy 1172 1235	contenu blanchâtre, grumeleux disposé en lamelles concentriques
+T27	sosy 1251 1311	reste du testicule gauche était sans anomalie à la palpation
+A3	assertion T27 absent
+T30	valeur 1617 1624	normaux
+A4	norme T30 normal
+A5	norme T33 normal
+T52	moment 1536 1548	au 6ème mois
+T53	sosy 566 605	anomalie ipsi ou controlatérale visible
+A6	assertion T53 absent
+T57	sosy 252 293	aucun contexte traumatique, ni infectieux
+A7	assertion T57 absent
+T59	examen 223 237	interrogatoire
+T60	sosy 320 348	antécédents génito-urinaires
+A9	assertion T60 absent
+T61	anatomie 332 348	génito-urinaires
+A10	assertion T39 possible
+T2	sosy 665 700	aspect typique en "oeil de taureau"
+T3	sosy 354 388	marqueurs tumoraux étaient normaux
+T10	sosy 1557 1624	examen clinique et une échographie testiculaire strictement normaux
+T28	anatomie 768 779	épidermoïde
+T31	mode 846 875	voie d’abord inguinale gauche
+T32	anatomie 1097 1107	tissu sain
+T37	examen 1147 1168	ouverture de ce kyste
+T6	examen 1315 1356	analyse anatomo-pathologique extemporanée
+T38	moment 936 958	Lors de l’intervention
+T40	examen 1109 1126	Macroscopiquement
+T42	sosy 1163 1168	kyste
+T62	homme 38 52	phimosis serré
+T1	tumeur 962 968	nodule
+T45	tumeur 1163 1168	kyste
+T46	tumeur 1392 1415	kyste épidermoïde isolé
+T49	age 12 18	32 ans
+T50	genre 298 305	patient
+A1	genre T50 masculin
+T51	origine 38 52	phimosis serré
+T54	issue 1475 1624	Les suites opératoires furent simples. Le patient a été revu au 6ème mois avec un examen clinique et une échographie testiculaire strictement normaux
+A2	issue T54 guérison

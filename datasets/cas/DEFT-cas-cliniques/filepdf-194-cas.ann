@@ -1,0 +1,6 @@
+T1	issue 2990 2995	décès
+T2	genre 32 44	une patiente
+T3	age 48 54	55 ans
+A1	genre T2 féminin
+A2	issue T1 décès
+T4	origine 213 304	un cancer de l’ovaire bilatéral avec ascite a été découvert devant des douleurs abdominales

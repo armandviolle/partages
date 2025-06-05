@@ -1,0 +1,6 @@
+T1	age 36 41	7 ans
+T2	genre 12 26	sœurs jumelles
+A1	genre T2 féminin
+T3	origine 69 208	problèmes psychomoteurs depuis leur enfance sont retrouvées brûlées dans leur habitation, comme endormies, sans signe de tentative de fuite
+T4	issue 129 136	brûlées
+A2	issue T4 décès

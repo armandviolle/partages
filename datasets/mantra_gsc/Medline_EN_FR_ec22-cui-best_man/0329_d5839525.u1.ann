@@ -1,0 +1,6 @@
+T1	C1384353 30 41	infestation
+#1	AnnotatorNotes T1	"C1384353", "Parasite infestation", "Disease or Syndrome" ,"DISO"
+T2	C0027361 64 70	sujets
+#2	AnnotatorNotes T2	"C0027361", "Persons", "Population Group" ,"LIVB"
+T3	C0036315 42 54	bilharzienne
+#3	AnnotatorNotes T3	"C0036315", "Schistosoma", "Eukaryote" ,"LIVB"

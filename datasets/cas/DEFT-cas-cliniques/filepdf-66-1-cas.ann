@@ -1,0 +1,137 @@
+T1001	anatomie 149 163	cutanée gauche
+T1002	anatomie 233 242	pelvienne
+T1003	anatomie 341 355	cutanée gauche
+T1004	anatomie 517 533	tranche vaginale
+T1006	anatomie 799 810	rein gauche
+T1007	anatomie 1236 1250	cutanée gauche
+T1008	anatomie 1480 1500	sinus du rein gauche
+T1009	anatomie 1591 1608	trajets urétéraux
+T10010	anatomie 1620 1626	pelvis
+T10011	anatomie 1665 1685	artère rénale gauche
+T10012	anatomie 2356 2363	uretère
+T10013	anatomie 2389 2403	artère iliaque
+T10014	anatomie 2437 2454	artério-urétérale
+T10061	examen 993 1030	numération globulaire et plaquettaire
+T10062	examen 1145 1159	crase sanguine
+T10063	examen 1373 1396	examens complémentaires
+T10064	examen 1405 1431	examen tomodensitométrique
+T10065	examen 1635 1685	artériographie sélective de l’artère rénale gauche
+T10066	examen 2733 2746	créatininémie
+T100122	substance 894 912	culots globulaires
+T100141	traitement 219 242	radiothérapie pelvienne
+T100142	traitement 306 324	pelvectomie totale
+T100150	traitement 2112 2123	réanimation
+T100151	traitement 2338 2403	dissection de cet uretère jusqu’au croisement de l’artère iliaque
+T100161	valeur 271 279	stade IV
+T100162	valeur 2749 2760	350 mcmol/l
+T100181	pathologie 251 279	carcinome utérin de stade IV
+T100183	pathologie 1731 1754	fistule artérioveineuse
+T100184	pathologie 2499 2506	fistule
+T100185	pathologie 2429 2454	fistule artério-urétérale
+T100193	sosy 489 533	récidive néoplasique sur la tranche vaginale
+T100196	sosy 1037 1060	récidive de l’hématurie
+T100198	sosy 1507 1544	hématome périrénal ni retropéritonéal
+T100200	sosy 1705 1724	lésion hémorragique
+T100201	sosy 2035 2094	hémorragie importante s’extériorisait par l’orifice de lame
+T100202	traitement 2154 2174	reprise chirurgicale
+T100203	sosy 2639 2661	récidive de saignement
+T10016	anatomie 1516 1525	périrénal
+T10017	anatomie 1529 1544	retropéritonéal
+T10019	anatomie 374 382	cutanées
+T10020	anatomie 261 267	utérin
+T10021	traitement 135 163	urétérostomie cutanée gauche
+T10023	sosy 611 620	hématurie
+T10024	anatomie 663 679	urétérale gauche
+T10025	sosy 639 679	obstruction de sa sonde urétérale gauche
+T10026	examen 685 722	urétéro-pyélographie rétrograde (UPR)
+T10028	dose 892 893	3
+T10029	valeur 973 986	normalisation
+T10035	anatomie 1116 1125	urétérale
+T10036	anatomie 422 432	urétérales
+T10037	traitement 1110 1125	sonde urétérale
+T10038	traitement 1214 1250	sonde d’urétérostomie cutanée gauche
+T10040	sosy 1267 1287	chutes tensionnelles
+T10042	anatomie 1470 1473	CPC
+T10043	anatomie 1739 1754	artérioveineuse
+T10044	anatomie 1791 1810	CPC rénales gauches
+T10045	anatomie 1847 1855	urétéral
+T10046	sosy 1838 1855	obstacle urétéral
+T10047	examen 1772 1775	UPR
+T10048	sosy 1791 1831	CPC rénales gauches remplies de caillots
+T10053	sosy 2242 2317	issue de sang artériel par l’extrémité proximale du moignon urétéral gauche
+T10054	traitement 2483 2506	fermeture de la fistule
+T10055	mode 2526 2545	voie endo-urétérale
+T2005	anatomie 765 795	cavités pyélocalicielles (CPC)
+T200111	moment 1999 2029	Le lendemain de l’intervention
+T200121	substance 454 483	chimiothérapie complémentaire
+T200143	traitement 330 355	colostomie cutanée gauche
+T200144	traitement 359 432	urétérostomies cutanées en canon de fusil à droite avec sondes urétérales
+T200146	traitement 825 872	sonde d’urétérostomie cutanée fut mise en place
+T200147	traitement 1951 1970	néphrectomie gauche
+T200148	traitement 1975 1985	lombotomie
+T200191	sosy 105 122	hématurie massive
+T200194	sosy 735 810	présence de caillots dans les cavités pyélocalicielles (CPC) du rein gauche
+T200195	sosy 973 1030	normalisation de la numération globulaire et plaquettaire
+T200197	sosy 1444 1500	présence de sang dans les CPC et le sinus du rein gauche
+T200199	sosy 1552 1562	saignement
+T20019	sosy 555 573	aplasie médullaire
+T20020	substance 580 594	chimiothérapie
+T20025	anatomie 847 854	cutanée
+T20027	sosy 939 968	bonne stabilité hémodynamique
+T20028	sosy 1095 1105	hémorragie
+T20029	sosy 1130 1159	anomalie de la crase sanguine
+T20030	anatomie 1151 1159	sanguine
+T20035	anatomie 563 573	médullaire
+T20038	substance 1307 1319	transfusions
+T20039	sosy 1165 1206	récidive précoce des épisodes d’hématurie
+T20041	anatomie 1456 1460	sang
+T20049	sosy 1861 1887	récidive de ces hématuries
+T20050	sosy 1893 1929	instabilité hémodynamique croissante
+T20051	substance 2128 2140	transfusions
+T20052	traitement 2178 2190	intervention
+T20054	anatomie 2251 2264	sang artériel
+T20055	anatomie 2271 2317	extrémité proximale du moignon urétéral gauche
+T20058	sosy 2733 2760	créatininémie à 350 mcmol/l
+T20060	anatomie 1004 1014	globulaire
+T20067	anatomie 1018 1030	plaquettaire
+T20069	frequence 1320 1330	itératives
+T1	date 85 94	juin 1999
+T2	date 205 213	mai 1998
+T3	date 439 448	mars 1999
+T4	date 286 300	septembre 1998
+#1	AnnotatorNotes T10042	cavités pyélocalicielles
+A1	assertion T100198 absent
+A2	assertion T200199 absent
+A3	assertion T100200 absent
+A4	assertion T100183 absent
+A5	assertion T10046 absent
+A6	assertion T100203 absent
+A7	assertion T100196 absent
+A8	norme T10029 normal
+#2	AnnotatorNotes T10047	Urétéro-pyélographie rétrograde
+A9	norme T100162 haut
+#3	AnnotatorNotes T100162	Normal entre 45 et 105 mcmol/L pour une femme
+A10	etat T100181 passé
+A11	assertion T20028 hypothétique
+T200200	etatsosy 105 122	hématurie massive
+T200202	etatsosy 1197 1206	hématurie
+T5	femme 105 122	hématurie massive
+T6	tumeur 251 279	carcinome utérin de stade IV
+T7	femme 251 279	carcinome utérin de stade IV
+T8	etatsosy 611 620	hématurie
+T9	femme 611 620	hématurie
+T10	femme 1197 1206	hématurie
+T11	etatsosy 1877 1887	hématuries
+T12	femme 1877 1887	hématuries
+T13	etatsosy 2429 2454	fistule artério-urétérale
+T14	cardiovasculaires 2429 2454	fistule artério-urétérale
+T15	genetique 2429 2454	fistule artério-urétérale
+T16	femme 2429 2454	fistule artério-urétérale
+T17	hemopathies 555 573	aplasie médullaire
+T18	hemopathies 1893 1929	instabilité hémodynamique croissante
+T19	genre 0 3	Mme
+A12	genre T19 féminin
+T20	age 16 22	57 ans
+T21	origine 101 163	une hématurie massive sur sonde d’urétérostomie cutanée gauche
+T22	issue 2677 2760	Mme L. se porte bien sur le plan urologique, malgré une créatininémie à 350 mcmol/l
+A13	issue T22 amélioration

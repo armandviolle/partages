@@ -1,0 +1,173 @@
+T1002	anatomie 338 351	bourse droite
+T1003	anatomie 441 450	testicule
+T1004	anatomie 545 560	testicule droit
+T1005	anatomie 609 615	cordon
+T1006	anatomie 696 722	thoraco-abdomino-pelvienne
+T1008	anatomie 794 804	pulmonaire
+T1009	anatomie 831 843	médiastinale
+T10010	anatomie 983 1003	bifurcation aortique
+T10011	anatomie 1218 1238	inguinale bilatérale
+T10014	anatomie 1664 1670	cordon
+T10015	anatomie 1762 1772	cellulaire
+T10016	anatomie 1968 1976	cellules
+T10017	anatomie 2296 2307	vasculaires
+T10018	anatomie 2367 2380	tissu adipeux
+T10019	anatomie 2394 2400	cordon
+T10020	anatomie 2430 2438	cellules
+T10021	anatomie 2951 2959	cellules
+T10022	anatomie 2978 2996	cordon spermatique
+T10023	anatomie 3038 3047	testicule
+T10025	anatomie 3639 3660	canal inguinal gauche
+T10026	anatomie 3815 3823	cellules
+T10027	anatomie 4198 4209	pulmonaires
+T10028	anatomie 4213 4226	médiastinales
+T10062	examen 622 649	marqueurs tumoraux sériques
+T10063	examen 672 722	tomodensitométrie (TDM) thoraco-abdomino-pelvienne
+T10066	examen 1715 1734	étude microscopique
+T10067	examen 2406 2424	immuno-histochimie
+T10075	examen 3722 3741	examen histologique
+T10077	examen 4107 4122	TDM de contrôle
+T100124	substance 3948 3962	chimiothérapie
+T100125	substance 3988 3999	Adriamycine
+T100126	substance 4000 4008	Vépéside
+T100127	substance 4009 4025	Cyclophosphamide
+T100128	substance 4027 4037	CISPLATINE
+T100131	substance 4406 4417	Vincristine
+T100132	substance 4419 4431	Actinomycine
+T100133	substance 4435 4445	Ifosfamide
+T100134	substance 4447 4450	VAI
+T100141	traitement 1303 1323	orchidectomie droite
+T100143	traitement 1378 1412	curage ilio-obturateur homolatéral
+T100161	valeur 658 665	normaux
+T100165	valeur 1568 1585	5 cm de grand axe
+T100166	valeur 3598 3617	4,5cm x 3 cm x 3 cm
+T100167	valeur 4286 4299	17 mm x 11 mm
+T100182	pathologie 893 944	adénopathie inter aortico-cave de 19 mm de diamètre
+T100183	pathologie 4245 4299	adénopathie résiduelle lombo-aortique de 17 mm x 11 mm
+T100193	sosy 574 615	envahissement de l'albuginée et du cordon
+T100194	sosy 1111 1184	2 lésions hépatiques de 4 et 5 mm de diamètre difficilement interprétable
+T100197	sosy 1908 1951	stroma fibreux, dense, d'abondance variable
+T100206	sosy 4190 4226	lésions pulmonaires et médiastinales
+T10029	anatomie 490 502	testiculaire
+T10030	anatomie 878 887	abdominal
+T10037	anatomie 593 602	albuginée
+T10038	anatomie 905 923	inter aortico-cave
+T10040	anatomie 1039 1050	péritonéale
+T10044	anatomie 1547 1564	intratesticulaire
+T10046	anatomie 1908 1914	stroma
+T10049	sosy 2280 2400	nombreux embols vasculaires, envahissait les enveloppes testiculaires et infiltrait le tissu adipeux au niveau du cordon
+T10050	anatomie 2325 2349	enveloppes testiculaires
+T10052	sosy 2555 2624	renforcement du marquage caractéristique en "globules paranucléaires"
+T10054	moment 3194 3232	3 semaines après la chirurgie initiale
+T10055	anatomie 3706 3717	péritonéale
+T10056	valeur 3893 3901	positive
+T10057	duree 3937 3944	6 cures
+T10058	duree 4075 4082	6 cures
+T10059	anatomie 4268 4282	lombo-aortique
+T10069	duree 4388 4395	8 cures
+T10070	sosy 764 804	aspect de "lâcher de ballons" pulmonaire
+T2001	anatomie 167 183	inguinale gauche
+T2007	anatomie 749 759	thoracique
+T20013	anatomie 1368 1374	cordon
+T20024	anatomie 3270 3286	inguinale gauche
+T20061	examen 478 502	échographie testiculaire
+T20065	examen 1432 1452	examen macroscopique
+T20068	examen 2502 2511	Vimentine
+T20069	examen 2677 2680	EMA
+T20070	examen 2813 2838	marqueurs neuroendocrines
+T20071	examen 2877 2900	et immunohistochimiques
+T20072	examen 3237 3243	examen
+T20073	examen 3438 3539	recherche du transcrit de fusion EWS-WT1 par RT-PCR (Reverse Transcriptase-Polymérase Chain Reaction)
+T20076	examen 3835 3886	recherche par RT-PCR du transcrit de fusion EWS-WT1
+T200101	mode 1328 1342	voie inguinale
+T200121	examen 2761 2774	anti-Inhibine
+T200122	examen 2776 2785	Myogénine
+T200123	examen 2789 2800	Calrétinine
+T200130	substance 4339 4365	chimiothérapie d'entretien
+T200142	traitement 1348 1374	clampage premier du cordon
+T200145	traitement 3294 3301	exérèse
+T200162	valeur 927 944	19 mm de diamètre
+T200163	valeur 1007 1024	13 mm de diamètre
+T200164	valeur 1135 1156	4 et 5 mm de diamètre
+T200181	pathologie 819 863	adénopathie médiastinale supra centimétrique
+T200191	sosy 298 351	augmentation importante du volume de la bourse droite
+T200192	sosy 527 560	aspect tumoral du testicule droit
+T200195	sosy 1540 1612	nodule intratesticulaire de 5 cm de grand axe, infiltrant les enveloppes
+T200196	sosy 1748 1893	prolifération cellulaire d'allure épithéliale (Figure 1), disposée en massifs, à centre parfois nécrotique, en lobules, ou plus rarement en tubes
+T200198	sosy 1968 2153	cellules tumorales étaient de taille petite à moyenne, à cytoplasme acidophile ou plus clair, à limites floues et à noyau régulier, inconstamment nucléolé avec une chromatine hétérogène
+T200199	sosy 2168 2245	index mitotique était modéré (5 mitoses pour dix champs à fort grossissement)
+T200201	sosy 2919 3047	tumeur desmoplastique à petites cellules rondes (TDPCR) du cordon spermatique, poly métastatique avec envahissement du testicule
+T200203	sosy 3259 3286	masse dure inguinale gauche
+T200204	sosy 3685 3717	nodules de carcinose péritonéale
+T200205	sosy 3783 3830	tumeur desmoplastique à petites cellules rondes
+T20029	sosy 128 144	hydrocèle droite
+T20030	sosy 160 183	hernie inguinale gauche
+T20033	traitement 206 227	examen complémentaire
+T20034	traitement 232 242	traitement
+T20035	sosy 402 411	hydrocèle
+T20036	sosy 427 462	induration du testicule sous jacent
+T20039	sosy 622 665	marqueurs tumoraux sériques étaient normaux
+T20042	sosy 948 1024	une autre siégeant au niveau de la bifurcation aortique de 13 mm de diamètre
+T20043	sosy 1033 1050	masse péritonéale
+T20044	sosy 1060 1071	épanchement
+T20045	anatomie 1121 1131	hépatiques
+T20046	anatomie 1199 1206	pelvien
+T20047	sosy 1211 1238	hernie inguinale bilatérale
+T20048	sosy 1244 1267	incarcération digestive
+T20049	anatomie 1258 1267	digestive
+T20050	examen 1276 1297	prélèvement de sperme
+T20051	anatomie 1291 1297	sperme
+T20052	anatomie 1385 1412	ilio-obturateur homolatéral
+T20053	sosy 1491 1524	tumeur blanche nacrée, hétérogène
+T20055	sosy 1620 1710	plusieurs nodules, sur toute la longueur du cordon, dont un de 6 cm à sa partie supérieure
+T20056	valeur 1683 1710	6 cm à sa partie supérieure
+T20057	examen 2168 2183	index mitotique
+T20058	valeur 2198 2244	5 mitoses pour dix champs à fort grossissement
+T20059	sosy 2250 2256	tumeur
+T20079	examen 2518 2525	desmine
+T20080	examen 2474 2477	KL1
+T20081	sosy 2430 2448	cellules tumorales
+T20082	examen 2571 2624	marquage caractéristique en "globules paranucléaires"
+T20083	examen 2685 2688	NSE
+T20084	examen 2695 2699	CD99
+T20085	sosy 2643 2699	exprimaient de façon hétérogène l'EMA, la NSE et le CD99
+T20086	sosy 2730 2838	pas marquées par les anticorps anti-Inhibine, Myogénine ou Calrétinine, ni par les marqueurs neuroendocrines
+T20087	examen 2862 2876	morphologiques
+T20088	examen 3089 3101	consultation
+T20090	sosy 3333 3362	caractère rapidement évolutif
+T20091	sosy 3835 3901	recherche par RT-PCR du transcrit de fusion EWS-WT1 était positive
+T20094	substance 3982 3986	AVCP
+T20096	moment 4123 4153	à la fin du traitement initial
+T20099	valeur 844 863	supra centimétrique
+T200100	anatomie 1782 1793	épithéliale
+T1	date 267 280	novembre 2003
+T2	date 86 100	septembre 2002
+A1	assertion T20043 absent
+A2	assertion T20044 absent
+A3	norme T100161 normal
+A4	assertion T20033 absent
+A5	assertion T20034 absent
+A6	assertion T20048 absent
+A7	assertion T100206 absent
+T200206	etatsosy 160 183	hernie inguinale gauche
+T200207	etatsosy 1211 1238	hernie inguinale bilatérale
+T200208	etatsosy 1113 1131	lésions hépatiques
+T200211	tumeur 1491 1524	tumeur blanche nacrée, hétérogène
+T200212	tumeur 2919 2974	tumeur desmoplastique à petites cellules rondes (TDPCR)
+T200213	tumeur 3783 3830	tumeur desmoplastique à petites cellules rondes
+T3	homme 128 144	hydrocèle droite
+T4	homme 402 411	hydrocèle
+T5	tumeur 2250 2256	tumeur
+T6	hemopathies 819 863	adénopathie médiastinale supra centimétrique
+T7	homme 427 450	induration du testicule
+T8	peau 427 450	induration du testicule
+T9	hemopathies 893 923	adénopathie inter aortico-cave
+T10	digestif 1113 1131	lésions hépatiques
+T11	tumeur 2430 2448	cellules tumorales
+T12	hemopathies 4245 4282	adénopathie résiduelle lombo-aortique
+T13	genre 35 40	homme
+T14	age 48 54	34 ans
+A8	genre T13 masculin
+T15	origine 294 502	une augmentation importante du volume de la bourse droite, le patient a consulté un urologue qui devant une hydrocèle associée à une induration du testicule sous jacent, a demandé une échographie testiculaire
+T16	issue 4301 4365	Devant cette évolution favorable, une chimiothérapie d'entretien
+A9	issue T16 amélioration

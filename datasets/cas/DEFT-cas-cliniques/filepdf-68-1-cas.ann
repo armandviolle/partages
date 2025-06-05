@@ -1,0 +1,74 @@
+T1001	anatomie 297 308	prostatique
+T1002	anatomie 197 208	lobe gauche
+T1003	anatomie 259 265	rénale
+T1004	anatomie 177 188	prostatique
+T1005	anatomie 334 341	capsule
+T1006	anatomie 490 501	lobe gauche
+T1007	anatomie 583 595	prostatiques
+T1008	anatomie 675 694	canaux prostatiques
+T10061	examen 133 152	toucher rectal (TR)
+T10062	examen 285 308	échographie prostatique
+T10063	examen 574 595	biopsies prostatiques
+T10064	examen 934 949	examen clinique
+T100111	moment 879 887	à 3 mois
+T100121	substance 798 818	analogue de la LH-RH
+T100141	traitement 700 729	radiothérapie conventionnelle
+T100161	valeur 236 245	2,1 ng/ml
+T100162	valeur 272 279	normale
+T100163	valeur 516 525	2,8 ng/ml
+T100192	sosy 164 219	hypertrophie prostatique avec un lobe gauche ferme, dur
+T100194	sosy 320 350	rupture de la capsule à gauche
+T100195	sosy 458 501	modification du TR au niveau du lobe gauche
+T100196	sosy 533 568	majoration des troubles mictionnels
+T1009	anatomie 141 147	rectal
+T10010	examen 224 227	PSA
+T10011	examen 250 265	fonction rénale
+T10012	examen 510 513	PSA
+T10013	pathologie 656 694	adénocarcinome des canaux prostatiques
+T10014	duree 754 768	sur 5 semaines
+T10015	dose 745 753	50 grays
+T10016	substance 822 836	anti-androgène
+T10018	sosy 893 914	intolérance hépatique
+T10019	anatomie 905 914	hépatique
+T10022	pathologie 1078 1100	pathologie prostatique
+T10023	anatomie 1089 1100	prostatique
+T200191	sosy 51 74	hématurie macroscopique
+T2009	sosy 80 110	pollakiurie diurne et nocturne
+T20010	moment 92 98	diurne
+T20011	moment 102 110	nocturne
+T20013	sosy 224 245	PSA était à 2,1 ng/ml
+T20014	sosy 250 279	fonction rénale était normale
+T20015	examen 394 404	surveiller
+T20017	sosy 510 525	PSA à 2,8 ng/ml
+T20019	examen 623 631	biopsies
+T20023	substance 864 878	anti-androgène
+T20027	substance 973 993	analogue de la LH-RH
+T20030	sosy 934 967	examen clinique était non modifié
+T20034	examen 474 476	TR
+T1	date 1031 1044	décembre 1999
+T2	date 420 434	septembre 1998
+T3	date 114 128	septembre 1995
+T4	date 920 931	décembre 98
+A1	prise T20023 arrêt
+A2	prise T20027 arrêt
+A3	norme T100162 normal
+A4	norme T100161 normal
+#1	AnnotatorNotes T100161	Normal si inférieur à 4 ng/ml
+#2	AnnotatorNotes T10010	antigène spécifique de la prostate
+A5	norme T100163 normal
+T200192	tumeur 656 694	adénocarcinome des canaux prostatiques
+T200193	etatsosy 80 110	pollakiurie diurne et nocturne
+T200194	etatsosy 51 74	hématurie macroscopique
+T200195	homme 533 568	majoration des troubles mictionnels
+T5	homme 51 74	hématurie macroscopique
+T6	homme 80 110	pollakiurie diurne et nocturne
+T7	homme 164 188	hypertrophie prostatique
+T8	homme 656 694	adénocarcinome des canaux prostatiques
+T9	digestif 893 914	intolérance hépatique
+T10	homme 1078 1100	pathologie prostatique
+T11	genre 3 10	patient
+A6	genre T11 masculin
+T12	age 14 20	85 ans
+T13	origine 454 568	une modification du TR au niveau du lobe gauche avec un PSA à 2,8 ng/ml et une majoration des troubles mictionnels
+T14	issue 1019 1027	décèdait
+A7	issue T14 décès

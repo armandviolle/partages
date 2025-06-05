@@ -1,0 +1,6 @@
+T1	genre 0 3	Mme
+T2	age 13 19	33 ans
+A1	genre T1 féminin
+T3	origine 53 196	douleurs hypogastriques à la miction, pollakiurie, et hématurie évoluant depuis 2 mois, ayant été traitée par antibiothérapie sans amélioration
+T4	issue 1382 1481	Les suites ont été simple avec disparition de la symptomatologie dès le lendemain de l’intervention
+A2	issue T4 guérison

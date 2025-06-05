@@ -1,0 +1,71 @@
+T36	anatomie 1000 1011	épidermoide
+T8	sosy 1047 1081	atteinte des limites chirurgicales
+T1	cardiovasculaires 1085 1104	emboles vasculaires
+T32	anatomie 1093 1104	vasculaires
+T7	anatomie 117 122	anale
+T54	sosy 1210 1244	évolution métastatique très rapide
+T22	anatomie 1260 1267	osseuse
+T2	tumeur 128 150	fistule recto-vésicale
+T9	substance 1305 1319	chimiothérapie
+T33	anatomie 136 150	recto-vésicale
+T48	age 15 21	32 ans
+T5	date 155 167	juillet 2001
+T3	etatsosy 187 218	incontinence urinaire et fécale
+T29	anatomie 200 208	urinaire
+T15	anatomie 212 218	fécale
+T10	traitement 266 283	chirurgie rectale
+T26	anatomie 276 283	rectale
+T20	traitement 28 33	opéré
+T35	frequence 34 54	à plusieurs reprises
+T12	anatomie 347 356	digestive
+T49	traitement 361 435	colostomie gauche et un réservoir urinaire continent de type Indiana-Pouch
+T17	anatomie 372 378	gauche
+T30	anatomie 395 403	urinaire
+T16	date 564 576	février 2005
+T4	etatsosy 583 612	émission de sang par l'urètre
+T27	anatomie 595 599	sang
+T23	anatomie 698 712	paroi vésicale
+T28	anatomie 722 738	plage tissulaire
+T6	valeur 742 746	3 cm
+T44	anatomie 763 791	face postéro latérale droite
+T46	traitement 832 842	endoscopie
+T11	traitement 888 908	cysto-prostatectomie
+T50	tumeur 950 970	carcinome urothélial
+T31	anatomie 960 970	urothélial
+T18	valeur 974 984	haut grade
+T19	homme 187 218	incontinence urinaire et fécale
+T37	traitement 336 356	dérivation digestive
+T38	moment 55 93	en période néonatale et dans l'enfance
+T39	genre 0 2	Mr
+A1	genre T39 masculin
+T24	duree 525 538	pendant 4 ans
+T13	examen 617 643	examen tomodensitométrique
+T14	homme 950 970	carcinome urothélial
+T25	issue 1157 1162	décès
+A2	issue T25 décès
+T34	moment 1174 1190	3 mois plus tard
+T41	sosy 1251 1291	atteinte osseuse de contiguité du bassin
+T42	sosy 1354 1375	état général précaire
+T43	sosy 1013 1045	infiltration massive de la paroi
+T45	sosy 990 1011	inflexion épidermoide
+T21	genetique 103 122	imperforation anale
+T40	digestif 103 122	imperforation anale
+T47	anatomie 606 612	urètre
+T51	sosy 659 791	épaississement diffus et suspect de la paroi vésicale avec une plage tissulaire de 3 cm en regard de la face postéro latérale droite
+T52	homme 583 612	émission de sang par l'urètre
+T53	homme 128 150	fistule recto-vésicale
+T55	osteomusculaires 1251 1291	atteinte osseuse de contiguité du bassin
+T56	tumeur 1210 1244	évolution métastatique très rapide
+T57	dispositif 385 435	réservoir urinaire continent de type Indiana-Pouch
+T58	traitement 444 463	montage chirurgical
+T59	sosy 483 524	amélioration du confort de vie du patient
+T60	mode 851 867	voies naturelles
+T61	examen 924 934	histologie
+T62	sosy 950 984	carcinome urothélial de haut grade
+T63	anatomie 1040 1045	paroi
+T64	anatomie 1285 1291	bassin
+T65	sosy 103 122	imperforation anale
+T66	pathologie 128 150	fistule recto-vésicale
+T67	sosy 187 218	incontinence urinaire et fécale
+T68	sosy 583 612	émission de sang par l'urètre
+T69	sosy 1085 1104	emboles vasculaires

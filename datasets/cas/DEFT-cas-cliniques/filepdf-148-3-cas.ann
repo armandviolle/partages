@@ -1,0 +1,6 @@
+T1	issue 1031 1045	asymptomatique
+T2	genre 476 486	Le patient
+T3	age 6 12	72 ans
+A1	issue T1 amélioration
+A2	genre T2 masculin
+T4	origine 30 81	pétéchies diffuses et hémorragies cutanéo-muqueuses

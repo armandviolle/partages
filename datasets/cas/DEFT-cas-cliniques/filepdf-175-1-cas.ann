@@ -1,0 +1,6 @@
+T1	genre 12 24	une patiente
+T2	age 28 34	44 ans
+A1	genre T1 féminin
+T3	origine 50 78	rétention chronique d’urines
+T4	issue 3785 3988	la patiente présente toujours une constipation opiniâtre terminale, équilibrée sous traitement médical. Sur le plan sexuel, aucune amélioration notable n’a été notée dans les suites de la neuromodulation
+A2	issue T4 stable

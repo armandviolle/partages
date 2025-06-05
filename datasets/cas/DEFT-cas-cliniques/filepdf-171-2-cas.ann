@@ -1,0 +1,6 @@
+T1	genre 0 6	Madame
+T2	age 19 25	60 ans
+A1	genre T1 féminin
+T3	origine 78 209	une douleur hypogastrique d’intensité variable évoluant par poussées depuis un an associée à une dysurie et une pollakiurie rebelle
+T4	issue 1472 1536	il n'existe pas de récidive radiologique ou endoscopique à un an
+A2	issue T4 amélioration

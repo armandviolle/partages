@@ -1,0 +1,6 @@
+T1	age 14 20	64 ans
+T2	genre 5 10	homme
+A1	genre T2 masculin
+T3	issue 666 753	aucune récidive n’a été observée à la tomodensitométrie et à la cystoscopie de contrôle
+A2	issue T3 guérison
+T4	origine 171 238	une tumeur large et charnue de la face latérale gauche de la vessie

@@ -1,0 +1,10 @@
+T6	C1949346 0 6	Neupro
+#6	AnnotatorNotes T6	"C1949346", "Neupro", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T7	C1700683 90 100	rotigotine
+#7	AnnotatorNotes T7	"C1700683", "Rotigotine", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T8	C1963578 75 81	libère
+#8	AnnotatorNotes T8	"C1963578", "Release (procedure)", "Therapeutic or Preventive Procedure" ,"PROC"
+T9	C0991556 18 42	dispositif transdermique
+#9	AnnotatorNotes T9	"C0991556", "Transdermal Patch", "Medical Device" ,"DEVI"
+T10	C0991556 50 74	dispositif transdermique
+#10	AnnotatorNotes T10	"C0991556", "Transdermal Patch", "Medical Device" ,"DEVI"

@@ -1,0 +1,12 @@
+T6	C0087111 3 13	traitement
+#6	AnnotatorNotes T6	"C0087111", "Therapeutic procedure", "Therapeutic or Preventive Procedure" ,"PROC"
+T7	C0971600 18 25	ReFacto
+#7	AnnotatorNotes T7	"C0971600", "ReFacto", "Amino Acid Peptide or Protein|Pharmacologic Substance" ,"CHEM"
+T8	C0008059 32 39	enfants
+#8	AnnotatorNotes T8	"C0008059", "Child", "Age Group" ,"LIVB"
+T9	C0008059 155 162	enfants
+#9	AnnotatorNotes T9	"C0008059", "Child", "Age Group" ,"LIVB"
+T10	C0001675 140 147	adultes
+#10	AnnotatorNotes T10	"C0001675", "Adult", "Age Group" ,"LIVB"
+T11	C0013058 89 99	posologies
+#11	AnnotatorNotes T11	"C0013058", "Dosage Forms", "Biomedical or Dental Material" ,"CHEM"

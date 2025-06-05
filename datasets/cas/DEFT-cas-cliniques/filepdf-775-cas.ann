@@ -1,0 +1,7 @@
+T1	genre 0 3	Mme
+A1	genre T1 féminin
+T2	age 11 22	née en 1946
+T3	origine 214 354	la fréquence des crises articulaires augmente, se développent de nombreux nodules souscutanés sur les coudes, les mains, les pieds notamment
+T4	issue 1208 1365	Le facteur rhumatoïde est toujours positif. Depuis 1995, la patiente a subi plusieurs interventions chirurgicales de correction des déformations articulaires
+A2	issue T4 stable
+#1	AnnotatorNotes T2	49 ans, si CR rédigé en 1995

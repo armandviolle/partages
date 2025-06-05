@@ -1,0 +1,6 @@
+T1	age 12 18	75 ans
+T2	genre 3 8	homme
+A1	genre T2 masculin
+T3	origine 85 248	une pigmentation cutanée diffuse avec des petites taches achromiques du tronc et des papules kératosiques palmaires dans un contexte d'altération de l'état général
+T4	issue 1156 1248	Un suivi du patient avec des contrôles de l'arsenic plasmatique et urinaire est mis en place
+A2	issue T4 amélioration

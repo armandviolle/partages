@@ -1,0 +1,4 @@
+T1	C0175649 4 13	prothèses
+#1	AnnotatorNotes T1	"C0175649", "Prosthesis", "Medical Device" ,"DEVI"
+T2	C0041951 14 24	urétérales
+#2	AnnotatorNotes T2	"C0041951", "Ureter", "Body Part Organ or Organ Component" ,"ANAT"

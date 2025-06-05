@@ -1,0 +1,86 @@
+T10	homme 1007 1020	tumeur rénale
+T55	anatomie 1014 1020	rénale
+T24	examen 1041 1065	exploration chirurgicale
+T25	examen 1085 1109	exploration chirurgicale
+T31	mode 1139 1169	antérieure sous costale gauche
+T38	sosy 1202 1302	masse rénale gauche, d'allure inflammatoire, très dure, fixée aux organes de voisinage, inextirpable
+T57	anatomie 1208 1221	rénale gauche
+T42	anatomie 1268 1288	organes de voisinage
+T49	anatomie 127 138	rein gauche
+T19	examen 1308 1328	biopsie chirurgicale
+T16	anatomie 1360 1385	étude anatomopathologique
+T62	substance 1500 1524	traitement symptomatique
+T17	substance 1563 1573	antalgique
+T60	examen 157 168	température
+T50	anatomie 1672 1683	rein gauche
+T20	examen 1687 1711	contrôle scannographique
+T40	valeur 178 184	37,2°C
+T52	anatomie 201 207	rénale
+T29	anatomie 282 314	centre, polaire supérieur gauche
+T15	examen 319 329	TDM rénale
+T53	anatomie 323 329	rénale
+T37	sosy 373 389	masse tissulaire
+T61	anatomie 379 389	tissulaire
+T6	etatsosy 41 67	lombalgies gauches isolées
+T35	mode 436 445	injection
+T45	substance 449 469	produit de contraste
+T26	anatomie 504 531	fascia péri-rénal antérieur
+T34	anatomie 52 59	gauches
+T64	anatomie 567 575	veineuse
+T9	homme 597 635	tumeur rénale polaire supérieur gauche
+T54	anatomie 604 635	rénale polaire supérieur gauche
+T43	examen 644 659	plan biologique
+T41	examen 665 692	numération formule sanguine
+T58	anatomie 684 692	sanguine
+T3	hemopathies 706 737	anémie normochrome normocytaire
+T21	duree 77 90	depuis 2 mois
+T5	etatsosy 773 789	hyperleucocytose
+T11	valeur 823 829	14,6 M
+T13	valeur 835 838	84%
+T65	examen 845 869	vitesse de sédimentation
+T63	anatomie 964 970	urines
+T59	valeur 977 984	stérile
+T1	hemopathies 773 789	hyperleucocytose
+T72	tumeur 597 635	tumeur rénale polaire supérieur gauche
+T73	tumeur 1007 1020	tumeur rénale
+A1	norme T40 normal
+T2	examen 189 207	échographie rénale
+T4	valeur 744 756	9,2 g/100 ml
+T8	substance 1526 1559	anti-inflammatoire non stéroïdien
+T12	moment 1731 1757	2 ans après l'intervention
+T14	age 12 18	32 ans
+A2	norme T4 bas
+A3	norme T11 haut
+T18	sosy 232 314	formation d'écho-structure hétérogène nécrosée au centre, polaire supérieur gauche
+T22	examen 818 820	GB
+T23	valeur 900 905	95 mm
+T27	valeur 920 926	108 mm
+T28	examen 933 970	examen cytobactériologique des urines
+T32	examen 739 741	Hb
+T33	sosy 542 554	adénopathies
+T36	sosy 558 575	atteinte veineuse
+A4	assertion T33 absent
+A5	assertion T36 absent
+T39	valeur 393 415	7 cm de grand diamètre
+T44	moment 887 897	1ère heure
+T47	moment 907 917	2ème heure
+T48	traitement 1130 1169	incision antérieure sous costale gauche
+T7	etatsosy 1232 1245	inflammatoire
+T51	etatsosy 1404 1427	processus inflammatoire
+T56	examen 94 109	examen clinique
+T66	sosy 122 147	gros rein gauche sensible
+T67	sosy 157 185	température normale (37,2°C)
+T68	sosy 486 531	épaississement du fascia péri-rénal antérieur
+T30	sosy 706 757	anémie normochrome normocytaire (Hb : 9,2 g/100 ml)
+T46	sosy 773 839	hyperleucocytose à prédominance neutrophile (GB : 14,6 M,PN : 84%)
+T69	sosy 845 927	vitesse de sédimentation était accélérée (1ère heure : 95 mm, 2ème heure : 108 mm)
+T70	sosy 933 984	examen cytobactériologique des urines était stérile
+T71	sosy 1404 1470	processus inflammatoire sans signes de spécificité ni de malignité
+T74	sosy 1614 1621	douleur
+A6	assertion T74 absent
+T75	sosy 1631 1636	masse
+A7	assertion T75 absent
+T76	sosy 1645 1683	restitution ad integrum du rein gauche
+T77	sosy 41 67	lombalgies gauches isolées
+T78	sosy 597 635	tumeur rénale polaire supérieur gauche
+T79	sosy 1007 1020	tumeur rénale

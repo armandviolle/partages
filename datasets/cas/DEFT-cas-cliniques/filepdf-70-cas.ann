@@ -1,0 +1,66 @@
+T1001	anatomie 1198 1209	vésiculaire
+T1002	anatomie 181 190	cervicale
+T1003	anatomie 664 693	pôle inférieur du rein gauche
+T1004	anatomie 1176 1182	rénale
+T1005	anatomie 534 563	pôle inférieur du rein gauche
+T1006	anatomie 1053 1061	cellules
+T1007	anatomie 587 593	rénale
+T1008	anatomie 79 90	vésiculaire
+T1009	anatomie 1372 1382	abdominale
+T10061	examen 299 318	examen histologique
+T10063	examen 569 593	tomodensitométrie rénale
+T10065	examen 1130 1142	histologique
+T10066	examen 1354 1382	tomodensitométrie abdominale
+T10067	examen 1389 1402	scintigraphie
+T100111	moment 1301 1320	un recul de 12 mois
+T100121	substance 994 1002	colloïde
+T100141	traitement 277 295	curage lymphonodal
+T100142	traitement 765 796	néphrectomie polaire inférieure
+T100143	traitement 1271 1278	exérèse
+T100161	valeur 638 650	1,5 x 1,0 cm
+T100182	pathologie 69 122	carcinome vésiculaire bien différencié de la thyroïde
+T100191	sosy 169 190	tuméfaction cervicale
+T100192	sosy 211 236	récidive de son néoplasme
+T100193	sosy 340 359	signes de malignité
+T100194	sosy 499 563	foyer d’hyperfixation au niveau du pôle inférieur du rein gauche
+T100197	sosy 1025 1070	vésicules sont tapissées de cellules cubiques
+T100198	sosy 1110 1117	atypies
+T100199	sosy 1166 1241	métastase rénale d’un carcinome vésiculaire bien différencié de la thyroïde
+T100200	sosy 1424 1432	récidive
+T10010	anatomie 1233 1241	thyroïde
+T10011	anatomie 114 122	thyroïde
+T10012	traitement 47 63	isthmolobectomie
+T10013	anatomie 950 959	vésicules
+T10014	anatomie 1025 1034	vésicules
+T10016	traitement 242 256	thyroïdectomie
+T10017	anatomie 284 295	lymphonodal
+T10021	moment 454 472	post-thérapeutique
+T20062	examen 426 452	scintigraphie à l’iode 131
+T20064	examen 815 834	examen histologique
+T200195	sosy 629 748	masse de 1,5 x 1,0 cm au niveau du pôle inférieur du rein gauche, se rehaussant après injection du produit de contraste
+T200196	sosy 871 887	lésion nodulaire
+T20014	substance 382 421	complément thérapeutique par l’iode 131
+T20016	substance 728 748	produit de contraste
+T20017	mode 715 724	injection
+T20018	sosy 923 1019	fine capsule constituée de vésicules de taille variable, contenant une colloïde souvent homogène
+T20019	anatomie 1081 1087	noyaux
+T1	date 28 42	septembre 1992
+T2	date 127 136	août 1999
+A1	assertion T100200 absent
+A2	etat T100182 passé
+A3	assertion T100193 absent
+T3	substance 444 452	iode 131
+T4	tumeur 69 90	carcinome vésiculaire
+T5	etatsosy 169 190	tuméfaction cervicale
+T6	tumeur 227 236	néoplasme
+T7	tumeur 1188 1209	carcinome vésiculaire
+T8	tumeur 1166 1182	métastase rénale
+T9	homme 1166 1182	métastase rénale
+T10	endocriniennes 114 122	thyroïde
+T11	endocriniennes 1233 1241	thyroïde
+T12	age 13 19	62 ans
+T13	genre 141 148	patient
+A4	genre T13 masculin
+T14	origine 165 236	une tuméfaction cervicale faisant évoquer une récidive de son néoplasme
+T15	issue 1296 1432	Avec un recul de 12 mois, l’évolution était favorable. La tomodensitométrie abdominale et la scintigraphie ne montraient pas de récidive
+A5	issue T15 amélioration

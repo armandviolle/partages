@@ -1,0 +1,12 @@
+T1	genre 1632 1637	homme
+T2	age 1641 1647	58 ans
+T3	genre 223 228	femme
+T4	age 232 238	42 ans
+T5	issue 768 774	décédé
+A1	genre T3 féminin
+A2	genre T1 masculin
+A3	issue T5 décès
+T6	origine 313 352	une néphropathie de reflux vésico-rénal
+T7	origine 1659 1853	une néphropathie diabétique, de groupe sanguin A+ ayant une compatibilité HLA-A avec le donneur initial, deux compatibilités HLA de groupe I et une compatibilité HLA-DR avec le premier receveur.
+T8	issue 2651 2752	Actuellement, 18 mois après la dernière transplantation, la créatininémie est stable à 162 micromol/l
+A4	issue T8 amélioration

@@ -1,0 +1,6 @@
+T1	C0029456 0 11	Ostéoporose
+#1	AnnotatorNotes T1	"C0029456", "Osteoporosis", "Disease or Syndrome" ,"DISO"
+T2	C0011900 39 49	diagnostic
+#2	AnnotatorNotes T2	"C0011900", "Diagnosis", "Finding" ,"DISO"
+T3	C0199176 51 61	prévention
+#3	AnnotatorNotes T3	"C0199176", "Prophylactic treatment", "Therapeutic or Preventive Procedure" ,"PROC"

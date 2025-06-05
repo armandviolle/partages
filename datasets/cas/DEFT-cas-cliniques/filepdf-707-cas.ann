@@ -1,0 +1,243 @@
+T13	substance 1003 1013	pyridoxine
+T48	mode 1030 1040	voie orale
+T49	frequence 1042 1059	une fois par jour
+T50	date 1100 1113	novembre 2012
+T51	duree 1114 1141	pour une durée de deux mois
+T14	substance 1197 1207	isoniazide
+T15	substance 1214 1223	rifampine
+T52	duree 1224 1253	pour une durée de quatre mois
+T17	substance 1625 1639	acétaminophène
+T54	dose 1745 1752	2000 mg
+T18	substance 1755 1769	acétaminophène
+T53	date 1968 1981	Novembre 2012
+T19	substance 2026 2036	Isoniazide
+T20	substance 2059 2068	Rifampine
+T21	substance 2091 2101	Éthambutol
+T22	substance 2125 2137	Pyrazinamide
+T23	substance 2161 2171	Pyridoxine
+T24	substance 2193 2206	Moxifloxacine
+T25	substance 2325 2334	Lactulose
+T7	duree 261 291	environ une semaine auparavant
+T26	substance 2956 2966	isoniazide
+T27	substance 2971 2980	rifampine
+T28	substance 2985 2997	pyrazinamide
+T29	substance 3004 3014	pyridoxine
+T55	dose 3079 3085	400 mg
+T31	substance 3089 3102	moxifloxacine
+T56	dose 3106 3113	1200 mg
+T32	substance 3116 3126	éthambutol
+T57	frequence 3138 3155	une fois par jour
+T33	substance 3272 3282	éthambutol
+T34	substance 3289 3302	moxifloxacine
+T75	anatomie 3474 3483	abdominal
+T74	examen 3515 3538	radiographie pulmonaire
+T77	anatomie 3528 3538	pulmonaire
+T79	anatomie 3636 3646	pulmonaire
+T58	substance 4309 4318	lactulose
+T59	dose 4337 4342	30 mL
+T60	mode 4347 4357	voie orale
+T61	frequence 4358 4376	deux fois par jour
+T35	substance 4717 4727	éthambutol
+T36	substance 4737 4750	moxifloxacine
+T8	substance 524 534	isoniazide
+T64	date 646 650	2012
+T73	examen 656 679	radiographie pulmonaire
+T76	anatomie 669 679	pulmonaire
+T62	date 86 90	1976
+T43	dose 903 909	300 mg
+T9	substance 912 922	isoniazide
+T44	dose 924 930	600 mg
+T10	substance 934 943	rifampine
+T45	dose 945 952	1200 mg
+T11	substance 955 965	éthambutol
+T46	dose 967 974	1500 mg
+T12	substance 978 990	pyrazinamide
+T47	dose 994 999	50 mg
+A2	prise T26 arrêt
+A3	prise T27 arrêt
+A4	prise T28 arrêt
+A5	prise T29 arrêt
+A6	prise T33 arrêt
+A7	prise T34 arrêt
+T63	date 481 485	2001
+T65	duree 497 513	pendant six mois
+T66	sosy 1675 1683	douleurs
+T67	pathologie 1658 1667	migraines
+T68	pathologie 1779 1788	migraines
+T69	dose 2037 2043	300 mg
+T82	moment 2044 2052	le matin
+T83	moment 2076 2084	le matin
+T84	moment 2110 2118	le matin
+T85	moment 2146 2154	le matin
+T86	moment 2178 2186	le matin
+T87	moment 2214 2222	le matin
+T88	dose 2069 2075	600 mg
+T89	dose 2102 2109	1200 mg
+T90	dose 2138 2145	1500 mg
+T91	dose 2172 2177	50 mg
+T92	dose 2207 2213	400 mg
+A8	prise T19 arrêt
+A9	prise T20 arrêt
+A10	prise T21 arrêt
+A11	prise T22 arrêt
+A12	prise T23 arrêt
+A13	prise T24 arrêt
+T93	pathologie 4949 4960	tuberculose
+T80	sosy 178 185	nausées
+T81	sosy 191 214	diminution de l’appétit
+T94	sosy 222 229	fatigue
+T95	sosy 236 242	ictère
+T96	examen 306 324	analyses sanguines
+T98	pathologie 394 402	allergie
+A15	assertion T98 absent
+T99	pathologie 444 463	tuberculose latente
+A16	etat T99 passé
+T100	sosy 693 726	masse sur le lobe supérieur droit
+T101	anatomie 706 726	lobe supérieur droit
+T103	anatomie 756 767	bronchiques
+T105	pathologie 873 891	tuberculose active
+T106	substance 2229 2232	NAC
+T107	dose 2233 2244	150 mg/kg/h
+T108	dose 2256 2268	12,5 mg/kg/h
+#1	AnnotatorNotes T106	N-Acetylcystéine
+T109	dose 2281 2293	6,25 mg/kg/h
+T110	duree 2245 2255	en 1 heure
+T111	duree 2269 2280	en 4 heures
+T112	duree 2294 2324	durant les 67 heures restantes
+T113	dose 2335 2340	30 mL
+T114	frequence 2341 2359	deux fois par jour
+T115	examen 2360 2363	AST
+T116	examen 2402 2405	ALT
+T117	examen 2449 2469	Phosphatase alcaline
+T118	examen 2509 2526	Bilirubine totale
+T119	examen 2572 2575	RNI
+T120	examen 2622 2632	Créatinine
+T121	examen 3228 3241	transaminases
+T123	pathologie 3387 3407	virus d’Epstein Barr
+T124	pathologie 3412 3427	cytomégalovirus
+T125	pathologie 3433 3443	hépatite B
+A18	assertion T123 absent
+A19	assertion T124 absent
+A20	assertion T125 absent
+T126	examen 3364 3369	tests
+T127	examen 3469 3483	scan abdominal
+T128	pathologie 3495 3510	kyste hépatique
+T129	anatomie 3501 3510	hépatique
+T130	sosy 3549 3555	nodule
+T131	anatomie 3584 3605	lobe pulmonaire droit
+T78	pathologie 3629 3646	tumeur pulmonaire
+T132	sosy 3563 3605	consolidation sur le lobe pulmonaire droit
+T133	traitement 3820 3845	transplantation hépatique
+T134	anatomie 3836 3845	hépatique
+T135	substance 3945 3948	NAC
+T136	dose 3984 3993	10 650 mg
+T137	dose 3995 4006	150 mg/kg/h
+T138	duree 4020 4033	sur une heure
+T139	dose 4054 4062	887,5 mg
+T140	dose 4064 4076	12,5 mg/kg/h
+A21	changement T139 diminution
+A22	changement T140 diminution
+T141	duree 4090 4107	sur quatre heures
+T142	dose 4117 4125	443,8 mg
+T143	dose 4127 4140	6,25 mg/ kg/h
+A23	changement T142 diminution
+A24	changement T143 diminution
+T144	duree 4142 4169	sur les 67 heures restantes
+T145	sosy 4188 4242	état de conscience du patient commence à se détériorer
+T146	pathologie 4270 4285	encéphalopathie
+T147	substance 4436 4439	NAC
+T148	examen 4551 4564	transaminases
+T149	pathologie 5031 5070	hépatotoxicité d’origine médicamenteuse
+T150	examen 5356 5371	bilan hépatique
+T151	anatomie 5362 5371	hépatique
+T152	examen 5378 5381	RNI
+T153	substance 5495 5498	NAC
+T154	substance 5545 5548	NAC
+T155	substance 5941 5944	NAC
+T156	sosy 6203 6221	atteinte hépatique
+T157	anatomie 6212 6221	hépatique
+T158	substance 6326 6329	NAC
+T159	traitement 6401 6426	transplantation hépatique
+T160	anatomie 6417 6426	hépatique
+T177	valeur 6151 6158	normale
+T183	examen 349 362	transaminases
+T164	examen 6163 6174	hépatocytes
+T165	sosy 745 767	sécrétions bronchiques
+A26	assertion T78 possible
+T1	sosy 349 370	transaminases élevées
+T2	examen 732 740	cultures
+T3	moment 1255 1280	À son arrivée à l’urgence
+T4	substance 1312 1327	antituberculeux
+T5	substance 1361 1379	traitement initial
+T6	duree 1344 1357	les deux mois
+T16	pathologie 1445 1468	autre problème de santé
+A1	assertion T16 absent
+T30	substance 1501 1535	autre médicament sous prescription
+T37	dose 1713 1728	une dose totale
+T38	frequence 1729 1741	hebdomadaire
+T39	moment 1789 1845	au cours de la semaine précédant son arrivée à l’urgence
+T40	moment 1935 1965	environ quatre mois auparavant
+T41	sosy 1929 1934	fumer
+A27	assertion T41 absent
+T42	moment 2916 2952	Dès l’arrivée du patient à l’urgence
+T70	substance 3042 3068	traitement antituberculeux
+T71	sosy 3228 3259	transaminases demeurent élevées
+T72	duree 3329 3358	après 24 heures de traitement
+T104	examen 3660 3688	investigation supplémentaire
+A28	assertion T104 absent
+T161	moment 3701 3734	au cours de cette hospitalisation
+A29	assertion T133 absent
+T162	examen 3903 3920	enzymes hépatique
+T163	anatomie 3911 3920	hépatique
+T166	dose 3967 3980	dose initiale
+T167	dose 4324 4333	posologie
+T168	sosy 4453 4486	diminution des enzymes hépatiques
+T169	examen 4468 4486	enzymes hépatiques
+T170	anatomie 4476 4486	hépatiques
+T171	moment 4488 4509	Au congé de l’hôpital
+T172	sosy 4539 4597	valeurs des transaminases supérieures aux valeurs normales
+T173	substance 4605 4639	nouveau traitement antituberculeux
+T174	substance 4659 4685	traitement antituberculeux
+T175	substance 5106 5132	traitement antituberculeux
+T176	sosy 5157 5172	symptomatologie
+T179	examen 5180 5203	valeurs de laboratoires
+T180	substance 5430 5456	traitement antituberculeux
+T181	sosy 5505 5530	effets indésirables notés
+A30	assertion T181 absent
+T182	dose 5536 5541	doses
+T184	substance 6027 6042	antituberculeux
+A31	prise T184 arrêt
+T185	moment 5998 6042	rapidement après l’arrêt des antituberculeux
+T186	substance 6065 6091	traitement antituberculeux
+A32	prise T186 arrêt
+T187	sosy 6142 6174	fonction normale des hépatocytes
+T189	sosy 782 832	présence de la bactérie Mycobacterium tuberculosis
+T192	sosy 5340 5381	amélioration du bilan hépatique et du RNI
+T97	valeur 52 57	71 kg
+T102	examen 135 160	visite médicale mensuelle
+T122	anatomie 315 324	sanguines
+T188	substance 1899 1902	vin
+T190	dose 1876 1895	deux à trois verres
+T191	frequence 1903 1914	par semaine
+A14	prise T180 arrêt
+T178	etatsosy 222 229	fatigue
+T193	etatsosy 236 242	ictère
+T194	etatsosy 178 185	nausées
+T195	infections 444 463	tuberculose latente
+T196	infections 782 832	présence de la bactérie Mycobacterium tuberculosis
+T197	infections 873 891	tuberculose active
+T198	nerveux 1658 1667	migraines
+T199	etatsosy 1675 1683	douleurs
+T200	chimiques 1929 1934	fumer
+T201	nerveux 1779 1788	migraines
+T202	tumeur 3495 3510	kyste hépatique
+T203	digestif 3495 3510	kyste hépatique
+T204	digestif 5031 5070	hépatotoxicité d’origine médicamenteuse
+T205	chimiques 5031 5070	hépatotoxicité d’origine médicamenteuse
+T206	nerveux 4270 4285	encéphalopathie
+T207	genre 3 8	homme
+A17	genre T207 masculin
+T208	age 12 18	66 ans
+T209	origine 174 242	des nausées, une diminution de l’appétit, de la fatigue et un ictère
+T210	issue 4833 5001	Étant donné la complexité du cas, le patient est référé à un centre hospitalier spécialisé dans le traitement de la tuberculose afin de gérer la poursuite du traitement
+A25	issue T210 stable

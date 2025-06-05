@@ -1,0 +1,122 @@
+T10	examen 1068 1088	examen macroscopique
+T1	moment 190 209	10 jours auparavant
+T11	examen 416 454	scintigraphie myocardique de perfusion
+T12	examen 735 757	échographie abdominale
+T13	anatomie 747 757	abdominale
+T15	examen 854 880	examen tomodensitométrique
+T5	examen 272 291	électrocardiogramme
+T6	anatomie 430 441	myocardique
+T22	valeur 566 576	7,3 mmol/l
+T23	examen 2187 2190	ACE
+T24	examen 645 649	ECBU
+T27	examen 2464 2493	analyse en cytométrie de flux
+T33	examen 552 563	hémoglobine
+T35	valeur 303 309	normal
+T38	examen 673 683	sérologies
+T41	examen 313 325	troponine 1A
+T42	examen 2098 2123	étude immunohistochimique
+T7	sosy 38 61	hypertension artérielle
+T9	anatomie 51 61	artérielle
+T14	sosy 63 68	angor
+T16	sosy 72 91	goitre euthyroïdien
+T17	anatomie 79 91	euthyroïdien
+T18	sosy 139 158	masse rénale droite
+T19	anatomie 145 158	rénale droite
+T20	sosy 228 254	douleur thoracique fébrile
+T39	anatomie 236 246	thoracique
+T44	sosy 353 374	infarctus du myocarde
+T45	anatomie 366 374	myocarde
+A3	assertion T44 absent
+T36	examen 526 550	normochrome normocytaire
+T29	sosy 519 577	anémie normochrome normocytaire (hémoglobine : 7,3 mmol/l)
+T37	sosy 585 620	élévation de la C-réactive protéine
+T46	examen 601 620	C-réactive protéine
+T32	sosy 830 849	masse du rein droit
+T40	anatomie 839 849	rein droit
+T47	sosy 798 818	myopéricardite aiguë
+A5	assertion T47 possible
+T48	sosy 903 957	large masse hétérogène du pôle supérieur du rein droit
+T49	anatomie 929 957	pôle supérieur du rein droit
+T51	sosy 963 996	extension veineuse rénale ou cave
+T52	anatomie 973 996	veineuse rénale ou cave
+A6	assertion T51 absent
+T53	traitement 1034 1061	néphrectomie élargie droite
+T55	sosy 1104 1173	tumeur localisée au pôle supérieur du rein mesurait 11 cm de diamètre
+T57	anatomie 1124 1146	pôle supérieur du rein
+T58	anatomie 1223 1239	parenchyme rénal
+T59	sosy 1189 1341	bien circonscrite et délimitée du parenchyme rénal sous-jacent sans capsule distincte, refoulant mais n’infiltrant pas de manière évidente le parenchyme
+T60	sosy 1359 1490	tumeur apparaissait fibreuse et dense, de coloration blanchâtre, d'aspect fasciculé, sans remaniements hémorragiques ou nécrotiques
+T63	anatomie 1496 1514	vaisseaux hilaires
+T64	sosy 1596 1762	tumeur présentait une architecture storiforme ou faite de fuseaux de cellules fusiformes à noyaux allongés ou ovoïdes et cytoplasme réduit éosinophile ou safranophile
+T66	anatomie 1717 1727	cytoplasme
+T30	anatomie 2038 2046	cellules
+T67	sosy 2038 2093	cellules tumorales entouraient les lumières vasculaires
+T68	anatomie 2073 2093	lumières vasculaires
+T69	examen 2148 2169	marqueurs épithéliaux
+T70	examen 2171 2174	KL1
+T71	examen 2176 2183	MNF 116
+T72	examen 2284 2293	vimentine
+T73	examen 2300 2304	CD34
+T74	examen 2201 2208	desmine
+T75	examen 2212 2216	Ulex
+T76	examen 2223 2236	protéïne S100
+T77	traitement 2309 2323	immunomarquage
+T78	examen 2331 2360	actine antimuscle lisse alpha
+T79	anatomie 2404 2422	parois vasculaires
+T80	anatomie 2441 2449	cellules
+T81	sosy 2423 2459	sans marquage des cellules tumorales
+T82	sosy 2510 2523	ADN-diploïdie
+T83	sosy 2633 2666	tumeur fibreuse solitaire du rein
+T84	anatomie 2662 2666	rein
+A7	norme T35 normal
+T87	examen 695 705	adénovirus
+T88	examen 707 722	virus coxsackie
+T89	examen 724 727	CMV
+T90	examen 627 639	hémocultures
+T91	valeur 1156 1173	11 cm de diamètre
+T92	anatomie 1665 1673	cellules
+T94	anatomie 1687 1693	noyaux
+T98	anatomie 1331 1341	parenchyme
+T2	mode 445 454	perfusion
+T3	examen 460 468	biologie
+T4	valeur 500 507	normale
+T8	sosy 460 507	biologie restait dans les limites de la normale
+T26	sosy 627 666	hémocultures et l’ECBU étaient stériles
+T28	sosy 673 728	sérologies négatives (adénovirus, virus coxsackie, CMV)
+T34	examen 1349 1354	coupe
+T43	sosy 1496 1563	vaisseaux hilaires n’étaient pas concernés par ce processus tumoral
+A1	assertion T43 absent
+T50	examen 1569 1580	microscopie
+T54	sosy 1797 1815	activité mitotique
+A2	assertion T54 absent
+T56	sosy 1821 1827	atypie
+A8	assertion T56 absent
+T61	sosy 1931 2022	collagénisation caractérisées par la présence de trousseaux collagènes plus ou moins trapus
+T62	sosy 2242 2304	fortement et diffusément positive pour la vimentine et le CD34
+T65	sosy 2098 2236	étude immunohistochimique était négative pour les marqueurs épithéliaux (KL1, MNF 116 et ACE), pour la desmine, l’Ulex et la protéïne S100
+T85	examen 2530 2591	aspects macroscopiques, histologiques et immunohistochimiques
+T93	moment 2669 2689	Quatre ans plus tard
+T95	pathologie 2731 2757	évolution de sa pathologie
+A9	assertion T95 absent
+T96	sosy 298 325	taux normal de troponine 1A
+T97	sosy 2374 2422	réaction focale au niveau des parois vasculaires
+T21	valeur 658 666	stériles
+T25	valeur 684 693	négatives
+T31	valeur 2130 2138	négative
+T86	valeur 2267 2275	positive
+T99	cardiovasculaires 38 61	hypertension artérielle
+T100	cardiovasculaires 63 68	angor
+T101	etatsosy 63 68	angor
+T102	endocriniennes 72 91	goitre euthyroïdien
+T103	etatsosy 228 254	douleur thoracique fébrile
+T104	hemopathies 519 550	anémie normochrome normocytaire
+T105	tumeur 1104 1110	tumeur
+T106	tumeur 1596 1602	tumeur
+T107	tumeur 2633 2666	tumeur fibreuse solitaire du rein
+T108	femme 2633 2666	tumeur fibreuse solitaire du rein
+T109	genre 4 9	femme
+T110	age 13 19	60 ans
+A4	genre T109 féminin
+T111	origine 139 158	masse rénale droite
+T112	issue 2691 2757	la patiente est vivante et sans signe d’évolution de sa pathologie
+A10	issue T112 amélioration

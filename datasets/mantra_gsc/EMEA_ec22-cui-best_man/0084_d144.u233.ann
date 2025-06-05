@@ -1,0 +1,14 @@
+T8	C0035150 14 26	reproduction
+#8	AnnotatorNotes T8	"C0035150", "Reproduction", "Organism Function" ,"PHYS"
+T9	C0003062 35 41	animal
+#9	AnnotatorNotes T9	"C0003062", "Animals", "Animal" ,"LIVB"
+T10	C1455035 57 66	dégarélix
+#10	AnnotatorNotes T10	"C1455035", "degarelix", "Amino Acid Peptide or Protein|Pharmacologic Substance|Hormone" ,"CHEM"
+T11	C0021359 82 93	infertilité
+#11	AnnotatorNotes T11	"C0021359", "Infertility", "Disease or Syndrome" ,"DISO"
+T12	C0024554 103 108	mâles
+#12	AnnotatorNotes T12	"C0024554", "Male gender", "Finding" ,"DISO"
+T13	C0008972 4 10	études
+#13	AnnotatorNotes T13	"C0008972", "Clinical Research", "Research Activity" ,"PROC"
+T38	C0678108 82 93	infertilité
+#38	AnnotatorNotes T38	"C0678108", "Sterility", "Pathologic Function" ,"DISO"

@@ -1,0 +1,67 @@
+T10061	examen 103 130	bilan de suivi de grossesse
+T10063	examen 867 881	test VIH combo
+T10064	examen 1315 1322	PCR VIH
+T10065	examen 1447 1464	bilan virologique
+T100121	substance 296 305	lopinavir
+T100122	substance 307 316	ritonavir
+T100123	substance 318 342	inhibiteurs de protéase)
+T100124	substance 451 461	zidovudine
+T100125	substance 1187 1197	zidovudine
+T1002	examen 144 157	sérologie VIH
+T1003	valeur 158 166	positive
+T1004	examen 176 189	charge virale
+T1005	valeur 192 204	40 copies/ml
+T1006	substance 358 368	lamivudine
+T1008	pathologie 435 438	VIH
+T1009	pathologie 445 448	VHB
+T10011	pathologie 519 522	VIH
+T10013	pathologie 671 674	VHB
+T10014	pathologie 681 684	VIH
+T10015	examen 812 833	antigène HBs (Ag HBs)
+T10016	valeur 834 841	positif
+T10017	valeur 852 864	4375,16 S/CO
+T10018	valeur 963 970	positif
+T10019	valeur 981 992	351,38 S/CO
+T10020	examen 995 1013	anticorps anti VHC
+T10021	valeur 1014 1022	négatifs
+T10022	examen 1024 1048	sérologie rubéole et CMV
+T10023	valeur 1049 1058	négatives
+T10024	dose 1204 1213	50mg/Kg/j
+T10025	mode 1198 1203	sirop
+T10026	substance 1238 1253	vaccin anti VHB
+T10029	substance 1275 1285	vaccin BCG
+T10030	valeur 1374 1383	négatives
+T10031	moment 1349 1365	à 1, 3 et 6 mois
+T20062	examen 650 684	bilan sérologique du VHB et du VIH
+T200101	mode 1094 1104	voie basse
+T200111	moment 526 550	Au terme de sa grossesse
+T2001	examen 69 90	suivi de sa grossesse
+T2002	moment 91 98	à 24 SA
+T2003	sosy 144 166	sérologie VIH positive
+T2006	sosy 176 204	charge virale à 40 copies/ml
+T2008	substance 379 448	inhibiteur nucléosidique de la transcriptase inverse du VIH et du VHB
+T20011	substance 463 522	inhibiteur nucléosidique de la transcriptase inverse du VIH
+T20015	examen 750 792	chimiluminescence microparticulaire (CMIA)
+T20018	examen 921 939	Ac anti VIH 1 et 2
+T20019	examen 948 954	Ag p24
+T20025	sosy 1024 1058	sérologie rubéole et CMV négatives
+T20026	sosy 995 1022	anticorps anti VHC négatifs
+T20027	sosy 921 970	Ac anti VIH 1 et 2 et de l’Ag p24 du VIH1 positif
+T20028	sosy 812 841	antigène HBs (Ag HBs) positif
+T20033	substance 1257 1268	allaitement
+T20035	sosy 1315 1383	PCR VIH faites chez le nouveau-né à 1, 3 et 6 mois étaient négatives
+A1	assertion T20035 non-associé
+A2	assertion T10064 non-associé
+T1	pathologie 872 875	VIH
+T2	pathologie 958 962	VIH1
+T3	pathologie 1034 1041	rubéole
+T4	pathologie 1045 1048	CMV
+T5	pathologie 1319 1322	VIH
+T6	virales 144 166	sérologie VIH positive
+T7	immunitaire 144 166	sérologie VIH positive
+T8	genre 0 8	Patiente
+A3	genre T8 féminin
+T9	age 38 44	24 ans
+T10	origine 140 204	une sérologie VIH positive avec une charge virale à 40 copies/ml
+T11	issue 1443 1485	son bilan virologique n’a pu être complété
+A4	issue T11 stable

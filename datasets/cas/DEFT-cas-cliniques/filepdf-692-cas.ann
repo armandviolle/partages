@@ -1,0 +1,6 @@
+T1	genre 129 131	Il
+T2	age 20 25	6 ans
+A1	genre T1 masculin
+T3	origine 379 632	des douleurs abdominales parfois péri ombilicales parfois diffuses, d’intensité modérée à sévère, paroxystiques, de durée assez brève (10 à 20 minutes) avec parfois des vomissements qui peuvent survenir en même temps ou suivre immédiatement les douleurs
+T4	issue 2020 2082	Avec un recul de 1 an de traitement, sans crises douloureuses,
+A2	issue T4 guérison

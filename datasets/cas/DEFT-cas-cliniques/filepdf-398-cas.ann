@@ -1,0 +1,6 @@
+T1	age 13 19	44 ans
+T2	issue 3574 3580	décédé
+T3	genre 455 465	Ce patient
+A1	genre T3 masculin
+A2	issue T2 décès
+T4	origine 68 134	un malaise avec perte de connaissance et arrêt cardio-respiratoire

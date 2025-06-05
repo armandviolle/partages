@@ -1,0 +1,120 @@
+T27	anatomie 101 114	hypogastrique
+T54	anatomie 1052 1058	vessie
+T38	anatomie 1441 1448	ombilic
+T5	chimiques 145 168	intoxication alcoolique
+T25	examen 1463 1488	exploration cœlioscopique
+T7	valeur 1517 1523	500 ml
+T32	anatomie 1542 1551	membranes
+T78	anatomie 1552 1563	péritonéale
+T88	anatomie 1591 1603	dôme vésical
+T62	anatomie 1652 1660	vésicale
+T55	anatomie 1679 1685	vessie
+T30	examen 172 186	interrogatoire
+T125	anatomie 1754 1772	cavité péritonéale
+T49	substance 1788 1807	sérum physiologique
+T29	mode 1855 1864	injection
+T16	examen 1868 1885	bleu de méthylène
+T56	anatomie 1894 1900	vessie
+T31	traitement 2019 2031	intervention
+T122	age 21 27	53 ans
+T63	anatomie 2144 2152	vésicale
+T15	moment 2167 2200	au cinquième jour post-opératoire
+T17	duree 231 247	depuis 24 heures
+T14	sosy 298 308	apyrétique
+T64	moment 309 322	à l’admission
+T41	examen 327 347	palpation abdominale
+T9	anatomie 337 347	abdominale
+T28	anatomie 394 407	hypogastrique
+T24	examen 424 443	examen neurologique
+T34	anatomie 431 443	neurologique
+T35	valeur 450 456	normal
+T3	etatsosy 46 66	douleurs abdominales
+T6	femme 475 493	rétention urinaire
+T50	anatomie 485 493	urinaire
+T61	anatomie 520 528	vésicale
+T10	anatomie 55 66	abdominales
+T51	anatomie 570 576	urines
+T8	examen 587 590	ASP
+T65	examen 596 607	échographie
+T36	valeur 616 623	normaux
+T47	examen 628 643	sondage vésical
+T58	anatomie 636 643	vésical
+T4	etatsosy 672 692	douleurs abdominales
+T11	anatomie 681 692	abdominales
+T26	examen 723 750	fibroscopie uréthrovésicale
+T44	anatomie 836 847	péritonéale
+T87	anatomie 851 863	dôme vésical
+T57	examen 869 882	visualisation
+T12	anatomie 885 897	anses grêles
+T52	anatomie 901 907	urètre
+T53	anatomie 911 932	le reste de la vessie
+T37	valeur 953 960	normaux
+T13	substance 966 997	antibiothérapie à large spectre
+T1	genre 4 12	patiente
+A1	genre T1 féminin
+T2	anatomie 735 750	uréthrovésicale
+T18	duree 2039 2049	50 minutes
+T19	anatomie 1501 1513	uropéritoine
+T20	sosy 253 278	arrêt du transit digestif
+A2	assertion T20 absent
+T21	sosy 369 420	empattement de la région hypogastrique sans défense
+T22	moment 125 140	24 heures après
+T23	anatomie 783 799	cervico-uréthral
+T33	dispositif 1089 1136	Quatre trocarts (deux de 5 mm et deux de 12 mm)
+T39	dispositif 1183 1207	premier trocart de 12 mm
+T40	dispositif 1242 1263	deux trocarts de 5 mm
+T42	dispositif 1359 1375	trocart de 12 mm
+T43	dispositif 1646 1660	sonde vésicale
+T45	valeur 1607 1623	5 cm de longueur
+T46	valeur 1202 1207	12 mm
+T48	valeur 1370 1375	12 mm
+T59	valeur 1259 1263	5 mm
+T60	valeur 1130 1135	12 mm
+T66	valeur 1114 1118	5 mm
+T67	traitement 1021 1058	réparation cœlioscopique de la vessie
+T68	traitement 1159 1179	coelioscopie ouverte
+T69	duree 693 716	pendant quelques heures
+T70	anatomie 1293 1308	fosses iliaques
+T71	anatomie 1905 1920	pneumopéritoine
+T73	dispositif 1956 1964	trocarts
+T74	dispositif 2096 2101	drain
+T75	traitement 1987 2015	drainage aspirant type Redon
+T76	dispositif 2138 2152	sonde vésicale
+T72	moment 2115 2131	au deuxième jour
+T77	anatomie 1430 1435	pubis
+T79	sosy 46 114	douleurs abdominales violentes diffuses à prédominance hypogastrique
+T80	sosy 656 692	soulagement des douleurs abdominales
+T81	sosy 822 897	rupture intra péritonéale du dôme vésical avec visualisation d’anses grêles
+T82	femme 212 247	absence de miction depuis 24 heures
+T83	substance 158 168	alcoolique
+T84	anatomie 270 278	digestif
+T85	sosy 424 456	examen neurologique était normal
+T86	dispositif 514 534	sonde vésicale Foley
+T89	traitement 514 546	sonde vésicale Foley a été posée
+T90	traitement 552 583	ramené un litre d’urines rosées
+T91	valeur 559 567	un litre
+T92	sosy 559 583	un litre d’urines rosées
+T93	sosy 587 623	ASP et l’échographie étaient normaux
+T94	sosy 774 799	obstacle cervico-uréthral
+T95	traitement 762 799	éliminer un obstacle cervico-uréthral
+T96	sosy 901 960	urètre et le reste de la vessie étaient optiquement normaux
+T97	traitement 1183 1240	premier trocart de 12 mm a été mis en position ombilicale
+T98	traitement 1242 1308	deux trocarts de 5 mm ont été placés au niveau des fosses iliaques
+T99	traitement 1315 1344	insufflation contrôlée au CO2
+T100	substance 1341 1344	CO2
+T101	traitement 1351 1448	dernier trocart de 12 mm a été mis sur la ligne médiane à mi distance entre le pubis et l’ombilic
+T102	anatomie 1393 1406	ligne médiane
+T103	sosy 1501 1523	uropéritoine de 500 ml
+T104	sosy 1534 1564	fausses membranes péritonéales
+T105	sosy 1580 1623	rupture du dôme vésical de 5 cm de longueur
+T106	traitement 1679 1749	vessie a été suturée par un surjet au fil à résorption lente (Vicryl®)
+T107	dispositif 1717 1749	fil à résorption lente (Vicryl®)
+T108	traitement 1754 1807	cavité péritonéale a été lavée au sérum physiologique
+T109	traitement 1813 1900	étanchéité du surjet a été vérifiée par l’injection de bleu de méthylène dans la vessie
+T110	traitement 1905 1935	pneumopéritoine a été exsufflé
+T111	traitement 1943 1979	orifices des trocarts ont été fermés
+T112	traitement 2096 2114	drain a été enlevé
+T113	traitement 2138 2166	sonde vésicale a été retirée
+T114	sosy 145 168	intoxication alcoolique
+T115	sosy 212 247	absence de miction depuis 24 heures
+T116	sosy 475 493	rétention urinaire

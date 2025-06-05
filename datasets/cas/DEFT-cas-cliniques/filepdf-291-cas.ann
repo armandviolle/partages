@@ -1,0 +1,104 @@
+T7	examen 526 573	scanner abdomino-pelvien sans et avec injection
+T8	anatomie 534 550	abdomino-pelvien
+T6	traitement 50 70	cystectomie radicale
+T9	traitement 76 139	double réimplantation urétérale sigmoidienne de type Mayence II
+T10	anatomie 98 120	urétérale sigmoidienne
+T11	pathologie 148 165	carcinome in situ
+T12	pathologie 250 310	plusieurs épisodes de pyélonéphrites aiguës non-obstructives
+T13	date 315 325	Avril 2005
+T14	pathologie 376 402	pyélonéphrite aiguë droite
+T15	sosy 424 464	dilatation pyélo-calicielle et urétérale
+T16	anatomie 435 451	pyélo-calicielle
+T17	anatomie 455 464	urétérale
+T18	anatomie 506 521	voie excrétrice
+T19	pathologie 588 607	pyélonéphrite aiguë
+T20	sosy 613 653	dilatation des cavités pyélo-calicielles
+T21	anatomie 628 653	cavités pyélo-calicielles
+T22	anatomie 695 733	anastomose urétéro-sigmoidienne droite
+T23	anatomie 820 838	rein controlatéral
+T24	traitement 869 918	néphrostomie percutanée calicielle moyenne droite
+T25	anatomie 882 892	percutanée
+T26	traitement 1029 1049	urétéroscopie souple
+T27	traitement 1084 1118	photo-vaporisation laser du calcul
+T28	traitement 1151 1168	urétérolithotomie
+T29	traitement 1498 1517	anesthésie générale
+T31	traitement 1586 1609	néphrostomie percutanée
+T32	mode 1599 1609	percutanée
+T37	anatomie 1821 1830	urétérale
+T38	anatomie 1925 1943	vaisseaux iliaques
+T41	examen 2019 2042	urétérorénoscope souple
+T42	anatomie 2070 2077	uretère
+T43	examen 2082 2089	exploré
+T44	anatomie 2142 2161	concavité urétérale
+T45	anatomie 2177 2215	anastomose urétéro-sigmoidienne droite
+T46	traitement 2239 2298	calcul est mobilisé dans le segment rectiligne de l'uretère
+T47	sosy 2113 2119	calcul
+T48	sosy 753 804	calcul de 15 mm de diamètre faiblement radio-opaque
+T49	sosy 1112 1118	calcul
+T50	sosy 1398 1404	calcul
+T51	anatomie 2267 2298	segment rectiligne de l'uretère
+T53	anatomie 2502 2533	anastomose urétéro-sigmoidienne
+T54	examen 2560 2572	urétéroscope
+T55	anatomie 2599 2630	anastomose urétéro-sigmoidienne
+T56	pathologie 2661 2682	sténose anastomotique
+A3	assertion T56 absent
+T57	anatomie 2669 2682	anastomotique
+T58	traitement 2688 2700	néphrostomie
+T59	duree 2724 2738	pour 72 heures
+T60	traitement 2760 2767	clampée
+T61	duree 2768 2785	pendant 24 heures
+T62	sosy 2800 2806	fièvre
+T63	sosy 2813 2839	douleurs lombaires droites
+T64	anatomie 2822 2839	lombaires droites
+T66	traitement 2882 2894	néphrostomie
+A4	assertion T62 absent
+A5	assertion T63 absent
+T69	traitement 1122 1131	chirurgie
+T72	valeur 845 851	normal
+T76	sosy 490 521	obstacle sur la voie excrétrice
+T74	valeur 763 780	15 mm de diamètre
+T77	traitement 1324 1352	lithotritie extra-corporelle
+A6	assertion T77 absent
+T81	traitement 1173 1196	traitement endoscopique
+#1	AnnotatorNotes T22	connexion entre deux organes (l'urètre et le sigmoïde ?)
+T1	moment 27 43	il y a trois ans
+T2	sosy 820 851	rein controlatéral était normal
+T3	mode 1054 1068	voie antégrade
+T4	mode 1132 1145	à ciel ouvert
+T5	mode 1201 1215	voie antégrade
+T33	mode 1467 1477	percutanée
+T34	mode 2423 2437	voie antégrade
+T35	traitement 2544 2556	intervention
+T39	sosy 954 972	épisode infectieux
+T30	traitement 1646 1686	mise en place d'un fil guide de sécurité
+T67	traitement 1787 1830	mise en place d'une gaine d'accès urétérale
+T68	traitement 2351 2360	fragmenté
+T71	traitement 2412 2437	retiré par voie antégrade
+T73	traitement 2482 2533	évacuée à travers l'anastomose urétéro-sigmoidienne
+T78	traitement 2862 2878	retirer la sonde
+T36	sosy 2399 2405	calcul
+T40	traitement 179 202	traitement conservateur
+A1	assertion T26 possible
+A2	assertion T69 possible
+A7	assertion T27 possible
+A8	assertion T28 possible
+T52	anatomie 1541 1548	ventral
+T65	tumeur 148 165	carcinome in situ
+T70	femme 272 310	pyélonéphrites aiguës non-obstructives
+T75	femme 376 402	pyélonéphrite aiguë droite
+T79	femme 588 607	pyélonéphrite aiguë
+T80	etatsosy 1398 1404	calcul
+T82	etatsosy 1112 1118	calcul
+T83	etatsosy 2113 2119	calcul
+T84	etatsosy 2399 2405	calcul
+T85	etatsosy 753 759	calcul
+T86	femme 2113 2119	calcul
+T87	femme 2399 2405	calcul
+T88	femme 2239 2245	calcul
+T89	etatsosy 2239 2245	calcul
+T90	genre 0 3	Mme
+T91	age 7 13	55 ans
+A9	genre T90 féminin
+T92	origine 363 521	une nouvelle pyélonéphrite aiguë droite mais cette fois avec dilatation pyélo-calicielle et urétérale signant la présence d'un obstacle sur la voie excrétrice
+T93	issue 2787 2839	L'absence de fièvre et de douleurs lombaires droites
+A10	issue T93 guérison

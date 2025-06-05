@@ -1,0 +1,16 @@
+T9	C0019588 40 49	histamine
+#9	AnnotatorNotes T9	"C0019588", "Histamine", "Organic Chemical|Neuroreactive Substance or Biogenic Amine" ,"CHEM"
+T10	C0015230 59 75	éruption cutanée
+#10	AnnotatorNotes T10	"C0015230", "Exanthema", "Disease or Syndrome" ,"DISO"
+T11	C0033774 125 138	démangeaisons
+#11	AnnotatorNotes T11	"C0033774", "Pruritus", "Sign or Symptom" ,"DISO"
+T12	C0549386 140 160	sensation de chaleur
+#12	AnnotatorNotes T12	"C0549386", "Sensation of warmth", "Sign or Symptom" ,"DISO"
+T13	C0013404 164 185	difficulté à respirer
+#13	AnnotatorNotes T13	"C0013404", "Dyspnea", "Sign or Symptom" ,"DISO"
+T15	C0700287 195 204	rapportés
+#15	AnnotatorNotes T15	"C0700287", "Reporting", "Health Care Activity" ,"PROC"
+T44	C0240211 85 95;113 123	gonflement des lèvres
+#44	AnnotatorNotes T44	"C0240211", "Lip swelling", "Sign or Symptom", "DISO"
+T32	C0151602 85 105	gonflement du visage
+#32	AnnotatorNotes T32	"C0151602", "Facial swelling", "Finding", "DISO"

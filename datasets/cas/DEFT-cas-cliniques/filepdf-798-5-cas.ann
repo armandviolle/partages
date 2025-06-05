@@ -1,0 +1,84 @@
+T7	substance 1121 1137	immunoglobulines
+T8	examen 293 306	TDM cérébrale
+T11	anatomie 516 526	pulmonaire
+T9	examen 589 603	TDM thoracique
+T10	anatomie 593 603	thoracique
+T6	substance 890 906	immunoglobulines
+T12	sosy 143 172	détresse respiratoire fébrile
+T13	sosy 187 207	convulsions fébriles
+T14	pathologie 226 260	parésie du membre inférieur gauche
+T15	anatomie 237 260	membre inférieur gauche
+T16	anatomie 297 306	cérébrale
+T17	examen 311 328	ponction lombaire
+T18	anatomie 320 328	lombaire
+T19	examen 334 356	éléctroencéphalogramme
+T20	substance 402 415	phénobarbital
+T21	sosy 455 483	détresse respiratoire sévère
+T22	pathologie 504 526	tuberculose pulmonaire
+T23	pathologie 548 570	pneumopathie traînante
+T24	anatomie 633 651	2 lobes inférieurs
+T25	pathologie 661 690	adénopathies hilaires droites
+T26	anatomie 674 690	hilaires droites
+T27	substance 719 730	tuberculine
+T28	examen 694 730	intradermo-réaction à la tuberculine
+T30	examen 759 768	recherche
+T32	pathologie 924 966	agammaglobulinémie avec des IgG < 0,44 g/l
+T33	examen 952 955	IgG
+T34	valeur 956 966	< 0,44 g/l
+T35	examen 981 984	IgA
+T36	valeur 985 995	< 0,17 g/l
+A3	norme T36 bas
+A4	norme T34 bas
+T37	examen 1010 1013	IgM
+T38	valeur 1016 1023	0,3 g/l
+A5	norme T38 bas
+T39	examen 1041 1046	CD 19
+T40	valeur 1062 1065	12%
+A6	norme T40 normal
+T41	mode 1109 1118	perfusion
+T42	sosy 1169 1197	détresse respiratoire sévère
+T43	valeur 365 372	normaux
+A7	norme T43 normal
+T46	sosy 22 53	mariage consanguin de 1er degré
+T45	sosy 625 651	DDB des 2 lobes inférieurs
+#2	AnnotatorNotes T45	dilatation des bronches
+T1	frequence 73 93	à plusieurs reprises
+T2	moment 115 137	depuis l’âge de 3 mois
+T3	moment 270 288	à l’âge de 14 mois
+T4	moment 418 427	A 18 mois
+T5	substance 772 774	BK
+T29	substance 809 850	traitement antibacillaire schéma 2RHZ/4RH
+T31	valeur 1053 1059	normal
+T44	sosy 694 774	intradermo-réaction à la tuberculine était négative ainsi que la recherche de BK
+T47	sosy 1041 1065	CD 19 était normal à 12%
+T48	sosy 981 995	IgA < 0,17 g/l
+T49	sosy 1010 1023	IgM = 0,3 g/l
+T50	sosy 293 372	TDM cérébrale, le ponction lombaire et l’éléctroencéphalogramme étaient normaux
+T51	anatomie 152 164	respiratoire
+T52	anatomie 464 476	respiratoire
+T53	valeur 737 745	négative
+T54	anatomie 784 798	expectorations
+T55	anatomie 1178 1190	respiratoire
+A1	norme T31 normal
+T56	respiratoire 143 172	détresse respiratoire fébrile
+T57	nerveux 187 207	convulsions fébriles
+T58	nerveux 226 260	parésie du membre inférieur gauche
+T59	etatsosy 226 260	parésie du membre inférieur gauche
+T60	respiratoire 455 483	détresse respiratoire sévère
+T61	respiratoire 504 526	tuberculose pulmonaire
+T62	infections 504 526	tuberculose pulmonaire
+T63	respiratoire 548 570	pneumopathie traînante
+T64	hemopathies 661 673	adénopathies
+T65	hemopathies 924 966	agammaglobulinémie avec des IgG < 0,44 g/l
+T66	immunitaire 924 966	agammaglobulinémie avec des IgG < 0,44 g/l
+T67	respiratoire 1169 1197	détresse respiratoire sévère
+T68	genetique 143 172	détresse respiratoire fébrile
+T69	genetique 455 483	détresse respiratoire sévère
+T70	etatsosy 187 207	convulsions fébriles
+T71	respiratoire 625 651	DDB des 2 lobes inférieurs
+T72	genetique 1169 1197	détresse respiratoire sévère
+T73	genre 0 10	Noureddine
+A2	genre T73 masculin
+T74	origine 451 690	une détresse respiratoire sévère où le diagnostic de tuberculose pulmonaire a été posé devant la pneumopathie traînante, les images de la TDM thoracique qui avait montré une DDB des 2 lobes inférieurs avec des adénopathies hilaires droites
+T75	issue 1146 1152	décédé
+A8	issue T75 décès

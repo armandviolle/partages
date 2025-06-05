@@ -1,0 +1,6 @@
+T1	age 12 18	51 ans
+T2	genre 3 8	homme
+A1	genre T2 masculin
+T3	origine 265 388	un aspect non homogène à la partie inférieure de la tumeur, ainsi qu’une nouvelle masse située entre la vessie et le rectum
+T4	issue 1548 1709	Après 37 mois, le patient allait bien, sans signe de récidive : il était revu tous les 6 mois un dosage d’ACE et de CA 125, ai, ainsi que d’une tomodensitométrie
+A2	issue T4 amélioration

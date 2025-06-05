@@ -1,0 +1,35 @@
+T10061	examen 140 148	autopsie
+T10062	examen 284 304	examen toxicologique
+T10063	examen 920 928	CLHP-DBD
+T100121	substance 309 321	nitrendipine
+T1002	sosy 65 78	régurgitation
+T1003	anatomie 254 263	gastrique
+T1004	substance 619 630	chloroforme
+T1005	substance 631 642	isopropanol
+T1006	examen 604 702	extraction par chloroforme/isopropanol en milieu alcalin et acide, par Toxi-tube® A et Toxitube® B
+T1007	examen 738 830	deux screening successifs par CPG-SM (injection directe et après dérivation) et par CLHP-DBD
+T1008	examen 868 874	CPG-SM
+T1009	examen 885 893	CLHP-DBD
+T10010	substance 964 976	nitrendipine
+T2001	anatomie 213 230	sang périphérique
+T20064	examen 951 976	dosage de la nitrendipine
+T200191	examen 711 727	phase analytique
+T2004	sosy 102 119	trace de violence
+T2006	anatomie 234 239	urine
+T2005	examen 356 376	procédure analytique
+T2008	substance 452 471	toxiques organiques
+T2009	examen 429 471	recherche générale des toxiques organiques
+T20022	substance 1035 1043	composés
+T1	examen 185 263	échantillons autopsiques de sang périphérique, d'urine et de contenu gastrique
+A1	assertion T2004 absent
+#1	AnnotatorNotes T1008	Couplage chromatographie en phase gazeuse / spectrométrie de masse
+#2	AnnotatorNotes T1009	Chromatographie en phase liquide à haute performance avec détecteur à barrette de diodes
+T2	respiratoire 65 78	régurgitation
+T3	digestif 65 78	régurgitation
+T4	chimiques 309 348	nitrendipine a pu être mise en évidence
+T5	age 15 29	quinquagénaire
+T6	issue 39 43	mort
+A2	issue T6 décès
+T7	genre 39 43	mort
+A3	genre T7 masculin
+T8	origine 30 59	retrouvé mort dans sa voiture

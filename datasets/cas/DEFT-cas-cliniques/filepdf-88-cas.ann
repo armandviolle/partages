@@ -1,0 +1,6 @@
+T1	genre 0 6	Madame
+T2	age 30 36	57 ans
+T3	origine 62 80	syndrome dépressif
+A1	genre T1 féminin
+T4	issue 2325 2399	Les suites opératoires étaient simples et la patiente sortait au 7ème jour
+A2	issue T4 amélioration

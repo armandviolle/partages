@@ -1,0 +1,69 @@
+T37	anatomie 1099 1113	recto-sigmoïde
+T33	traitement 1120 1144	péritoine n'a été ouvert
+T43	examen 1166 1182	vitalité colique
+T50	age 14 20	67 ans
+T21	duree 175 191	depuis 24 heures
+T5	etatsosy 205 225	douleurs abdominales
+T15	anatomie 214 225	abdominales
+T7	etatsosy 260 272	vomissements
+T25	examen 276 282	examen
+T3	etatsosy 294 326	distension abdominale importante
+T13	anatomie 305 315	abdominale
+T45	sosy 344 386	voussure suspubienne remontant à l'ombilic
+T46	anatomie 412 419	vésical
+T39	traitement 428 435	sondage
+T8	valeur 469 474	20 ml
+T6	homme 50 70	troubles mictionnels
+T40	examen 513 527	toucher rectal
+T36	anatomie 521 527	rectal
+T29	sosy 542 552	masse dure
+T35	examen 591 633	radiographie de l'abdomen sans préparation
+T24	sosy 646 666	empierrement vésical
+T47	anatomie 659 666	vésical
+T14	anatomie 693 703	abdominale
+T1	homme 730 762	multiples calculs dans la vessie
+T42	anatomie 756 762	vessie
+T17	anatomie 790 800	bilatérale
+T75	examen 805 815	cystotomie
+T58	fonction 81 88	miction
+T49	anatomie 832 847	cavité vésicale
+T28	moment 973 985	le même jour
+T16	examen 992 1003	bilan rénal
+T38	anatomie 998 1003	rénal
+T4	genre 3 10	patient
+A1	genre T4 masculin
+T9	anatomie 353 364	suspubienne
+T10	anatomie 379 386	ombilic
+T11	examen 681 703	échographie abdominale
+T12	fonction 945 963	transit intestinal
+T19	duree 1020 1041	au bout de 2 semaines
+T20	anatomie 1120 1129	péritoine
+T22	valeur 929 940	980 grammes
+T18	homme 81 115	miction impérieuse et incontinence
+T23	etatsosy 81 115	miction impérieuse et incontinence
+T26	sosy 81 115	miction impérieuse et incontinence
+T27	sosy 145 174	arrêt des matières et des gaz
+T31	sosy 205 225	douleurs abdominales
+T32	sosy 260 272	vomissements
+T34	sosy 294 326	distension abdominale importante
+T41	sosy 406 419	globe vésical
+T44	sosy 477 508	urines concentrées et infectées
+T48	homme 646 666	empierrement vésical
+#1	AnnotatorNotes T48	obstruction vésicale
+T51	etatsosy 730 762	multiples calculs dans la vessie
+T52	sosy 730 762	multiples calculs dans la vessie
+T53	homme 768 800	uretéro-hydronéphrose bilatérale
+T54	etatsosy 864 884	multitude de calculs
+T55	valeur 901 909	3cm /4cm
+T56	sosy 832 940	cavité vésicale remplie par une multitude de calculs mesurant chacun 3cm /4cm et pesant au total 980 grammes
+T57	valeur 1010 1019	normalisé
+T59	infections 499 508	infectées
+T2	anatomie 155 163	matières
+T30	substance 171 174	gaz
+T60	anatomie 609 616	abdomen
+T61	sosy 992 1019	bilan rénal s'est normalisé
+T62	sosy 945 972	transit intestinal a repris
+T63	traitement 1073 1078	geste
+A2	assertion T63 absent
+T64	sosy 50 70	troubles mictionnels
+T65	pathologie 768 800	uretéro-hydronéphrose bilatérale

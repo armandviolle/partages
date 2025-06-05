@@ -1,0 +1,16 @@
+T9	C0012634 56 63	maladie
+#9	AnnotatorNotes T9	"C0012634", "Disease", "Disease or Syndrome" ,"DISO"
+T10	C0012634 67 71	état
+#10	AnnotatorNotes T10	"C0012634", "Disease", "Disease or Syndrome" ,"DISO"
+T11	C0184567 130 143	douleur aiguë
+#11	AnnotatorNotes T11	"C0184567", "Acute onset pain", "Sign or Symptom" ,"DISO"
+T12	C0030201 149 171	douleur postopératoire
+#12	AnnotatorNotes T12	"C0030201", "Pain, Postoperative", "Sign or Symptom" ,"DISO"
+T13	C0004604 177 186	dorsalgie
+#13	AnnotatorNotes T13	"C0004604", "Back Pain", "Sign or Symptom" ,"DISO"
+T16	C0596240 194 211	douleur de cancer
+#16	AnnotatorNotes T16	"C0596240", "Cancer pain", "Sign or Symptom" ,"DISO"
+T17	C0012634 79 86	trouble
+#17	AnnotatorNotes T17	"C0012634", "Disease", "Disease or Syndrome" ,"DISO"
+T14	C0030200 95 102;113 124	douleur réfractaire
+#14	AnnotatorNotes T14	"C0030200", "Pain, Intractable", "Sign or Symptom" ,"DISO"

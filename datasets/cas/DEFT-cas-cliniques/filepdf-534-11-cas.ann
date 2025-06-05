@@ -1,0 +1,18 @@
+T1	chimiques 139 149	alcoolémie
+T13	age 13 19	35 ans
+T6	examen 265 289	recherche de stupéfiants
+T8	substance 278 289	stupéfiants
+T9	substance 76 84	Tranxène
+T3	dose 86 91	50 mg
+T10	genre 4 9	femme
+A1	genre T10 féminin
+T2	valeur 154 162	0,81 g/1
+T4	moment 177 201	6 heures après les faits
+A2	norme T2 haut
+T11	examen 139 149	alcoolémie
+T5	dose 111 112	2
+T7	substance 113 119	bières
+T12	dose 123 125	un
+T14	substance 126 132	whisky
+T15	sosy 139 162	alcoolémie d e 0,81 g/1
+T16	substance 233 253	produits stupéfiants

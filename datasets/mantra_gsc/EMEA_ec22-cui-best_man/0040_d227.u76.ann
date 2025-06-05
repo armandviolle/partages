@@ -1,0 +1,24 @@
+T13	C1579433 22 31	insulines
+#13	AnnotatorNotes T13	"C1579433", "Insulin [EPC]", "Pharmacologic Substance" ,"CHEM"
+T14	C0021641 22 31	insulines
+#14	AnnotatorNotes T14	"C0021641", "Insulin", "Amino Acid Peptide or Protein|Pharmacologic Substance|Hormone" ,"CHEM"
+T15	C0030705 170 178	patients
+#15	AnnotatorNotes T15	"C0030705", "Patients", "Patient or Disabled Group" ,"LIVB"
+T16	C0030705 196 204	patients
+#16	AnnotatorNotes T16	"C0030705", "Patients", "Patient or Disabled Group" ,"LIVB"
+T17	C0537270 122 138	insuline détémir
+#17	AnnotatorNotes T17	"C0537270", "insulin detemir", "Amino Acid Peptide or Protein|Pharmacologic Substance|Hormone" ,"CHEM"
+T18	C0001792 179 183	âgés
+#18	AnnotatorNotes T18	"C0001792", "Elderly (population group)", "Population Group" ,"LIVB"
+T19	C1999167 179 183	âgés
+#19	AnnotatorNotes T19	"C1999167", "Old age", "Finding" ,"DISO"
+T20	C0202048 69 88	contrôle glycémique
+#20	AnnotatorNotes T20	"C0202048", "Glucose measurement by monitoring device", "Laboratory Procedure" ,"PROC"
+T22	C0237401 148 160	individuelle
+#22	AnnotatorNotes T22	"C0237401", "Individual", "Human" ,"LIVB"
+T23	C0027361 148 160	individuelle
+#23	AnnotatorNotes T23	"C0027361", "Persons", "Population Group" ,"LIVB"
+T24	C0948807 205 225;236 246	atteints de troubles hépatiques
+#24	AnnotatorNotes T24	"C0948807", "Hepatic impairment", "Disease or Syndrome" ,"DISO"
+T25	C0341697 205 232	atteints de troubles rénaux
+#25	AnnotatorNotes T25	"C0341697", "Renal impairment", "Disease or Syndrome" ,"DISO"

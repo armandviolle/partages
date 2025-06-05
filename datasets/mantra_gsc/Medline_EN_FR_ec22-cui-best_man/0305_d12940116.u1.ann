@@ -1,0 +1,4 @@
+T1	C0679699 0 21	Prévention secondaire
+#1	AnnotatorNotes T1	"C0679699", "Secondary Prevention", "Therapeutic or Preventive Procedure" ,"PROC"
+T2	C0010055 67 103	chirurgie de pontage aorto-coronaire
+#2	AnnotatorNotes T2	"C0010055", "Coronary Artery Bypass Surgery", "Therapeutic or Preventive Procedure" ,"PROC"

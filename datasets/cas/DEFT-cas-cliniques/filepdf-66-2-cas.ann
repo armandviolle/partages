@@ -1,0 +1,6 @@
+T1	genre 0 3	Mme
+T2	age 16 22	64 ans
+A1	genre T1 féminin
+T3	origine 178 227	une hématurie responsable d’un choc hypovolémique
+T4	issue 2804 2905	Mme V. se porte bien à la fois sur le plan vasculaire et urologique et sa fonction rénale est normale
+A2	issue T4 guérison

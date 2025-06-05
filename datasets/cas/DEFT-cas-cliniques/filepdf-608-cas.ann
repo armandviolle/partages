@@ -1,0 +1,6 @@
+T1	age 18 24	24 ans
+T2	genre 9 14	homme
+A1	genre T2 masculin
+T3	origine 100 192	'importants troubles de la conscience, un myosis bilatéral serré et des pauses respiratoires
+T4	issue 369 436	L'évolution sous monitoring en service de Réanimation est favorable
+A2	issue T4 amélioration

@@ -1,0 +1,67 @@
+T10	examen 244 258	toucher rectal
+T12	anatomie 252 258	rectal
+T11	examen 324 335	échographie
+T9	examen 778 805	examen anatomo-pathologique
+T14	anatomie 785 805	anatomo-pathologique
+T2	pathologie 59 66	myélome
+T3	pathologie 72 95	polyarthrite rhumatoïde
+T4	pathologie 104 129	amylose rectale et rénale
+T5	anatomie 112 119	rectale
+T13	anatomie 123 129	rénale
+T15	sosy 205 239	épisode de rétention aiguë d’urine
+T16	anatomie 263 271	prostate
+T17	sosy 365 422	hypertrophie prostatique de 45 grammes, d'aspect homogène
+T18	anatomie 378 389	prostatique
+T19	sosy 439 482	multiples lésions endo-vésicales polypoïdes
+T20	anatomie 457 471	endo-vésicales
+T21	traitement 488 560	résection endoscopique de la prostate et de toutes les lésions vésicales
+T22	anatomie 517 525	prostate
+T23	sosy 543 560	lésions vésicales
+T24	anatomie 551 560	vésicales
+T25	sosy 673 775	lésions vésicales étaient diffuses à toute la paroi vésicale, rouges, et avaient la forme de “boules”.
+T26	anatomie 681 690	vésicales
+T27	pathologie 821 852	amylose prostatique et vésicale
+T28	anatomie 829 840	prostatique
+T29	anatomie 844 852	vésicale
+T30	sosy 872 922	dépôts amyloïdes péri-vasculaires et interstitiels
+T31	anatomie 889 905	péri-vasculaires
+T32	anatomie 909 922	interstitiels
+T33	pathologie 977 1044	amylose de type AL avec absence de marquage par l’anticorps anti-AA
+T35	moment 1112 1128	4 mois plus tard
+T36	valeur 308 318	40 grammes
+T40	duree 35 50	depuis cinq ans
+T41	sosy 158 186	troubles mictionnels anciens
+A3	assertion T41 absent
+T44	valeur 393 403	45 grammes
+T47	anatomie 599 616	tissu prostatique
+T37	anatomie 719 733	paroi vésicale
+T48	examen 926 944	immuno-histochimie
+T6	sosy 263 318	prostate était souple et homogène, évaluée à 40 grammes
+T7	sosy 599 667	tissu prostatique était d'aspect identique à du tissu adénomyomateux
+T1	sosy 1133 1161	complications de son myélome
+T8	examen 577 594	Macroscopiquement
+T34	immunitaire 59 66	myélome
+T38	hemopathies 59 66	myélome
+T39	tumeur 59 66	myélome
+T42	immunitaire 72 95	polyarthrite rhumatoïde
+T43	peau 72 95	polyarthrite rhumatoïde
+T45	osteomusculaires 72 95	polyarthrite rhumatoïde
+T49	homme 205 239	épisode de rétention aiguë d’urine
+T50	nutritionnelles 104 129	amylose rectale et rénale
+T51	digestif 104 129	amylose rectale et rénale
+T52	homme 821 852	amylose prostatique et vésicale
+T53	nutritionnelles 821 852	amylose prostatique et vésicale
+T54	immunitaire 977 995	amylose de type AL
+T55	nutritionnelles 977 995	amylose de type AL
+T56	tumeur 977 995	amylose de type AL
+T57	tumeur 1154 1161	myélome
+T58	immunitaire 1154 1161	myélome
+T59	hemopathies 1154 1161	myélome
+T60	tumeur 872 888	dépôts amyloïdes
+T61	nutritionnelles 872 888	dépôts amyloïdes
+T46	age 15 21	70 ans
+T62	genre 1093 1100	patient
+A1	genre T62 masculin
+T63	issue 1105 1111	décédé
+A2	issue T63 décès
+T64	origine 205 239	épisode de rétention aiguë d’urine

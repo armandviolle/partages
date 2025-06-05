@@ -1,0 +1,145 @@
+T1001	anatomie 226 236	artérielle
+T1002	anatomie 511 519	urinaire
+T1003	anatomie 523 531	vaginale
+T1005	anatomie 859 879	centro-rénale gauche
+T1006	anatomie 1080 1129	paroi postérieure et latérale gauche de la vessie
+T1007	anatomie 2383 2390	rectale
+T1009	anatomie 3268 3275	muqueux
+T10051	duree 344 360	plusieurs années
+T10061	examen 673 704	examen microscopique des urines
+T10062	examen 749 781	bilan échographique reins-vessie
+T10063	examen 798 803	bilan
+T10064	examen 1000 1007	scanner
+T10069	examen 2183 2207	urographie intraveineuse
+T10073	examen 2993 3013	analyse histologique
+T100101	mode 1550 1567	voie endoscopique
+T100143	traitement 3433 3461	résection à but hémostatique
+T100161	valeur 808 814	normal
+T100192	pathologie 278 293	fièvre typhoïde
+T100194	sosy 501 531	infection urinaire et vaginale
+T100195	sosy 615 638	hématurie microscopique
+T100196	sosy 570 593	hématurie microscopique
+T100197	sosy 1144 1157	calcification
+T100198	sosy 1334 1341	lésions
+T100201	sosy 2102 2117	myélome occulte
+T100203	sosy 2553 2592	prolifération plasmocytaire monoclonale
+T100205	sosy 2721 2792	récidive plurifocale, relativement importante, des plaques d’amyloïdose
+T100209	sosy 2952 2989	lésions ailleurs sur l’arbre urinaire
+T100210	sosy 3150 3206	épisode d’hématurie macroscopique spontanément résolutif
+T100212	sosy 3298 3331	épisode d’hématurie macroscopique
+T10010	sosy 114 123	hématurie
+T10012	substance 249 256	Sotalol
+T10013	pathologie 262 272	hépatite A
+T10015	valeur 712 743	10-15 globules rouges par champ
+T10016	anatomie 769 774	reins
+T10019	sosy 1059 1129	épaississement de la paroi postérieure et latérale gauche de la vessie
+T10020	sosy 1203 1328	plusieurs formations de taille centimétrique d’aspect tantôt polypoide tantôt prenant la forme de petits nodules sous muqueux
+T10021	sosy 1635 1733	dépôts de matériel amyloïde formant des masses fréquemment entourées d’une réaction granulomateuse
+T10022	examen 1765 1833	coloration verdâtre au rouge Congo après examen en lumière polarisée
+T10025	pathologie 2435 2454	amyloïdose primaire
+T10026	pathologie 2482 2492	amyloïdose
+T10029	examen 3352 3376	exploration endoscopique
+T2008	anatomie 2567 2580	plasmocytaire
+T20065	examen 975 995	contrôle par scanner
+T20066	examen 1175 1186	cystoscopie
+T20067	examen 1571 1614	analyse histologique et immunohistochimique
+T20068	examen 1837 1844	analyse
+T20070	examen 2230 2249	bilan cardiologique
+T20071	examen 2375 2390	biopsie rectale
+T20072	examen 2687 2706	examen endoscopique
+T200141	traitement 178 207	hystérectomie radicale totale
+T200142	traitement 1496 1511	exérèse-biopsie
+T200181	pathologie 2353 2370	amylose cardiaque
+T200191	sosy 213 236	hypertension artérielle
+T200193	sosy 307 326	multiples allergies
+T200202	sosy 2143 2179	autres localisations de l’amyloïdose
+T200204	sosy 2637 2672	récidive d’hématurie, macroscopique
+T200207	sosy 2798 2805	lésions
+T200208	sosy 2915 2923	récidive
+T200211	sosy 3260 3275	nodules muqueux
+T200213	sosy 3382 3389	lésions
+T20013	pathologie 162 172	salpingite
+T20015	sosy 375 381	fumait
+T20016	frequence 424 432	par jour
+T20019	substance 544 556	Itraconazole
+T20020	examen 651 668	visite urologique
+T20022	sosy 673 743	examen microscopique des urines montre 10-15 globules rouges par champ
+T20024	sosy 841 879	zone hypoéchogène centro-rénale gauche
+T20025	sosy 914 950	hypertrophie d’une colonne de Bertin
+T20026	anatomie 933 950	colonne de Bertin
+T20029	anatomie 1316 1328	sous muqueux
+T20030	sosy 1370 1385	nature tumorale
+T20039	sosy 1419 1455	origine infectieuse ou inflammatoire
+T20043	examen 2023 2032	chaînes λ
+T20044	sosy 1877 2032	dépôts sont composés des protéines type AL et réagissent très positivement pour les chaînes légères d’immunoglobulines κ et négativement pour les chaînes λ
+T20045	examen 2054 2067	investigation
+T20046	mode 2194 2207	intraveineuse
+T20047	valeur 2218 2225	normale
+T20048	sosy 2183 2225	urographie intraveineuse se révèle normale
+T20049	anatomie 2236 2249	cardiologique
+T20050	anatomie 2361 2370	cardiaque
+T20054	mode 2838 2855	voie endoscopique
+T20055	traitement 2798 2855	lésions sont réséquées et coagulées par voie endoscopique
+T20056	anatomie 2975 2989	arbre urinaire
+T20057	examen 3070 3091	prélèvement antérieur
+T20058	examen 3210 3228	image endoscopique
+T20060	dose 397 409	deux paquets
+T20063	substance 413 423	cigarettes
+T20023	anatomie 775 781	vessie
+T20074	valeur 1227 1247	taille centimétrique
+T1	date 2265 2277	février 2002
+T2	date 2598 2610	janvier 2002
+T3	date 3105 3114	mars 2002
+T4	date 3281 3293	juillet 2002
+T5	date 3405 3414	mars 2002
+T6	date 1535 1544	août 2001
+T7	date 85 94	juin 2001
+T8	examen 1961 1997	chaînes légères d’immunoglobulines κ
+T9	valeur 1934 1951	très positivement
+T10	valeur 2001 2013	négativement
+A1	norme T100161 normal
+A2	norme T20047 normal
+A3	etat T20013 passé
+A4	etat T10013 passé
+A5	etat T100192 passé
+T11	moment 435 469	Peu avant la première consultation
+T12	anatomie 698 704	urines
+T13	sosy 798 814	bilan est normal
+A6	assertion T20025 hypothétique
+A7	assertion T20030 possible
+A8	assertion T20039 possible
+A9	assertion T100201 hypothétique
+A10	assertion T200202 hypothétique
+A11	assertion T200181 absent
+A12	assertion T20071 absent
+A13	assertion T100209 absent
+T200215	cardiovasculaires 213 236	hypertension artérielle
+T200216	infections 501 531	infection urinaire et vaginale
+T200218	etatsosy 570 593	hématurie microscopique
+T200219	etatsosy 615 638	hématurie microscopique
+T200220	etatsosy 2648 2657	hématurie
+T200221	etatsosy 3160 3183	hématurie macroscopique
+T200222	etatsosy 3308 3331	hématurie macroscopique
+T14	femme 114 123	hématurie
+T15	etatsosy 114 123	hématurie
+T16	femme 162 172	salpingite
+T17	virales 262 272	hépatite A
+T18	digestif 262 272	hépatite A
+T19	infections 278 293	fièvre typhoïde
+T20	immunitaire 307 326	multiples allergies
+T21	chimiques 375 381	fumait
+T22	femme 501 531	infection urinaire et vaginale
+T23	femme 570 593	hématurie microscopique
+T24	femme 615 638	hématurie microscopique
+T25	nutritionnelles 2435 2454	amyloïdose primaire
+T26	nutritionnelles 2482 2492	amyloïdose
+T27	femme 2648 2657	hématurie
+T28	nutritionnelles 2782 2792	amyloïdose
+T31	femme 3160 3183	hématurie macroscopique
+T32	femme 3308 3331	hématurie macroscopique
+T29	age 25 31	56 ans
+T30	genre 16 21	femme
+A14	genre T30 féminin
+T33	origine 100 123	un problème d’hématurie
+T34	issue 3378 3484	Les lésions objectivées en mars 2002 sont stables. Une résection à but hémostatique est cependant réalisée
+A15	issue T34 stable

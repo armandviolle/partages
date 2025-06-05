@@ -1,0 +1,40 @@
+T7	examen 140 151	échographie
+T5	examen 413 433	biopsie extemporanée
+T8	examen 547 567	analyse histologique
+T6	examen 74 80	examen
+T9	anatomie 51 67	testicule gauche
+T10	sosy 33 67	induration de son testicule gauche
+T11	sosy 97 133	lésion testiculaire dure et indolore
+T12	anatomie 104 116	testiculaire
+T15	sosy 168 281	tumeur intra-testiculaire, arrondie, hyperéchogène en périphérie, isoéchogène en son centre et mesurant 12 x 10mm
+T16	anatomie 175 193	intra-testiculaire
+T18	traitement 395 407	tumorectomie
+T19	traitement 466 492	clampage premier du cordon
+T20	anatomie 486 492	cordon
+T21	sosy 497 524	nature bénigne de la lésion
+T22	sosy 600 623	kyste épidermoïde isolé
+T23	anatomie 606 617	épidermoïde
+T25	anatomie 674 683	testicule
+T28	examen 629 646	contrôle clinique
+T29	valeur 326 333	normaux
+T31	examen 356 370	échographiques
+T33	examen 299 317	marqueurs tumoraux
+T27	examen 650 662	paraclinique
+T34	valeur 690 696	normal
+A3	norme T34 normal
+T35	valeur 272 281	12 x 10mm
+T1	sosy 299 333	marqueurs tumoraux étaient normaux
+T3	moment 665 670	2 ans
+T4	sosy 629 696	contrôle clinique et paraclinique à 2 ans du testicule était normal
+T13	traitement 439 444	geste
+A1	norme T29 normal
+T2	blessures 97 133	lésion testiculaire dure et indolore
+T14	tumeur 168 193	tumeur intra-testiculaire
+T17	homme 168 193	tumeur intra-testiculaire
+T24	tumeur 600 623	kyste épidermoïde isolé
+T26	age 10 16	32 ans
+T30	genre 51 60	testicule
+A2	genre T30 masculin
+T32	origine 33 67	induration de son testicule gauche
+T36	issue 626 696	Le contrôle clinique et paraclinique à 2 ans du testicule était normal
+A4	issue T36 guérison

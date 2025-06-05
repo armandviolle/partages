@@ -1,0 +1,6 @@
+T1	genre 0 3	Mme
+T2	age 17 23	48 ans
+T3	origine 64 107	prise en charge d’une défaillance cardiaque
+A1	genre T1 féminin
+T4	issue 2426 2541	L’évolution à une semaine était marquée par la disparition des signes périphériques de défaillance cardiaque droite
+A2	issue T4 amélioration

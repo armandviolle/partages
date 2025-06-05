@@ -1,0 +1,8 @@
+T5	C0012634 119 126	maladie
+#5	AnnotatorNotes T5	"C0012634", "Disease", "Disease or Syndrome" ,"DISO"
+T6	C0030193 157 164	douleur
+#6	AnnotatorNotes T6	"C0030193", "Pain", "Sign or Symptom" ,"DISO"
+T7	C0013227 0 26	Composition pharmaceutique
+#7	AnnotatorNotes T7	"C0013227", "Pharmaceutical Preparations", "Pharmacologic Substance" ,"CHEM"
+T1	C0221423 132 149	état pathologique
+#1	AnnotatorNotes T1	"C0221423", "Illness (finding)", "Finding", "DISO"

@@ -1,0 +1,70 @@
+T53	substance 1036 1052	fluoroquinolones
+T11	sosy 1108 1116	apyrexie
+T68	traitement 1138 1159	drainage a été retiré
+T4	date 108 120	Février 1997
+T7	examen 1182 1194	contrôle TDM
+T27	valeur 1195 1201	normal
+T46	moment 1236 1265	au 10ème jour post-opératoire
+T10	substance 1291 1306	antibiothérapie
+T1	immunitaire 16 26	diabétique
+T8	substance 169 184	antibiothérapie
+T44	etatsosy 209 223	fébrile à 39°C
+T47	temperature 219 223	39°C
+T21	examen 233 248	examen clinique
+T12	duree 27 40	depuis 11 ans
+T22	anatomie 274 286	flanc gauche
+T13	examen 316 332	bilan biologique
+T5	valeur 362 371	22 mmol/l
+T18	examen 377 390	créatininémie
+T6	valeur 393 403	120 mmol/L
+T2	etatsosy 411 427	hyperleucocytose
+T20	valeur 430 449	15 000 éléments/mm3
+T41	examen 455 465	uroscanner
+T30	anatomie 517 540	parenchyme rénal gauche
+T15	anatomie 568 582	capsule rénale
+T42	sosy 684 705	état général conservé
+T3	sosy 722 755	lésions parenchymateuses étendues
+T28	anatomie 730 746	parenchymateuses
+T67	traitement 760 778	drainage percutané
+T17	examen 798 826	contrôle tomodensitométrique
+T55	age 8 14	48 ans
+T36	traitement 844 855	réanimation
+T9	substance 871 893	triple antibiothérapie
+T33	sosy 951 954	pus
+A4	norme T20 haut
+A2	norme T47 haut
+A1	norme T5 haut
+A3	norme T6 haut
+T23	endocriniennes 16 26	diabétique
+T26	substance 58 84	sulfamides hypoglycémiants
+T29	moment 151 166	Après 48 heures
+T24	valeur 942 947	70 mL
+T25	substance 901 917	insulinothérapie
+T34	genre 189 197	patiente
+A5	genre T34 féminin
+T16	moment 1117 1133	à la 48ème heure
+T35	moment 1160 1172	au 8ème jour
+T32	substance 1271 1287	insulinothérapie
+T19	duree 1307 1328	pendant deux semaines
+T31	sosy 491 582	présence d’air au sein du parenchyme rénal gauche, décollant par endroits la capsule rénale
+A6	assertion T3 absent
+T37	femme 130 149	pyélonéphrite aiguë
+T38	etatsosy 293 310	météorisme diffus
+T39	sosy 253 286	défense au niveau du flanc gauche
+T14	nutritionnelles 346 359	hyperglycémie
+T40	hemopathies 411 427	hyperleucocytose
+T43	femme 602 630	pyélonéphrite emphysémateuse
+T45	etatsosy 602 630	pyélonéphrite emphysémateuse
+T48	infections 992 1022	présence d’un sscherichia coli
+T49	sosy 293 310	météorisme diffus
+T50	infections 951 954	pus
+T51	sosy 209 223	fébrile à 39°C
+T52	sosy 346 371	hyperglycémie à 22 mmol/l
+T54	sosy 377 403	créatininémie à 120 mmol/L
+T56	sosy 411 449	hyperleucocytose à 15 000 éléments/mm3
+T57	traitement 934 954	drainer 70 mL de pus
+T58	organisme 1006 1022	sscherichia coli
+T59	pathologie 23 24	q
+T60	pathologie 130 149	pyélonéphrite aiguë
+T61	pathologie 602 630	pyélonéphrite emphysémateuse
+T62	sosy 992 1022	présence d’un sscherichia coli

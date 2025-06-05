@@ -1,0 +1,4 @@
+T1	C0199176 3 14	prophylaxie
+#1	AnnotatorNotes T1	"C0199176", "Prophylactic treatment", "Therapeutic or Preventive Procedure" ,"PROC"
+T2	C0011849 18 31	diabète sucré
+#2	AnnotatorNotes T2	"C0011849", "Diabetes Mellitus", "Disease or Syndrome" ,"DISO"

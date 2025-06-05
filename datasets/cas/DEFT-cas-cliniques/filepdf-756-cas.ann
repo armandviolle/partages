@@ -1,0 +1,411 @@
+T3	moment 72 81	au jour 1
+T4	pathologie 129 142	hypothyroïdie
+A1	etat T4 passé
+T5	duree 143 165	depuis l’âge de 20 ans
+T6	pathologie 184 214	thromboses veineuses profondes
+A2	etat T6 passé
+T7	frequence 215 243	à répétition (cinq reprises)
+T8	anatomie 195 204	veineuses
+T9	pathologie 250 278	arthrose au dos et aux mains
+A3	etat T9 passé
+T10	anatomie 262 265	dos
+T11	anatomie 273 278	mains
+T12	traitement 296 309	hystérectomie
+T13	traitement 315 356	chirurgie de dérivation biliopancréatique
+T14	moment 357 373	six ans plus tôt
+T15	traitement 381 393	septoplastie
+T16	pathologie 399 414	polypose nasale
+T17	anatomie 408 414	nasale
+T18	anatomie 339 356	biliopancréatique
+T19	sosy 424 428	fume
+A4	assertion T19 absent
+T20	substance 448 454	alcool
+T21	frequence 455 472	occasionnellement
+T22	sosy 480 533	allergique aux chats, aux graminées et à la poussière
+T23	sosy 558 584	allergie à des médicaments
+A5	assertion T23 absent
+T24	substance 573 584	médicaments
+T25	substance 611 636	traitements médicamenteux
+T26	moment 711 720	au jour 1
+T27	substance 725 743	médication usuelle
+T28	moment 766 796	au moment de l’hospitalisation
+T29	substance 833 843	médication
+T30	substance 981 990	Warfarine
+T31	dose 991 995	5 mg
+T32	duree 1006 1016	Long terme
+T33	examen 1002 1005	RNI
+T34	substance 1017 1031	Quinine 300 mg
+T35	substance 1064 1086	Sulfate ferreux 300 mg
+T36	substance 1144 1171	Carbonate de calcium 500 mg
+T37	substance 1228 1248	Vitamine B12 1000 μg
+T38	substance 1305 1319	Multivitamines
+T39	substance 1376 1401	Lactobacilles 6 milliards
+T40	substance 1439 1459	Vitamine D 50 000 UI
+T41	substance 1515 1538	Docusate sodique 100 mg
+T42	substance 1572 1592	Vitamine A 10 000 UI
+T43	substance 1649 1659	Mométasone
+T44	substance 1722 1739	Salbutamol 100 μg
+T45	substance 1783 1801	Fluticasone 250 μg
+T46	dose 1802 1807	2 inh
+T47	dose 1740 1745	2 inh
+T48	dose 1660 1665	2 inh
+T49	dose 1593 1603	3 capsules
+T50	dose 1539 1549	2 capsules
+T51	dose 1460 1469	1 capsule
+T52	dose 1402 1411	1 capsule
+T53	dose 1320 1330	1 comprimé
+T54	dose 1249 1259	½ comprimé
+T55	dose 1172 1182	1 comprimé
+T56	dose 1087 1098	2 comprimés
+T57	dose 1032 1041	1 capsule
+T58	moment 1042 1052	au coucher
+T59	duree 1053 1063	Long terme
+T60	frequence 1099 1114	2 fois par jour
+T61	traitement 1122 1143	chirurgie bariatrique
+T62	duree 1115 1143	Depuis chirurgie bariatrique
+T63	frequence 1183 1198	3 fois par jour
+T64	traitement 1206 1227	chirurgie bariatrique
+T65	duree 1199 1227	Depuis chirurgie bariatrique
+T66	frequence 1260 1275	1 fois par jour
+T67	traitement 1283 1304	chirurgie bariatrique
+T68	duree 1276 1304	Depuis chirurgie bariatrique
+T69	frequence 1331 1346	1 fois par jour
+T70	traitement 1354 1375	chirurgie bariatrique
+T71	duree 1347 1375	Depuis chirurgie bariatrique
+T72	frequence 1412 1427	4 fois par jour
+T73	duree 1428 1438	Long terme
+T74	frequence 1470 1485	2 fois par jour
+T75	traitement 1493 1514	chirurgie bariatrique
+T76	duree 1486 1514	Depuis chirurgie bariatrique
+T77	moment 1550 1560	au coucher
+T78	duree 1561 1571	Long terme
+T79	frequence 1604 1619	2 fois par jour
+T80	traitement 1627 1648	chirurgie bariatrique
+T81	duree 1620 1648	Depuis chirurgie bariatrique
+T82	mode 1666 1684	dans chaque narine
+T83	frequence 1685 1700	2 fois par jour
+T84	frequence 1701 1710	au besoin
+T85	duree 1711 1721	Long terme
+T86	frequence 1746 1761	4 fois par jour
+T87	frequence 1762 1771	au besoin
+T88	duree 1772 1782	Long terme
+T89	frequence 1808 1823	2 fois par jour
+T90	duree 1824 1834	Long terme
+T91	duree 1973 1995	depuis environ un mois
+T92	sosy 2013 2070	oppression thoracique continuelle sous forme de serrement
+T93	anatomie 2024 2034	thoracique
+T94	sosy 2103 2124	douleur rétrosternale
+A6	assertion T94 absent
+T95	sosy 2128 2140	palpitations
+A7	assertion T95 absent
+T96	anatomie 2111 2124	rétrosternale
+T97	sosy 2153 2178	légère dyspnée subjective
+T98	pathologie 2209 2218	orthopnée
+A8	assertion T98 absent
+T99	sosy 2225 2254	dyspnée paroxystique nocturne
+A9	assertion T99 absent
+T100	sosy 2283 2348	œdème des membres inférieurs, plus important à gauche qu’à droite
+T101	anatomie 2293 2311	membres inférieurs
+T102	anatomie 2330 2336	gauche
+T103	anatomie 2342 2348	droite
+T104	sosy 2354 2359	œdème
+T105	duree 2413 2429	depuis le voyage
+T106	sosy 2404 2412	augmenté
+T107	sosy 2448 2494	accroissement de la fatigue et de la faiblesse
+T108	sosy 2500 2512	constipation
+T109	duree 2513 2527	de longue date
+T110	duree 2534 2560	depuis le retour du voyage
+T111	sosy 2566 2607	selles sont plus abondantes et plus pâles
+T112	examen 2612 2637	test de réflexe tendineux
+T113	anatomie 2628 2637	tendineux
+T114	sosy 2649 2665	réponse retardée
+T115	examen 2670 2685	bilan hépatique
+T116	anatomie 2676 2685	hépatique
+T117	sosy 2670 2723	bilan hépatique demandé se révèle légèrement perturbé
+T118	examen 2820 2842	recherche d’hépatite A
+T119	pathologie 2832 2842	hépatite A
+A10	assertion T119 absent
+T120	pathologie 2904 2917	hypothyroïdie
+A11	etat T120 passé
+T121	sosy 2973 3013	fluctuations de la fonction thyroïdienne
+T122	anatomie 3001 3013	thyroïdienne
+T123	examen 2992 3013	fonction thyroïdienne
+T124	examen 3029 3044	bilan hépatique
+T125	anatomie 3035 3044	hépatique
+T126	examen 3060 3063	AST
+T127	examen 3065 3068	ALT
+T128	examen 3070 3073	LDH
+T129	examen 3077 3079	CK
+T130	examen 3096 3107	taux de TSH
+T131	examen 3213 3216	TSH
+T133	valeur 3246 3257	57, 87 mU/L
+T134	sosy 3213 3257	TSH s’avère anormalement élevée (57, 87 mU/L
+T135	sosy 3308 3348	élévation du taux des enzymes hépatiques
+T136	anatomie 3338 3348	hépatiques
+T137	pathologie 3371 3384	hypothyroïdie
+T138	examen 3456 3458	T4
+T139	valeur 3481 3489	normales
+T140	valeur 3491 3502	15,2 pmol/L
+T141	sosy 3456 3502	T4 qui se situe dans les normales (15,2 pmol/L
+T142	examen 3525 3540	dosage de la T3
+T143	valeur 3585 3596	0,98 nmol/L
+T144	sosy 3585 3631	0,98 nmol/L est inférieur aux valeurs normales
+T145	pathologie 3690 3703	hypothyroïdie
+A12	assertion T145 hypothétique
+A13	assertion T137 hypothétique
+T146	sosy 3719 3774	diminution de la conversion périphérique de la T4 en T3
+T147	examen 3766 3768	T4
+T148	examen 3772 3774	T3
+T149	moment 3787 3796	Au jour 2
+T150	substance 3832 3845	lévothyroxine
+T151	substance 3869 3881	liothyronine
+T152	substance 3886 3903	analogue de la T3
+T153	dose 3917 3922	50 µg
+T154	frequence 3923 3940	une fois par jour
+T155	moment 3943 3954	À ce moment
+T156	substance 4054 4065	chloroquine
+T157	substance 4178 4217	traitement prophylactique de la malaria
+T158	substance 4250 4261	prophylaxie
+T159	moment 4275 4285	au jour 16
+T160	duree 4325 4333	42 jours
+T161	substance 4347 4357	médicament
+T162	substance 4092 4102	médicament
+T163	substance 3850 3858	thérapie
+T164	substance 4426 4436	médication
+T165	substance 4466 4476	médication
+T166	traitement 4487 4529	chirurgie de dérivation bilio-pancréatique
+T167	anatomie 4511 4529	bilio-pancréatique
+T168	duree 4477 4529	depuis la chirurgie de dérivation bilio-pancréatique
+T169	moment 4544 4562	six ans auparavant
+T170	moment 4565 4574	Au jour 3
+T171	examen 4669 4706	autres tests de fonction thyroïdienne
+T172	anatomie 4694 4706	thyroïdienne
+T173	examen 4729 4732	RNI
+T174	moment 4707 4732	lors de ses prochains RNI
+T175	sosy 4773 4813	déséquilibre de la fonction thyroïdienne
+T176	examen 4792 4813	fonction thyroïdienne
+T177	anatomie 4801 4813	thyroïdienne
+T178	examen 4819 4824	tests
+T179	moment 4851 4865	au jour 7 et 9
+T180	moment 4962 4972	au jour 13
+T181	moment 5001 5011	au jour 13
+T182	sosy 5015 5057	état général de la patiente s’est amélioré
+T183	sosy 5082 5096	moins fatiguée
+T184	sosy 5105 5115	dort mieux
+T185	examen 5129 5134	poids
+T186	valeur 5164 5169	73 kg
+T187	moment 5170 5179	au jour 1
+T188	valeur 5203 5208	70 kg
+T189	moment 5190 5200	maintenant
+T190	examen 5236 5260	résultats de laboratoire
+T191	dose 5276 5280	dose
+T192	substance 5284 5296	liothyronine
+T193	dose 5299 5304	25 µg
+A14	changement T193 diminution
+T194	frequence 5305 5322	une fois par jour
+T195	moment 5355 5365	au jour 22
+T196	examen 5369 5382	état clinique
+T197	sosy 5369 5412	état clinique de la patiente s’est amélioré
+T198	sosy 5219 5260	amélioration des résultats de laboratoire
+T199	examen 5461 5486	test de réflexe tendineux
+T200	anatomie 5477 5486	tendineux
+T202	sosy 5450 5503	réponse au test de réflexe tendineux s’est normalisée
+T203	examen 5538 5543	poids
+T204	valeur 5562 5575	environ 64 kg
+T205	sosy 5517 5575	continue à perdre du poids et se stabilise à environ 64 kg
+T206	examen 5580 5583	TSH
+T207	sosy 5580 5604	TSH est en légère hausse
+T208	substance 5672 5684	liothyronine
+T209	dose 5659 5665	dosage
+A15	changement T209 diminution
+T210	dose 5688 5693	50 µg
+T211	dose 5696 5701	25 µg
+A16	changement T211 diminution
+T212	examen 5731 5754	valeurs de laboratoires
+T213	substance 5779 5802	médication thyroïdienne
+T214	anatomie 5790 5802	thyroïdienne
+T215	examen 5810 5813	TSH
+T216	examen 5814 5816	T4
+T217	examen 5817 5819	T3
+T218	examen 5820 5823	AST
+T219	examen 5824 5827	ALT
+T220	examen 5828 5830	CK
+T221	examen 5831 5834	LDH
+T222	examen 5835 5845	Bilirubine
+T224	substance 5994 6005	Chloroquine
+T225	substance 6006 6018	Liothyronine
+T226	substance 6019 6032	Lévothyroxine
+T227	moment 6033 6041	Jour -24
+T228	moment 6099 6105	Jour 1
+T229	moment 6149 6155	Jour 2
+T230	moment 6205 6211	Jour 7
+T231	moment 6253 6259	Jour 9
+T232	moment 6300 6307	Jour 13
+T233	moment 6348 6355	Jour 16
+T234	moment 6398 6405	Jour 18
+T235	moment 6451 6458	Jour 32
+T236	moment 6500 6507	Jour 45
+T237	moment 6539 6546	Jour 53
+T238	moment 6588 6595	Jour 81
+T239	moment 6636 6643	Jour 91
+T240	moment 6673 6681	Jour 101
+T241	dose 6064 6070	500 mg
+T242	frequence 6071 6089	1 fois par semaine
+T243	dose 6092 6098	0,3 mg
+T244	dose 6142 6148	0,3 mg
+T245	dose 6192 6197	50 μg
+T246	dose 6198 6204	0,4 mg
+T247	dose 6240 6245	25 μg
+T248	dose 6246 6252	0,4 mg
+T249	dose 6287 6292	25 μg
+T250	dose 6335 6340	25 μg
+T251	dose 6385 6390	25 μg
+T252	dose 6438 6443	25 μg
+T253	dose 6487 6492	25 μg
+T254	dose 6526 6531	25 μg
+T255	dose 6575 6580	25 μg
+T256	dose 6623 6628	25 μg
+T257	dose 6666 6672	0,4 mg
+T258	dose 6293 6299	0,4 mg
+T259	dose 6341 6347	0,4 mg
+T260	dose 6391 6397	0,4 mg
+T261	dose 6444 6450	0,4 mg
+T262	dose 6493 6499	0,4 mg
+T263	dose 6532 6538	0,4 mg
+T264	dose 6581 6587	0,4 mg
+T265	dose 6629 6635	0,4 mg
+T266	valeur 6106 6111	57,87
+T267	valeur 6112 6116	15,2
+T268	valeur 6135 6137	12
+T269	valeur 6131 6134	409
+T270	valeur 6127 6130	265
+T271	valeur 6123 6126	211
+T272	valeur 6119 6122	171
+T273	valeur 6156 6161	83,00
+T274	valeur 6162 6166	14,6
+T275	valeur 6167 6171	0,98
+T276	valeur 6172 6174	99
+T277	valeur 6175 6178	168
+T278	valeur 6179 6182	187
+T279	valeur 6183 6186	306
+T280	valeur 6187 6189	10
+T281	valeur 6212 6217	10,50
+T282	valeur 6218 6222	13,7
+T283	valeur 6223 6227	1,30
+T284	valeur 6260 6264	6,83
+T285	valeur 6265 6269	14,1
+T286	valeur 6270 6274	1,85
+T287	valeur 6308 6312	4,16
+T288	valeur 6313 6317	14,8
+T289	valeur 6318 6322	2,02
+T290	valeur 6356 6359	5,3
+T291	valeur 6361 6365	14,8
+T292	valeur 6366 6370	2,02
+T293	valeur 6406 6411	15,60
+T294	valeur 6412 6416	13,3
+T295	valeur 6417 6421	1,45
+T296	valeur 6422 6424	25
+T297	valeur 6425 6427	43
+T298	valeur 6428 6431	133
+T299	valeur 6459 6464	30,60
+T300	valeur 6465 6469	12,0
+T301	valeur 6470 6474	1,19
+T302	valeur 6547 6552	15,13
+T303	valeur 6553 6557	12,0
+T304	valeur 6558 6562	1,58
+T305	valeur 6596 6600	1,81
+T306	valeur 6601 6605	20,4
+T307	valeur 6606 6610	1,68
+T308	moment 6718 6726	Jour 136
+T309	moment 6763 6771	Jour 187
+T310	valeur 6682 6686	0,26
+T311	valeur 6687 6691	29,0
+T312	valeur 6692 6696	1,68
+T313	valeur 6727 6731	0,50
+T314	valeur 6732 6736	19,7
+T315	valeur 6737 6741	1,31
+T316	valeur 6772 6776	1,67
+T317	valeur 6777 6781	21,2
+T318	valeur 6782 6786	1,38
+T319	dose 6801 6807	0,4 mg
+T320	dose 6756 6762	0,4 mg
+T321	dose 6711 6717	0,4 mg
+T322	moment 6956 6966	Au jour 45
+T323	examen 6983 7013	visite de contrôle subséquente
+T324	examen 7045 7069	résultats de laboratoire
+T325	examen 7079 7082	TSH
+T326	valeur 7099 7108	30,6 mU/L
+T327	sosy 7079 7108	TSH à une valeur de 30,6 mU/L
+T328	examen 7138 7140	T4
+T329	valeur 7143 7152	12 pmol/L
+T330	sosy 7138 7152	T4 à 12 pmol/L
+T331	substance 7203 7216	lévothyroxine
+T332	dose 7219 7225	400 µg
+A17	changement T332 augmentation
+T333	frequence 7226 7243	une fois par jour
+T334	examen 7247 7260	état clinique
+T335	pathologie 7288 7301	hypothyroïdie
+A18	assertion T335 absent
+T336	examen 7312 7336	résultats de laboratoire
+T337	valeur 7347 7355	anormaux
+T338	sosy 7312 7355	résultats de laboratoire demeurent anormaux
+T339	substance 7475 7488	lévothyroxine
+T340	mode 7513 7521	comprimé
+T341	substance 7525 7532	calcium
+T342	moment 7536 7541	matin
+T343	substance 7577 7590	lévothyroxine
+T344	moment 7591 7616	vers cinq heures du matin
+T345	substance 7623 7630	calcium
+T346	moment 7632 7654	vers six heures trente
+T347	substance 7672 7686	deux comprimés
+T348	duree 7689 7710	environ quatre heures
+T349	substance 7731 7744	lévothyroxine
+T350	moment 7775 7785	au jour 91
+T351	substance 7800 7812	liothyronine
+A19	prise T351 arrêt
+T352	examen 7859 7876	visite de routine
+T353	moment 7888 7899	au jour 143
+T355	examen 7979 7992	taux sanguins
+T356	examen 7999 8020	fonction thyroïdienne
+T357	moment 8022 8033	À ce moment
+T358	examen 8037 8056	évaluation clinique
+T359	examen 8064 8086	valeurs de laboratoire
+T360	valeur 8107 8114	normale
+T361	sosy 8037 8114	évaluation clinique et les valeurs de laboratoire sont de retour à la normale
+T132	pathologie 172 178	asthme
+A20	etat T132 passé
+T1	frequence 2035 2046	continuelle
+T223	examen 3321 3348	taux des enzymes hépatiques
+T362	valeur 21 27	1,70 m
+T363	valeur 29 34	73 kg
+T364	moment 2246 2254	nocturne
+T365	anatomie 2566 2572	selles
+T2	duree 4103 4112	récemment
+T201	anatomie 7984 7992	sanguins
+T354	anatomie 8008 8020	thyroïdienne
+A21	etat T16 passé
+T366	endocriniennes 129 142	hypothyroïdie
+T367	respiratoire 172 178	asthme
+T368	cardiovasculaires 184 214	thromboses veineuses profondes
+T369	osteomusculaires 250 278	arthrose au dos et aux mains
+T370	ORL 399 414	polypose nasale
+T371	immunitaire 480 533	allergique aux chats, aux graminées et à la poussière
+T372	respiratoire 2160 2167	dyspnée
+T373	etatsosy 2160 2167	dyspnée
+T374	etatsosy 2283 2288	œdème
+T375	etatsosy 2448 2494	accroissement de la fatigue et de la faiblesse
+T376	etatsosy 2500 2512	constipation
+T377	endocriniennes 2904 2917	hypothyroïdie
+T379	endocriniennes 4773 4813	déséquilibre de la fonction thyroïdienne
+T381	immunitaire 172 178	asthme
+T382	etatsosy 399 414	polypose nasale
+T383	respiratoire 399 414	polypose nasale
+T384	etatsosy 2354 2359	œdème
+T385	osteomusculaires 2485 2494	faiblesse
+T386	nerveux 2485 2494	faiblesse
+T378	genre 3 11	patiente
+A22	genre T378 féminin
+T380	age 13 19	51 ans
+T387	origine 1997 2070	une sensation d’oppression thoracique continuelle sous forme de serrement
+T388	issue 8022 8114	À ce moment, l’évaluation clinique et les valeurs de laboratoire sont de retour à la normale
+A23	issue T388 amélioration

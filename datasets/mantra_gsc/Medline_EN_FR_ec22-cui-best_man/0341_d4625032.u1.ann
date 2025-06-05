@@ -1,0 +1,10 @@
+T1	C0039337 8 25	bourgeons du goût
+#1	AnnotatorNotes T1	"C0039337", "Taste Buds", "Body Part Organ or Organ Component" ,"ANAT"
+T2	C1230608 42 57	Ictalurus melas
+#2	AnnotatorNotes T2	"C1230608", "Ameiurus melas", "Fish" ,"LIVB"
+T3	C0007634 78 86	cellules
+#3	AnnotatorNotes T3	"C0007634", "Cells", "Cell" ,"ANAT"
+T4	C1269647 78 86	cellules
+#4	AnnotatorNotes T4	"C1269647", "Entire cell", "Cell" ,"ANAT"
+T5	C0007418 29 41	poisson-chat
+#5	AnnotatorNotes T5	"C0007418", "Siluriformes", "Fish" ,"LIVB"

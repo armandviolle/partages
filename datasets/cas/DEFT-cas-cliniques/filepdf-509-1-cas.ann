@@ -1,0 +1,6 @@
+T1	age 12 18	39 ans
+T2	genre 3 8	homme
+T3	issue 603 609	décédé
+A1	genre T2 masculin
+A2	issue T3 décès
+T4	origine 57 116	a ingéré volontairement une quantité inconnue de pesticides

@@ -1,0 +1,73 @@
+T16	examen 1044 1055	exploration
+T38	anatomie 1069 1084	artère poplitée
+T25	valeur 1120 1127	normaux
+T36	anatomie 1213 1244	tendon du muscle jumeau interne
+T17	anatomie 121 134	mollet gauche
+T39	anatomie 1337 1343	artère
+T19	examen 138 152	interrogatoire
+T18	sosy 1540 1544	gêne
+T15	examen 1639 1654	examen physique
+T28	valeur 1661 1673	satisfaisant
+T48	age 20 26	19 ans
+T1	etatsosy 232 261	douleur aiguë du mollet droit
+T8	anatomie 249 261	mollet droit
+T4	sosy 38 81	antécédent personnel ou familial vasculaire
+T14	examen 413 428	examen clinique
+T26	examen 433 466	pouls des deux membres inférieurs
+T7	anatomie 443 466	deux membres inférieurs
+T9	anatomie 518 537	pouls pédieux droit
+T47	examen 617 637	échodoppler artériel
+T5	anatomie 629 637	artériel
+T3	sosy 656 706	anomalies en position standard du membre inférieur
+T30	anatomie 71 81	vasculaire
+T59	valeur 739 749	diminution
+T10	anatomie 761 771	côté droit
+T37	anatomie 898 904	artère
+T46	anatomie 911 925	veine poplitée
+A1	assertion T4 absent
+T2	genre 9 16	patient
+A2	genre T2 masculin
+T6	sosy 182 197	ancien rugbymen
+T11	anatomie 324 330	mollet
+A3	assertion T3 absent
+A4	assertion T18 absent
+T12	moment 1514 1527	après un mois
+T13	sosy 232 261	douleur aiguë du mollet droit
+T20	moment 213 227	il y a 10 mois
+T21	etatsosy 308 330	claudication du mollet
+T22	sosy 308 407	claudication du mollet tantôt à la marche tantôt dans certaines positions d’hyperextension du genou
+T23	anatomie 402 407	genou
+T27	anatomie 690 706	membre inférieur
+T29	examen 806 836	angioscanner du creux poplitée
+T31	valeur 1246 1254	type III
+T32	traitement 1300 1318	section des bandes
+T33	moment 1448 1465	au septième jours
+T34	nerveux 96 134	claudication d’effort du mollet gauche
+T35	etatsosy 96 134	claudication d’effort du mollet gauche
+T40	nerveux 308 330	claudication du mollet
+T41	nerveux 848 925	insertion d’un faisceau du Jumeau interne entre l’artère et la veine poplitée
+T42	sosy 433 488	pouls des deux membres inférieurs étaient tous présents
+T43	sosy 503 561	disparition du pouls pédieux droit aux manœuvres dynamique
+T44	examen 542 561	manœuvres dynamique
+T45	examen 563 587	flexion plantaire active
+T49	anatomie 571 580	plantaire
+T50	examen 591 612	dorso-flexion passive
+T51	sosy 733 801	nette diminution du flux du côté droit lors des manœuvres dynamiques
+T52	examen 781 801	manœuvres dynamiques
+T53	anatomie 822 836	creux poplitée
+T54	anatomie 863 889	faisceau du Jumeau interne
+T55	sosy 848 925	insertion d’un faisceau du Jumeau interne entre l’artère et la veine poplitée
+T56	anatomie 947 958	unilatérale
+T57	sosy 932 958	atteinte était unilatérale
+T58	traitement 964 986	traitement chirurgical
+T60	mode 1016 1040	postérieur en baïonnette
+T61	sosy 1069 1127	artère poplitée dont le trajet et le calibre était normaux
+T62	sosy 1140 1244	elle était piégée par des bandes fibromusculaires aberrantes naissant du tendon du muscle jumeau interne
+T63	anatomie 1166 1189	bandes fibromusculaires
+T64	traitement 1337 1377	artère était libérée sur tout son trajet
+T24	examen 1549 1574	dernier contrôle clinique
+T65	moment 1587 1592	un an
+T66	sosy 1625 1633	symptôme
+A5	assertion T66 absent
+T67	sosy 1639 1673	examen physique était satisfaisant
+T68	sosy 96 134	claudication d’effort du mollet gauche

@@ -1,0 +1,120 @@
+T10062	examen 711 739	taux de bicarbonates sanguin
+T10064	examen 1533 1566	prélèvements artériels et veineux
+T10065	examen 1604 1638	suivi biochimique et toxicologique
+T10091	frequence 1729 1748	toutes les 6 heures
+T100121	substance 962 978	acide glycolique
+T100122	substance 1429 1445	4-méthylpyrazole
+T100124	substance 1698 1714	acide glycolique
+T100161	valeur 296 304	1,45 g/1
+T100162	valeur 321 331	à 0¿23 g/L
+T100164	valeur 471 478	2,9 g/L
+T100165	valeur 482 489	2,8 g/L
+T100166	valeur 673 684	42,3 mmol/L
+T100167	valeur 751 759	5 mmol/L
+T100169	valeur 939 947	2,25 g/L
+T100171	valeur 2393 2401	2,18 g/1
+T100193	examen 574 593	osmolalité sanguine
+T100198	sosy 2143 2155	intoxication
+T100199	sosy 1931 1943	intoxication
+T100200	sosy 2226 2238	intoxication
+T100202	sosy 2309 2352	deux nouveaux épisodes d'intoxication aiguë
+T1004	examen 308 320	méthanolémie
+T1005	sosy 338 358	absorption d'acétone
+T1006	examen 360 370	acétonémie
+T1007	substance 389 401	white spirit
+T1008	pathologie 455 469	éthylisme aigu
+T1009	moment 490 503	à l'admission
+T10010	valeur 605 622	284 mOsm/Kg d'eau
+T10011	examen 656 670	trou anionique
+T10014	valeur 800 804	6,94
+T10015	examen 786 797	pH artériel
+T10016	examen 829 833	pC02
+T10017	valeur 836 850	2,1 kiloPascal
+T10019	substance 895 910	éthylène glycol
+T10020	substance 1076 1091	éthylène glycol
+T10023	anatomie 1476 1488	extra-rénale
+T10025	anatomie 1546 1555	artériels
+T10026	anatomie 1559 1566	veineux
+T10027	substance 1674 1689	éthylène glycol
+T10028	examen 1661 1714	dosages de l'éthylène glycol et de l'acide glycolique
+T10029	substance 2004 2020	4-méthylpyrazole
+T10030	traitement 2024 2046	épuration extra-rénale
+T10031	examen 2354 2363	éthylèmie
+T10032	valeur 2366 2374	3,41 g/1
+T10033	examen 2380 2390	acetonemic
+T2001	anatomie 2034 2046	extra-rénale
+T20061	examen 514 529	plan biologique
+T20063	examen 875 910	dosage sanguin de l'éthylène glycol
+T200123	substance 1447 1457	fomépizole
+T200125	substance 1980 2002	traitement antidotique
+T200163	valeur 373 381	1,16 g/L
+T200170	valeur 1000 1008	1,12 g/L
+T200191	sosy 76 110	intoxication par l'éthylène glycol
+T200192	sosy 245 282	intoxication par de l'alcool à brûler
+T200193	sosy 574 622	osmolalité sanguine calculée à 284 mOsm/Kg d'eau
+T200195	sosy 829 850	pC02 à 2,1 kiloPascal
+T200196	sosy 1059 1091	intoxication à l'éthylène glycol
+T200197	sosy 1100 1123	trou anionique augmenté
+T2002	substance 95 110	éthylène glycol
+T2003	substance 130 137	antigel
+T2004	sosy 117 137	absorption d'antigel
+T2005	frequence 181 197	à trois reprises
+T2006	moment 203 239	les jours et les semaines précédents
+T2007	substance 267 282	alcool à brûler
+T2008	examen 284 293	éthylèmie
+T20010	sosy 338 401	absorption d'acétone (acétonémie à 1,16 g/L) et de white spirit
+T20011	substance 351 358	acétone
+T20014	sosy 455 504	éthylisme aigu (2,9 g/L et 2,8 g/L à l'admission)
+T20017	examen 624 638	trou osmolaire
+T20018	sosy 656 684	trou anionique à 42,3 mmol/L
+T20022	moment 2158 2199	Après un séjour en service de psychiatrie
+T20023	sosy 711 748	taux de bicarbonates sanguin effondré
+T20024	sosy 786 804	pH artériel à 6,94
+T20026	anatomie 789 797	artériel
+T20032	sosy 922 947	concentration de 2,25 g/L
+T20034	sosy 1131 1158	acidóse métabolique franche
+T20035	examen 1174 1196	osmolalité plasmatique
+T20036	examen 1263 1277	trou osmolaire
+T20037	substance 1402 1424	traitement antidotique
+T20038	traitement 1466 1508	épuration extra-rénale (hémodiafiltration)
+T20039	frequence 1582 1595	régulièrement
+T20042	sosy 1794 1802	séquelle
+T20043	sosy 1814 1873	perturbations assez importantes des paramètres biochimiques
+T20046	sosy 284 304	éthylèmie à 1,45 g/1
+T20047	sosy 308 331	méthanolémie à 0¿23 g/L
+T20049	moment 552 565	à l'admission
+T20051	sosy 983 1008	concentration de 1,12 g/L
+T20052	examen 1100 1114	trou anionique
+T20055	sosy 2354 2374	éthylèmie à 3,41 g/1
+T20056	sosy 2380 2401	acetonemic à 2,18 g/1
+A1	assertion T20042 absent
+A2	norme T100166 haut
+A3	norme T100167 bas
+A4	norme T100164 haut
+A5	norme T100165 haut
+A6	norme T10014 bas
+A7	norme T10017 bas
+A8	norme T200170 haut
+A9	norme T100169 haut
+T1	anatomie 585 593	sanguine
+T2	anatomie 732 739	sanguin
+T3	anatomie 882 889	sanguin
+T4	anatomie 1185 1196	plasmatique
+A10	assertion T20035 absent
+A11	assertion T20036 absent
+T200198	chimiques 76 110	intoxication par l'éthylène glycol
+T200199	chimiques 245 282	intoxication par de l'alcool à brûler
+T5	chimiques 338 358	absorption d'acétone
+T6	chimiques 455 469	éthylisme aigu
+T7	chimiques 1059 1091	intoxication à l'éthylène glycol
+T8	nutritionnelles 1131 1158	acidóse métabolique franche
+T9	chimiques 1931 1943	intoxication
+T10	chimiques 2143 2155	intoxication
+T11	chimiques 2226 2238	intoxication
+T12	chimiques 2334 2352	intoxication aiguë
+T13	age 7 13	49 ans
+T14	genre 1024 1031	patient
+A12	genre T14 masculin
+T15	origine 72 137	une intoxication par l'éthylène glycol après absorption d'antigel
+T16	issue 2240 2402	le patient a de nouveau été admis aux urgences du C.H.U de CAEN pour deux nouveaux épisodes d'intoxication aiguë (éthylèmie à 3,41 g/1 puis acetonemic à 2,18 g/1)
+A13	issue T16 stable

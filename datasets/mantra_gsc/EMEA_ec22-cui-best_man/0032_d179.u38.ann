@@ -1,0 +1,6 @@
+T4	C0018270 53 63	croissance
+#4	AnnotatorNotes T4	"C0018270", "Growth", "Organism Function" ,"PHYS"
+T5	C0087111 102 112	traitement
+#5	AnnotatorNotes T5	"C0087111", "Therapeutic procedure", "Therapeutic or Preventive Procedure" ,"PROC"
+T6	C0008972 34 40	études
+#6	AnnotatorNotes T6	"C0008972", "Clinical Research", "Research Activity" ,"PROC"

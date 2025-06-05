@@ -1,0 +1,72 @@
+T1	sosy 59 69	antécédent
+A2	assertion T1 absent
+T2	sosy 131 178	agression par un pit-bull avec morsure génitale
+T3	anatomie 170 178	génitale
+T4	examen 182 197	examen clinique
+T5	sosy 213 264	plaie scrotale hémorragique avec perte de substance
+T6	anatomie 219 227	scrotale
+T8	sosy 268 315	multiples plaies de la face interne des cuisses
+T9	anatomie 291 315	face interne des cuisses
+T10	sosy 330 358	retentissement psychologique
+T13	sosy 380 396	bon état général
+T14	examen 404 429	constantes hémodynamiques
+T15	valeur 438 446	normales
+T16	sosy 404 446	constantes hémodynamiques étaient normales
+T17	examen 451 462	exploration
+T18	substance 479 498	anesthésie générale
+T19	sosy 519 587	perte de substance cutanée et sous-cutanée scrotale inférieure à 50%
+T20	anatomie 528 570	substance cutanée et sous-cutanée scrotale
+T21	valeur 571 587	inférieure à 50%
+T22	anatomie 594 610	testicule gauche
+T23	anatomie 623 631	vaginale
+T24	valeur 611 617	normal
+T25	sosy 594 641	testicule gauche normal avec vaginale respectée
+T26	sosy 649 678	volumineuse hématocèle droite
+T27	sosy 684 714	fracture complexe du testicule
+T28	anatomie 705 714	testicule
+T29	traitement 740 760	orchidectomie droite
+T30	traitement 768 799	excision des tissus nécrotiques
+T31	anatomie 781 787	tissus
+T32	traitement 804 851	drainage par lame tubulée a été laissé en place
+T33	sosy 867 901	décollement sous-cutané sus-pubien
+T34	anatomie 879 901	sous-cutané sus-pubien
+T35	traitement 926 940	parage scrotal
+T36	anatomie 933 940	scrotal
+T37	substance 946 965	anesthésie générale
+T38	moment 966 985	à 24 et à 48 heures
+T39	examen 989 1008	examen histologique
+T40	sosy 1023 1100	fracture complexe avec hémorragie du testicule droit et du cordon spermatique
+T41	anatomie 1060 1075	testicule droit
+T42	anatomie 1082 1100	cordon spermatique
+T43	substance 1105 1136	antibiothérapie péri-opératoire
+T44	moment 1121 1136	péri-opératoire
+T45	substance 1171 1183	amoxicilline
+T46	substance 1184 1202	acide clavulanique
+T47	substance 1206 1219	tétracyclines
+T48	mode 1225 1234	injection
+T49	substance 1235 1248	antitétanique
+T50	dose 1273 1284	simple dose
+T51	substance 1287 1315	immunoglobulines spécifiques
+T52	substance 1371 1404	vaccination anti-rabique complète
+T53	anatomie 1456 1463	cutanée
+T54	moment 1534 1541	A un an
+T55	traitement 1482 1503	cicatrisation dirigée
+T56	valeur 1615 1622	normaux
+T57	valeur 1650 1656	normal
+T58	anatomie 1629 1645	testicule gauche
+T59	sosy 1598 1622	rapports sexuels normaux
+T60	sosy 1629 1656	testicule gauche est normal
+T7	sosy 1545 1579	aspect esthétique est satisfaisant
+T11	anatomie 255 264	substance
+T12	anatomie 345 358	psychologique
+T61	blessures 213 240	plaie scrotale hémorragique
+T62	etatsosy 213 240	plaie scrotale hémorragique
+T63	homme 649 678	volumineuse hématocèle droite
+T64	etatsosy 649 678	volumineuse hématocèle droite
+T65	blessures 684 714	fracture complexe du testicule
+T66	genre 35 42	patient
+T67	age 46 52	70 ans
+A1	genre T66 masculin
+T68	origine 127 178	une agression par un pit-bull avec morsure génitale
+T69	issue 1442 1656	La couverture cutanée a été assurée par cicatrisation dirigée après l’avis d’un plasticien. A un an, l’aspect esthétique est satisfaisant, le patient a des rapports sexuels normaux et le testicule gauche est normal
+A3	issue T69 guérison

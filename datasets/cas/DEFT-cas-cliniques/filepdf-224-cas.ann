@@ -1,0 +1,97 @@
+T60	examen 1029 1054	surveillance radiologique
+T62	examen 1059 1076	tomodensitométrie
+T28	examen 108 127	examen endoscopique
+T43	sosy 1119 1148	évolution notable de la masse
+T7	date 1183 1192	mars 2003
+T8	date 1197 1206	juin 2003
+T63	examen 1232 1249	tomodensitométrie
+T64	blessures 1298 1325	traumatisme lombaire gauche
+T41	anatomie 1310 1325	lombaire gauche
+T78	tumeur 1343 1362	masse rénale gauche
+T59	anatomie 1349 1362	rénale gauche
+T10	valeur 1367 1383	5 cm de diamètre
+T52	anatomie 1416 1427	rein gauche
+T16	examen 143 162	biopsies gastriques
+T124	anatomie 1456 1468	muscle psoas
+T46	traitement 1515 1549	néphrectomie totale élargie gauche
+T69	anatomie 152 161	gastrique
+T34	anatomie 1543 1549	gauche
+T27	examen 1566 1615	examen anatomopathologique de la pièce opératoire
+T13	anatomie 1573 1592	anatomopathologique
+T6	tumeur 1629 1635	tumeur
+T3	tumeur 1644 1666	carcinome sarcomatoïde
+T17	anatomie 1689 1727	cellules géantes de type ostéoclasique
+T9	date 1763 1777	Septembre 2003
+T1	tumeur 179 212	adénocarcinome localisé à l’antre
+T88	sosy 1805 1820	récidive locale
+T19	anatomie 1840 1848	duodénal
+T47	mode 1876 1886	percutanée
+T61	examen 218 235	tomodensitométrie
+T15	examen 273 290	bilan d’extension
+T5	tumeur 300 306	tumeur
+T77	tumeur 343 362	masse rénale gauche
+T58	anatomie 349 362	rénale gauche
+T115	valeur 366 384	30 mm de grand axe
+T38	mode 468 477	injection
+T11	sosy 47 75	altération de l’état général
+T50	substance 481 506	produit de contraste iodé
+T39	mode 559 568	injection
+T35	traitement 684 703	gastrectomie totale
+T36	anatomie 730 745	anse grêle en Y
+T25	examen 749 775	examen anatomopathologique
+T12	anatomie 756 775	anatomopathologique
+T4	etatsosy 81 103	douleurs épigastriques
+T2	tumeur 831 855	adénocarcinome gastrique
+T29	anatomie 846 855	gastrique
+T23	examen 907 941	examen cytologique et histologique
+T56	anatomie 965 971	rénale
+T14	nerveux 47 75	altération de l’état général
+T21	etatsosy 47 75	altération de l’état général
+T22	sosy 81 103	douleurs épigastriques
+T24	date 37 41	1995
+T26	age 15 21	59 ans
+T20	anatomie 207 212	antre
+T30	valeur 516 540	77 Unité Hounsfield (UH)
+T40	valeur 547 552	86 UH
+T31	sosy 1826 1848	envahissement duodénal
+T32	tumeur 1930 1952	dissémination tumorale
+T33	moment 1953 1970	un mois plus tard
+T18	moment 1265 1281	trois mois après
+T37	examen 645 666	ponction diagnostique
+T42	traitement 791 803	gastrectomie
+T44	digestif 831 855	adénocarcinome gastrique
+T45	femme 343 362	masse rénale gauche
+T48	femme 1343 1362	masse rénale gauche
+T49	genre 0 3	Mme
+A1	genre T49 féminin
+T51	valeur 876 891	stade pT3 N0 M0
+T53	valeur 1737 1746	pT4 N0 M0
+T54	sosy 1416 1432	rein gauche muet
+T55	sosy 1439 1468	envahissement du muscle psoas
+T57	digestif 179 212	adénocarcinome localisé à l’antre
+T65	femme 1416 1432	rein gauche muet
+T66	tumeur 1805 1848	récidive locale avec envahissement duodénal
+T67	digestif 1805 1848	récidive locale avec envahissement duodénal
+T68	anatomie 90 103	épigastriques
+T70	sosy 343 428	masse rénale gauche de 30 mm de grand axe, arrondie, régulière, légèrement hétérogène
+T71	examen 446 506	densité tumorale sans injection de produit de contraste iodé
+T72	sosy 433 568	mesure de la densité tumorale sans injection de produit de contraste iodé était de 77 Unité Hounsfield (UH) et de 86 UH après injection
+T73	traitement 709 745	remplacement par une anse grêle en Y
+T74	anatomie 782 803	pièce de gastrectomie
+T75	traitement 956 971	ponction rénale
+T76	sosy 992 1022	éléments suspects de malignité
+A2	assertion T76 absent
+A3	assertion T43 absent
+T79	sosy 1331 1406	volumineuse masse rénale gauche de 15 cm de diamètre, hétérogène, calcifiée
+T80	anatomie 1599 1615	pièce opératoire
+T81	anatomie 1814 1820	locale
+T82	traitement 1865 1886	dérivation percutanée
+T83	issue 1893 1901	décédait
+A4	issue T83 décès
+T84	pathologie 179 212	adénocarcinome localisé à l’antre
+T85	sosy 300 306	tumeur
+T86	pathologie 831 855	adénocarcinome gastrique
+T87	sosy 1298 1325	traumatisme lombaire gauche
+T89	pathologie 1644 1666	carcinome sarcomatoïde
+T90	sosy 1629 1635	tumeur
+T91	sosy 1930 1952	dissémination tumorale

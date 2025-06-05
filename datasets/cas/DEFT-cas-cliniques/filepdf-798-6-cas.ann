@@ -1,0 +1,6 @@
+T1	genre 1184 1193	la malade
+T2	age 8 14	13 ans
+A1	genre T1 féminin
+T3	origine 47 195	des broncho-pneumopathies à répétition, résistantes aux différents traitements, motivant son admission à l’unité d’immunologie clinique de pédiatrie
+T4	issue 1145 1298	Au cours de son suivi en consultation, la malade avait présenté une sinusite chronique maxillo-sphénoïdale et ethmoïdale bilatérale à prédominance gauche
+A2	issue T4 stable

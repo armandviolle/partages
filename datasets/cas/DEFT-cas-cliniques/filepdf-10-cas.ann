@@ -1,0 +1,58 @@
+T21	sosy 115 136	masse du flanc gauche
+T14	anatomie 124 136	flanc gauche
+T2	tumeur 176 197	tumeur solide du rein
+T26	anatomie 193 197	rein
+T29	anatomie 232 238	rénale
+T35	examen 243 254	échographie
+T6	examen 260 263	IRM
+T4	femme 378 398	pseudo-tumeur rénale
+T30	anatomie 392 398	rénale
+T16	anatomie 491 497	gauche
+T9	examen 504 507	TDM
+T36	examen 511 522	échographie
+T10	examen 525 528	TDM
+T12	anatomie 537 557	biliaires hépatiques
+T5	valeur 577 581	3 cm
+T28	anatomie 585 619	pôle supéro-externe du rein gauche
+T24	anatomie 638 642	rate
+T33	anatomie 668 689	veine cave inférieure
+T7	examen 703 706	IRM
+T13	anatomie 715 724	biliaires
+T18	anatomie 725 734	hépatique
+T31	examen 788 795	scanner
+T25	anatomie 869 873	rate
+T11	anatomie 894 904	artérielle
+T34	anatomie 926 933	veineux
+T8	examen 94 109	TDM hélicoïdale
+T22	tumeur 378 398	pseudo-tumeur rénale
+T27	femme 176 197	tumeur solide du rein
+T32	tumeur 530 557	Kystes biliaires hépatiques
+T38	digestif 530 557	Kystes biliaires hépatiques
+T39	tumeur 708 734	Kystes biliaires hépatique
+T41	digestif 708 734	Kystes biliaires hépatique
+T1	tumeur 559 619	masse tumorale de 3 cm au pôle supéro-externe du rein gauche
+T3	genre 4 9	femme
+T15	age 13 19	74 ans
+A1	genre T3 féminin
+T17	etatsosy 59 87	altération de l'état général
+T20	nerveux 59 87	altération de l'état général
+T43	sosy 59 87	altération de l'état général
+T44	etatsosy 45 53	asthénie
+T45	sosy 45 53	asthénie
+T46	sosy 225 238	lésion rénale
+A2	assertion T46 absent
+T19	sosy 917 933	thrombus veineux
+A3	assertion T19 absent
+T23	sosy 653 689	thrombus de la veine cave inférieure
+A4	assertion T23 hypothétique
+T37	femme 559 619	masse tumorale de 3 cm au pôle supéro-externe du rein gauche
+T40	sosy 341 361	lobulation splénique
+T42	anatomie 352 361	splénique
+T47	sosy 747 765	processus expansif
+A5	assertion T47 absent
+T48	sosy 869 904	rate homogène à la phase artérielle
+T49	sosy 176 197	tumeur solide du rein
+T50	sosy 378 398	pseudo-tumeur rénale
+T51	sosy 530 557	Kystes biliaires hépatiques
+T52	sosy 559 619	masse tumorale de 3 cm au pôle supéro-externe du rein gauche
+T53	sosy 708 734	Kystes biliaires hépatique

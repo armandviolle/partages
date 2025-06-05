@@ -1,0 +1,101 @@
+T25	substance 1051 1061	furosémide
+T23	examen 1114 1133	examen urodynamique
+T34	valeur 1138 1144	normal
+T13	examen 1150 1161	cystoscopie
+T55	anatomie 1222 1228	urètre
+T12	anatomie 1242 1245	col
+T10	examen 1259 1267	biopsies
+T11	examen 1329 1386	ponctions-biopsies au true-cut de la graisse périvésicale
+T6	traitement 1408 1427	anesthésie générale
+T27	examen 1472 1482	histologie
+T26	anatomie 1510 1521	glandulaire
+T32	sosy 1502 1558	cystite glandulaire et kystique légèrement inflammatoire
+T50	anatomie 1609 1614	tissu
+T126	examen 170 194	scanner abdomino-pelvien
+T40	anatomie 1713 1723	rein droit
+T30	traitement 1729 1754	intervention chirurgicale
+T94	anatomie 178 194	abdomino-pelvien
+T21	anatomie 1817 1839	urétérovésicale droite
+T72	moment 1853 1868	post-opératoire
+T53	examen 1925 1947	uroscanner de contrôle
+T3	homme 1976 2004	urétéro-hydronéphrose droite
+T1	homme 199 227	urétéro-hydronéphrose droite
+T62	examen 2026 2032	cliché
+T73	moment 2034 2047	préopératoire
+T45	examen 2064 2073	résultats
+T9	sosy 2113 2127	asymptomatique
+T49	examen 2159 2171	surveillance
+T33	frequence 2181 2199	tous les deux mois
+T56	anatomie 246 288	amont du croisement des vaisseaux iliaques
+T24	examen 478 493	fonction rénale
+T42	anatomie 487 493	rénale
+T35	valeur 498 505	normale
+T7	sosy 50 60	antécédent
+T52	examen 509 533	urographie intraveineuse
+T31	mode 520 533	intraveineuse
+T2	homme 574 602	urétéro-hydronéphrose droite
+T58	anatomie 647 655	vésicale
+T38	anatomie 677 684	pelvien
+T125	examen 702 724	résidu post-mictionnel
+T59	anatomie 790 798	vésicale
+T54	anatomie 852 869	urètre postérieur
+T57	anatomie 877 883	vessie
+T48	examen 910 930	scintigraphie rénale
+T43	anatomie 924 930	rénale
+T41	anatomie 945 950	reins
+T36	valeur 976 984	normales
+T5	genre 3 8	homme
+A1	genre T5 masculin
+T29	age 37 43	30 ans
+A2	assertion T7 absent
+T8	nutritionnelles 343 353	lipomatose
+T18	peau 343 353	lipomatose
+T37	anatomie 427 446	vésicules séminales
+T4	etatsosy 668 684	hématome pelvien
+T19	examen 728 759	urétrocystographie mictionnelle
+T39	anatomie 818 830	petit bassin
+T14	mode 1435 1450	abord prépubien
+T15	homme 1502 1558	cystite glandulaire et kystique légèrement inflammatoire
+T16	etatsosy 1568 1579	hyperplasie
+T17	anatomie 1653 1664	périvésical
+T20	traitement 1785 1796	urétérolyse
+T22	anatomie 1584 1602	îlots de von Brunn
+T44	sosy 1676 1723	aggravation de la stase au niveau du rein droit
+T46	moment 1885 1920	A deux mois de la cure chirurgicale
+T47	sosy 1568 1602	hyperplasie des îlots de von Brunn
+T51	sosy 1609 1648	tissu fibroadipeux légèrement oédématié
+T60	traitement 1802 1839	réimplantation urétérovésicale droite
+T61	sosy 1958 2004	persistance d’une urétéro-hydronéphrose droite
+T63	homme 1088 1110	mégauretère congénital
+T64	genetique 1088 1110	mégauretère congénital
+T65	etatsosy 1502 1558	cystite glandulaire et kystique légèrement inflammatoire
+T66	tumeur 1502 1558	cystite glandulaire et kystique légèrement inflammatoire
+T67	etatsosy 1639 1648	oédématié
+T68	examen 83 94	observation
+T69	duree 123 140	Durant son séjour
+T70	anatomie 221 227	droite
+T71	sosy 199 314	urétéro-hydronéphrose droite asymptomatique en amont du croisement des vaisseaux iliaques, sans retard de sécrétion
+T74	sosy 343 385	lipomatose associée à des bandes fibreuses
+T75	anatomie 369 385	bandes fibreuses
+T76	sosy 395 446	déviation antéro-supérieure des vésicules séminales
+T77	anatomie 405 422	antéro-supérieure
+T78	examen 459 473	Biologiquement
+T79	sosy 478 505	fonction rénale est normale
+T80	sosy 547 566	sécrétion synchrone
+T81	sosy 634 655	surélévation vésicale
+T28	sosy 668 684	hématome pelvien
+T82	sosy 695 724	pas de résidu post-mictionnel
+T83	valeur 802 809	+/-5 cm
+T84	sosy 780 830	ascension vésicale de +/-5 cm dans le petit bassin
+T85	sosy 835 869	allongement de l’urètre postérieur
+T86	sosy 877 893	vessie piriforme
+T87	sosy 940 984	deux reins de taille et de fonction normales
+T88	anatomie 988 994	droite
+T89	sosy 996 1061	courbe d’accumulation répondant (lentement) au test au furosémide
+T90	sosy 1114 1144	examen urodynamique est normal
+T91	sosy 1242 1253	col bulleux
+T92	anatomie 1366 1386	graisse périvésicale
+T93	traitement 1903 1920	cure chirurgicale
+T95	anatomie 1998 2004	droite
+T96	pathologie 574 602	urétéro-hydronéphrose droite
+T97	pathologie 1088 1110	mégauretère congénital

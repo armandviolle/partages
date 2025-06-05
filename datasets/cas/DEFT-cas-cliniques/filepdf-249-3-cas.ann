@@ -1,0 +1,6 @@
+T1	age 15 20	8 ans
+T2	genre 6 11	fille
+A1	genre T2 féminin
+T3	origine 47 117	un écoulement ombilical purulent, sans aucune symptomatologie urinaire
+T4	issue 637 759	l'évolution était favorable sans récidive de l'écoulement ombilical. L'ombilic néoformé avait l'aspect d'un ombilic normal
+A2	issue T4 guérison

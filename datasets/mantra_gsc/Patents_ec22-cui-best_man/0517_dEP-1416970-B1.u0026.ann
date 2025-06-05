@@ -1,0 +1,16 @@
+T9	C0430400 162 169	culture
+#9	AnnotatorNotes T9	"C0430400", "Laboratory culture", "Laboratory Procedure" ,"PROC"
+T10	C0007634 176 183	cellule
+#10	AnnotatorNotes T10	"C0007634", "Cells", "Cell" ,"ANAT"
+T11	C1305923 28 39	polypeptide
+#11	AnnotatorNotes T11	"C1305923", "Polypeptides", "Amino Acid Peptide or Protein" ,"CHEM"
+T12	C1305923 263 274	polypeptide
+#12	AnnotatorNotes T12	"C1305923", "Polypeptides", "Amino Acid Peptide or Protein" ,"CHEM"
+T13	C0032550 117 131	polynucléotide
+#13	AnnotatorNotes T13	"C0032550", "Polynucleotides", "Nucleic Acid Nucleoside or Nucleotide" ,"CHEM"
+T14	C1269647 176 183	cellule
+#14	AnnotatorNotes T14	"C1269647", "Entire cell", "Cell" ,"ANAT"
+T22	C0017262 103 113	expression
+#22	AnnotatorNotes T22	"C0017262", "Gene Expression", "Genetic Function" ,"PHYS"
+T23	C0017262 249 259	expression
+#23	AnnotatorNotes T23	"C0017262", "Gene Expression", "Genetic Function" ,"PHYS"

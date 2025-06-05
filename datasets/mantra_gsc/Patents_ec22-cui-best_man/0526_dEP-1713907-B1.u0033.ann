@@ -1,0 +1,6 @@
+T4	C0008551 176 202	chromatographie d'affinité
+#4	AnnotatorNotes T4	"C0008551", "Chromatography, Affinity", "Laboratory Procedure" ,"PROC"
+T5	C0028630 27 40	nucléotidique
+#5	AnnotatorNotes T5	"C0028630", "Nucleotides", "Nucleic Acid Nucleoside or Nucleotide" ,"CHEM"
+T6	C1305923 93 104	polypeptide
+#6	AnnotatorNotes T6	"C1305923", "Polypeptides", "Amino Acid Peptide or Protein" ,"CHEM"

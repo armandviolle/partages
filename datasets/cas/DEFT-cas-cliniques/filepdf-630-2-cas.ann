@@ -1,0 +1,6 @@
+T1	genre 0 7	Patient
+T2	age 11 17	20 ans
+A1	genre T1 masculin
+T3	origine 56 105	suspicion d'intoxication au cannabis et au datura
+T4	issue 2088 2175	L'amélioration rapide de l'état du patient lui permet de quitter l'hôpital le soir même
+A2	issue T4 guérison

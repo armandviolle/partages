@@ -1,0 +1,6 @@
+T1	C0325912 56 62	pigeon
+#1	AnnotatorNotes T1	"C0325912", "Columbidae", "Bird" ,"LIVB"
+T2	C0999231 56 62	pigeon
+#2	AnnotatorNotes T2	"C0999231", "Columba", "Bird" ,"LIVB"
+T3	C0042842 39 52	avitaminose A
+#3	AnnotatorNotes T3	"C0042842", "Vitamin A Deficiency", "Disease or Syndrome" ,"DISO"

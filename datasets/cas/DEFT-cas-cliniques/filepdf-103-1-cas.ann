@@ -1,0 +1,6 @@
+T1	age 13 19	43 ans
+T2	genre 4 9	homme
+A1	genre T2 masculin
+T3	origine 102 157	des douleurs lombaires gauches évoluant depuis six mois
+T4	issue 1424 1538	Avec un recul post opératoire de huit ans, le patient ne présente aucune récidive de ce schwannome rétropéritonéal
+A2	issue T4 amélioration

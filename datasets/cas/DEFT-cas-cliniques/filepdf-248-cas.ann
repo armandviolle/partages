@@ -1,0 +1,6 @@
+T1	age 12 18	42 ans
+T2	genre 3 8	homme
+A1	genre T2 masculin
+T3	origine 92 149	une érection douloureuse évoluant depuis environ 5 heures
+T4	issue 1592 1719	Aucun dosage antérieur n'a été retrouvé mais il n'existait pas, selon le patient, de troubles portant sur le taux de plaquettes
+A2	issue T4 amélioration

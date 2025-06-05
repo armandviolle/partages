@@ -1,0 +1,6 @@
+T1	genre 0 16	Le jeune patient
+T2	age 20 26	11 ans
+A1	genre T1 masculin
+T3	origine 70 149	une douleur et une baisse brutale de la vision de l’oeil droit depuis 24 heures
+T4	issue 1849 1909	Le bilan pédiatrique n’a retrouvé aucune pathologie générale
+A2	issue T4 amélioration

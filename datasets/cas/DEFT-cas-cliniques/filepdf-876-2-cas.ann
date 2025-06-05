@@ -1,0 +1,63 @@
+T2	genre 10 15	fille
+T22	anatomie 1057 1067	céphalique
+T29	traitement 1104 1125	effraction capsulaire
+T23	anatomie 1161 1170	digestive
+T32	examen 1242 1268	examen anatomopathologique
+T13	anatomie 1249 1268	anatomopathologique
+T16	moment 121 152	un an avant son hospitalisation
+T5	tumeur 1288 1341	tumeur pseudopapillaire et solide du pancréas (TPPSP)
+T51	anatomie 1325 1333	pancréas
+T64	examen 1410 1435	étude immunohistochimique
+T1	tumeur 1508 1526	cellules tumorales
+T21	substance 1544 1556	cytokératine
+T38	examen 1596 1621	marqueurs neuroendocrines
+T43	anatomie 1606 1620	neuroendocrine
+T45	valeur 1630 1638	négatifs
+T3	etatsosy 207 227	douleurs abdominales
+T12	anatomie 216 227	abdominales
+T77	age 24 30	12 ans
+T48	examen 260 282	palpation de l’abdomen
+T7	anatomie 275 282	abdomen
+T76	sosy 298 355	masse de l’hypochondre droit et de la région épigastrique
+T35	anatomie 309 326	hypochondre droit
+T130	anatomie 336 355	région épigastrique
+T18	examen 360 376	bilan biologique
+T15	pathologie 37 48	antécédents
+T56	valeur 383 402	sans particularités
+T63	examen 406 428	échographie abdominale
+T11	anatomie 418 428	abdominale
+T41	sosy 449 646	volumineuse masse rétro-pancréatique droite d’échostructure tissulaire hétérogène, de 84 cm de diamètre, à contours réguliers, grossièrement ovalaire, bien limitée, finement vascularisée au Doppler
+T97	anatomie 473 485	pancréatique
+T58	anatomie 509 519	tissulaire
+T6	valeur 535 552	84 cm de diamètre
+T39	sosy 70 108	masse au niveau de l’hypochondre droit
+T60	anatomie 710 726	tête du pancréas
+T47	traitement 750 756	opérée
+T59	sosy 774 935	tumeur kystique et solide par endroits, richement vascularisée qui siégeait au niveau de la face postérieure de la tête du pancréas et faisait 10 cm de grand axe
+T61	anatomie 866 905	face postérieure de la tête du pancréas
+T34	anatomie 91 108	hypochondre droit
+T30	sosy 956 982	envahissement locorégional
+T37	anatomie 970 982	locorégional
+T42	sosy 989 1009	métastase à distance
+A1	assertion T15 absent
+A2	genre T2 féminin
+T4	valeur 917 935	10 cm de grand axe
+A3	assertion T30 absent
+A4	assertion T42 absent
+T8	traitement 1034 1097	duodénopancréatectomie céphalique selon la technique de Whipple
+T9	traitement 1139 1198	rétabli la continuité digestive selon la technique de Child
+T10	sosy 207 234	douleurs abdominales vagues
+T14	examen 639 646	Doppler
+T17	sosy 685 726	cystadénocarcinome de la tête du pancréas
+A5	assertion T17 hypothétique
+T19	tumeur 774 789	tumeur kystique
+A6	assertion T29 absent
+T20	digestif 1288 1341	tumeur pseudopapillaire et solide du pancréas (TPPSP)
+T24	sosy 360 402	bilan biologique a été sans particularités
+T25	pathologie 1288 1341	tumeur pseudopapillaire et solide du pancréas (TPPSP)
+T26	sosy 1474 1556	expression intense et diffuse des cellules tumorales du CD10 et de la cytokératine
+T27	anatomie 1573 1582	hormonale
+T28	substance 1530 1534	CD10
+T31	sosy 1562 1582	expression hormonale
+A7	assertion T31 absent
+T33	sosy 1596 1638	marqueurs neuroendocrines étaient négatifs

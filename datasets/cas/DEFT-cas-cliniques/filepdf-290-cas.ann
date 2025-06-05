@@ -1,0 +1,6 @@
+T1	age 13 19	56 ans
+T2	genre 4 9	femme
+A1	genre T2 féminin
+T3	origine 99 136	des infections urinaires récidivantes
+T4	issue 2042 2084	les suites furent sans problème spécifique
+A2	issue T4 guérison

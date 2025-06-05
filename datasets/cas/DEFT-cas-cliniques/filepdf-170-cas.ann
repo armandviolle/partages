@@ -1,0 +1,100 @@
+T1	tumeur 1019 1054	adénocarcinome infiltrant le muscle
+T4	tumeur 1068 1074	tumeur
+T14	immunitaire 108 125	maladie de Berger
+T17	anatomie 1095 1103	cellules
+T8	examen 1163 1207	immuno-marquages avec les anticorps anti-PSA
+T40	valeur 1216 1224	négatifs
+T28	anatomie 1248 1257	digestive
+T98	age 13 19	34 ans
+T22	examen 1304 1321	coloscopie totale
+T41	valeur 1342 1350	négative
+T2	tumeur 1378 1411	adénocarcinome primitif de vessie
+T59	anatomie 1405 1411	vessie
+T27	traitement 1449 1475	cystoprostatectomie totale
+T25	traitement 1481 1525	curage lymphonodal ilio-obturateur bilatéral
+T36	anatomie 1488 1525	lymphonodal ilio-obturateur bilatéral
+T68	anatomie 1540 1569	urinaire cutanée trans-iléale
+T20	substance 1591 1615	chimiothérapie adjuvante
+T132	traitement 165 187	transplantation rénale
+T70	anatomie 1699 1710	glandulaire
+T21	anatomie 1732 1739	chorion
+T18	anatomie 1749 1757	cellules
+T3	tumeur 1782 1796	adénocarcinome
+T24	traitement 1809 1815	curage
+T49	anatomie 181 187	rénale
+T37	anatomie 1847 1858	lymphonodal
+T123	substance 1914 1926	ciclosporine
+T47	dose 1937 1946	posologie
+T65	examen 1972 1990	évolution clinique
+T30	examen 2036 2079	examen tomodensitomètrique abdomino-pelvien
+T97	anatomie 2063 2079	abdomino-pelvien
+T48	sosy 2143 2151	récidive
+T31	examen 2156 2171	fonction rénale
+T130	substance 216 244	traitement immunosuppresseur
+T50	anatomie 2165 2171	rénale
+T39	valeur 2190 2197	normale
+T131	substance 2265 2293	traitement immunosuppresseur
+T124	substance 2321 2333	ciclosporine
+T12	sosy 26 50	antécédents particuliers
+T16	substance 275 285	bithérapie
+T122	substance 290 302	ciclosporine
+T6	dose 304 310	300 mg
+T5	dose 331 337	150 mg
+T62	examen 428 439	échographie
+T43	anatomie 464 489	paroi vésicale antérieure
+T42	anatomie 583 593	papillaire
+T29	anatomie 601 613	dôme vésical
+T33	traitement 66 77	hémodialyse
+T63	examen 696 722	étude anatomo-pathologique
+T10	anatomie 702 722	anatomo-pathologique
+T15	examen 727 744	bilan d’extension
+T53	examen 760 804	tomodensitométrie thoraco-abdomino-pelvienne
+T52	anatomie 778 804	thoraco-abdomino-pelvienne
+T38	sosy 826 843	lésion secondaire
+T44	anatomie 849 862	étage pelvien
+T58	anatomie 930 936	vessie
+T64	examen 973 991	étude histologique
+T7	date 85 98	Décembre 1991
+A1	assertion T12 absent
+T9	substance 317 329	azathioprine
+A2	assertion T38 absent
+T11	date 1432 1444	janvier 2000
+A3	assertion T48 absent
+T19	substance 2341 2351	rapamycine
+T23	sosy 1833 1858	envahissement lymphonodal
+A4	assertion T23 absent
+T26	date 130 142	Janvier 1995
+T32	homme 108 125	maladie de Berger
+T34	genre 0 8	Monsieur
+T35	moment 371 390	à 5 ans post-greffe
+T45	traitement 544 554	endoscopie
+T46	anatomie 1048 1054	muscle
+T51	homme 1378 1411	adénocarcinome primitif de vessie
+T54	frequence 310 312	/j
+T55	frequence 337 339	/j
+T56	sosy 643 671	quelques zones hémorragiques
+T57	sosy 881 936	épaississement antéro-inférieur irrégulier de la vessie
+A5	genre T34 masculin
+T60	sosy 443 515	épaississement de la paroi vésicale antérieure totalement asymptomatique
+T13	moment 2096 2117	à 3, 6, 12 et 24 mois
+T61	duree 2214 2238	depuis quelques semaines
+A6	prise T124 arrêt
+T66	osteomusculaires 1019 1054	adénocarcinome infiltrant le muscle
+T67	examen 364 369	suivi
+T69	sosy 567 637	aspect en tapis papillaire sur le dôme vésical et végétant sur le fond
+T71	sosy 1095 1140	cellules claires présentant une mucosecrétion
+T72	sosy 1163 1224	immuno-marquages avec les anticorps anti-PSA étaient négatifs
+T73	sosy 1304 1350	coloscopie totale qui s’était révélée négative
+T74	traitement 1529 1585	dérivation urinaire cutanée trans-iléale de type Bricker
+T75	anatomie 1655 1660	pièce
+T76	sosy 1688 1796	structures glandulaires qui infiltraient le chorion avec des cellules atypiques évocatrices d’adénocarcinome
+T77	examen 1800 1815	étude du curage
+T78	substance 1897 1909	monothérapie
+T79	moment 1954 1968	2 ans de recul
+T80	sosy 1972 2002	évolution clinique était bonne
+T81	examen 2083 2095	surveillance
+T82	sosy 2156 2197	fonction rénale était strictement normale
+T83	pathologie 108 125	maladie de Berger
+T84	pathologie 1019 1060	adénocarcinome infiltrant le muscle (pT2)
+T85	sosy 1068 1074	tumeur
+T86	pathologie 1378 1411	adénocarcinome primitif de vessie

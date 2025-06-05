@@ -1,0 +1,6 @@
+T1	age 16 22	48 ans
+T2	genre 481 492	La patiente
+A1	genre T2 féminin
+T3	origine 85 135	une pesanteur au niveau de la fosse iliaque gauche
+T4	issue 1772 1779	décédée
+A2	issue T4 décès

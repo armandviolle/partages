@@ -1,0 +1,6 @@
+T1	genre 0 8	Patiente
+T2	age 17 23	44 ans
+A1	genre T1 féminin
+T3	origine 70 101	des douleurs pelviennes isolées
+T4	issue 1676 1748	le bilan clinique, radiologique et immunologique était sans particularit
+A2	issue T4 guérison

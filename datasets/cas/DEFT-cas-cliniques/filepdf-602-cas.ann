@@ -1,0 +1,32 @@
+T9	substance 206 217	stupéfiants
+T7	anatomie 265 275	pulmonaire
+T11	sosy 287 304	trace de violence
+T1	genre 3 8	homme
+T6	examen 333 402	prélèvements de sang, urine, liquide gastrique, bile et humeur vitrée
+T8	anatomie 349 353	sang
+T12	anatomie 355 360	urine
+T5	anatomie 362 379	liquide gastrique
+T3	anatomie 381 385	bile
+T2	examen 427 450	analyses toxicologiques
+T4	anatomie 475 482	cheveux
+A1	genre T1 masculin
+T13	age 12 18	43 ans
+T14	nerveux 59 66	inanimé
+T15	etatsosy 59 66	inanimé
+#1	AnnotatorNotes T14	inconscience
+T16	issue 125 131	décède
+A2	issue T16 décès
+T17	infections 254 275	congestion pulmonaire
+A3	assertion T11 absent
+T18	anatomie 389 402	humeur vitrée
+T19	valeur 464 469	à 4°C
+T20	anatomie 503 516	poils pubiens
+T10	valeur 544 566	à température ambiante
+T21	anatomie 607 612	poils
+T22	examen 224 232	autopsie
+T23	etatsosy 125 131	décède
+T24	chimiques 190 217	consommateur de stupéfiants
+T25	respiratoire 254 275	congestion pulmonaire
+T26	sosy 59 66	inanimé
+T27	sosy 190 217	consommateur de stupéfiants
+T28	sosy 254 275	congestion pulmonaire

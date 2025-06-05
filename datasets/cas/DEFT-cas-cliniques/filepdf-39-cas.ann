@@ -1,0 +1,6 @@
+T1	genre 0 6	Madame
+T2	age 21 27	47 ans
+T3	origine 57 104	rétention urinaire aiguë d'origine indéterminée
+A1	genre T1 féminin
+T4	issue 2266 2370	Avec un recul de 10 mois la patiente était toujours vivante, avec régression des adénopathies inguinales
+A2	issue T4 amélioration

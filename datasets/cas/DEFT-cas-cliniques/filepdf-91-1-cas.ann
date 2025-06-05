@@ -1,0 +1,76 @@
+T1001	anatomie 53 62	urinaires
+T1002	anatomie 182 186	rein
+T1003	anatomie 215 221	vessie
+T1004	anatomie 358 365	uretère
+T1005	anatomie 396 406	rein droit
+T1006	anatomie 532 546	uretère gauche
+T1007	anatomie 489 506	vessie antérieure
+T1008	anatomie 666 669	col
+T1009	anatomie 684 697	uretère droit
+T10014	anatomie 1013 1021	vésicale
+T10015	anatomie 1089 1099	rein droit
+T10016	anatomie 1191 1213	cloison inter-vésicale
+T10017	anatomie 1287 1295	uretères
+T10018	anatomie 1315 1340	partie inférieure du rein
+T10019	anatomie 1399 1426	uretère du pyélon supérieur
+T10020	anatomie 1449 1474	jonction urétéro-vésicale
+T10051	duree 76 88	depuis un an
+T10061	examen 93 108	examen clinique
+T10062	examen 138 169	urographie intra veineuse (UIV)
+T10063	examen 247 259	cystographie
+T10064	examen 435 459	exploration endoscopique
+T10065	examen 881 892	exploration
+T10066	examen 1507 1523	suivi à distance
+T100141	traitement 756 769	urétérostomie
+T100142	traitement 1140 1167	urétéro-néphrectomie totale
+T100143	traitement 1175 1213	résection de la cloison inter-vésicale
+T10023	anatomie 301 307	vessie
+T10024	sosy 283 308	aspect de "double vessie"
+T10025	sosy 473 546	existence d'une vessie antérieure fonctionnelle recevant l'uretère gauche
+T10026	sosy 557 697	vessie postérieure non fonctionnelle, communicant avec la précédente par un petit orifice situé au niveau du col et recevant l'uretère droit
+T10027	anatomie 557 575	vessie postérieure
+T10028	mode 811 833	abord rétro-péritonéal
+T10029	sosy 913 954	deux uretères dilatés qui étaient dérivés
+T10030	sosy 1001 1043	duplication vésicale avec duplicité droite
+T10033	anatomie 1270 1279	urétérale
+T2002	sosy 182 205	rein muet du côté droit
+T20010	anatomie 740 750	rein droit
+T20012	anatomie 847 876	tiers moyen de l'urètre droit
+T20013	anatomie 918 926	uretères
+T200191	sosy 317 330	reflux massif
+T200193	sosy 1048 1099	absence de récupération fonctionnelle du rein droit
+T20021	sosy 42 75	infections urinaires récidivantes
+T20022	valeur 115 133	sans particularité
+T20023	sosy 93 133	examen clinique était sans particularité
+T20025	valeur 234 241	normale
+T20026	sosy 215 241	vessie apparemment normale
+T20029	sosy 358 377	uretère très dilaté
+T20030	sosy 396 418	rein droit dysplasique
+T20035	examen 717 750	fonction résiduelle du rein droit
+T20039	traitement 1219 1231	intervention
+T20043	valeur 1532 1550	sans particularité
+T20044	sosy 1507 1550	suivi à distance ont été sans particularité
+T20045	mode 149 163	intra veineuse
+T1	date 31 35	1980
+T2	sosy 1257 1474	quadrifidité urétérale, trois uretères correspondant à la partie inférieure du rein, se réunissant en un seul, lequel à son tour rejoignait l'uretère du pyélon supérieur un peu en amont de la jonction urétéro-vésicale
+A1	norme T20043 normal
+A2	norme T20025 normal
+A3	norme T20022 normal
+A4	assertion T20026 hypothétique
+A5	assertion T20029 hypothétique
+T200194	homme 913 934	deux uretères dilatés
+T3	infections 42 75	infections urinaires récidivantes
+T4	homme 42 75	infections urinaires récidivantes
+T5	homme 182 205	rein muet du côté droit
+#1	AnnotatorNotes T5	défaillance rénale
+T6	homme 396 418	rein droit dysplasique
+T7	homme 1001 1043	duplication vésicale avec duplicité droite
+T8	homme 1257 1279	quadrifidité urétérale
+T9	genetique 294 307	double vessie
+T10	homme 294 307	double vessie
+T11	genre 3 9	garçon
+A6	genre T11 masculin
+T12	age 13 18	4 ans
+T13	origine 42 88	infections urinaires récidivantes depuis un an
+T14	issue 1489 1550	L'évolution et le suivi à distance ont été sans particularité
+A7	issue T14 guérison

@@ -1,0 +1,142 @@
+T1001	anatomie 403 408	tronc
+T1002	anatomie 322 327	tronc
+T1003	anatomie 414 446	membres supérieurs et inférieurs
+T1005	anatomie 633 640	cutanée
+T1006	anatomie 957 961	face
+T1007	anatomie 966 981	paume des mains
+T1008	anatomie 1247 1256	hépatique
+T1009	anatomie 1258 1264	rénale
+T10010	anatomie 2142 2150	cutanées
+T10041	dose 1488 1499	un comprimé
+T10061	examen 604 618	examen général
+T10062	examen 625 640	biopsie cutanée
+T10064	examen 777 795	tension artérielle
+T10065	examen 1008 1026	examen obstétrical
+T10066	examen 1113 1128	toucher vaginal
+T10067	examen 1202 1218	bilan biologique
+T10068	examen 1241 1264	bilan hépatique, rénale
+T10069	examen 1269 1283	bilan de crase
+T10071	examen 1342 1379	examen cytobactériologique des urines
+T10072	examen 1386 1405	prélèvement vaginal
+T10073	examen 1743 1754	échographie
+T10074	examen 2025 2076	surveillance rapprochée de l’état fœtal et maternel
+T10075	examen 2082 2094	surveillance
+T10076	examen 2292 2305	bilan complet
+T10077	examen 2539 2546	biopsie
+T10078	examen 2613 2638	test d’immunofluorescence
+T10091	frequence 1500 1518	deux fois par jour
+T100111	moment 146 172	À 34 semaines d'aménorrhée
+T100113	moment 1595 1617	avant la première dose
+T100114	moment 2197 2226	Après dix jours de traitement
+T100115	moment 2336 2353	Trois jours après
+T100121	substance 1428 1443	corticothérapie
+T100122	substance 1474 1486	Chronadalate
+T100123	substance 1524 1539	antibiothérapie
+T100124	substance 1549 1580	amoxicilline acide clavulanique
+T100125	substance 1671 1697	traitement local d’appoint
+T100161	valeur 1328 1335	normaux
+T100162	valeur 2328 2334	normal
+T100164	valeur 2472 2475	80%
+T100193	sosy 273 282	éruptions
+T100194	sosy 301 361	prurit sévère sur le tronc, les membres puis le corps entier
+T100195	sosy 550 573	hypertension gravidique
+T100197	sosy 811 821	apyrétique
+T100200	sosy 915 1004	éruption vésiculaire diffuse épargnant la face, la paume des mains et la plante des pieds
+T100202	sosy 1040 1072	hauteur utérine à 28 centimètres
+T100203	sosy 1136 1146	leucorrhée
+T100204	sosy 1767 1836	retard de croissance intra-utérin sévère inférieur au 3eme percentile
+T100205	sosy 1841 1859	oligoamnios sévère
+T100208	sosy 2158 2195	amélioration des chiffres tensionnels
+T100209	sosy 2458 2487	régression de 80% des lésions
+T10011	valeur 798 809	160/100mmHg
+T10012	anatomie 785 795	artérielle
+T1004	anatomie 333 340	membres
+T10013	anatomie 349 354	corps
+T10014	anatomie 492 497	corps
+T10015	pathologie 59 84	antécédents pathologiques
+T10017	sosy 377 497	vésicules flasques sur le tronc, les membres supérieurs et inférieurs qui s'étendaient progressivement sur tout le corps
+T10018	anatomie 988 1004	plante des pieds
+T10019	sosy 1078 1099	contractions utérines
+T10020	anatomie 1048 1055	utérine
+T10021	anatomie 1091 1099	utérines
+T10022	anatomie 1121 1128	vaginal
+T10023	examen 827 838	protéinurie
+T10024	examen 1153 1159	Bishop
+T10025	valeur 1162 1163	3
+T10026	anatomie 1398 1405	vaginal
+T10027	substance 1621 1636	corticothérapie
+T10028	anatomie 1788 1800	intra-utérin
+T10029	sosy 1868 1913	dopplers (ombilical et utérins) pathologiques
+T10030	sosy 2116 2150	stabilisation des lésions cutanées
+T10031	sosy 2262 2287	mort fœtale intra utérine
+T10032	anatomie 2274 2287	intra utérine
+T10033	moment 2428 2442	En post partum
+T20063	examen 743 749	examen
+T20070	examen 1291 1318	numération formule sanguine
+T200112	moment 750 763	à l’admission
+T200163	valeur 2421 2425	850g
+T200191	sosy 223 230	nodules
+T200192	sosy 238 257	lésions nécrotiques
+T200196	sosy 777 809	tension artérielle à 160/100mmHg
+T200199	sosy 882 904	signes neurosensoriels
+T20012	mode 133 143	voie basse
+T20014	sosy 195 202	papules
+T20015	sosy 208 217	vésicules
+T20020	examen 515 542	consultation dermatologique
+T20021	traitement 711 738	prise en charge spécialisée
+T20024	sosy 827 875	protéinurie deux croix aux bandelettes urinaires
+T20025	valeur 839 875	deux croix aux bandelettes urinaires
+T20026	anatomie 924 935	vésiculaire
+T20028	examen 1040 1055	hauteur utérine
+T20029	valeur 1058 1072	28 centimètres
+T20036	sosy 1153 1163	Bishop à 3
+T20037	anatomie 1310 1318	sanguine
+T20038	anatomie 1373 1379	urines
+T20043	valeur 1808 1836	inférieur au 3eme percentile
+T20045	anatomie 1878 1887	ombilical
+T20046	anatomie 1891 1898	utérins
+T20047	examen 1868 1899	dopplers (ombilical et utérins)
+T20049	examen 2175 2195	chiffres tensionnels
+T20053	sosy 2578 2604	pemphigoïde gestationnelle
+T20054	sosy 2613 2654	test d’immunofluorescence directe positif
+T20055	sosy 2292 2334	bilan complet a été refait revenait normal
+T20056	sosy 2362 2413	accouché spontanément d’un mort-né de sexe masculin
+T20057	anatomie 866 875	urinaires
+A1	assertion T200199 absent
+T1	valeur 2647 2654	positif
+A2	assertion T10015 absent
+A3	norme T100161 normal
+A4	norme T10011 haut
+A5	norme T100162 normal
+A6	etat T10015 passé
+A7	assertion T100203 absent
+T200200	etatsosy 550 573	hypertension gravidique
+T200201	etatsosy 238 257	lésions nécrotiques
+T200202	etatsosy 2134 2150	lésions cutanées
+T200203	etatsosy 2480 2487	lésions
+T2	peau 301 361	prurit sévère sur le tronc, les membres puis le corps entier
+T3	etatsosy 301 361	prurit sévère sur le tronc, les membres puis le corps entier
+T4	peau 273 282	éruptions
+T5	peau 195 202	papules
+T6	peau 2134 2150	lésions cutanées
+T7	femme 2262 2287	mort fœtale intra utérine
+T8	etatsosy 2262 2287	mort fœtale intra utérine
+T9	femme 2389 2413	mort-né de sexe masculin
+T10	etatsosy 2389 2413	mort-né de sexe masculin
+T11	peau 915 1004	éruption vésiculaire diffuse épargnant la face, la paume des mains et la plante des pieds
+T12	etatsosy 915 1004	éruption vésiculaire diffuse épargnant la face, la paume des mains et la plante des pieds
+T13	peau 377 497	vésicules flasques sur le tronc, les membres supérieurs et inférieurs qui s'étendaient progressivement sur tout le corps
+T14	etatsosy 377 497	vésicules flasques sur le tronc, les membres supérieurs et inférieurs qui s'étendaient progressivement sur tout le corps
+T15	peau 208 217	vésicules
+T16	etatsosy 208 217	vésicules
+T17	femme 1841 1859	oligoamnios sévère
+T18	femme 2578 2604	pemphigoïde gestationnelle
+T19	peau 2578 2604	pemphigoïde gestationnelle
+T20	cardiovasculaires 777 809	tension artérielle à 160/100mmHg
+T21	cardiovasculaires 550 573	hypertension gravidique
+T22	genre 20 28	patiente
+A8	genre T22 féminin
+T23	age 37 53	trente-trois ans
+T24	origine 146 257	À 34 semaines d'aménorrhée, elle a développé des papules, des vésicules, des nodules et des lésions nécrotiques
+T25	issue 2079 2195	La surveillance a été marquée par la stabilisation des lésions cutanées et une amélioration des chiffres tensionnels
+A9	issue T25 amélioration

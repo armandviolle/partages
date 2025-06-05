@@ -1,0 +1,8 @@
+T6	C0026769 41 44	SEP
+#6	AnnotatorNotes T6	"C0026769", "Multiple Sclerosis", "Disease or Syndrome" ,"DISO"
+T7	C0087111 49 59	traitement
+#7	AnnotatorNotes T7	"C0087111", "Therapeutic procedure", "Therapeutic or Preventive Procedure" ,"PROC"
+T8	C0594372 64 70	Avonex
+#8	AnnotatorNotes T8	"C0594372", "Avonex", "Amino Acid Peptide or Protein|Pharmacologic Substance|Immunologic Factor" ,"CHEM"
+T9	C1279889 106 124	état ne s’ aggrave
+#9	AnnotatorNotes T9	"C1279889", "Deterioration of status", "Finding" ,"DISO"

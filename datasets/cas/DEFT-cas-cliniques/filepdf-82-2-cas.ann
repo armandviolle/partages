@@ -1,0 +1,6 @@
+T1	age 16 22	42 ans
+T2	genre 186 196	le patient
+A1	genre T2 masculin
+T3	origine 46 162	un épisode douloureux abdominal aigu et résolutif suivi d'une anurie survenus au décours d'un long voyage en voiture
+T4	issue 1539 1577	Les suites opératoires étaient simples
+A2	issue T4 guérison

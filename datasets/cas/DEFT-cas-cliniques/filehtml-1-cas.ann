@@ -1,0 +1,6 @@
+T1	genre 28 33	homme
+T2	age 41 47	61 ans
+A1	genre T1 masculin
+T3	origine 127 326	une transplantation pulmonaire en raison d’une insuffisance respiratoire chronique terminale sur emphysème post-tabagique, sous oxygénothérapie continue (1 L/min) et ventilation non invasive nocturne
+T4	issue 1962 2104	une dégradation respiratoire sur œdème pulmonaire gauche de reperfusion, avec possible participation cardiogénique. Le rejet aigu de grade III
+A2	issue T4 détérioration

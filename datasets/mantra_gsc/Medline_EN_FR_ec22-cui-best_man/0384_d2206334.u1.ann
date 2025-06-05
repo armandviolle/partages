@@ -1,0 +1,8 @@
+T1	C0950076 56 62	chênes
+#1	AnnotatorNotes T1	"C0950076", "Oak Tree", "Plant" ,"LIVB"
+T2	C0036945 71 77	brebis
+#2	AnnotatorNotes T2	"C0036945", "Sheep", "Mammal" ,"LIVB"
+T3	C1123019 71 77	brebis
+#3	AnnotatorNotes T3	"C1123019", "Domestic Sheep", "Mammal" ,"LIVB"
+T8	C0330302 56 62	chênes
+#8	AnnotatorNotes T8	"C0330302", "Quercus", "Plant" ,"LIVB"

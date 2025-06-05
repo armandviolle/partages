@@ -1,0 +1,49 @@
+T1001	anatomie 161 167	rénale
+T1002	anatomie 264 295	cavités urétéropyélocalicielles
+T1003	anatomie 640 646	rénale
+T10061	examen 192 205	urée sanguine
+T10062	examen 670 694	urographie intraveineuse
+T100111	moment 556 573	six ans plus tard
+T100141	traitement 378 403	intervention chirurgicale
+T100161	valeur 88 96	stade II
+T100162	valeur 208 216	6 mmol/l
+T100192	sosy 583 621	troubles mictionnels à type de cystite
+T100193	examen 631 646	fonction rénale
+T1004	pathologie 75 96	prolapsus de stade II
+T1005	sosy 122 147	cystocèle très importante
+T1006	examen 234 258	urographie intraveineuse
+T1007	sosy 264 339	cavités urétéropyélocalicielles sont dilatées des deux côtés symétriquement
+T1008	sosy 355 371	pyurie à E. Coli
+T1009	traitement 437 465	promontofixation de l'isthme
+T10010	traitement 467 498	intervention Marshall-Marchetti
+T10011	traitement 502 533	réfection du périnée postérieur
+T10012	anatomie 515 533	périnée postérieur
+T10013	examen 152 167	fonction rénale
+T10014	valeur 655 662	normale
+T10016	valeur 710 723	normalisation
+T10017	anatomie 727 740	haut appareil
+T200101	mode 245 258	intraveineuse
+T200194	sosy 710 740	normalisation du haut appareil
+T2006	sosy 152 190	fonction rénale est légèrement altérée
+T2007	anatomie 197 205	sanguine
+T20012	anatomie 459 465	isthme
+T20016	sosy 631 662	fonction rénale qui est normale
+T20017	mode 681 694	intraveineuse
+T20019	sosy 192 225	urée sanguine à 6 mmol/l de sérum
+A1	norme T10014 normal
+A2	norme T10016 normal
+A3	norme T100162 normal
+#1	AnnotatorNotes T100162	Normal entre 2,5 et 7,5 mmol/L
+T200195	etatsosy 75 96	prolapsus de stade II
+T1	femme 75 96	prolapsus de stade II
+T2	femme 122 147	cystocèle très importante
+T3	etatsosy 122 147	cystocèle très importante
+T4	infections 355 371	pyurie à E. Coli
+T5	femme 355 371	pyurie à E. Coli
+T6	femme 583 621	troubles mictionnels à type de cystite
+T7	genre 0 5	Femme
+A4	genre T7 féminin
+T8	age 14 20	59 ans
+T9	origine 72 226	un prolapsus de stade II avec essentiellement une cystocèle très importante. La fonction rénale est légèrement altérée (urée sanguine à 6 mmol/l de sérum)
+T10	issue 536 740	La malade est revue six ans plus tard pour des troubles mictionnels à type de cystite avec une fonction rénale qui est normale et une urographie intraveineuse qui montre une normalisation du haut appareil
+A5	issue T10 guérison

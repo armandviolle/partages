@@ -1,0 +1,106 @@
+T17	examen 1220 1263	imagerie par résonance magnétique nucléaire
+T16	anatomie 1320 1340	latéro-rectal gauche
+T13	examen 1513 1539	examen Anatomopathologique
+T18	traitement 1649 1677	radiothérapie complémentaire
+T6	date 276 280	1997
+T10	examen 323 342	biopsie prostatique
+T8	date 346 350	2007
+T11	examen 610 616	examen
+T14	examen 876 890	toucher rectal
+T15	anatomie 884 890	rectal
+T4	duree 98 110	depuis 2 ans
+T7	pathologie 28 54	leiomyosarcome rétrorectal
+T19	anatomie 43 54	rétrorectal
+T20	sosy 114 147	douleurs pelviennes paroxystiques
+T21	anatomie 123 133	pelviennes
+T23	sosy 153 162	pesanteur
+T24	sosy 166 177	pollakiurie
+T25	pathologie 212 246	tabagisme chronique estimé à 25 PA
+T26	pathologie 252 265	fistule anale
+T27	anatomie 260 265	anale
+A3	etat T26 passé
+T28	sosy 286 302	hernie inguinale
+T29	anatomie 293 302	inguinale
+T30	date 313 317	2003
+T31	anatomie 331 342	prostatique
+T32	sosy 452 467	écoulement anal
+T33	anatomie 463 467	anal
+T34	sosy 474 481	ténesme
+T35	sosy 485 497	faux besoins
+T36	sosy 560 568	apyrexie
+T37	examen 739 744	pouls
+T38	valeur 751 767	70 pulsations/mn
+T39	examen 718 720	TA
+T40	valeur 727 731	13/6
+T42	anatomie 790 797	abdomen
+T43	sosy 845 870	sensibilité hypogastrique
+T44	anatomie 857 870	hypogastrique
+T45	sosy 903 930	masse latéro-rectale gauche
+T46	anatomie 909 930	latéro-rectale gauche
+T47	examen 1056 1067	Rectoscopie
+T48	anatomie 1079 1095	muqueuse rectale
+T49	valeur 1096 1103	normale
+A5	norme T49 normal
+T12	examen 1109 1126	Tomodensitométrie
+T50	sosy 1302 1340	processus tumoral latéro-rectal gauche
+T51	anatomie 1364 1380	plancher pelvien
+T52	mode 1398 1420	voie d’abord périnéale
+T53	sosy 1430 1436	tumeur
+T54	traitement 1444 1451	exérèse
+T55	examen 1580 1597	immunohistochimie
+T56	pathologie 1603 1643	leiomyosarcome de bas grade de malignité
+T57	sosy 575 605	conservation de l’état général
+T58	sosy 790 808	abdomen est souple
+T59	sosy 1189 1208	formation hypodense
+T61	sosy 638 679	BEG aux conjonctives normalement colorées
+#1	AnnotatorNotes T61	bon état général
+T63	examen 1021 1027	examen
+T68	examen 5 12	rapport
+T69	valeur 1032 1050	sans particularité
+T71	examen 685 703	état hémodynamique
+T64	frequence 222 231	chronique
+T65	valeur 241 246	25 PA
+T66	sosy 513 525	rectorragies
+A6	assertion T66 absent
+T67	sosy 1472 1493	effraction capsulaire
+A7	assertion T67 absent
+T73	sosy 1753 1775	récidive locorégionale
+A8	assertion T73 hypothétique
+T1	sosy 384 430	accentuation de la symptomatologie douloureuse
+T2	anatomie 945 959	ligne pectinée
+T3	sosy 1079 1103	muqueuse rectale normale
+A1	assertion T59 possible
+T5	examen 1854 1873	contrôles réguliers
+T9	frequence 1864 1873	réguliers
+T22	sosy 1893 1901	récidive
+A2	assertion T22 absent
+T41	moment 1906 1925	un recul de 14 mois
+T60	valeur 780 784	37°C
+T62	sosy 718 731	TA est à 13/6
+T70	sosy 739 767	pouls est à 70 pulsations/mn
+T72	sosy 772 784	0°est à 37°C
+T74	sosy 1010 1051	reste de l’examen est sans particularités
+T75	anatomie 1520 1539	Anatomopathologique
+A4	norme T60 normal
+A9	norme T69 normal
+T76	tumeur 28 54	leiomyosarcome rétrorectal
+T77	digestif 28 54	leiomyosarcome rétrorectal
+T78	etatsosy 114 147	douleurs pelviennes paroxystiques
+T79	etatsosy 153 162	pesanteur
+T80	homme 166 177	pollakiurie
+T81	chimiques 212 246	tabagisme chronique estimé à 25 PA
+T82	digestif 252 265	fistule anale
+T83	etatsosy 286 302	hernie inguinale
+T84	etatsosy 474 481	ténesme
+T85	tumeur 1302 1340	processus tumoral latéro-rectal gauche
+T86	digestif 1302 1340	processus tumoral latéro-rectal gauche
+T87	tumeur 1430 1436	tumeur
+T88	tumeur 1603 1643	leiomyosarcome de bas grade de malignité
+T89	etatsosy 166 177	pollakiurie
+T90	etatsosy 252 265	fistule anale
+T91	age 74 80	40 ans
+T92	genre 63 70	patient
+A10	genre T92 masculin
+T93	origine 114 177	douleurs pelviennes paroxystiques avec pesanteur et pollakiurie
+T94	issue 1777 1925	Les suites opératoires étaient simples et l’évolution clinique jugée sur des contrôles réguliers est favorable sans récidive sur un recul de 14 mois
+A11	issue T94 amélioration

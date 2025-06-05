@@ -1,0 +1,6 @@
+T1	genre 0 6	Madame
+T2	age 18 24	34 ans
+A1	genre T1 féminin
+T3	origine 199 281	Des écoulements vaginaux sont survenus quelques semaines après le geste opératoire
+T4	issue 2494 2673	Les suites opératoires ont été simples, les douleurs ont rapidement diminué, l'apyrexie a été obtenue et les écoulements ont disparu.. La cicatrisation s'est déroulée parfaitement
+A2	issue T4 guérison

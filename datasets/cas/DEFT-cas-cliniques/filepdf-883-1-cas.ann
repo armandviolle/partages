@@ -1,0 +1,6 @@
+T1	age 12 18	46 ans
+T2	genre 3 8	homme
+A1	genre T2 masculin
+T3	origine 170 246	un syndrome grippal brutal avec fébricule, légères courbatures et toux sèche
+T4	issue 2370 2458	La diminution de la toux et l’apyrexie ont fait envisager la sortie du patient le 2 juin
+A2	issue T4 guérison

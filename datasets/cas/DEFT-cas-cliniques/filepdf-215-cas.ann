@@ -1,0 +1,90 @@
+T1002	anatomie 151 162	flanc droit
+T1004	anatomie 325 345	fosse iliaque droite
+T1006	anatomie 520 530	col utérin
+T1007	anatomie 554 561	vaginal
+T1008	anatomie 611 645	abdomino-pelvienne latérale droite
+T1009	anatomie 768 778	abdominale
+T10010	anatomie 828 852	rétro-péritonéale droite
+T10011	anatomie 866 876	rein droit
+T10012	anatomie 913 919	pelvis
+T10013	anatomie 1060 1070	abdominale
+T10017	anatomie 1217 1222	aorte
+T10019	anatomie 1467 1484	rétro-péritonéale
+T10020	anatomie 1642 1649	douglas
+T10021	anatomie 1735 1745	abdominale
+T10022	anatomie 1836 1856	anatomo-pathologique
+T10023	anatomie 1897 1913	rétro-péritonéal
+T10061	examen 248 263	examen clinique
+T10062	examen 546 561	toucher vaginal
+T10063	examen 687 702	examen clinique
+T10064	examen 721 737	bilan biologique
+T10065	examen 756 778	échographie abdominale
+T10066	examen 1056 1070	TDM abdominale
+T10068	examen 1712 1745	reste de l’exploration abdominale
+T100162	valeur 535 541	normal
+T100163	valeur 709 715	normal
+T10025	examen 573 589	palper abdominal
+T10027	sosy 605 670	masse abdomino-pelvienne latérale droite indépendante de l’utérus
+T10028	anatomie 664 670	utérus
+T10030	valeur 744 751	correct
+T10032	anatomie 1021 1036	rétropéritonéal
+T10036	anatomie 1677 1696	racine du mésentère
+T10038	sosy 1759 1825	angiomes hépatiques de 2 cm au niveau des segments II, VII et VIII
+T2001	anatomie 124 144	fosse iliaque droite
+T2003	anatomie 307 318	flanc droit
+T2005	anatomie 482 496	plans profonds
+T20014	anatomie 1117 1135	abdomino-pelvienne
+T20015	anatomie 1170 1182	anses grêles
+T20016	anatomie 1204 1215	vasculaires
+T20018	anatomie 1226 1247	veine cave inférieure
+T20067	examen 1402 1426	exploration chirurgicale
+T20069	examen 1830 1856	étude anatomo-pathologique
+T200164	valeur 1782 1786	2 cm
+T200181	pathologie 49 87	antécédents pathologiques particuliers
+T200182	pathologie 925 931	ascite
+T200191	sosy 109 162	douleurs de la fosse iliaque droite et du flanc droit
+T200192	sosy 201 243	masse augmentant progressivement de volume
+T200193	sosy 277 515	masse liquidienne occupant le flanc droit et la fosse iliaque droite et remontant jusqu’à l’hypogastre, bien limitée, légérement sensible, mobile par rapport aux plans superficiels et fixe par rapport aux plans profonds et mesurant 8/4 cm
+T200196	sosy 803 919	énorme masse liquidienne rétro-péritonéale droite refoulant le rein droit vers l’avant et s’étendant jusqu’au pelvis
+T200197	sosy 1102 1342	masse kystique abdomino-pelvienne refoulant le cadre colique et les anses grêles en avant et les axes vasculaires (aorte et veine cave inférieure) en arrière, siège de quelques cloisons, non rehaussée après injection de produit de contraste
+T200199	sosy 1442 1512	masse kystique polylobée rétro-péritonéale contenant un liquide citrin
+T200200	sosy 1875 1913	lymphangiome kystique rétro-péritonéal
+T20024	valeur 509 515	8/4 cm
+T20026	anatomie 369 379	hypogastre
+T20027	anatomie 439 457	plans superficiels
+T20028	sosy 520 541	col utérin est normal
+T20030	anatomie 580 589	abdominal
+T20033	sosy 676 715	reste de l’examen clinique était normal
+T20034	sosy 721 751	bilan biologique était correct
+T20035	examen 935 938	ADP
+T20036	sosy 1005 1036	kyste hydatique rétropéritonéal
+T20038	anatomie 1149 1162	cadre colique
+T20039	substance 1322 1342	produit de contraste
+T20040	sosy 1351 1380	bourgeon endokystique visible
+T20041	traitement 1517 1559	ouverture du péritoine pariétal postérieur
+T20042	anatomie 1530 1559	péritoine pariétal postérieur
+T20043	sosy 1572 1696	kyste remontant jusqu’au rétroduodéno-pancréas, fusant en bas dans le douglas et limitée à gauche par la racine du mésentère
+T20044	anatomie 1597 1618	rétroduodéno-pancréas
+T20048	anatomie 1768 1778	hépatiques
+T20049	anatomie 1801 1825	segments II, VII et VIII
+T20022	mode 1309 1318	injection
+A1	assertion T200182 absent
+A2	assertion T20035 absent
+A3	norme T100162 normal
+A4	norme T100163 normal
+A5	etat T200181 passé
+A6	assertion T200181 absent
+A7	assertion T20040 absent
+T200201	etatsosy 109 162	douleurs de la fosse iliaque droite et du flanc droit
+T1	parasitaires 1005 1036	kyste hydatique rétropéritonéal
+T2	digestif 1875 1913	lymphangiome kystique rétro-péritonéal
+T3	tumeur 1875 1913	lymphangiome kystique rétro-péritonéal
+T4	tumeur 1442 1512	masse kystique polylobée rétro-péritonéale contenant un liquide citrin
+T5	tumeur 1572 1618	kyste remontant jusqu’au rétroduodéno-pancréas
+T6	digestif 1572 1618	kyste remontant jusqu’au rétroduodéno-pancréas
+T7	digestif 1759 1825	angiomes hépatiques de 2 cm au niveau des segments II, VII et VIII
+T8	tumeur 1759 1825	angiomes hépatiques de 2 cm au niveau des segments II, VII et VIII
+T9	genre 4 9	femme
+T10	age 13 19	60 ans
+A8	genre T9 féminin
+T11	origine 105 243	des douleurs de la fosse iliaque droite et du flanc droit avec apparition au même endroit d’une masse augmentant progressivement de volume

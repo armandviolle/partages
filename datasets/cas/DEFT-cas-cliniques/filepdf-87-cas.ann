@@ -1,0 +1,113 @@
+T16	examen 1244 1263	examen histologique
+T18	examen 1992 2014	radiographie de thorax
+T4	substance 2184 2192	Rifadine
+T6	substance 2195 2202	Rimifon
+T7	substance 2205 2215	Ethambutol
+T8	substance 2220 2228	Pirilene
+T11	duree 2246 2257	pour 2 mois
+T2	substance 2288 2296	Rifadine
+T3	substance 2301 2308	Rimifon
+T12	duree 2311 2325	pendant 4 mois
+T14	examen 389 416	examen des fosses lombaires
+T20	examen 423 437	toucher rectal
+T22	anatomie 431 437	rectal
+T21	examen 470 510	échographie vésico-prostatique et rénale
+T19	examen 600 617	tomodensitométrie
+T17	examen 956 965	palpation
+T23	pathologie 183 213	diabète non insulino-dépendant
+A3	etat T23 passé
+T24	pathologie 221 292	pneumoconiose mixte d’exposition à l’amiante, à la silice et au charbon
+A4	etat T24 passé
+T25	anatomie 400 416	fosses lombaires
+T26	anatomie 482 510	vésico-prostatique et rénale
+T27	pathologie 538 595	tumeur tissulaire de 3 cm sur la convexité du rein gauche
+T28	anatomie 571 595	convexité du rein gauche
+T29	sosy 625 670	lésion était isodense (Figure 1) et rehaussée
+T30	anatomie 763 773	parenchyme
+T31	anatomie 783 798	voie excrétrice
+T32	traitement 805 827	néphrectomie partielle
+T33	traitement 847 857	lombotomie
+T34	sosy 881 978	lésion était de couleur homogène beige-chamois; elle n’était pas dure à la palpation mais friable
+T35	anatomie 992 1008	parenchyme rénal
+T36	valeur 1015 1021	normal
+A5	norme T36 normal
+T39	sosy 1110 1147	granulomes giganto-cellulaires diffus
+T40	pathologie 1165 1183	tuberculose rénale
+T41	anatomie 1177 1183	rénale
+T42	pathologie 1306 1312	cancer
+T43	pathologie 1357 1421	adénocarcinome à cellules conventionnelles de grade 1 de Führman
+T44	pathologie 1426 1508	tumeur était remaniée par de nombreux granulomes caséo-folliculaires tuberculoïdes
+T46	anatomie 1464 1508	granulomes caséo-folliculaires tuberculoïdes
+T47	sosy 1599 1606	lésions
+T48	sosy 1622 1631	infection
+T49	sosy 1700 1728	prolifération carcinomateuse
+T50	sosy 1754 1801	granulomes épithélioïdes et giganto-cellulaires
+T53	moment 1952 1972	après l’intervention
+T54	anatomie 2008 2014	thorax
+T55	sosy 2028 2060	infiltrats des bases pulmonaires
+T56	anatomie 2043 2060	bases pulmonaires
+T57	pathologie 2072 2085	pneumoconiose
+T58	pathologie 2107 2118	tuberculose
+A7	assertion T58 absent
+T60	sosy 59 98	troubles mictionnels obstructifs isolés
+T61	anatomie 68 79	mictionnels
+T62	pathologie 105 114	hématurie
+A8	assertion T62 absent
+T63	sosy 118 146	altération de l’état général
+A9	assertion T63 absent
+T66	traitement 1667 1674	éxérèse
+T67	substance 2137 2182	traitement antituberculeux par quadrithérapie
+T68	substance 2276 2286	bithérapie
+T70	examen 1025 1043	examen extemporané
+T72	examen 1877 1906	recherche de bacilles de Koch
+T73	valeur 446 464	sans particularité
+T76	traitement 324 362	vaccination anti-tuberculeuse ancienne
+A10	assertion T76 absent
+T77	valeur 559 563	3 cm
+T15	anatomie 1062 1070	cellules
+T64	sosy 1062 1079	cellules malignes
+A11	assertion T64 absent
+T1	substance 258 265	amiante
+T5	substance 272 278	silice
+T9	substance 285 292	charbon
+T10	sosy 370 385	primo-infection
+A1	assertion T10 absent
+T13	sosy 742 798	anomalie du reste du parenchyme ni de la voie excrétrice
+A2	assertion T13 absent
+T37	examen 859 876	Macroscopiquement
+T38	anatomie 1765 1778	épithélioïdes
+T51	anatomie 1782 1801	giganto-cellulaires
+T52	sosy 1850 1871	anomalie histologique
+A6	assertion T52 absent
+T59	valeur 1403 1421	grade 1 de Führman
+T65	anatomie 1806 1824	graisse périrénale
+T71	sosy 389 464	examen des fosses lombaires et le toucher rectal étaient sans particularité
+T69	sosy 1877 1987	recherche de bacilles de Koch réalisée sur les urines et dans les crachats après l’intervention était négative
+T74	sosy 983 1021	reste du parenchyme rénal était normal
+T75	valeur 1979 1987	négative
+T78	mode 677 686	injection
+T79	substance 690 710	produit de contraste
+T45	sosy 1536 1572	négativité de la coloration de Ziehl
+T80	examen 1553 1572	coloration de Ziehl
+T81	anatomie 1924 1930	urines
+T82	anatomie 1943 1951	crachats
+A12	norme T73 normal
+T83	homme 59 98	troubles mictionnels obstructifs isolés
+T84	nutritionnelles 183 213	diabète non insulino-dépendant
+T85	endocriniennes 183 213	diabète non insulino-dépendant
+T86	respiratoire 221 292	pneumoconiose mixte d’exposition à l’amiante, à la silice et au charbon
+T87	chimiques 221 292	pneumoconiose mixte d’exposition à l’amiante, à la silice et au charbon
+T88	tumeur 538 595	tumeur tissulaire de 3 cm sur la convexité du rein gauche
+T89	homme 538 595	tumeur tissulaire de 3 cm sur la convexité du rein gauche
+T90	tumeur 1306 1312	cancer
+T91	tumeur 1357 1371	adénocarcinome
+T92	tumeur 1426 1432	tumeur
+T93	infections 1622 1631	infection
+T94	respiratoire 2072 2085	pneumoconiose
+T95	etatsosy 1599 1606	lésions
+T96	genre 0 8	Monsieur
+A13	genre T96 masculin
+T97	age 13 19	71 ans
+T98	origine 59 146	troubles mictionnels obstructifs isolés, sans hématurie ni altération de l’état général
+T99	issue 1874 2118	La recherche de bacilles de Koch réalisée sur les urines et dans les crachats après l’intervention était négative. La radiographie de thorax montrait des infiltrats des bases pulmonaires liées à la pneumoconiose, mais aucun signe de tuberculose
+A14	issue T99 amélioration

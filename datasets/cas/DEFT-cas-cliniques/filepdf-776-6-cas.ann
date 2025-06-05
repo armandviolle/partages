@@ -1,0 +1,39 @@
+T11	anatomie 133 146	dorsolombaire
+T2	etatsosy 163 185	ochronose des oreilles
+T15	anatomie 177 185	oreilles
+T20	anatomie 193 205	sclérotiques
+T28	examen 211 234	radiographies du rachis
+T17	anatomie 228 234	rachis
+T16	sosy 258 268	pincements
+T24	age 27 33	65 ans
+T10	anatomie 289 297	discales
+T23	anatomie 329 335	urines
+T4	examen 365 377	AHG urinaire
+T21	anatomie 369 377	urinaire
+T7	valeur 384 393	20 mmol/l
+T8	sosy 411 440	consanguinité dans la famille
+T12	date 72 84	janvier 2001
+A1	assertion T8 absent
+T3	nutritionnelles 329 361	urines noircissent à l’air libre
+T9	genetique 329 361	urines noircissent à l’air libre
+#1	AnnotatorNotes T3	alcaptonurie
+A2	norme T7 normal
+T5	sosy 497 525	délétion d’une baseGen c.819
+T6	genre 0 3	Mme
+A3	genre T6 féminin
+T13	etatsosy 90 105	dorsolombalgies
+T14	sosy 90 105	dorsolombalgies
+T18	sosy 125 157	raideur dorsolombaire importante
+T19	sosy 163 205	ochronose des oreilles et des sclérotiques
+T22	oeil 193 205	sclérotiques
+T1	sosy 274 297	calcifications discales
+T25	osteomusculaires 305 323	ostéophytes étagés
+T26	sosy 305 323	ostéophytes étagés
+T27	osteomusculaires 125 157	raideur dorsolombaire importante
+T29	nerveux 125 157	raideur dorsolombaire importante
+T30	etatsosy 125 157	raideur dorsolombaire importante
+T31	osteomusculaires 274 297	calcifications discales
+T32	genetique 460 490	mutation à l’état hétérozygote
+T33	sosy 365 393	AHG urinaire est à 20 mmol/l
+T34	sosy 329 361	urines noircissent à l’air libre
+T35	sosy 460 490	mutation à l’état hétérozygote

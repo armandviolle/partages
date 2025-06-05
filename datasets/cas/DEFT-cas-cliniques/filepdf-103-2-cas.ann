@@ -1,0 +1,7 @@
+T1	age 12 18	36 ans
+T2	genre 3 8	homme
+A1	genre T2 masculin
+T3	origine 130 156	une masse rétropéritonéale
+T4	issue 1520 1613	Le patient surveillé annuellement par tomodensitométrie ne présente aucune récidive à 16 mois
+A2	issue T4 guérison
+#1	AnnotatorNotes T4	bénin

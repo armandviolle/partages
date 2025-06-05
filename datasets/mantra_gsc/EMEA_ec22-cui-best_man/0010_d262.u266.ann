@@ -1,0 +1,6 @@
+T2	C0549206 20 28	enceinte
+#2	AnnotatorNotes T2	"C0549206", "Patient currently pregnant", "Finding" ,"DISO"
+T10	C0032074 2 11	envisagez
+#10	AnnotatorNotes T10	"C0032074", "Cognitive function: planning", "Mental Process" ,"PHYS"
+T13	C0032961 20 28	enceinte
+#13	AnnotatorNotes T13	"C0032961", "Pregnancy", "Organism Function" ,"PHYS"

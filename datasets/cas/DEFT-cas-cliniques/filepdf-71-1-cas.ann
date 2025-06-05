@@ -1,0 +1,6 @@
+T1	issue 1228 1297	suivie d'arrêt cardiaque rebelle à la réanimation cardio-respiratoire
+T2	age 13 19	40 ans
+T3	genre 4 9	femme
+A1	issue T1 décès
+A2	genre T3 féminin
+T4	origine 63 163	une masse de la queue du pancréas diagnostiquée sur l'échographie et la tomodensitométrie abdominale

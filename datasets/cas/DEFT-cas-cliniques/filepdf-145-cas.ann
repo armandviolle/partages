@@ -1,0 +1,151 @@
+T67	sosy 1018 1052	rétention vésicale avec caillotage
+T41	examen 1118 1155	exploration endoscopique de la vessie
+T82	anatomie 1149 1155	vessie
+T35	examen 1173 1179	examen
+T52	valeur 1204 1210	normal
+T104	anatomie 1216 1236	deux méats urétéraux
+T1	homme 126 132	anurie
+T83	anatomie 1263 1269	vessie
+T29	duree 133 149	depuis 24 heures
+T86	anatomie 1408 1420	fond vésical
+T11	anatomie 1447 1456	abdominal
+T62	anatomie 1529 1538	péritoine
+T48	traitement 1544 1579	laparotomie médiane sous ombilicale
+T51	mode 1556 1579	médiane sous ombilicale
+T36	examen 1597 1618	examen per opératoire
+T89	anatomie 1642 1650	vésicale
+T73	sosy 165 176	traumatisme
+T63	anatomie 1659 1676	trans-péritonéale
+T84	anatomie 1721 1727	vessie
+T25	examen 1769 1804	biopsies de toute la paroi vésicale
+T57	anatomie 1790 1804	paroi vésicale
+T75	anatomie 1869 1884	voies urinaires
+T79	anatomie 1908 1916	urétrale
+T61	moment 1917 1933	pendant 12 jours
+T98	examen 1938 1956	évolution clinique
+T6	homme 2013 2032	insuffisance rénale
+T66	anatomie 2026 2032	rénale
+T78	examen 2049 2074	urographie intra-veineuse
+T45	mode 2060 2074	intra-veineuse
+T91	anatomie 2118 2126	vésicale
+T92	anatomie 2150 2158	vésicale
+T19	moment 207 230	quatre jours auparavant
+T110	traitement 2249 2258	résection
+T85	mode 2264 2281	voie endoscopique
+T33	examen 2269 2281	endoscopique
+T42	traitement 2318 2369	exérèse complète de cette tumeur vésicale végétante
+T7	tumeur 2344 2369	tumeur vésicale végétante
+T93	anatomie 2351 2359	vésicale
+T5	etatsosy 240 249	hématurie
+T58	anatomie 2400 2414	paroi vésicale
+T16	examen 2418 2438	analyse histologique
+T49	sosy 2482 2488	lésion
+T95	anatomie 2577 2586	vésicales
+T18	sosy 2686 2700	asymptomatique
+T14	examen 269 284	analyse d’urine
+T39	sosy 2704 2732	examen clinique était normal
+T53	valeur 2726 2732	normal
+T23	examen 2737 2756	bilan morphologique
+T28	examen 2784 2795	cystoscopie
+T76	anatomie 279 284	urine
+T9	examen 2800 2820	TDM abdomino-pelvien
+T59	anatomie 2804 2820	abdomino-pelvien
+T69	valeur 2838 2850	satisfaisant
+T2	homme 322 328	anurie
+T26	sosy 347 356	conscient
+T56	examen 414 423	palpation
+T44	anatomie 429 439	hypogastre
+T70	examen 477 491	toucher rectal
+T64	anatomie 485 491	rectal
+T54	valeur 500 507	normaux
+T22	examen 563 579	bilan biologique
+T3	hemopathies 604 610	anémie
+T13	sosy 66 106	altération progressive de l’état général
+T27	examen 740 759	créatinine sanguine
+T68	anatomie 751 759	sanguine
+T10	examen 779 783	Urée
+T8	valeur 786 797	30,6 mmol/l
+T96	examen 801 812	échographie
+T17	sosy 831 846	anomalie rénale
+T65	anatomie 840 846	rénale
+T50	sosy 856 952	volumineuse masse pelvienne hétérogène masquant considérablement l’aire vésicale et périvésicale
+T60	anatomie 874 883	pelvienne
+T12	anatomie 923 952	aire vésicale et périvésicale
+T97	sosy 958 980	épanchement péritonéal
+T15	nerveux 66 106	altération progressive de l’état général
+T20	etatsosy 66 106	altération progressive de l’état général
+T21	homme 240 249	hématurie
+T121	examen 2704 2719	examen clinique
+A1	assertion T17 absent
+A2	assertion T73 absent
+T24	valeur 762 777	461 micromole/l
+A3	assertion T97 absent
+T32	anatomie 970 980	péritonéal
+T37	anatomie 1183 1190	urèthre
+A4	assertion T14 absent
+T34	sosy 401 439	douleur à la palpation de l’hypogastre
+T4	anatomie 445 470	organes génitaux externes
+T38	examen 513 538	constantes hémodynamiques
+T40	valeur 547 554	stables
+T43	valeur 613 624	5,7 g/100ml
+T47	valeur 650 659	128 mEq/l
+T74	nutritionnelles 635 647	hyponatrémie
+T77	nutritionnelles 665 684	acidose métabolique
+T81	homme 1018 1036	rétention vésicale
+T87	etatsosy 1018 1036	rétention vésicale
+T30	tumeur 1329 1350	végétations tumorales
+T80	homme 1329 1350	végétations tumorales
+T88	sosy 1436 1456	gonflement abdominal
+T46	sosy 1634 1676	rupture vésicale de 7 cm trans-péritonéale
+T90	duree 2033 2045	en 48 heures
+T94	moment 2085 2104	trois semaine après
+T71	substance 2589 2598	amétycine
+T72	moment 2626 2650	10 mois après traitement
+T99	age 16 22	65 ans
+T100	genre 0 4	Paul
+A5	genre T100 masculin
+T101	valeur 713 715	12
+T102	examen 694 710	réserve alcaline
+T103	examen 721 734	hypochlorémie
+A6	norme T43 bas
+A7	norme T24 haut
+A8	norme T8 normal
+A9	norme T47 bas
+T31	traitement 1705 1741	fermeture de la vessie en deux plans
+T105	dispositif 1902 1916	sonde urétrale
+T106	homme 368 381	uréthrorragie
+T107	homme 1634 1650	rupture vésicale
+T108	tumeur 1687 1700	zone tumorale
+T109	homme 2344 2369	tumeur vésicale végétante
+T111	valeur 2510 2516	pT1GII
+T112	sosy 445 507	organes génitaux externes et le toucher rectal étaient normaux
+T113	sosy 513 554	constantes hémodynamiques étaient stables
+T114	sosy 604 629	anémie à 5,7 g/100ml d’Hb
+T115	sosy 635 659	hyponatrémie à 128 mEq/l
+T116	sosy 665 715	acidose métabolique avec une réserve alcaline à 12
+T117	sosy 741 777	réatinine sanguine à 461 micromole/l
+T118	sosy 721 734	hypochlorémie
+T119	sosy 779 797	Urée à 30,6 mmol/l
+T120	sosy 1183 1210	urèthre apparaissait normal
+T122	sosy 1216 1258	deux méats urétéraux étaient bien visibles
+T123	sosy 1263 1296	vessie se collabait en permanence
+T124	sosy 1317 1350	importantes végétations tumorales
+T125	sosy 1358 1420	images graisseuses avec quelques caillots dans le fond vésical
+T126	sosy 1487 1538	diffusion du liquide d’irrigation dans le péritoine
+T55	anatomie 1818 1833	plan de rupture
+T127	traitement 1856 1884	drainage des voies urinaires
+T128	sosy 1997 2032	correction de l’insuffisance rénale
+T129	traitement 2108 2126	fermeture vésicale
+T130	sosy 2140 2158	intégrité vésicale
+T131	sosy 2173 2195	résidu post-mictionnel
+A10	assertion T131 absent
+T132	sosy 2215 2226	végétations
+T133	substance 2521 2546	traitement complémentaire
+T134	dose 2561 2562	8
+T135	mode 2563 2586	instillations vésicales
+T136	sosy 2737 2850	bilan morphologique de contrôle comprenant une cystoscopie, un TDM abdomino-pelvien (Figure 3) était satisfaisant
+T137	sosy 126 132	anurie
+T138	sosy 240 249	hématurie
+T139	sosy 322 328	anurie
+T140	sosy 368 381	uréthrorragie
+T141	sosy 2344 2369	tumeur vésicale végétante

@@ -1,0 +1,6 @@
+T1	age 14 20	42 ans
+T2	genre 97 107	Le patient
+A1	genre T2 masculin
+T3	origine 49 95	une douleur de type colique néphrétique gauche
+T4	issue 1477 1687	Sa tension artérielle était normale (120/80 mmHg). Le bilan biologique était normal. La tomodensitométrie de contrôle a montré un infarctus parenchymateux rénal gauche stable, avec un tissu résiduel fonctionnel
+A2	issue T4 amélioration

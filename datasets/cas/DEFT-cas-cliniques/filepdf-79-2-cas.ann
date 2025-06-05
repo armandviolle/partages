@@ -1,0 +1,6 @@
+T1	genre 0 3	Mme
+T2	age 17 23	34 ans
+A1	genre T1 féminin
+T3	origine 65 132	2 ème trimestre de grossesse pour le bilan d’un kyste ovarien droit
+T4	issue 1000 1068	Après un recul de 16 mois, la patiente ne présente pas de métastases
+A2	issue T4 amélioration

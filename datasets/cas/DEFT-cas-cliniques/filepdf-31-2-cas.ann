@@ -1,0 +1,134 @@
+T12	examen 103 116	bilan initial
+T16	anatomie 1046 1057	col vésical
+T62	anatomie 1062 1068	vessie
+T57	anatomie 1105 1122	symphyse pubienne
+T48	anatomie 771 800	branche de l'artère pudendale
+T61	anatomie 1163 1173	urétérales
+T67	anatomie 1185 1193	vésicale
+T41	traitement 1224 1247	néphrostomie percutanée
+T46	mode 1237 1247	percutanée
+T54	anatomie 1286 1292	rénale
+T24	examen 1320 1327	diurèse
+T53	traitement 1444 1455	réanimation
+T44	traitement 1472 1478	opérée
+T139	moment 1479 1491	au 9ème jour
+T36	traitement 1496 1548	laparotomie médiane sous ombilicale extrapéritonéale
+T43	anatomie 1508 1548	médiane sous ombilicale extrapéritonéale
+T5	etatsosy 154 163	hématurie
+T102	anatomie 1589 1612	rétropéritonéale droite
+T30	anatomie 1681 1709	face antérieure de la vessie
+T3	osteomusculaires 171 224	fracture de la branche ischio et ilio-pubienne droite
+T17	anatomie 1721 1732	col vésical
+T84	traitement 1781 1811	sutures de continuité urinaire
+T58	anatomie 1803 1811	urinaire
+T68	anatomie 1844 1852	vésicale
+T10	sosy 1897 1905	apyrexie
+T31	examen 1941 1956	fonction rénale
+T55	anatomie 1950 1956	rénale
+T42	traitement 1961 1984	néphrostomie a été ôtée
+T69	anatomie 2011 2019	vésicale
+T23	moment 2067 2087	deux jours plus tard
+T18	examen 2099 2111	consultation
+T19	examen 2179 2200	contrôle radiologique
+T39	valeur 2207 2213	normal
+T4	femme 2303 2319	fuites urinaires
+T60	anatomie 2310 2319	urinaires
+T131	examen 2344 2355	débitmétrie
+T20	valeur 2362 2370	correcte
+T137	sosy 2392 2414	résidu post-mictionnel
+T145	fonction 2404 2414	mictionnel
+T59	anatomie 2481 2489	urinaire
+T33	anatomie 2502 2509	génital
+T8	anatomie 257 267	abdominale
+T110	anatomie 298 314	intra-péritonéal
+T52	traitement 407 418	réanimation
+T6	examen 483 496	TDM crânienne
+T40	valeur 503 510	normale
+T85	examen 519 539	TDM abdomino-pelvien
+T9	anatomie 523 541	abdomino-pelvienne
+T111	anatomie 595 605	péritonéal
+T2	etatsosy 611 647	dilatation des cavités du rein droit
+T13	anatomie 626 647	cavités du rein droit
+T25	anatomie 487 496	crânienne
+T64	anatomie 686 693	vésical
+T11	examen 718 746	artériographie aorto-iliaque
+T150	traitement 752 800	embolisation d'une branche de l'artère pudendale
+T1	femme 905 911	anurie
+T28	examen 952 971	examen endoscopique
+T7	genre 16 21	femme
+A1	genre T7 féminin
+T14	age 25 31	51 ans
+T15	date 78 93	19 février 1992
+T21	examen 245 267	échographie abdominale
+T29	anatomie 186 224	branche ischio et ilio-pubienne droite
+T26	femme 154 163	hématurie
+T35	femme 435 444	hématurie
+T45	etatsosy 435 444	hématurie
+T47	dispositif 653 673	sonde double courant
+T50	dispositif 1156 1173	sondes urétérales
+T56	dispositif 1179 1193	sonde vésicale
+T32	sosy 325 376	aggravation de l'état neurologique et hémodynamique
+T38	sosy 286 314	épanchement intra-péritonéal
+A2	assertion T38 absent
+T49	sosy 459 478	abdomen était tendu
+T65	etatsosy 557 605	volumineux uro-hématome rétro et sous-péritonéal
+T34	sosy 557 605	volumineux uro-hématome rétro et sous-péritonéal
+T51	traitement 653 711	sonde double courant pour lavage vésical fut mise en place
+T70	sosy 611 647	dilatation des cavités du rein droit
+T72	anatomie 1023 1030	urèthre
+T73	anatomie 733 746	aorto-iliaque
+T27	femme 1273 1292	insuffisance rénale
+T71	dispositif 1838 1852	sonde vésicale
+T63	moment 1985 1998	au 22ème jour
+T66	moment 2020 2033	au 28ème jour
+T74	dispositif 2005 2019	sonde vésicale
+A3	assertion T137 absent
+T22	sosy 2472 2489	symptome urinaire
+A4	assertion T22 absent
+T75	moment 2416 2430	Huit ans après
+T76	moment 2112 2127	deux mois après
+T77	anatomie 1756 1763	urèthre
+T37	moment 1375 1387	Au 7ème jour
+T78	infections 1399 1436	syndrome septique avec signes de choc
+T79	etatsosy 1399 1436	syndrome septique avec signes de choc
+T80	sosy 1399 1436	syndrome septique avec signes de choc
+T81	traitement 1578 1627	collection rétropéritonéale droite furent drainés
+T82	traitement 1361 1373	hémodialysée
+T83	blessures 171 224	fracture de la branche ischio et ilio-pubienne droite
+T86	nerveux 325 376	aggravation de l'état neurologique et hémodynamique
+T87	hemopathies 325 376	aggravation de l'état neurologique et hémodynamique
+T88	etatsosy 1552 1571	hématome du Retzius
+T89	sosy 230 241	disjonction
+A5	assertion T89 absent
+T90	anatomie 347 359	neurologique
+T91	anatomie 459 466	abdomen
+T92	sosy 435 455	hématurie importante
+T93	sosy 483 510	TDM crânienne était normale
+T94	traitement 821 861	stabilisation durable de l'hémodynamique
+T95	traitement 873 878	geste
+T96	sosy 919 936	cause obstructive
+A6	assertion T96 hypothétique
+T97	sosy 996 1030	désinsertion complète de l'urèthre
+T98	sosy 1062 1122	vessie étant repérée très haut derrière la symphyse pubienne
+T99	traitement 1145 1173	monter des sondes urétérales
+A7	assertion T99 absent
+T100	traitement 1179 1216	sonde vésicale a été laissée en place
+T101	sosy 1273 1304	insuffisance rénale s'aggravait
+T103	sosy 1320 1341	diurèse satisfaisante
+T104	mode 1516 1531	sous ombilicale
+T105	sosy 1578 1612	collection rétropéritonéale droite
+T106	sosy 1656 1763	large brèche de toute la face antérieure de la vessie partant du col vésical qui était détaché de l'urèthre
+T107	sosy 1935 1956	bonne fonction rénale
+T108	sosy 2156 2174	plainte urologique
+A8	assertion T108 absent
+T109	sosy 2179 2213	contrôle radiologique était normal
+T112	moment 2235 2251	recul de 36 mois
+T113	sosy 2327 2339	impériosités
+T114	sosy 2344 2370	débitmétrie était correcte
+T115	sosy 2493 2509	problème génital
+A9	assertion T115 absent
+T116	sosy 154 163	hématurie
+T117	sosy 171 224	fracture de la branche ischio et ilio-pubienne droite
+T118	sosy 905 911	anurie
+T119	sosy 1552 1571	hématome du Retzius
+T120	sosy 2303 2319	fuites urinaires

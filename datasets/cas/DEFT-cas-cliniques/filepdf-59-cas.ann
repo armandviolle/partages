@@ -1,0 +1,214 @@
+T1	sosy 44 83	douleurs lombaires gauches persistantes
+T2	anatomie 53 70	lombaires gauches
+T3	traitement 111 172	pyéloplastie gauche selon la technique de Küss-Anderson-Hynes
+T4	pathologie 182 221	syndrome de la jonction pyélo-urétérale
+A1	etat T4 passé
+T5	moment 237 253	à l’âge de 7 ans
+T6	traitement 259 303	décroisement d’un pédicule polaire inférieur
+T7	anatomie 277 303	pédicule polaire inférieur
+T8	pathologie 308 347	syndrome de la jonction pyélo-urétérale
+T9	anatomie 323 347	jonction pyélo-urétérale
+T10	sosy 380 405	douleurs lombaires gauche
+T11	anatomie 389 405	lombaires gauche
+T12	examen 410 438	scintigraphie rénale au DTPA
+T13	anatomie 424 430	rénale
+T14	moment 439 455	en préopératoire
+T15	sosy 475 489	obstacle franc
+T16	sosy 497 531	faible réaction au test au Lasilix
+T17	examen 516 531	test au Lasilix
+T19	sosy 597 605	douleurs
+A2	assertion T19 absent
+T20	examen 609 634	urographie intra-veineuse
+T21	anatomie 620 634	intra-veineuse
+T22	moment 635 643	à 3 mois
+T23	sosy 661 681	sécrétion symétrique
+T24	sosy 689 718	bons passages pyélo-urétéraux
+T25	anatomie 703 718	pyélo-urétéraux
+T26	sosy 733 792	dilatation résiduelle du calice supérieur non significative
+T27	anatomie 758 774	calice supérieur
+T28	sosy 795 809	Asymptomatique
+T29	duree 810 835	depuis cette intervention
+T31	date 871 884	novembre 1999
+T32	sosy 893 935	réapparition de douleurs lombaires gauches
+T33	anatomie 918 935	lombaires gauches
+T34	duree 936 949	depuis 2 mois
+T35	sosy 955 1017	douleurs sont intermittentes, modérées et aggravées à l’effort
+T36	sosy 1088 1106	infection urinaire
+A4	assertion T36 absent
+T37	sosy 1113 1131	fièvre inexpliquée
+A6	assertion T37 absent
+A8	etat T8 passé
+T38	examen 1136 1151	examen clinique
+T39	sosy 1165 1204	sensibilité de la fosse lombaire gauche
+T40	anatomie 1183 1204	fosse lombaire gauche
+T41	examen 1209 1226	reste de l’examen
+T42	valeur 1233 1239	normal
+T43	sosy 1209 1275	reste de l’examen étant normal avec une bonne courbe de croissance
+T45	examen 1255 1275	courbe de croissance
+T46	examen 1281 1308	premier bilan échographique
+T47	sosy 1322 1415	petite formation liquidienne à la partie supérieure du sinus gauche mesurée à 27 x 19 x 10 mm
+T48	anatomie 1356 1389	partie supérieure du sinus gauche
+T49	valeur 1400 1415	27 x 19 x 10 mm
+T50	sosy 1429 1482	séquelle de la plastie de la jonction pyélo-urétérale
+T51	sosy 1489 1508	kyste para-pyélique
+T52	traitement 1444 1482	plastie de la jonction pyélo-urétérale
+T53	anatomie 1467 1482	pyélo-urétérale
+T54	anatomie 1495 1508	para-pyélique
+T55	examen 1513 1534	uro-tomodensitométrie
+T57	sosy 1547 1686	persistance d’une dilatation des cavités pyélo-calicielles gauches prédominant aux calices supérieurs avec perte de la concavité papillaire
+T58	anatomie 1580 1613	cavités pyélo-calicielles gauches
+T59	anatomie 1630 1648	calices supérieurs
+T60	anatomie 1676 1686	papillaire
+T61	sosy 1691 1790	amincissement du parenchyme postéro-interne du rein gauche a été retrouvé dans sa moitié supérieure
+T62	anatomie 1708 1749	parenchyme postéro-interne du rein gauche
+T63	anatomie 1773 1790	moitié supérieure
+T64	anatomie 1796 1814	passages urétéraux
+T65	sosy 1796 1856	passages urétéraux, bien que peu abondants, ont été précoces
+T66	anatomie 1862 1913	groupes caliciels moyen et inférieur du rein gauche
+T67	anatomie 1927 1937	rein droit
+T68	valeur 1961 1968	normaux
+T69	examen 1946 1954	analysés
+T70	sosy 1862 1968	groupes caliciels moyen et inférieur du rein gauche ainsi que le rein droit ont été analysés comme normaux
+T71	sosy 1981 2015	persistance des douleurs lombaires
+T72	examen 2021 2046	urographie intra-veineuse
+T73	mode 2032 2046	intra-veineuse
+T74	substance 2052 2069	hyper-hydratation
+T75	sosy 2124 2142	douleurs lombaires
+T76	sosy 2173 2200	passages urétéraux précoces
+T77	anatomie 2182 2191	urétéraux
+T78	anatomie 2221 2229	bassinet
+T79	sosy 2265 2310	dilatation nette du groupe caliciel supérieur
+T80	anatomie 2285 2310	groupe caliciel supérieur
+T81	sosy 2329 2364	sténose à la jonction calice-pyélon
+T82	anatomie 2342 2364	jonction calice-pyélon
+T83	sosy 2379 2399	empreinte vasculaire
+A11	assertion T83 possible
+T84	anatomie 2389 2399	vasculaire
+T85	sosy 2207 2229	dilatation du bassinet
+A12	assertion T85 absent
+T86	examen 2412 2418	cliché
+T87	moment 2421 2467	1 h 40 après l’injection intra-veineuse d’iode
+T88	mode 2436 2460	injection intra-veineuse
+T89	substance 2463 2467	iode
+T90	sosy 2480 2517	retard de vidange du calice supérieur
+T91	anatomie 2501 2517	calice supérieur
+T92	examen 2524 2555	scintigraphie rénale au DMSA-Tc
+T93	anatomie 2538 2544	rénale
+T94	anatomie 2568 2579	rein gauche
+T95	sosy 2568 2644	rein gauche augmenté de volume, avec une hypofixation de son tiers supérieur
+T96	anatomie 2629 2644	tiers supérieur
+T97	sosy 2650 2694	répartition symétrique de la fonction rénale
+T98	anatomie 2688 2694	rénale
+T99	sosy 2720 2800	taux de fixation absolu de 20% pour le rein droit et de 18 % pour le rein gauche
+T100	valeur 2747 2750	20%
+T101	valeur 2776 2780	18 %
+T102	anatomie 2759 2769	rein droit
+T103	anatomie 2789 2800	rein gauche
+T104	examen 2720 2743	taux de fixation absolu
+T105	examen 2805 2829	taux de fixation relatif
+T106	valeur 2839 2843	53 %
+T107	anatomie 2852 2862	rein droit
+T108	valeur 2869 2872	47%
+T109	anatomie 2881 2892	rein gauche
+T110	sosy 2805 2892	taux de fixation relatif a été de 53 % pour le rein droit et de 47% pour le rein gauche
+T111	examen 2897 2920	fonction rénale globale
+T112	anatomie 2906 2912	rénale
+T113	valeur 2958 2965	normale
+T114	sosy 2897 2965	fonction rénale globale a été évaluée dans les limites de la normale
+T115	pathologie 3004 3022	syndrome de Fraley
+A13	assertion T115 hypothétique
+T116	substance 3071 3112	traitement médical par anti-inflammatoire
+T117	substance 3114 3129	antispasmodique
+T118	substance 3133 3143	antalgique
+T119	duree 3144 3161	pendant deux mois
+T120	moment 3164 3190	A l’issue de ces deux mois
+T121	sosy 3196 3214	douleurs lombaires
+T122	examen 3232 3237	bilan
+T123	examen 3262 3345	artériographie sélective de l’artère rénale gauche (Figure 2) par ponction fémorale
+T124	anatomie 3292 3312	artère rénale gauche
+T125	anatomie 3337 3345	fémorale
+T126	sosy 3363 3421	artère principale vascularisant les 3/4 supérieurs du rein
+T127	anatomie 3363 3380	artère principale
+T128	anatomie 3399 3421	3/4 supérieurs du rein
+T129	anatomie 3435 3460	artère polaire inférieure
+T130	anatomie 3478 3499	1/4 inférieur du rein
+T131	sosy 3435 3499	artère polaire inférieure vascularisant le 1/4 inférieur du rein
+T132	examen 3503 3517	artériographie
+T133	sosy 3545 3553	pédicule
+A14	assertion T133 absent
+T134	sosy 3575 3625	empreinte du pied de la tige calicielle supérieure
+T135	anatomie 3588 3625	pied de la tige calicielle supérieure
+T136	sosy 3643 3667	persistance des douleurs
+T137	traitement 3673 3740	indication chirurgicale de plastie de la tige calicielle supérieure
+T138	anatomie 3714 3740	tige calicielle supérieure
+T139	traitement 3760 3765	geste
+T140	traitement 3784 3794	lombotomie
+T141	mode 3799 3815	la douzième côte
+T142	traitement 3820 3878	dissection intra-sinusale selon la technique de Gil Vernet
+T143	anatomie 3831 3845	intra-sinusale
+T144	traitement 3892 3913	mis l’uretère sur lac
+T145	anatomie 3898 3905	uretère
+T146	sosy 3946 3994	sténose du pied de la tige calicielle supérieure
+T147	anatomie 3957 3994	pied de la tige calicielle supérieure
+T148	sosy 4000 4039	origine organique (tumeur, lithiase,..)
+A15	assertion T148 absent
+T149	sosy 4043 4062	pédicule vasculaire
+A16	assertion T149 absent
+T150	anatomie 4052 4062	vasculaire
+T151	sosy 4085 4108	compression extrinsèque
+T152	traitement 4114 4156	infundibuloplastie par suture transversale
+T153	traitement 4163 4185	incision longitudinale
+T154	sosy 4195 4202	sténose
+T155	anatomie 4233 4244	loge rénale
+T156	anatomie 4259 4265	urines
+T157	traitement 4280 4288	drainées
+A17	assertion T157 absent
+T158	moment 4355 4372	au cinquième jour
+T159	moment 4399 4407	à 1 mois
+T160	moment 4413 4421	à 4 mois
+T161	sosy 4449 4465	douleur lombaire
+A18	assertion T161 absent
+T162	examen 4475 4481	effort
+T163	examen 4525 4561	urographie intraveineuse de contrôle
+T164	mode 4536 4549	intraveineuse
+T165	moment 4562 4570	à 4 mois
+T166	date 4574 4586	octobre 2000
+T167	sosy 4629 4664	sténose du pied du calice supérieur
+A19	assertion T167 absent
+T169	anatomie 4696 4702	pyélon
+T170	sosy 4674 4702	bons passages dans le pyélon
+T171	anatomie 4707 4723	calice supérieur
+T172	sosy 4736 4758	dilatation séquellaire
+T18	anatomie 4640 4664	pied du calice supérieur
+T44	anatomie 197 221	jonction pyélo-urétérale
+T168	substance 524 531	Lasilix
+T30	anatomie 1098 1106	urinaire
+A3	assertion T50 possible
+A5	assertion T51 possible
+T56	anatomie 2006 2015	lombaires
+T173	anatomie 2133 2142	lombaires
+T174	anatomie 4457 4465	lombaire
+T175	substance 434 438	DTPA
+T176	frequence 969 983	intermittentes
+T177	substance 2548 2555	DMSA-Tc
+T178	anatomie 3205 3214	lombaires
+T179	etatsosy 44 70	douleurs lombaires gauches
+T180	etatsosy 909 935	douleurs lombaires gauches
+T182	femme 182 221	syndrome de la jonction pyélo-urétérale
+T183	etatsosy 380 405	douleurs lombaires gauche
+T185	etatsosy 1997 2015	douleurs lombaires
+T186	femme 2173 2200	passages urétéraux précoces
+T187	femme 2329 2364	sténose à la jonction calice-pyélon
+T188	etatsosy 3196 3214	douleurs lombaires
+T189	etatsosy 3659 3667	douleurs
+T190	femme 3946 3994	sténose du pied de la tige calicielle supérieure
+T181	femme 308 347	syndrome de la jonction pyélo-urétérale
+T184	etatsosy 2124 2142	douleurs lombaires
+T191	femme 2265 2310	dilatation nette du groupe caliciel supérieur
+T192	femme 4629 4664	sténose du pied du calice supérieur
+T193	age 6 12	12 ans
+T194	genre 840 848	patiente
+A7	genre T194 féminin
+T195	origine 44 83	douleurs lombaires gauches persistantes
+T196	issue 4423 4521	elle n’a plus présenté de douleur lombaire même à l’effort et a pu reprendre une activité sportive
+A9	issue T196 guérison

@@ -1,0 +1,6 @@
+T1	genre 0 8	Monsieur
+T2	age 19 25	66 ans
+A1	genre T1 masculin
+T3	origine 50 105	une rétention aiguë d’urines et hématurie macroscopique
+T4	issue 1811 1946	Les suites post-opératoires ont été simples. La cystographie réalisée au 21ème jour montrait une vessie régulière, parfaitement étanche
+A2	issue T4 guérison

@@ -1,0 +1,6 @@
+T1	genre 2580 2590	Le patient
+T2	age 6 12	53 ans
+A1	genre T1 masculin
+T3	origine 37 166	douleurs lombaires, ecchymose des membres inférieurs, adénomégalies inguinales bilatérales, et hématome spontané du mollet gauche
+T4	issue 2744 2788	à l’issue desquelles il était asymptomatique
+A2	issue T4 amélioration

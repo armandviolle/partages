@@ -1,0 +1,6 @@
+T1	genre 0 4	Mlle
+T2	origine 67 74	malaise
+T3	age 8 14	25 ans
+A1	genre T1 féminin
+T4	issue 4003 4195	La patiente se plaignait d’une pollakiurie, un examen urodynamique retrouvait une vessie hypocompliante avec une augmentation des pressions probablement secondaire aux traitements endovésicaux
+A2	issue T4 stable

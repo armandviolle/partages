@@ -1,0 +1,6 @@
+T1	age 10 16	44 ans
+T2	genre 1282 1292	Le patient
+A1	genre T2 masculin
+T3	origine 28 136	une hématurie macroscopique massive isolé (sans lombalgie ou trouble mictionnel), sans notion de traumatisme
+T4	issue 1591 1634	A trois mois aucune récidive a été signalée
+A2	issue T4 guérison

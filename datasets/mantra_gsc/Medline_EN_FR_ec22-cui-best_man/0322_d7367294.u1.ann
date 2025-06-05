@@ -1,0 +1,8 @@
+T1	C0019054 0 8	Hémolyse
+#1	AnnotatorNotes T1	"C0019054", "Hemolysis (disorder)", "Pathologic Function" ,"DISO"
+T2	C0079186 15 26	cytaphérèse
+#2	AnnotatorNotes T2	"C0079186", "Cytapheresis", "Therapeutic or Preventive Procedure" ,"PROC"
+T3	C2937287 0 8	Hémolyse
+#3	AnnotatorNotes T3	"C2937287", "Hemolysis (biological funtion)", "Cell Function" ,"PHYS"
+T4	C2945560 0 8	Hémolyse
+#4	AnnotatorNotes T4	"C2945560", "Hemolysis (lab result)", "Laboratory or Test Result" ,"PHEN"

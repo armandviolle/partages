@@ -1,0 +1,6 @@
+T1	genre 0 8	Monsieur
+T2	age 21 27	40 ans
+A1	genre T1 masculin
+T3	origine 73 177	une volumineuse masse hypogastrique évoluant depuis 2 mois, sans signes urinaires, ni troubles digestifs
+T4	issue 1135 1209	L'évolution était favorable sans récidive tumorale après un recul de 2 ans
+A2	issue T4 guérison

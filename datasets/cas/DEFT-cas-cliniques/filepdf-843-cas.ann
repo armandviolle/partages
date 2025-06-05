@@ -1,0 +1,6 @@
+T1	genre 0 6	Madame
+T2	age 20 26	33 ans
+A1	genre T1 féminin
+T3	origine 147 172	une anomalie radiologique
+T4	issue 2209 2270	Un contrôle, dix huit mois après, ne montrait aucune récidive
+A2	issue T4 guérison

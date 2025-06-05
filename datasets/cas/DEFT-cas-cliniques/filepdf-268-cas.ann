@@ -1,0 +1,86 @@
+T23	anatomie 1014 1019	gland
+T5	traitement 1025 1035	anastomose
+T15	anatomie 1144 1159	corps spongieux
+T18	anatomie 120 125	gland
+T44	anatomie 1206 1243	couche périphérique de tissu érectile
+T12	dispositif 1300 1319	cathéter sus pubien
+T39	anatomie 1309 1319	sus pubien
+T37	traitement 1423 1445	soins post opératoires
+T4	substance 1466 1475	analgésie
+T6	substance 1517 1532	antibiothérapie
+T30	mode 1533 1544	parentérale
+T3	substance 1570 1588	acide clavulanique
+T10	mode 1628 1646	application locale
+T1	frequence 1676 1691	2 fois par jour
+T11	moment 1719 1731	au 6ème jour
+T24	anatomie 1744 1749	gland
+T25	anatomie 1845 1868	2/3 supérieurs du gland
+T45	anatomie 2042 2059	tissu glandulaire
+T28	valeur 2179 2186	normale
+T27	anatomie 2194 2205	méat apical
+T9	pathologie 29 67	antécédents pathologiques particuliers
+T32	anatomie 321 328	prépuce
+T19	anatomie 403 408	gland
+T20	anatomie 442 447	gland
+T33	anatomie 454 461	prépuce
+T42	substance 514 541	sérum physiologique stérile
+T69	duree 616 627	150 minutes
+T59	moment 639 653	per-opératoire
+T35	anatomie 666 671	pénis
+T68	sosy 702 718	saignement actif
+T21	anatomie 831 836	gland
+T77	traitement 845 854	hémostase
+T22	anatomie 876 881	gland
+T34	anatomie 888 895	prépuce
+T43	substance 921 946	sérum physiologique tiède
+T2	genre 3 9	garçon
+A1	genre T2 masculin
+T7	age 17 22	5 ans
+A2	assertion T9 absent
+T8	traitement 150 162	circoncision
+T14	homme 106 125	amputation du gland
+T40	traitement 106 125	amputation du gland
+T41	blessures 106 125	amputation du gland
+T46	anatomie 243 272	adhérences balano-préputiales
+T16	traitement 584 608	intervention réparatrice
+T38	traitement 568 578	amputation
+T47	traitement 383 408	section complète du gland
+T49	traitement 442 469	gland et le prépuce excisés
+T50	examen 632 653	examen per-opératoire
+T51	etatsosy 702 718	saignement actif
+T17	traitement 912 946	lavés au sérum physiologique tiède
+T52	traitement 964 978	reconstruction
+T53	traitement 998 1019	rattachement du gland
+T54	anatomie 1050 1056	urètre
+T55	traitement 1284 1319	cystostomie par cathéter sus pubien
+T56	dispositif 1393 1417	pansement non compressif
+T57	substance 1486 1511	propacétamol chlorhydrate
+T58	substance 1557 1569	amoxicilline
+T60	substance 1594 1603	amikacine
+T61	duree 1604 1620	pendant 14 jours
+T31	substance 1660 1675	acide fucidique
+T29	dispositif 1696 1705	pansement
+T48	moment 1881 1893	au 9ème jour
+T62	moment 1918 1931	au 35ème jour
+T13	moment 1962 1976	après 21 jours
+T63	traitement 1983 1994	cystostomie
+T64	moment 1995 2010	24 heures après
+T65	moment 2012 2037	A 11 mois post opératoire
+T26	fonction 2171 2186	miction normale
+T66	dispositif 1936 1948	tube urétral
+T67	sosy 1799 1868	croûte noirâtre superficielle intéressant les 2/3 supérieurs du gland
+T70	anatomie 372 377	pouce
+T36	dispositif 295 307	pinces Kelly
+T71	dispositif 1065 1105	sonde tutrice type Bruzière charrière 10
+T72	traitement 231 272	libérer les adhérences balano-préputiales
+T73	traitement 309 328	tire sur le prépuce
+T74	traitement 335 344	sectionne
+T75	sosy 666 683	pénis de vitalité
+A3	assertion T77 absent
+T76	traitement 1050 1139	urètre sur une sonde tutrice type Bruzière charrière 10 par des points séparés au PDS 7/0
+T78	traitement 1144 1193	corps spongieux par des points séparés au PDS 6/0
+T79	traitement 1206 1278	couche périphérique de tissu érectile par des points séparées au PDS 5/0
+T80	traitement 1341 1353	intervention
+T81	sosy 1744 1793	gland de coloration rose et de vitalité conservée
+T82	anatomie 1941 1948	urétral
+T83	traitement 1936 1961	tube urétral a été enlevé

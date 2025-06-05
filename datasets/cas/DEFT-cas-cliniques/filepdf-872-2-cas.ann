@@ -1,0 +1,6 @@
+T1	genre 0 8	Patiente
+T2	age 17 23	26 ans
+A1	genre T1 féminin
+T3	origine 194 352	patiente obnubilée, GCS à 12, apyrétique, ictère cutanéo-muqueux, tension artérielle 14/8, contractions utérines positives, bruits cardiaques fœtaux négatives
+T4	issue 967 1004	correction de son insuffisance rénale
+A2	issue T4 amélioration

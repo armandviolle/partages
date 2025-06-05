@@ -1,0 +1,6 @@
+T1	genre 0 8	Monsieur
+T2	age 12 18	34 ans
+T3	origine 829 1068	perturbations anarchiques de la tension artérielle, des phases d'agitation paroxystiques, une inflammation chronique massive de la muqueuse nasale avec obturation des voies aériennes supérieures, et une insomnie avec céphalées intolérables
+A1	genre T1 masculin
+T4	issue 1239 1329	La totalité des signes cliniques a régressé après un mois d'arrêt de la pharmacodépendance
+A2	issue T4 amélioration

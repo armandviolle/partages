@@ -1,0 +1,6 @@
+T1	age 5 11	21 ans
+T2	genre 869 879	Le patient
+A1	genre T2 masculin
+T3	origine 22 200	une grosse bourse droite d’apparition spontanée, augmentant progressivement de volume depuis 4 mois et accompagnée de douleurs intenses, insomniantes, irradiant le long du cordon
+T4	issue 1963 2146	l’examen locorégional ne retrouve pas de récidive locale, le testicule gauche est normal. Le scanner abdomino-pelvien de contrôle est normal ainsi que le dosage des marqueurs tumoraux
+A2	issue T4 amélioration

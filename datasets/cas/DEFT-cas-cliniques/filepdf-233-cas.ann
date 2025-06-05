@@ -1,0 +1,49 @@
+T10	examen 1082 1085	TDM
+T9	duree 29 49	depuis quelques mois
+T15	examen 327 338	échographie
+T14	examen 344 354	uroscanner
+T13	examen 874 926	examen anatomo-pathologique et immuno-histo-chimique
+T17	anatomie 881 901	anatomo-pathologique
+T18	examen 1054 1078	contrôles échographiques
+T19	examen 92 107	examen clinique
+T20	examen 204 219	examen physique
+T5	sosy 54 88	douleurs lombaires droites isolées
+T6	anatomie 63 80	lombaires droites
+T7	sosy 261 289	stigmate cutanée ou oculaire
+T8	anatomie 270 277	cutanée
+T11	anatomie 281 289	oculaire
+A3	assertion T7 absent
+T12	sosy 381 548	masse tissulaire rétropéritonéale droite infra médiastinale postérieure, bien limitée, mesurant 6 x 9 x 9 cm hypodense, se réhaussant faiblement et de façon hétérogène
+T16	anatomie 398 452	rétropéritonéale droite infra médiastinale postérieure
+T24	pathologie 626 637	adénopathie
+A4	assertion T24 absent
+T27	traitement 692 725	thoraco-pleuro-laparotomie droite
+T29	traitement 737 824	exérèse d’une masse supra rénale droite bien encapsulée et adhérente au plan postérieur
+T30	sosy 751 824	masse supra rénale droite bien encapsulée et adhérente au plan postérieur
+T31	anatomie 757 776	supra rénale droite
+T33	anatomie 905 926	immuno-histo-chimique
+T34	sosy 941 987	schwannome remanié sans caractère de malignité
+T25	examen 153 178	constantes hémodynamiques
+T35	valeur 477 489	6 x 9 x 9 cm
+T37	sosy 131 147	bon état général
+T38	anatomie 857 865	pédicule
+T40	pathologie 293 322	maladie de Von Recklinghausen
+T41	sosy 231 240	anomalies
+A5	assertion T41 absent
+T1	sosy 837 869	vascularisée par un pédicule fin
+T3	sosy 153 188	constantes hémodynamiques correctes
+T4	traitement 652 677	intervention chirurgicale
+T21	anatomie 809 824	plan postérieur
+T23	sosy 1106 1114	récidive
+A1	assertion T23 absent
+T28	moment 1120 1139	un recul de 24 mois
+T2	valeur 179 188	correctes
+T22	etatsosy 54 88	douleurs lombaires droites isolées
+T39	tumeur 941 987	schwannome remanié sans caractère de malignité
+T42	femme 941 987	schwannome remanié sans caractère de malignité
+T26	genre 0 3	Mme
+T32	age 10 16	38 ans
+A2	genre T26 féminin
+T36	origine 54 88	douleurs lombaires droites isolées
+T43	issue 1010 1139	Les suites opératoires ont été simples, les contrôles échographiques et TDM n’ont pas montré de récidive avec un recul de 24 mois
+A6	issue T43 guérison

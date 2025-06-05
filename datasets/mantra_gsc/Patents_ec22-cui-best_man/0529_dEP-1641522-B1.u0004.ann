@@ -1,0 +1,8 @@
+T5	C0162537 187 196	impédance
+#5	AnnotatorNotes T5	"C0162537", "electric impedance", "Physiologic Function" ,"PHYS"
+T6	C1262869 254 261	posture
+#6	AnnotatorNotes T6	"C1262869", "Body position", "Organism Attribute" ,"PHYS"
+T7	C0243111 2 10	appareil
+#7	AnnotatorNotes T7	"C0243111", "manufactured apparatus", "Manufactured Object" ,"OBJC"
+T11	C0699733 2 10	appareil
+#11	AnnotatorNotes T11	"C0699733", "Devices", "Manufactured Object" ,"OBJC"

@@ -1,0 +1,6 @@
+T1	genre 223 228	homme
+T2	age 232 238	28 ans
+A1	genre T1 masculin
+T3	issue 247 253	décédé
+A2	issue T3 décès
+T4	origine 275 354	suicide par absorption d'une dose massive de A s 0 (8 g environ) par voie orale

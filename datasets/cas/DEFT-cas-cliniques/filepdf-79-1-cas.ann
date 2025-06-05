@@ -1,0 +1,6 @@
+T1	genre 0 3	Mme
+T2	age 19 25	26 ans
+A1	genre T1 féminin
+T3	origine 55 148	à 14 semaines d’aménorrhée pour des lombalgies droite, hématurie totale et un gros rein droit
+T4	issue 974 1116	L’évolution était marquée par l’apparition au 4ème mois du post-partum, de métastases diffuses péritonéale, hépatique, pulmonaire et cérébrale
+A2	issue T4 détérioration

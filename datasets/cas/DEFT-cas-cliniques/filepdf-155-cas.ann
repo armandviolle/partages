@@ -1,0 +1,6 @@
+T1	genre 17 25	Monsieur
+T2	age 33 39	56 ans
+A1	genre T1 masculin
+T3	origine 114 202	une tuméfaction scrotale, prurigineuse, indolore et augmentant progressivement de volume
+T4	issue 900 1001	Revu un mois après l’exérèse, le scrotum était complètement cicatrisé et il n’y avait pas de récidive
+A2	issue T4 guérison

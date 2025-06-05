@@ -1,0 +1,6 @@
+T1	age 13 19	53 ans
+T2	genre 3290 3300	Le patient
+T3	issue 3301 3309	décédait
+A1	issue T3 décès
+A2	genre T2 masculin
+T4	origine 112 313	une hématurie macroscopique dont le bilan endoscopique a permis de découvrir une tumeur vésicale compacte du dôme et de la face postérieure, à large base d’implantation et dure au contact du cystoscope

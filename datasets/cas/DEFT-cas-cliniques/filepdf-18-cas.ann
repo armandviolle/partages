@@ -1,0 +1,186 @@
+T98	traitement 105 138	traitement de douleurs pelviennes
+T107	examen 1104 1128	urographie intraveineuse
+T59	mode 1115 1128	intraveineuse
+T70	valeur 1129 1136	normale
+T52	examen 1156 1190	examen tomodensitométrique pelvien
+T75	anatomie 1183 1190	pelvien
+T8	etatsosy 119 138	douleurs pelviennes
+T35	anatomie 1218 1242	vésicule séminale droite
+T76	anatomie 128 138	pelviennes
+T50	examen 1286 1301	examen clinique
+T96	examen 1325 1339	toucher rectal
+T87	anatomie 1333 1339	rectal
+T36	anatomie 1351 1375	vésicule séminale droite
+T109	examen 1422 1463	urèthrographie rétrograde et mictionnelle
+T72	valeur 1517 1525	normales
+T27	examen 1531 1552	biopsie trans-rectale
+T89	mode 1539 1552	trans-rectale
+T11	sosy 1620 1651	signe de prolifération tumorale
+T94	anatomie 1668 1678	tissulaire
+T129	anatomie 1698 1715	glandes sinueuses
+T112	anatomie 1729 1739	épithélial
+T29	anatomie 1748 1756	cellules
+T99	substance 1898 1930	traitement désinfectant urinaire
+T102	anatomie 1922 1930	urinaire
+T19	substance 1941 1960	trois antibiotiques
+T81	anatomie 1979 1996	intra-prostatique
+T93	sosy 2039 2054	symptomatologie
+T28	sosy 209 225	bon état général
+T97	examen 2100 2114	toucher rectal
+T88	anatomie 2108 2114	rectal
+T63	sosy 2134 2140	lésion
+T43	examen 2158 2199	examen par résonance magnétique nucléaire
+T5	homme 2234 2267	oligoasthénotératospermie modérée
+T54	examen 2273 2297	exploration urodynamique
+T71	valeur 2321 2328	normale
+T44	examen 2375 2402	examen électrophysiologique
+T68	valeur 2429 2435	normal
+T21	sosy 260 278	antécédent notable
+T83	anatomie 2632 2645	psychiatrique
+T100	substance 2702 2712	clonazépam
+T61	date 2799 2811	juillet 1999
+T9	etatsosy 2838 2857	douleurs pelviennes
+T77	anatomie 2847 2857	pelviennes
+T26	examen 2922 2935	nouveau bilan
+T41	homme 295 312	uréthrite à germe
+T69	valeur 2983 2989	normal
+T17	valeur 3051 3054	80%
+T53	examen 3085 3111	examen tomodensitométrique
+T66	sosy 3130 3179	augmentation du volume de la masse mesuré à 36 mm
+T7	sosy 3230 3236	lésion
+T51	examen 3241 3256	examen clinique
+T24	sosy 3277 3285	augmenté
+T14	date 3319 3323	1994
+T37	anatomie 3387 3393	droite
+T25	moment 325 352	environ deux ans auparavant
+T16	date 3423 3438	12 octobre 1999
+T67	mode 3443 3484	voie médiane strictement sous-péritonéale
+T91	dispositif 3527 3549	sonde urétérale droite
+T110	anatomie 3533 3549	urétérale droite
+T40	moment 3550 3575	en préopératoire immédiat
+T58	examen 357 371	interrogatoire
+T108	examen 3620 3644	urographie intraveineuse
+T60	mode 3631 3644	intraveineuse
+T111	anatomie 3669 3702	voie excrétrice supérieure droite
+T30	traitement 3720 3729	chirurgie
+T10	infections 3786 3804	infection urinaire
+T103	anatomie 3796 3804	urinaire
+T23	moment 3815 3832	au cinquième jour
+T15	etatsosy 3848 3862	fébrile à 39°C
+T113	valeur 3858 3861	39°
+T42	etatsosy 386 413	syndrome douloureux pelvien
+T20	substance 3880 3893	antibiotiques
+T144	anatomie 3904 3913	urèthrale
+T33	sosy 386 413	syndrome douloureux pelvien
+T74	anatomie 406 413	pelvien
+T78	moment 4072 4101	immédiatement post-opératoire
+T49	examen 4106 4132	examen anatomopathologique
+T18	anatomie 4113 4132	anatomopathologique
+T55	traitement 4147 4154	exérèse
+T38	etatsosy 4244 4279	fibrose dystrophique interstitielle
+T2	etatsosy 4283 4303	micro-calcifications
+T22	sosy 4394 4408	asymptomatique
+T12	date 468 472	1989
+T57	sosy 483 511	intensification des douleurs
+T148	etatsosy 503 511	douleurs
+T149	etatsosy 590 614	douleurs à l’éjaculation
+T13	date 67 79	janvier 1994
+T104	anatomie 696 702	urines
+T92	valeur 724 732	stériles
+T65	sosy 824 888	masse sus-prostatique droite, douloureuse lors du toucher rectal
+T79	anatomie 830 852	sus-prostatique droite
+T95	examen 874 888	toucher rectal
+T86	anatomie 882 888	rectal
+T80	anatomie 938 949	prostatique
+T3	genre 0 8	Monsieur
+T34	age 13 23	né en 1974
+#1	AnnotatorNotes T34	20 ans
+T45	duree 148 163	depuis cinq ans
+T46	taille 235 241	178 cm
+T48	poids 247 252	65 kg
+A1	assertion T21 absent
+T32	date 524 528	1992
+T56	sosy 620 631	hémospermie
+A2	assertion T56 absent
+T31	examen 1471 1487	déférentographie
+T4	mode 1969 1996	diffusion intra-prostatique
+T62	date 2025 2029	1996
+T64	sosy 1559 1565	lésion
+T73	examen 2204 2220	spermocytogramme
+T82	substance 2714 2722	Rivotril
+T90	substance 2731 2741	paroxetine
+T101	substance 2743 2751	Deroxate
+T105	examen 2957 2969	spermogramme
+T106	valeur 3031 3045	28 millions/ml
+T47	traitement 3372 3393	vésiculectomie droite
+A3	norme T113 haut
+T39	moment 3928 3944	au neuvième jour
+T84	moment 3983 4014	au douzième jour postopératoire
+T85	sosy 570 614	exacerbation de ses douleurs à l’éjaculation
+T114	sosy 119 138	douleurs pelviennes
+T1	sosy 932 949	abcès prostatique
+A4	assertion T1 possible
+#2	AnnotatorNotes T1	Diagnostic non confirmé
+T116	examen 1398 1416	urèthrocystoscopie
+A5	assertion T11 absent
+T117	sosy 1590 1613	infiltrat inflammatoire
+A6	assertion T117 absent
+T118	examen 1660 1678	carotte tissulaire
+T119	sosy 2536 2591	composante neurogène s’intégrant dans une névrose grave
+T120	sosy 2838 2857	douleurs pelviennes
+T6	sosy 3839 3863	syndrome fébrile à 39°C,
+T121	sosy 660 688	syndrome infectieux clinique
+A7	assertion T121 absent
+A8	genre T3 masculin
+T122	examen 2999 3028	numération des spermatozoïdes
+T123	moment 3063 3077	après 4 heures
+T124	sosy 4020 4028	douleurs
+A9	assertion T124 absent
+T125	sosy 4185 4202	vésicule séminale
+T126	traitement 974 1000	drainage par prostatotomie
+T127	valeur 3174 3179	36 mm
+T128	infections 295 312	uréthrite à germe
+T130	infections 932 949	abcès prostatique
+T131	homme 932 949	abcès prostatique
+T132	homme 3786 3804	infection urinaire
+T133	moment 166 177	A l’arrivée
+T134	sosy 227 253	mince, (178 cm pour 65 kg)
+T115	examen 542 552	rapportait
+T135	sosy 696 732	urines avaient toujours été stériles
+T136	sosy 974 1036	drainage par prostatotomie n’avait apporté aucune amélioration
+T137	moment 1039 1071	Lors de sa première consultation
+T138	sosy 1104 1136	urographie intraveineuse normale
+T139	sosy 1218 1270	vésicule séminale droite d’environ 20 mm de diamètre
+T140	moment 1302 1312	à l’entrée
+T141	sosy 1344 1375	grosse vésicule séminale droite
+T142	mode 1437 1447	rétrograde
+T143	sosy 1660 1795	carotte tissulaire contenant quelques glandes sinueuses à revêtement épithélial fait de cellules régulières à noyau arrondi ou ovalaire
+T145	anatomie 1770 1775	noyau
+T146	sosy 2068 2095	état général était conservé
+T147	sosy 2273 2328	exploration urodynamique était considérée comme normale
+T150	examen 2407 2422	test à la sueur
+T151	sosy 2407 2435	test à la sueur était normal
+T152	traitement 2616 2645	prise en charge psychiatrique
+T153	substance 2678 2688	traitement
+T154	sosy 2957 3062	spermogramme sensiblement normal avec une numération des spermatozoïdes à 28 millions/ml dont 80% mobiles
+T155	anatomie 3014 3028	spermatozoïdes
+T156	examen 3301 3315	premier examen
+T157	traitement 3516 3549	monter une sonde urétérale droite
+A10	assertion T157 absent
+T158	moment 3594 3615	en fin d'intervention
+T159	sosy 3669 3729	voie excrétrice supérieure droite respectée par la chirurgie
+T160	dispositif 3809 3814	sonde
+T161	sosy 3786 3814	infection urinaire sur sonde
+T162	dispositif 3898 3913	sonde urèthrale
+T163	traitement 3898 3927	sonde urèthrale a été retirée
+T164	anatomie 4139 4154	pièce d’exérèse
+T165	sosy 4325 4338	foyer tumoral
+A11	assertion T165 absent
+T166	moment 4352 4377	Avec quatre mois de recul
+T167	date 19 23	1974
+T168	valeur 1245 1270	environ 20 mm de diamètre
+T169	sosy 295 312	uréthrite à germe
+T170	organisme 307 312	germe
+T171	pathologie 2234 2267	oligoasthénotératospermie modérée
+T172	sosy 4244 4279	fibrose dystrophique interstitielle
+T173	sosy 4283 4303	micro-calcifications

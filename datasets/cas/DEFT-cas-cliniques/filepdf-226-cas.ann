@@ -1,0 +1,88 @@
+T14	examen 1186 1193	biopsie
+T22	examen 1199 1225	étude anatomo-pathologique
+T21	anatomie 1205 1225	anatomo-pathologique
+T17	examen 1570 1576	examen
+T10	examen 515 530	toucher vaginal
+T11	anatomie 523 530	vaginal
+T18	examen 542 558	palper abdominal
+T19	anatomie 549 558	abdominal
+T12	examen 732 753	échographie pelvienne
+T5	duree 76 89	depuis 5 mois
+T8	examen 909 931	TDM abdomino-pelvienne
+T9	anatomie 913 931	abdomino-pelvienne
+T13	anatomie 744 753	pelvienne
+T24	examen 1352 1371	bilan préopératoire
+T25	examen 1169 1180	cystoscopie
+T26	examen 475 502	examen clinique d’admission
+T27	examen 686 702	examen somatique
+T29	valeur 1389 1395	normal
+T30	examen 427 437	rapportait
+T31	valeur 709 727	sans particularité
+T32	examen 1315 1340	étude immunohistochimique
+T20	sosy 150 157	dysurie
+T33	sosy 163 174	pollakiurie
+T34	sosy 184 208	impériosité mictionnelle
+T35	sosy 216 237	brûlures mictionnlles
+T36	sosy 278 297	hématurie terminale
+T37	sosy 305 323	lombalgies gauches
+T39	sosy 353 361	apyrexie
+T15	sosy 452 471	leucorrhées fétides
+T40	sosy 563 634	masse ferme, douloureuse, palpée à travers la paroi vaginale antérieure
+T42	examen 589 634	palpée à travers la paroi vaginale antérieure
+T43	anatomie 609 634	paroi vaginale antérieure
+T44	sosy 655 670	tumeur vésicale
+T45	anatomie 662 670	vésicale
+A3	norme T31 normal
+T46	sosy 767 904	tumeur vésicale latéro-trégonale gauche de 47/48/52 mm de diamètre (Figure 1), avec un retentissement sur le haut appareil du côté gauche
+T47	anatomie 774 806	vésicale latéro-trégonale gauche
+T48	anatomie 876 904	haut appareil du côté gauche
+T50	sosy 948 973	masse tumorale hétérogène
+T52	anatomie 1040 1074	paroi latérale gauche de la vessie
+T53	sosy 1084 1112	urétéro-hydronéphrose gauche
+T55	sosy 1258 1297	pseudotumeur inflammatoire de la vessie
+T56	anatomie 1291 1297	vessie
+A4	norme T29 normal
+T57	traitement 1453 1473	exérèse de la tumeur
+T58	sosy 1467 1473	tumeur
+T61	sosy 1644 1677	tumeur inflammatoire de la vessie
+T62	anatomie 1671 1677	vessie
+T63	valeur 810 833	47/48/52 mm de diamètre
+T64	sosy 983 1074	calcifications périphériques développées au dépend de la paroi latérale gauche de la vessie
+T65	anatomie 998 1011	périphériques
+T66	sosy 368 398	conservation de l’état général
+T67	moment 1551 1565	10 jours après
+T1	pathologie 25 63	antécédents pathologiques particuliers
+A1	assertion T1 absent
+T2	sosy 686 727	examen somatique était sans particularité
+T3	traitement 1415 1421	opérée
+T4	mode 1426 1443	voie sus-pubienne
+T6	traitement 1491 1526	mise en place d’une sonde urétérale
+T7	duree 1691 1703	à long terme
+T16	moment 1722 1742	un recul de deux ans
+T23	anatomie 1431 1443	sus-pubienne
+T28	traitement 1543 1550	retirée
+T38	sosy 1352 1395	bilan préopératoire qui s’est révélé normal
+T41	etatsosy 150 157	dysurie
+T49	femme 150 157	dysurie
+T51	femme 163 174	pollakiurie
+T54	etatsosy 163 174	pollakiurie
+T59	femme 184 208	impériosité mictionnelle
+T60	etatsosy 184 208	impériosité mictionnelle
+T68	femme 216 237	brûlures mictionnlles
+T69	etatsosy 216 237	brûlures mictionnlles
+T70	femme 278 297	hématurie terminale
+T71	etatsosy 278 297	hématurie terminale
+T72	etatsosy 305 323	lombalgies gauches
+T73	femme 452 471	leucorrhées fétides
+T74	femme 1084 1112	urétéro-hydronéphrose gauche
+T75	femme 1258 1297	pseudotumeur inflammatoire de la vessie
+T76	tumeur 1467 1473	tumeur
+T77	tumeur 1258 1297	pseudotumeur inflammatoire de la vessie
+T78	tumeur 1644 1677	tumeur inflammatoire de la vessie
+T79	femme 1644 1677	tumeur inflammatoire de la vessie
+T80	age 12 18	30 ans
+T81	genre 418 426	patiente
+A2	genre T81 féminin
+T82	origine 116 398	un tableau clinique associant une dysurie, une pollakiurie avec une impériosité mictionnelle et des brûlures mictionnlles, qui s’est compliqué par la suite d’une hématurie terminale et des lombalgies gauches, évoluant dans un contexte d’apyrexie et de conservation de l’état général
+T83	issue 1679 1742	L’évolution à long terme était bonne, avec un recul de deux ans
+A5	issue T83 guérison

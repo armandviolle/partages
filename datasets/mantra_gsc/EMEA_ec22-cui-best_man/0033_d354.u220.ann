@@ -1,0 +1,18 @@
+T10	C0032285 0 9	pneumonie
+#10	AnnotatorNotes T10	"C0032285", "Pneumonia", "Disease or Syndrome" ,"DISO"
+T11	C0149725 12 57	infection des voies respiratoires inférieures
+#11	AnnotatorNotes T11	"C0149725", "Lower respiratory tract infection", "Disease or Syndrome" ,"DISO"
+T12	C0019360 59 63	zona
+#12	AnnotatorNotes T12	"C0019360", "Herpes zoster disease", "Disease or Syndrome" ,"DISO"
+T13	C0019348 65 79	Herpès Simplex
+#13	AnnotatorNotes T13	"C0019348", "Herpes Simplex Infections", "Disease or Syndrome" ,"DISO"
+T14	C0042029 81 101	infections urinaires
+#14	AnnotatorNotes T14	"C0042029", "Urinary tract infection", "Disease or Syndrome" ,"DISO"
+T15	C0041912 103 148	infection des voies respiratoires supérieures
+#15	AnnotatorNotes T15	"C0041912", "Upper Respiratory Infections", "Disease or Syndrome" ,"DISO"
+T16	C0037199 150 158	sinusite
+#16	AnnotatorNotes T16	"C0037199", "Sinusitis", "Disease or Syndrome" ,"DISO"
+T17	C0006849 160 177	candidose buccale
+#17	AnnotatorNotes T17	"C0006849", "Oral candidiasis", "Disease or Syndrome" ,"DISO"
+T18	C0877048 179 205	infection fongique buccale
+#18	AnnotatorNotes T18	"C0877048", "Oral fungal infection", "Disease or Syndrome" ,"DISO"

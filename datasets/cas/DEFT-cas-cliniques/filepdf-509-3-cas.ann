@@ -1,0 +1,69 @@
+T6	sosy 847 851	toux
+T7	sosy 853 866	bronchospasme
+T9	valeur 1147 1155	710 mg/l
+T11	sosy 735 747	tremblements
+T12	sosy 749 759	myoclonies
+T13	sosy 761 772	convulsions
+T14	examen 339 360	tomographie cérébrale
+T15	anatomie 351 360	cérébrale
+T10	substance 69 80	bifenthrine
+T18	examen 180 195	hypoalbuminémie
+T19	examen 204 224	taux de prothrombine
+T20	valeur 227 231	62 %
+T21	examen 246 255	hypoxemie
+T22	examen 258 277	électrocardiogramme
+T23	examen 138 155	tests biologiques
+T24	examen 285 318	examens cardiaques et pulmonaires
+T25	anatomie 293 303	cardiaques
+T26	anatomie 307 318	pulmonaires
+T27	valeur 327 334	normaux
+A3	norme T27 normal
+T28	valeur 375 382	normale
+A4	norme T28 normal
+T29	sosy 423 449	calcifications bilatérales
+T30	anatomie 438 449	bilatérales
+T31	sosy 558 596	intoxication aiguës aux pyréthrinoïdes
+T33	sosy 622 644	ingestions suicidaires
+T34	sosy 713 733	troubles musculaires
+T35	anatomie 722 733	musculaires
+T36	pathologie 795 804	catatonie
+T37	sosy 810 845	manifestations ORL et respiratoires
+T38	anatomie 825 828	ORL
+T39	anatomie 832 845	respiratoires
+T40	sosy 1014 1049	hypersensibilité aux pyréthrinoïdes
+T41	sosy 1087 1118	intoxication aux pyréthrinoïdes
+T42	anatomie 1198 1202	peau
+T43	valeur 1291 1298	20 µg/l
+T44	anatomie 1307 1312	sérum
+T45	traitement 683 701	stimulation du SNC
+T46	anatomie 698 701	SNC
+#2	AnnotatorNotes T46	système nerveux central
+T47	substance 968 978	adrénaline
+A5	norme T20 bas
+T1	substance 32 52	solution insecticide
+T2	moment 525 545	après quelques jours
+T3	substance 582 596	pyréthrinoïdes
+A1	assertion T37 possible
+A2	assertion T36 possible
+T4	substance 1035 1049	pyréthrinoïdes
+T5	substance 1069 1077	antidote
+T8	substance 1104 1118	pyréthrinoïdes
+T16	sosy 180 231	hypoalbuminémie avec un taux de prothrombine à 62 %
+T17	sosy 239 255	faible hypoxemie
+T32	sosy 339 382	tomographie cérébrale s'est révélée normale
+T48	sosy 258 334	électrocardiogramme et les examens cardiaques et pulmonaires étaient normaux
+T50	etatsosy 246 255	hypoxemie
+T51	hemopathies 180 195	hypoalbuminémie
+T52	chimiques 558 596	intoxication aiguës aux pyréthrinoïdes
+T49	nerveux 761 772	convulsions
+T53	etatsosy 761 772	convulsions
+T54	nerveux 749 759	myoclonies
+T55	etatsosy 749 759	myoclonies
+T56	nerveux 735 747	tremblements
+T57	etatsosy 735 747	tremblements
+T58	genre 3 8	homme
+T59	age 12 18	80 ans
+A6	genre T58 masculin
+T60	origine 19 80	a ingéré une solution insecticide contenant de la bifenthrine
+T61	issue 451 545	L'évolution clinique a été favorable et le patient a pu quitter l'hôpital après quelques jours
+A7	issue T61 guérison

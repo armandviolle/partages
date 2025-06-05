@@ -1,0 +1,61 @@
+T16	examen 130 152	échographie abdominale
+T17	anatomie 142 152	abdominale
+T15	examen 232 249	tomodensitométrie
+T13	examen 86 101	examen clinique
+T14	examen 865 891	examen anatomopathologique
+T18	anatomie 872 891	anatomopathologique
+T3	examen 524 535	hémoglobine
+T4	valeur 536 545	12,4 g/ml
+T5	examen 547 565	taux de plaquettes
+T6	valeur 566 577	256.000/mm3
+T7	sosy 267 347	lésion qui est de forme ovalaire et développée dans la loge surrénalienne droite
+T8	sosy 51 82	douleurs de l’hypochondre droit
+T9	anatomie 65 82	hypochondre droit
+T10	sosy 166 227	masse hypoéchogène au contact du pôle supérieur du rein droit
+T11	anatomie 199 227	pôle supérieur du rein droit
+T19	anatomie 322 347	loge surrénalienne droite
+T20	sosy 355 445	masse mesurait 11 cm x 8 cm x 8 cm, spontanément hyperdense et ne prenant pas le contraste
+T21	examen 483 510	numération formule sanguine
+T22	examen 604 606	TP
+T23	valeur 609 612	80%
+T24	examen 614 617	TCA
+T25	valeur 620 629	32’’/31’’
+A2	norme T23 normal
+A3	norme T25 normal
+#1	AnnotatorNotes T24	temps de céphaline activée
+#2	AnnotatorNotes T22	taux de prothombine
+T26	examen 662 673	exploration
+T27	sosy 678 796	masse se développe aux dépens de la surrénale et adhérait intimement aux organes de voisinage, notamment au diaphragme
+T28	anatomie 714 723	surrénale
+T29	anatomie 786 796	diaphragme
+T30	traitement 802 824	surrénalectomie droite
+T31	pathologie 837 845	hématome
+T32	sosy 906 934	nature hématique de la masse
+T33	anatomie 950 959	surrénale
+T34	sosy 983 998	lésion tumorale
+A4	assertion T34 absent
+T38	valeur 595 602	normale
+T42	valeur 108 126	sans particularité
+T36	valeur 370 389	11 cm x 8 cm x 8 cm
+T41	mode 639 656	sous costal droit
+T44	traitement 452 461	injection
+T1	sosy 19 29	antécédent
+A5	assertion T1 absent
+T2	examen 583 588	crase
+T12	anatomie 751 771	organes de voisinage
+T35	sosy 583 630	crase était normale (TP : 80%, TCA : 32’’/31’’)
+T37	sosy 524 545	hémoglobine 12,4 g/ml
+T39	sosy 547 577	taux de plaquettes 256.000/mm3
+T40	sosy 86 126	examen clinique était sans particularité
+T43	anatomie 502 510	sanguine
+A1	assertion T31 absent
+A6	norme T42 normal
+T45	etatsosy 51 59	douleurs
+T46	femme 267 347	lésion qui est de forme ovalaire et développée dans la loge surrénalienne droite
+T47	homme 267 347	lésion qui est de forme ovalaire et développée dans la loge surrénalienne droite
+T48	age 6 12	22 ans
+T49	origine 51 82	douleurs de l’hypochondre droit
+T50	issue 1000 1080	Les suites opératoires étaient simples, et aucun facteur causal n’a été retrouvé
+A7	issue T50 guérison
+A8	norme T6 normal
+#3	AnnotatorNotes T4	Normal 13-18 (homme), 12-16 (femme)

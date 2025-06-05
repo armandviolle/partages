@@ -1,0 +1,25 @@
+T8	examen 541 550	plombémie
+T10	examen 712 782	prélèvements sanguins, d’urines, de cheveux et d’ongles du gros orteil
+T13	anatomie 748 755	cheveux
+T14	anatomie 761 782	ongles du gros orteil
+T15	examen 447 452	bilan
+T16	examen 487 496	plombémie
+T1	sosy 468 496	augmentation de la plombémie
+T2	sosy 541 557	plombémie élevée
+T3	sosy 253 308	applique la pâte de plomb sur les grilles des batteries
+T4	examen 865 892	essai de migration du plomb
+T5	examen 985 992	analysé
+T6	examen 998 1026	rapports isotopiques témoins
+T7	duree 134 155	depuis plus de 30 ans
+T9	anatomie 725 733	sanguins
+T11	anatomie 737 743	urines
+T12	chimiques 541 557	plombémie élevée
+T17	chimiques 487 496	plombémie
+T18	age 99 115	60, 50 et 19 ans
+T19	genre 50 54	père
+T20	genre 59 63	mère
+T21	genre 70 74	fils
+A1	genre T19 masculin
+A2	genre T20 féminin
+A3	genre T21 masculin
+T22	origine 444 557	un bilan motivé par une augmentation de la plombémie chez le père, les trois sujets montrent une plombémie élevée

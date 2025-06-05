@@ -1,0 +1,18 @@
+T9	C1174784 23 29	Ranexa
+#9	AnnotatorNotes T9	"C1174784", "Ranexa", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T10	C0344232 105 119	vision trouble
+#10	AnnotatorNotes T10	"C0344232", "Blurred vision", "Sign or Symptom" ,"DISO"
+T15	C0041755 48 66	effets secondaires
+#15	AnnotatorNotes T15	"C0041755", "Adverse reaction to drug", "Injury or Poisoning" ,"DISO"
+T16	C0012833 77 85	vertiges
+#16	AnnotatorNotes T16	"C0012833", "Dizziness", "Sign or Symptom" ,"DISO"
+T18	C0336779 216 222	outils
+#18	AnnotatorNotes T18	"C0336779", "Machine", "Manufactured Object" ,"OBJC"
+T19	C0336779 226 234	machines
+#19	AnnotatorNotes T19	"C0336779", "Machine", "Manufactured Object" ,"OBJC"
+T44	C0559546 48 66	effets secondaires
+#44	AnnotatorNotes T44	"C0559546", "Adverse reactions", "Finding" ,"DISO"
+T22	C0577353 173 192	aptitude à conduire
+#22	AnnotatorNotes T22	"C0577353", "Ability to drive a car", "Finding" ,"DISO"
+T13	C0877248 48 66	effets secondaires
+#13	AnnotatorNotes T13	"C0877248", "Adverse event", "Finding", "DISO"

@@ -1,0 +1,6 @@
+T1	age 24 30	80 ans
+T2	genre 544 554	Le patient
+A1	genre T2 masculin
+T3	origine 48 97	hématurie symptomatique d’un polype péri cervical
+T4	issue 1381 1511	Le bilan de coagulation était normalisé et aucune récidive hémorragique n’était constatée 10 mois après l’initiation du traitement
+A2	issue T4 amélioration

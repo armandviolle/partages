@@ -1,0 +1,8 @@
+T1	C0005937 33 55	kyste osseux solitaire
+#1	AnnotatorNotes T1	"C0005937", "Bone Cysts", "Disease or Syndrome|Anatomical Abnormality" ,"DISO"
+T2	C0008059 63 69	enfant
+#2	AnnotatorNotes T2	"C0008059", "Child", "Age Group" ,"LIVB"
+T3	C0024091 74 89	rachis lombaire
+#3	AnnotatorNotes T3	"C0024091", "Bone structure of lumbar vertebra", "Body Part Organ or Organ Component" ,"ANAT"
+T4	C1269871 74 89	rachis lombaire
+#4	AnnotatorNotes T4	"C1269871", "Entire lumbar spine", "Body Location or Region" ,"ANAT"

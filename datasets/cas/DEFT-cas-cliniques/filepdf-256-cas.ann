@@ -1,0 +1,94 @@
+T18	examen 1019 1026	examens
+T29	anatomie 1097 1122	lombaire postéro-latérale
+T34	sosy 1142 1182	masse de la surrénale, graisseuse, molle
+T43	anatomie 1154 1163	surrénale
+T46	traitement 1188 1203	surrénalectomie
+T31	sosy 125 166	masse lombaire gauche de 15cm de diamètre
+T2	tumeur 1259 1277	kyste séreux rénal
+T41	anatomie 1272 1277	rénal
+T30	anatomie 131 146	lombaire gauche
+T24	examen 1332 1374	examen histologique de la pièce opératoire
+T45	anatomie 1421 1437	surrénale gauche
+T4	tumeur 1469 1475	tumeur
+T7	valeur 150 166	15cm de diamètre
+T9	examen 1542 1552	A la coupe
+T54	anatomie 1579 1592	tissu adipeux
+T25	examen 1664 1683	examen histologique
+T5	tumeur 1691 1697	tumeur
+T15	sosy 178 194	contact lombaire
+T52	anatomie 1808 1829	tissu hématopoiétique
+T35	valeur 1830 1836	normal
+T6	tumeur 1841 1847	tumeur
+T28	anatomie 186 194	lombaire
+T55	anatomie 1935 1952	tissu surrénalien
+T19	examen 200 219	examens biologiques
+T42	sosy 2003 2021	signe de malignité
+T11	examen 233 247	bilan hormonal
+T47	anatomie 262 272	surrénales
+T37	valeur 281 288	normaux
+T32	sosy 317 368	masse hyperéchogène de la loge surrénalienne gauche
+T61	cardiovasculaires 34 45	hypertendue
+T50	anatomie 343 368	loge surrénalienne gauche
+T38	anatomie 383 387	rein
+T1	tumeur 406 424	kyste séreux rénal
+T40	anatomie 419 442	rénal polaire inférieur
+T8	valeur 446 464	6,5 cm de diamètre
+T39	anatomie 487 492	reins
+T14	anatomie 548 555	cavités
+T33	sosy 629 814	masse surrénalienne de 12 x 11,5 x 9,6 cm, d'aspect hétérogène avec des plages de densité graisseuse avec des limites nettes et de fines cloisons denses sans prise de contraste tumorale
+T49	anatomie 635 648	surrénalienne
+T68	sosy 64 92	lombalgie gauche récidivante
+T57	anatomie 871 881	vasculaire
+T3	tumeur 910 916	tumeur
+T10	genre 0 3	Mme
+A1	genre T10 féminin
+T17	age 19 25	69 ans
+T27	nutritionnelles 27 32	obèse
+T44	etatsosy 64 92	lombalgie gauche récidivante
+T12	femme 406 424	kyste séreux rénal
+T16	endocriniennes 629 648	masse surrénalienne
+A2	assertion T42 absent
+T20	examen 1444 1464	examen macroscopique
+T21	examen 902 905	IRM
+T22	anatomie 885 896	hépatorénal
+T23	sosy 857 896	envahissement vasculaire ou hépatorénal
+A3	assertion T23 absent
+T26	examen 573 599	examen tomodensitométrique
+T36	endocriniennes 1142 1163	masse de la surrénale
+T48	tumeur 1403 1437	myélolipome de la surrénale gauche
+T51	tumeur 1044 1049	M.L.S
+T53	endocriniennes 1403 1437	myélolipome de la surrénale gauche
+T13	examen 292 303	échographie
+T58	examen 96 111	examen clinique
+T59	endocriniennes 317 368	masse hyperéchogène de la loge surrénalienne gauche
+#1	AnnotatorNotes T51	myélolipome surrénalien, tumeur bénigne
+T60	endocriniennes 1044 1049	M.L.S
+T62	femme 1259 1277	kyste séreux rénal
+T63	valeur 652 670	12 x 11,5 x 9,6 cm
+T56	valeur 1502 1519	13,5 x10,5 x 8 cm
+T64	sosy 1721 1836	prolifération bénigne, formée à la fois par des lobules d'adipocytes matures et par un tissu hématopoiétique normal
+T65	sosy 1866 1906	remaniements hémorragiques et oedémateux
+T66	etatsosy 1634 1646	hémorragique
+T67	etatsosy 1866 1906	remaniements hémorragiques et oedémateux
+T69	anatomie 239 247	hormonal
+T70	sosy 200 288	examens biologiques, ainsi qu'un bilan hormonal explorant les surrénales étaient normaux
+T71	sosy 482 569	deux reins étaient de taille et d'échostructure normales et leurs cavités étaient fines
+T72	anatomie 719 729	graisseuse
+T73	sosy 910 989	tumeur était en hypersignal en T1 (Figure 3) avec atténuation progressive en T2
+T74	traitement 1068 1080	intervention
+T75	mode 1092 1122	voie lombaire postéro-latérale
+T76	anatomie 1165 1175	graisseuse
+T77	traitement 1226 1277	traitement dans le même temps du kyste séreux rénal
+T78	moment 1314 1328	recul de 3 ans
+T79	anatomie 1358 1374	pièce opératoire
+T80	sosy 1469 1540	tumeur était encapsulée mesurant 13,5 x10,5 x 8 cm de consistance molle
+T81	sosy 1579 1646	tissu adipeux, myxoide par place, siège de remaniement hémorragique
+T82	anatomie 1779 1789	adipocytes
+T83	pathologie 27 32	obèse
+T84	pathologie 34 45	hypertendue
+T85	sosy 406 464	kyste séreux rénal polaire inférieur de 6,5 cm de diamètre
+T86	pathologie 1044 1049	M.L.S
+T87	sosy 1259 1278	kyste séreux rénal.
+T88	pathologie 1403 1437	myélolipome de la surrénale gauche
+T89	sosy 1691 1697	tumeur
+T90	sosy 1841 1847	tumeur

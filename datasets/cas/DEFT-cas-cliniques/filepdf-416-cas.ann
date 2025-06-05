@@ -1,0 +1,6 @@
+T1	genre 15 20	homme
+T2	age 28 34	44 ans
+A1	genre T1 masculin
+T3	origine 86 209	des troubles de la conscience (Glasgow fluctuant entre 8 et 15) et une hypothermie dans un contexte d’éthanolémie à 2,4 g/L
+T4	issue 1784 1852	l’évolution des symptômes neurologiques a été spontanément favorable
+A2	issue T4 amélioration

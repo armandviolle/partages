@@ -1,0 +1,6 @@
+T1	genre 0 7	Patient
+T2	age 20 26	60 ans
+T3	issue 2053 2058	décès
+A1	issue T3 décès
+A2	genre T1 masculin
+T4	origine 84 163	une hématurie totale de faible abondance négligée par le patient pendant 6 mois

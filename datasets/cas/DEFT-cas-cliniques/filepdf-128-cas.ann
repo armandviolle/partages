@@ -1,0 +1,73 @@
+T1	sosy 26 46	antécédents notables
+A2	assertion T1 absent
+T2	date 63 75	février 1994
+T3	sosy 85 111	douleurs lombaires droites
+T4	anatomie 94 111	lombaires droites
+T5	sosy 140 168	altération de l’état général
+T6	examen 172 187	examen clinique
+T7	examen 205 223	tension artérielle
+T8	valeur 226 237	10/06 mm Hg
+T9	sosy 205 237	tension artérielle à 10/06 mm Hg
+T10	sosy 254 264	apyrétique
+T11	examen 274 306	examen abdominal et neurologique
+T12	valeur 307 313	normal
+T13	sosy 274 313	examen abdominal et neurologique normal
+T14	examen 332 351	examens biologiques
+T15	examen 366 389	taux de globules blancs
+T16	valeur 392 400	7000/mm3
+T17	examen 407 417	créatinine
+T18	valeur 420 426	8 mg/l
+T19	examen 434 442	glycémie
+T20	valeur 445 453	0,90 g/l
+T21	sosy 366 400	taux de globules blancs à 7000/mm3
+T22	sosy 407 426	créatinine à 8 mg/l
+T23	sosy 434 453	glycémie à 0,90 g/l
+T24	anatomie 457 464	abdomen
+T25	sosy 501 515	calcifications
+A3	assertion T25 absent
+T26	examen 521 543	échographie abdominale
+T27	anatomie 533 543	abdominale
+T28	sosy 561 632	masse latéro-vertébrale droite refoulant le rein droit vers l’extérieur
+T29	anatomie 567 591	latéro-vertébrale droite
+T30	anatomie 605 615	rein droit
+T31	examen 648 676	tomodensitométrie abdominale
+T32	anatomie 666 676	abdominale
+T33	sosy 714 821	formation tissulaire isodense arrondie de 5 cm de diamètre située en plein parenchyme du muscle psoas droit
+T34	anatomie 724 734	tissulaire
+T35	valeur 756 772	5 cm de diamètre
+T36	anatomie 789 821	parenchyme du muscle psoas droit
+T37	traitement 827 845	biopsie échoguidée
+T38	sosy 852 858	tumeur
+T39	sosy 881 894	tissu tumoral
+A4	assertion T39 absent
+T40	traitement 925 935	lombotomie
+T41	sosy 956 1042	tumeur encapsulée, bien limitée de 5 cm de grand diamètre incluse dans le muscle psoas
+T42	valeur 991 1013	5 cm de grand diamètre
+T43	anatomie 1030 1042	muscle psoas
+T44	traitement 1048 1069	tumorectomie complète
+T45	examen 1086 1096	A la coupe
+T46	sosy 1101 1171	tumeur présentait un aspect blanchâtre fasciculé, de consistance ferme
+T47	examen 1177 1197	examen microscopique
+T48	sosy 1219 1344	prolifération de cellules fibroblastiques fusiformes sans anomalies cytologiques agencées en faisceaux dissociés par l’oedème
+T49	anatomie 1236 1260	cellules fibroblastiques
+T50	sosy 1351 1401	tissu conjonctif comportant des petits capillaires
+T51	anatomie 1351 1367	tissu conjonctif
+T52	sosy 1418 1425	fibrome
+T53	moment 1456 1473	un recul de 4 ans
+T54	examen 457 481	abdomen sans préparation
+T55	anatomie 213 223	artérielle
+T56	anatomie 281 290	abdominal
+T57	anatomie 294 306	neurologique
+T58	etatsosy 85 111	douleurs lombaires droites
+T59	tumeur 852 858	tumeur
+T60	tumeur 956 973	tumeur encapsulée
+T61	etatsosy 1338 1344	oedème
+T62	tumeur 1418 1425	fibrome
+T63	peau 956 1042	tumeur encapsulée, bien limitée de 5 cm de grand diamètre incluse dans le muscle psoas
+T64	peau 1418 1425	fibrome
+T65	age 13 19	36 ans
+T66	genre 246 253	patient
+A1	genre T66 masculin
+T67	origine 81 168	des douleurs lombaires droites évoluant dans un contexte d’altération de l’état général
+T68	issue 1427 1473	L’évolution a été bonne avec un recul de 4 ans
+A5	issue T68 amélioration

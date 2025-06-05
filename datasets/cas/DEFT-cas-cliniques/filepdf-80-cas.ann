@@ -1,0 +1,6 @@
+T1	genre 0 6	Madame
+T2	age 11 17	49 ans
+A1	genre T1 féminin
+T3	origine 893 982	des cystites à répétition accompagnées d'une hématurie macroscopique minime intermittente
+T4	issue 3557 3800	La patiente a été revue 6 mois après l'intervention : elle n'exprimait aucune plainte fonctionnelle urologique et l’UIV mettait en évidence une dilatation modérée des cavités pyélo-calicielles droites avec perméabilité de l’urétéro-iléoplastie
+A2	issue T4 amélioration

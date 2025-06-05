@@ -1,0 +1,179 @@
+T73	traitement 1020 1032	néphrostomie
+T52	anatomie 105 126	fosse lombaire gauche
+T27	traitement 1061 1078	anesthésie locale
+T29	sosy 1083 1091	apyrexie
+T20	sosy 1126 1142	Escherichia Coli
+T75	substance 1156 1166	ofloxacine
+T118	anatomie 1192 1198	urines
+T31	moment 1239 1251	au 6ème jour
+T82	anatomie 1296 1311	pyélo-urétérale
+T51	examen 130 145	examen clinique
+T45	examen 1335 1346	cystoscopie
+T28	sosy 1364 1372	anomalie
+T123	examen 1378 1415	urétéro-pyélographie rétrograde (UPR)
+T119	anatomie 1448 1456	urétéral
+T68	anatomie 1473 1500	quatrième vertèbre lombaire
+T80	substance 1527 1547	produit de contraste
+T109	anatomie 1582 1589	uretère
+T12	etatsosy 159 171	hyperthermie
+T95	traitement 1643 1692	sonde urétérale double J 6/28 a été mise en place
+T121	anatomie 1649 1658	urétérale
+T96	sosy 1738 1777	sténose suspendue de l’uretère lombaire
+T115	anatomie 1761 1777	uretère lombaire
+T33	examen 1795 1800	bilan
+T99	sosy 186 192	sueurs
+T22	examen 1870 1888	TDM avec injection
+T42	sosy 1956 1967	compression
+T93	examen 1974 1995	scintigraphie au DMSA
+T54	sosy 200 208	frissons
+T100	examen 2000 2024	taux de fixation relatif
+T57	anatomie 2040 2046	gauche
+T47	anatomie 2059 2065	droite
+T97	sosy 2084 2126	sténose congénitale suspendue de l’uretère
+T111	anatomie 2119 2126	uretère
+T10	etatsosy 214 270	vive douleur à l’ébranlement de la fosse lombaire gauche
+T91	mode 2203 2220	rétro-péritonéale
+T19	moment 2223 2240	En per-opératoire
+T46	traitement 2252 2275	dissection de l’uretère
+T112	anatomie 2268 2275	uretère
+T86	sosy 2280 2380	pédicule vasculaire polaire inférieur du rein gauche, très oblique et grêle, pré-croisant la sténose
+T124	anatomie 2289 2299	vasculaire
+T90	anatomie 2300 2332	polaire inférieur du rein gauche
+T59	anatomie 2350 2355	grêle
+T98	sosy 2373 2380	sténose
+T84	sosy 2398 2406	pédicule
+T53	anatomie 249 270	fosse lombaire gauche
+T43	sosy 2498 2509	compression
+T113	anatomie 2530 2537	uretère
+T85	anatomie 2580 2588	pédicule
+T50	examen 2715 2753	examen anatomopathologique de la pièce
+T26	anatomie 2722 2741	anatomopathologique
+T15	etatsosy 276 287	pollakiurie
+T101	anatomie 2766 2771	tissu
+T1	etatsosy 293 315	brûlures mictionnelles
+T125	moment 2950 2974	à 1 mois post-opératoire
+T23	examen 2979 2994	UIV de contrôle
+T126	moment 2995 3003	à 3 mois
+T81	substance 3080 3100	produit de contraste
+T25	traitement 3145 3155	anastomose
+T30	sosy 3174 3188	asymptomatique
+T105	substance 3194 3204	traitement
+T34	examen 320 336	bilan biologique
+T94	examen 3210 3223	scintigraphie
+T11	etatsosy 352 368	hyperleucocytose
+T44	examen 399 412	créatininémie
+T127	examen 435 446	échographie
+T39	anatomie 476 501	cavités pyélo-calicielles
+T106	anatomie 510 517	uretère
+T66	anatomie 534 542	lombaire
+T107	anatomie 572 583	bas uretère
+T103	examen 610 657	tomodensitométrie (TDM) spiralée sans injection
+T60	sosy 62 80	infection urinaire
+T88	examen 678 697	recherche de calcul
+T116	anatomie 72 80	urinaire
+T40	anatomie 733 758	cavités pyélo-calicielles
+T114	anatomie 767 783	uretère lombaire
+T18	examen 825 829	ECBU
+T74	substance 861 871	ofloxacine
+T76	substance 907 918	paracétamol
+T9	etatsosy 94 126	douleur en fosse lombaire gauche
+T61	sosy 941 959	infection urinaire
+T117	anatomie 951 959	urinaire
+T7	etatsosy 960 967	fébrile
+T41	anatomie 989 1014	cavités pyélo-calicielles
+T13	etatsosy 186 192	sueurs
+T14	etatsosy 200 208	frissons
+T32	femme 276 287	pollakiurie
+T48	femme 293 315	brûlures mictionnelles
+T35	hemopathies 352 368	hyperleucocytose
+T2	femme 461 517	dilatation des cavités pyélo-calicielles et de l’uretère
+T3	femme 718 783	dilatation des cavités pyélo-calicielles et de l’uretère lombaire
+T4	femme 941 959	infection urinaire
+T5	femme 974 1014	dilatation des cavités pyélo-calicielles
+T6	infections 1126 1142	Escherichia Coli
+T8	femme 1285 1311	dilatation pyélo-urétérale
+T38	femme 1738 1777	sténose suspendue de l’uretère lombaire
+T49	genetique 2084 2126	sténose congénitale suspendue de l’uretère
+T58	femme 2084 2126	sténose congénitale suspendue de l’uretère
+T142	sosy 794 800	calcul
+T152	etatsosy 81 88	fébrile
+T153	infections 62 80	infection urinaire
+T55	valeur 174 180	39,5°C
+A1	norme T55 haut
+T56	age 24 30	20 ans
+T64	valeur 371 381	17,2 109/l
+A2	norme T64 haut
+T65	valeur 423 430	75 mmol
+A3	norme T65 normal
+T36	sosy 548 554	calcul
+A4	assertion T36 absent
+A5	assertion T142 absent
+T21	moment 1106 1118	au 2ème jour
+T37	sosy 718 783	dilatation des cavités pyélo-calicielles et de l’uretère lombaire
+T62	sosy 974 1014	dilatation des cavités pyélo-calicielles
+T67	sosy 1285 1319	dilatation pyélo-urétérale majeure
+A6	assertion T28 absent
+T69	femme 1433 1456	rétrécissement urétéral
+T17	valeur 2034 2037	57%
+T70	valeur 2053 2056	43%
+T71	traitement 2190 2220	laparoscopie rétro-péritonéale
+T72	femme 2280 2332	pédicule vasculaire polaire inférieur du rein gauche
+T79	genre 0 12	Mademoiselle
+A7	genre T79 féminin
+T83	examen 889 902	antibiogramme
+T16	dispositif 1890 1904	sonde double J
+T24	dispositif 2677 2691	sonde double J
+T77	dispositif 2921 2935	sonde double J
+T87	traitement 2517 2537	section de l’uretère
+T89	femme 62 80	infection urinaire
+T92	etatsosy 461 517	dilatation des cavités pyélo-calicielles et de l’uretère
+T102	etatsosy 718 783	dilatation des cavités pyélo-calicielles et de l’uretère lombaire
+T104	infections 941 959	infection urinaire
+T108	etatsosy 974 1014	dilatation des cavités pyélo-calicielles
+T110	etatsosy 1285 1319	dilatation pyélo-urétérale majeure
+T120	femme 1582 1596	uretère dilaté
+T122	infections 1827 1845	épisode infectieux
+T128	femme 2373 2380	sténose
+T78	sosy 159 180	hyperthermie à 39,5°C
+T129	sosy 94 126	douleur en fosse lombaire gauche
+T130	sosy 81 88	fébrile
+T131	sosy 214 270	vive douleur à l’ébranlement de la fosse lombaire gauche
+T132	sosy 352 381	hyperleucocytose à 17,2 109/l
+T133	sosy 399 430	créatininémie normale à 75 mmol
+T134	sosy 461 542	dilatation des cavités pyélo-calicielles et de l’uretère jusqu’au niveau lombaire
+T135	sosy 572 587	bas uretère fin
+T136	sosy 691 697	calcul
+T137	sosy 960 967	fébrile
+T138	organisme 1126 1142	Escherichia Coli
+T139	traitement 1204 1228	pyélographie descendante
+T140	dispositif 1643 1672	sonde urétérale double J 6/28
+T141	moment 1847 1853	1 mois
+T63	sosy 1935 1967	cause extrinsèque de compression
+A8	assertion T63 absent
+T143	sosy 2000 2065	taux de fixation relatif a été de 57% à gauche et de 43% à droite
+T144	traitement 2150 2172	traitement chirurgical
+T145	traitement 2398 2421	pédicule a été disséqué
+T146	anatomie 2439 2452	zone rétrécie
+T147	anatomie 2541 2551	zone saine
+T148	traitement 2568 2588	décroisé du pédicule
+T149	traitement 2592 2649	anastomosé en termino-terminal à points séparés (PDS 5/0)
+T150	mode 2606 2622	termino-terminal
+T151	traitement 2664 2671	spatulé
+T154	traitement 2677 2711	sonde double J a été mise en place
+T155	anatomie 2748 2753	pièce
+T156	sosy 2766 2798	tissu fibro-scléreux aspécifique
+T157	sosy 2842 2862	problème particulier
+A9	assertion T157 absent
+T158	moment 2899 2916	au troisième jour
+T159	traitement 2921 2949	sonde double J a été retirée
+T160	sosy 3024 3058	retard de sécrétion ou d’excrétion
+A10	assertion T160 absent
+T161	traitement 3068 3100	dilution du produit de contraste
+T162	examen 3119 3155	visualiser parfaitement l’anastomose
+A11	assertion T162 absent
+T163	moment 3237 3241	1 an
+T164	sosy 276 287	pollakiurie
+T165	sosy 293 315	brûlures mictionnelles
+T166	sosy 1433 1456	rétrécissement urétéral
+T167	sosy 1582 1596	uretère dilaté
+T168	sosy 1827 1845	épisode infectieux

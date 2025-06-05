@@ -1,0 +1,72 @@
+T26	anatomie 1078 1083	urine
+T1	etatsosy 1167 1178	convulsions
+T15	substance 1223 1231	cyanures
+T25	anatomie 1252 1260	sanguins
+T56	age 13 18	5 ans
+T6	valeur 1300 1309	0,26 mg/L
+T10	examen 1343 1367	analyses complémentaires
+T27	anatomie 1474 1479	urine
+T16	substance 1524 1532	cyanures
+T21	examen 1549 1573	prélèvements biologiques
+T11	moment 181 200	peu avant l’arrivée
+T4	etatsosy 230 237	nausées
+T5	etatsosy 239 251	vomissements
+T55	nerveux 258 268	somnolence
+T23	traitement 305 316	réanimation
+T30	examen 334 352	bilans biologiques
+T12	examen 407 427	lactacidémie majeure
+T43	nutritionnelles 366 385	acidose métabolique
+T18	valeur 462 478	0,7 à 2,2 mmol/L
+T3	hemopathies 487 504	méthémoglobinémie
+T2	nerveux 563 599	crise convulsive tonique généralisée
+T22	anatomie 614 626	respiratoire
+T24	traitement 657 685	réanimation cardiopulmonaire
+T19	examen 698 722	prélèvements biologiques
+T20	examen 777 801	prélèvements autopsiques
+T17	examen 899 934	investigations toxicologiques (STR)
+T44	anatomie 985 1003	liquide péritonéal
+T9	genre 211 217	garçon
+A1	genre T9 masculin
+T28	valeur 429 439	12 mmol/ L
+A2	norme T28 haut
+T29	valeur 507 512	6,9 %
+T31	sosy 230 237	nausées
+T32	sosy 239 251	vomissements
+T33	sosy 258 268	somnolence
+T34	etatsosy 258 268	somnolence
+T35	valeur 387 396	pH : 6,67
+A3	norme T35 bas
+T36	moment 514 539	Quelques heures plus tard
+T37	sosy 608 626	arrêt respiratoire
+T38	issue 630 636	décède
+A4	issue T38 décès
+T39	anatomie 669 685	cardiopulmonaire
+T13	substance 875 892	azoture de sodium
+T40	moment 637 653	après 1 heure 30
+T41	substance 958 966	diazépam
+T42	substance 968 974	Valium
+T45	substance 1017 1027	nordazépam
+T46	substance 1043 1051	diazépam
+T47	substance 1150 1156	Valium
+T48	moment 1263 1274	ante mortem
+T49	moment 1288 1298	perimortem
+T50	moment 1314 1325	post-mortem
+T7	valeur 1327 1336	0,21 mg/L
+T51	valeur 1276 1285	0,33 mg/L
+T52	moment 1378 1394	1 mois plus tard
+T53	substance 1440 1451	thiocyanate
+T54	moment 1480 1490	perimortem
+T8	valeur 1492 1501	5,2 mg/ L
+T57	substance 1509 1517	azotures
+T14	chimiques 1132 1156	administration de Valium
+T58	etatsosy 563 599	crise convulsive tonique généralisée
+T59	nerveux 1167 1178	convulsions
+T60	sosy 1167 1178	convulsions
+T61	sosy 563 599	crise convulsive tonique généralisée
+T62	cardiovasculaires 608 626	arrêt respiratoire
+A5	norme T29 haut
+T63	nutritionnelles 407 427	lactacidémie majeure
+T64	chimiques 875 892	azoture de sodium
+T65	sosy 366 397	acidose métabolique (pH : 6,67)
+T66	sosy 407 439	lactacidémie majeure (12 mmol/ L
+T67	sosy 487 512	méthémoglobinémie à 6,9 %

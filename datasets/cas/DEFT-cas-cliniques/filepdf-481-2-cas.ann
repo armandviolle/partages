@@ -1,0 +1,34 @@
+T1	sosy 11 47	accident de la voie publique en moto
+T2	sosy 109 124	coma inexpliqué
+T3	examen 134 155	score de Glasgow (GS)
+T4	valeur 158 162	3/15
+T5	moment 170 193	2 h après son admission
+T6	examen 195 208	score initial
+T7	valeur 212 217	15/15
+T8	traitement 236 246	intubation
+T9	traitement 254 275	ventilation mécanique
+T10	examen 280 295	bilan lésionnel
+T11	sosy 286 295	lésionnel
+A1	assertion T11 absent
+T13	dose 354 375	au moins 20 comprimés
+T14	substance 379 392	Séresta 50 mg
+T16	mode 445 468	injection intraveineuse
+T17	substance 481 484	NRG
+T18	examen 491 530	bilan toxicologique sanguin et urinaire
+T19	moment 598 625	3 jours après son admission
+T12	sosy 134 162	score de Glasgow (GS) à 3/15
+T15	anatomie 511 518	sanguin
+T20	anatomie 522 530	urinaire
+T21	sosy 195 217	score initial de 15/15
+A2	norme T4 bas
+A3	norme T7 normal
+T22	nerveux 109 124	coma inexpliqué
+T23	etatsosy 109 124	coma inexpliqué
+T24	chimiques 347 392	ingéré au moins 20 comprimés de Séresta 50 mg
+T25	chimiques 445 487	injection intraveineuse de poudre « NRG ».
+T26	genre 52 57	homme
+T27	age 61 67	43 ans
+A4	genre T26 masculin
+T28	origine 106 218	un coma inexpliqué, avec un score de Glasgow (GS) à 3/15 apparu 2 h après son admission (score initial de 15/15)
+T29	issue 545 625	L’évolution est rapidement favorable avec une sortie 3 jours après son admission
+A5	issue T29 guérison

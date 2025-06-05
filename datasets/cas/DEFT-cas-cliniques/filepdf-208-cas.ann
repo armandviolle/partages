@@ -1,0 +1,6 @@
+T1	age 15 21	53 ans
+T2	genre 678 688	Le patient
+T3	origine 96 148	rétention aiguè d'urine avec hématurie macroscopique
+A1	genre T2 masculin
+T4	issue 1276 1358	Après un recul de un an, le taux de PSA était normal (normal inferieure à 4 ng/ml)
+A2	issue T4 amélioration

@@ -1,0 +1,6 @@
+T1	C0014518 40 57	syndrome de Lyell
+#1	AnnotatorNotes T1	"C0014518", "Toxic Epidermal Necrolysis", "Disease or Syndrome" ,"DISO"
+T2	C0038325 64 91	syndrome de Stevens-Johnson
+#2	AnnotatorNotes T2	"C0038325", "Stevens-Johnson Syndrome", "Disease or Syndrome" ,"DISO"
+T3	C0015426 25 36	palpébrales
+#3	AnnotatorNotes T3	"C0015426", "Eyelid structure", "Body Part Organ or Organ Component" ,"ANAT"

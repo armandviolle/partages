@@ -1,0 +1,6 @@
+T1	age 13 19	52 ans
+T2	genre 240 251	la patiente
+A1	genre T2 féminin
+T3	origine 116 218	douleurs abdominales diffuses, fièvre et frissons évoluant depuis 48 heures, sans troubles mictionnels
+T4	issue 1559 1641	La patiente a quitté l’hôpital au 14ème jour post-opératoire sous insulinothérapie
+A2	issue T4 amélioration

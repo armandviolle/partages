@@ -1,0 +1,106 @@
+T12	anatomie 1006 1017	abdominales
+T11	substance 102 111	Rhodiatox
+T22	anatomie 1040 1049	muqueuses
+T24	anatomie 1126 1137	musculaires
+T5	infections 1166 1203	intoxication par les organophosphorés
+T27	substance 1187 1203	organophosphorés
+T45	age 12 18	59 ans
+T37	sosy 1209 1251	troubles métaboliques et cardiovasculaires
+T15	anatomie 1234 1251	cardiovasculaires
+T34	substance 1298 1308	traitement
+T32	traitement 1333 1359	réanimation symptomatiques
+T39	traitement 1375 1395	ventilation assistée
+T35	substance 1447 1455	atropine
+T13	substance 1551 1559	antidote
+T30	substance 1569 1580	pralidoxime
+T28	substance 1691 1707	organophosphorés
+T52	respiratoire 183 206	dépression respiratoire
+T31	anatomie 194 206	respiratoire
+T6	oeil 225 233	mydriase
+T16	sosy 347 388	chute de l'activité globulaire (0,8 Ul/ml
+T19	anatomie 367 377	globulaire
+T18	valeur 379 388	0,8 Ul/ml
+T76	valeur 419 427	1553 U/l
+T25	valeur 400 407	2,3-4,7
+T63	moment 444 448	à J3
+T64	moment 458 462	à J4
+T29	substance 494 505	pralidoxime
+T10	dose 507 513	200 mg
+T23	anatomie 603 614	musculaires
+T1	cardiovasculaires 625 640	arrêt cardiaque
+T14	anatomie 631 640	cardiaque
+T21	traitement 645 652	massage
+T38	substance 675 685	adrénaline
+T20	traitement 728 734	intubé
+T9	cardiovasculaires 781 806	tachycardie ventriculaire
+T40	anatomie 793 806	ventriculaire
+T4	cardiovasculaires 814 826	hypertension
+T7	etatsosy 835 841	myosis
+T33	mode 90 98	solution
+T2	moment 917 930	3 jours après
+T36	sosy 968 986	troubles digestifs
+T17	anatomie 977 986	digestifs
+T8	etatsosy 988 995	nausées
+T3	etatsosy 997 1017	douleurs abdominales
+A1	norme T18 bas
+T41	substance 131 147	parathion-éthyle
+T42	valeur 123 127	10 %
+T43	genre 3 8	homme
+A2	genre T43 masculin
+T46	moment 428 433	à J l
+T47	valeur 475 488	700019000 U/l
+T48	frequence 513 518	/24 h
+T49	valeur 436 443	776 U/l
+T50	valeur 450 457	810 U/l
+A3	norme T76 bas
+A4	norme T49 bas
+A5	norme T50 bas
+T26	examen 559 574	examen clinique
+T51	moment 149 164	Dès l'admission
+T53	sosy 31 60	plusieurs épisodes dépressifs
+T54	nerveux 240 249	strabisme
+T55	oeil 240 249	strabisme
+T56	nerveux 259 273	vision trouble
+T57	oeil 259 273	vision trouble
+T58	etatsosy 259 273	vision trouble
+T59	examen 410 417	sérique
+T60	nerveux 588 614	fasciculations musculaires
+T61	etatsosy 588 614	fasciculations musculaires
+T62	traitement 738 745	ventilé
+T65	etatsosy 781 806	tachycardie ventriculaire
+T66	nerveux 835 841	myosis
+T67	oeil 835 841	myosis
+T68	examen 307 333	activité cholinestérasique
+T69	etatsosy 968 986	troubles digestifs
+T70	nerveux 1055 1078	signes neuromusculaires
+T71	nerveux 1082 1105	altération de la vision
+T72	oeil 1082 1105	altération de la vision
+T73	etatsosy 1082 1105	altération de la vision
+T74	etatsosy 1055 1078	signes neuromusculaires
+T75	sosy 1024 1049	hypersécrétions muqueuses
+T77	sosy 1055 1078	signes neuromusculaires
+T78	sosy 1082 1105	altération de la vision
+T79	etatsosy 1111 1137	fasciculations musculaires
+T80	nerveux 1111 1137	fasciculations musculaires
+T81	sosy 1111 1137	fasciculations musculaires
+T82	traitement 1361 1371	intubation
+T44	sosy 410 462	sérique (1553 U/l à J l , 776 U/l à J3, 810 U/l à J4
+T83	sosy 845 882	état général s'est peu à peu amélioré
+T84	anatomie 1062 1078	neuromusculaires
+T85	substance 1632 1647	parathion-éthyl
+T86	sosy 1840 1872	concentration sérique de 70 ug/1
+A6	assertion T86 non-associé
+T87	valeur 1865 1872	70 ug/1
+T88	anatomie 1854 1861	sérique
+T89	sosy 183 206	dépression respiratoire
+T90	pathologie 225 233	mydriase
+T91	pathologie 240 249	strabisme
+T92	sosy 259 273	vision trouble
+T93	sosy 588 614	fasciculations musculaires
+T94	sosy 625 640	arrêt cardiaque
+T95	sosy 781 806	tachycardie ventriculaire
+T96	pathologie 814 826	hypertension
+T97	sosy 835 841	myosis
+T98	sosy 988 995	nausées
+T99	sosy 997 1017	douleurs abdominales
+T100	sosy 1166 1203	intoxication par les organophosphorés

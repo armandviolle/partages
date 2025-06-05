@@ -1,0 +1,61 @@
+T1001	anatomie 470 477	cheveux
+T10061	examen 776 784	analyses
+T10062	examen 701 736	analyses réalisées en immuno-chimie
+T10063	examen 1030 1037	analyse
+T100121	substance 1129 1136	caféine
+T100161	valeur 920 930	0,45 ng/ml
+T100162	valeur 947 957	0,12 ng/ml
+T100194	sosy 438 498	violences sexuelles, physiques (cheveux arrachés) et morales
+T100195	sosy 1109 1161	présence de LSD, de caféine et d'acide chlorogénique
+T1002	sosy 318 326	vertiges
+T1003	sosy 390 414	visions de flash colorés
+T1004	sosy 589 606	état de confusion
+T1005	valeur 761 770	négatives
+T1006	substance 848 858	ibuprofène
+T1008	substance 901 904	LSD
+T1009	valeur 1013 1024	< 0,5 pg/mg
+T10010	anatomie 1000 1008	phanères
+T10011	substance 1121 1124	LSD
+T10012	substance 1142 1161	acide chlorogénique
+T10013	substance 1228 1231	LSD
+T10014	substance 1417 1420	LSD
+T10015	substance 1304 1307	LSD
+T10016	substance 1326 1333	Exctasy
+T10017	substance 1430 1434	café
+T10018	substance 1213 1217	café
+T200111	moment 240 266	un quart d'heure plus tard
+T200191	sosy 292 299	malaise
+T2002	sosy 63 69	violée
+T2003	substance 110 114	café
+T2004	substance 221 225	café
+T2005	sosy 277 285	frissons
+T20011	sosy 701 770	analyses réalisées en immuno-chimie à l'hôpital s'avéraient négatives
+T20013	valeur 861 884	taux infrathérapeutique
+T20015	anatomie 913 917	sang
+T20016	anatomie 939 944	urine
+T20017	sosy 889 957	présence de LSD dans le sang à 0,45 ng/ml, dans l'urine à 0,12 ng/ml
+T20019	sosy 983 1008	absence dans les phanères
+T20025	mode 1293 1300	buvards
+T20026	mode 1314 1323	comprimés
+T20028	dose 1401 1405	deux
+T20031	sosy 837 884	présence d'ibuprofène à taux infrathérapeutique
+T1	sosy 340 382	alternance d'hypothermie et d'hyperthermie
+T2	mode 1406 1413	buvards
+A1	assertion T20019 absent
+A2	norme T100161 haut
+A3	norme T100162 haut
+T3	nerveux 292 299	malaise
+T4	etatsosy 292 299	malaise
+T5	ORL 318 326	vertiges
+T6	nerveux 318 326	vertiges
+T7	etatsosy 318 326	vertiges
+T8	etatsosy 340 382	alternance d'hypothermie et d'hyperthermie
+T9	nerveux 390 414	visions de flash colorés
+T10	oeil 390 414	visions de flash colorés
+T11	etatsosy 390 414	visions de flash colorés
+T12	chimiques 1109 1161	présence de LSD, de caféine et d'acide chlorogénique
+T13	genre 10 15	femme
+A4	genre T13 féminin
+T14	origine 63 69	violée
+T15	issue 1401 1420	deux buvards de LSD
+A5	issue T15 guérison

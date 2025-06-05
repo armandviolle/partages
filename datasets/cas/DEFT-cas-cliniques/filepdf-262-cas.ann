@@ -1,0 +1,6 @@
+T1	age 11 17	55 ans
+T2	genre 1716 1726	le patient
+A1	genre T2 masculin
+T3	origine 286 409	des douleurs lombaires droites associées à une tuméfaction du flanc droit, sans trouble urinaire ni digestif et sans fièvre
+T4	issue 2380 2523	e contrôle urographique (Figure 5) a montré une hypotonie résiduelle des voies excrétrices supérieures et surtout un uretère lombaire droit fin
+A2	issue T4 amélioration

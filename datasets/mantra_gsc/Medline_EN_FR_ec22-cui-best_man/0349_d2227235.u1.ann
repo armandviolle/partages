@@ -1,0 +1,4 @@
+T1	C0039796 50 64	thérapeutiques
+#1	AnnotatorNotes T1	"C0039796", "The science and art of healing", "Therapeutic or Preventive Procedure" ,"PROC"
+T2	C0016204 4 17	gaz digestifs
+#2	AnnotatorNotes T2	"C0016204", "Flatulence", "Sign or Symptom" ,"DISO"

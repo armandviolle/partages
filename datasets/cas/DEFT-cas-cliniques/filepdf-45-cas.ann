@@ -1,0 +1,61 @@
+T1002	anatomie 132 155	inguino-scrotale gauche
+T1003	anatomie 376 394	cordon spermatique
+T1005	anatomie 521 536	testicule droit
+T1007	anatomie 716 734	abdomino-pelvienne
+T1008	anatomie 795 813	cordon spermatique
+T1009	anatomie 823 851	branche ilio-pubienne gauche
+T10051	duree 165 182	depuis huit jours
+T10061	examen 280 295	examen clinique
+T10062	examen 556 575	échographie Doppler
+T10063	examen 698 734	tomodensitométrie abdomino-pelvienne
+T10065	examen 1167 1189	contrôle échographique
+T100161	valeur 330 339	stade III
+T100162	valeur 509 516	normaux
+T100163	valeur 741 748	normale
+T100192	sosy 189 210	facteurs déclenchants
+T100193	sosy 245 275	autre symptomatologie urinaire
+T100194	sosy 309 362	varicocèle gauche de stade III indurée et douloureuse
+T10010	sosy 42 69	ectopie testiculaire droite
+T10011	sosy 376 463	cordon spermatique infiltré et sensible jusqu'à l’orifice superficiel du canal inguinal
+T10012	anatomie 469 478	testicule
+T10013	anatomie 484 500	épididyme gauche
+T10014	sosy 521 551	testicule droit était atrophié
+T10015	sosy 591 681	thrombose partielle de la varicocèle, s’étendant à l’orifice superficiel du canal inguinal
+T10016	sosy 769 851	infiltration en regard du cordon spermatique et de la branche ilio-pubienne gauche
+T10017	sosy 1205 1224	thrombose organisée
+T10018	substance 942 976	anti-inflammatoires non stéroïdien
+T10019	substance 980 1013	héparine de bas poids moléculaire
+T10020	dose 1016 1035	dose prophylactique
+T2001	anatomie 50 69	testiculaire droite
+T2004	anatomie 426 463	orifice superficiel du canal inguinal
+T2006	anatomie 644 681	orifice superficiel du canal inguinal
+T200111	moment 77 91	dans l’enfance
+T200191	sosy 124 155	douleur inguino-scrotale gauche
+T200195	sosy 1127 1162	persistance d’une varicocèle gauche
+T20011	traitement 70 76	opérée
+T20015	sosy 469 516	testicule et l’épididyme gauche étaient normaux
+T20018	anatomie 617 627	varicocèle
+T20020	sosy 698 748	tomodensitométrie abdomino-pelvienne était normale
+T20021	traitement 889 912	traitement conservateur
+T20025	moment 1079 1089	A six mois
+T20026	sosy 1107 1121	asymptomatique
+T20028	anatomie 267 275	urinaire
+A1	assertion T100192 absent
+A2	norme T100162 normal
+A3	norme T100163 normal
+A4	assertion T100193 absent
+T200196	etatsosy 124 155	douleur inguino-scrotale gauche
+T200197	cardiovasculaires 591 627	thrombose partielle de la varicocèle
+T200198	cardiovasculaires 1205 1224	thrombose organisée
+T1	homme 42 69	ectopie testiculaire droite
+T2	genetique 42 69	ectopie testiculaire droite
+T3	homme 309 362	varicocèle gauche de stade III indurée et douloureuse
+T4	cardiovasculaires 309 362	varicocèle gauche de stade III indurée et douloureuse
+T5	homme 1145 1162	varicocèle gauche
+T6	cardiovasculaires 1145 1162	varicocèle gauche
+T7	genre 3 8	homme
+T8	age 12 22	trente ans
+A5	genre T7 masculin
+T9	origine 120 210	une douleur inguino-scrotale gauche évoluant depuis huit jours, sans facteurs déclenchants
+T10	issue 1079 1224	A six mois le patient était asymptomatique avec persistance d’une varicocèle gauche. Le contrôle échographique retrouvait une thrombose organisée
+A6	issue T10 amélioration

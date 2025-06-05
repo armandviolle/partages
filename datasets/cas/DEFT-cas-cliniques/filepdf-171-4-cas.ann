@@ -1,0 +1,6 @@
+T1	genre 0 8	Monsieur
+T2	age 20 26	53 ans
+A1	genre T1 masculin
+T3	origine 56 185	des troubles mictionnels à type de pollakiurie diurne et nocturne d’apparition progressive, associée à une dysurie sans hématurie
+T4	issue 1092 1222	L’évolution était favorable avec une disparition des signes urinaires et l’absence de récidive tumorale après un recul de huit ans
+A2	issue T4 guérison

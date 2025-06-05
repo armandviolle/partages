@@ -1,0 +1,6 @@
+T1	age 29 34	7 ans
+T2	genre 44 52	masculin
+A1	genre T2 masculin
+T3	origine 299 377	un syndrome œdémato-ascitique associé à une anurie évoluant depuis trois jours
+T4	issue 2042 2123	La sortie a été autorisée à J22 avec surveillance régulière de la fonction rénale
+A2	issue T4 amélioration

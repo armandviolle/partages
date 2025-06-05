@@ -1,0 +1,26 @@
+T14	C0016658 4 13	fractures
+#14	AnnotatorNotes T14	"C0016658", "Fracture", "Injury or Poisoning" ,"DISO"
+T15	C0019552 55 61	hanche
+#15	AnnotatorNotes T15	"C0019552", "Hip region structure", "Body Part Organ or Organ Component" ,"ANAT"
+T16	C0043262 83 90	poignet
+#16	AnnotatorNotes T16	"C0043262", "Wrist", "Body Location or Region" ,"ANAT"
+T17	C0030193 124 132	douleurs
+#17	AnnotatorNotes T17	"C0030193", "Pain", "Sign or Symptom" ,"DISO"
+T18	C0037949 67 76	vertèbres
+#18	AnnotatorNotes T18	"C0037949", "Vertebral column", "Body Part Organ or Organ Component" ,"ANAT"
+T19	C1267072 67 76	vertèbres
+#19	AnnotatorNotes T19	"C1267072", "Entire vertebral column", "Body Part Organ or Organ Component" ,"ANAT"
+T20	C1280065 67 76	vertèbres
+#20	AnnotatorNotes T20	"C1280065", "Entire spine", "Body Part Organ or Organ Component" ,"ANAT"
+T21	C1283836 83 90	poignet
+#21	AnnotatorNotes T21	"C1283836", "Entire wrist region", "Body Location or Region" ,"ANAT"
+T22	C0033213 160 169	problèmes
+#22	AnnotatorNotes T22	"C0033213", "Problem", "Finding" ,"DISO"
+T23	C1532642 200 222	bosse de la douairière
+#23	AnnotatorNotes T23	"C1532642", "Dowager's hump", "Finding" ,"DISO"
+T24	C0425245 241 249	mobilité
+#24	AnnotatorNotes T24	"C0425245", "Mobility as a finding", "Finding" ,"DISO"
+T25	C1322271 83 90	poignet
+#25	AnnotatorNotes T25	"C1322271", "Wrist joint", "Body Space or Junction" ,"ANAT"
+T26	C0231478 183 198	posture bloquée
+#26	AnnotatorNotes T26	"C0231478", "Stooped-over position", "Organism Attribute" ,"PHYS"

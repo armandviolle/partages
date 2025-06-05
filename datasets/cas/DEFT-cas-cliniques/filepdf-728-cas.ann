@@ -1,0 +1,356 @@
+T28	substance 1749 1760	béthanéchol
+T35	substance 1765 1776	mirtazapine
+T25	substance 2193 2201	Fentanyl
+T21	substance 2660 2666	250 mg
+T26	substance 2690 2702	Pantoprazole
+T22	substance 2972 2978	250 mg
+T29	substance 3044 3055	béthanéchol
+T30	substance 3124 3135	béthanéchol
+T36	substance 3244 3255	mirtazapine
+T37	substance 3363 3374	mirtazapine
+T23	substance 3454 3460	250 mg
+T34	substance 3651 3660	magnésium
+T3	substance 371 382	béthanéchol
+T32	substance 3728 3738	furosémide
+T38	substance 3760 3774	nitroglycérine
+T39	anatomie 3845 3855	pulmonaire
+T27	substance 3948 3956	atropine
+T4	substance 462 473	béthanéchol
+T5	substance 578 589	béthanéchol
+T13	pathologie 199 240	virus de l’immunodéficience humaine (VIH)
+T15	dose 383 388	20 mg
+T16	moment 389 399	au coucher
+T17	sosy 502 523	vertiges occasionnels
+T18	dose 611 616	10 mg
+T19	moment 617 625	le matin
+T20	dose 629 634	20 mg
+T40	moment 635 645	au coucher
+A3	changement T18 augmentation
+T41	examen 851 876	électrocardiogramme (ÉCG)
+T33	substance 1735 1744	méthadone
+T43	substance 1809 1820	terbinafine
+T44	substance 1790 1802	théophylline
+T45	substance 1876 1885	méthadone
+T46	dose 1886 1892	110 mg
+T47	frequence 1903 1922	trois fois par jour
+T48	dose 1976 1981	20 mg
+A4	changement T48 diminution
+T49	frequence 1992 2011	trois fois par jour
+A5	prise T28 arrêt
+A6	prise T35 arrêt
+A7	prise T44 arrêt
+A8	prise T43 arrêt
+T50	substance 2125 2134	Méthadone
+T51	dose 2135 2141	110 mg
+T52	frequence 2143 2146	TID
+T53	date 2158 2165	09/2004
+T54	date 2185 2192	04/2005
+T55	date 2224 2232	10/ 2003
+T56	date 2252 2259	09/2004
+T57	date 2291 2295	2002
+T58	date 2329 2336	02/2005
+T59	date 2382 2386	2002
+T60	date 2406 2413	02/2005
+T61	date 2563 2567	2001
+T62	date 2682 2689	01/2005
+T63	date 2891 2921	Janvier Février Mars Avril Mai
+T64	dose 2202 2208	200 μg
+T65	frequence 2210 2213	q3j
+T66	substance 2260 2268	Morphine
+T67	dose 2269 2275	420 mg
+T68	frequence 2277 2280	BID
+T69	substance 2337 2350	Hydromorphone
+T70	dose 2351 2356	16 mg
+T71	frequence 2357 2371	q3h, au besoin
+T72	substance 2414 2424	Gabapentin
+T73	substance 2454 2465	Calcitonine
+T74	substance 2493 2503	Clonazepam
+T75	substance 2530 2541	Mirtazapine
+T76	substance 2568 2579	Béthanéchol
+T77	substance 2648 2659	Terbinafine
+T78	substance 2717 2729	Théophylline
+T79	dose 2425 2431	800 mg
+T80	dose 2440 2447	1200 mg
+T81	dose 2466 2472	200 UI
+T82	dose 2504 2510	0,5 mg
+T83	dose 2519 2523	1 mg
+T84	dose 2542 2547	30 mg
+T85	dose 2580 2585	10 mg
+T86	dose 2599 2604	20 mg
+T87	dose 2703 2708	40 mg
+T88	dose 2736 2742	165 mg
+T89	dose 2824 2831	1000 mg
+T31	substance 2803 2823	Carbonate de calcium
+T90	frequence 2433 2436	BID
+T91	mode 2474 2485	intra-nasal
+T92	frequence 2487 2490	DIE
+T93	frequence 2512 2515	BID
+T94	frequence 2549 2552	BID
+T95	moment 2587 2595	le matin
+T96	frequence 2668 2671	DIE
+T97	frequence 2710 2713	BID
+T98	frequence 2744 2753	au besoin
+T99	frequence 2833 2836	DIE
+T100	substance 2839 2849	Vitamine D
+T101	dose 2850 2856	800 UI
+T102	frequence 2858 2861	DIE
+T103	substance 2960 2971	terbinafine
+T104	frequence 2979 2982	DIE
+T105	substance 2987 2996	Méthadone
+T106	dose 2997 3003	110 mg
+T107	frequence 3004 3007	TID
+T108	dose 3025 3029	5 mg
+T109	frequence 3030 3033	TID
+T110	dose 3056 3061	20 mg
+T111	moment 3062 3072	au coucher
+T112	dose 3085 3091	165 mg
+T113	substance 3095 3107	théophylline
+T114	dose 3136 3141	10 mg
+T115	dose 3154 3159	20 mg
+T116	moment 3142 3150	le matin
+T117	moment 3160 3170	au coucher
+T118	sosy 3173 3180	Syncope
+T119	sosy 3184 3187	TdP
+T120	substance 3201 3210	méthadone
+T121	substance 3296 3305	méthadone
+T122	substance 3331 3340	méthadone
+A9	changement T114 augmentation
+T123	dose 3213 3218	80 mg
+T124	dose 3308 3313	60 mg
+T125	dose 3343 3348	40 mg
+A10	changement T123 diminution
+A11	changement T124 diminution
+A12	changement T125 diminution
+T126	frequence 3219 3222	TID
+T127	frequence 3314 3317	TID
+T128	frequence 3349 3352	TID
+T129	dose 3386 3391	30 mg
+T130	frequence 3392 3395	DIE
+A13	changement T129 diminution
+A14	prise T37 reprise
+T131	substance 3232 3242	béthanécol
+T132	substance 3257 3268	terbinafine
+T133	substance 3270 3282	théophylline
+A15	prise T131 arrêt
+A16	prise T36 arrêt
+A17	prise T132 arrêt
+A18	prise T133 arrêt
+T134	dose 3421 3426	20 mg
+T135	frequence 3427 3430	TID
+T136	substance 3409 3418	méthadone
+T137	substance 3442 3453	terbinafine
+A19	changement T134 diminution
+T138	frequence 3461 3464	DIE
+A20	prise T137 reprise
+T139	mode 3661 3663	IV
+T140	substance 3668 3677	potassium
+T141	mode 3678 3680	IV
+T142	substance 3687 3700	isoprotérénol
+T144	mode 3743 3750	voie IV
+T145	mode 3775 3777	IV
+T146	sosy 3835 3855	surcharge pulmonaire
+T147	mode 3940 3945	bolus
+T148	mode 3957 3959	IV
+T149	substance 3985 3995	méxilétine
+T150	moment 1846 1855	au jour 1
+T151	substance 4612 4622	Amiodarone
+T152	substance 4634 4643	Lidocaïne
+T153	substance 4691 4701	Méxilétine
+T154	substance 4718 4731	Isoprotérénol
+T155	substance 4756 4764	Atropine
+T156	substance 4791 4805	Nitroglycérine
+T157	substance 4841 4851	Furosemide
+T158	substance 4897 4905	Morphine
+T24	dose 4623 4629	150 mg
+T159	dose 4657 4665	1 mg/min
+T160	dose 4674 4683	25-100 mg
+T161	dose 4702 4708	100 mg
+T162	dose 4745 4755	3 mcg/ min
+T163	dose 4765 4769	1 mg
+T164	dose 4827 4840	5-8 mcg / min
+T165	dose 4852 4857	20 mg
+T166	dose 4867 4872	20 mg
+T167	dose 4883 4887	20mg
+T168	mode 4922 4924	IV
+T169	frequence 4926 4929	prn
+T170	frequence 4879 4882	BID
+T171	frequence 4893 4896	DIE
+T172	frequence 4863 4866	BID
+T173	frequence 4775 4778	prn
+T174	frequence 4714 4717	TID
+T175	frequence 4687 4690	prn
+T176	mode 4631 4633	IV
+T177	mode 4644 4656	Perfusion IV
+T178	mode 4684 4686	IV
+T179	mode 4668 4673	bolus
+T180	mode 4710 4712	PO
+T181	mode 4732 4744	Perfusion IV
+T182	mode 4771 4773	IV
+T183	mode 4817 4826	Perfusion
+T185	mode 4875 4877	PO
+T186	mode 4889 4891	PO
+T187	substance 4527 4530	KCl
+T188	dose 4531 4537	40 mEq
+T189	mode 4539 4541	IV
+T190	substance 4542 4563	Potassium élémentaire
+T191	dose 4564 4570	40 mEq
+T192	dose 4580 4586	40 mEq
+T193	dose 4596 4602	20 mEq
+T194	mode 4572 4574	PO
+T195	mode 4588 4590	PO
+T196	mode 4604 4606	PO
+T197	frequence 4576 4579	BID
+T198	frequence 4592 4595	DIE
+T199	frequence 4608 4611	DIE
+T200	substance 4469 4479	Mg Rougier
+T201	substance 4495 4509	Mg élémentaire
+T202	substance 4510 4516	200 mg
+T203	mode 4519 4521	PO
+T204	frequence 4523 4526	TID
+T205	mode 4487 4489	PO
+T206	frequence 4491 4494	TID
+T207	dose 4480 4485	30 mL
+T208	substance 4450 4455	MgSO4
+T209	dose 4456 4459	2 g
+T210	mode 4461 4463	IV
+T211	frequence 4465 4468	prn
+#1	AnnotatorNotes T119	Torsade de Pointe
+T212	traitement 4370 4394	Cardioversion électrique
+T213	dose 4395 4400	200 J
+T214	frequence 4402 4405	prn
+T215	pathologie 91 108	douleur chronique
+T216	frequence 99 108	chronique
+T217	pathologie 113 123	dépression
+T218	pathologie 128 153	reflux gastro-oesophagien
+T219	anatomie 135 153	gastro-oesophagien
+T220	pathologie 157 169	onychomycose
+T221	pathologie 174 192	rétention urinaire
+T222	anatomie 184 192	urinaire
+T223	pathologie 416 434	rétention urinaire
+T224	anatomie 426 434	urinaire
+T225	frequence 511 523	occasionnels
+T226	sosy 679 694	étourdissements
+T227	sosy 702 725	palpitations fréquentes
+T228	frequence 715 725	fréquentes
+T229	sosy 773 789	perdu conscience
+T230	sosy 795 800	chuté
+T231	sosy 938 958	arythmie de type TdP
+T232	examen 963 982	fréquence cardiaque
+T233	valeur 984 990	77 bpm
+T234	examen 998 1016	tension artérielle
+T235	valeur 1018 1029	115/70 mmHg
+A21	norme T235 normal
+A22	norme T233 normal
+T236	examen 1075 1084	potassium
+T237	examen 1104 1113	magnésium
+T238	sosy 1190 1223	légère hypocalcémie (2,09 mmol/L)
+T239	valeur 1086 1096	3,9 mmol/L
+T240	valeur 1115 1126	0,77 mmol/L
+A23	norme T239 normal
+A24	norme T240 normal
+T241	valeur 1211 1222	2,09 mmol/L
+A25	norme T241 bas
+T242	examen 1235 1261	clairance de la créatinine
+T243	valeur 1291 1303	75 mL/minute
+T244	valeur 1380 1389	90 mL/min
+A26	norme T243 bas
+T245	examen 1342 1351	clairance
+T246	examen 1441 1458	créatines kinases
+T247	valeur 1460 1470	10 691 U/L
+A27	norme T247 haut
+T248	sosy 1528 1533	chute
+T249	sosy 889 930	allongement de l’intervalle QTc de 502 ms
+T250	sosy 1625 1656	allongement de l’intervalle QTc
+T251	traitement 3557 3581	cardioversion électrique
+T252	traitement 3536 3555	chocs de 200 joules
+T253	sosy 3931 3934	TdP
+T255	sosy 3592 3595	TdP
+T256	moment 3857 3885	Du troisième au sixième jour
+T257	moment 3466 3512	Lors des deux premiers jours d’hospitalisation
+T258	moment 4066 4084	à partir du jour 7
+T259	sosy 4112 4115	TdP
+A28	assertion T259 absent
+T260	sosy 5059 5077	Torsade de pointes
+T261	examen 5164 5173	Potassium
+T262	examen 5243 5252	Magnésium
+T263	examen 5334 5341	Calcium
+T266	substance 2816 2823	calcium
+T269	examen 4268 4278	monitoring
+T276	valeur 1039 1047	normales
+T282	valeur 924 930	502 ms
+A29	norme T276 normal
+A30	norme T244 normal
+T267	moment 727 758	La nuit précédant son admission
+T270	moment 299 334	Neuf jours avant d’être hospitalisé
+T271	moment 525 563	Quatre jours avant son hospitalisation
+T272	moment 1048 1070	à l’arrivée du patient
+T264	substance 4807 4815	TridilMD
+T1	substance 245 255	médication
+T2	moment 256 269	à l’admission
+T6	moment 436 473	À la suite de la prise du béthanéchol
+T7	dose 569 574	doses
+T8	sosy 1424 1513	augmentation des créatines kinases (10 691 U/L, normalement niveaux inférieurs à 195 U/L)
+T9	mode 1781 1786	sirop
+T10	dose 2166 2177	Dose stable
+T11	dose 2233 2244	Dose stable
+T12	dose 2310 2321	Dose stable
+T14	dose 2387 2398	Dose stable
+T42	moment 2618 2647	9 jours avant hospitalisation
+T143	moment 2771 2802	1 semaine avant hospitalisation
+T254	substance 3708 3723	antiarythmiques
+T265	dose 4906 4920	dose totale mg
+T268	pathologie 4978 4981	QTc
+T273	examen 5092 5111	Fréquence cardiaque
+T274	valeur 46 51	1,9 m
+T275	valeur 60 65	74 kg
+A1	etat T217 passé
+A2	etat T220 passé
+A31	etat T13 passé
+A32	etat T215 passé
+A33	etat T218 passé
+A34	etat T221 passé
+T277	dose 3545 3555	200 joules
+T283	frequence 3909 3927	plusieurs ébauches
+T278	sosy 1235 1303	clairance de la créatinine calculée du patient était de 75 mL/minute
+T279	sosy 1104 1127	magnésium (0,77 mmol/L)
+T280	sosy 1075 1097	potassium (3,9 mmol/L)
+T281	sosy 998 1047	tension artérielle (115/70 mmHg) étaient normales
+T284	sosy 963 991	fréquence cardiaque (77 bpm)
+T184	anatomie 973 982	cardiaque
+T285	anatomie 1006 1016	artérielle
+T286	etatsosy 91 108	douleur chronique
+T288	digestif 128 153	reflux gastro-oesophagien
+T289	infections 157 169	onychomycose
+T290	homme 174 192	rétention urinaire
+T291	virales 199 240	virus de l’immunodéficience humaine (VIH)
+T292	homme 416 434	rétention urinaire
+T293	etatsosy 502 523	vertiges occasionnels
+T294	etatsosy 679 694	étourdissements
+T296	cardiovasculaires 889 920	allongement de l’intervalle QTc
+T297	cardiovasculaires 938 958	arythmie de type TdP
+T298	nutritionnelles 1197 1209	hypocalcémie
+T299	cardiovasculaires 1625 1656	allongement de l’intervalle QTc
+T300	cardiovasculaires 3184 3187	TdP
+T301	nerveux 3173 3180	Syncope
+T302	etatsosy 3173 3180	Syncope
+T303	cardiovasculaires 3592 3595	TdP
+T304	cardiovasculaires 3931 3934	TdP
+T305	etatsosy 3835 3855	surcharge pulmonaire
+T306	cardiovasculaires 4978 4981	QTc
+T307	cardiovasculaires 5059 5077	Torsade de pointes
+T287	peau 157 169	onychomycose
+T308	ORL 502 523	vertiges occasionnels
+T309	nerveux 502 523	vertiges occasionnels
+T295	etatsosy 938 958	arythmie de type TdP
+T310	etatsosy 3184 3187	TdP
+T311	etatsosy 3592 3595	TdP
+T312	etatsosy 3931 3934	TdP
+T313	etatsosy 5059 5077	Torsade de pointes
+T314	genre 15 20	homme
+T315	age 28 34	41 ans
+A35	genre T314 masculin
+T316	origine 502 523	vertiges occasionnels
+T317	origine 679 725	étourdissements et des palpitations fréquentes
+T318	origine 773 800	perdu conscience et a chuté
+T319	issue 4059 4115	Enfin, à partir du jour 7, R.M. n’a plus présenté de TdP
+A36	issue T319 amélioration

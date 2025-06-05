@@ -1,0 +1,6 @@
+T1	genre 15 20	homme
+T2	age 24 30	79 ans
+A1	genre T1 masculin
+T3	origine 2485 2589	il se sent endormi depuis une semaine, et sa femme ajoute que son époux oublie de plus en plus de choses
+T4	issue 3327 3384	Sa femme mentionne que son mari est redevenu comme avant.
+A2	issue T4 amélioration

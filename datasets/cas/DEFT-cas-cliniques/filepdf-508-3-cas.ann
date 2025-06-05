@@ -1,0 +1,6 @@
+T1	age 11 29	âge non communiqué
+T2	genre 3 8	homme
+T3	origine 36 49	retrouvé mort
+A1	genre T2 masculin
+T4	issue 45 49	mort
+A2	issue T4 décès

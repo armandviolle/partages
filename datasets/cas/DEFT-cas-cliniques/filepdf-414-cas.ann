@@ -1,0 +1,6 @@
+T1	issue 1282 1308	présence de 2 psychotropes
+T2	age 17 23	4 mois
+T3	genre 0 13	Un nourrisson
+A1	genre T3 masculin
+T4	origine 107 146	crises convulsives d’étiologie inconnue
+A2	issue T1 amélioration

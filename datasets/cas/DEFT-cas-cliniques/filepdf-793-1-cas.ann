@@ -1,0 +1,178 @@
+T153	examen 1031 1051	échographie mammaire
+T81	anatomie 1043 1051	mammaire
+T5	tumeur 1066 1125	nodule de 1.8 cm de diamètre au niveau du QSE du sein droit
+T136	anatomie 1108 1125	QSE du sein droit
+T92	anatomie 1216 1220	peau
+T148	examen 1224 1250	échographie du sein gauche
+T124	anatomie 1239 1250	sein gauche
+T77	sosy 1272 1301	lésion échographique suspecte
+T154	examen 1279 1292	échographique
+T137	anatomie 1350 1360	sein droit
+T126	anatomie 1424 1435	sein gauche
+T71	examen 1490 1502	histologique
+T182	tumeur 1517 1553	carcinome canalaire infiltrant (CCI)
+T70	valeur 1554 1563	grade III
+T78	sosy 1605 1625	lésion du sein droit
+T138	anatomie 1615 1625	sein droit
+T183	tumeur 1635 1659	carcinome intracanalaire
+T79	sosy 1687 1708	lésion du sein gauche
+T128	anatomie 1697 1708	sein gauche
+T96	valeur 1743 1751	positifs
+T156	sosy 1766 1773	lésions
+T86	valeur 1806 1813	négatif
+T21	examen 1858 1875	bilan d’extension
+T101	examen 1904 1927	radiographie pulmonaire
+T99	anatomie 1917 1927	pulmonaire
+T152	examen 1933 1954	échographie hépatique
+T73	anatomie 1945 1954	hépatique
+T117	examen 1962 1983	scintigraphie osseuse
+T90	anatomie 1976 1983	osseuse
+T87	valeur 1991 1998	négatif
+T139	anatomie 2046 2056	sein droit
+T130	anatomie 2077 2088	sein gauche
+T235	age 21 27	48 ans
+T46	anatomie 2151 2156	droit
+T65	anatomie 2160 2166	gauche
+T13	examen 2225 2245	analyse histologique
+T140	anatomie 2291 2301	sein droit
+T1	sosy 231 253	cancer dans la famille
+T27	traitement 2352 2378	curage ganglionnaire droit
+T56	anatomie 2359 2378	ganglionnaire droit
+T132	tumeur 2493 2496	CCI
+T69	valeur 2497 2504	grade I
+T28	traitement 2550 2570	curage ganglionnaire
+T57	anatomie 2557 2570	ganglionnaire
+T20	examen 2642 2668	bilan de préchimiothérapie
+T98	substance 2651 2668	préchimiothérapie
+T151	examen 2684 2705	échographie cardiaque
+T22	anatomie 2696 2705	cardiaque
+T85	examen 2711 2738	numération formule sanguine
+T113	anatomie 2730 2738	sanguine
+T76	examen 2743 2761	ionogramme sanguin
+T112	anatomie 2754 2761	sanguin
+T143	examen 2768 2789	taux de transaminases
+T23	anatomie 2813 2822	cardiaque
+T74	anatomie 2824 2833	hépatique
+T24	substance 2857 2871	chimiothérapie
+T84	valeur 2878 2884	normal
+T9	substance 2946 2957	adriamycine
+T31	substance 2981 2997	cyclophosphamide
+T8	dose 3094 3102	20mg/1ml
+T95	mode 3106 3115	perfusion
+T3	tumeur 313 333	nodule du sein droit
+T102	traitement 3178 3201	radiothérapie adjuvante
+T133	anatomie 323 333	sein droit
+T58	anatomie 3262 3275	ganglionnaire
+T142	substance 3286 3311	traitement antioestrogène
+T91	frequence 3345 3353	par jour
+T97	valeur 3425 3433	positifs
+T26	examen 3461 3473	consultation
+T107	sosy 3546 3554	récidive
+T52	examen 355 370	examen clinique
+T104	sosy 3561 3593	rechute clinique ou radiologique
+T146	moment 3599 3618	un recul de 24 mois
+T4	tumeur 383 446	nodule au niveau du quadrant supéro externe du sein droit (QSE)
+T134	anatomie 403 446	quadrant supéro externe du sein droit (QSE)
+T7	valeur 451 467	2 cm de diamètre
+T175	anatomie 594 601	cutanée
+T50	examen 621 642	examen du sein gauche
+T120	anatomie 631 642	sein gauche
+T115	valeur 649 668	sans particularités
+T10	anatomie 674 705	aires ganglionnaires axillaires
+T106	examen 722 749	reste de l’examen somatique
+T83	valeur 756 762	normal
+T82	examen 795 807	mammographie
+T17	pathologie 81 119	antécédents pathologiques particuliers
+T135	anatomie 867 884	QSE du sein droit
+T122	anatomie 983 1001	QSI du sein gauche
+T2	genre 0 8	Patiente
+A1	genre T2 féminin
+A2	assertion T17 absent
+A3	assertion T1 absent
+T6	moment 334 350	il y a deux mois
+A4	assertion T77 absent
+T11	traitement 1334 1360	microbiopsie du sein droit
+T12	traitement 1450 1475	harponnage mammographique
+T14	examen 1714 1734	récepteurs hormonaux
+T15	examen 1777 1799	HERCEPT TEST bilatéral
+T16	valeur 1845 1853	37mui/ml
+T18	examen 1819 1836	dosage de CA 15-3
+T19	valeur 2060 2068	T0 N0 M0
+T25	valeur 2029 2037	T1 N0 M0
+T29	examen 2004 2022	classification TNM
+T30	tumeur 2319 2322	CCI
+T32	valeur 2323 2330	gade II
+T33	anatomie 2837 2850	hématologique
+T34	dose 2972 2979	50mg/m²
+T35	substance 2959 2969	D-RUBICINE
+T36	substance 2999 3006	ENDOXAN
+T37	dose 3010 3018	500mg/m²
+T38	frequence 3019 3044	toutes les trois semaines
+T39	substance 3070 3079	docetaxel
+T40	substance 3081 3089	TAXOTERE
+T41	frequence 3116 3145	à trois semaines d’intervalle
+A5	assertion T102 absent
+T42	sosy 3248 3275	envahissement ganglionnaire
+A6	assertion T42 absent
+T43	substance 3314 3324	tamoxifène
+T44	dose 3341 3344	5mg
+T45	duree 3354 3370	pendant cinq ans
+T47	examen 3396 3416	récepteurs hormonaux
+T48	frequence 3497 3514	tout les six mois
+A7	assertion T107 absent
+A8	assertion T104 absent
+T49	substance 148 187	contraception orale oestro-progestative
+T51	duree 188 203	pendant dix ans
+T53	valeur 894 902	BIRADS V
+T54	valeur 1017 1026	BIRADS IV
+T55	valeur 1076 1094	1.8 cm de diamètre
+T59	traitement 1374 1435	tumorectomie de la zone de microcalcifications du sein gauche
+T60	anatomie 2446 2457	sein gauche
+T61	sosy 2515 2540	composante intracanalaire
+A9	assertion T61 absent
+T62	sosy 545 566	signes inflammatoires
+A10	assertion T62 absent
+T63	sosy 583 617	rétraction cutanée ou mamelonnaire
+A11	assertion T63 absent
+T64	sosy 827 884	opacité stellaire spiculée au niveau du QSE du sein droit
+T66	sosy 925 1001	microcalcifications irrégulières granulaires au niveau du QSI du sein gauche
+T67	peau 1517 1553	carcinome canalaire infiltrant (CCI)
+T68	peau 1635 1659	carcinome intracanalaire
+T72	peau 2319 2322	CCI
+T75	peau 2493 2496	CCI
+T80	duree 2931 2943	quatre cures
+T88	traitement 3054 3066	quatre cures
+T89	peau 313 333	nodule du sein droit
+T93	peau 383 446	nodule au niveau du quadrant supéro externe du sein droit (QSE)
+T94	peau 1066 1125	nodule de 1.8 cm de diamètre au niveau du QSE du sein droit
+T100	etatsosy 1665 1678	comédonécrose
+T103	etatsosy 1605 1625	lésion du sein droit
+T105	etatsosy 1687 1708	lésion du sein gauche
+T108	etatsosy 1766 1773	lésions
+T109	tumeur 3224 3232	tumorale
+T110	anatomie 605 617	mamelonnaire
+T111	sosy 621 668	examen du sein gauche était sans particularités
+T114	sosy 674 717	aires ganglionnaires axillaires sont libres
+T116	sosy 722 762	reste de l’examen somatique était normal
+T118	sosy 1066 1220	nodule de 1.8 cm de diamètre au niveau du QSE du sein droit, d’échogénicité hétérogène de contours irréguliers avec un grand axe perpendiculaire à la peau
+T119	anatomie 1645 1659	intracanalaire
+T121	sosy 1714 1751	récepteurs hormonaux étaient positifs
+T123	sosy 1777 1813	HERCEPT TEST bilatéral était négatif
+T125	sosy 1819 1853	dosage de CA 15-3 était à 37mui/ml
+T127	sosy 1858 1998	bilan d’extension qui comprenait un cliché de radiographie pulmonaire, une échographie hépatique et une scintigraphie osseuse, était négatif
+T129	traitement 2120 2180	traitement radical, type patey droit et gauche simultanément
+T131	anatomie 2250 2268	pièces opératoires
+T141	valeur 2338 2347	21mm/14mm
+T144	sosy 2379 2414	quatorze ganglions étaient indemnes
+T145	anatomie 2526 2540	intracanalaire
+T147	sosy 2571 2598	dix-sept ganglions indemnes
+T149	sosy 3396 3433	récepteurs hormonaux étaient positifs
+T150	examen 3479 3496	contrôle régulier
+T155	frequence 3488 3496	régulier
+T157	sosy 313 333	nodule du sein droit
+T158	sosy 383 446	nodule au niveau du quadrant supéro externe du sein droit (QSE)
+T159	pathologie 1517 1596	carcinome canalaire infiltrant (CCI) grade III Scarff bloom et Richardson (SBR)
+T160	pathologie 1635 1659	carcinome intracanalaire
+T161	sosy 1665 1678	comédonécrose
+T162	pathologie 2319 2347	CCI gade II SBR de 21mm/14mm
+T163	pathologie 2493 2508	CCI grade I SBR

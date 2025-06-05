@@ -1,0 +1,6 @@
+T1	genre 0 8	Monsieur
+T2	age 12 18	35 ans
+T3	origine 39 67	bilan d'infertilité primaire
+A1	genre T1 masculin
+T4	issue 1326 1366	deux mutations différentes (DF508/V938G)
+A2	issue T4 stable

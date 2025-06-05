@@ -1,0 +1,6 @@
+T1	genre 0 7	Patient
+T2	age 11 17	28 ans
+A1	genre T1 masculin
+T3	origine 42 77	une probable intoxication au datura
+T4	issue 843 952	L'évolution est simple avec récupération complète et rapide lui permettant de quitter l'hôpital le 03/02/2004
+A2	issue T4 guérison

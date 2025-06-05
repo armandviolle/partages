@@ -1,0 +1,6 @@
+T1	C0040558 38 50	toxoplasmose
+#1	AnnotatorNotes T1	"C0040558", "Toxoplasmosis", "Disease or Syndrome" ,"DISO"
+T2	C0008972 0 5	Etude
+#2	AnnotatorNotes T2	"C0008972", "Clinical Research", "Research Activity" ,"PROC"
+T5	C0013839 6 25	electromyographique
+#5	AnnotatorNotes T5	"C0013839", "Electromyography", "Diagnostic Procedure", "PROC"

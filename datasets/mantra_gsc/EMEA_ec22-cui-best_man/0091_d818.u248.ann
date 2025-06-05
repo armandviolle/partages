@@ -1,0 +1,8 @@
+T4	C0005910 0 5	Poids
+#4	AnnotatorNotes T4	"C0005910", "Body Weight", "Organism Attribute" ,"PHYS"
+T5	C0003062 12 18	animal
+#5	AnnotatorNotes T5	"C0003062", "Animals", "Animal" ,"LIVB"
+T6	C0012984 20 26	chiens
+#6	AnnotatorNotes T6	"C0012984", "Canis familiaris", "Mammal" ,"LIVB"
+T7	C0007450 30 35	chats
+#7	AnnotatorNotes T7	"C0007450", "Felis catus", "Mammal" ,"LIVB"

@@ -1,0 +1,6 @@
+T1	genre 0 6	Madame
+T2	age 19 25	59 ans
+A1	genre T1 féminin
+T3	origine 52 87	cystalgies avec une dysurie modérée
+T4	issue 1750 1884	Après plus d'un an de recul, la patiente reste asymptomatique et la lésion vésicale laissée en place ne semble pas augmenter de volume
+A2	issue T4 amélioration

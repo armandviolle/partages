@@ -1,0 +1,148 @@
+T1	cardiovasculaires 1049 1058	anévrisme
+T80	anatomie 1072 1092	artère rénale droite
+T40	sosy 114 145	douleurs de l’hypochondre droit
+T58	examen 1166 1204	exploration chirurgicale rénale droite
+T81	anatomie 1191 1204	rénale droite
+T2	cardiovasculaires 1229 1238	anévrisme
+T30	anatomie 1266 1274	bassinet
+T62	anatomie 128 145	hypochondre droit
+T46	anatomie 1324 1337	artère droite
+T101	anatomie 1347 1359	veine rénale
+T35	traitement 1381 1398	chirurgie ex situ
+T77	anatomie 1403 1407	rein
+T71	mode 1414 1421	perfusé
+T89	substance 1437 1464	solution de Wisconsin froid
+T39	duree 146 162	depuis 24 heures
+T3	cardiovasculaires 1507 1516	anévrisme
+T4	cardiovasculaires 1549 1558	anévrisme
+T83	anatomie 1582 1647	une des branches de division de l’artère rénale droite principale
+T31	anatomie 1672 1680	bassinet
+T84	anatomie 1739 1752	artère rénale
+T22	traitement 1757 1767	anastomose
+T111	anatomie 1772 1799	quatre branches artérielles
+T14	homme 179 202	hématurie macroscopique
+T103	anatomie 1815 1837	veineux saphène crural
+T7	tumeur 1852 1871	fistule du bassinet
+T32	anatomie 1863 1871	bassinet
+T64	traitement 1934 1946	intervention
+T78	anatomie 1989 1993	rein
+T60	anatomie 1997 2017	fosse iliaque droite
+T23	traitement 2023 2123	anastomose artérielle sur l’artère iliaque externe et veineuse sur la veine iliaque primitive droite
+T29	anatomie 2034 2044	artérielle
+T26	anatomie 2051 2073	artère iliaque externe
+T102	anatomie 2077 2085	veineuse
+T49	anatomie 2093 2123	veine iliaque primitive droite
+T65	traitement 2139 2151	intervention
+T38	substance 2173 2191	culots globulaires
+T122	anatomie 2180 2190	globulaire
+T133	mode 2200 2210	transfusés
+T10	cardiovasculaires 225 248	hypertension artérielle
+T70	duree 2273 2288	pendant 4 jours
+T72	moment 2291 2318	En post-opératoire immédiat
+T37	examen 2323 2336	créatininémie
+T27	anatomie 238 248	artérielle
+T123	valeur 2373 2382	2,6 mg/dl
+T88	examen 2460 2497	scintigraphie rénale au MAG3 – Tc 99M
+T85	anatomie 2474 2480	rénale
+T73	moment 2498 2527	au 10ème jour post-opératoire
+T94	anatomie 2552 2561	tubulaire
+T33	anatomie 2568 2578	bilatérale
+T50	anatomie 2594 2600	droite
+T95	anatomie 2623 2631	urinaire
+T90	traitement 2639 2654	sonde urétérale
+T99	anatomie 2645 2654	urétérale
+T97	examen 2679 2703	urographie intraveineuse
+T66	mode 2690 2703	intraveineuse
+T74	moment 2713 2741	au 5ème mois post-opératoire
+T93	sosy 2753 2836	sécrétion symétrique et survenant dans des délais normaux tant à droite qu’à gauche
+T51	anatomie 2818 2824	droite
+T61	anatomie 2830 2836	gauche
+T75	moment 2850 2879	Au 12ème mois post-opératoire
+T8	nutritionnelles 287 307	hypercholestérolémie
+T21	moment 322 335	A l’admission
+T55	examen 339 354	examen clinique
+T11	cardiovasculaires 384 406	hypotension artérielle
+T28	anatomie 396 406	artérielle
+T92	examen 416 435	pression systolique
+T20	valeur 438 444	6 mmHg
+T16	cardiovasculaires 450 461	tachycardie
+T91	sosy 467 473	sueurs
+T5	etatsosy 479 501	douleur du flanc droit
+T59	anatomie 490 501	flanc droit
+T67	anatomie 530 538	lombaire
+T15	homme 544 567	hématurie macroscopique
+T34	examen 628 645	biologie sanguine
+T86	anatomie 637 645	sanguine
+T63	examen 647 658	hémoglobine
+T105	sosy 67 93	état de choc hypovolémique
+T36	examen 679 689	créatinine
+T98	examen 715 719	urée
+T104	examen 743 754	échographie
+T19	valeur 821 837	5 cm de diamètre
+T79	anatomie 851 867	hile rénal droit
+T100	anatomie 908 918	vasculaire
+T53	examen 962 982	écho-doppler couleur
+T56	examen 988 1014	examen tomodensitométrique
+T6	etatsosy 114 145	douleurs de l’hypochondre droit
+T9	etatsosy 67 93	état de choc hypovolémique
+T12	etatsosy 179 202	hématurie macroscopique
+T13	etatsosy 225 248	hypertension artérielle
+T25	etatsosy 450 461	tachycardie
+T52	etatsosy 544 567	hématurie macroscopique
+T54	homme 1852 1871	fistule du bassinet
+T41	substance 261 269	atenolol
+T42	substance 273 283	cilazapril
+T43	age 15 21	70 ans
+T44	valeur 692 701	1.6 mg/dl
+A1	norme T44 haut
+T18	valeur 661 670	14.2 g/dl
+A2	norme T18 normal
+T17	valeur 722 730	51 mg/dl
+A3	norme T17 haut
+T45	valeur 2445 2454	1.4 mg/dl
+T47	genre 0 7	Patient
+A4	genre T47 masculin
+T48	homme 2544 2578	nécrose tubulaire aiguë bilatérale
+T24	sosy 225 248	hypertension artérielle
+A5	norme T123 haut
+A6	norme T45 haut
+T57	etatsosy 467 473	sueurs
+T68	valeur 1062 1066	7 cm
+T69	moment 2418 2442	quelques jours plus tard
+T76	cardiovasculaires 1704 1721	paroi anévrismale
+T82	traitement 1966 1993	autotransplantation du rein
+T87	sosy 647 670	hémoglobine à 14.2 g/dl
+T96	sosy 416 444	pression systolique à 6 mmHg
+T106	sosy 519 538	percussion lombaire
+T107	sosy 544 581	hématurie macroscopique avec caillots
+T108	sosy 586 620	état de conscience encore préservé
+T109	sosy 679 701	créatinine à 1.6 mg/dl
+T110	sosy 715 730	urée à 51 mg/dl
+T112	sosy 768 867	formati on transonore arrondie, bien circonscrite de 5 cm de diamètre au niveau du hile rénal droit
+T113	sosy 873 950	partie de cette formation semblait vasculaire, présentant des flux turbulents
+T114	sosy 1049 1092	anévrisme de 7 cm de l’artère rénale droite
+T115	mode 1137 1161	abord médian xyphopubien
+T116	sosy 1229 1274	anévrisme n’était pas dissociable du bassinet
+T117	traitement 1310 1359	ligature de l’artère droite et de la veine rénale
+T118	anatomie 1391 1398	ex situ
+T119	traitement 1403 1421	rein était perfusé
+T120	traitement 1492 1516	ouverture de l’anévrisme
+T121	sosy 1549 1647	anévrisme développé aux dépens d’une des branches de division de l’artère rénale droite principale
+T124	traitement 1693 1721	réséqué la paroi anévrismale
+T125	traitement 1725 1847	reconstruit l’artère rénale par anastomose des quatre branches artérielles sur un greffon veineux saphène crural autologue
+T126	traitement 1852 1884	fistule du bassinet était fermée
+T127	traitement 1891 1930	mise en place d’une sonde double crosse
+T128	duree 2159 2167	6 heures
+T129	dose 2171 2172	3
+T130	sosy 2544 2600	nécrose tubulaire aiguë bilatérale plus marquée à droite
+T131	traitement 2614 2631	drainage urinaire
+T132	duree 2664 2672	58 jours
+T134	sosy 2904 2926	excellent état général
+T135	sosy 179 202	hématurie macroscopique
+T136	sosy 287 307	hypercholestérolémie
+T137	pathologie 384 406	hypotension artérielle
+T138	sosy 450 461	tachycardie
+T139	sosy 479 501	douleur du flanc droit
+T140	sosy 1507 1516	anévrisme
+T141	pathologie 1852 1871	fistule du bassinet
+T142	sosy 1704 1721	paroi anévrismale

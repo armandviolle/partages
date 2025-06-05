@@ -1,0 +1,81 @@
+T40	anatomie 1039 1051	respiratoire
+T39	mode 1059 1069	perfusions
+T32	substance 1085 1101	immunoglobulines
+T42	anatomie 1137 1150	respiratoires
+T3	etatsosy 1160 1168	diarrhée
+T2	etatsosy 134 142	diarrhée
+T45	frequence 143 155	à répétition
+T16	examen 179 184	bilan
+T14	examen 231 245	TDM thoracique
+T43	anatomie 235 245	thoracique
+T35	sosy 26 57	mariage consanguin de 1er degré
+T55	anatomie 278 286	bronches
+T29	anatomie 310 331	lobe supérieur gauche
+T28	examen 336 368	fibroscopie oeso-gastroduodénale
+T38	anatomie 348 368	oeso-gastroduodénale
+T19	examen 374 381	biopsie
+T51	hemopathies 447 468	hyperplasie lymphoïde
+T1	sosy 474 495	atrophie villositaire
+T44	examen 514 530	transit du grêle
+T30	anatomie 525 530	grêle
+T23	examen 537 549	colonoscopie
+T20	examen 555 562	biopsie
+T37	valeur 571 578	normaux
+T18	examen 670 689	bilan immunologique
+T52	age 7 13	16 ans
+T11	examen 779 782	IgG
+T6	valeur 785 790	1 g/l
+T8	valeur 792 802	5,4 à 16,1
+T10	examen 805 808	IgA
+T5	valeur 811 819	0,25 g/l
+T21	valeur 821 830	0,8 à 2,8
+T12	examen 833 836	IgM
+T17	valeur 839 847	0,16 g/l
+T22	valeur 849 858	0,5 à 1,9
+T9	examen 864 869	CD 19
+T36	valeur 874 880	normal
+T13	valeur 884 887	10%
+T26	valeur 889 896	7 à 23%
+T15	substance 966 984	antibioprophylaxie
+T24	substance 995 1008	cotrimoxazole
+A1	norme T13 normal
+A3	norme T17 bas
+A2	norme T5 bas
+A4	norme T6 bas
+T27	genre 0 5	Maria
+A5	genre T27 féminin
+T7	duree 69 90	depuis l’âge de 4 ans
+T25	examen 694 730	dosage pondéral des immunoglobulines
+T31	traitement 1024 1051	kinésithérapie respiratoire
+T41	frequence 1070 1080	mensuelles
+T33	respiratoire 94 114	bronchopneumopathies
+T46	immunitaire 447 468	hyperplasie lymphoïde
+A6	assertion T1 absent
+T47	sosy 499 509	parasitose
+A7	assertion T47 absent
+T48	respiratoire 263 286	dilatation des bronches
+T4	digestif 395 426	duodénite nodulaire oedémateuse
+T34	examen 583 595	coproculture
+T49	hemopathies 748 769	hypogammaglobulinémie
+T50	immunitaire 748 769	hypogammaglobulinémie
+T53	immunitaire 932 936	DICV
+#1	AnnotatorNotes T53	déficit immunitaire commun variable
+T54	infections 1126 1150	infections respiratoires
+T56	respiratoire 1126 1150	infections respiratoires
+T57	etatsosy 94 114	bronchopneumopathies
+T58	sosy 94 114	bronchopneumopathies
+T59	sosy 134 155	diarrhée à répétition
+T60	sosy 1160 1168	diarrhée
+T61	etatsosy 263 286	dilatation des bronches
+T62	sosy 263 331	dilatation des bronches diffuses respectant le lobe supérieur gauche
+T63	sosy 514 578	transit du grêle et la colonoscopie avec biopsie étaient normaux
+T64	sosy 583 622	coproculture n’avait pas isolé de germe
+T65	sosy 748 790	hypogammaglobulinémie avec des IgG = 1 g/l
+T66	sosy 805 819	IgA = 0,25 g/l
+T67	sosy 833 847	IgM = 0,16 g/l
+T68	sosy 864 887	CD 19 est normal de 10%
+T69	moment 1170 1184	recul de 4 ans
+T71	sosy 395 426	duodénite nodulaire oedémateuse
+T72	sosy 447 468	hyperplasie lymphoïde
+T73	pathologie 932 936	DICV
+T74	sosy 1126 1150	infections respiratoires

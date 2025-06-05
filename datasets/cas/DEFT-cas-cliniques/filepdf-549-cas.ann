@@ -1,0 +1,6 @@
+T1	age 12 18	40 ans
+T2	genre 3 8	homme
+T3	origine 32 54	retrouvé mort chez lui
+A1	genre T2 masculin
+T4	issue 41 45	mort
+A2	issue T4 décès

@@ -1,0 +1,6 @@
+T1	age 29 34	5 ans
+T2	genre 7 25	une jeune patiente
+A1	genre T2 féminin
+T3	origine 148 392	un tableau de fièvre persistante depuis cinq jours, des vomissements, une douleur importante au cou avec une incapacité de mobilisation, une dysphagie et une diminution de l’état de santé général avec confusion, difficulté à parler et à marcher
+T4	issue 7074 7259	La patiente présente des séquelles de son accident vasculaire cérébral sylvien droit, soit une hémiparésie gauche, une ophtalmoplégie bilatérale et une atteinte du septième nerf crânien
+A2	issue T4 détérioration

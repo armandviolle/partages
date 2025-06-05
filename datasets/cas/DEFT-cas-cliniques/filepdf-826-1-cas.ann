@@ -1,0 +1,139 @@
+T1	sosy 35 61	colique néphrétique gauche
+T2	anatomie 43 61	néphrétique gauche
+T3	traitement 102 121	néphrectomie droite
+T4	pathologie 127 155	rein polylithiasique détruit
+A1	etat T4 passé
+T5	anatomie 127 131	rein
+T6	traitement 157 178	opéré pour varisation
+T7	pathologie 184 194	genuvalgum
+T8	sosy 266 287	coliques néphrétiques
+A3	assertion T8 non-associé
+T9	pathologie 296 311	lithiase rénale
+A4	etat T9 familial
+A5	assertion T9 non-associé
+T10	examen 339 354	examen clinique
+T11	sosy 368 397	marche autonome avec boiterie
+T12	anatomie 305 311	rénale
+T13	anatomie 275 287	néphrétiques
+T14	sosy 401 420	genuvalgum à gauche
+T15	examen 425 442	reste de l’examen
+T16	valeur 449 455	normal
+T17	sosy 425 455	reste de l’examen était normal
+T18	examen 460 463	ASP
+T19	sosy 480 539	image calcique de 1 cm en projection de l’air rénale gauche
+T20	valeur 498 502	1 cm
+T21	anatomie 522 539	air rénale gauche
+T22	sosy 544 619	amas de petites calcifications en projection du pole inferieur du même rein
+T23	anatomie 592 619	pole inferieur du même rein
+T24	examen 627 664	adios de poumon et de la main de face
+T25	anatomie 636 642	poumon
+T26	anatomie 652 656	main
+T27	sosy 698 790	augmentation de la densité osseuse avec une lyse des deux extrémités externes des clavicules
+T28	anatomie 725 732	osseuse
+T29	anatomie 756 790	extrémités externes des clavicules
+T30	sosy 795 884	aspect érodé et évasé des régions métaphyso-épiphysaires distales du radius et du cubitus
+T31	anatomie 821 884	régions métaphyso-épiphysaires distales du radius et du cubitus
+T32	sosy 890 926	résorption des houppes phalangiennes
+T33	anatomie 905 926	houppes phalangiennes
+T34	examen 931 953	échographie abdominale
+T35	anatomie 943 953	abdominale
+T36	sosy 967 991	dilatation rénale gauche
+T37	anatomie 978 991	rénale gauche
+T38	sosy 1000 1019	multiples lithiases
+T39	examen 1025 1078	scintigraphie parathyroïdienne au thallium+technétium
+T40	anatomie 1039 1055	parathyroïdienne
+T41	sosy 1113 1164	hyperplasie parathyroïdienne de siège lobaire droit
+A6	assertion T41 hypothétique
+T42	anatomie 1125 1141	parathyroïdienne
+T43	anatomie 1145 1164	siège lobaire droit
+T44	examen 1170 1191	bilan phosphocalcique
+T45	examen 1213 1221	Calcémie
+T46	valeur 1224 1231	140mg/l
+T47	examen 1233 1245	Phosphorémie
+T48	valeur 1248 1255	25 mg/l
+T49	examen 1257 1266	Calciurie
+T50	valeur 1269 1279	309 mg/24h
+T51	examen 1281 1293	Phosphaturie
+T52	valeur 1296 1306	431 mg/24h
+T53	examen 1308 1330	Phosphatases alcalines
+T54	valeur 1333 1342	1621 UI/l
+T55	examen 1344 1348	Urée
+T56	valeur 1349 1356	0.15g/l
+T57	examen 1358 1368	Créatinine
+T58	valeur 1369 1374	9mg/l
+T59	examen 1376 1388	Parathormone
+T60	valeur 1391 1400	2249pg/ml
+T61	traitement 1407 1440	cervicotomie en cravate de Kocher
+T62	traitement 1476 1499	décollement du peaucier
+T63	traitement 1501 1530	ouverture de la ligne blanche
+T64	traitement 1532 1569	libération des deux lobes thyroïdiens
+T65	anatomie 1552 1569	lobes thyroïdiens
+T66	anatomie 1491 1499	peaucier
+T67	sosy 1587 1660	nodule de 2.5 cm développé au dépend de la parathyroïde droite supérieure
+T68	valeur 1597 1603	2.5 cm
+T69	anatomie 1630 1660	parathyroïde droite supérieure
+T70	anatomie 1665 1695	parathyroïde droite inférieure
+T71	sosy 1665 1779	parathyroïde droite inférieure est aussi hypertrophiée et nodulaire, le tout adhérant au lobe droit de la thyroïde
+T72	anatomie 1754 1779	lobe droit de la thyroïde
+T73	traitement 1785 1802	lobectomie droite
+T74	traitement 1822 1862	emportant les deux parathyroïdes droites
+T75	anatomie 1836 1862	deux parathyroïdes droites
+T76	traitement 1869 1895	repérage du nerf récurrent
+T77	anatomie 1881 1895	nerf récurrent
+T78	anatomie 1901 1922	parathyroïdes gauches
+T79	valeur 1938 1944	normal
+T80	sosy 1901 1944	parathyroïdes gauches était d’aspect normal
+T81	examen 1949 1959	histologie
+T82	sosy 1987 2025	adénome parathyroïdien droit supérieur
+T83	anatomie 1995 2025	parathyroïdien droit supérieur
+T84	valeur 2059 2065	normal
+T85	sosy 2030 2065	nodule droit inférieur était normal
+T86	traitement 2093 2151	lobectomie droite emportant les deux parathyroïdes droites
+T87	anatomie 2125 2151	deux parathyroïdes droites
+T88	date 2175 2183	21-12-02
+T89	anatomie 2214 2226	jambe gauche
+T90	sosy 2188 2226	déformation brusque de la jambe gauche
+T91	sosy 2236 2268	impotence fonctionnelle complète
+T92	sosy 2284 2295	traumatisme
+A8	assertion T92 absent
+T93	examen 2307 2322	examen clinique
+T94	anatomie 2327 2339	jambe gauche
+T95	sosy 2327 2359	jambe gauche en rotation externe
+T96	examen 2365 2377	radiographie
+T97	sosy 2404 2436	fracture des deux os de la jambe
+T98	anatomie 2422 2436	os de la jambe
+T99	traitement 2458 2509	enclouage centromédullaire avec plâtrecruro-pédieux
+T100	anatomie 2468 2484	centromédullaire
+T101	examen 2528 2549	suivi en consultation
+T102	sosy 2554 2562	fracture
+T103	traitement 2584 2620	matériel opératoire lui a été enlevé
+T104	anatomie 2030 2052	nodule droit inférieur
+A2	etat T7 passé
+T105	substance 1059 1067	thallium
+T106	substance 1068 1078	technétium
+T107	sosy 1213 1231	Calcémie : 140mg/l
+T108	sosy 1233 1255	Phosphorémie : 25 mg/l
+T109	sosy 1257 1279	Calciurie : 309 mg/24h
+T110	sosy 1281 1306	Phosphaturie : 431 mg/24h
+T111	sosy 1308 1342	Phosphatases alcalines : 1621 UI/l
+T112	sosy 1344 1356	Urée 0.15g/l
+T113	sosy 1358 1374	Créatinine 9mg/l
+T114	sosy 1376 1400	Parathormone : 2249pg/ml
+T115	etatsosy 35 61	colique néphrétique gauche
+T116	homme 127 155	rein polylithiasique détruit
+T117	osteomusculaires 184 194	genuvalgum
+T118	osteomusculaires 401 420	genuvalgum à gauche
+T121	homme 1000 1019	multiples lithiases
+T123	osteomusculaires 2188 2226	déformation brusque de la jambe gauche
+T124	blessures 2404 2436	fracture des deux os de la jambe
+T125	blessures 2554 2562	fracture
+T119	tumeur 1987 2025	adénome parathyroïdien droit supérieur
+T120	endocriniennes 1987 2025	adénome parathyroïdien droit supérieur
+T122	osteomusculaires 2404 2436	fracture des deux os de la jambe
+T126	osteomusculaires 2554 2562	fracture
+T127	age 10 16	14 ans
+T128	genre 2514 2521	patient
+A7	genre T128 masculin
+T129	origine 35 61	colique néphrétique gauche
+T130	issue 2511 2641	Le patient a été suivi en consultation, la fracture a été consolidée. Le matériel opératoire lui a été enlevé avec bonne évolution
+A9	issue T130 amélioration

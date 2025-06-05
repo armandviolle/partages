@@ -1,0 +1,51 @@
+T5	pathologie 236 242	ulcère
+T6	anatomie 166 173	scrotum
+T7	pathologie 147 173	oedème indolore du scrotum
+T8	substance 583 588	Dakin
+T9	duree 590 606	pendant 12 jours
+T12	frequence 656 675	tous les deux jours
+T13	duree 676 692	pendant 10 jours
+T14	traitement 760 780	greffe de peau mince
+T15	anatomie 770 780	peau mince
+T19	moment 890 916	12éme jour post-opératoire
+T21	anatomie 988 1001	cuisse gauche
+T24	examen 355 384	prélèvements bactériologiques
+T25	sosy 459 470	ulcérations
+T26	traitement 479 487	excisées
+T27	traitement 504 523	anesthésie générale
+T28	anatomie 73 86	cuisse gauche
+T29	pathologie 64 86	UB de la cuisse gauche
+T30	moment 256 280	au 3éme jour d'évolution
+T31	anatomie 324 337	peau scrotale
+T34	examen 184 195	température
+T32	anatomie 795 827	face interne de la cuisse droite
+T33	sosy 299 337	phlyctènes rompues de la peau scrotale
+T35	sosy 207 223	bon état général
+T36	moment 106 142	au 26ème jour de son hospitalisation
+T1	sosy 184 202	température à 37°2
+T3	valeur 198 202	37°2
+T4	sosy 403 453	présence de bacille acido alcoolo résistant (Baar)
+T10	frequence 555 565	quotidiens
+T11	traitement 542 565	soins locaux quotidiens
+T17	mode 571 579	solution
+T18	moment 736 751	le jour suivant
+T16	pathologie 979 1001	UB de la cuisse gauche
+T20	traitement 698 716	couverture cutanée
+#1	AnnotatorNotes T29	UB : ulcère de Buruli, maladie infectieuse cutanée
+T2	anatomie 709 716	cutanée
+A1	norme T3 normal
+T22	infections 64 86	UB de la cuisse gauche
+T23	peau 64 86	UB de la cuisse gauche
+T37	peau 979 1001	UB de la cuisse gauche
+T38	infections 979 1001	UB de la cuisse gauche
+T39	etatsosy 147 173	oedème indolore du scrotum
+T40	etatsosy 236 242	ulcère
+T41	peau 299 337	phlyctènes rompues de la peau scrotale
+T42	etatsosy 299 337	phlyctènes rompues de la peau scrotale
+T43	etatsosy 459 470	ulcérations
+T44	genre 32 40	masculin
+A2	genre T44 masculin
+T45	age 17 23	12 ans
+T46	origine 64 86	UB de la cuisse gauche
+T47	issue 829 1001	La cicatrisation a été obtenue après le troisième pansement (12éme jour post-opératoire) avec du tulle® gras. Le patient était resté hospitalisé pour UB de la cuisse gauche
+A3	issue T47 guérison

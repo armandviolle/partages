@@ -1,0 +1,99 @@
+T18	examen 1183 1215	scanner thoraco-abdomino-pelvien
+T25	anatomie 1191 1215	thoraco-abdomino-pelvien
+T27	examen 1557 1585	analyse anatomo-pathologique
+T29	anatomie 1565 1585	anatomo-pathologique
+T19	examen 2027 2059	scanner thoraco-abdomino-pelvien
+T26	anatomie 2035 2059	thoraco-abdomino-pelvien
+T20	examen 647 661	toucher rectal
+T24	anatomie 655 661	rectal
+T21	examen 801 825	échographie testiculaire
+T31	anatomie 813 825	testiculaire
+T4	sosy 236 252	douleur urétrale
+T5	anatomie 244 252	urétrale
+A3	assertion T4 absent
+T6	sosy 1616 1645	nodule épididymo-testiculaire
+T7	anatomie 1623 1645	épididymo-testiculaire
+T8	sosy 1677 1722	lésion d’épididymo-déferentite aiguë suppurée
+T9	pathologie 272 279	dysurie
+A4	assertion T9 absent
+T10	sosy 443 562	nodule de dureté pierreuse du pôle inférieur du testicule gauche, indolore, avec perte du sillon épididymo-testiculaire
+T11	anatomie 473 507	pôle inférieur du testicule gauche
+T12	anatomie 567 589	testicule controlatéra
+T13	valeur 668 686	sans particularité
+A5	norme T13 normal
+T14	examen 691 710	diagnostic clinique
+T33	examen 1034 1054	bilan complémentaire
+T34	examen 1095 1115	bilan pré-opératoire
+T38	examen 415 430	examen clinique
+T41	examen 1065 1089	exploration chirurgicale
+T42	examen 1254 1278	exploration chirurgicale
+T44	valeur 597 603	normal
+T45	examen 109 122	autopalpation
+T46	examen 1760 1771	prélèvement
+T16	anatomie 182 198	testicule gauche
+T17	sosy 129 198	tuméfaction très dure et d’apparition progressive du testicule gauche
+A6	norme T44 normal
+T36	anatomie 908 942	pôle inférieur du testicule gauche
+T39	sosy 887 942	nodule hétérogène du pôle inférieur du testicule gauche
+T40	moment 1101 1115	pré-opératoire
+T47	examen 1132 1161	dosage des marqueurs tumoraux
+T48	examen 1163 1166	αFP
+T52	examen 1168 1172	βHCG
+T53	examen 1174 1177	LDH
+T55	traitement 1223 1249	cryoconservation de sperme
+T56	traitement 1364 1390	clampage premier du cordon
+T57	anatomie 1384 1390	cordon
+T58	sosy 1409 1465	nodule épididymo-testiculaire très dur du pôle inférieur
+T59	anatomie 1416 1438	épididymo-testiculaire
+T61	anatomie 1451 1465	pôle inférieur
+T62	sosy 1501 1510	malignité
+T63	traitement 1516 1536	orchidectomie gauche
+T65	anatomie 1686 1707	épididymo-déferentite
+T67	sosy 1729 1744	lésion tumorale
+A7	assertion T67 absent
+T32	traitement 1784 1810	cryoconservation de sperme
+T69	pathologie 1836 1848	leucospermie
+T70	examen 1898 1911	spermoculture
+T71	sosy 1951 1985	infection à Chlamydiae trachomatis
+T49	examen 2066 2086	dosage des marqueurs
+T73	valeur 2095 2102	normaux
+A8	norme T73 normal
+T74	substance 2131 2146	antibiothérapie
+T75	substance 2148 2160	tétracycline
+T76	duree 2162 2178	pendant 21 jours
+T77	sosy 760 794	tumeur maligne du testicule gauche
+T78	anatomie 778 794	testicule gauche
+T79	anatomie 635 642	urétral
+T80	sosy 624 642	écoulement urétral
+A9	assertion T80 absent
+T82	anatomie 533 562	sillon épididymo-testiculaire
+T83	moment 1296 1338	dans les 48 heures suivant la consultation
+T1	sosy 25 54	antécédent médico-chirurgical
+A1	assertion T1 absent
+T2	sosy 291 329	symptomatologie fonctionnelle urinaire
+A2	assertion T2 absent
+T3	duree 387 410	depuis plusieurs années
+T15	sosy 567 603	testicule controlatéral était normal
+T22	sosy 647 686	toucher rectal était sans particularité
+T23	examen 955 977	tableau radio-clinique
+T30	mode 1344 1358	voie inguinale
+T35	pathologie 1650 1671	épididymite chronique
+T37	examen 1990 2021	PCR (Polymerase Chain Reaction)
+T43	sosy 2027 2102	scanner thoraco-abdomino-pelvien et le dosage des marqueurs étaient normaux
+T50	moment 836 857	avant la consultation
+T28	anatomie 321 329	urinaire
+T54	anatomie 1243 1249	sperme
+A10	assertion T62 possible
+T51	anatomie 1804 1810	sperme
+T60	homme 129 198	tuméfaction très dure et d’apparition progressive du testicule gauche
+T68	homme 1409 1465	nodule épididymo-testiculaire très dur du pôle inférieur
+T72	homme 1650 1671	épididymite chronique
+T81	infections 1951 1985	infection à Chlamydiae trachomatis
+T64	homme 1836 1848	leucospermie
+T66	homme 1616 1645	nodule épididymo-testiculaire
+T84	age 12 18	21 ans
+T85	genre 203 210	patient
+A11	genre T85 masculin
+T86	origine 94 198	découverte à l’autopalpation d’une tuméfaction très dure et d’apparition progressive du testicule gauche
+T87	issue 2024 2102	Le scanner thoraco-abdomino-pelvien et le dosage des marqueurs étaient normaux
+A12	issue T87 guérison

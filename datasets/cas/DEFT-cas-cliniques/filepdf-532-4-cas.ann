@@ -1,0 +1,6 @@
+T1	genre 0 14	Une toxicomane
+T2	age 18 24	45 ans
+T3	issue 741 793	ne conserve pas le moindre souvenir de cet événement
+A1	genre T1 féminin
+T4	origine 223 276	après avoir consommé une boite entière, elle s'endort
+A2	issue T3 guérison

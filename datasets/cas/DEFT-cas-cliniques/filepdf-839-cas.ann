@@ -1,0 +1,88 @@
+T1001	anatomie 235 245	sein droit
+T1002	anatomie 149 159	sein droit
+T1003	anatomie 668 683	glande mammaire
+T1004	anatomie 904 912	mammaire
+T1005	anatomie 1026 1036	sein droit
+T1006	anatomie 1209 1219	pulmonaire
+T1007	anatomie 1256 1266	abdominale
+T10061	examen 484 499	examen clinique
+T10062	examen 413 427	interrogatoire
+T10063	examen 163 178	examen clinique
+T10064	examen 555 567	mammographie
+T10065	examen 892 912	échographie mammaire
+T10066	examen 1196 1219	radiographie pulmonaire
+T10067	examen 1244 1266	échographie abdominale
+T10068	examen 1474 1492	étude histologique
+T100111	moment 1728 1742	Deux ans Après
+T100161	valeur 1047 1069	environ 79 x 65 x58 mm
+T100181	sosy 516 529	hépatomégalie
+T100191	sosy 134 159	tuméfaction du sein droit
+T100194	sosy 455 468	contact canin
+T100195	sosy 788 818	image kystique mammaire droite
+T100198	sosy 938 1069	importante formation anéchogène, ovalaire bien limitée, occupant presque la totalité du sein droit, mesurant environ 79 x 65 x58 mm
+T100199	sosy 1676 1700	dystrophie fibrokystique
+T100200	sosy 1708 1725	mastite chronique
+T1008	pathologie 56 110	antécédents personnels ou familiaux de maladie du sein
+T1009	sosy 190 342	énorme masse occupant presque la totalité du sein droit, sous forme d’un nodule rénitent, mobile, indolore sans adhérence au plan superficiel ni profond
+T10010	anatomie 391 396	seins
+T10011	sosy 386 409	deux seins sont souples
+T10012	sosy 348 380	aires ganglionnaires sont libres
+T10013	sosy 536 549	splénomégalie
+T10014	sosy 593 744	énorme image nodulaire mammaire droite, occupant presque la totalité de la glande mammaire, noyée dans une trame riche en tissu conjonctivo-glandulaire
+T10016	anatomie 715 744	tissu conjonctivo-glandulaire
+T10018	sosy 827 860	adénofibrome sans image stellaire
+T10023	sosy 1445 1469	kyste hydatique mammaire
+T10024	anatomie 1461 1469	mammaire
+T10025	sosy 1523 1528	kyste
+T10026	sosy 1643 1666	kyste hydatique du sein
+T10027	anatomie 1662 1666	sein
+T10028	frequence 1716 1725	chronique
+T10029	sosy 1826 1875	caractère primitif de ce kyste hydatique mammaire
+T10030	anatomie 1867 1875	mammaire
+T10031	anatomie 106 110	sein
+T200201	sosy 1756 1764	récidive
+T20010	anatomie 348 368	aires ganglionnaires
+T20016	anatomie 616 631	mammaire droite
+T20019	anatomie 803 818	mammaire droite
+T20021	sosy 1108 1145	énorme image kystique mammaire droite
+T20022	anatomie 1130 1145	mammaire droite
+T20023	sosy 1179 1190	galactocèle
+T20024	valeur 1224 1231	normale
+T20025	sosy 1196 1231	radiographie pulmonaire est normale
+T20026	traitement 1284 1295	kystectomie
+T20027	examen 1307 1325	ouverture du kyste
+T20029	sosy 1343 1391	liquide eau de roche avec une membrane proligère
+T20033	sosy 1547 1591	membranes faiblement acidophiles feuilletées
+T20034	sosy 1621 1627	scolex
+T20038	sosy 1768 1790	d’autres localisations
+T20041	sosy 866 887	amas calcique suspect
+A1	assertion T100181 absent
+A2	assertion T10013 absent
+A3	assertion T1008 absent
+A4	assertion T100195 possible
+A5	assertion T10018 possible
+A6	assertion T20041 possible
+A7	norme T20024 normal
+A8	assertion T20038 absent
+A9	assertion T200201 absent
+A10	etat T1008 passé
+A11	assertion T100194 absent
+T200202	parasitaires 1445 1460	kyste hydatique
+T200203	parasitaires 1643 1658	kyste hydatique
+T200204	parasitaires 1851 1875	kyste hydatique mammaire
+T1	tumeur 263 269	nodule
+T3	peau 134 159	tuméfaction du sein droit
+T2	peau 1676 1700	dystrophie fibrokystique
+T4	peau 1708 1725	mastite chronique
+T5	peau 1643 1666	kyste hydatique du sein
+#1	AnnotatorNotes T5	maladie fibrokystique du sein
+T6	peau 1445 1469	kyste hydatique mammaire
+T7	peau 1851 1875	kyste hydatique mammaire
+T8	etatsosy 1108 1145	énorme image kystique mammaire droite
+T9	peau 1108 1145	énorme image kystique mammaire droite
+T10	genre 10 18	patiente
+T11	age 22 28	28 ans
+A12	genre T10 féminin
+T12	origine 130 159	une tuméfaction du sein droit
+T13	issue 1728 1875	Deux ans Après, il n’y a ni récidive ni d’autres localisations qui apparaissent ce qui indique le caractère primitif de ce kyste hydatique mammaire
+A13	issue T13 guérison

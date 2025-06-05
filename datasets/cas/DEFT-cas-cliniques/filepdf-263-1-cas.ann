@@ -1,0 +1,6 @@
+T1	age 15 21	48 ans
+T2	genre 2336 2346	du patient
+A1	genre T2 masculin
+T3	origine 95 185	des douleurs lombaires évoluant depuis un mois et nécessitant des antalgiques morphiniques
+T4	issue 2201 2355	Au troisième mois de suivi clinique, il existait une diminution significative du volume cible tomodensitométrique avec un état général du patient conservé
+A2	issue T4 amélioration

@@ -1,0 +1,4 @@
+T3	C0021368 48 70	réaction inflammatoire
+#3	AnnotatorNotes T3	"C0021368", "Inflammation", "Pathologic Function" ,"DISO"
+T4	C0004364 91 110	maladie auto-immune
+#4	AnnotatorNotes T4	"C0004364", "Autoimmune Diseases", "Disease or Syndrome" ,"DISO"

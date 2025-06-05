@@ -1,0 +1,36 @@
+T25	age 10 16	37 ans
+T1	etatsosy 133 152	douleurs digestives
+T6	anatomie 142 152	digestives
+T14	mode 311 329	voie intraveineuse
+T3	dose 357 362	50 mg
+T13	substance 395 405	traitement
+T22	mode 593 604	injectables
+T2	etatsosy 828 835	malaise
+T23	mode 909 920	injectables
+T10	frequence 921 929	par jour
+T7	genre 0 6	Madame
+A1	genre T7 féminin
+T5	anatomie 186 196	abdominaux
+T8	substance 346 354	Débridât
+T9	substance 366 377	trimébutine
+T4	dose 891 908	25 et 30 ampoules
+T11	moment 837 848	Après 6 ans
+T15	chimiques 852 870	pharmacodépendance
+T12	traitement 1160 1167	sevrage
+T16	sosy 133 152	douleurs digestives
+T17	etatsosy 179 196	bruits abdominaux
+T18	sosy 179 196	bruits abdominaux
+T19	moment 1182 1196	après 12 jours
+T20	digestif 69 85	colite chronique
+T21	mode 1023 1032	injection
+T24	frequence 76 85	chronique
+T26	substance 269 281	automédiquer
+T27	dose 334 342	ampoules
+T28	mode 665 672	injecte
+T29	mode 287 296	injectant
+T30	sosy 802 835	sensation de manque et de malaise
+T31	substance 778 788	injections
+A2	prise T31 arrêt
+T32	examen 1074 1093	suivi psychiatrique
+T33	pathologie 69 85	colite chronique
+T34	sosy 852 870	pharmacodépendance

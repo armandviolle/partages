@@ -1,0 +1,6 @@
+T1	genre 0 6	Madame
+T2	age 10 16	37 ans
+A1	genre T1 féminin
+T3	origine 39 155	incontinence urinaire d’effort confirmée par l’examen clinique avec une manœuvre de soutènement de l’urètre positive
+T4	issue 1361 1411	La patiente était continente avec un recul de 1 an
+A2	issue T4 guérison

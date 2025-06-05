@@ -1,0 +1,126 @@
+T1001	anatomie 1714 1720	rénale
+T1002	anatomie 2261 2271	thoracique
+T10067	examen 2015 2037	électroencéphalogramme
+T10068	examen 2143 2168	électrocardiogramme (ECG)
+T10069	examen 2275 2292	échocardiographie
+T10070	examen 2378 2393	ECG de contrôle
+T100111	moment 894 920	48 heures après son retour
+T100122	examen 2104 2122	hydroxychloroquine
+T100123	substance 2349 2363	antiarythmique
+T100124	substance 2365 2373	Atenolol
+T100162	valeur 1373 1380	normale
+T100166	valeur 2131 2139	882 µg/L
+T100167	valeur 2400 2406	normal
+T100181	pathologie 446 455	paludisme
+T100196	sosy 1177 1202	désorientation temporelle
+T100203	sosy 2253 2271	douleur thoracique
+T100204	sosy 2310 2319	anomalies
+T1004	examen 1705 1720	fonction rénale
+T1005	valeur 1794 1802	négative
+T1007	valeur 1885 1893	négative
+T1009	examen 1966 2011	imagerie par résonnance magnétique cérébrales
+T10010	anatomie 2001 2011	cérébrales
+T10011	valeur 2044 2062	sans particularité
+T10012	examen 2067 2081	chloroquinémie
+T10013	valeur 2090 2098	0,5 mg/L
+T10014	sosy 2181 2192	bigeminisme
+T10015	substance 149 180	chimioprophylaxie antipaludique
+T10020	pathologie 1339 1353	neuropaludisme
+T10022	examen 1358 1366	glycémie
+T20051	duree 108 126	pendant 3 semaines
+T20061	examen 1088 1094	examen
+T20062	examen 1631 1658	numération formule sanguine
+T20063	examen 1662 1672	ionogramme
+T20064	examen 1727 1742	bilan hépatique
+T20065	examen 1849 1878	recherche de toxique urinaire
+T20066	examen 1943 1960	tomodensitométrie
+T20071	examen 2484 2494	holter ECG
+T200121	examen 640 658	diagnostic médical
+T200161	valeur 1264 1289	102 battements par minute
+T200163	valeur 1761 1768	normaux
+T200164	valeur 1693 1700	normaux
+T200165	valeur 1922 1929	normale
+T200168	valeur 2521 2527	normal
+T200191	sosy 492 522	allergie médicamenteuse connue
+T200192	sosy 570 583	hallucination
+T200193	sosy 603 610	anxiété
+T200194	sosy 949 973	troubles du comportement
+T200195	sosy 1146 1166	déficit neurologique
+T200197	sosy 1222 1232	apyrétique
+T200198	sosy 1505 1522	syndrome délirant
+T200199	sosy 1528 1580	logorrhée avec tendance à la répétition des chiffres
+T200200	sosy 1602 1625	agitation psychomotrice
+T200202	sosy 1811 1844	syndrome inflammatoire biologique
+T2004	substance 205 216	chloroquine
+T2005	substance 217 226	proguanil
+T2006	moment 236 255	la veille du voyage
+T2007	substance 396 419	traitement antipalustre
+T2008	sosy 463 481	habitudes toxiques
+T2009	substance 701 731	chimioprophylaxie antipalustre
+T20011	moment 809 824	après le retour
+T20012	sosy 842 850	incident
+T20013	duree 870 892	pendant tout le séjour
+T20014	sosy 979 1014	agitation d’aggravation progressive
+T20015	sosy 1120 1139	patiente consciente
+T20016	sosy 1234 1245	normotendue
+T20017	sosy 1251 1289	tachycarde à 102 battements par minute
+T20020	sosy 1358 1380	glycémie était normale
+T20021	sosy 1460 1472	tachypsychie
+T20022	sosy 1478 1496	propos incohérents
+T20023	sosy 1586 1594	insomnie
+T20024	examen 1679 1684	crase
+T20025	sosy 1631 1700	numération formule sanguine, l’ionogramme et la crase étaient normaux
+T20026	anatomie 1733 1742	hépatique
+T20027	sosy 1705 1768	fonction rénale et le bilan hépatique étaient également normaux
+T20028	examen 1773 1787	goutte épaisse
+T20029	sosy 1773 1802	goutte épaisse était négative
+T20030	sosy 1849 1893	recherche de toxique urinaire était négative
+T20031	examen 1898 1915	ponction lombaire
+T20032	sosy 1898 1929	ponction lombaire était normale
+T20036	sosy 2015 2062	électroencéphalogramme était sans particularité
+T20039	sosy 2067 2098	chloroquinémie était à 0,5 mg/L
+T20040	sosy 2104 2139	hydroxychloroquine était à 882 µg/L
+T20042	sosy 2212 2244	stable sur le plan hémodynamique
+T20043	sosy 2378 2406	ECG de contrôle était normal
+T20044	sosy 2484 2527	holter ECG fait ultérieurement était normal
+T20045	duree 2562 2580	séjour de 15 jours
+T20048	moment 1095 1108	à l’admission
+T20050	anatomie 1870 1878	urinaire
+T20053	anatomie 1907 1915	lombaire
+A1	assertion T2008 absent
+A2	assertion T200191 absent
+A3	assertion T200121 absent
+A4	assertion T20012 absent
+T1	duree 748 770	pendant tout le séjour
+A5	assertion T200195 absent
+A6	assertion T100204 absent
+A7	assertion T100181 absent
+A8	assertion T10020 absent
+T2	anatomie 1650 1658	sanguine
+A9	norme T10011 normal
+A10	norme T200163 normal
+A11	norme T200165 normal
+A12	norme T200164 normal
+A13	norme T100167 normal
+A14	norme T100162 normal
+A15	norme T200168 normal
+T3	anatomie 1154 1166	neurologique
+T4	anatomie 1612 1625	psychomotrice
+A16	assertion T100203 absent
+T200203	etatsosy 979 1014	agitation d’aggravation progressive
+T200204	etatsosy 1602 1625	agitation psychomotrice
+T200206	etatsosy 1177 1202	désorientation temporelle
+T5	nerveux 570 583	hallucination
+T6	etatsosy 570 583	hallucination
+T7	nerveux 979 1014	agitation d’aggravation progressive
+T8	nerveux 1177 1202	désorientation temporelle
+T9	nerveux 1602 1625	agitation psychomotrice
+T10	nerveux 1586 1594	insomnie
+T11	cardiovasculaires 1251 1289	tachycarde à 102 battements par minute
+T12	etatsosy 1251 1289	tachycarde à 102 battements par minute
+T13	genre 20 28	patiente
+A17	genre T13 féminin
+T14	age 37 43	23 ans
+T15	origine 945 1014	des troubles du comportement avec agitation d’aggravation progressive
+T16	issue 2529 2606	L’évolution était bonne après un séjour de 15 jours en service de psychiatrie
+A18	issue T16 amélioration

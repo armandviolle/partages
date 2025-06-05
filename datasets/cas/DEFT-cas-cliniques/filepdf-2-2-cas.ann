@@ -1,0 +1,6 @@
+T1	genre 0 10	Un patient
+T2	age 14 20	66 ans
+A1	genre T1 masculin
+T3	origine 173 302	une urétérohydronéphrose bilatérale sur fibrose retropéritonéale post radique avec insuffisance rénale à 370 mmol/l de créatinine
+T4	issue 492 599	une régression de la dilatation et stabilisation de la fonction rénale à 180 mmol/l pendant 5 mois de suivi
+A2	issue T4 amélioration

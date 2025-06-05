@@ -1,0 +1,6 @@
+T1	C0026272 0 18	Connectivite mixte
+#1	AnnotatorNotes T1	"C0026272", "Mixed Connective Tissue Disease", "Disease or Syndrome" ,"DISO"
+T2	C0026272 20 37	syndrome de Sharp
+#2	AnnotatorNotes T2	"C0026272", "Mixed Connective Tissue Disease", "Disease or Syndrome" ,"DISO"
+T3	C0161446 44 71	atteinte du plexus brachial
+#3	AnnotatorNotes T3	"C0161446", "Injury of brachial plexus", "Injury or Poisoning" ,"DISO"

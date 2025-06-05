@@ -1,0 +1,6 @@
+T1	genre 12 24	une patiente
+T2	age 28 34	42 ans
+A1	genre T1 féminin
+T3	origine 50 103	une asthénie avec des douleurs de l’hypochondre droit
+T4	issue 1909 2005	La patiente a été revue en consultation 9 mois après la chirurgie sans récidive et sans séquelle
+A2	issue T4 amélioration

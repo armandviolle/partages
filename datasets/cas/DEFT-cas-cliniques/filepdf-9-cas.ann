@@ -1,0 +1,6 @@
+T1	genre 0 3	Mme
+T2	age 10 16	35 ans
+A1	genre T1 féminin
+T3	origine 39 160	hématurie macroscopique intermittente avec lombalgies gauches, pollakiurie, brûlures mictionnelles évoluant depuis 10 ans
+T4	issue 1544 1623	Les contrôles post-opératoires (UIV et cystoscopie) à 6 et 12 mois sont normaux
+A2	issue T4 guérison

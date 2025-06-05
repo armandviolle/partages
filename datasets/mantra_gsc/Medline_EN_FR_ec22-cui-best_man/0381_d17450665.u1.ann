@@ -1,0 +1,14 @@
+T1	C0006826 23 29	cancer
+#1	AnnotatorNotes T1	"C0006826", "Malignant Neoplasms", "Neoplastic Process" ,"DISO"
+T2	C0012108 40 52	dictionnaire
+#2	AnnotatorNotes T2	"C0012108", "Dictionaries as Topic", "OBJC" ,"Manufactured Object"
+T3	C0030705 76 83	PATIENT
+#3	AnnotatorNotes T3	"C0030705", "Patients", "Patient or Disabled Group" ,"LIVB"
+T4	C0030705 93 110	personnes malades
+#4	AnnotatorNotes T4	"C0030705", "Patients", "Patient or Disabled Group" ,"LIVB"
+T5	C0080103 120 127	proches
+#5	AnnotatorNotes T5	"C0080103", "Relative (related person)", "Family Group" ,"LIVB"
+T6	C0162340 0 10	Comprendre
+#6	AnnotatorNotes T6	"C0162340", "Comprehension", "Mental Process" ,"PHYS"
+T7	C1306459 23 29	cancer
+#7	AnnotatorNotes T7	"C1306459", "Primary malignant neoplasm", "Finding" ,"DISO"

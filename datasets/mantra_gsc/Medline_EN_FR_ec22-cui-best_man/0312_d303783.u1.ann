@@ -1,0 +1,6 @@
+T1	C0007589 47 62	différenciation
+#1	AnnotatorNotes T1	"C0007589", "Cell Differentiation process", "Cell Function" ,"PHYS"
+T2	C0040113 20 28	thymique
+#2	AnnotatorNotes T2	"C0040113", "Thymus Gland", "Body Part Organ or Organ Component" ,"ANAT"
+T3	C0039194 67 80	lymphocytes T
+#3	AnnotatorNotes T3	"C0039194", "T-Lymphocyte", "Cell" ,"ANAT"

@@ -1,0 +1,6 @@
+T1	C0011900 25 35	diagnostic
+#1	AnnotatorNotes T1	"C0011900", "Diagnosis", "Finding" ,"DISO"
+T2	C0005940 40 52	ostéopathies
+#2	AnnotatorNotes T2	"C0005940", "Bone Diseases", "Disease or Syndrome" ,"DISO"
+T3	C0332550 53 64	raréfiantes
+#3	AnnotatorNotes T3	"C0332550", "Increased translucency", "Finding" ,"DISO"

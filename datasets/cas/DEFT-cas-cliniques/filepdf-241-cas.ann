@@ -1,0 +1,94 @@
+T64	examen 998 1017	suivi échographique
+T2	tumeur 113 119	tumeur
+T7	date 1166 1176	avril 2003
+T34	traitement 1207 1230	indication chirurgicale
+T60	examen 1305 1322	tomodensitométrie
+T8	valeur 137 143	26 cm3
+T17	moment 1376 1396	avant l’intervention
+T50	anatomie 148 177	pôle inférieur du rein gauche
+T44	traitement 1492 1514	néphrectomie partielle
+T39	traitement 1519 1529	lombotomie
+T61	examen 1534 1548	volume tumoral
+T47	moment 1558 1580	pendant l’intervention
+T45	traitement 1593 1615	néphrectomie partielle
+T46	traitement 1663 1690	néphrectomie élargie gauche
+T32	anatomie 1684 1690	gauche
+T58	anatomie 1705 1714	surrénale
+T29	examen 1721 1741	examen macroscopique
+T4	tumeur 1763 1769	tumeur
+T33	valeur 1876 1896	grade III de Furhman
+T23	anatomie 1925 1933	cellules
+T15	pathologie 204 228	antécédents chirurgicaux
+T24	anatomie 2084 2092	cellules
+T27	substance 2159 2173	cytokératine 7
+T54	anatomie 2296 2300	rein
+T37	traitement 2319 2331	intervention
+T10	examen 2352 2366	TDM abdominale
+T11	anatomie 2356 2366	abdominale
+T16	moment 2376 2404	12 mois après l’intervention
+T14	sosy 2435 2443	anomalie
+T63	examen 308 326	échographie rénale
+T57	anatomie 320 326	rénale
+T13	sosy 357 380	anomalie du rein gauche
+T56	anatomie 369 380	rein gauche
+T74	examen 400 417	anatomopathologie
+T75	age 41 47	62 ans
+T49	examen 424 451	ponction biopsie percutanée
+T48	mode 441 451	percutanée
+T3	tumeur 458 464	tumeur
+T18	examen 60 65	bilan
+T12	anatomie 682 701	anatomopathologique
+T20	examen 706 749	lames de la biopsie avec coloration de Hale
+T26	substance 784 798	cytokératine 7
+T5	date 82 86	1999
+T53	anatomie 885 889	rein
+T59	examen 944 969	surveillance radiologique
+T9	date 330 334	1996
+T28	date 289 293	1955
+T30	date 259 263	1985
+T41	traitement 241 257	cholécystectomie
+T42	traitement 272 287	appendicectomie
+A1	assertion T13 absent
+T31	etatsosy 69 78	lombalgie
+T43	sosy 69 78	lombalgie
+T51	genre 29 37	patiente
+A2	genre T51 féminin
+T19	tumeur 522 541	adénome oncocytaire
+T55	tumeur 862 889	adénome oncocytaire du rein
+T1	duree 1140 1153	en quatre ans
+T62	valeur 1155 1162	210 cm3
+T65	valeur 1068 1073	88 mm
+T40	sosy 1044 1138	augmentation de taille (88 mm) et de volume avec une multiplication par neuf du volume initial
+T35	tumeur 1839 1872	carcinome à cellules chromophobes
+T22	tumeur 2231 2250	adénome oncocytaire
+T36	tumeur 2259 2300	carcinome à cellules chromophobes du rein
+T25	femme 2259 2300	carcinome à cellules chromophobes du rein
+A3	assertion T14 absent
+T6	femme 862 889	adénome oncocytaire du rein
+T38	valeur 123 128	40 mm
+T21	sosy 113 177	tumeur de 40 mm (volume 26 cm3) du pôle inférieur du rein gauche
+T52	pathologie 561 592	carcinome à cellule chromophobe
+A4	assertion T52 hypothétique
+T66	examen 623 631	consulté
+T67	examen 753 798	immunomarquage spécifique a la cytokératine 7
+T68	pathologie 895 938	composant de cancer à cellules chromophobes
+A5	assertion T68 absent
+T69	sosy 1266 1299	augmentation importante de volume
+T70	traitement 1328 1360	reconstruction tridimensionnelle
+T71	sosy 1763 1805	tumeur brune arrondie de 8 cm de grand axe
+T72	valeur 1788 1805	8 cm de grand axe
+T73	examen 1807 1823	Histologiquement
+T76	anatomie 1851 1859	cellules
+T77	sosy 1925 2078	cellules granuleuses agencées en petites formations cordonnales, aux limites cytoplasmiques bien visibles, et au noyau peu atypique et rarement nucléolés
+T78	anatomie 2002 2016	cytoplasmiques
+T79	anatomie 2038 2043	noyau
+T80	examen 2113 2131	coloration de Hale
+T81	examen 2137 2173	immunomarquage par la cytokératine 7
+T82	sosy 2084 2173	cellules ne prenaient pas la coloration de Hale ni l’immunomarquage par la cytokératine 7
+T83	anatomie 2271 2279	cellules
+T84	sosy 458 464	tumeur
+T85	pathologie 522 541	adénome oncocytaire
+T86	pathologie 862 889	adénome oncocytaire du rein
+T87	pathologie 1839 1896	carcinome à cellules chromophobes de grade III de Furhman
+T88	pathologie 2259 2300	carcinome à cellules chromophobes du rein
+T89	pathologie 2231 2250	adénome oncocytaire

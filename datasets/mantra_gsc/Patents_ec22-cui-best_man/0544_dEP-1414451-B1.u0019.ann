@@ -1,0 +1,14 @@
+T8	C0027360 107 117	naltrexone
+#8	AnnotatorNotes T8	"C0027360", "Naltrexone", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T9	C0027360 192 202	naltrexone
+#9	AnnotatorNotes T9	"C0027360", "Naltrexone", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T10	C1272919 0 23	Forme posologique orale
+#10	AnnotatorNotes T10	"C1272919", "Oral Dosage Form", "Biomedical or Dental Material" ,"CHEM"
+T11	C0027410 70 89	antagoniste opioïde
+#11	AnnotatorNotes T11	"C0027410", "Narcotic Antagonists", "Pharmacologic Substance" ,"CHEM"
+T12	C0242402 127 134	opioïde
+#12	AnnotatorNotes T12	"C0242402", "Opioids", "Organic Chemical|Pharmacologic Substance|Hazardous or Poisonous Substance" ,"CHEM"
+T13	C0009214 152 159	codéine
+#13	AnnotatorNotes T13	"C0009214", "Codeine", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T14	C0009214 210 217	codéine
+#14	AnnotatorNotes T14	"C0009214", "Codeine", "Organic Chemical|Pharmacologic Substance" ,"CHEM"

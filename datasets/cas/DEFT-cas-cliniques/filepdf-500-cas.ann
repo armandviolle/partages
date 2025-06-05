@@ -1,0 +1,6 @@
+T1	age 12 18	29 ans
+T2	genre 3 8	homme
+A1	genre T2 masculin
+T3	origine 58 275	un coma profond hypotonique (score de Glasgow = 3) et en collapsus à 80/40 mm Hg, une à deux heures après l'ingestion supposée de 3 g de clozapine (Leponex®), de zopiclone (Imovane®), d'alprazolam (Xanax®) et d'alcool
+T4	issue 1635 1771	Le patient a quitté le service de réanimation environ 72 heures après l'intoxication, pour être accueilli dans un service de psychiatrie
+A2	issue T4 amélioration

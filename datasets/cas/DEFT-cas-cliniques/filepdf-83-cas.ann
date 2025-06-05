@@ -1,0 +1,6 @@
+T1	age 17 23	34 ans
+T2	genre 256 267	la patiente
+A1	genre T2 féminin
+T3	origine 670 808	des troubles mictionnels à type de pollakiurie et de brûlures mictionnelles avec une dysurie qui ont été mis sur le compte de la grossesse
+T4	issue 2088 2199	Les suites opératoires ont été simples. Sur l’AUSP postopératoire, nous n’avons pas retrouvé de calcul résiduel
+A2	issue T4 guérison

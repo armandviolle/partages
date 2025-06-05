@@ -1,0 +1,6 @@
+T1	genre 1053 1063	Le patient
+T2	age 25 31	11 ans
+A1	genre T1 masculin
+T3	origine 192 257	une U.H.N. bilatérale, modérée au début, qui s’aggrava rapidement
+T4	issue 1769 1884	Actuellement, avec 11 mois de recul, il n’y a pas de récidive de l’UHN et le résidu post-mictionnel est presque nul
+A2	issue T4 guérison

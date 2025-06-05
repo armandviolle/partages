@@ -1,0 +1,115 @@
+T30	anatomie 1023 1037	paroi vésicale
+T127	anatomie 99 113	vésico-cutanée
+T5	etatsosy 1069 1104	dilatation urétéro-pyélo-calicielle
+T16	anatomie 1080 1104	urétéro-pyélo-calicielle
+T20	examen 1122 1133	cystoscopie
+T24	anatomie 1151 1159	muqueuse
+T28	anatomie 1226 1236	pariétales
+T50	anatomie 143 151	urinaire
+T53	anatomie 1467 1473	urines
+T41	substance 1507 1518	rifampicine
+T46	substance 1658 1677	chlorure d'ammonium
+T15	substance 1583 1598	antibiothérapie
+T144	age 15 21	75 ans
+T134	anatomie 162 178	uréthro-vésicale
+T54	anatomie 1635 1641	urines
+T61	mode 1646 1656	voie orale
+T39	examen 1737 1754	recherche du CGD2
+T26	valeur 1761 1769	négative
+T55	anatomie 1850 1856	urines
+T36	duree 1873 1891	pendant trois mois
+T94	examen 1981 2005	échographies de contrôle
+T135	moment 205 219	Six mois après
+T6	etatsosy 2100 2139	dilatation urétérale et pyélocalicielle
+T60	anatomie 2111 2120	urétérale
+T113	anatomie 2124 2139	pyélocalicielle
+T57	examen 2145 2169	urographie intraveineuse
+T22	mode 2156 2169	intraveineuse
+T7	etatsosy 2241 2258	dilatation rénale
+T42	anatomie 2252 2258	rénale
+T12	homme 254 289	hématurie macroscopique récidivante
+T13	etatsosy 291 314	pollakiurie invalidante
+T9	etatsosy 316 323	dysurie
+T8	etatsosy 327 348	douleurs suspubiennes
+T45	examen 387 401	toucher rectal
+T40	anatomie 395 401	rectal
+T37	anatomie 407 424	coque prostatique
+T52	anatomie 470 476	urines
+T107	anatomie 336 348	suspubiennes
+T150	examen 480 491	pH urinaire
+T51	anatomie 483 491	urinaire
+T25	valeur 559 567	négative
+T67	examen 573 603	échographie abdomino-pelvienne
+T14	anatomie 585 603	abdomino-pelvienne
+T3	etatsosy 630 660	dilatation des cavités rénales
+T18	anatomie 645 660	cavités rénales
+T65	anatomie 696 705	vésicales
+T38	anatomie 722 738	loge prostatique
+T21	mode 757 770	intraveineuse
+T4	etatsosy 775 795	dilatation urétérale
+T58	anatomie 786 795	urétérale
+T93	anatomie 818 843	jonction vésico-urétérale
+T29	anatomie 872 886	paroi vésicale
+T10	tumeur 91 113	fistule vésico-cutanée
+T132	examen 941 965	scanner abdomino-pelvien
+T121	anatomie 949 965	abdomino-pelvien
+T11	genre 0 2	Mr
+A1	genre T11 masculin
+T17	traitement 134 151	drainage urinaire
+T19	dispositif 156 178	sonde uréthro-vésicale
+T33	duree 179 202	pendant plusieurs jours
+T35	examen 439 476	examen cytobactériologique des urines
+T43	examen 352 367	examen clinique
+T32	examen 746 770	urographie intraveineuse
+T23	substance 1600 1612	teicoplanine
+T27	duree 1806 1826	pendant six semaines
+T31	moment 1693 1709	Sept jours après
+T34	substance 1773 1788	antibiothérapie
+T44	homme 1286 1305	cystite incrustante
+T47	traitement 33 46	adénomectomie
+T48	examen 512 524	leucocyturie
+T49	etatsosy 1151 1173	muqueuse inflammatoire
+T56	substance 1526 1539	glycopeptides
+T59	substance 1541 1553	teicoplanine
+T62	infections 1286 1323	cystite incrustante à germe uréasique
+T63	moment 2179 2196	au troisième mois
+T64	sosy 996 1037	plaques calcifiantes de la paroi vésicale
+T66	etatsosy 254 289	hématurie macroscopique récidivante
+T68	sosy 254 289	hématurie macroscopique récidivante
+T69	sosy 291 314	pollakiurie invalidante
+T70	homme 291 314	pollakiurie invalidante
+T71	sosy 316 323	dysurie
+T72	sosy 327 348	douleurs suspubiennes
+T73	sosy 407 433	coque prostatique sensible
+T74	homme 316 323	dysurie
+T75	homme 670 705	calcifications des parois vésicales
+T1	homme 851 886	calcifications de la paroi vésicale
+T2	homme 996 1037	plaques calcifiantes de la paroi vésicale
+T76	infections 1341 1368	corynebactérium urealyticum
+T77	mode 51 61	voie haute
+T78	sosy 480 505	pH urinaire était alcalin
+T79	sosy 512 567	leucocyturie était importante avec une culture négative
+T80	sosy 775 843	dilatation urétérale s'étendait jusqu'à la jonction vésico-urétérale
+T81	sosy 851 924	calcifications de la paroi vésicale étaient très faiblement radio-opaques
+T82	sosy 1151 1245	muqueuse inflammatoire, ulcérée par endroit avec des concrétions calciques pariétales diffuses
+T83	organisme 1341 1368	corynebactérium urealyticum
+T84	organisme 1308 1323	germe uréasique
+T85	organisme 1386 1421	corynebacterium du groupe D2 (CGD2)
+T86	organisme 1478 1486	bactérie
+T87	traitement 1617 1641	acidification des urines
+T88	sosy 1737 1769	recherche du CGD2 était négative
+T89	organisme 1750 1754	CGD2
+T90	traitement 1832 1856	acidification des urines
+T91	sosy 1949 1973	symptomatologie clinique
+A2	assertion T91 absent
+T92	sosy 2053 2076	incrustations calciques
+A3	assertion T92 absent
+T95	sosy 2083 2139	régression de la dilatation urétérale et pyélocalicielle
+T96	sosy 2241 2258	dilatation rénale
+A4	assertion T96 absent
+T97	pathologie 91 113	fistule vésico-cutanée
+T98	sosy 630 660	dilatation des cavités rénales
+T99	sosy 670 705	calcifications des parois vésicales
+T100	sosy 1069 1104	dilatation urétéro-pyélo-calicielle
+T101	sosy 1286 1323	cystite incrustante à germe uréasique
+T102	sosy 1341 1368	corynebactérium urealyticum

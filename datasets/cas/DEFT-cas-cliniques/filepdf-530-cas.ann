@@ -1,0 +1,5 @@
+T1	genre 31 36	femme
+T2	age 40 49	vingt ans
+A1	genre T1 féminin
+T3	issue 65 72	décédée
+A2	issue T3 décès

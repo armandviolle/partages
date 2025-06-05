@@ -1,0 +1,48 @@
+T3	tumeur 1013 1040	schwannome de type Antoni A
+T30	sosy 104 142	symptomatologie fonctionnelle urinaire
+T27	sosy 1101 1109	récidive
+T31	anatomie 134 142	urinaire
+T13	examen 146 161	examen clinique
+T2	tumeur 174 192	nodule sous-cutané
+T29	anatomie 181 192	sous-cutané
+T16	anatomie 217 250	face dorsale du fourreau du pénis
+T5	valeur 261 279	1,5 cm de diamètre
+T33	examen 283 294	échographie
+T20	sosy 319 343	masse solide et homogène
+T23	traitement 348 376	prise en charge chirurgicale
+T18	sosy 390 431	lésion bien limitée de couleur blanchâtre
+T1	tumeur 48 84	nodule indolore du fourreau du pénis
+T7	anatomie 527 534	capsule
+T19	sosy 551 630	lésion était composée de cellules fusiformes en vague et arrangées en faisceaux
+T10	anatomie 576 595	cellules fusiformes
+T22	anatomie 636 642	noyaux
+T15	anatomie 67 84	fourreau du pénis
+T35	tumeur 720 738	nodules de Verocay
+T32	anatomie 755 764	vaisseaux
+T6	sosy 830 853	atypies cyto-nucléaires
+T17	examen 910 927	immunohistochimie
+T9	anatomie 932 940	cellules
+T39	etatsosy 898 905	nécrose
+A1	assertion T30 absent
+T4	homme 48 84	nodule indolore du fourreau du pénis
+T8	age 12 18	34 ans
+T11	genre 3 8	homme
+T12	moment 1064 1073	à 18 mois
+A2	genre T11 masculin
+A3	assertion T27 absent
+A4	assertion T6 absent
+T14	sosy 859 891	activité mitotique significative
+A5	assertion T14 absent
+T21	examen 1058 1063	suivi
+T24	sosy 174 279	nodule sous-cutané, solide, mobile, sur la face dorsale du fourreau du pénis d’environ 1,5 cm de diamètre
+T25	examen 434 451	Microscopiquement
+T26	sosy 473 546	formation uni nodulaire limitée en périphérie par une capsule conjonctive
+T28	sosy 636 738	noyaux étaient allongés, réguliers et s’alignaient en palissade donnant l’aspect de nodules de Verocay
+T34	anatomie 782 788	parois
+T36	sosy 755 809	vaisseaux présentaient des parois épaisses hyalinisées
+T37	pathologie 898 905	nécrose
+A6	assertion T37 absent
+T38	sosy 932 994	cellules exprimaient fortement l’anticorps anti-protéine S-100
+T40	examen 965 994	anticorps anti-protéine S-100
+T41	sosy 48 84	nodule indolore du fourreau du pénis
+T42	pathologie 1013 1040	schwannome de type Antoni A

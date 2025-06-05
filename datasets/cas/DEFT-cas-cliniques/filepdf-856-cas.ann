@@ -1,0 +1,204 @@
+T1001	anatomie 295 311	cutanéo-muqueuse
+T1002	anatomie 791 800	hépatique
+T1003	anatomie 804 809	rénal
+T1004	anatomie 895 910	digestive haute
+T1005	anatomie 1060 1069	muqueuses
+T1006	anatomie 1275 1285	abdominale
+T1007	anatomie 1369 1379	hépatiques
+T1008	anatomie 1803 1822	angle colique droit
+T1009	anatomie 1921 1941	dernière anse iléale
+T10010	anatomie 2300 2321	angle duodéno-jéjunal
+T10011	anatomie 2368 2373	colon
+T10012	anatomie 2595 2601	iléale
+T10013	anatomie 2650 2667	termino-terminale
+T10014	anatomie 2922 2933	intestinale
+T10015	anatomie 3040 3055	cutanéomuqueuse
+T10051	duree 160 173	depuis 5 mois
+T10061	examen 101 106	bilan
+T10062	examen 257 272	examen clinique
+T10063	examen 378 394	examen abdominal
+T10064	examen 477 491	toucher rectal
+T10065	examen 553 580	reste de l’examen somatique
+T10066	examen 674 685	hémoglobine
+T10067	examen 698 709	hématocrite
+T10068	examen 756 772	bilan biologique
+T10069	examen 785 809	bilan hépatique et rénal
+T10070	examen 832 849	bilan d’hémostase
+T10071	examen 883 910	fibroscopie digestive haute
+T10072	examen 1239 1250	échographie
+T10073	examen 1257 1285	tomodensitométrie abdominale
+T10074	examen 1656 1683	fibroscopie digestive haute
+T10076	examen 2047 2071	artériographie digestive
+T10077	examen 2201 2225	exploration chirurgicale
+T10078	examen 2733 2744	hémoglobine
+T10079	examen 2760 2771	hématocrite
+T10080	examen 2782 2800	étude histologique
+T10081	examen 3006 3021	examen clinique
+T100111	moment 240 253	A l’admission
+T100113	moment 2982 3002	3 semaines plus tard
+T100114	moment 3148 3169	Quatre mois plus tard
+T100115	moment 3384 3419	après trois heures de son admission
+T100141	traitement 2172 2196	laparotomie exploratrice
+T100161	valeur 351 358	stade 2
+T100162	valeur 401 407	normal
+T100163	valeur 688 694	4g /dl
+T100164	valeur 810 817	normaux
+T100165	valeur 2389 2395	normal
+T100166	valeur 2747 2758	11,3g/100ml
+T100167	valeur 2774 2777	35%
+T100181	sosy 425 438	hépatomégalie
+T100182	sosy 442 455	splénomégalie
+T100183	sosy 2907 2941	hémangiomatose intestinale diffuse
+T100191	sosy 113 126	anémie sévère
+T100192	sosy 194 224	conservation de l'état général
+T100193	sosy 231 237	fièvre
+T100194	sosy 334 358	dyspnée d’effort stade 2
+T100195	sosy 534 548	autre anomalie
+T100198	sosy 961 968	lésions
+T100199	sosy 1052 1088	lésions muqueuses au niveau du grêle
+T100201	sosy 1361 1393	lésions hépatiques ou spléniques
+T100203	sosy 1728 1859	lésion rouge plane de 5mm, évoquant une angiodysplasie juste en amont de l’angle colique droit ne saignant pas au cours de l’examen
+T100204	sosy 1866 1896	présence de sang dans le cæcum
+T100205	sosy 2020 2041	récidive des moelenas
+T100206	sosy 2242 2321	lumière du grêle pleine de sang à partir de 2 mètres de l’angle duodéno-jéjunal
+T100207	sosy 2458 2578	lésion polypoide, rouge framboisée ; sessile, très vascularisée, hémorragique, située à 30cm de la jonction iléon cæcale
+T100208	sosy 2623 2629	lésion
+T100209	sosy 3033 3055	pâleur cutanéomuqueuse
+T10018	sosy 288 324	pâleur cutanéo-muqueuse très marquée
+T10019	sosy 366 374	vertiges
+T10020	anatomie 385 394	abdominal
+T10021	sosy 459 473	masse palpable
+T10022	anatomie 485 491	rectal
+T10023	sosy 506 513	moelena
+T10024	sosy 617 645	syndrome anémique mal toléré
+T10025	sosy 653 668	déglobulisation
+T10026	valeur 712 715	15%
+T10027	examen 853 877	vitesse de sédimentation
+T10028	examen 918 930	colonoscopie
+T10029	sosy 991 999	moelenas
+T10030	anatomie 1015 1020	grêle
+T10031	examen 1004 1020	transit du grêle
+T10032	anatomie 1083 1088	grêle
+T10034	anatomie 1149 1158	digestive
+T10035	valeur 1294 1302	normales
+T10036	sosy 1326 1353	processus tumoral abdominal
+T10037	anatomie 1344 1353	abdominal
+T10039	examen 1555 1579	exploration endoscopique
+T10040	anatomie 1630 1635	grêle
+T10041	valeur 1690 1697	normale
+T10042	examen 1704 1714	coloscopie
+T10043	valeur 1750 1753	5mm
+T10044	anatomie 1891 1896	cæcum
+T10045	traitement 1902 1941	cathétérisme de la dernière anse iléale
+T10046	anatomie 2062 2071	digestive
+T10049	sosy 2327 2342	tumeur palpable
+T10050	anatomie 2356 2361	grêle
+T10054	anatomie 2557 2578	jonction iléon cæcale
+T10055	traitement 2585 2601	résection iléale
+T10056	valeur 2605 2609	15cm
+T10057	traitement 2639 2667	anastomose termino-terminale
+T10058	anatomie 2873 2878	grêle
+T10060	examen 3065 3071	anémie
+T10075	valeur 3074 3084	5,9g/100ml
+T10083	sosy 3233 3273	hémorragie digestive de grande abondance
+T10084	anatomie 3244 3253	digestive
+T10085	sosy 3291 3303	état de choc
+T10086	sosy 3431 3446	arrêt cardiaque
+T10087	anatomie 3437 3446	cardiaque
+T20075	examen 1853 1859	examen
+T200101	mode 733 742	transfusé
+T200200	sosy 1168 1235	déglobulisation nécessitant des transfusions sanguines à répétition
+T200202	sosy 1473 1540	déglobulisation nécessitant des transfusions sanguines à répétition
+T200210	sosy 3065 3084	anémie à 5,9g/100ml
+T20016	sosy 28 37	tabagique
+T20017	frequence 51 56	année
+T20018	sosy 58 79	éthylique occasionnel
+T20019	frequence 68 79	occasionnel
+T20020	sosy 142 150	moelenas
+T20024	sosy 378 407	examen abdominal a été normal
+T20028	valeur 587 605	sans particularité
+T20029	sosy 553 605	reste de l’examen somatique a été sans particularité
+T20033	sosy 785 817	bilan hépatique et rénal normaux
+T20040	sosy 1124 1158	récidive de l’hémorragie digestive
+T20042	mode 1200 1212	transfusions
+T20043	substance 1213 1222	sanguines
+T20044	frequence 1223 1235	à répétition
+T20047	anatomie 1383 1393	spléniques
+T20048	sosy 1429 1463	récidive de l’hémorragie digestive
+T20049	anatomie 1454 1463	digestive
+T20050	mode 1505 1517	transfusions
+T20052	substance 1518 1527	sanguines
+T20053	frequence 1528 1540	à répétition
+T20056	anatomie 1668 1683	digestive haute
+T20058	sosy 1656 1697	fibroscopie digestive haute a été normale
+T20085	anatomie 1878 1882	sang
+T20087	examen 1989 2013	exploration endoscopique
+T20089	anatomie 2242 2258	lumière du grêle
+T20092	sosy 2347 2395	reste du grêle et le colon a été d’aspect normal
+T20093	examen 2402 2428	entéroscopie peropératoire
+T20013	sosy 2733 2758	hémoglobine à 11,3g/100ml
+T20098	sosy 2760 2777	hématocrite à 35%
+T20099	sosy 2849 2878	hémangiome caverneux du grêle
+T200102	examen 2969 2981	consultation
+T200104	mode 3094 3103	transfusé
+T200108	traitement 3350 3361	réanimation
+T200112	dose 40 49	3 paquets
+T200116	sosy 674 694	hémoglobine à 4g /dl
+T200117	sosy 698 715	hématocrite à 15%
+T200119	anatomie 2269 2273	sang
+A1	assertion T100193 absent
+A2	assertion T100181 absent
+A3	assertion T100182 absent
+A4	assertion T10021 absent
+A5	assertion T100195 absent
+A6	norme T100162 normal
+A7	norme T100164 normal
+A8	norme T20028 normal
+A9	norme T10035 normal
+A10	norme T10041 normal
+A11	norme T100165 normal
+A12	norme T100166 bas
+A13	norme T100167 bas
+A14	assertion T100198 absent
+A15	assertion T100199 absent
+A16	assertion T10036 absent
+T1	sosy 1239 1302	échographie et la tomodensitométrie abdominale ont été normales
+A17	assertion T100201 absent
+A18	assertion T10045 absent
+A19	assertion T20087 absent
+A20	assertion T10076 absent
+A21	assertion T10049 absent
+T200211	hemopathies 113 126	anémie sévère
+T200212	etatsosy 334 358	dyspnée d’effort stade 2
+T200217	etatsosy 1138 1158	hémorragie digestive
+T200218	etatsosy 1443 1463	hémorragie digestive
+T200219	etatsosy 3233 3253	hémorragie digestive
+T2	chimiques 28 37	tabagique
+T3	chimiques 58 79	éthylique occasionnel
+T4	digestif 142 150	moelenas
+T5	etatsosy 142 150	moelenas
+#1	AnnotatorNotes T4	melena, melaena
+T6	respiratoire 334 358	dyspnée d’effort stade 2
+T7	ORL 366 374	vertiges
+T8	nerveux 366 374	vertiges
+T9	etatsosy 366 374	vertiges
+T10	etatsosy 506 513	moelena
+T11	digestif 506 513	moelena
+T12	etatsosy 991 999	moelenas
+T13	digestif 991 999	moelenas
+T14	digestif 1866 1896	présence de sang dans le cæcum
+#2	AnnotatorNotes T14	maladies du caecum
+T15	digestif 2033 2041	moelenas
+T16	etatsosy 2033 2041	moelenas
+T17	tumeur 2849 2878	hémangiome caverneux du grêle
+T18	digestif 2849 2878	hémangiome caverneux du grêle
+T19	tumeur 2907 2941	hémangiomatose intestinale diffuse
+T20	digestif 2907 2941	hémangiomatose intestinale diffuse
+T21	cardiovasculaires 3431 3446	arrêt cardiaque
+T22	etatsosy 3431 3446	arrêt cardiaque
+T23	age 14 20	44 ans
+T24	issue 3377 3383	décédé
+A22	issue T24 décès
+T25	genre 2947 2954	patient
+A23	genre T25 masculin
+T26	origine 109 237	une anémie sévère associée à des moelenas évoluant depuis 5 mois dans un contexte de conservation de l'état général, sans fièvre

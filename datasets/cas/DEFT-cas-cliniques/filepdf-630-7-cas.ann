@@ -1,0 +1,6 @@
+T1	genre 0 5	Femme
+T2	origine 16 51	trouvée au matin morte dans son lit
+T3	age 9 15	24 ans
+A1	genre T1 féminin
+T4	issue 33 38	morte
+A2	issue T4 décès

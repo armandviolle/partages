@@ -1,0 +1,112 @@
+T19	anatomie 1002 1021	anatomopathologique
+T22	examen 1388 1409	radiothérapie externe
+T12	examen 1771 1794	radiographie pulmonaire
+T21	anatomie 1784 1794	pulmonaire
+T11	examen 1813 1827	TDM thoracique
+T16	anatomie 1817 1827	thoracique
+T8	substance 1943 1953	cisplatine
+T6	substance 1957 1966	Etoposide
+T5	substance 1968 1978	Cisplatine
+T7	substance 1992 2001	Etoposide
+T18	anatomie 264 283	anatomopathologique
+T9	substance 42 50	insuline
+T10	examen 664 687	TDM thoracho-abdominale
+T14	anatomie 668 687	thoracho-abdominale
+T13	examen 689 710	scintigraphie osseuse
+T20	examen 714 727	IRM cérébrale
+T15	pathologie 26 36	diabétique
+T24	sosy 79 112	métrorragies minimes post coïtale
+T25	examen 151 166	examen clinique
+T26	pathologie 182 219	tumeur de la lèvre postérieure du col
+T27	anatomie 195 219	lèvre postérieure du col
+T28	anatomie 228 233	vagin
+T29	examen 258 283	étude anatomopathologique
+T30	pathologie 344 387	carcinome neuroendocrine à petites cellules
+T31	anatomie 354 368	neuroendocrine
+T32	examen 392 417	étude immunohistochimique
+T33	examen 512 525	IRM pelvienne
+T34	anatomie 516 525	pelvienne
+T35	pathologie 541 595	processus tumoral de la lèvre postérieur du col utérin
+T36	anatomie 565 595	lèvre postérieur du col utérin
+T17	anatomie 703 710	osseuse
+T37	anatomie 718 727	cérébrale
+T38	examen 637 654	bilan d'extension
+T39	valeur 735 741	normal
+A3	norme T39 normal
+T40	pathologie 746 752	tumeur
+T41	traitement 923 941	colpohysterectomie
+T42	traitement 948 971	annexectomie bilatérale
+T44	traitement 978 992	curage pelvien
+T45	anatomie 985 992	pelvien
+T46	examen 996 1021	étude anatomopathologique
+T47	pathologie 1059 1157	foyer de 22 mm d'un carcinome neuroendocrine à petites cellules, avec des noyaux hyperchromatiques
+T48	anatomie 1089 1103	neuroendocrine
+T50	sosy 1245 1275	nombreux emboles péri-tumoraux
+T51	traitement 1280 1286	curage
+T52	dose 1434 1440	45Gray
+T53	anatomie 1453 1459	pelvis
+T54	dose 1489 1508	1.8 Gy par fraction
+T55	frequence 1512 1535	5 fractions par semaine
+T56	duree 1543 1555	sur 35 jours
+T57	traitement 1583 1618	curiethérapie vaginale à haut débit
+T58	anatomie 1597 1605	vaginale
+T59	dose 1630 1634	7 Gy
+T60	moment 1644 1687	Sept jours après la fin de la radiothérapie
+T61	sosy 1717 1721	toux
+T62	sosy 1727 1745	dyspnée à l'effort
+T63	pathologie 1856 1892	métastases pulmonaires et hépatiques
+T64	anatomie 1867 1878	pulmonaires
+T65	anatomie 1882 1892	hépatiques
+T66	examen 1750 1769	bilan morphologique
+T67	substance 1899 1932	chimiothérapie à visée palliative
+T68	dose 1978 1986	100mg/m2
+T69	moment 1987 1991	à J1
+T70	dose 2002 2010	120mg/m2
+T71	moment 2011 2021	de J1 à J3
+T72	sosy 2131 2156	progression de sa maladie
+T82	examen 470 483	chromogranine
+T83	examen 485 499	synaptophysine
+T84	examen 503 508	CD 56
+T73	sosy 609 632	extension locorégionale
+A4	assertion T73 absent
+T86	valeur 767 775	T1b1NoMo
+T87	valeur 1068 1073	22 mm
+T78	traitement 1353 1372	traitement adjuvant
+T74	moment 2047 2102	Deux semaines après la troisième cure de chimiothérapie
+T1	sosy 125 147	signes accompagnateurs
+A1	assertion T1 absent
+T2	sosy 430 508	marquage positif intense et diffus à la chromogranine, synaptophysine et CD 56
+T3	traitement 872 893	chirurgie radicale Ro
+T4	sosy 1162 1196	rapport nucleo-cytoplasmique élevé
+T43	sosy 1202 1226	forte activité mitotique
+T75	duree 1464 1476	25 fractions
+T76	duree 1567 1576	2 séances
+T77	moment 2163 2195	six mois du moment du diagnostic
+T81	sosy 228 254	vagin et paramètres libres
+T85	examen 296 305	biopsique
+T79	sosy 637 741	bilan d'extension réalisé (TDM thoracho-abdominale, scintigraphie osseuse et IRM cérébrale) a été normal
+T23	endocriniennes 26 36	diabétique
+T49	nutritionnelles 26 36	diabétique
+T80	femme 79 112	métrorragies minimes post coïtale
+T89	etatsosy 79 112	métrorragies minimes post coïtale
+T90	tumeur 182 219	tumeur de la lèvre postérieure du col
+T91	femme 182 219	tumeur de la lèvre postérieure du col
+T92	tumeur 344 387	carcinome neuroendocrine à petites cellules
+T93	tumeur 541 595	processus tumoral de la lèvre postérieur du col utérin
+T94	femme 541 595	processus tumoral de la lèvre postérieur du col utérin
+T95	tumeur 746 752	tumeur
+T96	tumeur 1079 1103	carcinome neuroendocrine
+T97	respiratoire 1727 1745	dyspnée à l'effort
+T98	etatsosy 1727 1745	dyspnée à l'effort
+T99	respiratoire 1717 1721	toux
+T100	etatsosy 1717 1721	toux
+T101	tumeur 1856 1892	métastases pulmonaires et hépatiques
+T102	respiratoire 1856 1892	métastases pulmonaires et hépatiques
+T103	digestif 1856 1892	métastases pulmonaires et hépatiques
+T104	immunitaire 26 36	diabétique
+T88	genre 0 6	Madame
+T105	age 19 25	39 ans
+A2	genre T88 féminin
+T106	origine 75 147	des métrorragies minimes post coïtale sans autres signes accompagnateurs
+T107	issue 2119 2126	décédée
+A5	issue T107 décès

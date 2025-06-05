@@ -1,0 +1,6 @@
+T1	genre 0 7	Patient
+T2	age 11 17	68 ans
+A1	genre T1 masculin
+T3	origine 61 219	des douleurs abdominales aigues avec des nausées et des vomissements incoercibles dans un contexte d’altération de l’état général (AEG) et de douleurs osseuse
+T4	issue 1587 1650	une rémission complète persistante à six mois de fin traitement
+A2	issue T4 amélioration

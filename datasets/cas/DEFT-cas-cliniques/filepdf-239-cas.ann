@@ -1,0 +1,6 @@
+T1	genre 19 24	homme
+T2	age 28 34	47 ans
+A1	genre T1 masculin
+T3	origine 189 318	deux lésions rénales droites, l’une tissulaire polaire inférieure, l’autre liquidienne fortement vascularisée à la partie moyenne
+T4	issue 2080 2160	Une fois la fistule totalement occluse, le geste d’embolisation a été interrompu
+A2	issue T4 amélioration

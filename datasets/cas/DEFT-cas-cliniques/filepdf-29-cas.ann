@@ -1,0 +1,6 @@
+T1	origine 1459 1513	récidive d'une tumeur papillaire de très petite taille
+T2	age 286 292	47 ans
+T3	genre 581 591	ce patient
+A1	genre T3 masculin
+T4	issue 2182 2242	Le suivi ne retrouve pas d’autre localisation ou de récidive
+A2	issue T4 amélioration

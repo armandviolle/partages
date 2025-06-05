@@ -1,0 +1,69 @@
+T1	date 40 50	12/01/2005
+T3	sosy 99 123	troubles du comportement
+T4	duree 137 144	récente
+T5	sosy 213 239	antécédent médical notable
+A2	assertion T5 absent
+T6	sosy 256 340	consommation de cannabis et de datura en décoction (consommation supposée chronique)
+T7	substance 272 280	cannabis
+T8	substance 287 293	datura
+T9	frequence 330 339	chronique
+T10	sosy 410 442	dégradation lente et inéluctable
+T11	sosy 496 520	premières manifestations
+T12	date 555 573	2ème semestre 2004
+T13	sosy 591 619	troubles psychiques a minima
+T14	sosy 729 738	isolement
+T15	sosy 758 768	négligence
+T16	sosy 777 804	clochardisation progressive
+T17	moment 839 864	début de l'année suivante
+T2	sosy 935 1022	troubles psychiatriques majeurs (délire paranoïde, exaltation de l'humeur, discordance)
+T18	sosy 1087 1132	délire sous l'influence d'un produit chimique
+A3	assertion T18 possible
+T19	sosy 1140 1163	bouffée délirante aigue
+A4	assertion T19 possible
+T20	substance 1116 1132	produit chimique
+T21	substance 1284 1294	traitement
+T22	examen 1306 1340	analyse toxicologique par LC-MS/MS
+T23	examen 1358 1387	prélèvement de poils de barbe
+T24	anatomie 1373 1387	poils de barbe
+T25	anatomie 1393 1398	crâne
+T26	sosy 1439 1464	prise chronique de datura
+T27	frequence 1445 1454	chronique
+T28	substance 1458 1464	datura
+T30	examen 1470 1479	résultats
+T31	sosy 1470 1496	résultats étaient négatifs
+T32	sosy 1512 1562	recherche de dérivés cannabinoïdes dans les urines
+T33	substance 1525 1546	dérivés cannabinoïdes
+T34	anatomie 1556 1562	urines
+T35	moment 1565 1597	Après 15 jours d'hospitalisation
+T36	examen 1601 1614	état clinique
+T37	sosy 1601 1649	état clinique du patient ne s'est guère amélioré
+T38	substance 1723 1731	toxiques
+T39	examen 1709 1731	recherches de toxiques
+T40	sosy 1694 1731	négativité des recherches de toxiques
+T41	sosy 1776 1800	pathologie psychiatrique
+A5	assertion T41 possible
+T42	substance 1821 1827	datura
+T43	frequence 1875 1888	occasionnelle
+T44	sosy 1952 1971	épisodes similaires
+T45	sosy 2008 2038	épisode délirant aigu et isolé
+A6	assertion T45 possible
+T46	sosy 2071 2105	psychose chronique (schizophrénie)
+A7	assertion T46 possible
+T47	substance 2197 2203	datura
+T48	sosy 2229 2237	troubles
+T49	frequence 2180 2193	occasionnelle
+T29	sosy 68 77	agression
+T50	valeur 1488 1496	négatifs
+T51	anatomie 600 610	psychiques
+T52	anatomie 944 958	psychiatriques
+T53	anatomie 1787 1800	psychiatrique
+T54	frequence 2080 2089	chronique
+T55	frequence 2033 2038	isolé
+T58	chimiques 256 306	consommation de cannabis et de datura en décoction
+T60	chimiques 1439 1464	prise chronique de datura
+T56	genre 0 7	Patient
+A1	genre T56 masculin
+T57	age 11 17	22 ans
+T59	origine 51 144	à la suite d'une agression, dans un contexte de troubles du comportement d'apparition récente
+T61	issue 1599 1800	l'état clinique du patient ne s'est guère amélioré ce qui semble parfaitement cohérent avec la négativité des recherches de toxiques, orientant fortement le diagnostic vers une pathologie psychiatrique
+A8	issue T61 stable

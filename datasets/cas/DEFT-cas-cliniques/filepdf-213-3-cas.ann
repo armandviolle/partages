@@ -1,0 +1,6 @@
+T1	origine 100 123	rétention aiguë d'urine
+T2	age 17 23	25 ans
+T3	genre 0 2	Mr
+A1	genre T3 masculin
+T4	issue 446 565	l'ischémie déjà installée a été responsable d’une nécrose et a rendu nécessaire une amputation de la verge le lendemain
+A2	issue T4 détérioration

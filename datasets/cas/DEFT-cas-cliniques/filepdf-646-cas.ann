@@ -1,0 +1,6 @@
+T1	age 13 19	49 ans
+T2	genre 4 9	femme
+A1	genre T2 féminin
+T3	origine 91 127	une récidive de tentative d'autolyse
+T4	issue 3152 3308	transférée dans l'hôpital d'origine en service de soins intensifs où elle présente une encéphalopathie post-anoxique sévère avec des myoclonies généralisées
+A2	issue T4 stable

@@ -1,0 +1,6 @@
+T1	age 12 18	53 ans
+T2	genre 313 323	Le patient
+A1	genre T2 masculin
+T3	origine 99 202	des troubles mictionnels, évoluant depuis 8 mois avec un seul épisode de rétention urinaire aiguë (RAU)
+T4	issue 1361 1477	Le patient a été revu à la consultation 10 mois après. Les contrôles clinique et tomodensitométrique étaient normaux
+A2	issue T4 amélioration

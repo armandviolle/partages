@@ -1,0 +1,79 @@
+T42	date 1123 1129	2 juin
+T25	valeur 1221 1229	positive
+T40	substance 1294 1305	Oseltamivir
+T35	age 13 19	29 ans
+T23	traitement 1329 1338	isolement
+T4	chimiques 125 147	consommation tabagique
+T11	sosy 1390 1400	apyrétique
+T6	sosy 1407 1411	toux
+T39	date 1463 1474	5 juin 2009
+T41	substance 1508 1519	Oseltamivir
+T20	date 341 349	1er juin
+T1	etatsosy 381 412	douleur au niveau du bas du dos
+T12	genre 4 9	femme
+T17	anatomie 402 412	bas du dos
+T5	etatsosy 418 438	toux quinteuse sèche
+T2	etatsosy 446 461	fièvre à 39 ° C
+T19	temperature 455 461	39 ° C
+T33	moment 516 528	le jour même
+T21	examen 533 548	examen physique
+T3	etatsosy 573 590	fièvre à 39,1 ° C
+T9	temperature 582 590	39,1 ° C
+T29	examen 596 614	tension artérielle
+T13	anatomie 604 614	artérielle
+T36	valeur 618 621	0/5
+T26	examen 626 631	pouls
+T37	valeur 634 637	108
+T38	examen 643 647	SaO2
+T7	valeur 650 669	98 % en air ambiant
+T14	examen 673 696	auscultation pulmonaire
+T27	anatomie 686 696	pulmonaire
+T28	examen 727 744	reste de l’examen
+T22	sosy 727 769	reste de l’examen était strictement normal
+T10	sosy 76 109	antécédent médical ou chirurgical
+T24	valeur 763 769	normal
+T34	anatomie 772 779	pharynx
+T15	anatomie 806 815	cervicale
+T8	anatomie 848 855	abdomen
+T18	sosy 848 880	abdomen souple et non douloureux
+T32	examen 961 996	écouvillonnages nasaux et pharyngés
+A2	genre T12 féminin
+A3	norme T19 haut
+A4	norme T36 bas
+A1	norme T9 haut
+A5	assertion T10 absent
+T43	respiratoire 418 438	toux quinteuse sèche
+T44	sosy 418 438	toux quinteuse sèche
+A6	assertion T6 absent
+T45	moment 1353 1373	Au bout de 48 heures
+T46	examen 1161 1196	PCR spécifique de la grippe porcine
+T47	sosy 794 815	adénopathie cervicale
+A7	assertion T47 absent
+T48	sosy 830 846	syndrome méningé
+A8	assertion T48 absent
+T49	sosy 772 786	pharynx propre
+T50	anatomie 977 983	nasaux
+T52	anatomie 987 996	pharyngés
+T16	sosy 381 412	douleur au niveau du bas du dos
+T30	sosy 915 955	contamination secondaire par le A(H1N1)v
+A9	assertion T30 possible
+T31	virales 1088 1096	A(H1N1)v
+#1	AnnotatorNotes T31	sous-type H1N1 du virus de la grippe A
+A10	norme T37 haut
+T51	etatsosy 717 722	râles
+T53	sosy 717 722	râles
+A11	norme T7 normal
+T54	virales 1182 1196	grippe porcine
+T55	sosy 125 155	consommation tabagique modérée
+T56	sosy 446 461	fièvre à 39 ° C
+T57	moment 549 559	à l’entrée
+T58	sosy 573 590	fièvre à 39,1 ° C
+T59	sosy 596 621	tension artérielle à 10/5
+T60	sosy 626 637	pouls à 108
+T61	sosy 643 669	SaO2 à 98 % en air ambiant
+T62	anatomie 839 846	méningé
+T63	organisme 947 955	A(H1N1)v
+T64	organisme 1088 1096	A(H1N1)v
+T65	sosy 1076 1119	présence du A(H1N1)v a été mise en évidence
+T66	pathologie 1182 1196	grippe porcine
+T67	duree 1549 1559	sept jours

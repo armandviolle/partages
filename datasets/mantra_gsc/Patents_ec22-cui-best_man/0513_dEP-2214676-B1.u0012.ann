@@ -1,0 +1,14 @@
+T7	C0456386 152 162	médicament
+#7	AnnotatorNotes T7	"C0456386", "Medicament", "Pharmacologic Substance" ,"CHEM"
+T8	C0087111 171 181	traitement
+#8	AnnotatorNotes T8	"C0087111", "Therapeutic procedure", "Therapeutic or Preventive Procedure" ,"PROC"
+T9	C0199176 188 198	prévention
+#9	AnnotatorNotes T9	"C0199176", "Prophylactic treatment", "Therapeutic or Preventive Procedure" ,"PROC"
+T10	C0037317 204 222	trouble du sommeil
+#10	AnnotatorNotes T10	"C0037317", "Sleep disturbances", "Sign or Symptom" ,"DISO"
+T11	C0851578 204 222	trouble du sommeil
+#11	AnnotatorNotes T11	"C0851578", "Sleep Disorders", "Disease or Syndrome" ,"DISO"
+T12	C0036140 80 83	sel
+#12	AnnotatorNotes T12	"C0036140", "Salts", "Chemical Viewed Structurally" ,"CHEM"
+T20	C0013227 152 162	médicament
+#20	AnnotatorNotes T20	"C0013227", "Pharmaceutical Preparations", "Pharmacologic Substance" ,"CHEM"

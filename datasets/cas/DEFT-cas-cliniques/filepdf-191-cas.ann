@@ -1,0 +1,6 @@
+T1	genre 0 6	Madame
+T2	age 27 33	41 ans
+A1	genre T1 féminin
+T3	origine 99 124	une tumeur du rein gauche
+T4	issue 1366 1481	Les suites opératoires ont été simples, la patiente ayant pu sortir au neuvième jour post-opératoire à son domicile
+A2	issue T4 guérison

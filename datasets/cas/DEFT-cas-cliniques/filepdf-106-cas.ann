@@ -1,0 +1,126 @@
+T100182	pathologie 622 660	tumeur de la loge surrénalienne droite
+T100183	pathologie 695 801	tumeur bien limitée, de structure tissulaire, prenant le contraste de façon hétérogène, de 6cm de diamètre
+T100194	sosy 448 462	masse palpable
+T10021	sosy 466 485	hépatosplénomégalie
+T10029	sosy 1490 1515	maigre avec des méso fins
+T10037	anatomie 2242 2261	anatomopathologique
+T10039	valeur 2496 2503	négatif
+T10040	valeur 2587 2594	négatif
+T10041	substance 2607 2618	tuberculine
+T2002	anatomie 207 224	hypochondre droit
+T2003	anatomie 598 608	abdominale
+T2004	anatomie 414 424	abdominale
+T2005	anatomie 635 660	loge surrénalienne droite
+T2006	anatomie 1363 1374	flanc droit
+T2007	anatomie 1404 1424	rebord costal gauche
+T2008	anatomie 1532 1552	duodéno-pancréatique
+T2009	anatomie 1587 1633	feuillet inférieur du ligament coronaire droit
+T20011	anatomie 1693 1718	loge surrénalienne droite
+T20012	anatomie 1762 1790	bord supérieur du rein droit
+T20013	anatomie 1800 1819	veine rénale droite
+T20014	anatomie 1848 1888	bord latéral de la veine cave inférieure
+T20015	anatomie 1920 1957	veine surrénalienne principale droite
+T20016	mode 2174 2186	sus pubienne
+T20051	duree 142 155	depuis 6 mois
+T20052	duree 2796 2810	pendant 6 mois
+T20061	examen 323 329	examen
+T20062	examen 541 556	examen clinique
+T20063	examen 586 608	échographie abdominale
+T20064	examen 678 681	TDM
+T20065	examen 818 876	dosage des métanéphrines et des normétanéphrines urinaires
+T20067	examen 905 930	dosage de la cortisolémie
+T20068	examen 2235 2284	examen anatomopathologique de la pièce opératoire
+T20069	examen 2360 2380	bilan phtysiologique
+T20070	examen 2508 2548	recherche de BK (examen direct, culture)
+T20071	examen 2396 2411	recherche de BK
+T20072	examen 2598 2618	IDR à la tuberculine
+T20073	examen 2641 2663	radiographie de poumon
+T200101	mode 1126 1164	voie coelioscopique, trans-péritonéale
+T200111	moment 2849 2868	un recul de 12 mois
+T200121	substance 2719 2745	traitement anti-bacillaire
+T200122	substance 2756 2767	rifampicine
+T200123	substance 2770 2780	isoniazide
+T200124	substance 2783 2795	pyrazinamide
+T200141	traitement 1087 1109	surrénalectomie droite
+T200142	traitement 1721 1819	’incision du fascia périrénal le long du bord supérieur du rein droit et de la veine rénale droite
+T200143	traitement 2073 2088	surrénalectomie
+T200162	valeur 431 438	normale
+T200163	valeur 883 889	normal
+T200164	valeur 2682 2689	normale
+T200181	pathologie 84 122	antécédents pathologiques particuliers
+T200184	pathologie 1006 1036	phéochromocytome non sécrétant
+T200191	sosy 160 224	douleurs épisodiques localisées au niveau de l’hypochondre droit
+T200192	sosy 274 304	conservation de l’état général
+T200193	sosy 355 371	bon état général
+T200198	pathologie 1048 1082	tumeur nerveuse ou mésenchymateuse
+T200202	sosy 2304 2344	lésions tuberculeuses caséofolliculaires
+T20017	valeur 387 399	130/80 mm Hg
+T2001	frequence 169 180	épisodiques
+T20018	sosy 230 241	irradiation
+T20019	sosy 310 318	apyréxie
+T20020	sosy 373 399	normotendue à 130/80 mm Hg
+T20021	examen 404 424	palpation abdominale
+T20023	anatomie 491 510	aires lymphonodales
+T20024	sosy 491 525	aires lymphonodales étaient libres
+T20025	valeur 563 582	sans particularités
+T20026	sosy 541 582	examen clinique était sans particularités
+T20027	valeur 786 801	6cm de diamètre
+T20028	examen 937 954	cortisol urinaire
+T20029	moment 971 984	préopératoire
+T20030	anatomie 1219 1225	dorsal
+T20032	valeur 1284 1288	10mm
+T20033	anatomie 1320 1327	ombilic
+T20034	traitement 1234 1268	Quatre trocarts étaient introduits
+T20035	valeur 1344 1348	10mm
+T20036	valeur 1390 1394	10mm
+T20037	valeur 1443 1446	5mm
+T20038	anatomie 1450 1470	paraxyphoïdien droit
+T20039	traitement 1520 1560	décollement duodéno-pancréatique partiel
+T20040	anatomie 1506 1510	méso
+T20041	traitement 1576 1633	section du feuillet inférieur du ligament coronaire droit
+T20042	traitement 1650 1679	récliner le foie vers le haut
+T20010	anatomie 1662 1666	foie
+T20043	anatomie 1734 1750	fascia périrénal
+T20044	traitement 1974 1984	sectionnée
+T20045	anatomie 2129 2136	abdomen
+T20046	traitement 2116 2186	retirée de l’abdomen par une petite incision transversale sus pubienne
+T20047	anatomie 2454 2463	gastrique
+T20048	valeur 2632 2636	12mm
+T20049	sosy 2598 2636	IDR à la tuberculine était égal à 12mm
+T20050	anatomie 2657 2663	poumon
+T20053	sosy 2641 2689	radiographie de poumon était strictement normale
+T20054	sosy 2508 2594	recherche de BK (examen direct, culture) dans les urines et le LCR était aussi négatif
+T20055	sosy 404 438	palpation abdominale était normale
+T20056	sosy 818 889	dosage des métanéphrines et des normétanéphrines urinaires était normal
+T20057	anatomie 946 954	urinaire
+T20058	anatomie 867 876	urinaires
+T20059	anatomie 1055 1063	nerveuse
+T20060	anatomie 1067 1082	mésenchymateuse
+T20066	traitement 1896 1957	individualisation de la veine surrénalienne principale droite
+T20074	anatomie 2421 2429	crachats
+T20075	frequence 2472 2482	trois fois
+T20076	anatomie 2558 2564	urines
+T20077	anatomie 2571 2574	LCR
+T1	date 47 63	17 novembre 1999
+A1	assertion T200181 absent
+A2	assertion T20018 absent
+A3	assertion T100194 absent
+A4	assertion T10021 absent
+A5	norme T200162 normal
+A6	norme T20025 normal
+A7	norme T200163 normal
+A8	norme T200164 normal
+T2	sosy 2396 2503	recherche de BK dans les crachats et le produit de tubage gastrique réalisé trois fois était revenu négatif
+T200203	etatsosy 160 224	douleurs épisodiques localisées au niveau de l’hypochondre droit
+T200204	etatsosy 2304 2344	lésions tuberculeuses caséofolliculaires
+T200206	tumeur 622 660	tumeur de la loge surrénalienne droite
+T3	femme 622 660	tumeur de la loge surrénalienne droite
+T4	infections 2304 2344	lésions tuberculeuses caséofolliculaires
+T5	tumeur 1006 1036	phéochromocytome non sécrétant
+T6	tumeur 1048 1082	tumeur nerveuse ou mésenchymateuse
+T7	age 17 23	24 ans
+T8	genre 0 4	Mlle
+A9	genre T8 féminin
+T10	origine 156 318	des douleurs épisodiques localisées au niveau de l’hypochondre droit sans irradiation et évoluant dans un contexte de conservation de l’état général et d’apyréxie
+T9	issue 2812 2868	L’évolution était satisfaisante avec un recul de 12 mois
+A10	issue T9 guérison

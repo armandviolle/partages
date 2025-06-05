@@ -1,0 +1,6 @@
+T1	age 12 18	62 ans
+T2	genre 3 8	homme
+A1	genre T2 masculin
+T3	origine 46 97	altération de l’état de conscience avec convulsions
+T4	issue 6017 6068	On suspecte à nouveau une toxicité rénale tubulaire
+A2	issue T4 stable

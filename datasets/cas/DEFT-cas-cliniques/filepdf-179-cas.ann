@@ -1,0 +1,62 @@
+T36	anatomie 1018 1033	noyaux allongés
+T28	examen 103 118	examen clinique
+T1	etatsosy 1063 1069	oedème
+T17	etatsosy 1089 1096	nécrose
+T4	tumeur 1112 1118	tumeur
+T15	examen 125 141	bilan biologique
+T11	moment 1246 1274	18 mois après l’intervention
+T35	valeur 150 157	normaux
+T51	examen 163 185	échographie abdominale
+T10	anatomie 175 185	abdominale
+T32	sosy 199 239	masse rénale droite solide et hétérogène
+T42	anatomie 205 218	rénale droite
+T50	examen 281 292	échographie
+T13	tumeur 328 341	tumeur rénale
+T43	anatomie 335 341	rénale
+T44	examen 364 389	scanner abdomino- pelvien
+T40	anatomie 372 389	abdomino- pelvien
+T33	sosy 418 495	masse hétérogène de 9 cm de grand axe refoulant les cavités pyélo-calicielles
+T19	anatomie 470 495	cavités pyélo-calicielles
+T6	date 40 52	octobre 2001
+T16	examen 511 528	bilan d’extension
+T9	examen 530 555	TDM thoracique, cérébrale
+T47	anatomie 534 544	thoracique
+T23	anatomie 546 555	cérébrale
+T46	examen 559 580	scintigraphie osseuse
+T39	anatomie 573 580	osseuse
+T12	examen 58 63	bilan
+T34	pathologie 601 611	métastases
+T48	anatomie 628 637	urinaires
+T37	valeur 646 655	négatives
+T31	examen 673 723	marqueurs tumoraux (NSE, CA 19-9, ACE, Cyfra 21-1)
+T7	examen 617 637	cytologies urinaires
+T8	cardiovasculaires 70 87	HTA déséquilibrée
+T38	traitement 729 756	néphrectomie élargie droite
+T25	anatomie 750 756	droite
+T27	examen 797 824	examen anatomo pathologique
+T14	anatomie 804 824	anatomo pathologique
+T3	tumeur 844 869	tumeur fibreuse solitaire
+T20	anatomie 906 916	cellulaire
+T29	examen 938 953	index mitotique
+T22	anatomie 996 1015	cellules fusiformes
+T2	age 12 18	83 ans
+T5	date 305 309	1996
+A1	assertion T34 absent
+T18	sosy 1063 1069	oedème
+T21	sosy 1073 1096	rares foyers de nécrose
+T24	homme 328 341	tumeur rénale
+T26	mode 776 793	voie sous costale
+T30	genre 25 36	hospitalisé
+A2	genre T30 masculin
+T41	valeur 438 455	9 cm de grand axe
+T45	sosy 92 157	reste de l’examen clinique et le bilan biologique étaient normaux
+T49	sosy 617 655	cytologies urinaires étaient négatives
+T52	sosy 892 1056	prolifération cellulaire monomorphe de faible index mitotique et d’architecture storiforme, composée de cellules fusiformes à noyaux allongés et chromatine marginée
+T53	examen 1131 1136	CD 34
+T54	examen 1141 1146	CD 99
+T55	examen 1160 1164	bcl2
+T56	sosy 1227 1245	rémission complète
+T57	pathologie 70 87	HTA déséquilibrée
+T58	sosy 328 341	tumeur rénale
+T59	sosy 844 869	tumeur fibreuse solitaire
+T60	sosy 1112 1164	tumeur marquait le CD 34, le CD 99 ainsi que le bcl2

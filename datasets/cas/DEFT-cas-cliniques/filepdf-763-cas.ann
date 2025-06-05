@@ -1,0 +1,6 @@
+T1	age 24 30	63 ans
+T2	genre 15 20	homme
+A1	genre T2 masculin
+T3	origine 68 151	une douleur rétrosternale serrative irradiant dans le dos et le long du bras gauche
+T4	issue 3077 3211	L’administration de varénicline a donc été suspendue pendant deux jours durant l’hospitalisation mais reprise lors du congé du patient
+A2	issue T4 amélioration

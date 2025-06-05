@@ -1,0 +1,12 @@
+T7	C1136220 36 51	recommandations
+#7	AnnotatorNotes T7	"C1136220", "Directive Counseling", "Therapeutic or Preventive Procedure" ,"PROC"
+T8	C0150773 107 123	soins de la peau
+#8	AnnotatorNotes T8	"C0150773", "Skin Care", "Therapeutic or Preventive Procedure" ,"PROC"
+T9	C0031831 61 68	médecin
+#9	AnnotatorNotes T9	"C0031831", "Physicians", "Professional or Occupational Group" ,"LIVB"
+T10	C0028661 81 91	infirmière
+#10	AnnotatorNotes T10	"C0028661", "Nurses", "Professional or Occupational Group" ,"LIVB"
+T11	C0150240 107 112;127 136	soins des pieds
+#11	AnnotatorNotes T11	"C0150240", "Foot care", "Therapeutic or Preventive Procedure" ,"PROC"
+T28	C0150600 36 51	recommandations
+#28	AnnotatorNotes T28	"C0150600", "Advice", "Health Care Activity" ,"PROC"

@@ -1,0 +1,116 @@
+T3	etatsosy 1071 1116	dilatation urétéro-pyélocalicielle bilatérale
+T141	anatomie 1082 1116	urétéro-pyélocalicielle bilatérale
+T64	anatomie 1163 1171	vésicale
+T49	examen 1225 1271	scanner sans injection de produit de contraste
+T65	anatomie 1365 1373	vésicale
+T60	anatomie 1409 1415	vessie
+T58	anatomie 141 146	urine
+T10	valeur 1428 1447	95X93mm de diamètre
+T161	dispositif 1533 1565	sonde de néphrostomie bilatérale
+T40	traitement 1542 1554	néphrostomie
+T20	anatomie 1555 1565	bilatérale
+T34	moment 156 172	depuis la veille
+T24	traitement 1648 1712	chirurgie pour le retrait définitif de la méga lithiase vésicale
+T66	anatomie 1704 1712	vésicale
+T37	traitement 1752 1771	laparotomie médiane
+T33	examen 177 191	interrogatoire
+T41	mode 1764 1787	médiane sous-ombilicale
+T46	anatomie 1848 1857	péritoine
+T84	anatomie 1881 1893	dôme vésical
+T2	etatsosy 1963 2016	énorme calcul occupant la quasi-totalité de la vessie
+T61	anatomie 2010 2016	vessie
+T51	examen 2123 2138	sondage vésical
+T63	anatomie 2131 2138	vésical
+T14	substance 2188 2200	antibiotique
+T13	substance 2204 2214	antalgique
+T28	moment 2215 2233	en post-opératoire
+T31	sosy 225 243	infection urinaire
+T25	sosy 2266 2278	complication
+T78	moment 2295 2310	post-opératoire
+T162	dispositif 2316 2330	sonde urinaire
+T57	anatomie 2322 2330	urinaire
+T56	anatomie 235 243	urinaire
+T23	sosy 2388 2426	bonne évolution clinique et biologique
+T1	etatsosy 262 284	brûlures mictionnelles
+T4	etatsosy 298 305	dysurie
+T6	etatsosy 309 318	hématurie
+T95	age 33 39	34 ans
+T59	anatomie 430 435	urine
+T35	moment 436 445	la veille
+T30	examen 545 560	examen clinique
+T26	sosy 582 592	consciente
+T52	sosy 596 644	stable sur le plan hémodynamique et respiratoire
+T54	examen 656 667	température
+T12	anatomie 704 714	abdominale
+T18	examen 720 736	bilan biologique
+T5	etatsosy 771 787	hyperleucocytose
+T9	femme 838 863	insuffisance rénale aigue
+T48	anatomie 851 857	rénale
+T11	examen 870 874	ECBU
+T42	valeur 875 882	positif
+T137	sosy 892 916	leucocyturie à 481000/ml
+T7	etatsosy 924 933	hématurie
+T68	examen 996 1007	échographie
+T8	genre 16 24	patiente
+A1	genre T8 féminin
+T17	duree 328 353	depuis environ un (01) an
+T21	temperature 671 675	38°C
+A2	norme T21 haut
+T27	valeur 907 916	481000/ml
+T29	valeur 936 945	157000/ml
+A3	assertion T25 absent
+T15	moment 2345 2366	cinq (05) jours après
+T16	traitement 1615 1630	cystolithotomie
+T19	femme 1356 1373	lithiase vésicale
+T22	etatsosy 1356 1373	lithiase vésicale
+T32	femme 1690 1712	méga lithiase vésicale
+T36	etatsosy 1690 1712	méga lithiase vésicale
+T39	examen 1928 1938	cystotomie
+T43	examen 2071 2083	cystorraphie
+A4	norme T27 haut
+#1	AnnotatorNotes T27	Normal si <10000
+T44	femme 924 933	hématurie
+A5	norme T29 haut
+#2	AnnotatorNotes T29	Normal si <10000
+#3	AnnotatorNotes T44	sang dans les urines
+T45	etatsosy 892 904	leucocyturie
+#4	AnnotatorNotes T45	leucocytes dans les urines
+T50	sosy 771 828	hyperleucocytose à prédominance polynucléaire neutrophile
+T53	infections 225 243	infection urinaire
+T55	etatsosy 286 296	lombalgies
+T38	femme 412 435	rétention aigue d’urine
+T62	sosy 685 714	légère sensibilité abdominale
+T67	sosy 1132 1208	énorme structure hyperéchogène vésicale générant un cône d’ombre postérieure
+T69	traitement 1801 1824	ouverture aponévrotique
+T70	traitement 1833 1857	refoulement du péritoine
+T71	sosy 1963 2016	énorme calcul occupant la quasi-totalité de la vessie
+T72	femme 1963 2016	énorme calcul occupant la quasi-totalité de la vessie
+T47	valeur 1453 1472	708.5 UH de densité
+T73	hemopathies 771 787	hyperleucocytose
+T75	etatsosy 656 675	température de 38°C
+T76	femme 123 146	rétention aigue d’urine
+T77	femme 298 305	dysurie
+T79	femme 309 318	hématurie
+T80	femme 225 243	infection urinaire
+T81	frequence 244 256	à répétition
+T82	traitement 365 379	automédication
+T83	sosy 656 675	température de 38°C
+T85	sosy 870 882	ECBU positif
+T86	pathologie 838 863	insuffisance rénale aigue
+T87	sosy 924 945	hématurie à 157000/ml
+T88	organisme 953 958	germe
+T89	examen 982 989	culture
+T90	substance 1251 1271	produit de contraste
+T91	sosy 1349 1472	énorme lithiase vésicale occupant la presque totalité de la vessie et mesurant 95X93mm de diamètre avec 708.5 UH de densité
+T92	traitement 1516 1565	mise en place de sonde de néphrostomie bilatérale
+T74	traitement 2027 2048	accouché manuellement
+T93	traitement 2093 2116	fermeture plan par plan
+T94	traitement 2316 2344	sonde urinaire a été retirée
+T96	sosy 123 146	rétention aigue d’urine
+T97	sosy 262 284	brûlures mictionnelles
+T98	sosy 286 296	lombalgies
+T99	sosy 298 305	dysurie
+T100	sosy 309 318	hématurie
+T101	sosy 412 435	rétention aigue d’urine
+T102	sosy 1071 1116	dilatation urétéro-pyélocalicielle bilatérale
+T103	sosy 1690 1712	méga lithiase vésicale

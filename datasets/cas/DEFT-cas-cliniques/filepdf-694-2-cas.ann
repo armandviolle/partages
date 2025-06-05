@@ -1,0 +1,6 @@
+T1	genre 19 25	garçon
+T2	age 29 35	11 ans
+A1	genre T1 masculin
+T3	origine 102 179	céphalées résistantes au traitement antalgique évoluant depuis quelques jours
+T4	issue 741 842	Le patient a présenté rapidement une altération de sa conscience avec un GCS qui est passé de 15 à 10
+A2	issue T4 détérioration

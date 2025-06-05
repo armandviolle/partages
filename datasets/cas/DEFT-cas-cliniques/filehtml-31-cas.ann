@@ -1,0 +1,6 @@
+T1	genre 16 20	dame
+T2	age 24 30	41 ans
+A1	genre T1 féminin
+T3	origine 88 202	des DRS et des douleurs épigastriques avec irradiation à l’omoplate droite qui durent depuis deux semaines environ
+T4	issue 3987 4143	Depuis son admission et dans les jours qui suivent, la patiente ressent quotidiennement des DRS fréquentes qui sont rarement soulagées par la nitroglycérine
+A2	issue T4 stable

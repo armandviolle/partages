@@ -1,0 +1,6 @@
+T1	age 13 19	11 ans
+T2	genre 3 9	garçon
+A1	genre T2 masculin
+T3	origine 222 279	une fièvre, une pancytopénie, et on suspecte une sinusite
+T4	issue 1501 1667	Les valeurs de méthémoglobine provenant de la gazométrie artérielle se normalisent quatre jours après l’arrêt de la dapsone, et la saturation est normale sans oxygène
+A2	issue T4 amélioration

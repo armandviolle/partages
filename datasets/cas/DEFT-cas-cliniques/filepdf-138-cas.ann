@@ -1,0 +1,6 @@
+T1	genre 17 20	âgé
+T2	age 24 30	70 ans
+A1	genre T1 masculin
+T3	origine 177 208	une hématurie isolée, terminale
+T4	issue 2172 2286	Un mois après la fin du traitement anti-tuberculeux, une cystoprostatectomie a été réalisée avec des suite simples
+A2	issue T4 amélioration

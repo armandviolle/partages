@@ -1,0 +1,104 @@
+T2	tumeur 1016 1050	formation tumorale du dôme vésical
+T109	anatomie 1038 1050	dôme vésical
+T53	examen 1076 1096	fibroscopie vésicale
+T94	anatomie 1088 1096	vésicale
+T22	date 1118 1128	avril 1999
+T37	examen 1133 1154	contrôle endoscopique
+T10	tumeur 1186 1192	tumeur
+T77	traitement 1212 1235	résection endoscopi que
+T21	pathologie 122 133	antécédents
+T42	examen 1239 1266	examen anatomo-pathologique
+T18	anatomie 1246 1266	anatomo-pathologique
+T146	tumeur 1280 1289	carcinome
+T24	examen 1331 1348	bilan d’extension
+T82	examen 1354 1404	tomodensitométrie abdomino-pelvienne et thoracique
+T17	anatomie 1372 1390	abdomino-pelvienne
+T80	anatomie 1394 1404	thoracique
+T139	sosy 1426 1443	lésion secondaire
+T30	traitement 1469 1489	cysto-prostatectomie
+T74	anatomie 1475 1483	prostate
+T29	traitement 1495 1540	curage lymphonodale ilio-obturateur bilatéral
+T65	anatomie 1502 1540	lymphonodale ilio-obturateur bilatéral
+T45	examen 1583 1602	examen histologique
+T147	tumeur 1627 1654	carcinome lympho-épithélial
+T97	anatomie 1637 1654	lympho-épithélial
+T48	anatomie 1669 1698	face interne de la musculeuse
+T8	etatsosy 1719 1742	métaplasie malpighienne
+T68	anatomie 1730 1742	malpighienne
+T196	sosy 1763 1790	envahissement ganglionnaire
+T54	anatomie 1777 1790	ganglionnaire
+T3	date 1970 1980	avril 2000
+T25	sosy 1985 2001	bon état général
+T123	sosy 2008 2023	récidive locale
+T9	chimiques 195 228	intoxication tabagique importante
+T173	age 20 26	58 ans
+T50	examen 252 272	fibroscopie vésicale
+T92	anatomie 264 272	vésicale
+T1	tumeur 288 347	formation tumorale sur la face latérale droite de la vessie
+T49	anatomie 314 347	face latérale droite de la vessie
+T43	examen 355 374	examen histologique
+T78	traitement 382 404	résection endoscopique
+T36	examen 392 404	endoscopique
+T143	tumeur 418 427	carcinome
+T26	anatomie 430 438	cellules
+T234	valeur 459 476	stade pTa grade 2
+T188	examen 482 505	fibroscopie de contrôle
+T13	date 42 54	janvier 1997
+T95	moment 507 515	à 3 mois
+T70	anatomie 542 552	papillaire
+T108	anatomie 556 568	dôme vésical
+T44	examen 574 593	examen histologique
+T144	tumeur 606 631	carcinome vésical in situ
+T88	anatomie 616 623	vésical
+T96	sosy 63 111	épisode d’hématurie macroscopique totale, isolée
+T172	homme 645 665	carcinome urothélial
+T84	anatomie 655 665	urothélial
+T235	valeur 669 686	stade pTa grade 1
+T5	etatsosy 73 103	hématurie macroscopique totale
+T56	frequence 719 746	1 instillation hebdomadaire
+T12	dose 765 770	81 mg
+T7	duree 779 797	pendant 6 semaines
+T52	examen 803 826	fibroscopie de contrôle
+T33	date 830 843	décembre 1997
+T47	anatomie 883 903	face latérale gauche
+T57	examen 907 917	histologie
+T103	etatsosy 932 939	lésions
+T15	date 971 980	août 1998
+T20	genre 0 8	Monsieur
+A1	genre T20 masculin
+T4	respiratoire 149 190	bronchopneumopathie chronique obstructive
+T6	homme 606 631	carcinome vésical in situ
+T19	tumeur 645 665	carcinome urothélial
+T23	mode 747 761	intra-vésicale
+T27	substance 774 777	BCG
+T14	frequence 1097 1112	tous les 3 mois
+T28	homme 1016 1050	formation tumorale du dôme vésical
+T16	valeur 1308 1326	stade pT 1 grade 3
+A2	assertion T139 absent
+T11	traitement 1544 1578	entérocystoplastie de remplacement
+A3	assertion T196 absent
+T31	valeur 1792 1802	pT2a N0 M0
+T32	examen 1817 1855	immunomarquage aux anticorps anti-LMP1
+A4	assertion T123 absent
+T34	sosy 2027 2047	extension à distance
+A5	assertion T34 absent
+T35	homme 288 347	formation tumorale sur la face latérale droite de la vessie
+T38	homme 943 950	cystite
+T39	frequence 169 178	chronique
+T40	pathologie 149 190	bronchopneumopathie chronique obstructive
+T41	sosy 195 247	intoxication tabagique importante (60 paquets/année)
+T46	sosy 288 347	formation tumorale sur la face latérale droite de la vessie
+T51	pathologie 418 476	carcinome à cellules transitionnelles de stade pTa grade 2
+T55	sosy 532 568	formation papillaire du dôme vésical
+T58	pathologie 606 631	carcinome vésical in situ
+T59	pathologie 645 686	carcinome urothélial de stade pTa grade 1
+T61	sosy 860 903	petite formation de la face latérale gauche
+T62	sosy 932 965	lésions de cystite non spécifique
+T63	sosy 1000 1050	nouvelle petite formation tumorale du dôme vésical
+T64	sosy 1168 1192	progression de la tumeur
+T66	pathologie 1280 1326	carcinome indifférencié, de stade pT 1 grade 3
+T60	pathologie 1627 1698	carcinome lympho-épithélial atteignant la face interne de la musculeuse
+T67	sosy 1709 1756	foyers de métaplasie malpighienne en périphérie
+T69	sosy 1807 1855	absence d'immunomarquage aux anticorps anti-LMP1
+T71	traitement 1927 1952	traitement complémentaire
+A6	assertion T71 absent

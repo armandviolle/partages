@@ -1,0 +1,6 @@
+T1	genre 12 24	une patiente
+T2	age 28 34	51 ans
+A1	genre T1 féminin
+T3	origine 328 409	un nodule du sein droit avec mastodynie et écoulement mamelonnaire de type séreux
+T4	issue 3182 3304	Après un recul de 12 mois, l’examen clinique n’a pas objectivé des signes en faveur de récidive pariétale ou ganglionnaire
+A2	issue T4 amélioration
