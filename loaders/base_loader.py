@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 from datasets import load_dataset, Dataset, concatenate_datasets
-import sys
+import sys, os
 
 class BaseLoader(ABC):
     """Loader commun"""
@@ -17,6 +17,31 @@ class BaseLoader(ABC):
         """Spécifique au dataset : renommage de colonnes, filtrage, etc."""
         ...
 
+    def load_local(self, split):
+        if os.path.isdir(self.path): # Check if path is a local directory
+            print(f"Loading from local path: {self.path} for split: {split}")
+            all_texts = []
+            for root, dirs, files in os.walk(self.path):
+                print(f"Searching for .txt files in {root}...")
+                for file_name in files:
+                    if file_name.endswith(".txt"):
+                        file_path = os.path.join(root, file_name)
+                        try:
+                            with open(file_path, 'r', encoding='utf-8') as f:
+                                all_texts.append(f.read())
+                        except Exception as e:
+                            print(f"Error reading file {file_path}: {e}")
+
+            if not all_texts:
+                print(f"No .txt files found in {self.path} or its subdirectories.")
+                return []
+
+            raw_dataset_items = [{"text": text_content} for text_content in all_texts]
+            return raw_dataset_items
+
+        else:
+            raise FileNotFoundError(f"{self.path} is not a local directory.")
+
     def load(self) -> Dataset:
         subsets = self.subset if isinstance(self.subset, list) else [self.subset]
         splits = self.split if isinstance(self.split, list) else [self.split]
@@ -25,26 +50,14 @@ class BaseLoader(ABC):
         for subset in subsets:
             all_splits = []
             for split in splits:
-                rawData = None # To store data from either custom load or HF load
                 try:
-                    if hasattr(self, 'load_data') and callable(getattr(self, 'load_data')):
-                        # Child loader has custom data loading
-                        print(f"INFO: Attempting to use custom load_data method for {self.source}, subset {subset}, split {split}")
-                        rawData = self.load_data(split=split)
-                        if rawData is None: # Ensure load_data actually returned something
-                             print(f"WARNING: Custom load_data for {self.source} returned None for split {split}. Skipping.")
-                             continue
-                    else:
-                        # Default Hugging Face loading
-                        print(f"INFO: Using Hugging Face load_dataset for {self.source}, path {self.path}, data_dir {subset}, split {split}")
-                        rawData = load_dataset(
-                            path=self.path,
-                            data_dir=subset,
-                            split=split,
-                            streaming=self.stream,
-                            trust_remote_code=True
-                        )
-
+                    rawData = load_dataset(
+                        path=self.path,
+                        data_dir=subset,
+                        split=split,
+                        streaming=self.stream,
+                        trust_remote_code=True
+                    )
                     tmp_ds = self.postprocess(dataset=rawData, subset=subset, split=split)
                     all_splits.append(tmp_ds)
                 except Exception as e:

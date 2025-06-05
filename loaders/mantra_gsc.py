@@ -1,37 +1,40 @@
 import os
-from datasets import Dataset
+from datasets import Dataset,concatenate_datasets
 from .base_loader import BaseLoader # Assuming BaseLoader handles the overall loading flow
 
 class MANTRA_GSC(BaseLoader):
 
-    def load_data(self, split): # This method might be called by BaseLoader
-        # 'split' argument might come from 'source_split' in datasets.yaml
-        # self.path would be "datasets/mantra_gsc" from the config
+    def load(self) -> Dataset:
+        """
+        Overlaods the load method to handle local data loading for the MANTRA GSC dataset.
+        """
+        subsets = self.subset if isinstance(self.subset, list) else [self.subset]
+        splits = self.split if isinstance(self.split, list) else [self.split]
 
-        if os.path.isdir(self.path): # Check if path is a local directory
-            print(f"Loading MANTRA_GSC from local path: {self.path} for split: {split}")
-            all_texts = []
-            for root, dirs, files in os.walk(self.path):
-                print(f"Searching for .txt files in {root}...")
-                for file_name in files:
-                    if file_name.endswith(".txt"):
-                        file_path = os.path.join(root, file_name)
-                        try:
-                            with open(file_path, 'r', encoding='utf-8') as f:
-                                all_texts.append(f.read())
-                        except Exception as e:
-                            print(f"Error reading file {file_path}: {e}")
-
-            if not all_texts:
-                print(f"No .txt files found in {self.path} or its subdirectories.")
-                return []
-
-            raw_dataset_items = [{"text": text_content} for text_content in all_texts]
-            return raw_dataset_items
-
+        all_dirs = []
+        for subset in subsets:
+            all_splits = []
+            for split in splits:
+                try:
+                    print(f"INFO: Attempting to use custom load_data method for {self.source}, subset {self.subset}, split {split}")
+                    rawData = self.load_local(split=split)
+                    assert rawData is not None, f"WARNING: Custom load_data for {self.source} returned None for split {split}"
+                    tmp_ds = self.postprocess(dataset=rawData, subset=subset, split=split)
+                    all_splits.append(tmp_ds)
+                except Exception as e:
+                    print(f"Error during data loading or postprocessing for {self.source}, subset '{subset}', split '{split}'. Path: '{self.path}'. Error: {e}")
+                    print(f"Unavailable data split \"{split}\" for data_dir \"{subset}\" (or error in custom load_data).")
+                    continue
+            if len(all_splits) > 0:
+                all_dirs += all_splits
+            else:
+                print(f"No data splits available for data_dir \"{subset}\" (probably unexistent data_dir).")
+        if len(all_dirs) > 0:
+            return concatenate_datasets(all_dirs)
         else:
-            print(f"Path {self.path} is not a local directory. MANTRA_GSC.load_data expects a local path.")
-            raise FileNotFoundError(f"MANTRA_GSC.load_data was called, but {self.path} is not a local directory.")
+            raise RuntimeError(f"No data was loaded for dataset \"{self.source}\".")
+        return ds
+
 
     def postprocess(self, dataset, subset, split):
         '''
