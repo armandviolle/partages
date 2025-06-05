@@ -39,7 +39,7 @@ class BaseLoader(ABC):
                         print(f"INFO: Using Hugging Face load_dataset for {self.source}, path {self.path}, data_dir {subset}, split {split}")
                         rawData = load_dataset(
                             path=self.path,
-                            data_dir=subset, # This is Hugging Face's concept of subset/config name
+                            data_dir=subset,
                             split=split,
                             streaming=self.stream,
                             trust_remote_code=True
@@ -49,8 +49,6 @@ class BaseLoader(ABC):
                     all_splits.append(tmp_ds)
                 except Exception as e:
                     print(f"Error during data loading or postprocessing for {self.source}, subset '{subset}', split '{split}'. Path: '{self.path}'. Error: {e}")
-                    # import traceback # Uncomment for detailed debugging
-                    # print(traceback.format_exc()) # Uncomment for detailed debugging
                     print(f"Unavailable data split \"{split}\" for data_dir \"{subset}\" (or error in custom load_data).")
                     continue
             if len(all_splits) > 0:

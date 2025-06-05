@@ -1,4 +1,3 @@
-print("DEBUG: main.py script execution started")
 import yaml
 from datasets import concatenate_datasets, disable_caching, load_dataset
 from loaders import REGISTRY
@@ -10,7 +9,6 @@ def load_config(path="config/datasets.yaml"):
 
 
 def main():
-    print("DEBUG: main() function execution started")
     # disable_caching()  # facultatif : si stream
     datasets_cfg = load_config()
     all_ds = []

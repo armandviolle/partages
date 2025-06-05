@@ -11,13 +11,8 @@ class MANTRA_GSC(BaseLoader):
         if os.path.isdir(self.path): # Check if path is a local directory
             print(f"Loading MANTRA_GSC from local path: {self.path} for split: {split}")
             all_texts = []
-            # Determine which subdirectories correspond to the "French" subset and "train" split.
-            # For now, let's assume all .txt files in subdirs of self.path are relevant.
-            # This might need refinement based on how "subset" and "split" map to local structure.
-
-            # The user's files are in subdirectories like 'EMEA_ec22-cui-best_man'
-            # We need to walk through these subdirectories.
             for root, dirs, files in os.walk(self.path):
+                print(f"Searching for .txt files in {root}...")
                 for file_name in files:
                     if file_name.endswith(".txt"):
                         file_path = os.path.join(root, file_name)
@@ -29,25 +24,14 @@ class MANTRA_GSC(BaseLoader):
 
             if not all_texts:
                 print(f"No .txt files found in {self.path} or its subdirectories.")
-                # Return an empty list of dicts, consistent with how postprocess expects data
                 return []
 
-            # Create a dataset-like structure that postprocess can handle
-            # The current postprocess expects a list of dicts, each with a 'text' key
             raw_dataset_items = [{"text": text_content} for text_content in all_texts]
-            return raw_dataset_items # This will be passed to postprocess
+            return raw_dataset_items
 
         else:
-            # This else block implies that if self.path is not a local directory,
-            # this loader expects the data to be loaded from Hugging Face by BaseLoader.
-            # The BaseLoader would then call self.postprocess with the HF dataset.
-            # So, this method should only be called if local loading is intended.
-            # If BaseLoader is modified to call this, it should check os.path.isdir first.
             print(f"Path {self.path} is not a local directory. MANTRA_GSC.load_data expects a local path.")
-            # Raise an error or return something that signals BaseLoader to use standard HF loading.
-            # For now, raising an error makes it clear this path wasn't handled as expected for local.
             raise FileNotFoundError(f"MANTRA_GSC.load_data was called, but {self.path} is not a local directory.")
-
 
     def postprocess(self, dataset, subset, split):
         '''
@@ -58,19 +42,13 @@ class MANTRA_GSC(BaseLoader):
         '''
         processed_texts = []
 
-        # Dataset can now be either a HuggingFace Dataset object or our list of dicts
-        for item in dataset: # This should work for both HF dataset items and our dicts
+        for item in dataset:
             if 'text' in item and isinstance(item['text'], str):
                 processed_texts.append(item['text'])
             else:
-                # Provide more context for the error
-                item_type = type(item)
-                item_content_preview = str(item)[:100] # Preview of item content
-                raise ValueError(f"Could not find 'text' string in item. Item type: {item_type}, Item preview: {item_content_preview}. Full item: {item}")
+                raise ValueError(f"Could not find 'text' string in item.")
 
         if not processed_texts and not (isinstance(dataset, list) and len(dataset) == 0 and os.path.isdir(self.path)):
-            # Avoid warning if it was an intentionally empty list from local loading (no files found)
-            # but still warn if HF dataset is empty or other unexpected empty cases.
             print(f"Warning: No texts were processed for subset '{subset}', split '{split}'. Check data source and loading logic.")
 
         res = {
