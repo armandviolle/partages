@@ -1,22 +1,42 @@
 # configs/datasets.yaml
 datasets:
+  # From HuggingFace 
   - source: SIMSAMU
     path: "medkit/simsamu"
     subset:
     source_split: "train"
+    commercial_use: True
+    comment: ""
   - source: WMT16
     path: "qanastek/WMT-16-PubMed"
     subset: "en-fr"
     source_split: "train"
+    commercial_use: True
+    comment: ""
   - source: DEFT2021
     path: "DrBenchmark/DEFT2021"
     subset: 
     source_split: ["train", "validation", "test"]
-  - source: NACHOS
-    path: "/Users/armandviolle/Developer/partages/Archive"
-    subset: ["HAL", "HAS"]
-    source_split: 
+    commercial_use: True
+    comment: ""
   - source: FRENCHMEDMCQA
     path: "qanastek/frenchmedmcqa"
     subset: 
     source_split: ["train", "validation", "test"]
+    commercial_use: True
+    comment: ""
+  # From NACHOS
+  - source: HAL
+    path: "/Users/armandviolle/Developer/partages/Archive"
+    subset: "NACHOS"
+    source_split: 
+    commercial_use: True
+    comment: ""
+  - source: HAS
+    path: "/Users/armandviolle/Developer/partages/Archive"
+    subset: "NACHOS"
+    source_split: 
+    commercial_use: True
+    comment: ""
+  # From dumps
+  # TODO
