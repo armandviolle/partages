@@ -1,0 +1,4 @@
+T1	C0151747 3 25	néphropathie tubulaire
+#1	AnnotatorNotes T1	"C0151747", "Renal tubular disorder", "Disease or Syndrome" ,"DISO"
+T2	C0005841 31 47	transfusionnelle
+#2	AnnotatorNotes T2	"C0005841", "Blood Transfusion", "Therapeutic or Preventive Procedure" ,"PROC"

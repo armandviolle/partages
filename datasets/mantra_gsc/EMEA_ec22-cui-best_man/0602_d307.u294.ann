@@ -1,0 +1,22 @@
+T11	C1565489 43 62	insuffisance rénale
+#11	AnnotatorNotes T11	"C1565489", "Renal Insufficiency", "Disease or Syndrome" ,"DISO"
+T12	C1565489 178 197	insuffisance rénale
+#12	AnnotatorNotes T12	"C1565489", "Renal Insufficiency", "Disease or Syndrome" ,"DISO"
+T14	C0031327 98 115	pharmacocinétique
+#14	AnnotatorNotes T14	"C0031327", "Drug Kinetics", "Physiologic Function" ,"PHYS"
+T15	C0031327 297 314	pharmacocinétique
+#15	AnnotatorNotes T15	"C0031327", "Drug Kinetics", "Physiologic Function" ,"PHYS"
+T16	C1956497 119 130	laropiprant
+#16	AnnotatorNotes T16	"C1956497", "laropiprant", "Organic Chemical" ,"CHEM"
+T17	C1956497 318 329	laropiprant
+#17	AnnotatorNotes T17	"C1956497", "laropiprant", "Organic Chemical" ,"CHEM"
+T18	C0030705 154 162	patients
+#18	AnnotatorNotes T18	"C0030705", "Patients", "Patient or Disabled Group" ,"LIVB"
+T19	C0011946 282 289	dialyse
+#19	AnnotatorNotes T19	"C0011946", "Dialysis procedure", "Therapeutic or Preventive Procedure" ,"PROC"
+T20	C0008972 367 372	étude
+#20	AnnotatorNotes T20	"C0008972", "Clinical Research", "Research Activity" ,"PROC"
+T21	C0008976 367 372	étude
+#21	AnnotatorNotes T21	"C0008976", "Clinical Trials", "Research Activity" ,"PROC"
+T49	C0022661 243 272	insuffisance rénale terminale
+#49	AnnotatorNotes T49	"C0022661", "Kidney Failure, Chronic", "Disease or Syndrome" ,"DISO"

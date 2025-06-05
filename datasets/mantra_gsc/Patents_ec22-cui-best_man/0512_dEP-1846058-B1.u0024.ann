@@ -1,0 +1,6 @@
+T4	C0063083 79 87	hydrogel
+#4	AnnotatorNotes T4	"C0063083", "Hydrogel", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T5	C0520510 55 63	matériau
+#5	AnnotatorNotes T5	"C0520510", "Materials", "Substance" ,"OBJC"
+T6	C0699733 0 10	Dispositif
+#6	AnnotatorNotes T6	"C0699733", "Devices", "Manufactured Object" ,"OBJC"

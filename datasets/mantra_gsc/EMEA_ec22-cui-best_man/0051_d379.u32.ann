@@ -1,0 +1,4 @@
+T3	C0030705 4 12	patients
+#3	AnnotatorNotes T3	"C0030705", "Patients", "Patient or Disabled Group" ,"LIVB"
+T4	C0005910 19 24	poids
+#4	AnnotatorNotes T4	"C0005910", "Body Weight", "Organism Attribute" ,"PHYS"

@@ -1,0 +1,16 @@
+T8	C1135145 51 59	Revlimid
+#8	AnnotatorNotes T8	"C1135145", "Revlimid", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T9	C1135145 217 225	Revlimid
+#9	AnnotatorNotes T9	"C1135145", "Revlimid", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T10	C0087111 93 103	traitement
+#10	AnnotatorNotes T10	"C0087111", "Therapeutic procedure", "Therapeutic or Preventive Procedure" ,"PROC"
+T11	C0031831 6 13	médecin
+#11	AnnotatorNotes T11	"C0031831", "Physicians", "Professional or Occupational Group" ,"LIVB"
+T12	C0018941 134 150	analyses de sang
+#12	AnnotatorNotes T12	"C0018941", "Hematologic Tests", "Laboratory Procedure" ,"PROC"
+T13	C1142435 163 175	état général
+#13	AnnotatorNotes T13	"C1142435", "General physical condition", "Finding" ,"DISO"
+T14	C0004268 202 211	attention
+#14	AnnotatorNotes T14	"C0004268", "Attention", "Mental Process" ,"PHYS"
+T35	C0702196 134 150	analyses de sang
+#35	AnnotatorNotes T35	"C0702196", "Blood investigation", "Laboratory Procedure" ,"PROC"

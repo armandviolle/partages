@@ -1,0 +1,8 @@
+T5	C0673967 0 5	AZOPT
+#5	AnnotatorNotes T5	"C0673967", "Azopt", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T6	C0038760 13 24	sulfonamide
+#6	AnnotatorNotes T6	"C0038760", "Sulfonamides", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T7	C0243077 25 35	inhibiteur
+#7	AnnotatorNotes T7	"C0243077", "inhibitors", "Chemical Viewed Functionally" ,"CHEM"
+T8	C0007028 42 62	anhydrase carbonique
+#8	AnnotatorNotes T8	"C0007028", "CARBONATE DEHYDRATASE", "Amino Acid Peptide or Protein|Enzyme" ,"CHEM"

@@ -1,0 +1,10 @@
+T1	C0013855 2 16	électrophorèse
+#1	AnnotatorNotes T1	"C0013855", "Electrophoresis", "Laboratory Procedure" ,"PROC"
+T2	C0033684 21 30	protéines
+#2	AnnotatorNotes T2	"C0033684", "Proteins", "Amino Acid Peptide or Protein|Biologically Active Substance" ,"CHEM"
+T3	C0019051 36 46	hémolymphe
+#3	AnnotatorNotes T3	"C0019051", "Hemolymph", "Body Substance" ,"ANAT"
+T4	C0036451 127 136	scorpions
+#4	AnnotatorNotes T4	"C0036451", "Scorpions", "Eukaryote" ,"LIVB"
+T5	C0071500 50 71	gel de polyacrylamide
+#5	AnnotatorNotes T5	"C0071500", "polyacrylamide gels", "Pharmacologic Substance|Biomedical or Dental Material" ,"CHEM"

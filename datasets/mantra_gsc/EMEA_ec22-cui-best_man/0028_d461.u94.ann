@@ -1,0 +1,6 @@
+T5	C0030705 39 47	patients
+#5	AnnotatorNotes T5	"C0030705", "Patients", "Patient or Disabled Group" ,"LIVB"
+T6	C0037537 63 80	oxybate de sodium
+#6	AnnotatorNotes T6	"C0037537", "Sodium Oxybate", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T7	C0439857 19 29	dépendance
+#7	AnnotatorNotes T7	"C0439857", "Dependence", "Mental or Behavioral Dysfunction" ,"DISO"

@@ -1,0 +1,8 @@
+T1	C0003855 48 72	fistule artério-veineuse
+#1	AnnotatorNotes T1	"C0003855", "Arteriovenous fistula", "Anatomical Abnormality" ,"DISO"
+T3	C0034036 133 144	littérature
+#3	AnnotatorNotes T3	"C0034036", "Publications", "OBJC" ,"Manufactured Object"
+T4	C0018801 0 22	Insuffisance cardiaque
+#4	AnnotatorNotes T4	"C0018801", "Heart failure", "Disease or Syndrome" ,"DISO"
+T2	C0227498 73 89	hépatico-portale
+#2	AnnotatorNotes T2	"C0227498", "Structure of porta hepatis", "Body Space or Junction" ,"ANAT"

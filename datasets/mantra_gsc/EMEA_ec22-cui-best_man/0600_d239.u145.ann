@@ -1,0 +1,8 @@
+T5	C0023524 59 63	LEMP
+#5	AnnotatorNotes T5	"C0023524", "Leukoencephalopathy, Progressive Multifocal", "Disease or Syndrome" ,"DISO"
+T6	C1699848 70 89	arrêt du traitement
+#6	AnnotatorNotes T6	"C1699848", "Therapy cessation", "Finding" ,"DISO"
+T7	C1314901 94 102	MabThera
+#7	AnnotatorNotes T7	"C1314901", "Mabthera", "Amino Acid Peptide or Protein|Pharmacologic Substance|Immunologic Factor" ,"CHEM"
+T8	C0596473 34 51	détection précoce
+#8	AnnotatorNotes T8	"C0596473", "Early Diagnosis", "Diagnostic Procedure" ,"PROC"

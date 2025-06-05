@@ -1,0 +1,8 @@
+T5	C0008976 64 80	essais cliniques
+#5	AnnotatorNotes T5	"C0008976", "Clinical Trials", "Research Activity" ,"PROC"
+T6	C0041755 4 23	effets indésirables
+#6	AnnotatorNotes T6	"C0041755", "Adverse reaction to drug", "Injury or Poisoning" ,"DISO"
+T7	C0559546 4 23	effets indésirables
+#7	AnnotatorNotes T7	"C0559546", "Adverse reactions", "Finding" ,"DISO"
+T8	C0877248 4 23	effets indésirables
+#8	AnnotatorNotes T8	"C0877248", "Adverse event", "Finding" ,"DISO"

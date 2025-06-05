@@ -1,0 +1,16 @@
+T7	C0030705 44 52	patients
+#7	AnnotatorNotes T7	"C0030705", "Patients", "Patient or Disabled Group" ,"LIVB"
+T8	C0012634 69 76	maladie
+#8	AnnotatorNotes T8	"C0012634", "Disease", "Disease or Syndrome" ,"DISO"
+T9	C0221423 69 76	maladie
+#9	AnnotatorNotes T9	"C0221423", "Illness (finding)", "Finding" ,"DISO"
+T10	C0038351 102 109	estomac
+#10	AnnotatorNotes T10	"C0038351", "Stomach", "Body Part Organ or Organ Component" ,"ANAT"
+T11	C0021853 116 124	intestin
+#11	AnnotatorNotes T11	"C0021853", "Intestines", "Body Part Organ or Organ Component" ,"ANAT"
+T12	C0015967 138 144	fièvre
+#12	AnnotatorNotes T12	"C0015967", "Fever", "Finding" ,"DISO"
+T13	C1278920 102 109	estomac
+#13	AnnotatorNotes T13	"C1278920", "Entire stomach", "Body Part Organ or Organ Component" ,"ANAT"
+T15	C1318303 116 124	intestin
+#15	AnnotatorNotes T15	"C1318303", "Entire intestine", "Body Part Organ or Organ Component" ,"ANAT"

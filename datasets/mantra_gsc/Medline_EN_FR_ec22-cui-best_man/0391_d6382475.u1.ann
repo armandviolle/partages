@@ -1,0 +1,6 @@
+T1	C0024964 10 38	débits expiratoires maximaux
+#1	AnnotatorNotes T1	"C0024964", "Maximal Expiratory Flow Rate", "Clinical Attribute" ,"PHYS"
+T2	C0017110 48 51	gaz
+#2	AnnotatorNotes T2	"C0017110", "Gases", "Chemical Viewed Structurally" ,"CHEM"
+T3	C0008972 0 5	Etude
+#3	AnnotatorNotes T3	"C0008972", "Clinical Research", "Research Activity" ,"PROC"

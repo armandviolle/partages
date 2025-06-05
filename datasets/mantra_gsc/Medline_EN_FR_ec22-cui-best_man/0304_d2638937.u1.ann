@@ -1,0 +1,4 @@
+T1	C0087111 20 30	traitement
+#1	AnnotatorNotes T1	"C0087111", "Therapeutic procedure", "Therapeutic or Preventive Procedure" ,"PROC"
+T2	C0021289 43 54	nouveau-nés
+#2	AnnotatorNotes T2	"C0021289", "Infant, Newborn", "Age Group" ,"LIVB"

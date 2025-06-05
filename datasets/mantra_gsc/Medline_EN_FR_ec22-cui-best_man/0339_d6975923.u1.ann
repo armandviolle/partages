@@ -1,0 +1,10 @@
+T1	C0087111 0 10	Traitement
+#1	AnnotatorNotes T1	"C0087111", "Therapeutic procedure", "Therapeutic or Preventive Procedure" ,"PROC"
+T2	C1136201 101 123	chirurgie orthopédique
+#2	AnnotatorNotes T2	"C1136201", "Orthopedic Surgical Procedures", "Therapeutic or Preventive Procedure" ,"PROC"
+T3	C0521301 11 37	antalgique post-opératoire
+#3	AnnotatorNotes T3	"C0521301", "Postoperative administration of analgesia", "Therapeutic or Preventive Procedure" ,"PROC"
+T4	C0040654 56 97	neuro-stimulation électrique transcutanée
+#4	AnnotatorNotes T4	"C0040654", "Transcutaneous Electric Nerve Stimulation", "Therapeutic or Preventive Procedure" ,"PROC"
+T9	C0853389 11 37	antalgique post-opératoire
+#9	AnnotatorNotes T9	"C0853389", "Postoperative analgesia", "Therapeutic or Preventive Procedure", "PROC"

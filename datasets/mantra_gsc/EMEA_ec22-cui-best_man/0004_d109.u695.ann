@@ -1,0 +1,10 @@
+T6	C0031831 72 80	médecins
+#6	AnnotatorNotes T6	"C0031831", "Physicians", "Professional or Occupational Group" ,"LIVB"
+T7	C0087111 116 126	traitement
+#7	AnnotatorNotes T7	"C0087111", "Therapeutic procedure", "Therapeutic or Preventive Procedure" ,"PROC"
+T8	C0030705 131 139	patients
+#8	AnnotatorNotes T8	"C0030705", "Patients", "Patient or Disabled Group" ,"LIVB"
+T9	C1620287 145 154	prasugrel
+#9	AnnotatorNotes T9	"C1620287", "prasugrel", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T11	C2919937 28 60	fournir du matériel éducationnel
+#11	AnnotatorNotes T11	"C2919937", "Provision of educational material", "Educational Activity" ,"PROC"

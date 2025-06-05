@@ -1,0 +1,22 @@
+T11	C0012924 156 169	ADN bactérien
+#11	AnnotatorNotes T11	"C0012924", "DNA, Bacterial", "Nucleic Acid Nucleoside or Nucleotide" ,"CHEM"
+T12	C0038891 198 208	surfactant
+#12	AnnotatorNotes T12	"C0038891", "Chemical Surfactants", "Chemical Viewed Functionally" ,"CHEM"
+T13	C0001552 89 97	adjuvant
+#13	AnnotatorNotes T13	"C0001552", "Pharmaceutical Adjuvants", "Chemical Viewed Functionally" ,"CHEM"
+T14	C0042210 12 21	vaccinale
+#14	AnnotatorNotes T14	"C0042210", "Vaccines", "Pharmacologic Substance|Immunologic Factor" ,"CHEM"
+T16	C0028908 192 197	huile
+#16	AnnotatorNotes T16	"C0028908", "Oils", "Lipid" ,"CHEM"
+T17	C0035693 231 236	ARNdb
+#17	AnnotatorNotes T17	"C0035693", "RNA, Double-Stranded", "Nucleic Acid Nucleoside or Nucleotide|Biologically Active Substance" ,"CHEM"
+T18	C0001552 137 146	adjuvants
+#18	AnnotatorNotes T18	"C0001552", "Pharmaceutical Adjuvants", "Chemical Viewed Functionally" ,"CHEM"
+T19	C0001552 173 182	adjuvants
+#19	AnnotatorNotes T19	"C0001552", "Pharmaceutical Adjuvants", "Chemical Viewed Functionally" ,"CHEM"
+T20	C0001552 212 221	adjuvants
+#20	AnnotatorNotes T20	"C0001552", "Pharmaceutical Adjuvants", "Chemical Viewed Functionally" ,"CHEM"
+T21	C0038888 198 208	surfactant
+#21	AnnotatorNotes T21	"C0038888", "Surface-Active Agents", "Biomedical or Dental Material" ,"CHEM"
+T15	C0042776 237 242	viral
+#15	AnnotatorNotes T15	"C0042776", "Virus", "Virus" ,"LIVB"

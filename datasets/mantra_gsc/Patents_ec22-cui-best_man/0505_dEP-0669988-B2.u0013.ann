@@ -1,0 +1,10 @@
+T5	C0018270 101 111	croissance
+#5	AnnotatorNotes T5	"C0018270", "Growth", "Organism Function" ,"PHYS"
+T6	C0280100 115 130	tumeurs solides
+#6	AnnotatorNotes T6	"C0280100", "Solid tumour", "Neoplastic Process" ,"DISO"
+T7	C0339467 140 168	rétinopathies prolifératives
+#7	AnnotatorNotes T7	"C0339467", "Proliferative retinopathy", "Disease or Syndrome" ,"DISO"
+T1	C0027686 55 66	angiogénèse
+#1	AnnotatorNotes T1	"C0027686", "Pathologic Neovascularization", "Pathologic Function", "DISO"
+T2	C0027686 75 86	angiogénèse
+#2	AnnotatorNotes T2	"C0027686", "Pathologic Neovascularization", "Pathologic Function", "DISO"

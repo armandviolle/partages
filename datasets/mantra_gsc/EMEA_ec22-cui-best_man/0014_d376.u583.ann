@@ -1,0 +1,8 @@
+T4	C1455147 0 9	Dasatinib
+#4	AnnotatorNotes T4	"C1455147", "dasatinib", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T5	C0008904 30 40	clastogène
+#5	AnnotatorNotes T5	"C0008904", "Clastogens", "Hazardous or Poisonous Substance" ,"CHEM"
+T6	C0085080 58 95	cellules d’ Ovaire de Hamster Chinois
+#6	AnnotatorNotes T6	"C0085080", "Chinese Hamster Ovary Cell", "Cell" ,"ANAT"
+T19	C0085080 58 69;97 100	cellules d’ OHC
+#19	AnnotatorNotes T19	"C0085080", "Chinese Hamster Ovary Cell", "Cell" ,"ANAT"

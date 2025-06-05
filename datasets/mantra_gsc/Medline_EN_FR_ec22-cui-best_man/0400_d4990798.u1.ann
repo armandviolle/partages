@@ -1,0 +1,14 @@
+T1	C0543467 44 66	traitement chirurgical
+#1	AnnotatorNotes T1	"C0543467", "Operative Surgical Procedures", "Diagnostic Procedure|Therapeutic or Preventive Procedure" ,"PROC"
+T2	C0008972 0 5	Etude
+#2	AnnotatorNotes T2	"C0008972", "Clinical Research", "Research Activity" ,"PROC"
+T3	C0026266 72 91	insuffisance itrale
+#3	AnnotatorNotes T3	"C0026266", "Mitral Valve Insufficiency", "Disease or Syndrome" ,"DISO"
+T4	C0396850 101 115	annuloplastie 
+#4	AnnotatorNotes T4	"C0396850", "Mitral Valve Annuloplasty", "Therapeutic or Preventive Procedure" ,"PROC"
+T5	C0396850 131 141	valvulaire
+#5	AnnotatorNotes T5	"C0396850", "Mitral Valve Annuloplasty", "Therapeutic or Preventive Procedure" ,"PROC"
+T6	C0026268 118 141	remplacement valvulaire
+#6	AnnotatorNotes T6	"C0026268", "Replacement of mitral valve (procedure)", "Therapeutic or Preventive Procedure" ,"PROC"
+T7	C0008976 0 5	Etude
+#7	AnnotatorNotes T7	"C0008976", "Clinical Trials", "Research Activity" ,"PROC"

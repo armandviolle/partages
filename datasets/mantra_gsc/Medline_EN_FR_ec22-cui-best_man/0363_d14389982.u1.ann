@@ -1,0 +1,4 @@
+T1	C0010799 16 31	cyto-diagnostic
+#1	AnnotatorNotes T1	"C0010799", "Cytodiagnosis", "Laboratory Procedure" ,"PROC"
+T2	C0751075 41 58	cancers digestifs
+#2	AnnotatorNotes T2	"C0751075", "Cancer of Digestive System", "Neoplastic Process" ,"DISO"

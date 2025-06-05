@@ -1,0 +1,6 @@
+T1	C0085639 4 10	chutes
+#1	AnnotatorNotes T1	"C0085639", "Falls", "Finding" ,"DISO"
+T2	C0001792 19 28	sujet âgé
+#2	AnnotatorNotes T2	"C0001792", "Elderly (population group)", "Population Group" ,"LIVB"
+T6	C1999167 19 28	sujet âgé
+#6	AnnotatorNotes T6	"C1999167", "Old age", "Finding", "DISO"

@@ -1,0 +1,10 @@
+T6	C0030705 74 82	patients
+#6	AnnotatorNotes T6	"C0030705", "Patients", "Patient or Disabled Group" ,"LIVB"
+T7	C0042866 132 142	vitamine D
+#7	AnnotatorNotes T7	"C0042866", "Vitamin D", "Organic Chemical|Pharmacologic Substance|Vitamin" ,"CHEM"
+T9	C0332293 83 94	traités par
+#9	AnnotatorNotes T9	"C0332293", "Treated with", "Therapeutic or Preventive Procedure" ,"PROC"
+T11	C0202159 6 17	taux de PTH
+#11	AnnotatorNotes T11	"C0202159", "Parathyroid hormone measurement", "Laboratory Procedure" ,"PROC"
+T36	C0558681 185 202	traitement arrêté
+#36	AnnotatorNotes T36	"C0558681", "Drug therapy discontinued", "Finding" ,"DISO"

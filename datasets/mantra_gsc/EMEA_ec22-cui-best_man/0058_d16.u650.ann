@@ -1,0 +1,12 @@
+T7	C0030705 0 8	Patients
+#7	AnnotatorNotes T7	"C0030705", "Patients", "Patient or Disabled Group" ,"LIVB"
+T8	C0006935 59 67	capsules
+#8	AnnotatorNotes T8	"C0006935", "capsule (pharmacologic)", "Biomedical or Dental Material" ,"CHEM"
+T9	C0754187 97 106	Agenerase
+#9	AnnotatorNotes T9	"C0754187", "Agenerase", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T10	C0599685 249 264	antirétroviraux
+#10	AnnotatorNotes T10	"C0599685", "Anti-Retroviral Agents", "Pharmacologic Substance" ,"CHEM"
+T11	C0221470 34 54	incapacité d’ avaler
+#11	AnnotatorNotes T11	"C0221470", "Aphagia", "Finding" ,"DISO"
+T12	C0991536 107 123	solution buvable
+#12	AnnotatorNotes T12	"C0991536", "Oral Solution", "Biomedical or Dental Material" ,"CHEM"

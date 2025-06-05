@@ -1,0 +1,12 @@
+T1	C0221166 0 11	Paraparésie
+#1	AnnotatorNotes T1	"C0221166", "Paraparesis", "Sign or Symptom" ,"DISO"
+T2	C0015967 12 19	fébrile
+#2	AnnotatorNotes T2	"C0015967", "Fever", "Finding" ,"DISO"
+T3	C0038012 41 51	spondylite
+#3	AnnotatorNotes T3	"C0038012", "Spondylitis", "Disease or Syndrome" ,"DISO"
+T4	C0424755 12 19	fébrile
+#4	AnnotatorNotes T4	"C0424755", "Fever symptoms (finding)", "Finding" ,"DISO"
+T5	C0010415 54 65	cryptocoque
+#5	AnnotatorNotes T5	"C0010415", "Cryptococcus", "Fungus" ,"LIVB"
+T6	C0444534 71 90	atteinte médullaire
+#6	AnnotatorNotes T6	"C0444534", "Spinal involvement", "Body Location or Region" ,"ANAT"

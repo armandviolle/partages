@@ -1,0 +1,6 @@
+T4	C0439861 68 78	substances
+#4	AnnotatorNotes T4	"C0439861", "Substance", "Substance" ,"OBJC"
+T5	C0012544 88 103	bisphosphonates
+#5	AnnotatorNotes T5	"C0012544", "Diphosphonates", "Organophosphorus Compound|Pharmacologic Substance" ,"CHEM"
+T6	C0257685 3 21	acide zolédronique
+#6	AnnotatorNotes T6	"C0257685", "zoledronic acid", "Pharmacologic Substance" ,"CHEM"

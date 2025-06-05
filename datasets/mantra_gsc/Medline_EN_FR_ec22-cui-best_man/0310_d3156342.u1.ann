@@ -1,0 +1,6 @@
+T1	C0019270 57 63	hernie
+#1	AnnotatorNotes T1	"C0019270", "Hernia", "Anatomical Abnormality" ,"DISO"
+T2	C1305352 76 96	conjugaison lombaire
+#2	AnnotatorNotes T2	"C1305352", "Entire intervertebral foramen of lumbar vertebra", "Body Space or Junction" ,"ANAT"
+T4	C0423709 4 14	cruralgies
+#4	AnnotatorNotes T4	"C0423709", "Cruralgia", "Sign or Symptom" ,"DISO"

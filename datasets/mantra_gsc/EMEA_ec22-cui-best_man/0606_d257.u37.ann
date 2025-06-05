@@ -1,0 +1,16 @@
+T8	C1614702 0 9	Naglazyme
+#8	AnnotatorNotes T8	"C1614702", "Naglazyme", "Amino Acid Peptide or Protein|Pharmacologic Substance|Enzyme" ,"CHEM"
+T9	C0027361 44 53	personnes
+#9	AnnotatorNotes T9	"C0027361", "Persons", "Population Group" ,"LIVB"
+T10	C0020517 76 92	hypersensibilité
+#10	AnnotatorNotes T10	"C0020517", "Hypersensitivity", "Pathologic Function" ,"DISO"
+T11	C0020517 94 102	allergie
+#11	AnnotatorNotes T11	"C0020517", "Hypersensitivity", "Pathologic Function" ,"DISO"
+T12	C1615657 107 117	galsulfase
+#12	AnnotatorNotes T12	"C1615657", "galsulfase", "Amino Acid Peptide or Protein|Pharmacologic Substance|Enzyme" ,"CHEM"
+T36	C0013182 76 92	hypersensibilité
+#36	AnnotatorNotes T36	"C0013182", "Drug Allergy", "Disease or Syndrome" ,"DISO"
+T37	C0013182 94 102	allergie
+#37	AnnotatorNotes T37	"C0013182", "Drug Allergy", "Disease or Syndrome" ,"DISO"
+T38	C0729650 134 143	composant
+#38	AnnotatorNotes T38	"C0729650", "Constituents", "Substance" ,"OBJC"

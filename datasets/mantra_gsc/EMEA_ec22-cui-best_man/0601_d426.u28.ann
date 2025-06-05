@@ -1,0 +1,8 @@
+T6	C0008972 6 11	étude
+#6	AnnotatorNotes T6	"C0008972", "Clinical Research", "Research Activity" ,"PROC"
+T7	C0008976 6 11	étude
+#7	AnnotatorNotes T7	"C0008976", "Clinical Trials", "Research Activity" ,"PROC"
+T8	C0671970 69 81	capécitabine
+#8	AnnotatorNotes T8	"C0671970", "capecitabine", "Nucleic Acid Nucleoside or Nucleotide|Pharmacologic Substance" ,"CHEM"
+T9	C0671970 99 111	capécitabine
+#9	AnnotatorNotes T9	"C0671970", "capecitabine", "Nucleic Acid Nucleoside or Nucleotide|Pharmacologic Substance" ,"CHEM"

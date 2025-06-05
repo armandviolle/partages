@@ -1,0 +1,10 @@
+T5	C0567416 59 67	molécule
+#5	AnnotatorNotes T5	"C0567416", "Molecule", "Substance" ,"OBJC"
+T6	C0567416 272 280	molécule
+#6	AnnotatorNotes T6	"C0567416", "Molecule", "Substance" ,"OBJC"
+T7	C0030956 218 228	peptidique
+#7	AnnotatorNotes T7	"C0030956", "Peptides", "Amino Acid Peptide or Protein" ,"CHEM"
+T8	C0030956 435 445	peptidique
+#8	AnnotatorNotes T8	"C0030956", "Peptides", "Amino Acid Peptide or Protein" ,"CHEM"
+T14	C0243176 0 11	Composition
+#14	AnnotatorNotes T14	"C0243176", "chemical composition", "Natural Phenomenon or Process" ,"PHEN"

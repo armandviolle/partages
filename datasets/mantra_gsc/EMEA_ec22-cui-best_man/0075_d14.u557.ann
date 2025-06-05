@@ -1,0 +1,8 @@
+T5	C1101146 0 6	Aerius
+#5	AnnotatorNotes T5	"C1101146", "Clarinex", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T6	C0039225 167 176	comprimés
+#6	AnnotatorNotes T6	"C0039225", "Tablet Dosage Form", "Biomedical or Dental Material" ,"CHEM"
+T7	C1273643 12 32	comprimés pelliculés
+#7	AnnotatorNotes T7	"C1273643", "Film-coated tablet", "Biomedical or Dental Material" ,"CHEM"
+T22	C1319688 82 95	thermoformées
+#22	AnnotatorNotes T22	"C1319688", "Blister dose form", "Biomedical or Dental Material" ,"CHEM"

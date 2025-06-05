@@ -1,0 +1,6 @@
+T1	C0008551 3 29	chromatographie d'affinité
+#1	AnnotatorNotes T1	"C0008551", "Chromatography, Affinity", "Laboratory Procedure" ,"PROC"
+T2	C0567416 85 94	molécules
+#2	AnnotatorNotes T2	"C0567416", "Molecule", "Substance" ,"OBJC"
+T3	C0022189 33 42	épuration
+#3	AnnotatorNotes T3	"C0022189", "isolation & purification analysis", "Laboratory Procedure|Research Activity" ,"PROC"

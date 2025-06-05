@@ -1,0 +1,14 @@
+T10	C0007009 82 89	carbone
+#10	AnnotatorNotes T10	"C0007009", "Carbon", "Element Ion or Isotope" ,"CHEM"
+T11	C0019398 149 161	hétérocycles
+#11	AnnotatorNotes T11	"C0019398", "Heterocyclic Compounds", "Organic Chemical" ,"CHEM"
+T12	C0567415 73 78	atome
+#12	AnnotatorNotes T12	"C0567415", "Atom (substance)", "Element Ion or Isotope" ,"CHEM"
+T13	C0043896 179 195	1,3-benzodioxole
+#13	AnnotatorNotes T13	"C0043896", "1,3-benzodioxole", "Organic Chemical" ,"CHEM"
+T14	C0005068 200 211	benzofurane
+#14	AnnotatorNotes T14	"C0005068", "Benzofurans", "Organic Chemical" ,"CHEM"
+T22	C0005068 227 238	benzofurane
+#22	AnnotatorNotes T22	"C0005068", "Benzofurans", "Organic Chemical" ,"CHEM"
+T23	C0008542 250 268	dihydrobenzopyrane
+#23	AnnotatorNotes T23	"C0008542", "Chromans", "Organic Chemical" ,"CHEM"

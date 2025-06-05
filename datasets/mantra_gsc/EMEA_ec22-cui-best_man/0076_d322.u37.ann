@@ -1,0 +1,42 @@
+T17	C0877248 10 29	effets indésirables
+#17	AnnotatorNotes T17	"C0877248", "Adverse event", "Finding" ,"DISO"
+T18	C0015967 48 54	fièvre
+#18	AnnotatorNotes T18	"C0015967", "Fever", "Finding" ,"DISO"
+T19	C0003123 56 64	anorexie
+#19	AnnotatorNotes T19	"C0003123", "Anorexia", "Disease or Syndrome" ,"DISO"
+T20	C0011991 99 107	diarrhée
+#20	AnnotatorNotes T20	"C0011991", "Diarrhea", "Sign or Symptom" ,"DISO"
+T21	C0022107 109 121	irritabilité
+#21	AnnotatorNotes T21	"C0022107", "Irritable Mood", "Finding" ,"DISO"
+T22	C2830004 123 133	somnolence
+#22	AnnotatorNotes T22	"C2830004", "Somnolence", "Finding" ,"DISO"
+T23	C2830004 135 149	endormissement
+#23	AnnotatorNotes T23	"C2830004", "Somnolence", "Finding" ,"DISO"
+T24	C0424109 152 158	pleurs
+#24	AnnotatorNotes T24	"C0424109", "Weepiness", "Finding" ,"DISO"
+T25	C0029882 222 235	otite moyenne
+#25	AnnotatorNotes T25	"C0029882", "Otitis Media", "Disease or Syndrome" ,"DISO"
+T26	C0426579 66 82	perte d’ appétit
+#26	AnnotatorNotes T26	"C0426579", "Anorexia symptom", "Sign or Symptom" ,"DISO"
+T27	C1971624 66 82	perte d’ appétit
+#27	AnnotatorNotes T27	"C1971624", "Loss of appetite (finding)", "Finding|Disease or Syndrome" ,"DISO"
+T28	C0042963 85 97	vomissements
+#28	AnnotatorNotes T28	"C0042963", "Vomiting", "Sign or Symptom" ,"DISO"
+T29	C0424755 48 54	fièvre
+#29	AnnotatorNotes T29	"C0424755", "Fever symptoms (finding)", "Finding" ,"DISO"
+T30	C0013144 123 133	somnolence
+#30	AnnotatorNotes T30	"C0013144", "Drowsiness", "Finding" ,"DISO"
+T31	C0013144 135 149	endormissement
+#31	AnnotatorNotes T31	"C0013144", "Drowsiness", "Finding" ,"DISO"
+T32	C2827407 222 235	otite moyenne
+#32	AnnotatorNotes T32	"C2827407", "Infectious Otitis Media", "Disease or Syndrome" ,"DISO"
+T33	C0041755 10 29	effets indésirables
+#33	AnnotatorNotes T33	"C0041755", "Adverse reaction to drug", "Injury or Poisoning" ,"DISO"
+T34	C0559546 10 29	effets indésirables
+#34	AnnotatorNotes T34	"C0559546", "Adverse reactions", "Finding" ,"DISO"
+T35	C0152227 169 185	crises de larmes
+#35	AnnotatorNotes T35	"C0152227", "Excessive tearing", "Disease or Syndrome" ,"DISO"
+T37	C0029882 237 268	infection de l’ oreille moyenne
+#37	AnnotatorNotes T37	"C0029882", "Otitis Media", "Disease or Syndrome" ,"DISO"
+T38	C2827407 237 268	infection de l’ oreille moyenne
+#38	AnnotatorNotes T38	"C2827407", "Infectious Otitis Media", "Disease or Syndrome" ,"DISO"

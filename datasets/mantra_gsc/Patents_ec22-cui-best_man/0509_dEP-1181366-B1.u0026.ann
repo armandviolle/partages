@@ -1,0 +1,6 @@
+T4	C0003241 203 212	anticorps
+#4	AnnotatorNotes T4	"C0003241", "Antibodies", "Amino Acid Peptide or Protein|Immunologic Factor" ,"CHEM"
+T5	C0524527 0 26	Formulation pharmaceutique
+#5	AnnotatorNotes T5	"C0524527", "Drug Formulation Process", "Research Activity" ,"PROC"
+T6	C0013058 0 26	Formulation pharmaceutique
+#6	AnnotatorNotes T6	"C0013058", "Dosage Forms", "Biomedical or Dental Material" ,"CHEM"

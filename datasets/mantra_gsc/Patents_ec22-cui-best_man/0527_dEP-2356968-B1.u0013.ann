@@ -1,0 +1,40 @@
+T21	C1123023 37 41	peau
+#21	AnnotatorNotes T21	"C1123023", "Skin", "Body System" ,"ANAT"
+T22	C1123023 190 194	peau
+#22	AnnotatorNotes T22	"C1123023", "Skin", "Body System" ,"ANAT"
+T23	C1123023 213 217	peau
+#23	AnnotatorNotes T23	"C1123023", "Skin", "Body System" ,"ANAT"
+T24	C1123023 284 288	peau
+#24	AnnotatorNotes T24	"C1123023", "Skin", "Body System" ,"ANAT"
+T25	C1123023 454 458	peau
+#25	AnnotatorNotes T25	"C1123023", "Skin", "Body System" ,"ANAT"
+T26	C1123023 533 537	peau
+#26	AnnotatorNotes T26	"C1123023", "Skin", "Body System" ,"ANAT"
+T27	C0304647 105 116	dépilatoire
+#27	AnnotatorNotes T27	"C0304647", "Depilatory agent", "Substance" ,"OBJC"
+T28	C0304647 253 264	dépilatoire
+#28	AnnotatorNotes T28	"C0304647", "Depilatory agent", "Substance" ,"OBJC"
+T29	C0304647 422 433	dépilatoire
+#29	AnnotatorNotes T29	"C0304647", "Depilatory agent", "Substance" ,"OBJC"
+T30	C0304647 574 585	dépilatoire
+#30	AnnotatorNotes T30	"C0304647", "Depilatory agent", "Substance" ,"OBJC"
+T31	C0018504 10 30	élimination de poils
+#31	AnnotatorNotes T31	"C0018504", "General hair removal - epilation", "Therapeutic or Preventive Procedure" ,"PROC"
+T32	C1278993 37 41	peau
+#32	AnnotatorNotes T32	"C1278993", "Entire skin", "Body System" ,"ANAT"
+T33	C1278993 190 194	peau
+#33	AnnotatorNotes T33	"C1278993", "Entire skin", "Body System" ,"ANAT"
+T34	C1278993 213 217	peau
+#34	AnnotatorNotes T34	"C1278993", "Entire skin", "Body System" ,"ANAT"
+T35	C1278993 284 288	peau
+#35	AnnotatorNotes T35	"C1278993", "Entire skin", "Body System" ,"ANAT"
+T36	C1278993 454 458	peau
+#36	AnnotatorNotes T36	"C1278993", "Entire skin", "Body System" ,"ANAT"
+T37	C1278993 533 537	peau
+#37	AnnotatorNotes T37	"C1278993", "Entire skin", "Body System" ,"ANAT"
+T38	C0086418 218 225	humaine
+#38	AnnotatorNotes T38	"C0086418", "Homo sapiens", "Human" ,"LIVB"
+T39	C0184933 490 496	racler
+#39	AnnotatorNotes T39	"C0184933", "Scraping", "Therapeutic or Preventive Procedure" ,"PROC"
+T40	C0185125 592 600	appliqué
+#40	AnnotatorNotes T40	"C0185125", "Application procedure", "Health Care Activity" ,"PROC"

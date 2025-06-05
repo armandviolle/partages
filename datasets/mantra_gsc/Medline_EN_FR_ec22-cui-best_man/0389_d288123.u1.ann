@@ -1,0 +1,4 @@
+T1	C0010482 37 43	canine
+#1	AnnotatorNotes T1	"C0010482", "Cuspid", "Body Part Organ or Organ Component" ,"ANAT"
+T2	C0031843 17 30	physiologique
+#2	AnnotatorNotes T2	"C0031843", "physiological aspects", "Physiologic Function" ,"PHYS"

@@ -1,0 +1,6 @@
+T4	C0074710 26 37	Pramipexole
+#4	AnnotatorNotes T4	"C0074710", "Pramipexole", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T5	C1623040 51 59	allaitez
+#5	AnnotatorNotes T5	"C1623040", "Breastfeeding (mother)", "Finding" ,"DISO"
+T6	C0006147 51 59	allaitez
+#6	AnnotatorNotes T6	"C0006147", "Breast Feeding", "Organism Function" ,"PHYS"

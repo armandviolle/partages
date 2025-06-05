@@ -1,0 +1,14 @@
+T9	C0549206 13 21	enceinte
+#9	AnnotatorNotes T9	"C0549206", "Patient currently pregnant", "Finding" ,"DISO"
+T10	C0549206 54 62	enceinte
+#10	AnnotatorNotes T10	"C0549206", "Patient currently pregnant", "Finding" ,"DISO"
+T11	C1174747 137 144	Iscover
+#11	AnnotatorNotes T11	"C1174747", "Iscover", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T12	C0031831 92 99	médecin
+#12	AnnotatorNotes T12	"C0031831", "Physicians", "Professional or Occupational Group" ,"LIVB"
+T13	C0031323 109 119	pharmacien
+#13	AnnotatorNotes T13	"C0031323", "Pharmacist", "Professional or Occupational Group" ,"LIVB"
+T37	C0032961 13 21	enceinte
+#37	AnnotatorNotes T37	"C0032961", "Pregnancy", "Organism Function" ,"PHYS"
+T17	C0032961 54 62	enceinte
+#17	AnnotatorNotes T17	"C0032961", "Pregnancy", "Organism Function" ,"PHYS"

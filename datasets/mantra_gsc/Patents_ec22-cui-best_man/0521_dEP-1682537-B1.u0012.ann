@@ -1,0 +1,134 @@
+T67	C0039194 154 167	lymphocytes T
+#67	AnnotatorNotes T67	"C0039194", "T-Lymphocyte", "Cell" ,"ANAT"
+T68	C0039194 570 583	lymphocytes T
+#68	AnnotatorNotes T68	"C0039194", "T-Lymphocyte", "Cell" ,"ANAT"
+T69	C0039194 1175 1192	des lymphocytes T
+#69	AnnotatorNotes T69	"C0039194", "T-Lymphocyte", "Cell" ,"ANAT"
+T70	C0033860 227 236	psoriasis
+#70	AnnotatorNotes T70	"C0033860", "Psoriasis", "Disease or Syndrome" ,"DISO"
+T71	C0021390 266 303	maladies inflammatoires de l'intestin
+#71	AnnotatorNotes T71	"C0021390", "Inflammatory Bowel Diseases", "Disease or Syndrome" ,"DISO"
+T72	C0011603 409 418	dermatite
+#72	AnnotatorNotes T72	"C0011603", "Dermatitis", "Disease or Syndrome" ,"DISO"
+T73	C0014038 436 447	encéphalite
+#73	AnnotatorNotes T73	"C0014038", "Encephalitis", "Disease or Syndrome" ,"DISO"
+T74	C0013595 492 498	eczéma
+#74	AnnotatorNotes T74	"C0013595", "Eczema", "Disease or Syndrome" ,"DISO"
+T75	C0004096 502 510	l'asthme
+#75	AnnotatorNotes T75	"C0004096", "Asthma", "Disease or Syndrome" ,"DISO"
+T77	C0012634 524 532	maladies
+#77	AnnotatorNotes T77	"C0012634", "Disease", "Disease or Syndrome" ,"DISO"
+T78	C0012634 1333 1341	maladies
+#78	AnnotatorNotes T78	"C0012634", "Disease", "Disease or Syndrome" ,"DISO"
+T79	C0012634 1572 1580	maladies
+#79	AnnotatorNotes T79	"C0012634", "Disease", "Disease or Syndrome" ,"DISO"
+T80	C0004364 767 788	maladies auto-immunes
+#80	AnnotatorNotes T80	"C0004364", "Autoimmune Diseases", "Disease or Syndrome" ,"DISO"
+T81	C0011849 868 884	le diabète sucré
+#81	AnnotatorNotes T81	"C0011849", "Diabetes Mellitus", "Disease or Syndrome" ,"DISO"
+T83	C0014072 963 1005	encéphalomyélite auto-immune expérimentale
+#83	AnnotatorNotes T83	"C0014072", "Experimental Autoimmune Encephalomyelitis", "Experimental Model of Disease" ,"DISO"
+T84	C0011854 1031 1051	le diabète de type 1
+#84	AnnotatorNotes T84	"C0011854", "Diabetes Mellitus, Insulin-Dependent", "Disease or Syndrome" ,"DISO"
+T85	C0011854 1056 1072	diabète juvénile
+#85	AnnotatorNotes T85	"C0011854", "Diabetes Mellitus, Insulin-Dependent", "Disease or Syndrome" ,"DISO"
+T86	C0020522 1120 1145	hypersensibilité retardée
+#86	AnnotatorNotes T86	"C0020522", "Delayed Hypersensitivity", "Pathologic Function" ,"DISO"
+T87	C0079189 1162 1171	cytokines
+#87	AnnotatorNotes T87	"C0079189", "cytokine", "Amino Acid Peptide or Protein|Immunologic Factor" ,"CHEM"
+T88	C0041296 1225 1239	la tuberculose
+#88	AnnotatorNotes T88	"C0041296", "Tuberculosis", "Disease or Syndrome" ,"DISO"
+T89	C0036202 1244 1254	sarcoïdose
+#89	AnnotatorNotes T89	"C0036202", "Sarcoidosis", "Disease or Syndrome" ,"DISO"
+T90	C0085655 1259 1270	polymyosite
+#90	AnnotatorNotes T90	"C0085655", "Polymyositis", "Disease or Syndrome" ,"DISO"
+T91	C0042384 1296 1305	vasculite
+#91	AnnotatorNotes T91	"C0042384", "Vasculitis", "Disease or Syndrome" ,"DISO"
+T92	C0002892 1307 1327	l'anémie pernicieuse
+#92	AnnotatorNotes T92	"C0002892", "Anemia, Pernicious", "Disease or Syndrome" ,"DISO"
+T93	C0277921 1364 1373	diapédèse
+#93	AnnotatorNotes T93	"C0277921", "Diapedesis", "Cell Function" ,"PHYS"
+T94	C0036690 1483 1493	septicémie
+#94	AnnotatorNotes T94	"C0036690", "Septicemia", "Disease or Syndrome" ,"DISO"
+T95	C0043251 1500 1511	traumatisme
+#95	AnnotatorNotes T95	"C0043251", "Wounds and Injuries", "Injury or Poisoning" ,"DISO"
+T96	C0002880 1513 1545	l'anémie hémolytique auto-immune
+#96	AnnotatorNotes T96	"C0002880", "Autoimmune hemolytic anemia", "Disease or Syndrome" ,"DISO"
+T97	C0026896 1547 1566	la myasthénie grave
+#97	AnnotatorNotes T97	"C0026896", "Myasthenia Gravis", "Disease or Syndrome" ,"DISO"
+T98	C0040732 1646 1662	transplantations
+#98	AnnotatorNotes T98	"C0040732", "Transplantation", "Therapeutic or Preventive Procedure" ,"PROC"
+T99	C0018133 1675 1710	la maladie du greffon contre l'hôte
+#99	AnnotatorNotes T99	"C0018133", "Graft-vs-Host Disease", "Disease or Syndrome" ,"DISO"
+T100	C0018133 1717 1752	maladie de l'hôte contre le greffon
+#100	AnnotatorNotes T100	"C0018133", "Graft-vs-Host Disease", "Disease or Syndrome" ,"DISO"
+T101	C0851444 463 483	maladies allergiques
+#101	AnnotatorNotes T101	"C0851444", "Allergic conditions", "Disease or Syndrome" ,"DISO"
+T102	C0332448 554 566	infiltration
+#102	AnnotatorNotes T102	"C0332448", "Infiltration", "Pathologic Function" ,"DISO"
+T103	C0585186 644 671	hypersensibilité de la peau
+#103	AnnotatorNotes T103	"C0585186", "Cutaneous hypersensitivity", "Disease or Syndrome" ,"DISO"
+T104	C0020517 632 660	réactions d'hypersensibilité
+#104	AnnotatorNotes T104	"C0020517", "Hypersensitivity", "Pathologic Function" ,"DISO"
+T105	C0272187 724 761	insuffisance d'adhérence leucocytaire
+#105	AnnotatorNotes T105	"C0272187", "Congenital leukocyte adherence deficiency", "Disease or Syndrome" ,"DISO"
+T107	C0026769 889 908	sclérose en plaques
+#107	AnnotatorNotes T107	"C0026769", "Multiple Sclerosis", "Disease or Syndrome" ,"DISO"
+T108	C0301872 1081 1103	réactions immunitaires
+#108	AnnotatorNotes T108	"C0301872", "Immune response", "Organ or Tissue Function" ,"PHYS"
+T109	C0521173 1275 1288	granulomatose
+#109	AnnotatorNotes T109	"C0521173", "Granulomatosis", "Disease or Syndrome" ,"DISO"
+T110	C0023516 1374 1386	leucocytaire
+#110	AnnotatorNotes T110	"C0023516", "Leukocytes", "Cell" ,"ANAT"
+T113	C0043250 1500 1511	traumatisme
+#113	AnnotatorNotes T113	"C0043250", "Injury wounds", "Injury or Poisoning" ,"DISO"
+T114	C3263723 1500 1511	traumatisme
+#114	AnnotatorNotes T114	"C3263723", "Traumatic injury", "Injury or Poisoning" ,"DISO"
+T115	C2939434 1596 1623	complexe antigène-anticorps
+#115	AnnotatorNotes T115	"C2939434", "Antigen-antibody complex", "Amino Acid Peptide or Protein|Immunologic Factor" ,"CHEM"
+T116	C0042164 451 457	uvéite
+#116	AnnotatorNotes T116	"C0042164", "Uveitis", "Disease or Syndrome" ,"DISO"
+T117	C0026766 1427 1465	syndrome de défaillance multiviscérale
+#117	AnnotatorNotes T117	"C0026766", "Multiple Organ Failure", "Pathologic Function" ,"DISO"
+T118	C0003313 1596 1623	complexe antigène-anticorps
+#118	AnnotatorNotes T118	"C0003313", "Immune complex", "Amino Acid Peptide or Protein|Immunologic Factor" ,"CHEM"
+T119	C0684339 687 701	sumac vénéneux
+#119	AnnotatorNotes T119	"C0684339", "Rhus radicans", "Plant" ,"LIVB"
+T120	C0677607 937 959	thyroïdite auto-immune
+#120	AnnotatorNotes T120	"C0677607", "Hashimoto Disease", "Disease or Syndrome" ,"DISO"
+T121	C1510467 1500 1511	traumatisme
+#121	AnnotatorNotes T121	"C1510467", "trauma qualifier", "Injury or Poisoning" ,"DISO"
+T122	C0037274 178 186;202 212	maladies de la peau
+#122	AnnotatorNotes T122	"C0037274", "Dermatologic disorders", "Disease or Syndrome" ,"DISO"
+T123	C0010346 314 330	maladie de Crohn
+#123	AnnotatorNotes T123	"C0010346", "Crohn Disease", "Disease or Syndrome" ,"DISO"
+T124	C0009324 337 353	colite ulcéreuse
+#124	AnnotatorNotes T124	"C0009324", "Ulcerative Colitis", "Disease or Syndrome" ,"DISO"
+T125	C0035222 359 404	syndrome de détresse respiratoire de l'adulte
+#125	AnnotatorNotes T125	"C0035222", "Respiratory Distress Syndrome, Adult", "Disease or Syndrome" ,"DISO"
+T126	C0025289 423 432	méningite
+#126	AnnotatorNotes T126	"C0025289", "Meningitis", "Disease or Syndrome" ,"DISO"
+T127	C0004153 706 720	athérosclérose
+#127	AnnotatorNotes T127	"C0004153", "Atherosclerosis", "Disease or Syndrome" ,"DISO"
+T128	C0003873 798 821	polyarthrite rhumatoïde
+#128	AnnotatorNotes T128	"C0003873", "Rheumatoid Arthritis", "Disease or Syndrome" ,"DISO"
+T197	C0021376 591 626	réactions inflammatoires chroniques
+#197	AnnotatorNotes T197	"C0021376", "Chronic inflammation", "Pathologic Function" ,"DISO"
+T198	C0034734 913 932	syndrome de Reynaud
+#198	AnnotatorNotes T198	"C0034734", "Raynaud Disease", "Disease or Syndrome" ,"DISO"
+T199	C0920350 937 959	thyroïdite auto-immune
+#199	AnnotatorNotes T199	"C0920350", "Autoimmune thyroiditis", "Disease or Syndrome" ,"DISO"
+T200	C1527336 1010 1029	syndrome de Sjorgen
+#200	AnnotatorNotes T200	"C1527336", "Sjogren's Syndrome", "Disease or Syndrome" ,"DISO"
+T201	C0740451 1275 1288	granulomatose
+#201	AnnotatorNotes T201	"C0740451", "Granulomatous disorder", "Disease or Syndrome" ,"DISO"
+T202	C0178264 1392 1422	troubles inflammatoires du SNC
+#202	AnnotatorNotes T202	"C0178264", "Inflammatory disease of the central nervous system", "Disease or Syndrome" ,"DISO"
+T206	C0021053 60 79	trouble immunitaire
+#206	AnnotatorNotes T206	"C0021053", "Immune System Diseases", "Disease or Syndrome" ,"DISO"
+T76	C0021368 60 67;83 96	trouble inflammatoire
+#76	AnnotatorNotes T76	"C0021368", "Inflammation", "Pathologic Function", "DISO"
+T106	C0024141 826 859	lupus érythémateux aigu disséminé
+#106	AnnotatorNotes T106	"C0024141", "Lupus Erythematosus, Systemic", "Disease or Syndrome" ,"DISO"
+T112	C0024141 861 865	LEAD
+#112	AnnotatorNotes T112	"C0024141", "Lupus Erythematosus, Systemic", "Disease or Syndrome" ,"DISO"

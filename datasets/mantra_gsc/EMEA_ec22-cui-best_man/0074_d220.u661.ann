@@ -1,0 +1,6 @@
+T5	C0015672 81 88	fatigue
+#5	AnnotatorNotes T5	"C0015672", "Fatigue", "Sign or Symptom" ,"DISO"
+T6	C0013404 92 105	essoufflement
+#6	AnnotatorNotes T6	"C0013404", "Dyspnea", "Sign or Symptom" ,"DISO"
+T19	C0302085 4 42	réduction du nombre de globules rouges
+#19	AnnotatorNotes T19	"C0302085", "Decreased erythrocyte production", "Pathologic Function" ,"DISO"

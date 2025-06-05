@@ -1,0 +1,8 @@
+T5	C0087111 3 13	traitement
+#5	AnnotatorNotes T5	"C0087111", "Therapeutic procedure", "Therapeutic or Preventive Procedure" ,"PROC"
+T6	C0006935 44 51	gélules
+#6	AnnotatorNotes T6	"C0006935", "capsule (pharmacologic)", "Biomedical or Dental Material" ,"CHEM"
+T7	C0392806 119 152	chirurgie pour prothèse de hanche
+#7	AnnotatorNotes T7	"C0392806", "Hip Replacement Arthroplasty (procedure)", "Therapeutic or Preventive Procedure" ,"PROC"
+T8	C0086511 179 211	chirurgie pour prothèse de genou
+#8	AnnotatorNotes T8	"C0086511", "Knee Replacement Arthroplasty (procedure)", "Therapeutic or Preventive Procedure" ,"PROC"

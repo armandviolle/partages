@@ -1,0 +1,4 @@
+T4	C0013227 0 26	Composition pharmaceutique
+#4	AnnotatorNotes T4	"C0013227", "Pharmaceutical Preparations", "Pharmacologic Substance" ,"CHEM"
+T5	C0036140 176 179	sel
+#5	AnnotatorNotes T5	"C0036140", "Salts", "Chemical Viewed Structurally" ,"CHEM"

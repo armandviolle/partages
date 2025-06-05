@@ -1,0 +1,10 @@
+T6	C0024141 11 16	lupus
+#6	AnnotatorNotes T6	"C0024141", "Lupus Erythematosus, Systemic", "Disease or Syndrome" ,"DISO"
+T7	C0024131 11 16	lupus
+#7	AnnotatorNotes T7	"C0024131", "Lupus Vulgaris", "Disease or Syndrome" ,"DISO"
+T8	C0409974 11 16	lupus
+#8	AnnotatorNotes T8	"C0409974", "Lupus Erythematosus", "Disease or Syndrome" ,"DISO"
+T9	C0024138 11 16	lupus
+#9	AnnotatorNotes T9	"C0024138", "Lupus Erythematosus, Discoid", "Disease or Syndrome" ,"DISO"
+T10	C0919715 23 43	syndromes type lupus
+#10	AnnotatorNotes T10	"C0919715", "Lupus-like syndrome", "Disease or Syndrome" ,"DISO"

@@ -1,0 +1,18 @@
+T13	C0030705 9 17	patients
+#13	AnnotatorNotes T13	"C0030705", "Patients", "Patient or Disabled Group" ,"LIVB"
+T14	C0007115 30 51	cancer de la thyroïde
+#14	AnnotatorNotes T14	"C0007115", "Malignant neoplasm of thyroid", "Neoplastic Process" ,"DISO"
+T15	C0549473 30 51	cancer de la thyroïde
+#15	AnnotatorNotes T15	"C0549473", "Thyroid carcinoma", "Neoplastic Process" ,"DISO"
+T16	C0018270 88 98	croissance
+#16	AnnotatorNotes T16	"C0018270", "Growth", "Organism Function" ,"PHYS"
+T17	C0040135 130 152	hormones thyroïdiennes
+#17	AnnotatorNotes T17	"C0040135", "Thyroid Hormones", "Amino Acid Peptide or Protein|Hormone" ,"CHEM"
+T19	C0040160 281 284	TSH
+#19	AnnotatorNotes T19	"C0040160", "Thyrotropin", "Amino Acid Peptide or Protein|Pharmacologic Substance|Hormone" ,"CHEM"
+T21	C0027651 99 107	tumorale
+#21	AnnotatorNotes T21	"C0027651", "Neoplasms", "Neoplastic Process" ,"DISO"
+T22	C0430022 162 186	procédures diagnostiques
+#22	AnnotatorNotes T22	"C0430022", "diagnostic procedure", "Diagnostic Procedure" ,"PROC"
+T33	C0586553 210 219;230 279	élévation de la concentration circulante de thyréostimuline
+#33	AnnotatorNotes T33	"C0586553", "Raised TSH level", "Finding" ,"DISO"

@@ -1,0 +1,16 @@
+T10	C0334094 158 171	prolifération
+#10	AnnotatorNotes T10	"C0334094", "Proliferation (morphologic abnormality)", "Pathologic Function" ,"DISO"
+T11	C0007634 175 183	cellules
+#11	AnnotatorNotes T11	"C0007634", "Cells", "Cell" ,"ANAT"
+T12	C0450442 92 97	agent
+#12	AnnotatorNotes T12	"C0450442", "Agent", "Chemical Viewed Functionally" ,"CHEM"
+T13	C1269647 175 183	cellules
+#13	AnnotatorNotes T13	"C1269647", "Entire cell", "Cell" ,"ANAT"
+T14	C0012634 147 154	trouble
+#14	AnnotatorNotes T14	"C0012634", "Disease", "Disease or Syndrome" ,"DISO"
+T15	C0071253 207 224	récepteur du PDGF
+#15	AnnotatorNotes T15	"C0071253", "Receptors, Platelet-Derived Growth Factor", "CHEM" ,"Amino Acid, Peptide, or Protein|Enzyme|Receptor"
+T17	C0012634 192 199	trouble
+#17	AnnotatorNotes T17	"C0012634", "Disease", "Disease or Syndrome" ,"DISO"
+T26	C0087111 131 141	traitement
+#26	AnnotatorNotes T26	"C0087111", "Therapeutic procedure", "Therapeutic or Preventive Procedure" ,"PROC"

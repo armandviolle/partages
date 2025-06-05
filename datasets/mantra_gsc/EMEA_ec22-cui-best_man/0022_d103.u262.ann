@@ -1,0 +1,6 @@
+T5	C0525069 8 16	solution
+#5	AnnotatorNotes T5	"C0525069", "Pharmaceutical Solutions", "Biomedical or Dental Material" ,"CHEM"
+T8	C0087093 90 108	maléate de timolol
+#8	AnnotatorNotes T8	"C0087093", "Timolol Maleate", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T20	C1828363 45 58;67 74	travoprost et timolol
+#20	AnnotatorNotes T20	"C1828363", "Timolol + travoprost", "Organic Chemical|Pharmacologic Substance" ,"CHEM"

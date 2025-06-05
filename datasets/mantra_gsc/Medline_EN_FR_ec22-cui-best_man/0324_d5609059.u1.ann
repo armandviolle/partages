@@ -1,0 +1,6 @@
+T1	C0038446 72 84	cortex strié
+#1	AnnotatorNotes T1	"C0038446", "Area striata structure", "Body Part Organ or Organ Component" ,"ANAT"
+T2	C0012984 93 98	chien
+#2	AnnotatorNotes T2	"C0012984", "Canis familiaris", "Mammal" ,"LIVB"
+T3	C2239178 99 109	nouveau-né
+#3	AnnotatorNotes T3	"C2239178", "Newborn (finding)", "Finding" ,"DISO"

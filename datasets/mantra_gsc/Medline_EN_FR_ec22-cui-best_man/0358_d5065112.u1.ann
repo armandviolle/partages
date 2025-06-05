@@ -1,0 +1,6 @@
+T1	C0013922 0 8	Embolies
+#1	AnnotatorNotes T1	"C0013922", "Embolism", "Pathologic Function" ,"DISO"
+T2	C0015236 20 42	exsanguino-transfusion
+#2	AnnotatorNotes T2	"C0015236", "Whole Blood Exchange Transfusion", "Therapeutic or Preventive Procedure" ,"PROC"
+T3	C0700287 44 51	Rapport
+#3	AnnotatorNotes T3	"C0700287", "Reporting", "Health Care Activity" ,"PROC"

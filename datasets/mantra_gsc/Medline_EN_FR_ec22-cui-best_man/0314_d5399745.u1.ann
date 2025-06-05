@@ -1,0 +1,8 @@
+T1	C0003893 14 27	arthroplastie
+#1	AnnotatorNotes T1	"C0003893", "Arthroplasty", "Therapeutic or Preventive Procedure" ,"PROC"
+T2	C0015806 37 61	fractures du col fémoral
+#2	AnnotatorNotes T2	"C0015806", "Femoral Neck Fractures", "Injury or Poisoning" ,"DISO"
+T3	C0001792 70 78	viellard
+#3	AnnotatorNotes T3	"C0001792", "Elderly (population group)", "Population Group" ,"LIVB"
+T8	C1999167 70 78	viellard
+#8	AnnotatorNotes T8	"C1999167", "Old age", "Finding", "DISO"

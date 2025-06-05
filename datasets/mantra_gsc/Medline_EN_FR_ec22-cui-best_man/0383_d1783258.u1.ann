@@ -1,0 +1,10 @@
+T1	C0079488 0 19	Helicobacter pylori
+#1	AnnotatorNotes T1	"C0079488", "Helicobacter pylori", "Bacterium" ,"LIVB"
+T2	C0017136 46 64	muqueuse gastrique
+#2	AnnotatorNotes T2	"C0017136", "Gastric mucosa", "Tissue" ,"ANAT"
+T3	C0023890 73 84	cirrhotique
+#3	AnnotatorNotes T3	"C0023890", "Liver Cirrhosis", "Disease or Syndrome" ,"DISO"
+T4	C1623038 73 84	cirrhotique
+#4	AnnotatorNotes T4	"C1623038", "Cirrhosis", "Disease or Syndrome" ,"DISO"
+T5	C0175677 23 30	lésions
+#5	AnnotatorNotes T5	"C0175677", "Injury", "Injury or Poisoning" ,"DISO"

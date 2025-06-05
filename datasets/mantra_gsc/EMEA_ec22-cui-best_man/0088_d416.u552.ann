@@ -1,0 +1,8 @@
+T6	C0939514 101 109	Trizivir
+#6	AnnotatorNotes T6	"C0939514", "Trizivir", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T7	C0336779 160 168	machines
+#7	AnnotatorNotes T7	"C0336779", "Machine", "Manufactured Object" ,"OBJC"
+T8	C0559546 65 83	effets secondaires
+#8	AnnotatorNotes T8	"C0559546", "Adverse reactions", "Finding" ,"DISO"
+T9	C0041755 65 83	effets secondaires
+#9	AnnotatorNotes T9	"C0041755", "Adverse reaction to drug", "Injury or Poisoning" ,"DISO"

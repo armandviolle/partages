@@ -1,0 +1,8 @@
+T4	C0013227 4 15	médicaments
+#4	AnnotatorNotes T4	"C0013227", "Pharmaceutical Preparations", "Pharmacologic Substance" ,"CHEM"
+T5	C0456386 4 15	médicaments
+#5	AnnotatorNotes T5	"C0456386", "Medicament", "Pharmacologic Substance" ,"CHEM"
+T6	C0302148 46 63	caillots sanguins
+#6	AnnotatorNotes T6	"C0302148", "Blood Clot", "Acquired Abnormality" ,"DISO"
+T7	C0087086 46 63	caillots sanguins
+#7	AnnotatorNotes T7	"C0087086", "Thrombus", "Pathologic Function" ,"DISO"

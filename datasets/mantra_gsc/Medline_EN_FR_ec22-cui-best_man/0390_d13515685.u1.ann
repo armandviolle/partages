@@ -1,0 +1,16 @@
+T1	C0042961 0 8	Volvulus
+#1	AnnotatorNotes T1	"C0042961", "Intestinal Volvulus", "Disease or Syndrome" ,"DISO"
+T2	C0020885 33 38	iléon
+#2	AnnotatorNotes T2	"C0020885", "ileum", "Body Part Organ or Organ Component" ,"ANAT"
+T3	C0027540 9 16	nécrosé
+#3	AnnotatorNotes T3	"C0027540", "Necrosis", "Organ or Tissue Function" ,"PHYS"
+T4	C0543467 51 60	opération
+#4	AnnotatorNotes T4	"C0543467", "Operative Surgical Procedures", "Diagnostic Procedure|Therapeutic or Preventive Procedure" ,"PROC"
+T5	C0549099 20 27	perforé
+#5	AnnotatorNotes T5	"C0549099", "Perforation (observation)", "Finding" ,"DISO"
+T6	C0015252 40 49	résection
+#6	AnnotatorNotes T6	"C0015252", "removal technique", "Therapeutic or Preventive Procedure" ,"PROC"
+T7	C0728940 40 49	résection
+#7	AnnotatorNotes T7	"C0728940", "Excision", "Therapeutic or Preventive Procedure" ,"PROC"
+T8	C1278923 33 38	iléon
+#8	AnnotatorNotes T8	"C1278923", "Entire ileum", "Body Part Organ or Organ Component" ,"ANAT"

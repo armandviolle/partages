@@ -1,0 +1,12 @@
+T1	C0281825 3 15	DÉSÉQUILIBRE
+#1	AnnotatorNotes T1	"C0281825", "Dysequilibrium", "Finding" ,"DISO"
+T2	C0026848 56 65	MYOPATHIE
+#2	AnnotatorNotes T2	"C0026848", "Myopathy", "Disease or Syndrome" ,"DISO"
+T3	C0231490 27 35	AGONISTE
+#3	AnnotatorNotes T3	"C0231490", "Agonist muscle action", "Organ or Tissue Function" ,"PHYS"
+T4	C0231491 36 47	ANTAGONISTE
+#4	AnnotatorNotes T4	"C0231491", "Antagonist muscle action", "Organ or Tissue Function" ,"PHYS"
+T5	C0026845 16 26	MUSCULAIRE
+#5	AnnotatorNotes T5	"C0026845", "Muscle", "Tissue" ,"ANAT"
+T12	C0013839 99 118	ELECTROMYOGRAPHIQUE
+#12	AnnotatorNotes T12	"C0013839", "Electromyography", "Diagnostic Procedure", "PROC"

@@ -1,0 +1,8 @@
+T1	C0008059 25 32	enfants
+#1	AnnotatorNotes T1	"C0008059", "Child", "Age Group" ,"LIVB"
+T2	C0026092 36 57	travailleurs migrants
+#2	AnnotatorNotes T2	"C0026092", "Migrant Workers", "Population Group" ,"LIVB"
+T3	C0948192 4 20	primo-infections
+#3	AnnotatorNotes T3	"C0948192", "Primary infection NOS", "Disease or Syndrome" ,"DISO"
+T4	C0680063 25 32	enfants
+#4	AnnotatorNotes T4	"C0680063", "Offspring", "Family Group" ,"LIVB"

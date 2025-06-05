@@ -1,0 +1,10 @@
+T6	C0018808 50 67	souffle cardiaque
+#6	AnnotatorNotes T6	"C0018808", "Heart murmur", "Finding" ,"DISO"
+T8	C0020649 69 101	baisse de la pression artérielle
+#8	AnnotatorNotes T8	"C0020649", "Hypotension", "Finding" ,"DISO"
+T9	C0039231 10 48	augmentation de la fréquence cardiaque
+#9	AnnotatorNotes T9	"C0039231", "Tachycardia", "Finding" ,"DISO"
+T10	C0005839 119 138	irrigation sanguine
+#10	AnnotatorNotes T10	"C0005839", "Blood supply aspects", "Body Part Organ or Organ Component" ,"ANAT"
+T11	C0027061 142 158	muscle cardiaque
+#11	AnnotatorNotes T11	"C0027061", "Myocardium", "Tissue" ,"ANAT"

@@ -1,0 +1,10 @@
+T7	C0030705 9 17	patients
+#7	AnnotatorNotes T7	"C0030705", "Patients", "Patient or Disabled Group" ,"LIVB"
+T8	C0948380 30 60	cancer colorectal métastatique
+#8	AnnotatorNotes T8	"C0948380", "Colorectal cancer metastatic", "Neoplastic Process" ,"DISO"
+T9	C0995188 65 74	cetuximab
+#9	AnnotatorNotes T9	"C0995188", "cetuximab", "Amino Acid Peptide or Protein|Pharmacologic Substance|Immunologic Factor" ,"CHEM"
+T10	C0392920 110 124	chimiothérapie
+#10	AnnotatorNotes T10	"C0392920", "Chemotherapy Regimen", "Therapeutic or Preventive Procedure" ,"PROC"
+T11	C0013216 110 124	chimiothérapie
+#11	AnnotatorNotes T11	"C0013216", "Pharmacotherapy", "Therapeutic or Preventive Procedure" ,"PROC"

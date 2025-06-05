@@ -1,0 +1,4 @@
+T1	C0027651 4 11	tumeurs
+#1	AnnotatorNotes T1	"C0027651", "Neoplasms", "Neoplastic Process" ,"DISO"
+T2	C0039869 40 50	Réflexions
+#2	AnnotatorNotes T2	"C0039869", "function Thinking", "Mental Process" ,"PHYS"

@@ -1,0 +1,4 @@
+T1	C0155118 15 39	dégénérescence cornéenne
+#1	AnnotatorNotes T1	"C0155118", "Corneal degeneration", "Disease or Syndrome" ,"DISO"
+T2	C0008972 71 85	Etude clinique
+#2	AnnotatorNotes T2	"C0008972", "Clinical Research", "Research Activity" ,"PROC"

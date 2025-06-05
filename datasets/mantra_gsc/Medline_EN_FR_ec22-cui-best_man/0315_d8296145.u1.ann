@@ -1,0 +1,6 @@
+T1	C0865850 0 31	Insuffisance respiratoire aiguë
+#1	AnnotatorNotes T1	"C0865850", "Acute respiratory insufficiency", "Disease or Syndrome" ,"DISO"
+T2	C0032225 46 53	pleural
+#2	AnnotatorNotes T2	"C0032225", "Pleura", "Body Part Organ or Organ Component" ,"ANAT"
+T3	C0032326 59 71	pneumothorax
+#3	AnnotatorNotes T3	"C0032326", "Pneumothorax", "Disease or Syndrome" ,"DISO"

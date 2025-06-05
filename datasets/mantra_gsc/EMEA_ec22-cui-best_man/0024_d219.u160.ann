@@ -1,0 +1,6 @@
+T3	C1565662 40 65	insuffisance rénale aiguë
+#3	AnnotatorNotes T3	"C1565662", "Acute Kidney Insufficiency", "Disease or Syndrome" ,"DISO"
+T4	C0235431 2 31	élévation de la créatininémie
+#4	AnnotatorNotes T4	"C0235431", "Blood creatinine increased", "Finding" ,"DISO"
+T15	C0022660 40 65	insuffisance rénale aiguë
+#15	AnnotatorNotes T15	"C0022660", "Kidney Failure, Acute", "Disease or Syndrome" ,"DISO"

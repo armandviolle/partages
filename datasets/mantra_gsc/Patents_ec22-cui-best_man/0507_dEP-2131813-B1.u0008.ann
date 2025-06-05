@@ -1,0 +1,10 @@
+T5	C0014898 167 172	ester
+#5	AnnotatorNotes T5	"C0014898", "Esters", "Organic Chemical" ,"CHEM"
+T6	C0017951 117 123	glycol
+#6	AnnotatorNotes T6	"C0017951", "Glycols", "Organic Chemical" ,"CHEM"
+T7	C0014994 108 113	éther
+#7	AnnotatorNotes T7	"C0014994", "Ether, Ethyl", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T8	C0014996 108 113	éther
+#8	AnnotatorNotes T8	"C0014996", "Ethers", "Organic Chemical" ,"CHEM"
+T9	C0038654 95 101	polyol
+#9	AnnotatorNotes T9	"C0038654", "Sugar Alcohols", "Carbohydrate" ,"CHEM"

@@ -1,0 +1,6 @@
+T1	C0017446 77 83	région
+#1	AnnotatorNotes T1	"C0017446", "Geographic Locations", "Geographic Area" ,"GEOG"
+T2	C0008059 62 68	enfant
+#2	AnnotatorNotes T2	"C0008059", "Child", "Age Group" ,"LIVB"
+T3	C0021390 14 54	maladies inflammatoires du tube digestif
+#3	AnnotatorNotes T3	"C0021390", "Inflammatory Bowel Diseases", "Disease or Syndrome" ,"DISO"

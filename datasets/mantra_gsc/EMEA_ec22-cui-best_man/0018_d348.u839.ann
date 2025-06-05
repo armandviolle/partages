@@ -1,0 +1,10 @@
+T4	C0030705 59 66	patient
+#4	AnnotatorNotes T4	"C0030705", "Patients", "Patient or Disabled Group" ,"LIVB"
+T6	C0666743 40 50	infliximab
+#6	AnnotatorNotes T6	"C0666743", "infliximab", "Amino Acid Peptide or Protein|Pharmacologic Substance|Immunologic Factor" ,"CHEM"
+T7	C1999167 67 70	âgé
+#7	AnnotatorNotes T7	"C1999167", "Old age", "Finding" ,"DISO"
+T8	C0001792 67 70	âgé
+#8	AnnotatorNotes T8	"C0001792", "Elderly (population group)", "Population Group" ,"LIVB"
+T24	C0031327 15 33	pharmacocinétiques
+#24	AnnotatorNotes T24	"C0031327", "Drug Kinetics", "Physiologic Function" ,"PHYS"

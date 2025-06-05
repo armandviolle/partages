@@ -1,0 +1,6 @@
+T4	C0939393 0 9	NeuroBloc
+#4	AnnotatorNotes T4	"C0939393", "Myobloc", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T5	C0037473 49 55	sodium
+#5	AnnotatorNotes T5	"C0037473", "Sodium", "Biologically Active Substance|Element Ion or Isotope" ,"CHEM"
+T6	C0037570 49 55	sodium
+#6	AnnotatorNotes T6	"C0037570", "Sodium, Dietary", "Food|Inorganic Chemical" ,"OBJC|CHEM"

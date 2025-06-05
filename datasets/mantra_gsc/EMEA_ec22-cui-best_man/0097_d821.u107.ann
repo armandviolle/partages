@@ -1,0 +1,6 @@
+T5	C0949665 31 47	fluoroquinolones
+#5	AnnotatorNotes T5	"C0949665", "Fluoroquinolones", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T6	C0087111 56 66	traitement
+#6	AnnotatorNotes T6	"C0087111", "Therapeutic procedure", "Therapeutic or Preventive Procedure" ,"PROC"
+T7	C0003232 165 178	antibiotiques
+#7	AnnotatorNotes T7	"C0003232", "Antibiotics", "Antibiotic" ,"CHEM"

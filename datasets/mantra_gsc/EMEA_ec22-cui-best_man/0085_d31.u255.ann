@@ -1,0 +1,8 @@
+T5	C0063041 29 40	léflunomide
+#5	AnnotatorNotes T5	"C0063041", "leflunomide", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T6	C0004364 97 118	maladies auto-immunes
+#6	AnnotatorNotes T6	"C0004364", "Autoimmune Diseases", "Disease or Syndrome" ,"DISO"
+T7	C0242656 167 192	progression de la maladie
+#7	AnnotatorNotes T7	"C0242656", "Disease Progression", "Pathologic Function" ,"DISO"
+T8	C0599779 9 24	modèles animaux
+#8	AnnotatorNotes T8	"C0599779", "Animal Model", "Animal" ,"LIVB"

@@ -1,0 +1,6 @@
+T1	C0014180 30 39	endomètre
+#1	AnnotatorNotes T1	"C0014180", "Endometrium", "Body Part Organ or Organ Component" ,"ANAT"
+T2	C0015915 75 95	fécondation in vitro
+#2	AnnotatorNotes T2	"C0015915", "Fertilization in Vitro", "Therapeutic or Preventive Procedure" ,"PROC"
+T3	C0029976 46 71	implantation embryonnaire
+#3	AnnotatorNotes T3	"C0029976", "natural Blastocyst Implantation", "Organism Function" ,"PHYS"

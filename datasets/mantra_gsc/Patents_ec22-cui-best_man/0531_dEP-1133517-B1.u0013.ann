@@ -1,0 +1,16 @@
+T8	C0243043 191 205	protéine Hsp70
+#8	AnnotatorNotes T8	"C0243043", "Heat-Shock Proteins 70", "Amino Acid Peptide or Protein|Biologically Active Substance" ,"CHEM"
+T9	C0243043 226 231	Hsp70
+#9	AnnotatorNotes T9	"C0243043", "Heat-Shock Proteins 70", "Amino Acid Peptide or Protein|Biologically Active Substance" ,"CHEM"
+T10	C0002520 258 271	acides aminés
+#10	AnnotatorNotes T10	"C0002520", "Amino Acids", "Amino Acid Peptide or Protein|Pharmacologic Substance|Biologically Active Substance" ,"CHEM"
+T11	C0028589 109 127	protéine nucléaire
+#11	AnnotatorNotes T11	"C0028589", "Nuclear Proteins", "Amino Acid Peptide or Protein|Biologically Active Substance" ,"CHEM"
+T12	C0949374 109 127	protéine nucléaire
+#12	AnnotatorNotes T12	"C0949374", "Nuclear Protein", "Amino Acid Peptide or Protein|Biologically Active Substance" ,"CHEM"
+T13	C0013227 3 29	composition pharmaceutique
+#13	AnnotatorNotes T13	"C0013227", "Pharmaceutical Preparations", "Pharmacologic Substance" ,"CHEM"
+T14	C0030956 134 141	peptide
+#14	AnnotatorNotes T14	"C0030956", "Peptides", "Amino Acid Peptide or Protein" ,"CHEM"
+T15	C0007610 142 151	nucléaire
+#15	AnnotatorNotes T15	"C0007610", "Cell Nucleus", "Cell Component" ,"ANAT"

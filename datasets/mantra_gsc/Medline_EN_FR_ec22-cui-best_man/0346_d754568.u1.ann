@@ -1,0 +1,6 @@
+T1	C0021436 4 22	pompes à perfusion
+#1	AnnotatorNotes T1	"C0021436", "Infusion Pump", "Medical Device" ,"DEVI"
+T2	C1272936 23 34	parentérale
+#2	AnnotatorNotes T2	"C1272936", "Parenteral dosage form", "Biomedical or Dental Material" ,"CHEM"
+T3	C0008972 51 56	étude
+#3	AnnotatorNotes T3	"C0008972", "Clinical Research", "Research Activity" ,"PROC"

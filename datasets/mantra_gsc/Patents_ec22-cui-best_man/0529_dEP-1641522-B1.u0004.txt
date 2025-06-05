@@ -1,0 +1,1 @@
+L'appareil selon l'une quelconque des revendications 1-3, caractérisé en ce que l'unité de commande (90) est adaptée pour comparer une valeur absolue d'une variation calculée du signal d'impédance à une valeur de seuil, et détecter le changement dans la posture en constatant que la valeur absolue est supérieure à la valeur de seuil.

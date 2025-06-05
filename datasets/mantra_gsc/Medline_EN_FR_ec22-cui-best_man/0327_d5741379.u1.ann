@@ -1,0 +1,4 @@
+T1	C0013922 0 7	Embolie
+#1	AnnotatorNotes T1	"C0013922", "Embolism", "Pathologic Function" ,"DISO"
+T2	C0175649 33 41	prothèse
+#2	AnnotatorNotes T2	"C0175649", "Prosthesis", "Medical Device" ,"DEVI"

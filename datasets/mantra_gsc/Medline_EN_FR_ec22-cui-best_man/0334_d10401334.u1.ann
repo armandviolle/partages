@@ -1,0 +1,6 @@
+T1	C1261322 32 42	évaluation
+#1	AnnotatorNotes T1	"C1261322", "Evaluation procedure", "Health Care Activity" ,"PROC"
+T2	C0243012 61 90	savoir-apprendre expérientiel
+#2	AnnotatorNotes T2	"C0243012", "Experiential Learning", "Educational Activity" ,"PROC"
+T3	C0336791 15 20	outil
+#3	AnnotatorNotes T3	"C0336791", "device (physical object) Tool", "Manufactured Object" ,"OBJC"

@@ -1,0 +1,10 @@
+T6	C0007634 111 119	cellules
+#6	AnnotatorNotes T6	"C0007634", "Cells", "Cell" ,"ANAT"
+T7	C0007634 190 198	cellules
+#7	AnnotatorNotes T7	"C0007634", "Cells", "Cell" ,"ANAT"
+T8	C0431085 50 68	cellules tumorales
+#8	AnnotatorNotes T8	"C0431085", "Tumor cells, uncertain whether benign or malignant", "Cell" ,"ANAT"
+T9	C1269647 111 119	cellules
+#9	AnnotatorNotes T9	"C1269647", "Entire cell", "Cell" ,"ANAT"
+T10	C1269647 190 198	cellules
+#10	AnnotatorNotes T10	"C1269647", "Entire cell", "Cell" ,"ANAT"

@@ -1,0 +1,14 @@
+T7	C0087111 56 66	traitement
+#7	AnnotatorNotes T7	"C0087111", "Therapeutic procedure", "Therapeutic or Preventive Procedure" ,"PROC"
+T8	C0006826 70 76	cancer
+#8	AnnotatorNotes T8	"C0006826", "Malignant Neoplasms", "Neoplastic Process" ,"DISO"
+T9	C0007806 104 129	liquide céphalo-rachidien
+#9	AnnotatorNotes T9	"C0007806", "Cerebrospinal Fluid", "Body Substance" ,"ANAT"
+T10	C0024090 145 153	lombaire
+#10	AnnotatorNotes T10	"C0024090", "Lumbar Region", "Body Location or Region" ,"ANAT"
+T11	C0031831 3 10	docteur
+#11	AnnotatorNotes T11	"C0031831", "Physicians", "Professional or Occupational Group" ,"LIVB"
+T12	C0031831 17 24	médecin
+#12	AnnotatorNotes T12	"C0031831", "Physicians", "Professional or Occupational Group" ,"LIVB"
+T13	C1306459 70 76	cancer
+#13	AnnotatorNotes T13	"C1306459", "Primary malignant neoplasm", "Finding" ,"DISO"

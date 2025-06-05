@@ -1,0 +1,8 @@
+T1	C0733511 14 26	surveillance
+#1	AnnotatorNotes T1	"C0733511", "Medical Surveillance", "Health Care Activity" ,"PROC"
+T2	C0332157 59 66	exposés
+#2	AnnotatorNotes T2	"C0332157", "Exposure to", "Clinical Attribute" ,"PHYS"
+T3	C2062719 70 80	benzolisme
+#3	AnnotatorNotes T3	"C2062719", "Poisoning by benzene", "Injury or Poisoning" ,"DISO"
+T4	C0852575 27 40	hématologique
+#4	AnnotatorNotes T4	"C0852575", "Haematological analyses NEC", "Laboratory Procedure" ,"PROC"

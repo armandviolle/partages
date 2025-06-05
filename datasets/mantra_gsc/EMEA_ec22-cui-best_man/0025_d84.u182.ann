@@ -1,0 +1,8 @@
+T5	C0087111 0 10	Traitement
+#5	AnnotatorNotes T5	"C0087111", "Therapeutic procedure", "Therapeutic or Preventive Procedure" ,"PROC"
+T6	C0232478 21 30	ingestion
+#6	AnnotatorNotes T6	"C0232478", "Ingestion", "Biologic Function" ,"PHEN"
+T7	C0455040 58 82	provoquer un vomissement
+#7	AnnotatorNotes T7	"C0455040", "Induction of emesis", "Therapeutic or Preventive Procedure" ,"PROC"
+T8	C0017134 102 118	lavage gastrique
+#8	AnnotatorNotes T8	"C0017134", "Gastric Lavage", "Therapeutic or Preventive Procedure" ,"PROC"

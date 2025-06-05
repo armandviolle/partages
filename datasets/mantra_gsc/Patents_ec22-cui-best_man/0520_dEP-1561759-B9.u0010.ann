@@ -1,0 +1,10 @@
+T6	C0013227 0 26	Composition pharmaceutique
+#6	AnnotatorNotes T6	"C0013227", "Pharmaceutical Preparations", "Pharmacologic Substance" ,"CHEM"
+T7	C0004561 123 132	cellule B
+#7	AnnotatorNotes T7	"C0004561", "B-Lymphocytes", "Cell" ,"ANAT"
+T8	C0039194 142 151	cellule T
+#8	AnnotatorNotes T8	"C0039194", "T-Lymphocyte", "Cell" ,"ANAT"
+T9	C0007587 70 85	mort cellulaire
+#9	AnnotatorNotes T9	"C0007587", "Cell Death", "Cell Function" ,"PHYS"
+T10	C0007587 101 116	mort cellulaire
+#10	AnnotatorNotes T10	"C0007587", "Cell Death", "Cell Function" ,"PHYS"

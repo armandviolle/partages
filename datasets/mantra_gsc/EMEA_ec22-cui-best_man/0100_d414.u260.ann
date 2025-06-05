@@ -1,0 +1,6 @@
+T4	C1096917 46 54	TRISENOX
+#4	AnnotatorNotes T4	"C1096917", "Trisenox", "Pharmacologic Substance|Inorganic Chemical" ,"CHEM"
+T5	C0040715 114 143	translocations chromosomiques
+#5	AnnotatorNotes T5	"C0040715", "Chromosomal translocation", "Cell or Molecular Dysfunction" ,"DISO"
+T6	C0023487 77 80	LPA
+#6	AnnotatorNotes T6	"C0023487", "Acute Promyelocytic Leukemia", "Neoplastic Process" ,"DISO"

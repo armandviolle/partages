@@ -1,0 +1,12 @@
+T6	C0033325 41 50	pronostic
+#6	AnnotatorNotes T6	"C0033325", "Forecast of outcome", "Health Care Activity" ,"PROC"
+T7	C0151699 66 91	hémorragie intracrânienne
+#7	AnnotatorNotes T7	"C0151699", "Intracranial Hemorrhages", "Pathologic Function" ,"DISO"
+T8	C0576995 93 114	hémorragie du pharynx
+#8	AnnotatorNotes T8	"C0576995", "Bleeding of pharynx", "Finding" ,"DISO"
+T9	C0019080 0 22	Episodes hémorragiques
+#9	AnnotatorNotes T9	"C0019080", "Hemorrhage", "Pathologic Function" ,"DISO"
+T10	C0543467 145 154	Chirurgie
+#10	AnnotatorNotes T10	"C0543467", "Operative Surgical Procedures", "Diagnostic Procedure|Therapeutic or Preventive Procedure" ,"PROC"
+T11	C0236178 116 137	hémorragie abdominale
+#11	AnnotatorNotes T11	"C0236178", "Intraabdominal hemorrhage", "Disease or Syndrome" ,"DISO"

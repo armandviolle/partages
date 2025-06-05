@@ -1,0 +1,8 @@
+T1	C0194810 0 23	Prostatectomie radicale
+#1	AnnotatorNotes T1	"C0194810", "Radical prostatectomy", "Therapeutic or Preventive Procedure" ,"PROC"
+T2	C0001792 47 60	personne âgée
+#2	AnnotatorNotes T2	"C0001792", "Elderly (population group)", "Population Group" ,"LIVB"
+T3	C0031150 24 38	laparoscopique
+#3	AnnotatorNotes T3	"C0031150", "Laparoscopy", "Diagnostic Procedure" ,"PROC"
+T4	C1999167 47 60	personne âgée
+#4	AnnotatorNotes T4	"C1999167", "Old age", "Finding" ,"DISO"

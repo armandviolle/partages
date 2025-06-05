@@ -1,0 +1,26 @@
+T13	C0699967 17 25	TAXOTERE
+#13	AnnotatorNotes T13	"C0699967", "Taxotere", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T14	C0003392 38 51	anticancéreux
+#14	AnnotatorNotes T14	"C0003392", "Antineoplastic Agents", "Organic Chemical|Pharmacologic Substance" ,"CHEM"
+T15	C0006826 177 183	cancer
+#15	AnnotatorNotes T15	"C0006826", "Malignant Neoplasms", "Neoplastic Process" ,"DISO"
+T16	C0006142 195 209	cancer du sein
+#16	AnnotatorNotes T16	"C0006142", "Malignant neoplasm of breast", "Neoplastic Process" ,"DISO"
+T17	C0007131 211 250	cancer du poumon non à petites cellules
+#17	AnnotatorNotes T17	"C0007131", "Non-Small Cell Lung Carcinoma", "Neoplastic Process" ,"DISO"
+T18	C0376358 252 273	cancer de la prostate
+#18	AnnotatorNotes T18	"C0376358", "Malignant neoplasm of prostate", "Neoplastic Process" ,"DISO"
+T19	C0278701 275 299	adénocarcinome gastrique
+#19	AnnotatorNotes T19	"C0278701", "Gastric Adenocarcinoma", "Neoplastic Process" ,"DISO"
+T20	C0278996 303 330	cancer de la tête et du cou
+#20	AnnotatorNotes T20	"C0278996", "Cancer of Head and Neck", "Neoplastic Process" ,"DISO"
+T21	C0242656 118 136	temps d’ évolution
+#21	AnnotatorNotes T21	"C0242656", "Disease Progression", "Pathologic Function" ,"DISO"
+T22	C0678222 195 209	cancer du sein
+#22	AnnotatorNotes T22	"C0678222", "Breast Carcinoma", "Neoplastic Process" ,"DISO"
+T23	C0600139 252 273	cancer de la prostate
+#23	AnnotatorNotes T23	"C0600139", "Prostate carcinoma", "Neoplastic Process" ,"DISO"
+T24	C1306459 177 183	cancer
+#24	AnnotatorNotes T24	"C1306459", "Primary malignant neoplasm", "Finding" ,"DISO"
+T68	C2919552 118 123;140 152	temps de la survie
+#68	AnnotatorNotes T68	"C2919552", "Survival time", "Clinical Attribute", "PHYS"

@@ -1,0 +1,6 @@
+T1	C0559459 0 24	Tératome sacro-coccygien
+#1	AnnotatorNotes T1	"C0559459", "Sacrococcygeal teratoma", "Neoplastic Process" ,"DISO"
+T2	C0015965 35 41	foetus
+#2	AnnotatorNotes T2	"C0015965", "Fetus", "Embryonic Structure" ,"ANAT"
+T3	C1305737 35 41	foetus
+#3	AnnotatorNotes T3	"C1305737", "Entire fetus", "Anatomical Structure" ,"ANAT"
