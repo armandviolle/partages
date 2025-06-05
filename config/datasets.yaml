@@ -12,6 +12,10 @@ datasets:
     path: "datasets/mantra_gsc" # local path
     subset: "French"
     source_split: [ "train"]
+  - source: CAS
+    path: "datasets/cas" # local path
+    subset: "French"
+    source_split: [ "train" ]
   - source: DEFT2021
     path: "DrBenchmark/DEFT2021"
     subset:
