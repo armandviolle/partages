@@ -13,33 +13,7 @@ def main():
     with open(args.hf_token, 'r') as f:
         hf_token = f.read()
     HfFolder.save_token(hf_token)
-    all_cfg = load_config()
-
-    if not args.use_all_sources:
-        for cfg in all_cfg:        
-            if args.source == cfg['source']:
-                all_cfg = [cfg]
-                break
-        else: 
-            sys.tracebacklimit = 0 
-            raise RuntimeError(f"No available dataset named {args.source} in config.")
-
-    if args.make_commercial_version:
-        print("\nCOMMERCIAL VERSION")
-        print(f"Available datasets in config: {[cfg['source'] for cfg in all_cfg]}")
-        tmp_cfg = []
-        for cfg in all_cfg:
-            if cfg['commercial_use']:
-                tmp_cfg.append(cfg)
-        all_cfg = tmp_cfg
-        print(f"Remaining datasets after commercial use filtering: {[cfg['source'] for cfg in all_cfg]}\n")
-    else:
-        print("\nNON-COMMERCIAL VERSION")
-        print(f"Available datasets in config: {[cfg['source'] for cfg in all_cfg]}\n")
-    
-    if len(all_cfg) < 1:
-        sys.tracebacklimit = 0 
-        raise RuntimeError(f"No available dataset(s) for given parametrization (check commercial use and source(s) given).")
+    all_cfg = load_config(args=args)
 
     for cfg in all_cfg:
         print(f"Loading dataset {cfg["source"]}: using {REGISTRY[cfg["source"]]}")

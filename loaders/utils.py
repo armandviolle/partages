@@ -22,9 +22,42 @@ def parse():
     return parser.parse_args()
 
 
-def load_config(path="config/datasets.yaml"):
+def read_config(path="config/datasets.yaml"):
     with open(path, "r") as f:
         return yaml.safe_load(f)["datasets"]
+    
+
+def load_config(args):
+    all_cfg = read_config()
+
+    if not args.use_all_sources:
+        for cfg in all_cfg:        
+            if args.source == cfg['source']:
+                all_cfg = [cfg]
+                break
+        else: 
+            sys.tracebacklimit = 0 
+            raise RuntimeError(f"No available dataset named {args.source} in config.")
+
+    if args.make_commercial_version:
+        print("\nCOMMERCIAL VERSION")
+        print(f"Available datasets in config: {[cfg['source'] for cfg in all_cfg]}")
+        tmp_cfg = []
+        for cfg in all_cfg:
+            if cfg['commercial_use']:
+                tmp_cfg.append(cfg)
+        all_cfg = tmp_cfg
+        print(f"Remaining datasets after commercial use filtering: {[cfg['source'] for cfg in all_cfg]}\n")
+    else:
+        print("\nNON-COMMERCIAL VERSION")
+        print(f"Available datasets in config: {[cfg['source'] for cfg in all_cfg]}\n")
+    
+    if len(all_cfg) < 1:
+        sys.tracebacklimit = 0 
+        raise RuntimeError(f"No available dataset(s) for given parametrization (check commercial use and source(s) given).")
+    
+    return all_cfg
+
 
 
 def load_local(
