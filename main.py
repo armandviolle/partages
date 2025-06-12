@@ -16,7 +16,7 @@ def main():
     all_cfg = load_config(args=args)
 
     for cfg in all_cfg:
-        print(f"Loading dataset {cfg["source"]}: using {REGISTRY[cfg["source"]]}")
+        print(f"Loading dataset {cfg['source']}: using {REGISTRY[cfg['source']]}")
         LoaderCls = REGISTRY[cfg["source"]]
     
         subsets = cfg['subset'] if isinstance(cfg['subset'], list) else [cfg['subset']]
