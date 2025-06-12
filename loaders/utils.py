@@ -94,3 +94,23 @@ def load_local(
             raise RuntimeError(f"No .txt files found in {path} or its subdirectories.")
         else:
             return Dataset.from_dict({'text': all_texts}) 
+
+
+
+def get_nb_characters(dataset: Dataset) -> int:
+    """
+    Returns the number of characters in the 'text' column of the dataset.
+    """
+    if 'text' not in dataset.column_names:
+        raise ValueError("Dataset does not contain a 'text' column.")
+
+    return sum(len(text) for text in dataset['text'])
+
+def get_nb_words(dataset: Dataset) -> int:
+    """
+    Returns the number of words in the 'text' column of the dataset.
+    """
+    if 'text' not in dataset.column_names:
+        raise ValueError("Dataset does not contain a 'text' column.")
+
+    return sum(len(text.split()) for text in dataset['text'])
