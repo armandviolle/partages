@@ -1,7 +1,7 @@
 from datasets import Dataset
 from .base_loader import BaseLoader
 
-class CAS(BaseLoader):
+class FRASIMED(BaseLoader):
     def postprocess(self, dataset, subset, split):
         """
         Processes the raw Hugging Face dataset OR locally loaded data for Mantra GSC French.

@@ -28,13 +28,13 @@ datasets:
   - source: HAL
     path: "/Users/armandviolle/Developer/partages/Archive"
     subset: "NACHOS"
-    source_split: 
+    source_split:
     commercial_use: True
     comment: ""
   - source: HAS
     path: "/Users/armandviolle/Developer/partages/Archive"
     subset: "NACHOS"
-    source_split: 
+    source_split:
     commercial_use: True
     comment: ""
   # From dumps
@@ -46,6 +46,12 @@ datasets:
     comment: ""
   - source: CAS
     path: "datasets/cas" # local path
+    subset: "French"
+    source_split: "train"
+    commercial_use: False
+    comment: ""
+  - source: FRASIMED
+    path: "datasets/frasimed" # local path
     subset: "French"
     source_split: "train"
     commercial_use: False
