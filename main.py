@@ -56,6 +56,7 @@ def main():
                     print(f"Mean of words = {row['mean_words']}")
                     print(f"Std of characters = {row['std_chars']}")
                     print(f"Std of words = {row['std_words']}")
+                    print()
                     stats.append(row)
                     all_ds.append(ds)
                 except Exception as e:
