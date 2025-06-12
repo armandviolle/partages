@@ -50,8 +50,12 @@ def main():
                         'nb_words': nb_words,
                         'nb_docs': ds.shape[0],
                         "mean_words": np.mean([len(txt.split()) for txt in ds["text"]]),
-                        "std_words": np.std([len(txt) for txt in ds["text"]], ddof=0),
+                        "std_chars": np.std([len(txt) for txt in ds["text"]], ddof=0),
+                        "std_words": np.std([len(txt.split()) for txt in ds["text"]], ddof=0),
                     }
+                    print(f"Mean of words = {row['mean_words']}")
+                    print(f"Std of characters = {row['std_chars']}")
+                    print(f"Std of words = {row['std_words']}")
                     stats.append(row)
                     all_ds.append(ds)
                 except Exception as e:
@@ -79,7 +83,8 @@ def main():
     df = pd.DataFrame(stats)
     totals = df[["nb_words", "nb_chars", "nb_docs"]].sum().rename("total")
     totals["mean_of_mean_words"] = df["mean_words"].mean()
-    totals["std_of_mean_words"] = df["mean_words"].std(ddof=0)
+    totals["std_of_mean_chars"] = df["std_chars"].std(ddof=0)
+    totals["std_of_mean_words"] = df["std_words"].std(ddof=0)
     totals_df = totals.to_frame().T
     with pd.option_context('display.max_columns', None, 'display.width', 0):
         print(df)
