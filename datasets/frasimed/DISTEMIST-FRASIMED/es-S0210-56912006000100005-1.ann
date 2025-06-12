@@ -1,0 +1,17 @@
+T1	disease 76 139	déshydratation modérée à sévère due à une gastro-entérite aiguë
+T2	disease 118 139	gastro-entérite aiguë
+T3	disease 197 221	prématuré de 32 semaines
+T4	disease 292 308	syndrome de Down
+T5	disease 365 367	TF
+T6	disease 417 432	crise hypoxique
+T7	disease 559 577	sténose pulmonaire
+T8	disease 832 880	choc hypovolémique aigu dû à une diarrhée sévère
+T9	disease 1703 1724	hypoxémie réfractaire
+T10	disease 1912 1925	coagulopathie
+T11	disease 2052 2055	HPP
+T12	disease 2358 2369	hypotension
+T13	disease 2422 2443	spasme infundibulaire
+T14	disease 2473 2476	HPP
+T15	disease 2511 2543	communication interventriculaire
+T16	disease 2545 2548	CIV
+T17	disease 3197 3222	insuffisance rénale aiguë

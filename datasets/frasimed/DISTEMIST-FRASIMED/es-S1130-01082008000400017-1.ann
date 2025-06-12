@@ -1,0 +1,32 @@
+T1	disease 53 77	tumeur perforée du cæcum
+T2	disease 53 104	tumeur perforée du cæcum obstruant l'iléon terminal
+T3	disease 150 173	cardiopathie ischémique
+T4	disease 182 185	IAM
+T5	disease 397 416	métastase hépatique
+T6	disease 547 568	abcès intra-abdominal
+T7	disease 610 624	adénocarcinome
+T8	disease 683 704	infiltration tumorale
+T9	disease 754 813	lésion nodulaire solide de 3,5 cm dans le segment 8 du foie
+T10	disease 943 958	tumeur primaire
+T11	disease 1016 1035	métastase hépatique
+T12	disease 1471 1490	lésion métastatique
+T13	disease 1628 1634	lésion
+T14	disease 1900 1906	lésion
+T15	disease 1960 1966	lésion
+T16	disease 2277 2292	lésion tumorale
+#1	SNOMED T9	126851005
+#2	SNOMED T1	126839008
+#3	SNOMED T2	126839008+281255004
+#4	SNOMED T3	194828000
+#5	SNOMED T4	57054005
+#6	SNOMED T10	372087000
+#7	SNOMED T12	128462008
+#8	SNOMED T5	94381002
+#9	SNOMED T6	75100008
+#10	SNOMED T7	443961001
+#11	SNOMED T8	128462008
+#12	SNOMED T16	55342001
+#13	SNOMED T11	94381002
+#14	SNOMED T13	417163006
+#15	SNOMED T14	417163006
+#16	SNOMED T15	417163006

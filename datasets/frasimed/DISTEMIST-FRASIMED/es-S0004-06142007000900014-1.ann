@@ -1,0 +1,18 @@
+T1	disease 356 371	obésité modérée
+T2	disease 956 993	tumeur dans la région de la surrénale
+T3	disease 1033 1052	métastase hépatique
+T4	disease 1270 1322	atteinte des ganglions lymphatiques rétropéritonéaux
+T5	disease 1329 1339	métastases
+T6	disease 1389 1407	thrombose tumorale
+T7	disease 1822 1879	surrénale droite a été abordée, révélant une large tumeur
+T8	disease 2911 2940	invasion du tissu surrénalien
+T9	disease 3011 3036	LEIOMIOSARCOMA DE LA CAVA
+#1	SNOMED T9	443719001
+#2	SNOMED T2	127021009
+#3	SNOMED T1	414916001
+#4	SNOMED T3	94381002
+#5	SNOMED T7	237783006
+#6	SNOMED T4	127154008
+#7	SNOMED T5	128462008
+#8	SNOMED T8	94161006
+#9	SNOMED T6	442078001

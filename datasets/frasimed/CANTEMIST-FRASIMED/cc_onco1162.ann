@@ -1,0 +1,15 @@
+T1	morphology-onco 110 124	tumeur bénigne
+T2	morphology-onco 222 285	carcinome séreux de haut grade de stade IIIB de l'ovaire gauche
+T3	morphology-onco 2114 2144	Carcinome séreux de haut grade
+T4	morphology-onco 3108 3120	métastatique
+T5	morphology-onco 3160 3173	carcinomatose
+#1	ICD-O-3.1 T3	8441/34
+#2	ICD-O-3.1 T5	8010/9
+#3	ICD-O-3.1 T4	8000/6
+#4	ICD-O-3.1 T1	8000/0
+#5	ICD-O-3.1 T2	8441/34
+#6	SNOMED T3	90725004
+#7	SNOMED T5	307593001
+#8	SNOMED T4	14799000
+#9	SNOMED T1	3898006
+#10	SNOMED T2	90725004

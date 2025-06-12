@@ -1,0 +1,36 @@
+T1	morphology-onco 503 509	cancer
+T2	morphology-onco 1148 1168	carcinome infiltrant
+T3	morphology-onco 1346 1376	carcinome canalaire infiltrant
+T4	morphology-onco 1378 1381	CDI
+T5	morphology-onco 1408 1417	tumorales
+T6	morphology-onco 1494 1503	métastase
+T7	morphology-onco 2135 2154	nodules pulmonaires
+T8	morphology-onco 2208 2217	carcinome
+T9	morphology-onco 2405 2417	métastatique
+T10	morphology-onco 2729 2750	progression hépatique
+T11	morphology-onco 3041 3054	carcinomatose
+T12	morphology-onco 3135 3144	carcinome
+#1	ICD-O-3.1 T4	8500/3
+#2	ICD-O-3.1 T8	8010/3
+#3	ICD-O-3.1 T12	8010/3
+#4	ICD-O-3.1 T3	8500/3
+#5	ICD-O-3.1 T2	8010/3/H
+#6	ICD-O-3.1 T11	8010/9
+#7	ICD-O-3.1 T1	8000/3
+#8	ICD-O-3.1 T9	8000/6
+#9	ICD-O-3.1 T6	8000/6
+#10	ICD-O-3.1 T10	8000/6
+#11	ICD-O-3.1 T5	8000/1
+#12	ICD-O-3.1 T7	8000/6
+#13	SNOMED T4	58477004
+#14	SNOMED T8	1187425009
+#15	SNOMED T12	1187425009
+#16	SNOMED T3	58477004
+#17	SNOMED T2	1187425009
+#18	SNOMED T11	307593001
+#19	SNOMED T1	1240414004
+#20	SNOMED T9	14799000
+#21	SNOMED T6	14799000
+#22	SNOMED T10	14799000
+#23	SNOMED T5	86251006
+#24	SNOMED T7	14799000

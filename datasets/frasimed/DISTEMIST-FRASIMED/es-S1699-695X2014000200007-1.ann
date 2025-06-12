@@ -1,0 +1,18 @@
+T1	disease 753 776	infection par H. pylori
+T2	disease 1142 1166	syndrome anxio-dépressif
+T3	disease 1243 1284	allergies alimentaires ou médicamenteuses
+T4	disease 1606 1618	adénopathies
+T5	disease 1696 1702	anémie
+T6	disease 1908 1931	obstruction intestinale
+T7	disease 2447 2469	compression vasculaire
+T8	disease 2578 2659	clampage vasculaire ayant entraîné une compression de la 3ème portion du duodénum
+T9	disease 2664 2682	clamp mésentérique
+#1	SNOMED T5	271737000
+#2	SNOMED T4	30746006
+#3	SNOMED T1	721730009
+#4	SNOMED T6	81060008
+#5	SNOMED T7	449896008
+#6	SNOMED T2	197480006+35489007
+#7	SNOMED T8	95532008
+#8	SNOMED T3	414285001+416098002
+#9	SNOMED T9	235806008

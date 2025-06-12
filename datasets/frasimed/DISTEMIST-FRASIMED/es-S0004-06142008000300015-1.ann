@@ -1,0 +1,8 @@
+T1	disease 139 150	traumatisme
+T2	disease 157 181	symptômes inflammatoires
+T3	disease 215 240	maldécension testiculaire
+T4	disease 522 531	hydrocèle
+#1	SNOMED T4	26614003
+#2	SNOMED T1	417746004
+#3	SNOMED T2	128139000
+#4	SNOMED T3	249240009

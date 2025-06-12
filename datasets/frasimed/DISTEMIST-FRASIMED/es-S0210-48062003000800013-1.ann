@@ -1,0 +1,26 @@
+T1	disease 105 111	anémie
+T2	disease 199 261	accident vasculaire cérébral dans le territoire cérébral moyen
+T3	disease 199 304	accident vasculaire cérébral dans le territoire cérébral moyen, secondaire à une fibrillation auriculaire
+T4	disease 280 304	fibrillation auriculaire
+T5	disease 325 365	maladie pulmonaire obstructive chronique
+T6	disease 832 866	anémie normocytaire et normochrome
+T7	disease 1175 1183	hématome
+T8	disease 1328 1365	infiltration probable du muscle psoas
+T9	disease 1375 1386	adénopathie
+T10	disease 1390 1410	thrombose vasculaire
+T11	disease 1492 1506	masse tumorale
+T12	disease 1716 1748	masse tumorale dépendant du rein
+T13	disease 1848 1862	masse tumorale
+T14	disease 2041 2102	cellules fusiformes très indifférenciée, de type sarcomatoïde
+T15	disease 2138 2166	infiltration périlésionnelle
+T16	disease 2232 2234	M0
+T17	disease 2439 2497	masses kystiques hétérogènes dans l'espace rétropéritonéal
+T18	disease 2601 2652	infiltration probable du foie et du côlon ascendant
+T19	disease 2837 2865	métastase de carcinome rénal
+T20	disease 2934 2955	lésions métastatiques
+T21	disease 3058 3064	anémie
+T22	disease 3352 3376	hématome rétropéritonéal
+T23	disease 3393 3453	tumeur kystique hémorragique, adhérant au lobe caudé du foie
+T24	disease 3515 3582	tumeur fusocellulaire maligne de haut grade, partiellement kystique
+T25	disease 3604 3629	récidive de tumeur rénale
+T26	disease 3690 3714	hématome rétropéritonéal

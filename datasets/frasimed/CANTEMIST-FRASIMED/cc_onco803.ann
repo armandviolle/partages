@@ -1,0 +1,72 @@
+T1	morphology-onco 527 536	carcinome
+T2	morphology-onco 607 616	carcinome
+T3	morphology-onco 640 642	M0
+T4	morphology-onco 815 821	tumeur
+T5	morphology-onco 826 856	carcinome canalaire infiltrant
+T6	morphology-onco 904 906	M0
+T7	morphology-onco 1075 1084	néoplasme
+T8	morphology-onco 1155 1168	carcinomatose
+T9	morphology-onco 1237 1251	tumeur maligne
+T10	morphology-onco 1354 1363	carcinome
+T11	morphology-onco 1941 1955	carcinosarcome
+T12	morphology-onco 1957 1989	tumeur müllérienne mixte maligne
+T13	morphology-onco 3250 3264	carcinosarcome
+T14	morphology-onco 3266 3298	tumeur müllérienne mixte maligne
+T15	morphology-onco 3371 3388	implants tumoraux
+T16	morphology-onco 3536 3552	nodules omentaux
+T17	morphology-onco 3665 3678	carcinomatose
+T18	morphology-onco 3901 3914	carcinomatose
+T19	morphology-onco 4375 4398	progression péritonéale
+T20	morphology-onco 4446 4464	maladie systémique
+T21	morphology-onco 4648 4666	implant péritonéal
+T22	morphology-onco 5276 5294	implant péritonéal
+T23	morphology-onco 5395 5419	tumeur müllérienne mixte
+T24	morphology-onco 5426 5440	carcinosarcome
+#1	ICD-O-3.1 T15	8000/6
+#2	ICD-O-3.1 T3	8000/6
+#3	ICD-O-3.1 T6	8000/6
+#4	ICD-O-3.1 T1	8010/3
+#5	ICD-O-3.1 T2	8010/3
+#6	ICD-O-3.1 T10	8010/3
+#7	ICD-O-3.1 T5	8500/3
+#8	ICD-O-3.1 T8	8010/9
+#9	ICD-O-3.1 T17	8010/9
+#10	ICD-O-3.1 T18	8010/9
+#11	ICD-O-3.1 T11	8980/3
+#12	ICD-O-3.1 T13	8980/3
+#13	ICD-O-3.1 T24	8980/3
+#14	ICD-O-3.1 T20	8000/6
+#15	ICD-O-3.1 T21	8000/6
+#16	ICD-O-3.1 T22	8000/6
+#17	ICD-O-3.1 T7	8000/1
+#18	ICD-O-3.1 T19	8000/6
+#19	ICD-O-3.1 T4	8000/1
+#20	ICD-O-3.1 T9	8000/3
+#21	ICD-O-3.1 T12	8950/3
+#22	ICD-O-3.1 T14	8950/3
+#23	ICD-O-3.1 T16	8000/6
+#24	ICD-O-3.1 T23	8950/3
+#25	SNOMED T15	14799000
+#26	SNOMED T3	14799000
+#27	SNOMED T6	14799000
+#28	SNOMED T1	1187425009
+#29	SNOMED T2	1187425009
+#30	SNOMED T10	1187425009
+#31	SNOMED T5	58477004
+#32	SNOMED T8	307593001
+#33	SNOMED T17	307593001
+#34	SNOMED T18	307593001
+#35	SNOMED T11	63264007
+#36	SNOMED T13	63264007
+#37	SNOMED T24	63264007
+#38	SNOMED T20	14799000
+#39	SNOMED T21	14799000
+#40	SNOMED T22	14799000
+#41	SNOMED T7	86251006
+#42	SNOMED T19	14799000
+#43	SNOMED T4	86251006
+#44	SNOMED T9	1240414004
+#45	SNOMED T12	84427001
+#46	SNOMED T14	84427001
+#47	SNOMED T16	14799000
+#48	SNOMED T23	84427001

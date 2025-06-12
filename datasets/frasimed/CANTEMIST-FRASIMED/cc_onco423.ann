@@ -1,0 +1,21 @@
+T1	morphology-onco 234 271	tumeur mixte de l'endomètre müllérien
+T2	morphology-onco 698 722	tumeur müllérienne mixte
+T3	morphology-onco 748 806	sarcome de haut grade à différenciation rhabdomyoblastique
+T4	morphology-onco 818 848	carcinome séreux de haut grade
+T5	morphology-onco 1325 1353	rechute au niveau péritonéal
+T6	morphology-onco 1522 1528	cancer
+T7	morphology-onco 1674 1697	progression péritonéale
+#1	ICD-O-3.1 T4	8441/34
+#2	ICD-O-3.1 T6	8000/3
+#3	ICD-O-3.1 T1	8950/3
+#4	ICD-O-3.1 T2	8950/3
+#5	ICD-O-3.1 T3	8800/34/H
+#6	ICD-O-3.1 T7	8000/6
+#7	ICD-O-3.1 T5	8000/6
+#8	SNOMED T4	90725004
+#9	SNOMED T6	1240414004
+#10	SNOMED T1	84427001
+#11	SNOMED T2	84427001
+#12	SNOMED T3	1187396000
+#13	SNOMED T7	14799000
+#14	SNOMED T5	14799000

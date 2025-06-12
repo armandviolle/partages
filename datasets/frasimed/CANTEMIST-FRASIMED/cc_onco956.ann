@@ -1,0 +1,9 @@
+T1	morphology-onco 1952 1961	malignité
+T2	morphology-onco 2068 2078	métastases
+T3	morphology-onco 2228 2246	maladie systémique
+#1	ICD-O-3.1 T3	8000/6
+#2	ICD-O-3.1 T1	8000/3
+#3	ICD-O-3.1 T2	8000/6
+#4	SNOMED T3	14799000
+#5	SNOMED T1	1240414004
+#6	SNOMED T2	14799000

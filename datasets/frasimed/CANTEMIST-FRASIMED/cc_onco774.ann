@@ -1,0 +1,46 @@
+T1	morphology-onco 632 640	grosseur
+T2	morphology-onco 1117 1123	tumeur
+T3	morphology-onco 2068 2075	maligne
+T4	morphology-onco 2107 2121	adénocarcinome
+T5	morphology-onco 2283 2300	lésions distantes
+T6	morphology-onco 2449 2471	tumeur des tissus mous
+T7	morphology-onco 2559 2571	sarcomateuse
+T8	morphology-onco 2891 2954	processus lymphoprolifératif de différenciation plasmablastique
+T9	morphology-onco 3169 3193	lymphome plasmablastique
+T10	morphology-onco 3198 3221	myélome plasmablastique
+T11	morphology-onco 3228 3245	lymphome B diffus
+T12	morphology-onco 3228 3250	lymphome B diffus ALK+
+T13	morphology-onco 3443 3467	lymphome plasmablastique
+T14	morphology-onco 3878 3946	lymphome plasmablastique de stade IV en raison de l'atteinte du foie
+T15	morphology-onco 5082 5109	maladie lymphoproliférative
+T16	morphology-onco 5392 5403	néoplasique
+#1	ICD-O-3.1 T4	8140/3
+#2	ICD-O-3.1 T15	9970/1
+#3	ICD-O-3.1 T3	8000/3
+#4	ICD-O-3.1 T7	8800/9
+#5	ICD-O-3.1 T1	8000/1
+#6	ICD-O-3.1 T2	8000/1
+#7	ICD-O-3.1 T5	8000/6
+#8	ICD-O-3.1 T6	8800/1
+#9	ICD-O-3.1 T8	9970/1/H
+#10	ICD-O-3.1 T9	9735/3
+#11	ICD-O-3.1 T10	9732/3
+#12	ICD-O-3.1 T11	9591/3
+#13	ICD-O-3.1 T12	9591/3/H
+#14	ICD-O-3.1 T13	9735/3
+#15	ICD-O-3.1 T14	9735/6
+#16	ICD-O-3.1 T16	8000/3
+#17	SNOMED T4	1187332001
+#18	SNOMED T15	277466009
+#19	SNOMED T3	1240414004
+#20	SNOMED T7	9395006
+#21	SNOMED T1	86251006
+#22	SNOMED T2	86251006
+#23	SNOMED T5	14799000
+#24	SNOMED T8	277466009
+#25	SNOMED T9	724648008
+#26	SNOMED T10	109989006
+#27	SNOMED T11	1172592001
+#28	SNOMED T12	1172592001
+#29	SNOMED T13	724648008
+#30	SNOMED T16	1240414004

@@ -1,0 +1,42 @@
+T1	morphology-onco 239 263	tératome mature kystique
+T2	morphology-onco 426 446	cystadénome mucineux
+T3	morphology-onco 2079 2092	carcinomatose
+T4	morphology-onco 2318 2331	carcinomatose
+T5	morphology-onco 2382 2396	adénocarcinome
+T6	morphology-onco 2669 2689	implants péritonéaux
+T7	morphology-onco 2751 2774	adénocarcinome mucineux
+T8	morphology-onco 3029 3042	carcinomatose
+T9	morphology-onco 3064 3087	pseudomyxome péritonéal
+T10	morphology-onco 3417 3430	carcinomatose
+T11	morphology-onco 3452 3475	pseudomyxome péritonéal
+T12	morphology-onco 3507 3520	carcinomatose
+T13	morphology-onco 3541 3559	maladie disséminée
+T14	morphology-onco 4551 4579	progression pelvienne minime
+#1	ICD-O-3.1 T5	8140/3
+#2	ICD-O-3.1 T7	8480/3
+#3	ICD-O-3.1 T3	8010/9
+#4	ICD-O-3.1 T4	8010/9
+#5	ICD-O-3.1 T8	8010/9
+#6	ICD-O-3.1 T10	8010/9
+#7	ICD-O-3.1 T12	8010/9
+#8	ICD-O-3.1 T2	8470/0
+#9	ICD-O-3.1 T9	8480/6
+#10	ICD-O-3.1 T11	8480/6
+#11	ICD-O-3.1 T1	9080/0
+#12	ICD-O-3.1 T13	8000/6
+#13	ICD-O-3.1 T6	8000/6
+#14	ICD-O-3.1 T14	8000/6
+#15	SNOMED T5	1187332001
+#16	SNOMED T7	72495009
+#17	SNOMED T3	307593001
+#18	SNOMED T4	307593001
+#19	SNOMED T8	307593001
+#20	SNOMED T10	307593001
+#21	SNOMED T12	307593001
+#22	SNOMED T2	33170000
+#23	SNOMED T9	307601000
+#24	SNOMED T11	307601000
+#25	SNOMED T1	42717009
+#26	SNOMED T13	14799000
+#27	SNOMED T6	14799000
+#28	SNOMED T14	14799000

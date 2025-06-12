@@ -1,0 +1,12 @@
+T1	disease 482 505	lésion paratesticulaire
+T2	disease 561 567	lipome
+T3	disease 676 744	lipome d'environ 2 x 1,5 cm a été observé dans le cordon spermatique
+T4	disease 841 864	lipome paratesticulaire
+T5	disease 1030 1075	LPS bien différencié du sous-type lipome-like
+T6	disease 1348 1365	récidive tumorale
+#1	SNOMED T5	254829001
+#2	SNOMED T3	93162007
+#3	SNOMED T4	93163002
+#4	SNOMED T1	281591005
+#5	SNOMED T6	25173007
+#6	SNOMED T2	93163002

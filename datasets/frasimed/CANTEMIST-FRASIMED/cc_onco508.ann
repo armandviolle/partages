@@ -1,0 +1,36 @@
+T1	morphology-onco 752 782	lésion sous-corticale frontale
+T2	morphology-onco 937 947	métastases
+T3	morphology-onco 1474 1491	oligométastatique
+T4	morphology-onco 1557 1566	métastase
+T5	morphology-onco 1737 1777	adénocarcinome du poumon, cT1a pN2, pM1b
+T6	morphology-onco 1874 1915	Adénocarcinome pulmonaire, cT1a pN1, pM1b
+T7	morphology-onco 2034 2043	métastase
+T8	morphology-onco 2824 2842	lésions cérébrales
+T9	morphology-onco 3148 3171	progression dans le SNC
+T10	morphology-onco 3504 3537	lésion hémisphérique cérébelleuse
+T11	morphology-onco 3770 3788	maladie systémique
+T12	morphology-onco 3946 3955	métastase
+#1	ICD-O-3.1 T11	8000/6
+#2	ICD-O-3.1 T8	8000/6
+#3	ICD-O-3.1 T2	8000/6
+#4	ICD-O-3.1 T4	8000/6
+#5	ICD-O-3.1 T7	8000/6
+#6	ICD-O-3.1 T12	8000/6
+#7	ICD-O-3.1 T3	8000/6
+#8	ICD-O-3.1 T1	8000/6
+#9	ICD-O-3.1 T5	8140/6
+#10	ICD-O-3.1 T6	8140/6
+#11	ICD-O-3.1 T9	8000/6
+#12	ICD-O-3.1 T10	8000/6
+#13	SNOMED T11	14799000
+#14	SNOMED T8	14799000
+#15	SNOMED T2	14799000
+#16	SNOMED T4	14799000
+#17	SNOMED T7	14799000
+#18	SNOMED T12	14799000
+#19	SNOMED T3	14799000
+#20	SNOMED T1	14799000
+#21	SNOMED T5	4590003
+#22	SNOMED T6	4590003
+#23	SNOMED T9	14799000
+#24	SNOMED T10	14799000

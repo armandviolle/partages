@@ -1,0 +1,36 @@
+T1	morphology-onco 329 337	lymphome
+T2	morphology-onco 367 373	cancer
+T3	morphology-onco 430 436	cancer
+T4	morphology-onco 2639 2650	néoformatif
+T5	morphology-onco 3664 3691	cellules tumorales malignes
+T6	morphology-onco 3694 3708	adénocarcinome
+T7	morphology-onco 3764 3771	maligne
+T8	morphology-onco 3915 3929	Adénocarcinome
+T9	morphology-onco 3968 3971	cM0
+T10	morphology-onco 4013 4027	adénocarcinome
+T11	morphology-onco 4067 4070	cM0
+T12	morphology-onco 4720 4729	néoplasie
+#1	ICD-O-3.1 T6	8140/3
+#2	ICD-O-3.1 T10	8140/3
+#3	ICD-O-3.1 T3	8000/3
+#4	ICD-O-3.1 T2	8000/3
+#5	ICD-O-3.1 T5	8001/3
+#6	ICD-O-3.1 T1	9590/3
+#7	ICD-O-3.1 T4	8000/1
+#8	ICD-O-3.1 T12	8000/1
+#9	ICD-O-3.1 T8	8140/3
+#10	ICD-O-3.1 T9	8000/6
+#11	ICD-O-3.1 T11	8000/6
+#12	ICD-O-3.1 T7	8000/3
+#13	SNOMED T6	1187332001
+#14	SNOMED T10	1187332001
+#15	SNOMED T3	1240414004
+#16	SNOMED T2	1240414004
+#17	SNOMED T5	88400008
+#18	SNOMED T1	1163043007
+#19	SNOMED T4	86251006
+#20	SNOMED T12	86251006
+#21	SNOMED T8	1187332001
+#22	SNOMED T9	14799000
+#23	SNOMED T11	14799000
+#24	SNOMED T7	1240414004

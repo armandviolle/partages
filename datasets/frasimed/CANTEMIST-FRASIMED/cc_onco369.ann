@@ -1,0 +1,36 @@
+T1	morphology-onco 304 310	cancer
+T2	morphology-onco 366 385	cancer métastatique
+T3	morphology-onco 1030 1070	Mélanome malin d'extension superficielle
+T4	morphology-onco 1348 1357	T2 à N0M0
+T5	morphology-onco 2527 2539	métastatique
+T6	morphology-onco 2626 2632	myxome
+T7	morphology-onco 3028 3036	tumoraux
+T8	morphology-onco 3753 3761	mélanome
+T9	morphology-onco 3951 3957	tumeur
+T10	morphology-onco 4302 4308	myxome
+T11	morphology-onco 4351 4379	tumeur stromale laxe mucoïde
+T12	morphology-onco 4506 4514	tumorale
+#1	ICD-O-3.1 T3	8743/3
+#2	ICD-O-3.1 T1	8000/3
+#3	ICD-O-3.1 T8	8720/3
+#4	ICD-O-3.1 T5	8000/6
+#5	ICD-O-3.1 T6	8840/0
+#6	ICD-O-3.1 T10	8840/0
+#7	ICD-O-3.1 T9	8000/1
+#8	ICD-O-3.1 T12	8000/1
+#9	ICD-O-3.1 T7	8000/1
+#10	ICD-O-3.1 T2	8000/6
+#11	ICD-O-3.1 T4	8000/6
+#12	ICD-O-3.1 T11	8840/0
+#13	SNOMED T3	55320002
+#14	SNOMED T1	1240414004
+#15	SNOMED T8	1162635006
+#16	SNOMED T5	14799000
+#17	SNOMED T6	39143003
+#18	SNOMED T10	39143003
+#19	SNOMED T9	86251006
+#20	SNOMED T12	86251006
+#21	SNOMED T7	86251006
+#22	SNOMED T2	14799000
+#23	SNOMED T4	14799000
+#24	SNOMED T11	39143003

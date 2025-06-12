@@ -1,0 +1,39 @@
+T1	morphology-onco 228 234	tumeur
+T2	morphology-onco 384 390	tumeur
+T3	morphology-onco 547 556	néoplasie
+T4	morphology-onco 1830 1836	tumeur
+T5	morphology-onco 2038 2050	métastatique
+T6	morphology-onco 2248 2252	ECSN
+T7	morphology-onco 2248 2273	ECSN (sinus endodermique)
+T8	morphology-onco 2294 2306	pT1cN0cM1bS2
+T9	morphology-onco 2320 2344	atteinte massive du foie
+T10	morphology-onco 2601 2635	tumeur germinale non séminomateuse
+T11	morphology-onco 2644 2662	sinus endodermique
+T12	morphology-onco 3340 3358	lésions hépatiques
+T13	morphology-onco 3571 3589	lésions hépatiques
+#1	ICD-O-3.1 T9	8000/6
+#2	ICD-O-3.1 T5	8000/6
+#3	ICD-O-3.1 T3	8000/1
+#4	ICD-O-3.1 T11	9071/3
+#5	ICD-O-3.1 T1	8000/1
+#6	ICD-O-3.1 T2	8000/1
+#7	ICD-O-3.1 T4	8000/1
+#8	ICD-O-3.1 T7	9071/3
+#9	ICD-O-3.1 T8	8000/6
+#10	ICD-O-3.1 T6	9065/3
+#11	ICD-O-3.1 T10	9065/3
+#12	ICD-O-3.1 T12	8000/6
+#13	ICD-O-3.1 T13	8000/6
+#14	SNOMED T9	14799000
+#15	SNOMED T5	14799000
+#16	SNOMED T3	86251006
+#17	SNOMED T11	74409009
+#18	SNOMED T1	86251006
+#19	SNOMED T2	86251006
+#20	SNOMED T4	86251006
+#21	SNOMED T7	74409009
+#22	SNOMED T8	14799000
+#23	SNOMED T6	128766005
+#24	SNOMED T10	128766005
+#25	SNOMED T12	14799000
+#26	SNOMED T13	14799000

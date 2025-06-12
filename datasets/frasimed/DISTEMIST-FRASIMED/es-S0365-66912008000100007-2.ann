@@ -1,0 +1,12 @@
+T1	disease 158 183	agénésie du corps calleux
+T2	disease 198 245	anomalies importantes de la migration neuronale
+T3	disease 271 280	épilepsie
+T4	disease 562 618	lacunes choriorétiniennes hypopigmentées péripapillaires
+T5	disease 856 892	malformations rénales ou vertébrales
+T6	disease 1004 1035	retard psychomoteur très sévère
+#1	SNOMED T1	5102002
+#2	SNOMED T2	253146009
+#3	SNOMED T3	84757009
+#4	SNOMED T4	302893000
+#5	SNOMED T5	90708001+410730009
+#6	SNOMED T6	110359009

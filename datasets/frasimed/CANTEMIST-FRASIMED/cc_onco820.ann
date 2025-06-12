@@ -1,0 +1,18 @@
+T1	morphology-onco 115 124	néoplasie
+T2	morphology-onco 378 401	carcinome ovarien mixte
+T3	morphology-onco 403 445	tumeur endométrioïde et à cellules claires
+T4	morphology-onco 403 463	tumeur endométrioïde et à cellules claires bien différenciée
+T5	morphology-onco 847 872	dissémination péritonéale
+T6	morphology-onco 4908 4949	progression tumorale au niveau pulmonaire
+#1	ICD-O-3.1 T1	8000/1
+#2	ICD-O-3.1 T2	8010/3/H
+#3	ICD-O-3.1 T4	8380/31
+#4	ICD-O-3.1 T3	8005/3
+#5	ICD-O-3.1 T5	8000/6
+#6	ICD-O-3.1 T6	8000/6
+#7	SNOMED T1	86251006
+#8	SNOMED T2	1187425009
+#9	SNOMED T4	30289006
+#10	SNOMED T3	128627007
+#11	SNOMED T5	14799000
+#12	SNOMED T6	14799000

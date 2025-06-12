@@ -1,0 +1,38 @@
+T1	morphology-onco 78 131	angiomyolipome épithélioïde malin avec des métastases
+T2	morphology-onco 557 575	maladie à distance
+T3	morphology-onco 1422 1435	LOE hépatique
+T4	morphology-onco 1531 1547	lésion hépatique
+T5	morphology-onco 1615 1633	masses pulmonaires
+T6	morphology-onco 1990 2017	angiomyolipome épithélioïde
+T7	morphology-onco 2031 2058	Angiomyolipome épithélioïde
+T8	morphology-onco 2117 2139	Progression pulmonaire
+T9	morphology-onco 2267 2276	carcinome
+T10	morphology-onco 2290 2312	métastases de mélanome
+T11	morphology-onco 2437 2446	néoplasme
+T12	morphology-onco 2565 2571	tumeur
+T13	morphology-onco 3083 3092	néoplasme
+#1	ICD-O-3.1 T7	8860/0/H
+#2	ICD-O-3.1 T6	8860/0/H
+#3	ICD-O-3.1 T9	8010/3
+#4	ICD-O-3.1 T2	8000/6
+#5	ICD-O-3.1 T4	8000/6
+#6	ICD-O-3.1 T10	8720/6
+#7	ICD-O-3.1 T13	8000/1
+#8	ICD-O-3.1 T11	8000/1
+#9	ICD-O-3.1 T12	8000/1
+#10	ICD-O-3.1 T1	8860/6/H
+#11	ICD-O-3.1 T3	8000/6
+#12	ICD-O-3.1 T5	8000/6
+#13	ICD-O-3.1 T8	8000/6
+#14	SNOMED T7	19929002
+#15	SNOMED T6	19929002
+#16	SNOMED T9	1187425009
+#17	SNOMED T2	14799000
+#18	SNOMED T4	14799000
+#19	SNOMED T10	372158004
+#20	SNOMED T13	86251006
+#21	SNOMED T11	86251006
+#22	SNOMED T12	86251006
+#23	SNOMED T3	14799000
+#24	SNOMED T5	14799000
+#25	SNOMED T8	14799000

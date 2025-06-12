@@ -1,0 +1,41 @@
+T1	morphology-onco 518 525	tumeurs
+T2	morphology-onco 660 666	tumeur
+T3	morphology-onco 976 989	hypernéphrome
+T4	morphology-onco 1006 1050	carcinome rénal classique à cellules claires
+T5	morphology-onco 1006 1084	carcinome rénal classique à cellules claires gauche avec zones chromophobes G2
+T6	morphology-onco 1084 1091	pT2N0M0
+T7	morphology-onco 1096 1167	Adénocarcinome de la prostate, lobe prostatique gauche de Gleason 3 + 4
+T8	morphology-onco 1168 1175	pT3N0M0
+T9	morphology-onco 1324 1379	carcinome rénal gauche conventionnel à cellules claires
+T10	morphology-onco 1324 1407	carcinome rénal gauche conventionnel à cellules claires avec des zones chromophobes
+T11	morphology-onco 1694 1737	adénocarcinome prostatique de Gleason 3 + 4
+T12	morphology-onco 1912 1931	nodules pulmonaires
+T13	morphology-onco 2074 2093	nodules pulmonaires
+T14	morphology-onco 2195 2236	métastase de carcinome à cellules claires
+#1	ICD-O-3.1 T3	8312/3
+#2	ICD-O-3.1 T14	8310/6
+#3	ICD-O-3.1 T12	8000/6
+#4	ICD-O-3.1 T13	8000/6
+#5	ICD-O-3.1 T8	8000/6
+#6	ICD-O-3.1 T2	8000/1
+#7	ICD-O-3.1 T1	8000/1
+#8	ICD-O-3.1 T5	8270/32
+#9	ICD-O-3.1 T6	8000/6
+#10	ICD-O-3.1 T4	8310/3
+#11	ICD-O-3.1 T7	8140/32
+#12	ICD-O-3.1 T10	8270/3
+#13	ICD-O-3.1 T9	8310/3
+#14	ICD-O-3.1 T11	8140/32
+#15	SNOMED T3	41607009
+#16	SNOMED T12	14799000
+#17	SNOMED T13	14799000
+#18	SNOMED T8	14799000
+#19	SNOMED T2	86251006
+#20	SNOMED T1	86251006
+#21	SNOMED T5	733471003
+#22	SNOMED T6	14799000
+#23	SNOMED T4	30546008
+#24	SNOMED T7	1187332001
+#25	SNOMED T10	733471003
+#26	SNOMED T9	30546008
+#27	SNOMED T11	1187332001

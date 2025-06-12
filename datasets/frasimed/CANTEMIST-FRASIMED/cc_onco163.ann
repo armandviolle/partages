@@ -1,0 +1,69 @@
+T1	morphology-onco 195 215	carcinome infiltrant
+T2	morphology-onco 422 443	carcinome épidermoïde
+T3	morphology-onco 619 631	Ib1N1M0-IIIB
+T4	morphology-onco 842 850	grosseur
+T5	morphology-onco 1162 1192	carcinome canalaire infiltrant
+T6	morphology-onco 1330 1360	carcinome canalaire infiltrant
+T7	morphology-onco 1574 1581	cT2N1M0
+T8	morphology-onco 2634 2653	lésion métastatique
+T9	morphology-onco 3000 3013	implant dural
+T10	morphology-onco 3564 3580	lésions cutanées
+T11	morphology-onco 4380 4393	carcinomatose
+T12	morphology-onco 4459 4472	carcinomatose
+T13	morphology-onco 4483 4499	Lésions osseuses
+T14	morphology-onco 4649 4659	métastases
+T15	morphology-onco 4791 4801	métastases
+T16	morphology-onco 4833 4846	métastatiques
+T17	morphology-onco 5136 5142	cancer
+T18	morphology-onco 5484 5511	adénocarcinome métastatique
+T19	morphology-onco 5768 5794	métastase d'adénocarcinome
+T20	morphology-onco 6109 6118	néoplasie
+T21	morphology-onco 6206 6220	adénocarcinome
+T22	morphology-onco 6258 6316	Adénocarcinome de novo du côlon avec métastases hépatiques
+T23	morphology-onco 6412 6418	cancer
+#1	ICD-O-3.1 T18	8140/6
+#2	ICD-O-3.1 T23	8010/3
+#3	ICD-O-3.1 T5	8500/3
+#4	ICD-O-3.1 T6	8500/3
+#5	ICD-O-3.1 T2	8070/3
+#6	ICD-O-3.1 T11	8010/9
+#7	ICD-O-3.1 T12	8010/9
+#8	ICD-O-3.1 T17	8000/3
+#9	ICD-O-3.1 T8	8000/6
+#10	ICD-O-3.1 T16	8000/6
+#11	ICD-O-3.1 T14	8000/6
+#12	ICD-O-3.1 T15	8000/6
+#13	ICD-O-3.1 T19	8140/6
+#14	ICD-O-3.1 T20	8000/1
+#15	ICD-O-3.1 T4	8000/1
+#16	ICD-O-3.1 T1	8010/3/H
+#17	ICD-O-3.1 T3	8000/6
+#18	ICD-O-3.1 T7	8000/6
+#19	ICD-O-3.1 T9	8000/6
+#20	ICD-O-3.1 T13	8000/6
+#21	ICD-O-3.1 T22	8140/6
+#22	ICD-O-3.1 T21	8140/3
+#23	ICD-O-3.1 T10	8000/6
+#24	SNOMED T18	4590003
+#25	SNOMED T23	1187425009
+#26	SNOMED T5	58477004
+#27	SNOMED T6	58477004
+#28	SNOMED T2	1162767002
+#29	SNOMED T11	307593001
+#30	SNOMED T12	307593001
+#31	SNOMED T17	1240414004
+#32	SNOMED T8	14799000
+#33	SNOMED T16	14799000
+#34	SNOMED T14	14799000
+#35	SNOMED T15	14799000
+#36	SNOMED T19	4590003
+#37	SNOMED T20	86251006
+#38	SNOMED T4	86251006
+#39	SNOMED T1	1187425009
+#40	SNOMED T3	14799000
+#41	SNOMED T7	14799000
+#42	SNOMED T9	14799000
+#43	SNOMED T13	14799000
+#44	SNOMED T22	4590003
+#45	SNOMED T21	1187332001
+#46	SNOMED T10	14799000

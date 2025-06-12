@@ -1,0 +1,19 @@
+T1	disease 20 26	fumeur
+T2	disease 56 65	ex-buveur
+T3	disease 226 234	syncopes
+T4	disease 323 376	endocardite infectieuse sur une valve mitrale myxoïde
+T5	disease 395 418	perforation de la valve
+T6	disease 428 455	insuffisance mitrale sévère
+T7	disease 757 779	hypotension artérielle
+T8	disease 830 843	hépatomégalie
+T9	disease 1087 1093	anémie
+T10	disease 1462 1475	hépatomégalie
+T11	disease 1540 1548	stéatose
+T12	disease 1745 1776	épanchement péricardique massif
+T13	disease 2042 2079	tamponnade échocardiographique sévère
+T14	disease 2363 2409	épanchement situé au niveau apical (encapsulé)
+T15	disease 2500 2521	épanchement hématique
+T16	disease 3024 3054	léger épanchement péricardique
+T17	disease 3368 3387	hépatite ischémique
+T18	disease 3441 3461	tamponnade cardiaque
+T19	disease 3478 3540	syndrome post-péricardiotomie avec transformation hémorragique

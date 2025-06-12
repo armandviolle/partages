@@ -1,0 +1,21 @@
+T1	morphology-onco 254 284	carcinome canalaire infiltrant
+T2	morphology-onco 501 509	tumorale
+T3	morphology-onco 1885 1897	métastatique
+T4	morphology-onco 2050 2062	métastatique
+T5	morphology-onco 2075 2084	néoplasie
+T6	morphology-onco 2691 2704	métastatiques
+T7	morphology-onco 2756 2762	tumeur
+#1	ICD-O-3.1 T1	8500/3
+#2	ICD-O-3.1 T3	8000/6
+#3	ICD-O-3.1 T4	8000/6
+#4	ICD-O-3.1 T6	8000/6
+#5	ICD-O-3.1 T5	8000/1
+#6	ICD-O-3.1 T7	8000/1
+#7	ICD-O-3.1 T2	8000/1
+#8	SNOMED T1	58477004
+#9	SNOMED T3	14799000
+#10	SNOMED T4	14799000
+#11	SNOMED T6	14799000
+#12	SNOMED T5	86251006
+#13	SNOMED T7	86251006
+#14	SNOMED T2	86251006

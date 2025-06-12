@@ -1,0 +1,25 @@
+T1	disease 189 202	conjonctivite
+T2	disease 399 412	diabète sucré
+T3	disease 414 426	hypertension
+T4	disease 428 435	obésité
+T5	disease 437 455	stéatose hépatique
+T6	disease 457 471	hyperthyroïdie
+T7	disease 473 496	cardiopathie ischémique
+T8	disease 528 557	insuffisance rénale chronique
+T9	disease 528 598	insuffisance rénale chronique secondaire à une pyélonéphrite chronique
+T10	disease 575 598	pyélonéphrite chronique
+T11	disease 1242 1255	œdème cornéen
+T12	disease 1340 1346	lésion
+T13	disease 1566 1582	modérément obèse
+T14	disease 1638 1659	hypertension oculaire
+T15	disease 1836 1844	glaucome
+T16	disease 1907 1939	syndrome d'apnée-hypopnée sévère
+T17	disease 2025 2044	léger œdème cornéen
+T18	disease 2056 2073	kératite ponctuée
+T19	disease 2208 2221	œdème cornéen
+T20	disease 2260 2287	fistule carotide-caverneuse
+T21	disease 2294 2322	syndrome de l'apex orbitaire
+T22	disease 2922 2954	maladie orbitale et/ou crânienne
+T23	disease 2982 3001	ulcère périphérique
+T24	disease 3422 3438	lésion cornéenne
+T25	disease 3468 3475	leucome

@@ -1,0 +1,15 @@
+T1	morphology-onco 434 477	adénocarcinome prostatique de Gleason 4 + 5
+T2	morphology-onco 1039 1053	adénocarcinome
+T3	morphology-onco 1722 1738	lésions cutanées
+T4	morphology-onco 2775 2812	métastase cutanée d'un adénocarcinome
+T5	morphology-onco 2841 2880	Métastases cutanées d'un adénocarcinome
+#1	ICD-O-3.1 T2	8140/3
+#2	ICD-O-3.1 T3	8000/6
+#3	ICD-O-3.1 T1	8140/33
+#4	ICD-O-3.1 T4	8140/6
+#5	ICD-O-3.1 T5	8140/6
+#6	SNOMED T2	1187332001
+#7	SNOMED T3	14799000
+#8	SNOMED T1	1187332001
+#9	SNOMED T4	4590003
+#10	SNOMED T5	4590003

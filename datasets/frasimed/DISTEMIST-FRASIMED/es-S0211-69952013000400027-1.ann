@@ -1,0 +1,8 @@
+T1	disease 68 88	crises hypertensives
+T2	disease 1360 1400	paragangliome de l'organe de Zuckerkandl
+T3	disease 1611 1632	tumeur intracavitaire
+T4	disease 1890 1903	paragangliome
+#1	SNOMED T1	706882009
+#2	SNOMED T2	302833002
+#3	SNOMED T4	302833002
+#4	SNOMED T3	126736007

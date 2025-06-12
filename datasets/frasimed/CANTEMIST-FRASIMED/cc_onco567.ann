@@ -1,0 +1,55 @@
+T1	morphology-onco 1044 1062	lésions à distance
+T2	morphology-onco 1170 1179	néoplasie
+T3	morphology-onco 1346 1396	carcinome à cellules claires de grade 2 de Fuhrman
+T4	morphology-onco 1455 1457	Mx
+T5	morphology-onco 1584 1601	nodule pulmonaire
+T6	morphology-onco 1756 1805	métastase d'un carcinome rénal à cellules claires
+T7	morphology-onco 1836 1853	nodule pulmonaire
+T8	morphology-onco 1933 1954	nodules sous-pleuraux
+T9	morphology-onco 2963 2989	masse infradiaphragmatique
+T10	morphology-onco 3040 3059	lésions pulmonaires
+T11	morphology-onco 3307 3326	lésions pulmonaires
+T12	morphology-onco 3364 3380	masse abdominale
+T13	morphology-onco 3631 3657	masse infradiaphragmatique
+T14	morphology-onco 3813 3860	métastase de carcinome rénal à cellules claires
+T15	morphology-onco 4163 4182	nodules pulmonaires
+T16	morphology-onco 4427 4449	lésions sous-pleurales
+T17	morphology-onco 4781 4800	lésions pulmonaires
+T18	morphology-onco 5233 5249	masse pulmonaire
+T19	morphology-onco 5610 5626	masse pulmonaire
+#1	ICD-O-3.1 T4	8000/6
+#2	ICD-O-3.1 T1	8000/6
+#3	ICD-O-3.1 T10	8000/6
+#4	ICD-O-3.1 T11	8000/6
+#5	ICD-O-3.1 T17	8000/6
+#6	ICD-O-3.1 T6	8310/6
+#7	ICD-O-3.1 T14	8310/6
+#8	ICD-O-3.1 T2	8000/1
+#9	ICD-O-3.1 T5	8000/6
+#10	ICD-O-3.1 T7	8000/6
+#11	ICD-O-3.1 T15	8000/6
+#12	ICD-O-3.1 T3	8310/32
+#13	ICD-O-3.1 T8	8000/6
+#14	ICD-O-3.1 T12	8000/6
+#15	ICD-O-3.1 T9	8000/6
+#16	ICD-O-3.1 T13	8000/6
+#17	ICD-O-3.1 T16	8000/6
+#18	ICD-O-3.1 T18	8000/6
+#19	ICD-O-3.1 T19	8000/6
+#20	SNOMED T4	14799000
+#21	SNOMED T1	14799000
+#22	SNOMED T10	14799000
+#23	SNOMED T11	14799000
+#24	SNOMED T17	14799000
+#25	SNOMED T2	86251006
+#26	SNOMED T5	14799000
+#27	SNOMED T7	14799000
+#28	SNOMED T15	14799000
+#29	SNOMED T3	30546008
+#30	SNOMED T8	14799000
+#31	SNOMED T12	14799000
+#32	SNOMED T9	14799000
+#33	SNOMED T13	14799000
+#34	SNOMED T16	14799000
+#35	SNOMED T18	14799000
+#36	SNOMED T19	14799000

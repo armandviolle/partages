@@ -1,0 +1,69 @@
+T1	morphology-onco 816 828	néoformation
+T2	morphology-onco 919 932	métastatiques
+T3	morphology-onco 1164 1195	adénocarcinome bien différencié
+T4	morphology-onco 1656 1668	néoformation
+T5	morphology-onco 1759 1772	métastatiques
+T6	morphology-onco 2004 2035	adénocarcinome bien différencié
+T7	morphology-onco 2212 2257	adénocarcinome sigmoïdien sténosant, pT3N2bM1
+T8	morphology-onco 2275 2293	atteinte hépatique
+T9	morphology-onco 2469 2475	tumeur
+T10	morphology-onco 2579 2589	métastases
+T11	morphology-onco 2710 2740	masse indurée sus-claviculaire
+T12	morphology-onco 2908 2917	métastase
+T13	morphology-onco 2941 2955	adénocarcinome
+T14	morphology-onco 3029 3035	tumeur
+T15	morphology-onco 3144 3158	adénocarcinome
+T16	morphology-onco 3466 3496	adénopathique sus-claviculaire
+T17	morphology-onco 3650 3685	maladie au niveau supraclaviculaire
+T18	morphology-onco 3766 3784	lésions hépatiques
+T19	morphology-onco 4097 4127	adénopathique sus-claviculaire
+T20	morphology-onco 4311 4342	adénopathies supraclaviculaires
+T21	morphology-onco 4360 4370	métastases
+T22	morphology-onco 4421 4431	métastases
+T23	morphology-onco 5438 5477	progression au niveau supraclaviculaire
+#1	ICD-O-3.1 T13	8140/3
+#2	ICD-O-3.1 T15	8140/3
+#3	ICD-O-3.1 T3	8140/31
+#4	ICD-O-3.1 T6	8140/31
+#5	ICD-O-3.1 T20	8000/6
+#6	ICD-O-3.1 T8	8000/6
+#7	ICD-O-3.1 T18	8000/6
+#8	ICD-O-3.1 T2	8000/6
+#9	ICD-O-3.1 T5	8000/6
+#10	ICD-O-3.1 T10	8000/6
+#11	ICD-O-3.1 T12	8000/6
+#12	ICD-O-3.1 T22	8000/6
+#13	ICD-O-3.1 T21	8000/6
+#14	ICD-O-3.1 T1	8000/1
+#15	ICD-O-3.1 T4	8000/1
+#16	ICD-O-3.1 T9	8000/1
+#17	ICD-O-3.1 T14	8000/1
+#18	ICD-O-3.1 T7	8140/6
+#19	ICD-O-3.1 T11	8000/6
+#20	ICD-O-3.1 T16	8000/6
+#21	ICD-O-3.1 T17	8000/6
+#22	ICD-O-3.1 T19	8000/6
+#23	ICD-O-3.1 T23	8000/6
+#24	SNOMED T13	1187332001
+#25	SNOMED T15	1187332001
+#26	SNOMED T3	1187332001
+#27	SNOMED T6	1187332001
+#28	SNOMED T20	14799000
+#29	SNOMED T8	14799000
+#30	SNOMED T18	14799000
+#31	SNOMED T2	14799000
+#32	SNOMED T5	14799000
+#33	SNOMED T10	14799000
+#34	SNOMED T12	14799000
+#35	SNOMED T22	14799000
+#36	SNOMED T21	14799000
+#37	SNOMED T1	86251006
+#38	SNOMED T4	86251006
+#39	SNOMED T9	86251006
+#40	SNOMED T14	86251006
+#41	SNOMED T7	4590003
+#42	SNOMED T11	14799000
+#43	SNOMED T16	14799000
+#44	SNOMED T17	14799000
+#45	SNOMED T19	14799000
+#46	SNOMED T23	14799000

@@ -1,0 +1,16 @@
+T1	disease 102 117	chorioamnionite
+T2	disease 359 508	lymphome de Hodgkin de type sclérose nodulaire, stade III-IV en raison d'une atteinte adénopathique infradiaphragmatique et d'une hépatosplénomégalie
+T3	disease 669 748	maladie a de nouveau été détectée dans le médiastin et le parenchyme pulmonaire
+T4	disease 763 782	hépatosplénomégalie
+T5	disease 2723 2748	épanchement pleural droit
+T6	disease 2776 2845	cathéter à l'extérieur de l'oreillette droite dans la cavité pleurale
+T7	disease 2878 2942	extravasation d'une substance chimiothérapeutique dans la plèvre
+T8	disease 3183 3261	extrémité du cathéter veineux avait migré jusqu'à se trouver au niveau pleural
+#1	SNOMED T7	423661009
+#2	SNOMED T1	11612004
+#3	SNOMED T2	118608000
+#4	SNOMED T6	473138005
+#5	SNOMED T3	49483002+19829001
+#6	SNOMED T4	36760000
+#7	SNOMED T5	60046008
+#8	SNOMED T8	473138005

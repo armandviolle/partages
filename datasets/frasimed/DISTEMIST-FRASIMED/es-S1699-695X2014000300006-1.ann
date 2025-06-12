@@ -1,0 +1,38 @@
+T1	disease 31 38	obésité
+T2	disease 42 65	hypertension artérielle
+T3	disease 67 70	HTA
+T4	disease 76 99	diabète sucré de type 2
+T5	disease 104 127	cardiopathie ischémique
+T6	disease 132 134	FA
+T7	disease 139 180	bronchopneumopathie chronique obstructive
+T8	disease 182 186	BPCO
+T9	disease 194 221	syndrome d'apnée du sommeil
+T10	disease 883 891	arythmie
+T11	disease 1223 1282	insuffisance veineuse chronique dans les membres inférieurs
+T12	disease 1696 1708	hypertension
+T13	disease 1710 1733	cardiopathie ischémique
+T14	disease 1868 1891	exacerbation de la BPCO
+T15	disease 1994 2005	bradycardie
+T16	disease 2259 2267	FA lente
+T17	disease 2505 2507	FA
+T18	disease 2513 2540	bloc auriculo-ventriculaire
+T19	disease 2551 2572	bloc de branche droit
+#1	SNOMED T16	49436004
+#2	SNOMED T1	414916001
+#3	SNOMED T2	38341003
+#4	SNOMED T10	698247007
+#5	SNOMED T3	38341003
+#6	SNOMED T4	44054006
+#7	SNOMED T12	38341003
+#8	SNOMED T13	194828000
+#9	SNOMED T5	194828000
+#10	SNOMED T6	49436004
+#11	SNOMED T7	13645005
+#12	SNOMED T8	13645005
+#13	SNOMED T9	73430006
+#14	SNOMED T14	195951007
+#15	SNOMED T17	49436004
+#16	SNOMED T18	233917008
+#17	SNOMED T19	59118001
+#18	SNOMED T11	234050002
+#19	SNOMED T15	48867003

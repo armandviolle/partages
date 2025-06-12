@@ -1,0 +1,12 @@
+T1	disease 170 234	lésions érythémateuses sur la surface prétibiale des deux jambes
+T2	disease 414 455	infection des voies aériennes supérieures
+T3	disease 706 713	lésions
+T4	disease 889 895	lésion
+T5	disease 1854 1861	lésions
+T6	disease 2041 2081	érythème noueux d'étiologie idiopathique
+#1	SNOMED T2	54150009
+#2	SNOMED T6	32861005
+#3	SNOMED T1	400202001
+#4	SNOMED T3	157670007
+#5	SNOMED T4	157670007
+#6	SNOMED T5	157670007

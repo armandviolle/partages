@@ -1,0 +1,18 @@
+T1	morphology-onco 498 507	malignité
+T2	morphology-onco 1692 1699	maligne
+T3	morphology-onco 2211 2224	neuroblastome
+T4	morphology-onco 2247 2280	carcinome pulmonaire microcytaire
+T5	morphology-onco 2502 2545	carcinome neuroendocrine à petites cellules
+T6	morphology-onco 2584 2616	carcinome microcytaire du poumon
+#1	ICD-O-3.1 T4	8041/3
+#2	ICD-O-3.1 T5	8041/3
+#3	ICD-O-3.1 T2	8000/3
+#4	ICD-O-3.1 T3	9500/3
+#5	ICD-O-3.1 T1	8000/3
+#6	ICD-O-3.1 T6	8041/3
+#7	SNOMED T4	11010461000119101
+#8	SNOMED T5	11010461000119101
+#9	SNOMED T2	1240414004
+#10	SNOMED T3	432328008
+#11	SNOMED T1	1240414004
+#12	SNOMED T6	11010461000119101

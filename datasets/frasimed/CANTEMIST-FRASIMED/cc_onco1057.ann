@@ -1,0 +1,45 @@
+T1	morphology-onco 1429 1436	tumeurs
+T2	morphology-onco 1947 1994	tumeur indifférenciée formée de cellules rondes
+T3	morphology-onco 2377 2391	tumeur maligne
+T4	morphology-onco 2630 2664	Rhabdomyosarcome alvéolaire solide
+T5	morphology-onco 2707 2717	métastases
+T6	morphology-onco 2779 2812	infiltration de la moelle osseuse
+T7	morphology-onco 2916 2956	sarcome desmoplastique à cellules rondes
+T8	morphology-onco 2924 2956	desmoplastique à cellules rondes
+T9	morphology-onco 3591 3624	infiltration de la moelle osseuse
+T10	morphology-onco 3837 3869	tumeur à petites cellules rondes
+T11	morphology-onco 3879 3913	rhabdomyosarcome alvéolaire solide
+T12	morphology-onco 4070 4130	rhabdomyosarcome alvéolaire à très haut risque (forme solide
+T13	morphology-onco 4168 4201	infiltration de la moelle osseuse
+T14	morphology-onco 5866 5883	rhabdomyosarcomes
+T15	morphology-onco 6447 6454	maligne
+#1	ICD-O-3.1 T6	8000/6
+#2	ICD-O-3.1 T9	8000/6
+#3	ICD-O-3.1 T13	8000/6
+#4	ICD-O-3.1 T15	8000/3
+#5	ICD-O-3.1 T5	8000/6
+#6	ICD-O-3.1 T12	8920/3/H
+#7	ICD-O-3.1 T14	8900/3
+#8	ICD-O-3.1 T2	8000/34/H
+#9	ICD-O-3.1 T3	8000/3
+#10	ICD-O-3.1 T1	8000/1
+#11	ICD-O-3.1 T4	8920/3/H
+#12	ICD-O-3.1 T8	8806/3
+#13	ICD-O-3.1 T7	8803/3
+#14	ICD-O-3.1 T10	8000/1/H
+#15	ICD-O-3.1 T11	8920/3/H
+#16	SNOMED T6	14799000
+#17	SNOMED T9	14799000
+#18	SNOMED T13	14799000
+#19	SNOMED T15	1240414004
+#20	SNOMED T5	14799000
+#21	SNOMED T12	404053004
+#22	SNOMED T14	30924005
+#23	SNOMED T2	1240414004
+#24	SNOMED T3	1240414004
+#25	SNOMED T1	86251006
+#26	SNOMED T4	404053004
+#27	SNOMED T8	1156420003
+#28	SNOMED T7	73506006
+#29	SNOMED T10	86251006
+#30	SNOMED T11	404053004

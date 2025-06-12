@@ -1,0 +1,8 @@
+T1	disease 390 406	œdème papillaire
+T2	disease 421 442	exsudat sous-rétinien
+T3	disease 563 567	Lyme
+T4	disease 1208 1228	tuberculose oculaire
+#1	SNOMED T4	49107007
+#2	SNOMED T1	423341008
+#3	SNOMED T3	23502006
+#4	SNOMED T2	247156002

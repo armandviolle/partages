@@ -1,0 +1,45 @@
+T1	morphology-onco 730 770	métastase d'un carcinome peu différencié
+T2	morphology-onco 784 809	Carcinome peu différencié
+T3	morphology-onco 829 837	cTxN2aM0
+T4	morphology-onco 1022 1047	carcinome peu différencié
+T5	morphology-onco 1288 1341	carcinome nasopharyngé indifférencié non kératinisant
+T6	morphology-onco 1343 1360	lymphoépithéliome
+T7	morphology-onco 1400 1409	carcinome
+T8	morphology-onco 1432 1439	T2N2bM0
+T9	morphology-onco 1506 1512	tumeur
+T10	morphology-onco 1649 1703	lésion blastique douloureuse est apparue sur l'humérus
+T11	morphology-onco 1737 1766	métastase (M1) d'un carcinome
+T12	morphology-onco 1748 1750	M1
+T13	morphology-onco 1844 1846	M1
+T14	morphology-onco 1860 1892	multiples métastases pulmonaires
+T15	morphology-onco 2089 2108	progression osseuse
+#1	ICD-O-3.1 T2	8010/33
+#2	ICD-O-3.1 T12	8000/6
+#3	ICD-O-3.1 T13	8000/6
+#4	ICD-O-3.1 T7	8010/3
+#5	ICD-O-3.1 T4	8010/33
+#6	ICD-O-3.1 T1	8010/63
+#7	ICD-O-3.1 T14	8000/6
+#8	ICD-O-3.1 T15	8000/6
+#9	ICD-O-3.1 T9	8000/1
+#10	ICD-O-3.1 T3	8000/6
+#11	ICD-O-3.1 T5	8072/34
+#12	ICD-O-3.1 T6	8082/3
+#13	ICD-O-3.1 T8	8000/6
+#14	ICD-O-3.1 T10	8000/6
+#15	ICD-O-3.1 T11	8010/6
+#16	SNOMED T2	1187425009
+#17	SNOMED T12	14799000
+#18	SNOMED T13	14799000
+#19	SNOMED T7	1187425009
+#20	SNOMED T4	1187425009
+#21	SNOMED T1	79282002
+#22	SNOMED T14	14799000
+#23	SNOMED T15	14799000
+#24	SNOMED T9	86251006
+#25	SNOMED T3	14799000
+#26	SNOMED T5	45490001
+#27	SNOMED T6	764938007
+#28	SNOMED T8	14799000
+#29	SNOMED T10	14799000
+#30	SNOMED T11	79282002

@@ -1,0 +1,72 @@
+T1	morphology-onco 875 881	tumeur
+T2	morphology-onco 1113 1127	tumeur maligne
+T3	morphology-onco 1271 1301	adénocarcinome peu différencié
+T4	morphology-onco 1445 1458	carcinomatose
+T5	morphology-onco 1596 1610	adénocarcinome
+T6	morphology-onco 1967 1981	Adénocarcinome
+T7	morphology-onco 2000 2002	M0
+T8	morphology-onco 2034 2040	cancer
+T9	morphology-onco 2451 2470	progression osseuse
+T10	morphology-onco 2676 2686	métastases
+T11	morphology-onco 2736 2746	métastases
+T12	morphology-onco 2802 2812	métastases
+T13	morphology-onco 2894 2908	adénocarcinome
+T14	morphology-onco 3017 3033	lésions osseuses
+T15	morphology-onco 3115 3132	adénomes dentelés
+T16	morphology-onco 3153 3160	maligne
+T17	morphology-onco 3214 3221	tumeurs
+T18	morphology-onco 3266 3288	métastase de carcinome
+T19	morphology-onco 3410 3438	tumeur métastatique primaire
+T20	morphology-onco 3446 3452	cancer
+T21	morphology-onco 3527 3541	adénocarcinome
+T22	morphology-onco 3579 3585	tumeur
+T23	morphology-onco 3868 3887	cancer métastatique
+T24	morphology-onco 4018 4034	lésions osseuses
+#1	ICD-O-3.1 T6	8140/3
+#2	ICD-O-3.1 T7	8000/6
+#3	ICD-O-3.1 T5	8140/3
+#4	ICD-O-3.1 T13	8140/3
+#5	ICD-O-3.1 T21	8140/3
+#6	ICD-O-3.1 T3	8140/33
+#7	ICD-O-3.1 T4	8010/9
+#8	ICD-O-3.1 T8	8000/3
+#9	ICD-O-3.1 T20	8000/3
+#10	ICD-O-3.1 T14	8000/6
+#11	ICD-O-3.1 T24	8000/6
+#12	ICD-O-3.1 T16	8000/3
+#13	ICD-O-3.1 T2	8000/3
+#14	ICD-O-3.1 T10	8000/6
+#15	ICD-O-3.1 T11	8000/6
+#16	ICD-O-3.1 T12	8000/6
+#17	ICD-O-3.1 T18	8010/6
+#18	ICD-O-3.1 T9	8000/6
+#19	ICD-O-3.1 T1	8000/1
+#20	ICD-O-3.1 T22	8000/1
+#21	ICD-O-3.1 T17	8000/1
+#22	ICD-O-3.1 T15	8213/0
+#23	ICD-O-3.1 T19	8000/6
+#24	ICD-O-3.1 T23	8000/6
+#25	SNOMED T6	1187332001
+#26	SNOMED T7	14799000
+#27	SNOMED T5	1187332001
+#28	SNOMED T13	1187332001
+#29	SNOMED T21	1187332001
+#30	SNOMED T3	1187332001
+#31	SNOMED T4	307593001
+#32	SNOMED T8	1240414004
+#33	SNOMED T20	1240414004
+#34	SNOMED T14	14799000
+#35	SNOMED T24	14799000
+#36	SNOMED T16	1240414004
+#37	SNOMED T2	1240414004
+#38	SNOMED T10	14799000
+#39	SNOMED T11	14799000
+#40	SNOMED T12	14799000
+#41	SNOMED T18	79282002
+#42	SNOMED T9	14799000
+#43	SNOMED T1	86251006
+#44	SNOMED T22	86251006
+#45	SNOMED T17	86251006
+#46	SNOMED T15	443734007
+#47	SNOMED T19	14799000
+#48	SNOMED T23	14799000

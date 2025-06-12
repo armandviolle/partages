@@ -1,0 +1,12 @@
+T1	disease 67 114	proptose d'un an d'évolution dans les deux yeux
+T2	disease 326 334	amblyope
+T3	disease 553 569	œdème papillaire
+T4	disease 755 770	quadrantanopsie
+T5	disease 907 929	exophtalmie bilatérale
+T6	disease 978 999	méningocèle bilatéral
+#1	SNOMED T1	18265008
+#2	SNOMED T2	387742006
+#3	SNOMED T3	423341008
+#4	SNOMED T4	82180009
+#5	SNOMED T5	18265008
+#6	SNOMED T6	171131006

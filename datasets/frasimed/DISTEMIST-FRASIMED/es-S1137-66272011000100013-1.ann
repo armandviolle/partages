@@ -1,0 +1,16 @@
+T1	disease 83 102	silicose compliquée
+T2	disease 104 107	PMF
+T3	disease 110 119	Ex-fumeur
+T4	disease 153 175	tuberculose pulmonaire
+T5	disease 779 804	insuffisance respiratoire
+T6	disease 1143 1151	silicose
+T7	disease 1230 1233	PMF
+T8	disease 1670 1686	lésion cavitaire
+#1	SNOMED T1	49840000
+#2	SNOMED T3	8517006
+#3	SNOMED T4	154283005
+#4	SNOMED T5	409623005
+#5	SNOMED T6	805002
+#6	SNOMED T2	233749003
+#7	SNOMED T7	233749003
+#8	SNOMED T8	301863008

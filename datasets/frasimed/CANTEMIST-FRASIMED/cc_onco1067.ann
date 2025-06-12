@@ -1,0 +1,36 @@
+T1	morphology-onco 131 190	carcinome canalaire infiltrant multicentrique du sein droit
+T2	morphology-onco 204 225	carcinome intraductal
+T3	morphology-onco 233 241	pT2pN0M0
+T4	morphology-onco 693 711	kystique et solide
+T5	morphology-onco 834 850	carcinome séreux
+T6	morphology-onco 995 1039	cystadénocarcinome ovarien séreux papillaire
+T7	morphology-onco 1538 1547	malignité
+T8	morphology-onco 2198 2210	métastatique
+T9	morphology-onco 2226 2235	Carcinome
+T10	morphology-onco 2254 2260	T2N0M0
+T11	morphology-onco 2298 2307	Carcinome
+T12	morphology-onco 3229 3235	cancer
+#1	ICD-O-3.1 T9	8010/3
+#2	ICD-O-3.1 T11	8010/3
+#3	ICD-O-3.1 T10	8000/6
+#4	ICD-O-3.1 T2	8500/2
+#5	ICD-O-3.1 T5	8441/3
+#6	ICD-O-3.1 T6	8460/3
+#7	ICD-O-3.1 T12	8000/3
+#8	ICD-O-3.1 T7	8000/3
+#9	ICD-O-3.1 T8	8000/6
+#10	ICD-O-3.1 T3	8000/6
+#11	ICD-O-3.1 T1	8500/3/H
+#12	ICD-O-3.1 T4	8452/1
+#13	SNOMED T9	1187425009
+#14	SNOMED T11	1187425009
+#15	SNOMED T10	14799000
+#16	SNOMED T2	1162814007
+#17	SNOMED T5	90725004
+#18	SNOMED T6	703561001
+#19	SNOMED T12	1240414004
+#20	SNOMED T7	1240414004
+#21	SNOMED T8	14799000
+#22	SNOMED T3	14799000
+#23	SNOMED T1	58477004
+#24	SNOMED T4	27078002

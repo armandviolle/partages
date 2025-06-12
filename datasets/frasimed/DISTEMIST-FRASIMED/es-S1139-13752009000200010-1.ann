@@ -1,0 +1,12 @@
+T1	disease 43 62	pancolite ulcéreuse
+T2	disease 76 92	corticodépendant
+T3	disease 130 165	maladie inflammatoire de l'intestin
+T4	disease 445 494	diarrhée (5-6 selles par jour) avec du sang rouge
+T5	disease 551 575	rectocolite hémorragique
+T6	disease 896 929	complication ou effet indésirable
+#1	SNOMED T1	444548001
+#2	SNOMED T5	64766004
+#3	SNOMED T2	95919007
+#4	SNOMED T3	24526004
+#5	SNOMED T4	95545007
+#6	SNOMED T6	281647001

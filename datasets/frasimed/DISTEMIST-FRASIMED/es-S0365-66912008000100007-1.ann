@@ -1,0 +1,18 @@
+T1	disease 218 243	agénésie du corps calleux
+T2	disease 250 286	rein droit dysplasique multicystique
+T3	disease 338 362	kyste du plexus choroïde
+T4	disease 369 417	kyste dans la région interhémisphérique profonde
+T5	disease 442 476	anomalie de la migration neuronale
+T6	disease 830 848	atteinte maculaire
+T7	disease 910 952	malformation colobomateuse du nerf optique
+T8	disease 980 1005	lacunes choriorétiniennes
+T9	disease 1011 1029	atteinte maculaire
+#1	SNOMED T1	5102002
+#2	SNOMED T2	82525005
+#3	SNOMED T3	230790004
+#4	SNOMED T4	40720005
+#5	SNOMED T7	77157004
+#6	SNOMED T8	302893000
+#7	SNOMED T5	253146009
+#8	SNOMED T6	312999006
+#9	SNOMED T9	312999006

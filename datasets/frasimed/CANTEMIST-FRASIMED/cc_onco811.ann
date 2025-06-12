@@ -1,0 +1,48 @@
+T1	morphology-onco 753 774	astrocytome hautement
+T2	morphology-onco 775 780	malin
+T3	morphology-onco 878 899	astrocytome hautement
+T4	morphology-onco 900 905	malin
+T5	morphology-onco 1125 1144	tumeur astrocytaire
+T6	morphology-onco 1195 1221	astrocytome gemistocytique
+T7	morphology-onco 1327 1333	tumeur
+T8	morphology-onco 1638 1661	glioblastome multiforme
+T9	morphology-onco 1691 1703	glioblastome
+T10	morphology-onco 2114 2121	tumoral
+T11	morphology-onco 2808 2816	tumorale
+T12	morphology-onco 3040 3048	tumorale
+T13	morphology-onco 3813 3819	tumeur
+T14	morphology-onco 3918 3920	GB
+T15	morphology-onco 3941 3958	oligodendrogliome
+T16	morphology-onco 4508 4514	tumeur
+#1	ICD-O-3.1 T1	9400/34
+#2	ICD-O-3.1 T3	9400/34
+#3	ICD-O-3.1 T9	9440/3
+#4	ICD-O-3.1 T8	9440/3
+#5	ICD-O-3.1 T2	8000/3
+#6	ICD-O-3.1 T4	8000/3
+#7	ICD-O-3.1 T7	8000/1
+#8	ICD-O-3.1 T13	8000/1
+#9	ICD-O-3.1 T10	8000/1
+#10	ICD-O-3.1 T11	8000/1
+#11	ICD-O-3.1 T12	8000/1
+#12	ICD-O-3.1 T16	8000/1
+#13	ICD-O-3.1 T5	8400/1
+#14	ICD-O-3.1 T6	9411/3
+#15	ICD-O-3.1 T15	9450/3
+#16	ICD-O-3.1 T14	9440/3
+#17	SNOMED T1	1157043006
+#18	SNOMED T3	1157043006
+#19	SNOMED T9	1163375002
+#20	SNOMED T8	1163375002
+#21	SNOMED T2	1240414004
+#22	SNOMED T4	1240414004
+#23	SNOMED T7	86251006
+#24	SNOMED T13	86251006
+#25	SNOMED T10	86251006
+#26	SNOMED T11	86251006
+#27	SNOMED T12	86251006
+#28	SNOMED T16	86251006
+#29	SNOMED T5	126490003
+#30	SNOMED T6	73982001
+#31	SNOMED T15	1156974002
+#32	SNOMED T14	1163375002

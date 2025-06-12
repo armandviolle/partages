@@ -1,0 +1,8 @@
+T1	disease 45 89	tache bleuâtre dans la région naso-orbitaire
+T2	disease 350 356	lésion
+T3	disease 374 383	strabisme
+T4	disease 551 569	hémangiome fibreux
+#1	SNOMED T3	22066006
+#2	SNOMED T4	400210000
+#3	SNOMED T2	417163006
+#4	SNOMED T1	121000119106

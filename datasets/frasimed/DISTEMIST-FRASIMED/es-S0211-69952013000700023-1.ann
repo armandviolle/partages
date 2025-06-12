@@ -1,0 +1,10 @@
+T1	disease 260 283	hypertension artérielle
+T2	disease 476 482	anémie
+T3	disease 1178 1226	néphropathie à cylindres à chaînes légères kappa
+T4	disease 1238 1252	MM à IgA-kappa
+T5	disease 1844 1912	lésions tubulo-interstitielles chroniques d'intensité légère-modérée
+#1	SNOMED T1	38341003
+#2	SNOMED T2	271737000
+#3	SNOMED T3	449408005
+#4	SNOMED T4	285420006
+#5	SNOMED T5	60926001

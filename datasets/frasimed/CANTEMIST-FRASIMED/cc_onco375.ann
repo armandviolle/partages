@@ -1,0 +1,43 @@
+T1	morphology-onco 673 717	carcinome à grandes cellules peu différencié
+T2	morphology-onco 848 865	atteinte pleurale
+T3	morphology-onco 924 1011	carcinome pulmonaire non à petites cellules (NSCLC) étendu de façon diffuse à la plèvre
+T4	morphology-onco 969 974	NSCLC
+T5	morphology-onco 1155 1211	carcinome à grandes cellules LSD pulmonaire G3 cT1bN1M1a
+T6	morphology-onco 2106 2141	atteinte du système nerveux central
+T7	morphology-onco 2182 2192	métastases
+T8	morphology-onco 2307 2320	carcinomatose
+T9	morphology-onco 2364 2414	progression pulmonaire (basale droite) et méningée
+T10	morphology-onco 2903 2915	métastatique
+T11	morphology-onco 3027 3047	progression méningée
+T12	morphology-onco 3380 3405	adénocarcinome acineux G2
+T13	morphology-onco 5058 5070	métastatique
+T14	morphology-onco 5668 5690	atteinte leptoméningée
+T15	morphology-onco 5718 5782	Adénocarcinome pulmonaire LSD de stade IV avec atteinte méningée
+#1	ICD-O-3.1 T14	8000/6
+#2	ICD-O-3.1 T8	8010/9
+#3	ICD-O-3.1 T10	8000/6
+#4	ICD-O-3.1 T13	8000/6
+#5	ICD-O-3.1 T7	8000/6
+#6	ICD-O-3.1 T1	8012/33
+#7	ICD-O-3.1 T3	8046/6
+#8	ICD-O-3.1 T4	8046/3
+#9	ICD-O-3.1 T5	8012/63
+#10	ICD-O-3.1 T2	8000/6
+#11	ICD-O-3.1 T6	8000/6
+#12	ICD-O-3.1 T9	8000/6
+#13	ICD-O-3.1 T11	8000/6
+#14	ICD-O-3.1 T12	8550/32
+#15	ICD-O-3.1 T15	8140/6
+#16	SNOMED T14	14799000
+#17	SNOMED T8	307593001
+#18	SNOMED T10	14799000
+#19	SNOMED T13	14799000
+#20	SNOMED T7	14799000
+#21	SNOMED T1	22687000
+#22	SNOMED T4	128632008
+#23	SNOMED T2	14799000
+#24	SNOMED T6	14799000
+#25	SNOMED T9	14799000
+#26	SNOMED T11	14799000
+#27	SNOMED T12	45410002
+#28	SNOMED T15	4590003

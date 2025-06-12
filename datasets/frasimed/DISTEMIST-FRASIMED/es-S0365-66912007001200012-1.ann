@@ -1,0 +1,14 @@
+T1	disease 55 86	vision floue dans les deux yeux
+T2	disease 382 405	choroïdite serpigineuse
+T3	disease 698 800	atrophie choriorétinienne significative et des cicatrices dans le pôle postérieur, y compris la macula
+T4	disease 938 1008	œil a montré de multiples lésions cicatricielles de forme géographique
+T5	disease 1019 1094	atrophie et une hypertrophie variable de l'EPR dans tout le pôle postérieur
+T6	disease 1152 1159	lésions
+T7	disease 1897 1917	hépatite auto-immune
+#1	SNOMED T5	421506003+425217005
+#2	SNOMED T7	408335007
+#3	SNOMED T3	95686007+246181000119100
+#4	SNOMED T2	312491004
+#5	SNOMED T4	301905003
+#6	SNOMED T6	157670007
+#7	SNOMED T1	246636008

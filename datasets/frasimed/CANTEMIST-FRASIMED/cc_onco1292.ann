@@ -1,0 +1,14 @@
+T1	morphology-onco 1585 1616	hépatocarcinome fibrolamellaire
+T2	morphology-onco 2219 2238	nodules péritonéaux
+T3	morphology-onco 2261 2269	tumorale
+T4	morphology-onco 2359 2372	carcinomatose
+T5	morphology-onco 2681 2708	métastase d'hépatocarcinome
+#1	ICD-O-3.1 T4	8010/9
+#2	ICD-O-3.1 T1	8171/3
+#3	ICD-O-3.1 T2	8000/6
+#4	ICD-O-3.1 T3	8000/1
+#5	ICD-O-3.1 T5	8170/6
+#6	SNOMED T4	307593001
+#7	SNOMED T1	253018005
+#8	SNOMED T2	14799000
+#9	SNOMED T3	86251006

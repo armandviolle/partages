@@ -1,0 +1,57 @@
+T1	morphology-onco 127 143	hémangioblastome
+T2	morphology-onco 172 188	hémangioblastome
+T3	morphology-onco 284 293	néoplasie
+T4	morphology-onco 339 393	carcinome rénal à cellules claires, grade 2 de Fhurman
+T5	morphology-onco 674 684	néoplasies
+T6	morphology-onco 706 710	CCRc
+T7	morphology-onco 756 760	CCRc
+T8	morphology-onco 808 817	néoplasie
+T9	morphology-onco 941 958	hémangioblastomes
+T10	morphology-onco 1029 1035	tumeur
+T11	morphology-onco 1122 1139	hémangioblastomes
+T12	morphology-onco 1490 1496	tumeur
+T13	morphology-onco 2163 2169	tumeur
+T14	morphology-onco 2307 2360	métastase due à un carcinome rénal à cellules claires
+T15	morphology-onco 2620 2675	Carcinome rénal à cellules claires E-IV avec métastases
+T16	morphology-onco 2729 2780	carcinome rénal à cellules claires E-IV (métastases
+T17	morphology-onco 3306 3317	hémangiomes
+T18	morphology-onco 3349 3358	métastase
+T19	morphology-onco 3455 3465	métastases
+T20	morphology-onco 3542 3559	cellules malignes
+#1	ICD-O-3.1 T6	8310/3
+#2	ICD-O-3.1 T7	8310/3
+#3	ICD-O-3.1 T20	8001/3
+#4	ICD-O-3.1 T1	9161/1
+#5	ICD-O-3.1 T2	9161/1
+#6	ICD-O-3.1 T10	9161/1
+#7	ICD-O-3.1 T11	9161/1
+#8	ICD-O-3.1 T17	9120/0
+#9	ICD-O-3.1 T18	8000/6
+#10	ICD-O-3.1 T19	8000/6
+#11	ICD-O-3.1 T3	8000/1
+#12	ICD-O-3.1 T5	8000/1
+#13	ICD-O-3.1 T8	8000/1
+#14	ICD-O-3.1 T9	8000/1
+#15	ICD-O-3.1 T12	8000/1
+#16	ICD-O-3.1 T13	8000/1
+#17	ICD-O-3.1 T4	8310/32
+#18	ICD-O-3.1 T14	8310/6
+#19	ICD-O-3.1 T15	8310/6
+#20	ICD-O-3.1 T16	8310/6
+#21	SNOMED T6	30546008
+#22	SNOMED T7	30546008
+#23	SNOMED T20	88400008
+#24	SNOMED T1	1156474009
+#25	SNOMED T2	1156474009
+#26	SNOMED T10	1156474009
+#27	SNOMED T11	1156474009
+#28	SNOMED T17	253053003
+#29	SNOMED T18	14799000
+#30	SNOMED T19	14799000
+#31	SNOMED T3	86251006
+#32	SNOMED T5	86251006
+#33	SNOMED T8	86251006
+#34	SNOMED T9	86251006
+#35	SNOMED T12	86251006
+#36	SNOMED T13	86251006
+#37	SNOMED T4	30546008

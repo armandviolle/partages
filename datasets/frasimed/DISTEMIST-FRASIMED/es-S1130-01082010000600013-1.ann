@@ -1,0 +1,20 @@
+T1	disease 43 66	cardiopathie ischémique
+T2	disease 505 522	anémie ferriprive
+T3	disease 659 726	rectum au cæcum une infinité de lésions sessiles d'aspect polypoïde
+T4	disease 955 976	colite non spécifique
+T5	disease 986 1020	hyperplasie folliculaire lymphoïde
+T6	disease 1311 1442	lésions polypoïdes sessiles de différentes tailles (supérieures à 8-9 mm) ont été observées dans la muqueuse gastrique et duodénale
+T7	disease 1915 1939	lésion lymphoépithéliale
+T8	disease 2108 2193	infiltration de l'estomac, de l'intestin grêle et du côlon par un lymphome du manteau
+T9	disease 2174 2193	lymphome du manteau
+T10	disease 2352 2467	lymphome non hodgkinien du manteau de stade IVB avec atteinte de l'estomac, de l'intestin grêle et du gros intestin
+#1	SNOMED T1	194828000
+#2	SNOMED T3	68496003
+#3	SNOMED T10	443487006+428905002
+#4	SNOMED T6	301797007+87252009
+#5	SNOMED T4	404811004
+#6	SNOMED T2	87522002
+#7	SNOMED T8	94313005+443487006
+#8	SNOMED T9	443487006
+#9	SNOMED T5	76616003
+#10	SNOMED T7	43961000

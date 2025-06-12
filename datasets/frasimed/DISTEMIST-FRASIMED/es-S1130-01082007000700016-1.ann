@@ -1,0 +1,8 @@
+T1	disease 62 98	pancréatite aiguë d'origine énolique
+T2	disease 350 372	hypotension artérielle
+T3	disease 784 797	hyperglycémie
+T4	disease 922 947	pseudo-kyste pancréatique
+#1	SNOMED T1	235942001
+#2	SNOMED T2	45007003
+#3	SNOMED T4	111374002
+#4	SNOMED T3	80394007

@@ -1,0 +1,6 @@
+T1	disease 298 314	lésion hépatique
+T2	disease 641 732	lésion kystique d'environ 10 centimètres de diamètre a été découverte sur le hile hépatique
+T3	disease 1047 1068	kyste hépatique cilié
+#1	SNOMED T1	85057007
+#2	SNOMED T2	85057007
+#3	SNOMED T3	85057007

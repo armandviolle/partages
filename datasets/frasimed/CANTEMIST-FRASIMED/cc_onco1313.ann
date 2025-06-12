@@ -1,0 +1,33 @@
+T1	morphology-onco 277 291	adénocarcinome
+T2	morphology-onco 461 509	adénocarcinome infiltrant principalement acineux
+T3	morphology-onco 602 610	tumorale
+T4	morphology-onco 1603 1612	néoplasme
+T5	morphology-onco 1976 1993	implants omentaux
+T6	morphology-onco 1994 2007	métastatiques
+T7	morphology-onco 2169 2206	adénocarcinome modérément différencié
+T8	morphology-onco 2227 2266	métastase gastrique d'un adénocarcinome
+T9	morphology-onco 2332 2386	Adénocarcinome pulmonaire de stade IV, avec métastases
+T10	morphology-onco 2410 2423	carcinomatose
+T11	morphology-onco 2490 2528	adénocarcinome pulmonaire métastatique
+#1	ICD-O-3.1 T1	8140/3
+#2	ICD-O-3.1 T11	8140/6
+#3	ICD-O-3.1 T7	8140/32
+#4	ICD-O-3.1 T10	8010/9
+#5	ICD-O-3.1 T5	8000/6
+#6	ICD-O-3.1 T6	8000/6
+#7	ICD-O-3.1 T4	8000/1
+#8	ICD-O-3.1 T3	8000/1
+#9	ICD-O-3.1 T2	8550/3/H
+#10	ICD-O-3.1 T8	8140/6
+#11	ICD-O-3.1 T9	8140/6
+#12	SNOMED T1	1187332001
+#13	SNOMED T11	4590003
+#14	SNOMED T7	1187332001
+#15	SNOMED T10	307593001
+#16	SNOMED T5	14799000
+#17	SNOMED T6	14799000
+#18	SNOMED T4	86251006
+#19	SNOMED T3	86251006
+#20	SNOMED T2	45410002
+#21	SNOMED T8	4590003
+#22	SNOMED T9	4590003

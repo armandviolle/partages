@@ -1,0 +1,72 @@
+T1	morphology-onco 1079 1090	néoplasique
+T2	morphology-onco 1153 1162	néoplasie
+T3	morphology-onco 1315 1326	néoplasique
+T4	morphology-onco 1667 1706	carcinome de la prostate (Gleason 3 + 5
+T5	morphology-onco 2059 2073	adénocarcinome
+T6	morphology-onco 2739 2749	métastases
+T7	morphology-onco 3094 3113	progression osseuse
+T8	morphology-onco 3356 3366	métastases
+T9	morphology-onco 4304 4318	Adénocarcinome
+T10	morphology-onco 4374 4384	Métastases
+T11	morphology-onco 4989 4999	métastases
+T12	morphology-onco 5024 5050	lymphangite carcinomateuse
+T13	morphology-onco 5078 5096	lésions spléniques
+T14	morphology-onco 5120 5130	métastases
+T15	morphology-onco 5723 5754	maladie stable au niveau osseux
+T16	morphology-onco 5800 5836	lésions spléniques subcentimétriques
+T17	morphology-onco 7171 7189	lésions spléniques
+T18	morphology-onco 7378 7393	maladie osseuse
+T19	morphology-onco 7567 7585	lésions spléniques
+T20	morphology-onco 8385 8397	métastatique
+T21	morphology-onco 8481 8491	métastases
+T22	morphology-onco 8543 8559	atteinte osseuse
+T23	morphology-onco 8579 8599	dissémination durale
+T24	morphology-onco 9022 9031	métastase
+#1	ICD-O-3.1 T9	8140/3
+#2	ICD-O-3.1 T22	8000/6
+#3	ICD-O-3.1 T10	8000/6
+#4	ICD-O-3.1 T5	8140/3
+#5	ICD-O-3.1 T15	8000/6
+#6	ICD-O-3.1 T18	8000/6
+#7	ICD-O-3.1 T13	8000/6
+#8	ICD-O-3.1 T17	8000/6
+#9	ICD-O-3.1 T19	8000/6
+#10	ICD-O-3.1 T12	8000/3
+#11	ICD-O-3.1 T20	8000/6
+#12	ICD-O-3.1 T6	8000/6
+#13	ICD-O-3.1 T8	8000/6
+#14	ICD-O-3.1 T11	8000/6
+#15	ICD-O-3.1 T14	8000/6
+#16	ICD-O-3.1 T21	8000/6
+#17	ICD-O-3.1 T24	8000/6
+#18	ICD-O-3.1 T2	8000/1
+#19	ICD-O-3.1 T1	8000/1
+#20	ICD-O-3.1 T3	8000/1
+#21	ICD-O-3.1 T7	8000/6
+#22	ICD-O-3.1 T4	8010/33
+#23	ICD-O-3.1 T16	8000/6
+#24	ICD-O-3.1 T23	8000/6
+#25	SNOMED T9	1187332001
+#26	SNOMED T22	14799000
+#27	SNOMED T10	14799000
+#28	SNOMED T5	1187332001
+#29	SNOMED T15	14799000
+#30	SNOMED T18	14799000
+#31	SNOMED T13	14799000
+#32	SNOMED T17	14799000
+#33	SNOMED T19	14799000
+#34	SNOMED T12	1240414004
+#35	SNOMED T20	14799000
+#36	SNOMED T6	14799000
+#37	SNOMED T8	14799000
+#38	SNOMED T11	14799000
+#39	SNOMED T14	14799000
+#40	SNOMED T21	14799000
+#41	SNOMED T24	14799000
+#42	SNOMED T2	86251006
+#43	SNOMED T1	86251006
+#44	SNOMED T3	86251006
+#45	SNOMED T7	14799000
+#46	SNOMED T4	1187425009
+#47	SNOMED T16	14799000
+#48	SNOMED T23	14799000

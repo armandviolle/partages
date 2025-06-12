@@ -1,0 +1,29 @@
+T1	morphology-onco 333 417	Adénocarcinome pulmonaire de stade IV en raison d'une atteinte pulmonaire bilatérale
+T2	morphology-onco 1128 1140	métastatique
+T3	morphology-onco 1395 1407	métastatique
+T4	morphology-onco 1517 1534	atteinte pleurale
+T5	morphology-onco 1637 1648	hémangiomes
+T6	morphology-onco 1853 1867	adénocarcinome
+T7	morphology-onco 2008 2104	Carcinome pulmonaire non à petites cellules (CPNPC) de stade IV (atteinte bilatérale des poumons
+T8	morphology-onco 2053 2058	CPNPC
+T9	morphology-onco 3696 3729	atteintes pulmonaires et osseuses
+T10	morphology-onco 3777 3795	atteinte cérébrale
+#1	ICD-O-3.1 T6	8140/3
+#2	ICD-O-3.1 T9	8000/6
+#3	ICD-O-3.1 T4	8000/6
+#4	ICD-O-3.1 T5	9120/0
+#5	ICD-O-3.1 T2	8000/6
+#6	ICD-O-3.1 T3	8000/6
+#7	ICD-O-3.1 T1	8140/6
+#8	ICD-O-3.1 T8	8046/3
+#9	ICD-O-3.1 T7	8046/6
+#10	ICD-O-3.1 T10	8000/6
+#11	SNOMED T6	1187332001
+#12	SNOMED T9	14799000
+#13	SNOMED T4	14799000
+#14	SNOMED T5	253053003
+#15	SNOMED T2	14799000
+#16	SNOMED T3	14799000
+#17	SNOMED T1	4590003
+#18	SNOMED T8	128632008
+#19	SNOMED T10	14799000

@@ -1,0 +1,24 @@
+T1	morphology-onco 1335 1366	néoformation pulmonaire maligne
+T2	morphology-onco 1528 1542	adénocarcinome
+T3	morphology-onco 1586 1600	adénocarcinome
+T4	morphology-onco 1612 1618	T4N1MO
+T5	morphology-onco 2186 2192	tumeur
+T6	morphology-onco 2782 2791	tumorales
+T7	morphology-onco 4456 4473	cellules malignes
+T8	morphology-onco 5908 5916	tumorale
+#1	ICD-O-3.1 T2	8140/3
+#2	ICD-O-3.1 T3	8140/3
+#3	ICD-O-3.1 T7	8001/3
+#4	ICD-O-3.1 T5	8000/1
+#5	ICD-O-3.1 T8	8000/1
+#6	ICD-O-3.1 T6	8000/1
+#7	ICD-O-3.1 T1	8000/3
+#8	ICD-O-3.1 T4	8000/6
+#9	SNOMED T2	1187332001
+#10	SNOMED T3	1187332001
+#11	SNOMED T7	88400008
+#12	SNOMED T5	86251006
+#13	SNOMED T8	86251006
+#14	SNOMED T6	86251006
+#15	SNOMED T1	1240414004
+#16	SNOMED T4	14799000

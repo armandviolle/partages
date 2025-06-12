@@ -1,0 +1,10 @@
+T1	disease 57 80	diabète sucré de type I
+T2	disease 87 112	syndrome du canal carpien
+T3	disease 451 522	lésions vésiculeuses dans la région dorsale du 4e orteil du pied gauche
+T4	disease 889 916	ostéomyélite de la phalange
+T5	disease 1318 1324	lésion
+#1	SNOMED T1	46635009
+#2	SNOMED T2	57406009
+#3	SNOMED T3	444659003
+#4	SNOMED T4	60168000
+#5	SNOMED T5	417163006

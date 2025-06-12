@@ -1,0 +1,12 @@
+T1	disease 281 307	tumeur testiculaire solide
+T2	disease 595 644	pulpe testiculaire, contenait une lésion kystique
+T3	disease 926 971	formation kystique dans le cordon spermatique
+T4	disease 1131 1149	formation kystique
+T5	disease 1562 1599	lésion kystique du cordon spermatique
+T6	disease 1620 1632	spermatocele
+#1	SNOMED T4	441457006
+#2	SNOMED T2	767754009
+#3	SNOMED T1	126900000
+#4	SNOMED T3	118658007
+#5	SNOMED T5	118658007
+#6	SNOMED T6	49263001

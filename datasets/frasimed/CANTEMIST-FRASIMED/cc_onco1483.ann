@@ -1,0 +1,36 @@
+T1	morphology-onco 649 669	carcinome urothélial
+T2	morphology-onco 857 866	néoplasie
+T3	morphology-onco 3824 3837	métastatiques
+T4	morphology-onco 4096 4138	carcinome à petites cellules indifférencié
+T5	morphology-onco 4096 4289	carcinome à petites cellules indifférencié associé à un carcinome papillaire à cellules transitionnelles de haut grade et à une métaplasie intestinale avec des foyers de dysplasie de haut grade
+T6	morphology-onco 4152 4214	carcinome papillaire à cellules transitionnelles de haut grade
+T7	morphology-onco 4390 4428	Carcinome extrapulmonaire microcytaire
+T8	morphology-onco 4481 4483	M1
+T9	morphology-onco 4556 4566	métastases
+T10	morphology-onco 4606 4616	métastases
+T11	morphology-onco 5355 5379	maladie au niveau osseux
+T12	morphology-onco 6837 6843	cancer
+#1	ICD-O-3.1 T7	8041/3
+#2	ICD-O-3.1 T8	8000/6
+#3	ICD-O-3.1 T4	8041/34
+#4	ICD-O-3.1 T1	8120/3
+#5	ICD-O-3.1 T12	8000/3
+#6	ICD-O-3.1 T3	8000/6
+#7	ICD-O-3.1 T9	8000/6
+#8	ICD-O-3.1 T10	8000/6
+#9	ICD-O-3.1 T2	8000/1
+#10	ICD-O-3.1 T6	8130/34
+#11	ICD-O-3.1 T5	8045/3/H
+#12	ICD-O-3.1 T11	8000/6
+#13	SNOMED T7	11010461000119101
+#14	SNOMED T8	14799000
+#15	SNOMED T4	11010461000119101
+#16	SNOMED T1	27090000
+#17	SNOMED T12	1240414004
+#18	SNOMED T3	14799000
+#19	SNOMED T9	14799000
+#20	SNOMED T10	14799000
+#21	SNOMED T2	86251006
+#22	SNOMED T6	12400006
+#23	SNOMED T5	21326004
+#24	SNOMED T11	14799000

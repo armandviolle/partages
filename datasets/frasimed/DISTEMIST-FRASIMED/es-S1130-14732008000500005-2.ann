@@ -1,0 +1,12 @@
+T1	disease 46 69	hypertension artérielle
+T2	disease 148 175	incontinence sphinctérienne
+T3	disease 182 216	troubles des fonctions supérieures
+T4	disease 262 297	dilatation du système ventriculaire
+T5	disease 326 329	CAH
+T6	disease 636 681	hématome dans l'hémisphère cérébelleux gauche
+#1	SNOMED T1	38341003
+#2	SNOMED T4	299718000
+#3	SNOMED T5	15139001
+#4	SNOMED T6	301765007
+#5	SNOMED T2	78459008
+#6	SNOMED T3	443265004

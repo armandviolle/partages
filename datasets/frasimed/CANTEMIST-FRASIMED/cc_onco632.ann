@@ -1,0 +1,28 @@
+T1	morphology-onco 511 539	tumeur à cellules fusiformes
+T2	morphology-onco 511 563	tumeur à cellules fusiformes d'aspect mésenchymateux
+T3	morphology-onco 601 635	tumeur stromale gastro-intestinale
+T4	morphology-onco 637 641	GIST
+T5	morphology-onco 777 783	tumeur
+T6	morphology-onco 1131 1134	TFS
+T7	morphology-onco 1600 1606	tumeur
+T8	morphology-onco 1874 1877	TFS
+T9	morphology-onco 2272 2275	TFS
+T10	morphology-onco 2289 2314	Tumeur fibreuse solitaire
+#1	ICD-O-3.1 T4	8936/3
+#2	ICD-O-3.1 T10	8815/0
+#3	ICD-O-3.1 T5	8000/1
+#4	ICD-O-3.1 T3	8936/3
+#5	ICD-O-3.1 T1	8004/1
+#6	ICD-O-3.1 T7	8000/1
+#7	ICD-O-3.1 T2	8800/1
+#8	ICD-O-3.1 T6	8815/0
+#9	ICD-O-3.1 T8	8815/0
+#10	ICD-O-3.1 T9	8815/0
+#11	SNOMED T4	128756002
+#12	SNOMED T10	128736003
+#13	SNOMED T5	86251006
+#14	SNOMED T3	128756002
+#15	SNOMED T7	86251006
+#16	SNOMED T6	128736003
+#17	SNOMED T8	128736003
+#18	SNOMED T9	128736003

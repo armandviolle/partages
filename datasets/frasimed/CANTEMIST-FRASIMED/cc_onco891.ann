@@ -1,0 +1,36 @@
+T1	morphology-onco 132 138	cancer
+T2	morphology-onco 218 224	tumeur
+T3	morphology-onco 1983 1992	néoplasie
+T4	morphology-onco 2068 2088	nodules surrénaliens
+T5	morphology-onco 2162 2169	adénome
+T6	morphology-onco 2252 2266	adénocarcinome
+T7	morphology-onco 2367 2438	adénocarcinome pulmonaire de stade IV (épanchement péricardique positif
+T8	morphology-onco 2442 2462	nodules surrénaliens
+T9	morphology-onco 2783 2808	progression surrénalienne
+T10	morphology-onco 2895 2909	adénocarcinome
+T11	morphology-onco 3274 3284	métastases
+T12	morphology-onco 4229 4255	lymphangite carcinomateuse
+#1	ICD-O-3.1 T6	8140/3
+#2	ICD-O-3.1 T10	8140/3
+#3	ICD-O-3.1 T5	8140/0
+#4	ICD-O-3.1 T1	8000/3
+#5	ICD-O-3.1 T12	8000/3
+#6	ICD-O-3.1 T11	8000/6
+#7	ICD-O-3.1 T3	8000/1
+#8	ICD-O-3.1 T2	8000/1
+#9	ICD-O-3.1 T7	8140/6
+#10	ICD-O-3.1 T8	8000/6
+#11	ICD-O-3.1 T4	8000/6
+#12	ICD-O-3.1 T9	8000/6
+#13	SNOMED T6	1187332001
+#14	SNOMED T10	1187332001
+#15	SNOMED T5	1187379001
+#16	SNOMED T1	1240414004
+#17	SNOMED T12	1240414004
+#18	SNOMED T11	14799000
+#19	SNOMED T3	86251006
+#20	SNOMED T2	86251006
+#21	SNOMED T7	4590003
+#22	SNOMED T8	14799000
+#23	SNOMED T4	14799000
+#24	SNOMED T9	14799000

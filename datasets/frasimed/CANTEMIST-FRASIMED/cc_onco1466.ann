@@ -1,0 +1,49 @@
+T1	morphology-onco 1047 1065	lésions hépatiques
+T2	morphology-onco 1087 1097	métastases
+T3	morphology-onco 1185 1195	métastases
+T4	morphology-onco 1303 1320	nodule pulmonaire
+T5	morphology-onco 1618 1635	tumeur carcinoïde
+T6	morphology-onco 1830 1851	tumeur neuroendocrine
+T7	morphology-onco 2037 2043	tumeur
+T8	morphology-onco 2094 2115	tumeur neuroendocrine
+T9	morphology-onco 2137 2162	tumeur carcinoïde maligne
+T10	morphology-onco 2678 2696	lésions hépatiques
+T11	morphology-onco 3190 3253	Tumeur carcinoïde de l'épididyme gauche de stade IV (métastases
+T12	morphology-onco 3304 3371	tumeur carcinoïde d'origine iléale probable de stade IV (métastases
+T13	morphology-onco 3438 3448	carcinoïde
+T14	morphology-onco 4214 4224	carcinoïde
+T15	morphology-onco 4325 4346	progression hépatique
+T16	morphology-onco 4379 4397	lésions hépatiques
+T17	morphology-onco 5471 5482	néoplasique
+#1	ICD-O-3.1 T13	8240/3
+#2	ICD-O-3.1 T14	8240/3
+#3	ICD-O-3.1 T1	8000/6
+#4	ICD-O-3.1 T10	8000/6
+#5	ICD-O-3.1 T16	8000/6
+#6	ICD-O-3.1 T2	8000/6
+#7	ICD-O-3.1 T3	8000/6
+#8	ICD-O-3.1 T17	8000/1
+#9	ICD-O-3.1 T4	8000/6
+#10	ICD-O-3.1 T15	8000/6
+#11	ICD-O-3.1 T7	8000/1
+#12	ICD-O-3.1 T5	8240/3
+#13	ICD-O-3.1 T6	8240/3
+#14	ICD-O-3.1 T8	8240/3
+#15	ICD-O-3.1 T9	8240/3
+#16	ICD-O-3.1 T11	8240/6
+#17	ICD-O-3.1 T12	8240/6
+#18	SNOMED T13	189607006
+#19	SNOMED T14	189607006
+#20	SNOMED T1	14799000
+#21	SNOMED T10	14799000
+#22	SNOMED T16	14799000
+#23	SNOMED T2	14799000
+#24	SNOMED T3	14799000
+#25	SNOMED T17	86251006
+#26	SNOMED T4	14799000
+#27	SNOMED T15	14799000
+#28	SNOMED T7	86251006
+#29	SNOMED T5	189607006
+#30	SNOMED T6	189607006
+#31	SNOMED T8	189607006
+#32	SNOMED T9	189607006

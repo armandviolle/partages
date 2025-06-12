@@ -1,0 +1,48 @@
+T1	morphology-onco 130 144	adénocarcinome
+T2	morphology-onco 187 196	carcinome
+T3	morphology-onco 214 234	carcinome urothélial
+T4	morphology-onco 979 996	syndrome de Lynch
+T5	morphology-onco 1340 1360	carcinome urothélial
+T6	morphology-onco 1487 1521	carcinome urothélial de haut grade
+T7	morphology-onco 1522 1529	pT3N0M0
+T8	morphology-onco 2573 2584	néoplasique
+T9	morphology-onco 2822 2913	Carcinome urothélial de haut grade pT3N0M0 (stade III) des voies urinaires (uretère gauche)
+T10	morphology-onco 2857 2864	pT3N0M0
+T11	morphology-onco 2944 2961	syndrome de Lynch
+T12	morphology-onco 4349 4383	carcinome urothélial de haut grade
+T13	morphology-onco 4430 4447	syndrome de Lynch
+T14	morphology-onco 6528 6540	cancérologie
+T15	morphology-onco 6765 6771	cancer
+T16	morphology-onco 6793 6799	cancer
+#1	ICD-O-3.1 T1	8140/3
+#2	ICD-O-3.1 T2	8010/3
+#3	ICD-O-3.1 T3	8120/3
+#4	ICD-O-3.1 T5	8120/3
+#5	ICD-O-3.1 T6	8120/34
+#6	ICD-O-3.1 T12	8120/34
+#7	ICD-O-3.1 T14	8000/3
+#8	ICD-O-3.1 T16	8000/3
+#9	ICD-O-3.1 T15	8000/3
+#10	ICD-O-3.1 T8	8000/1
+#11	ICD-O-3.1 T7	8000/6
+#12	ICD-O-3.1 T10	8000/6
+#13	ICD-O-3.1 T4	8000/3
+#14	ICD-O-3.1 T9	8120/34
+#15	ICD-O-3.1 T11	8000/3
+#16	ICD-O-3.1 T13	8000/3
+#17	SNOMED T1	1187332001
+#18	SNOMED T2	1187425009
+#19	SNOMED T3	27090000
+#20	SNOMED T5	27090000
+#21	SNOMED T6	27090000
+#22	SNOMED T12	27090000
+#23	SNOMED T14	1240414004
+#24	SNOMED T16	1240414004
+#25	SNOMED T15	1240414004
+#26	SNOMED T8	86251006
+#27	SNOMED T7	14799000
+#28	SNOMED T10	14799000
+#29	SNOMED T4	1240414004
+#30	SNOMED T9	27090000
+#31	SNOMED T11	1240414004
+#32	SNOMED T13	1240414004

@@ -1,0 +1,68 @@
+T1	morphology-onco 107 128	tumeur neuroendocrine
+T2	morphology-onco 187 193	tumeur
+T3	morphology-onco 564 574	métastases
+T4	morphology-onco 1447 1450	TNE
+T5	morphology-onco 1597 1615	lésions hépatiques
+T6	morphology-onco 1631 1641	métastases
+T7	morphology-onco 1836 1844	tumorale
+T8	morphology-onco 2373 2376	NER
+T9	morphology-onco 2503 2533	lésions de captation hépatique
+T10	morphology-onco 2675 2693	lésions hépatiques
+T11	morphology-onco 3077 3145	NST pancréatique de stade IV, stade 2, due à de multiples métastases
+T12	morphology-onco 3206 3214	tumorale
+T13	morphology-onco 3426 3432	tumeur
+T14	morphology-onco 3785 3806	tumeur neuroendocrine
+T15	morphology-onco 3871 3881	métastases
+T16	morphology-onco 3932 3938	tumeur
+T17	morphology-onco 4193 4203	métastases
+T18	morphology-onco 4978 4988	métastases
+T19	morphology-onco 5212 5218	cancer
+T20	morphology-onco 5363 5373	métastases
+T21	morphology-onco 5596 5606	métastases
+T22	morphology-onco 6063 6073	métastases
+T23	morphology-onco 6192 6202	métastases
+#1	ICD-O-3.1 T4	8240/3
+#2	ICD-O-3.1 T8	8240/3
+#3	ICD-O-3.1 T19	8000/3
+#4	ICD-O-3.1 T5	8000/6
+#5	ICD-O-3.1 T9	8000/6
+#6	ICD-O-3.1 T10	8000/6
+#7	ICD-O-3.1 T3	8000/6
+#8	ICD-O-3.1 T6	8000/6
+#9	ICD-O-3.1 T15	8000/6
+#10	ICD-O-3.1 T17	8000/6
+#11	ICD-O-3.1 T18	8000/6
+#12	ICD-O-3.1 T20	8000/6
+#13	ICD-O-3.1 T21	8000/6
+#14	ICD-O-3.1 T22	8000/6
+#15	ICD-O-3.1 T23	8000/6
+#16	ICD-O-3.1 T2	8000/1
+#17	ICD-O-3.1 T7	8000/1
+#18	ICD-O-3.1 T13	8000/1
+#19	ICD-O-3.1 T16	8000/1
+#20	ICD-O-3.1 T1	8240/3
+#21	ICD-O-3.1 T14	8240/3
+#22	ICD-O-3.1 T12	8000/1
+#23	ICD-O-3.1 T11	8249/6
+#24	SNOMED T4	189607006
+#25	SNOMED T8	189607006
+#26	SNOMED T19	1240414004
+#27	SNOMED T5	14799000
+#28	SNOMED T9	14799000
+#29	SNOMED T10	14799000
+#30	SNOMED T3	14799000
+#31	SNOMED T6	14799000
+#32	SNOMED T15	14799000
+#33	SNOMED T17	14799000
+#34	SNOMED T18	14799000
+#35	SNOMED T20	14799000
+#36	SNOMED T21	14799000
+#37	SNOMED T22	14799000
+#38	SNOMED T23	14799000
+#39	SNOMED T2	86251006
+#40	SNOMED T7	86251006
+#41	SNOMED T13	86251006
+#42	SNOMED T16	86251006
+#43	SNOMED T1	189607006
+#44	SNOMED T14	189607006
+#45	SNOMED T12	86251006

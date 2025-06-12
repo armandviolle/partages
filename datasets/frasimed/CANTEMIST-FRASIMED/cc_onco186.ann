@@ -1,0 +1,24 @@
+T1	morphology-onco 662 680	lésions hépatiques
+T2	morphology-onco 1405 1407	M1
+T3	morphology-onco 1768 1829	adénocarcinome modérément différencié avec un motif tubulaire
+T4	morphology-onco 1877 1895	cholangiocarcinome
+T5	morphology-onco 1944 1988	cholangiocarcinome intrahépatique multifocal
+T6	morphology-onco 2672 2680	tumorale
+T7	morphology-onco 2947 2965	cholangiocarcinome
+T8	morphology-onco 3647 3665	cholangiocarcinome
+#1	ICD-O-3.1 T2	8000/6
+#2	ICD-O-3.1 T4	8160/3
+#3	ICD-O-3.1 T7	8160/3
+#4	ICD-O-3.1 T8	8160/3
+#5	ICD-O-3.1 T1	8000/6
+#6	ICD-O-3.1 T6	8000/1
+#7	ICD-O-3.1 T3	8211/32
+#8	ICD-O-3.1 T5	8160/3/H
+#9	SNOMED T2	14799000
+#10	SNOMED T4	312104005
+#11	SNOMED T7	312104005
+#12	SNOMED T8	312104005
+#13	SNOMED T1	14799000
+#14	SNOMED T6	86251006
+#15	SNOMED T3	4631006
+#16	SNOMED T5	312104005

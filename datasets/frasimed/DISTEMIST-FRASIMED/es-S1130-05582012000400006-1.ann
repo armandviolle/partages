@@ -1,0 +1,26 @@
+T1	disease 171 233	accident de la circulation avec un impact cranio-facial direct
+T2	disease 418 450	hématome périorbitaire bilatéral
+T3	disease 473 483	otorrhagie
+T4	disease 619 627	diplopie
+T5	disease 709 724	œdème maculaire
+T6	disease 983 1053	fracture de la base du crâne avec fistule de liquide céphalo-rachidien
+T7	disease 1017 1053	fistule de liquide céphalo-rachidien
+T8	disease 1117 1216	fracture-split frontobasale gauche comminutive avec une implication associée de l'écaille temporale
+T9	disease 1236 1249	pneumocéphale
+T10	disease 1251 1322	Fracture de la partie la plus crâniale de la face crânienne du cervelet
+T11	disease 1379 1447	Fracture sans déplacement de la paroi antérieure du canal carotidien
+T12	disease 1501 1582	foyers hémorragiques contusifs principalement situés dans les deux lobes frontaux
+T13	disease 1588 1635	fragments osseux endocrâniens pariéto-temporaux
+T14	disease 1643 1698	hémorragie sous-arachnoïdienne minime dans le tentorium
+T15	disease 1707 1734	hématome épidural occipital
+T16	disease 1764 1787	blessure par contrecoup
+T17	disease 1828 1863	fistule du liquide céphalorachidien
+T18	disease 1908 1938	fracture frontobasale complexe
+T19	disease 2582 2609	fractures fronto-temporales
+T20	disease 3107 3146	méningocèle sphénoïdal post-traumatique
+T21	disease 3169 3208	défaut de la base crânienne paramédiale
+T22	disease 3260 3316	cavité kystique du liquide céphalo-rachidien frontobasal
+T23	disease 3501 3520	méningocèle herniée
+T24	disease 4018 4029	méningocèle
+T25	disease 4229 4240	méningocèle
+T26	disease 4262 4298	fistule de liquide céphalo-rachidien

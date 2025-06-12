@@ -1,0 +1,36 @@
+T1	morphology-onco 427 472	adénocarcinome à cellules en anneau de Sonnet
+T2	morphology-onco 474 481	pT1N0M0
+T3	morphology-onco 538 665	adénocarcinome pulmonaire de stade IV a été diagnostiqué par FNA transbronchique en raison d'une atteinte pulmonaire bilatérale
+T4	morphology-onco 2285 2297	métastatique
+T5	morphology-onco 2730 2753	métastases de carcinome
+T6	morphology-onco 2779 2805	métastase d'adénocarcinome
+T7	morphology-onco 2858 2869	néoplasique
+T8	morphology-onco 2874 2930	métastase de carcinome neuroendocrine à petites cellules
+T9	morphology-onco 2953 2964	néoplasique
+T10	morphology-onco 3009 3016	tumeurs
+T11	morphology-onco 3572 3581	métastase
+T12	morphology-onco 3742 3769	métastases d'adénocarcinome
+#1	ICD-O-3.1 T6	8140/6
+#2	ICD-O-3.1 T4	8000/6
+#3	ICD-O-3.1 T11	8000/6
+#4	ICD-O-3.1 T12	8140/6
+#5	ICD-O-3.1 T5	8010/6
+#6	ICD-O-3.1 T7	8000/1
+#7	ICD-O-3.1 T9	8000/1
+#8	ICD-O-3.1 T2	8000/6
+#9	ICD-O-3.1 T10	8000/1
+#10	ICD-O-3.1 T1	8490/3
+#11	ICD-O-3.1 T3	8140/6
+#12	ICD-O-3.1 T8	8041/3
+#13	SNOMED T6	4590003
+#14	SNOMED T4	14799000
+#15	SNOMED T11	14799000
+#16	SNOMED T12	4590003
+#17	SNOMED T5	79282002
+#18	SNOMED T7	86251006
+#19	SNOMED T9	86251006
+#20	SNOMED T2	14799000
+#21	SNOMED T10	86251006
+#22	SNOMED T1	87737001
+#23	SNOMED T3	4590003
+#24	SNOMED T8	11010461000119101

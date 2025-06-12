@@ -1,0 +1,41 @@
+T1	morphology-onco 358 367	néoplasie
+T2	morphology-onco 691 700	malignité
+T3	morphology-onco 864 896	cancer du sein gauche de grade 3
+T4	morphology-onco 1311 1323	métastatique
+T5	morphology-onco 1353 1356	IDC
+T6	morphology-onco 1435 1437	M0
+T7	morphology-onco 2263 2279	lésion hépatique
+T8	morphology-onco 2441 2477	rechute hépatique due à un carcinome
+T9	morphology-onco 2659 2687	métastase due à un carcinome
+T10	morphology-onco 3653 3670	rechute pectorale
+T11	morphology-onco 3775 3803	métastase due à un carcinome
+T12	morphology-onco 4013 4022	carcinome
+T13	morphology-onco 4095 4161	rechute systémique hépatique d'un IDC mammaire de profil luminal B
+T14	morphology-onco 4308 4350	rechute des tissus mous due à un carcinome
+#1	ICD-O-3.1 T5	8500/3
+#2	ICD-O-3.1 T6	8000/6
+#3	ICD-O-3.1 T12	8010/3
+#4	ICD-O-3.1 T2	8000/3
+#5	ICD-O-3.1 T9	8010/6
+#6	ICD-O-3.1 T11	8010/6
+#7	ICD-O-3.1 T1	8000/1
+#8	ICD-O-3.1 T3	8500/33
+#9	ICD-O-3.1 T4	8000/6
+#10	ICD-O-3.1 T7	8000/6
+#11	ICD-O-3.1 T8	8010/6
+#12	ICD-O-3.1 T10	8000/6
+#13	ICD-O-3.1 T13	8500/6
+#14	ICD-O-3.1 T14	8010/6
+#15	SNOMED T5	58477004
+#16	SNOMED T6	14799000
+#17	SNOMED T12	1187425009
+#18	SNOMED T2	1240414004
+#19	SNOMED T9	79282002
+#20	SNOMED T11	79282002
+#21	SNOMED T1	86251006
+#22	SNOMED T3	58477004
+#23	SNOMED T4	14799000
+#24	SNOMED T7	14799000
+#25	SNOMED T8	79282002
+#26	SNOMED T10	14799000
+#27	SNOMED T14	79282002

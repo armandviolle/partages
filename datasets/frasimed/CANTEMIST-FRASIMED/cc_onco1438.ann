@@ -1,0 +1,63 @@
+T1	morphology-onco 271 292	carcinome épidermoïde
+T2	morphology-onco 323 329	T4N2M0
+T3	morphology-onco 703 711	tumorale
+T4	morphology-onco 880 891	néoplasique
+T5	morphology-onco 986 1007	carcinome épidermoïde
+T6	morphology-onco 2050 2119	lésion hypodense mesurant 3x3cm est apparue dans le corps du pancréas
+T7	morphology-onco 2172 2178	tumeur
+T8	morphology-onco 2669 2675	tumeur
+T9	morphology-onco 2856 2874	néoplasme mucineux
+T10	morphology-onco 3013 3038	néoplasme kystique solide
+T11	morphology-onco 3369 3387	cellules tumorales
+T12	morphology-onco 3404 3440	métastase d'un carcinome épidermoïde
+T13	morphology-onco 3462 3506	T4N2M1 carcinome épidermoïde du poumon droit
+T14	morphology-onco 3533 3542	métastase
+T15	morphology-onco 3596 3602	tumeur
+T16	morphology-onco 3826 3862	métastase d'un carcinome épidermoïde
+T17	morphology-onco 4252 4270	masse pancréatique
+T18	morphology-onco 4513 4531	masse pancréatique
+T19	morphology-onco 4974 4980	tumeur
+T20	morphology-onco 5208 5226	masse pancréatique
+T21	morphology-onco 5670 5729	métastase d'un carcinome épidermoïde modérément différencié
+#1	ICD-O-3.1 T5	8070/3
+#2	ICD-O-3.1 T2	8000/6
+#3	ICD-O-3.1 T1	8070/3
+#4	ICD-O-3.1 T11	8001/1
+#5	ICD-O-3.1 T6	8000/6
+#6	ICD-O-3.1 T17	8000/6
+#7	ICD-O-3.1 T18	8000/6
+#8	ICD-O-3.1 T20	8000/6
+#9	ICD-O-3.1 T14	8000/6
+#10	ICD-O-3.1 T12	8070/6
+#11	ICD-O-3.1 T16	8070/6
+#12	ICD-O-3.1 T21	8070/62
+#13	ICD-O-3.1 T9	8000/1/H
+#14	ICD-O-3.1 T10	8452/1
+#15	ICD-O-3.1 T4	8000/1
+#16	ICD-O-3.1 T15	8000/1
+#17	ICD-O-3.1 T19	8000/1
+#18	ICD-O-3.1 T7	8000/1
+#19	ICD-O-3.1 T8	8000/1
+#20	ICD-O-3.1 T3	8000/1
+#21	ICD-O-3.1 T13	8070/6
+#22	SNOMED T5	1162767002
+#23	SNOMED T2	14799000
+#24	SNOMED T1	1162767002
+#25	SNOMED T11	39577004
+#26	SNOMED T6	14799000
+#27	SNOMED T17	14799000
+#28	SNOMED T18	14799000
+#29	SNOMED T20	14799000
+#30	SNOMED T14	14799000
+#31	SNOMED T12	403906006
+#32	SNOMED T16	403906006
+#33	SNOMED T21	403906006
+#34	SNOMED T9	86251006
+#35	SNOMED T10	27078002
+#36	SNOMED T4	86251006
+#37	SNOMED T15	86251006
+#38	SNOMED T19	86251006
+#39	SNOMED T7	86251006
+#40	SNOMED T8	86251006
+#41	SNOMED T3	86251006
+#42	SNOMED T13	403906006

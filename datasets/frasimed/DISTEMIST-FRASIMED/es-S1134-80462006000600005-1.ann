@@ -1,0 +1,20 @@
+T1	disease 65 84	kyste thyroglossien
+T2	disease 109 116	obésité
+T3	disease 326 377	lymphadénopathie latérocervicale et submandibulaire
+T4	disease 383 396	splénomégalie
+T5	disease 418 431	hépatomégalie
+T6	disease 781 816	processus néoplasique hématologique
+T7	disease 939 992	infiltration de la moelle par des éléments blastiques
+T8	disease 1122 1171	leucémie aiguë lymphoblastique (LAL), FAB type L2
+T9	disease 1154 1157	LAL
+T10	disease 1551 1554	LAL
+#1	SNOMED T10	277573001
+#2	SNOMED T1	39462005
+#3	SNOMED T2	414916001
+#4	SNOMED T3	127084003+127086001
+#5	SNOMED T4	16294009
+#6	SNOMED T5	80515008
+#7	SNOMED T6	129154003
+#8	SNOMED T8	91857003
+#9	SNOMED T9	277573001
+#10	SNOMED T7	129154003

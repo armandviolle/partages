@@ -1,0 +1,12 @@
+T1	morphology-onco 1145 1154	germinome
+T2	morphology-onco 1323 1331	tumorale
+T3	morphology-onco 1778 1787	Germinome
+T4	morphology-onco 2846 2853	tumoral
+#1	ICD-O-3.1 T3	9064/3
+#2	ICD-O-3.1 T1	9064/3
+#3	ICD-O-3.1 T2	8000/1
+#4	ICD-O-3.1 T4	8000/1
+#5	SNOMED T3	28307001
+#6	SNOMED T1	28307001
+#7	SNOMED T2	86251006
+#8	SNOMED T4	86251006

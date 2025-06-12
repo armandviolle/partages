@@ -1,0 +1,63 @@
+T1	morphology-onco 356 391	carcinome urothélial non infiltrant
+T2	morphology-onco 2601 2615	lésion osseuse
+T3	morphology-onco 2856 2934	carcinome pulmonaire non à petites cellules à grandes cellules peu différencié
+T4	morphology-onco 2856 2934	carcinome pulmonaire non à petites cellules à grandes cellules peu différencié
+T5	morphology-onco 2955 2985	adénocarcinome peu différencié
+T6	morphology-onco 3086 3104	maladie secondaire
+T7	morphology-onco 3130 3185	Carcinome pulmonaire à grandes cellules peu différencié
+T8	morphology-onco 3200 3206	T3N0M0
+T9	morphology-onco 4303 4309	tumeur
+T10	morphology-onco 4922 4952	lésions au niveau pancréatique
+T11	morphology-onco 5198 5207	métastase
+T12	morphology-onco 5336 5349	dissémination
+T13	morphology-onco 5445 5453	tumorale
+T14	morphology-onco 5825 5840	lésions rénales
+T15	morphology-onco 6368 6411	lésions hépatiques hypervasculaires focales
+T16	morphology-onco 6541 6559	atteinte hépatique
+T17	morphology-onco 6636 6646	métastases
+T18	morphology-onco 7155 7172	cellules malignes
+T19	morphology-onco 7245 7251	tumeur
+T20	morphology-onco 7412 7430	lésions hépatiques
+T21	morphology-onco 7541 7559	lésions hépatiques
+#1	ICD-O-3.1 T8	8000/6
+#2	ICD-O-3.1 T16	8000/6
+#3	ICD-O-3.1 T18	8001/3
+#4	ICD-O-3.1 T12	8000/6
+#5	ICD-O-3.1 T6	8000/6
+#6	ICD-O-3.1 T20	8000/6
+#7	ICD-O-3.1 T21	8000/6
+#8	ICD-O-3.1 T2	8000/6
+#9	ICD-O-3.1 T11	8000/6
+#10	ICD-O-3.1 T17	8000/6
+#11	ICD-O-3.1 T9	8000/1
+#12	ICD-O-3.1 T13	8000/1
+#13	ICD-O-3.1 T19	8000/1
+#14	ICD-O-3.1 T1	8120/3/H
+#15	ICD-O-3.1 T3	8012/33
+#16	ICD-O-3.1 T5	8140/33
+#17	ICD-O-3.1 T4	8046/33
+#18	ICD-O-3.1 T7	8012/33
+#19	ICD-O-3.1 T10	8000/6
+#20	ICD-O-3.1 T14	8000/6
+#21	ICD-O-3.1 T15	8000/6
+#22	SNOMED T8	14799000
+#23	SNOMED T16	14799000
+#24	SNOMED T18	88400008
+#25	SNOMED T12	14799000
+#26	SNOMED T6	14799000
+#27	SNOMED T20	14799000
+#28	SNOMED T21	14799000
+#29	SNOMED T2	14799000
+#30	SNOMED T11	14799000
+#31	SNOMED T17	14799000
+#32	SNOMED T9	86251006
+#33	SNOMED T13	86251006
+#34	SNOMED T19	86251006
+#35	SNOMED T1	27090000
+#36	SNOMED T3	22687000
+#37	SNOMED T5	1187332001
+#38	SNOMED T4	128632008
+#39	SNOMED T7	22687000
+#40	SNOMED T10	14799000
+#41	SNOMED T14	14799000
+#42	SNOMED T15	14799000

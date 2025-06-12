@@ -1,0 +1,12 @@
+T1	morphology-onco 106 136	carcinome canalaire infiltrant
+T2	morphology-onco 309 345	maladie a progressé au niveau des os
+T3	morphology-onco 667 685	lésions cérébrales
+T4	morphology-onco 707 717	métastases
+#1	ICD-O-3.1 T1	8500/3
+#2	ICD-O-3.1 T2	8000/6
+#3	ICD-O-3.1 T3	8000/6
+#4	ICD-O-3.1 T4	8000/6
+#5	SNOMED T1	58477004
+#6	SNOMED T2	14799000
+#7	SNOMED T3	14799000
+#8	SNOMED T4	14799000

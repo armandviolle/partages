@@ -1,0 +1,16 @@
+T1	disease 31 34	HTA
+T2	disease 40 43	IRC
+T3	disease 51 64	hypothyroïdie
+T4	disease 156 168	abdomen aigu
+T5	disease 177 190	choc septique
+T6	disease 357 374	colite ischémique
+T7	disease 499 503	choc
+T8	disease 699 727	hématome du site chirurgical
+#1	SNOMED T1	38341003
+#2	SNOMED T2	723190009
+#3	SNOMED T3	40930008
+#4	SNOMED T4	9209005
+#5	SNOMED T5	76571007
+#6	SNOMED T6	30588004
+#7	SNOMED T7	27942005
+#8	SNOMED T8	110265006

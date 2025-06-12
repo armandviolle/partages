@@ -1,0 +1,15 @@
+T1	morphology-onco 410 465	adénocarcinome rectal-sigma KRAS natif, avec métastases
+T2	morphology-onco 583 597	adénocarcinome
+T3	morphology-onco 3509 3544	adénocarcinome du sigma ypT3 N1b M1
+T4	morphology-onco 3573 3581	tumorale
+T5	morphology-onco 4140 4161	implication hépatique
+#1	ICD-O-3.1 T2	8140/3
+#2	ICD-O-3.1 T4	8000/1
+#3	ICD-O-3.1 T1	8140/6
+#4	ICD-O-3.1 T3	8140/6
+#5	ICD-O-3.1 T5	8000/6
+#6	SNOMED T2	1187332001
+#7	SNOMED T4	86251006
+#8	SNOMED T1	4590003
+#9	SNOMED T3	4590003
+#10	SNOMED T5	14799000

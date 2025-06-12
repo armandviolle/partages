@@ -1,0 +1,6 @@
+T1	morphology-onco 1486 1497	néoplasique
+T2	morphology-onco 1947 1955	malignes
+#1	ICD-O-3.1 T2	8000/3
+#2	ICD-O-3.1 T1	8000/1
+#3	SNOMED T2	1240414004
+#4	SNOMED T1	86251006

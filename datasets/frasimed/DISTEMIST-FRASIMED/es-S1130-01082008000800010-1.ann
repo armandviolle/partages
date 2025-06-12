@@ -1,0 +1,8 @@
+T1	disease 39 57	diarrhée chronique
+T2	disease 736 742	lésion
+T3	disease 1161 1167	lésion
+T4	disease 1373 1412	carcinome papillaire à cellules rénales
+#1	SNOMED T1	236071009
+#2	SNOMED T4	733608000
+#3	SNOMED T2	417163006
+#4	SNOMED T3	417163006

@@ -1,0 +1,12 @@
+T1	morphology-onco 770 793	carcinome indifférencié
+T2	morphology-onco 1270 1316	adénocarcinome papillaire séreux de haut grade
+T3	morphology-onco 1367 1378	métastasant
+T4	morphology-onco 1820 1826	Cancer
+#1	ICD-O-3.1 T4	8000/3
+#2	ICD-O-3.1 T2	8460/34
+#3	ICD-O-3.1 T1	8020/3
+#4	ICD-O-3.1 T3	8000/6
+#5	SNOMED T4	1240414004
+#6	SNOMED T2	703561001
+#7	SNOMED T1	38549000
+#8	SNOMED T3	14799000

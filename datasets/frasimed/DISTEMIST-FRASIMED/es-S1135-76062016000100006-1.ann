@@ -1,0 +1,20 @@
+T1	disease 460 469	blessures
+T2	disease 513 529	épaule disloquée
+T3	disease 1065 1073	blessant
+T4	disease 1769 1799	comportements sexuels déviants
+T5	disease 2455 2468	retard mental
+T6	disease 2770 2798	comportements métasimulatifs
+T7	disease 3097 3134	trouble de la personnalité borderline
+T8	disease 4069 4091	distorsions cognitives
+T9	disease 4304 4313	blessures
+T10	disease 4403 4425	distorsions cognitives
+#1	SNOMED T8	443265004
+#2	SNOMED T7	20010003
+#3	SNOMED T5	110359009
+#4	SNOMED T4	50299009
+#5	SNOMED T10	443265004
+#6	SNOMED T6	430909002
+#7	SNOMED T2	417076003
+#8	SNOMED T1	157670007
+#9	SNOMED T3	157670007
+#10	SNOMED T9	157670007

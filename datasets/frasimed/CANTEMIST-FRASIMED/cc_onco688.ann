@@ -1,0 +1,60 @@
+T1	morphology-onco 207 213	cancer
+T2	morphology-onco 245 251	cancer
+T3	morphology-onco 1633 1639	tumeur
+T4	morphology-onco 2005 2064	néoplasie cardiaque maligne primaire probable et métastases
+T5	morphology-onco 2154 2163	métastase
+T6	morphology-onco 2528 2534	tumeur
+T7	morphology-onco 2694 2715	sarcome indifférencié
+T8	morphology-onco 2694 2729	sarcome indifférencié de haut grade
+T9	morphology-onco 2807 2814	sarcome
+T10	morphology-onco 2863 2873	métastases
+T11	morphology-onco 3332 3342	métastases
+T12	morphology-onco 3760 3779	progression osseuse
+T13	morphology-onco 4289 4299	métastases
+T14	morphology-onco 4704 4725	récidive péricardique
+T15	morphology-onco 4791 4800	métastase
+T16	morphology-onco 4835 4854	progression osseuse
+T17	morphology-onco 5038 5044	tumeur
+T18	morphology-onco 5097 5119	implants péricardiques
+T19	morphology-onco 5144 5161	lésion pulmonaire
+T20	morphology-onco 5169 5201	progression des lésions osseuses
+#1	ICD-O-3.1 T2	8000/3
+#2	ICD-O-3.1 T1	8000/3
+#3	ICD-O-3.1 T18	8000/6
+#4	ICD-O-3.1 T19	8000/6
+#5	ICD-O-3.1 T5	8000/6
+#6	ICD-O-3.1 T10	8000/6
+#7	ICD-O-3.1 T11	8000/6
+#8	ICD-O-3.1 T13	8000/6
+#9	ICD-O-3.1 T15	8000/6
+#10	ICD-O-3.1 T12	8000/6
+#11	ICD-O-3.1 T16	8000/6
+#12	ICD-O-3.1 T9	8800/3
+#13	ICD-O-3.1 T8	8800/34
+#14	ICD-O-3.1 T3	8000/1
+#15	ICD-O-3.1 T6	8000/1
+#16	ICD-O-3.1 T17	8000/1
+#17	ICD-O-3.1 T4	8000/6
+#18	ICD-O-3.1 T7	8805/3
+#19	ICD-O-3.1 T14	8000/6
+#20	ICD-O-3.1 T20	8000/6
+#21	SNOMED T2	1240414004
+#22	SNOMED T1	1240414004
+#23	SNOMED T18	14799000
+#24	SNOMED T19	14799000
+#25	SNOMED T5	14799000
+#26	SNOMED T10	14799000
+#27	SNOMED T11	14799000
+#28	SNOMED T13	14799000
+#29	SNOMED T15	14799000
+#30	SNOMED T12	14799000
+#31	SNOMED T16	14799000
+#32	SNOMED T9	1187396000
+#33	SNOMED T8	1187396000
+#34	SNOMED T3	86251006
+#35	SNOMED T6	86251006
+#36	SNOMED T17	86251006
+#37	SNOMED T4	14799000
+#38	SNOMED T7	128734000
+#39	SNOMED T14	14799000
+#40	SNOMED T20	14799000

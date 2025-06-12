@@ -1,0 +1,28 @@
+T1	disease 280 291	tuberculose
+T2	disease 293 295	TB
+T3	disease 343 355	poliomyélite
+T4	disease 389 435	légère déformation des deux membres inférieurs
+T5	disease 440 455	ulcère duodénal
+T6	disease 561 570	ex-fumeur
+T7	disease 1511 1519	sinusite
+T8	disease 1917 1951	pathologie pulmonaire et digestive
+T9	disease 2580 2627	anémie (Hb : 11,7 g/dl), une anémie normochrome
+T10	disease 3141 3162	diverticulose colique
+T11	disease 3189 3209	pathologie digestive
+T12	disease 3733 3763	ulcère gastrique pré-pylorique
+T13	disease 4305 4357	sarcome à cellules fusiformes de grade intermédiaire
+T14	disease 4404 4450	sarcome stromal de la paroi gastro-intestinale
+#1	SNOMED T1	56717001
+#2	SNOMED T3	721764008
+#3	SNOMED T4	15742161000119100
+#4	SNOMED T5	51868009
+#5	SNOMED T6	8517006
+#6	SNOMED T7	36971009
+#7	SNOMED T8	19829001+53619000
+#8	SNOMED T9	46737006
+#9	SNOMED T10	398050005
+#10	SNOMED T11	119292006
+#11	SNOMED T12	22620000
+#12	SNOMED T13	424413001
+#13	SNOMED T14	420120006
+#14	SNOMED T2	56717001

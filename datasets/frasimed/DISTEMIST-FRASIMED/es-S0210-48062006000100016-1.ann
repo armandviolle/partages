@@ -1,0 +1,12 @@
+T1	disease 270 276	lésion
+T2	disease 374 385	urétérocèle
+T3	disease 450 469	dilatation urinaire
+T4	disease 531 537	lésion
+T5	disease 567 594	kyste para-urétral de Skene
+T6	disease 641 647	lésion
+#1	SNOMED T2	12818004
+#2	SNOMED T5	717706003
+#3	SNOMED T1	417163006
+#4	SNOMED T4	417163006
+#5	SNOMED T6	417163006
+#6	SNOMED T3	249273002

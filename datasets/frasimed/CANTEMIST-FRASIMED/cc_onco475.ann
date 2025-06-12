@@ -1,0 +1,34 @@
+T1	morphology-onco 1177 1194	tumeur carcinoïde
+T2	morphology-onco 1289 1299	métastases
+T3	morphology-onco 1476 1488	métastatique
+T4	morphology-onco 1586 1592	tumeur
+T5	morphology-onco 1752 1805	métastase d'une TNE bien différenciée de grade 1 (OMS
+T6	morphology-onco 1958 2062	Tumeur neuroendocrine iléojéjunale bien différenciée de grade 1 (Ki-67 1-2 %) avec atteinte métastatique
+T7	morphology-onco 2246 2256	carcinoïde
+T8	morphology-onco 2269 2275	tumeur
+T9	morphology-onco 2441 2449	tumorale
+T10	morphology-onco 3235 3241	tumeur
+T11	morphology-onco 3286 3296	métastases
+T12	morphology-onco 3574 3584	métastases
+#1	ICD-O-3.1 T2	8000/6
+#2	ICD-O-3.1 T11	8000/6
+#3	ICD-O-3.1 T12	8000/6
+#4	ICD-O-3.1 T8	8000/1
+#5	ICD-O-3.1 T1	8240/3
+#6	ICD-O-3.1 T4	8000/1
+#7	ICD-O-3.1 T9	8000/1
+#8	ICD-O-3.1 T10	8000/1
+#9	ICD-O-3.1 T3	8000/6
+#10	ICD-O-3.1 T5	8240/6
+#11	ICD-O-3.1 T6	8240/6
+#12	ICD-O-3.1 T7	8240/3
+#13	SNOMED T2	14799000
+#14	SNOMED T11	14799000
+#15	SNOMED T12	14799000
+#16	SNOMED T8	86251006
+#17	SNOMED T1	189607006
+#18	SNOMED T4	86251006
+#19	SNOMED T9	86251006
+#20	SNOMED T10	86251006
+#21	SNOMED T3	14799000
+#22	SNOMED T7	189607006

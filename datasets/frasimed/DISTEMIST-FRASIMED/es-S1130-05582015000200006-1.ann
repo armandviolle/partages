@@ -1,0 +1,4 @@
+T1	disease 243 271	foyers carieux intra-buccaux
+T2	disease 959 962	HPC
+#1	SNOMED T1	80967001
+#2	SNOMED T2	109720002

@@ -1,0 +1,38 @@
+T1	disease 72 104	uropathie obstructive bilatérale
+T2	disease 207 219	dyslipidémie
+T3	disease 225 259	hyperplasie bénigne de la prostate
+T4	disease 264 290	infarctus aigu du myocarde
+T5	disease 297 333	diabète sucré non insulino-dépendant
+T6	disease 1621 1651	dilatation du collecteur rénal
+T7	disease 2151 2164	Hydronéphrose
+T8	disease 2328 2352	hydronéphrose bilatérale
+T9	disease 2600 2621	urothéliome bilatéral
+T10	disease 2867 2885	dilatation du rein
+T11	disease 3691 3716	tumeurs des deux uretères
+T12	disease 3765 3810	carcinome urothélial papillaire, de bas grade
+T13	disease 4022 4043	infiltration tumorale
+T14	disease 4078 4084	tumeur
+T15	disease 4230 4236	tumeur
+T16	disease 4483 4500	tumeur papillaire
+T17	disease 4539 4570	Carcinome urothélial papillaire
+T18	disease 4774 4790	pneumonie basale
+T19	disease 4894 4911	iléus paralytique
+#1	SNOMED T11	126882009
+#2	SNOMED T7	43064006
+#3	SNOMED T3	266569009
+#4	SNOMED T4	57054005
+#5	SNOMED T1	7163005
+#6	SNOMED T5	44054006
+#7	SNOMED T18	300999006
+#8	SNOMED T19	55525008
+#9	SNOMED T9	126882009
+#10	SNOMED T2	370992007
+#11	SNOMED T17	128639004
+#12	SNOMED T12	12400006
+#13	SNOMED T13	128462008
+#14	SNOMED T8	95581005
+#15	SNOMED T6	197820003
+#16	SNOMED T10	300444006
+#17	SNOMED T14	55342001
+#18	SNOMED T15	55342001
+#19	SNOMED T16	108369006

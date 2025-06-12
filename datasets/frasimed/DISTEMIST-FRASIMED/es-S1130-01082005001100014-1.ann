@@ -1,0 +1,26 @@
+T1	disease 11 21	hypertendu
+T2	disease 52 72	ulcère gastroduodéna
+T3	disease 168 174	méléna
+T4	disease 447 492	lésion sous-muqueuse dans le fundus gastrique
+T5	disease 520 530	ulcération
+T6	disease 630 668	lésion sous-muqueuse gastrique ulcérée
+T7	disease 721 750	hémorragie gastro-intestinale
+T8	disease 1034 1092	gastrique présentait une excavation secondaire à un ulcère
+T9	disease 1126 1179	lymphadénopathie périlésionnelle ou du tronc cœliaque
+T10	disease 1262 1315	tumeur stromale sous-muqueuse gastrique (tumeur GIST)
+T11	disease 1303 1314	tumeur GIST
+T12	disease 1446 1471	complication hémorragique
+T13	disease 1618 1638	schwannome gastrique
+#1	SNOMED T1	38341003
+#2	SNOMED T2	13200003
+#3	SNOMED T4	29384001
+#4	SNOMED T13	404022001
+#5	SNOMED T3	2901004
+#6	SNOMED T6	29384001
+#7	SNOMED T8	9829001
+#8	SNOMED T7	74474003
+#9	SNOMED T9	127117004
+#10	SNOMED T10	128755003
+#11	SNOMED T11	420120006
+#12	SNOMED T12	50960005
+#13	SNOMED T5	429040005

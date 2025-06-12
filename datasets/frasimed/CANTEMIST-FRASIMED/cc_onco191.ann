@@ -1,0 +1,30 @@
+T1	morphology-onco 344 374	carcinome canalaire infiltrant
+T2	morphology-onco 470 477	pT2N0M0
+T3	morphology-onco 1477 1488	néoplasique
+T4	morphology-onco 1685 1715	carcinome canalaire infiltrant
+T5	morphology-onco 1837 1839	M0
+T6	morphology-onco 2945 2955	méningiome
+T7	morphology-onco 3913 3924	néoplasique
+T8	morphology-onco 4053 4062	néoplasme
+T9	morphology-onco 4319 4353	progression aux niveaux pulmonaire
+T10	morphology-onco 4679 4688	néoplasme
+#1	ICD-O-3.1 T5	8000/6
+#2	ICD-O-3.1 T1	8500/3
+#3	ICD-O-3.1 T4	8500/3
+#4	ICD-O-3.1 T6	9530/0
+#5	ICD-O-3.1 T8	8000/1
+#6	ICD-O-3.1 T10	8000/1
+#7	ICD-O-3.1 T3	8000/1
+#8	ICD-O-3.1 T7	8000/1
+#9	ICD-O-3.1 T2	8000/6
+#10	ICD-O-3.1 T9	8000/6
+#11	SNOMED T5	14799000
+#12	SNOMED T1	58477004
+#13	SNOMED T4	58477004
+#14	SNOMED T6	1157019008
+#15	SNOMED T8	86251006
+#16	SNOMED T10	86251006
+#17	SNOMED T3	86251006
+#18	SNOMED T7	86251006
+#19	SNOMED T2	14799000
+#20	SNOMED T9	14799000

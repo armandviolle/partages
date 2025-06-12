@@ -1,0 +1,93 @@
+T1	morphology-onco 242 277	mélanocytome de grade intermédiaire
+T2	morphology-onco 374 393	tumeur de bas grade
+T3	morphology-onco 1350 1377	dissémination leptoméningée
+T4	morphology-onco 1491 1497	tumeur
+T5	morphology-onco 1941 1985	mélanocytome cérébral de grade intermédiaire
+T6	morphology-onco 1990 2009	méningiome pigmenté
+T7	morphology-onco 2137 2157	néoplasmes pigmentés
+T8	morphology-onco 2204 2222	maladie à distance
+T9	morphology-onco 3547 3557	métastases
+T10	morphology-onco 3615 3633	lésions hépatiques
+T11	morphology-onco 3708 3715	maligne
+T12	morphology-onco 3719 3731	mélanocytome
+T13	morphology-onco 3735 3758	mélanome cérébral malin
+T14	morphology-onco 4358 4376	lésions hépatiques
+T15	morphology-onco 4479 4489	métastases
+T16	morphology-onco 4584 4591	maligne
+T17	morphology-onco 4731 4739	tumorale
+T18	morphology-onco 4760 4788	métastases de mélanome malin
+T19	morphology-onco 4949 4959	métastases
+T20	morphology-onco 5125 5163	lésions multiples au niveau pulmonaire
+T21	morphology-onco 5187 5197	métastases
+T22	morphology-onco 5298 5305	maligne
+T23	morphology-onco 5559 5566	maligne
+T24	morphology-onco 5572 5584	mélanocytome
+T25	morphology-onco 5597 5611	mélanome malin
+T26	morphology-onco 5825 5831	tumeur
+T27	morphology-onco 6063 6070	maligne
+T28	morphology-onco 6988 7006	lésions hépatiques
+T29	morphology-onco 7016 7032	lésion cérébrale
+T30	morphology-onco 7075 7094	nodules pulmonaires
+T31	morphology-onco 7109 7119	métastases
+#1	ICD-O-3.1 T8	8000/6
+#2	ICD-O-3.1 T12	8726/0
+#3	ICD-O-3.1 T24	8726/0
+#4	ICD-O-3.1 T25	8720/3
+#5	ICD-O-3.1 T9	8000/6
+#6	ICD-O-3.1 T15	8000/6
+#7	ICD-O-3.1 T19	8000/6
+#8	ICD-O-3.1 T21	8000/6
+#9	ICD-O-3.1 T31	8000/6
+#10	ICD-O-3.1 T4	8000/1
+#11	ICD-O-3.1 T17	8000/1
+#12	ICD-O-3.1 T26	8000/1
+#13	ICD-O-3.1 T1	8728/32
+#14	ICD-O-3.1 T2	8000/11
+#15	ICD-O-3.1 T3	8000/6
+#16	ICD-O-3.1 T5	8728/32
+#17	ICD-O-3.1 T6	9530/0/H
+#18	ICD-O-3.1 T7	8000/1/H
+#19	ICD-O-3.1 T13	8720/3
+#20	ICD-O-3.1 T16	8000/3
+#21	ICD-O-3.1 T18	8720/6
+#22	ICD-O-3.1 T22	8000/3
+#23	ICD-O-3.1 T23	8000/3
+#24	ICD-O-3.1 T27	8000/3
+#25	ICD-O-3.1 T11	8000/3
+#26	ICD-O-3.1 T10	8000/6
+#27	ICD-O-3.1 T14	8000/6
+#28	ICD-O-3.1 T20	8000/6
+#29	ICD-O-3.1 T29	8000/6
+#30	ICD-O-3.1 T30	8000/6
+#31	ICD-O-3.1 T28	8000/6
+#32	SNOMED T8	14799000
+#33	SNOMED T12	26325004
+#34	SNOMED T24	26325004
+#35	SNOMED T25	1162635006
+#36	SNOMED T9	14799000
+#37	SNOMED T15	14799000
+#38	SNOMED T19	14799000
+#39	SNOMED T21	14799000
+#40	SNOMED T31	14799000
+#41	SNOMED T4	86251006
+#42	SNOMED T17	86251006
+#43	SNOMED T26	86251006
+#44	SNOMED T1	128731008
+#45	SNOMED T2	86251006
+#46	SNOMED T3	14799000
+#47	SNOMED T5	128731008
+#48	SNOMED T6	1157019008
+#49	SNOMED T7	86251006
+#50	SNOMED T13	1162635006
+#51	SNOMED T16	1240414004
+#52	SNOMED T18	372158004
+#53	SNOMED T22	1240414004
+#54	SNOMED T23	1240414004
+#55	SNOMED T27	1240414004
+#56	SNOMED T11	1240414004
+#57	SNOMED T10	14799000
+#58	SNOMED T14	14799000
+#59	SNOMED T20	14799000
+#60	SNOMED T29	14799000
+#61	SNOMED T30	14799000
+#62	SNOMED T28	14799000

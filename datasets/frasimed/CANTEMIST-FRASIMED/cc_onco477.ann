@@ -1,0 +1,45 @@
+T1	morphology-onco 177 183	cancer
+T2	morphology-onco 278 308	carcinome canalaire infiltrant
+T3	morphology-onco 323 330	cT1N0M0
+T4	morphology-onco 884 914	carcinome canalaire infiltrant
+T5	morphology-onco 929 939	pT1N1micM0
+T6	morphology-onco 1664 1673	malignité
+T7	morphology-onco 1767 1817	carcinome mammaire canalaire infiltrant de grade 3
+T8	morphology-onco 2401 2407	cancer
+T9	morphology-onco 2939 3010	lésion occupant l'espace a été observée au niveau du vermis cérébelleux
+T10	morphology-onco 3059 3068	métastase
+T11	morphology-onco 3717 3764	lésion occupant l'espace vermien et cérébelleux
+T12	morphology-onco 4689 4695	Cancer
+T13	morphology-onco 4718 4728	pT1N1micM0
+T14	morphology-onco 4804 4813	métastase
+T15	morphology-onco 4895 4914	lésion cérébelleuse
+#1	ICD-O-3.1 T3	8000/6
+#2	ICD-O-3.1 T2	8500/3
+#3	ICD-O-3.1 T4	8500/3
+#4	ICD-O-3.1 T1	8000/3
+#5	ICD-O-3.1 T8	8000/3
+#6	ICD-O-3.1 T12	8000/3
+#7	ICD-O-3.1 T15	8000/6
+#8	ICD-O-3.1 T6	8000/3
+#9	ICD-O-3.1 T10	8000/6
+#10	ICD-O-3.1 T14	8000/6
+#11	ICD-O-3.1 T5	8000/6
+#12	ICD-O-3.1 T7	8500/33
+#13	ICD-O-3.1 T9	8000/6
+#14	ICD-O-3.1 T13	8000/6
+#15	ICD-O-3.1 T11	8000/6
+#16	SNOMED T3	14799000
+#17	SNOMED T2	58477004
+#18	SNOMED T4	58477004
+#19	SNOMED T1	1240414004
+#20	SNOMED T8	1240414004
+#21	SNOMED T12	1240414004
+#22	SNOMED T15	14799000
+#23	SNOMED T6	1240414004
+#24	SNOMED T10	14799000
+#25	SNOMED T14	14799000
+#26	SNOMED T5	14799000
+#27	SNOMED T7	58477004
+#28	SNOMED T9	14799000
+#29	SNOMED T13	14799000
+#30	SNOMED T11	14799000

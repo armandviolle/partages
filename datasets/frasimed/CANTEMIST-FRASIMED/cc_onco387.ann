@@ -1,0 +1,30 @@
+T1	morphology-onco 2490 2518	processus lymphoprolifératif
+T2	morphology-onco 2730 2759	lymphome diffus de haut grade
+T3	morphology-onco 2822 2830	tumorale
+T4	morphology-onco 3201 3212	néoplasique
+T5	morphology-onco 3314 3350	Lymphome diffus à grandes cellules B
+T6	morphology-onco 4254 4282	processus lymphoprolifératif
+T7	morphology-onco 4721 4749	processus lymphoprolifératif
+T8	morphology-onco 5426 5453	maladie lymphoproliférative
+T9	morphology-onco 5683 5716	LYMPHOME DE HODGKIN LYMPHOCYTIQUE
+T10	morphology-onco 6754 6808	maladie de Hodgkin avec une prédominance lymphocytaire
+#1	ICD-O-3.1 T8	9970/1
+#2	ICD-O-3.1 T4	8000/1
+#3	ICD-O-3.1 T1	9970/1
+#4	ICD-O-3.1 T6	9970/1
+#5	ICD-O-3.1 T7	9970/1
+#6	ICD-O-3.1 T3	8000/1
+#7	ICD-O-3.1 T2	9591/34
+#8	ICD-O-3.1 T5	9680/3
+#9	ICD-O-3.1 T9	9651/3
+#10	ICD-O-3.1 T10	9651/3
+#11	SNOMED T8	277466009
+#12	SNOMED T4	86251006
+#13	SNOMED T1	277466009
+#14	SNOMED T6	277466009
+#15	SNOMED T7	277466009
+#16	SNOMED T3	86251006
+#17	SNOMED T2	1172592001
+#18	SNOMED T5	1172695008
+#19	SNOMED T9	118607005
+#20	SNOMED T10	118607005

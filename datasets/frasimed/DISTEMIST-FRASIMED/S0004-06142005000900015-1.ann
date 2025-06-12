@@ -1,0 +1,10 @@
+T1	disease 594 617	tumeur paratesticulaire
+#1	SNOMED T1	281591005
+T2	disease 797 822	prolifération néoplasique
+#2	SNOMED T2	1495041000004108
+T3	disease 956 1005	rhabdomyosarcome pléomorphe du cordon spermatique
+#3	SNOMED T3	721574009
+T4	disease 1276 1293	récidive tumorale
+#4	SNOMED T4	25173007
+T5	disease 542 567	atteinte rétropéritonéale
+#5	SNOMED T5	127154008

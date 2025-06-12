@@ -1,0 +1,12 @@
+T1	disease 48 102	carcinome urothélial papillaire multiple de haut grade
+T2	disease 761 774	conjonctivite
+T3	disease 849 856	aphteux
+T4	disease 866 890	lésion orale ou génitale
+T5	disease 1194 1202	hépatite
+T6	disease 1724 1772	polyarthrite secondaire aux instillations de BCG
+#1	SNOMED T1	118287003
+#2	SNOMED T6	116431000119103+42284007
+#3	SNOMED T2	9826008
+#4	SNOMED T3	429040005
+#5	SNOMED T4	1071000119107+724386005
+#6	SNOMED T5	128241005

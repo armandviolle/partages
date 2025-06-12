@@ -1,0 +1,65 @@
+T1	morphology-onco 620 647	syndrome lymphoprolifératif
+T2	morphology-onco 762 800	métastases d'un carcinome embryonnaire
+T3	morphology-onco 941 954	tumeur brûlée
+T4	morphology-onco 959 994	néoplasme germinatif intratubulaire
+T5	morphology-onco 1088 1122	tumeur germinale non séminomateuse
+T6	morphology-onco 1124 1128	TGNS
+T7	morphology-onco 1307 1313	tumeur
+T8	morphology-onco 1529 1545	tumeur germinale
+T9	morphology-onco 1576 1613	sarcome rétropéritonéal de haut grade
+T10	morphology-onco 2140 2146	tumeur
+T11	morphology-onco 3174 3182	tumoraux
+T12	morphology-onco 3505 3513	tumorale
+T13	morphology-onco 3563 3586	Sarcome des tissus mous
+T14	morphology-onco 3663 3733	tumeur maligne de la gaine du nerf périphérique), grade histologique 3
+T15	morphology-onco 4093 4118	néoplasique de haut grade
+T16	morphology-onco 4133 4140	sarcome
+T17	morphology-onco 4312 4319	sarcome
+T18	morphology-onco 4652 4659	sarcome
+T19	morphology-onco 4837 4843	tumeur
+T20	morphology-onco 5176 5182	tumeur
+T21	morphology-onco 5581 5618	sarcome rétropéritonéal de haut grade
+T22	morphology-onco 5856 5862	tumeur
+#1	ICD-O-3.1 T4	9064/2
+#2	ICD-O-3.1 T7	8000/1
+#3	ICD-O-3.1 T19	8000/1
+#4	ICD-O-3.1 T22	8000/1
+#5	ICD-O-3.1 T8	9064/3
+#6	ICD-O-3.1 T11	8000/1
+#7	ICD-O-3.1 T5	9065/3
+#8	ICD-O-3.1 T6	9065/3
+#9	ICD-O-3.1 T3	8000/1/H
+#10	ICD-O-3.1 T17	8800/3
+#11	ICD-O-3.1 T18	8800/3
+#12	ICD-O-3.1 T16	8800/3
+#13	ICD-O-3.1 T2	9070/6
+#14	ICD-O-3.1 T9	8800/34
+#15	ICD-O-3.1 T21	8800/34
+#16	ICD-O-3.1 T14	9540/33
+#17	ICD-O-3.1 T13	8800/3
+#18	ICD-O-3.1 T15	8000/14
+#19	ICD-O-3.1 T1	9970/1
+#20	ICD-O-3.1 T10	8000/1
+#21	ICD-O-3.1 T20	8000/1
+#22	ICD-O-3.1 T12	8000/1
+#23	SNOMED T4	128902002
+#24	SNOMED T7	86251006
+#25	SNOMED T19	86251006
+#26	SNOMED T22	86251006
+#27	SNOMED T8	28307001
+#28	SNOMED T11	86251006
+#29	SNOMED T5	128766005
+#30	SNOMED T6	128766005
+#31	SNOMED T3	86251006
+#32	SNOMED T17	1187396000
+#33	SNOMED T18	1187396000
+#34	SNOMED T16	1187396000
+#35	SNOMED T9	1187396000
+#36	SNOMED T21	1187396000
+#37	SNOMED T14	404037002
+#38	SNOMED T13	1187396000
+#39	SNOMED T15	86251006
+#40	SNOMED T1	277466009
+#41	SNOMED T10	86251006
+#42	SNOMED T20	86251006
+#43	SNOMED T12	86251006

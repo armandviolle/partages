@@ -1,0 +1,17 @@
+T1	disease 173 184	hypoacousie
+T2	disease 192 212	angines à répétition
+T3	disease 236 261	traumatisme costolombaire
+T4	disease 391 450	prostate présentait des caractéristiques fibroadénomateuses
+T5	disease 1026 1062	Tumeurs rétropéritonéales primitives
+T6	disease 1065 1083	Tumeurs surrénales
+T7	disease 1086 1101	Tumeurs rénales
+T8	disease 1104 1125	Tumeurs métastatiques
+T9	disease 1128 1150	Pathologie infectieuse
+T10	disease 1548 1582	tumeur surrénalienne fonctionnelle
+T11	disease 1754 1778	kyste hydatique calcifié
+T12	disease 1831 1856	traumatisme costolombaire
+T13	disease 2092 2134	lésion saillante dans l'hypochondre gauche
+T14	disease 2202 2253	lésions diffuses distribuées dans tout le péritoine
+T15	disease 2311 2363	graisse péritonéale infiltrée par une tumeur maligne
+T16	disease 2470 2495	processus malin disséminé
+T17	disease 2540 2562	liposarcome pléomorphe

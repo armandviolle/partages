@@ -1,0 +1,9 @@
+T1	morphology-onco 849 857	lymphome
+T2	morphology-onco 864 887	astrocytome anaplasique
+T3	morphology-onco 984 1012	astrocytome anaplasique GIII
+#1	ICD-O-3.1 T1	9590/3
+#2	ICD-O-3.1 T2	9401/3
+#3	ICD-O-3.1 T3	9401/33
+#4	SNOMED T1	1163043007
+#5	SNOMED T2	55353007
+#6	SNOMED T3	55353007

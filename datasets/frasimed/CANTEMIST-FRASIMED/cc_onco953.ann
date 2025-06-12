@@ -1,0 +1,27 @@
+T1	morphology-onco 1705 1723	cellules tumorales
+T2	morphology-onco 1797 1816	tumeur endodermique
+T3	morphology-onco 1826 1848	tumeur du sac vitellin
+T4	morphology-onco 1864 1898	Tumeur germinale non séminomateuse
+T5	morphology-onco 1864 1925	Tumeur germinale non séminomateuse de type sinus endodermique
+T6	morphology-onco 1927 1949	tumeur du sac vitellin
+T7	morphology-onco 3493 3499	tumeur
+T8	morphology-onco 3649 3658	tumorales
+T9	morphology-onco 3759 3765	tumeur
+#1	ICD-O-3.1 T4	9065/3
+#2	ICD-O-3.1 T1	8001/1
+#3	ICD-O-3.1 T2	9071/3
+#4	ICD-O-3.1 T8	8000/1
+#5	ICD-O-3.1 T9	8000/1
+#6	ICD-O-3.1 T7	8000/1
+#7	ICD-O-3.1 T3	9071/3
+#8	ICD-O-3.1 T6	9071/3
+#9	ICD-O-3.1 T5	9071/3
+#10	SNOMED T4	128766005
+#11	SNOMED T1	39577004
+#12	SNOMED T2	74409009
+#13	SNOMED T8	86251006
+#14	SNOMED T9	86251006
+#15	SNOMED T7	86251006
+#16	SNOMED T3	74409009
+#17	SNOMED T6	74409009
+#18	SNOMED T5	74409009

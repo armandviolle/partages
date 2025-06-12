@@ -1,0 +1,23 @@
+T1	disease 260 278	sclérose tubéreuse
+T2	disease 361 381	angiomyolipome rénal
+T3	disease 426 478	adénome sébacé de Pringle dans la région nasolabiale
+T4	disease 484 526	hamartomes rétiniens dans le fond de l'œil
+T5	disease 534 590	lésions fibrotiques dans la région cervicale postérieure
+T6	disease 623 658	lésion dure adhérant à la mandibule
+T7	disease 737 819	peau de la région cervicale latérale et sur la nuque, de multiples petites lésions
+T8	disease 933 954	hyperplasie gingivale
+T9	disease 1042 1060	crises d'épilepsie
+T10	disease 1304 1335	excroissance osseuse chondroïde
+T11	disease 1343 1379	érosion de la corticale mandibulaire
+T12	disease 1510 1523	améloblastome
+T13	disease 1525 1542	myxome odontogène
+T14	disease 1544 1560	kyste anévrysmal
+T15	disease 1562 1584	fibrome chondromyxoïde
+T16	disease 1586 1604	hémangiome central
+T17	disease 1608 1629	granulome éosinophile
+T18	disease 1689 1695	lésion
+T19	disease 1784 1802	fibromes cervicaux
+T20	disease 2027 2061	récidive de la lésion mandibulaire
+T21	disease 2110 2137	lésion osseuse mandibulaire
+T22	disease 2375 2408	infiltration osseuse de la tumeur
+T23	disease 2593 2615	fibrome desmoplastique

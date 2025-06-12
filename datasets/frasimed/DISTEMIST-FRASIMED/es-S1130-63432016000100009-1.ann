@@ -1,0 +1,6 @@
+T1	disease 113 141	accident ischémique cérébral
+T2	disease 233 265	thromboembolie veineuse profonde
+T3	disease 1042 1057	obésité extrême
+#1	SNOMED T1	422504002
+#2	SNOMED T2	128053003
+#3	SNOMED T3	238136002

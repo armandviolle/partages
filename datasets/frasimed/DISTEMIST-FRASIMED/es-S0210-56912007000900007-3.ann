@@ -1,0 +1,14 @@
+T1	disease 188 195	diabète
+T2	disease 392 406	déshydratation
+T3	disease 648 663	hyperamylasémie
+T4	disease 757 774	pancréatite aiguë
+T5	disease 1497 1556	formation polypoïde sessile située à côté du sphincter anal
+T6	disease 1633 1663	adénome villositaire du rectum
+T7	disease 1806 1813	adénome
+#1	SNOMED T1	73211009
+#2	SNOMED T2	34095006
+#3	SNOMED T3	275739007
+#4	SNOMED T4	197456007
+#5	SNOMED T5	88580009
+#6	SNOMED T6	312823001
+#7	SNOMED T7	443416007

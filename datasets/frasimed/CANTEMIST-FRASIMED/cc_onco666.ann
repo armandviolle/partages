@@ -1,0 +1,45 @@
+T1	morphology-onco 1419 1426	thymome
+T2	morphology-onco 1473 1480	thymome
+T3	morphology-onco 1945 1951	tumeur
+T4	morphology-onco 2143 2160	thymome de type A
+T5	morphology-onco 2399 2416	thymome de type A
+T6	morphology-onco 2747 2757	hémangiome
+T7	morphology-onco 3505 3512	tumoral
+T8	morphology-onco 3581 3589	angiomes
+T9	morphology-onco 3675 3683	angiomes
+T10	morphology-onco 3784 3802	lésions hépatiques
+T11	morphology-onco 3835 3843	angiomes
+T12	morphology-onco 3903 3932	atteinte métastatique du foie
+T13	morphology-onco 3912 3924	métastatique
+T14	morphology-onco 4072 4082	métastases
+T15	morphology-onco 4334 4341	thymome
+#1	ICD-O-3.1 T12	8000/6
+#2	ICD-O-3.1 T6	9120/0
+#3	ICD-O-3.1 T10	8000/6
+#4	ICD-O-3.1 T13	8000/6
+#5	ICD-O-3.1 T14	8000/6
+#6	ICD-O-3.1 T1	8580/1
+#7	ICD-O-3.1 T2	8580/1
+#8	ICD-O-3.1 T15	8580/3
+#9	ICD-O-3.1 T3	8000/1
+#10	ICD-O-3.1 T7	8000/1
+#11	ICD-O-3.1 T4	8581/3
+#12	ICD-O-3.1 T5	8580/3
+#13	ICD-O-3.1 T8	9120/0
+#14	ICD-O-3.1 T9	9120/0
+#15	ICD-O-3.1 T11	9120/0
+#16	SNOMED T12	14799000
+#17	SNOMED T6	253053003
+#18	SNOMED T10	14799000
+#19	SNOMED T13	14799000
+#20	SNOMED T14	14799000
+#21	SNOMED T1	1187428006
+#22	SNOMED T2	1187428006
+#23	SNOMED T15	444596001
+#24	SNOMED T3	86251006
+#25	SNOMED T7	86251006
+#26	SNOMED T4	128708008
+#27	SNOMED T5	444596001
+#28	SNOMED T8	253053003
+#29	SNOMED T9	253053003
+#30	SNOMED T11	253053003

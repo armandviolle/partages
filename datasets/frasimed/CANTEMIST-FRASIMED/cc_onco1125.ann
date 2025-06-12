@@ -1,0 +1,12 @@
+T1	morphology-onco 299 305	tumeur
+T2	morphology-onco 1712 1739	carcinome canalaire invasif
+T3	morphology-onco 1979 2006	carcinome canalaire invasif
+T4	morphology-onco 2372 2380	tumoraux
+#1	ICD-O-3.1 T1	8000/1
+#2	ICD-O-3.1 T4	8000/1
+#3	ICD-O-3.1 T2	8500/3
+#4	ICD-O-3.1 T3	8500/3
+#5	SNOMED T1	86251006
+#6	SNOMED T4	86251006
+#7	SNOMED T2	58477004
+#8	SNOMED T3	58477004

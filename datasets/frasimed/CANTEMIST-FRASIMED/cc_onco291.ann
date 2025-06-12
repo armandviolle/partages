@@ -1,0 +1,51 @@
+T1	morphology-onco 71 114	leucémie lymphoblastique aiguë à cellules B
+T2	morphology-onco 218 248	leucémie lymphoblastique aiguë
+T3	morphology-onco 826 853	rhabdomyosarcome alvéolaire
+T4	morphology-onco 1507 1550	adénopathies cervicales, supraclaviculaires
+T5	morphology-onco 1585 1591	tumeur
+T6	morphology-onco 2859 2867	tumorale
+T7	morphology-onco 3109 3122	métastatiques
+T8	morphology-onco 3177 3183	tumeur
+T9	morphology-onco 3224 3231	tumoral
+T10	morphology-onco 3423 3441	cellules tumorales
+T11	morphology-onco 3754 3762	mélanome
+T12	morphology-onco 3815 3842	rhabdomyosarcome alvéolaire
+T13	morphology-onco 3941 3949	leucémie
+T14	morphology-onco 3954 3981	rhabdomyosarcome alvéolaire
+T15	morphology-onco 4105 4115	métastases
+T16	morphology-onco 4334 4350	rhabdomyosarcome
+T17	morphology-onco 6807 6817	métastases
+#1	ICD-O-3.1 T10	8001/1
+#2	ICD-O-3.1 T11	8720/3
+#3	ICD-O-3.1 T7	8000/6
+#4	ICD-O-3.1 T15	8000/6
+#5	ICD-O-3.1 T17	8000/6
+#6	ICD-O-3.1 T16	8900/3
+#7	ICD-O-3.1 T5	8000/1
+#8	ICD-O-3.1 T9	8000/1
+#9	ICD-O-3.1 T6	8000/1
+#10	ICD-O-3.1 T8	8000/1
+#11	ICD-O-3.1 T1	9835/36
+#12	ICD-O-3.1 T2	9835/3
+#13	ICD-O-3.1 T3	8920/3
+#14	ICD-O-3.1 T4	8000/6
+#15	ICD-O-3.1 T12	8920/3
+#16	ICD-O-3.1 T13	9800/3
+#17	ICD-O-3.1 T14	8920/3
+#18	SNOMED T10	39577004
+#19	SNOMED T11	1162635006
+#20	SNOMED T7	14799000
+#21	SNOMED T15	14799000
+#22	SNOMED T17	14799000
+#23	SNOMED T16	30924005
+#24	SNOMED T5	86251006
+#25	SNOMED T9	86251006
+#26	SNOMED T6	86251006
+#27	SNOMED T8	86251006
+#28	SNOMED T1	91857003
+#29	SNOMED T2	91857003
+#30	SNOMED T3	404053004
+#31	SNOMED T4	14799000
+#32	SNOMED T12	404053004
+#33	SNOMED T13	1162768007
+#34	SNOMED T14	404053004

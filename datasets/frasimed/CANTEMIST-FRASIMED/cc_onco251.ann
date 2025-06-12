@@ -1,0 +1,36 @@
+T1	morphology-onco 141 147	cancer
+T2	morphology-onco 185 191	tumeur
+T3	morphology-onco 653 662	malignité
+T4	morphology-onco 665 711	Carcinome canalaire infiltrant peu différencié
+T5	morphology-onco 1027 1036	néoplasie
+T6	morphology-onco 1151 1160	malignité
+T7	morphology-onco 5173 5179	cancer
+T8	morphology-onco 5353 5383	carcinome canalaire infiltrant
+T9	morphology-onco 7738 7744	cancer
+T10	morphology-onco 7969 8014	carcinome canalaire résiduel micro-infiltrant
+T11	morphology-onco 8062 8120	carcinome intraductal résiduel, tous deux peu différenciés
+T12	morphology-onco 8190 8199	métastase
+#1	ICD-O-3.1 T8	8500/3
+#2	ICD-O-3.1 T1	8000/3
+#3	ICD-O-3.1 T7	8000/3
+#4	ICD-O-3.1 T9	8000/3
+#5	ICD-O-3.1 T12	8000/6
+#6	ICD-O-3.1 T5	8000/1
+#7	ICD-O-3.1 T2	8000/1
+#8	ICD-O-3.1 T4	8500/33
+#9	ICD-O-3.1 T3	8000/3
+#10	ICD-O-3.1 T6	8000/3
+#11	ICD-O-3.1 T10	8500/3
+#12	ICD-O-3.1 T11	8500/23
+#13	SNOMED T8	58477004
+#14	SNOMED T1	1240414004
+#15	SNOMED T7	1240414004
+#16	SNOMED T9	1240414004
+#17	SNOMED T12	14799000
+#18	SNOMED T5	86251006
+#19	SNOMED T2	86251006
+#20	SNOMED T4	58477004
+#21	SNOMED T3	1240414004
+#22	SNOMED T6	1240414004
+#23	SNOMED T10	58477004
+#24	SNOMED T11	1162814007

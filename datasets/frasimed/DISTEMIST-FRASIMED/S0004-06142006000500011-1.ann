@@ -1,0 +1,38 @@
+T1	disease 64 93	bronchopneumopathie chronique
+T2	disease 165 196	carcinome épidermoïde du poumon
+T3	disease 202 204	M0
+T4	disease 277 286	allergies
+T5	disease 402 421	colique néphrétique
+T6	disease 890 896	anémie
+T7	disease 980 1003	hématurie microscopique
+T8	disease 1031 1071	kyste cortical au pôle supérieur du rein
+T9	disease 1100 1122	tumeur solide-kystique
+T10	disease 1310 1330	kyste rénal complexe
+T11	disease 1479 1498	emphysème bilatéral
+T12	disease 1504 1564	adénopathies rétropéritonéales dans le territoire aorto-cave
+T13	disease 1711 1726	carcinome rénal
+T14	disease 1745 1754	métastase
+T15	disease 1892 1908	métastase rénale
+T16	disease 1892 1953	métastase rénale gauche d'un carcinome épidermoïde pulmonaire
+T17	disease 1921 1953	carcinome épidermoïde pulmonaire
+T18	disease 2763 2776	lésion rénale
+T19	disease 2885 2918	néoplasme pulmonaire métastatique
+#1	SNOMED T1	13645005
+#2	SNOMED T2	254634000
+#3	SNOMED T4	106190000
+#4	SNOMED T5	7093002
+#5	SNOMED T6	271737000
+#6	SNOMED T7	197940006
+#7	SNOMED T8	722223000
+#8	SNOMED T9	27078002
+#9	SNOMED T10	735471001
+#10	SNOMED T11	87433001
+#11	SNOMED T12	127154008
+#12	SNOMED T13	254915003
+#13	SNOMED T14	128462008
+#14	SNOMED T15	94360002
+#15	SNOMED T17	254634000
+#16	SNOMED T18	79131000119100
+#17	SNOMED T19	94391008
+#18	SNOMED T3	89474008
+#19	SNOMED T16	94360002+254634000

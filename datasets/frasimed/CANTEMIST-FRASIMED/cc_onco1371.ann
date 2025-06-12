@@ -1,0 +1,9 @@
+T1	morphology-onco 57 87	carcinome canalaire infiltrant
+T2	morphology-onco 89 92	CDI
+T3	morphology-onco 400 410	métastases
+#1	ICD-O-3.1 T2	8500/3
+#2	ICD-O-3.1 T1	8500/3
+#3	ICD-O-3.1 T3	8000/6
+#4	SNOMED T2	58477004
+#5	SNOMED T1	58477004
+#6	SNOMED T3	14799000

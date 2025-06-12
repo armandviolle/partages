@@ -1,0 +1,45 @@
+T1	morphology-onco 591 620	adénopathie supraclaviculaire
+T2	morphology-onco 1009 1039	adénopathies sus-claviculaires
+T3	morphology-onco 1081 1143	lésions lytiques ont également été trouvées au niveau de l'axe
+T4	morphology-onco 1193 1203	métastases
+T5	morphology-onco 1262 1276	adénocarcinome
+T6	morphology-onco 1576 1624	adénocarcinome pulmonaire de catégorie cT2bN3M1c
+T7	morphology-onco 1645 1667	dissémination pleurale
+T8	morphology-onco 2670 2700	nodules pulmonaires bilatéraux
+T9	morphology-onco 2708 2721	carcinomatose
+T10	morphology-onco 3362 3392	lésions dans la région costale
+T11	morphology-onco 3587 3617	adénocarcinome peu différencié
+T12	morphology-onco 3997 4016	lésions pulmonaires
+T13	morphology-onco 4027 4053	lymphangite carcinomateuse
+T14	morphology-onco 4274 4281	maligne
+T15	morphology-onco 4975 4995	atteinte péritonéale
+#1	ICD-O-3.1 T5	8140/3
+#2	ICD-O-3.1 T9	8010/9
+#3	ICD-O-3.1 T4	8000/6
+#4	ICD-O-3.1 T6	8140/6
+#5	ICD-O-3.1 T7	8000/6
+#6	ICD-O-3.1 T11	8140/33
+#7	ICD-O-3.1 T14	8000/3
+#8	ICD-O-3.1 T1	8000/6
+#9	ICD-O-3.1 T2	8000/6
+#10	ICD-O-3.1 T3	8000/6
+#11	ICD-O-3.1 T12	8000/6
+#12	ICD-O-3.1 T13	8000/3
+#13	ICD-O-3.1 T8	8000/6
+#14	ICD-O-3.1 T10	8000/6
+#15	ICD-O-3.1 T15	8000/6
+#16	SNOMED T5	1187332001
+#17	SNOMED T9	307593001
+#18	SNOMED T4	14799000
+#19	SNOMED T6	4590003
+#20	SNOMED T7	14799000
+#21	SNOMED T11	1187332001
+#22	SNOMED T14	1240414004
+#23	SNOMED T1	14799000
+#24	SNOMED T2	14799000
+#25	SNOMED T3	14799000
+#26	SNOMED T12	14799000
+#27	SNOMED T13	1240414004
+#28	SNOMED T8	14799000
+#29	SNOMED T10	14799000
+#30	SNOMED T15	14799000

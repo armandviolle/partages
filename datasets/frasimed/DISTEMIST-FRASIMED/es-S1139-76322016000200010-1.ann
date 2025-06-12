@@ -1,0 +1,12 @@
+T1	disease 83 103	saignements vaginaux
+T2	disease 410 421	abus sexuel
+T3	disease 549 571	corps étranger vaginal
+T4	disease 608 619	abus sexuel
+T5	disease 680 702	corps étranger vaginal
+T6	disease 888 899	abus sexuel
+#1	SNOMED T1	399131003
+#2	SNOMED T2	225826001
+#3	SNOMED T3	34124000
+#4	SNOMED T4	225826001
+#5	SNOMED T5	34124000
+#6	SNOMED T6	225826001

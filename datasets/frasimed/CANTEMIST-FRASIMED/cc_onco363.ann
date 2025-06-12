@@ -1,0 +1,21 @@
+T1	morphology-onco 2137 2176	cancer du poumon non à petites cellules
+T2	morphology-onco 2286 2300	adénocarcinome
+T3	morphology-onco 2383 2391	tumorale
+T4	morphology-onco 2556 2570	adénocarcinome
+T5	morphology-onco 2823 2829	tumeur
+T6	morphology-onco 2831 2845	adénocarcinome
+T7	morphology-onco 4513 4524	néoplasique
+#1	ICD-O-3.1 T2	8140/3
+#2	ICD-O-3.1 T6	8140/3
+#3	ICD-O-3.1 T5	8000/1
+#4	ICD-O-3.1 T3	8000/1
+#5	ICD-O-3.1 T1	8046/3
+#6	ICD-O-3.1 T4	8140/3
+#7	ICD-O-3.1 T7	8000/1
+#8	SNOMED T2	1187332001
+#9	SNOMED T6	1187332001
+#10	SNOMED T5	86251006
+#11	SNOMED T3	86251006
+#12	SNOMED T1	128632008
+#13	SNOMED T4	1187332001
+#14	SNOMED T7	86251006

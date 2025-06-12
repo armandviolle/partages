@@ -1,0 +1,55 @@
+T1	morphology-onco 418 424	tumeur
+T2	morphology-onco 670 678	chordome
+T3	morphology-onco 954 960	tumeur
+T4	morphology-onco 1081 1090	malignité
+T5	morphology-onco 1224 1238	adénocarcinome
+T6	morphology-onco 1394 1413	nodules pulmonaires
+T7	morphology-onco 1637 1656	nodules pulmonaires
+T8	morphology-onco 1734 1776	métastases pulmonaires d'un adénocarcinome
+T9	morphology-onco 1931 1950	lésions pulmonaires
+T10	morphology-onco 2016 2037	métastase de chordome
+T11	morphology-onco 2250 2267	lésions du poumon
+T12	morphology-onco 2346 2354	chordome
+T13	morphology-onco 2552 2586	récidive au niveau de l'os iliaque
+T14	morphology-onco 2615 2634	lésions pulmonaires
+T15	morphology-onco 2807 2836	chordome avec atteinte des os
+T16	morphology-onco 3150 3157	tumoral
+T17	morphology-onco 3447 3466	nodules pulmonaires
+T18	morphology-onco 3627 3633	cancer
+T19	morphology-onco 3696 3704	chordome
+#1	ICD-O-3.1 T5	8140/3
+#2	ICD-O-3.1 T2	9370/3
+#3	ICD-O-3.1 T12	9370/3
+#4	ICD-O-3.1 T19	9370/3
+#5	ICD-O-3.1 T18	8000/3
+#6	ICD-O-3.1 T9	8000/6
+#7	ICD-O-3.1 T14	8000/6
+#8	ICD-O-3.1 T4	8000/3
+#9	ICD-O-3.1 T6	8000/6
+#10	ICD-O-3.1 T17	8000/6
+#11	ICD-O-3.1 T1	8000/1
+#12	ICD-O-3.1 T3	8000/1
+#13	ICD-O-3.1 T16	8000/1
+#14	ICD-O-3.1 T8	8140/6
+#15	ICD-O-3.1 T10	9370/6
+#16	ICD-O-3.1 T7	8000/6
+#17	ICD-O-3.1 T11	8000/6
+#18	ICD-O-3.1 T13	8000/6
+#19	ICD-O-3.1 T15	9370/6
+#20	SNOMED T5	1187332001
+#21	SNOMED T2	50007008
+#22	SNOMED T12	50007008
+#23	SNOMED T19	50007008
+#24	SNOMED T18	1240414004
+#25	SNOMED T9	14799000
+#26	SNOMED T14	14799000
+#27	SNOMED T4	1240414004
+#28	SNOMED T6	14799000
+#29	SNOMED T17	14799000
+#30	SNOMED T1	86251006
+#31	SNOMED T3	86251006
+#32	SNOMED T16	86251006
+#33	SNOMED T8	4590003
+#34	SNOMED T7	14799000
+#35	SNOMED T11	14799000
+#36	SNOMED T13	14799000

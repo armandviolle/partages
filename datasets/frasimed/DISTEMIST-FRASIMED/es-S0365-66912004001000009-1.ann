@@ -1,0 +1,22 @@
+T1	disease 169 284	lésions de limites imprécises (aspect infiltrant de l'épiderme) sur la partie nasale des deux paupières supérieures
+T2	disease 628 651	pseudo-tumeur orbitaire
+T3	disease 657 677	maladie du collagène
+T4	disease 683 693	sarcoïdose
+T5	disease 891 953	infiltraient même le muscle releveur de la paupière supérieure
+T6	disease 960 986	affecter le globe oculaire
+T7	disease 1056 1109	processus inflammatoire situé au niveau des paupières
+T8	disease 1609 1628	xanthogranulomatose
+T9	disease 1797 1827	xanthogranulomatose palpébrale
+T10	disease 2144 2163	xanthogranulomatose
+T11	disease 2183 2208	maladie d'Erdheim-Chester
+#1	SNOMED T2	72789009
+#2	SNOMED T3	81573002
+#3	SNOMED T4	31541009
+#4	SNOMED T7	41446000
+#5	SNOMED T8	448285003
+#6	SNOMED T9	447032001+60113004
+#7	SNOMED T10	448285003
+#8	SNOMED T11	699537002
+#9	SNOMED T1	301913002
+#10	SNOMED T5	278697001
+#11	SNOMED T6	371405004

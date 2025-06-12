@@ -1,0 +1,14 @@
+T1	disease 43 46	LES
+T2	disease 53 84	syndrome des antiphospholipides
+T3	disease 456 475	hépatosplénomégalie
+T4	disease 482 498	lymphadénopathie
+T5	disease 706 725	hépatosplénomégalie
+T6	disease 731 738	lésions
+T7	disease 1071 1074	LED
+#1	SNOMED T1	55464009
+#2	SNOMED T2	26843008
+#3	SNOMED T4	30746006
+#4	SNOMED T7	55464009
+#5	SNOMED T3	36760000
+#6	SNOMED T5	36760000
+#7	SNOMED T6	157670007

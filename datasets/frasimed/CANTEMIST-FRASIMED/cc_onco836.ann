@@ -1,0 +1,15 @@
+T1	morphology-onco 1275 1313	carcinome épidermoïde non kératinisant
+T2	morphology-onco 1709 1730	carcinome épidermoïde
+T3	morphology-onco 1709 1740	carcinome épidermoïde du thymus
+T4	morphology-onco 1801 1803	M0
+T5	morphology-onco 2406 2413	tumoral
+#1	ICD-O-3.1 T4	8000/6
+#2	ICD-O-3.1 T2	8070/3
+#3	ICD-O-3.1 T5	8000/1
+#4	ICD-O-3.1 T1	8072/3
+#5	ICD-O-3.1 T3	8585/3
+#6	SNOMED T4	14799000
+#7	SNOMED T2	1162767002
+#8	SNOMED T5	86251006
+#9	SNOMED T1	45490001
+#10	SNOMED T3	128716004

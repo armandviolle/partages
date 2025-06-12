@@ -1,0 +1,8 @@
+T1	disease 26 39	obèse morbide
+T2	disease 328 349	lymphoedème chronique
+T3	disease 402 411	filariose
+T4	disease 1085 1106	brides cicatricielles
+#1	SNOMED T2	28590005
+#2	SNOMED T1	238136002
+#3	SNOMED T3	105706003
+#4	SNOMED T4	720349002

@@ -1,0 +1,15 @@
+T1	disease 49 148	lésions neurologiques secondaires à un accident vasculaire cérébral (AVC) ischémique aigu périnatal
+T2	disease 118 121	AVC
+T3	disease 457 478	atteinte neurologique
+T4	disease 543 574	arthrite idiopathique chronique
+T5	disease 713 741	problème osseux aux poignets
+T6	disease 851 876	n'a pas d'os aux poignets
+T7	disease 1052 1073	atteinte neurologique
+T8	disease 1234 1305	hémiplégie gauche dérivée de son accident vasculaire cérébral périnatal
+T9	disease 1267 1305	accident vasculaire cérébral périnatal
+T10	disease 1545 1575	caractéristiques dysmorphiques
+T11	disease 2048 2075	absence bilatérale du carpe
+T12	disease 2155 2173	ostéolyse du carpe
+T13	disease 2181 2222	lésions unilatérales du scaphoïde tarsien
+T14	disease 2283 2360	ostéolyse carpotarsienne multicentrique de transmission autosomique dominante
+T15	disease 2283 2378	ostéolyse carpotarsienne multicentrique de transmission autosomique dominante sans néphropathie

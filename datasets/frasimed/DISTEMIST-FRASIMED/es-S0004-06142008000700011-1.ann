@@ -1,0 +1,4 @@
+T1	disease 645 674	tumeur fusiforme de bas grade
+T2	disease 941 989	tumeur fusiforme non spécifique du stroma sexuel
+#1	SNOMED T1	88897007
+#2	SNOMED T2	55342001

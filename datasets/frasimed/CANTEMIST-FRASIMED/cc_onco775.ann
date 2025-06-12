@@ -1,0 +1,48 @@
+T1	morphology-onco 173 221	adénocarcinome endométrial de type endométrioïde
+T2	morphology-onco 241 248	T3aN0M0
+T3	morphology-onco 640 665	tumeur fibreuse solitaire
+T4	morphology-onco 1872 1897	tumeur fibreuse solitaire
+T5	morphology-onco 2595 2620	tumeur fibreuse solitaire
+T6	morphology-onco 2652 2662	néoplasmes
+T7	morphology-onco 2724 2734	léiomyomes
+T8	morphology-onco 2736 2751	tumeur desmoïde
+T9	morphology-onco 3048 3062	tumeur bénigne
+T10	morphology-onco 3302 3332	infiltration du lobe hépatique
+T11	morphology-onco 3412 3440	adénocarcinome de haut grade
+T12	morphology-onco 3792 3810	cellules tumorales
+T13	morphology-onco 3923 3937	adénocarcinome
+T14	morphology-onco 5040 5049	métastase
+T15	morphology-onco 5167 5211	atteinte tumorale douteuse du dôme hépatique
+T16	morphology-onco 5283 5327	maladie au niveau ganglionnaire et hépatique
+#1	ICD-O-3.1 T13	8140/3
+#2	ICD-O-3.1 T1	8380/3
+#3	ICD-O-3.1 T12	8001/1
+#4	ICD-O-3.1 T7	8890/0
+#5	ICD-O-3.1 T14	8000/6
+#6	ICD-O-3.1 T6	8000/1
+#7	ICD-O-3.1 T9	8000/0
+#8	ICD-O-3.1 T8	8821/1
+#9	ICD-O-3.1 T3	8815/0
+#10	ICD-O-3.1 T4	8815/0
+#11	ICD-O-3.1 T5	8815/0
+#12	ICD-O-3.1 T2	8000/6
+#13	ICD-O-3.1 T10	8000/6
+#14	ICD-O-3.1 T11	8140/34
+#15	ICD-O-3.1 T15	8000/6
+#16	ICD-O-3.1 T16	8000/6
+#17	SNOMED T13	1187332001
+#18	SNOMED T1	30289006
+#19	SNOMED T12	39577004
+#20	SNOMED T7	1187125003
+#21	SNOMED T14	14799000
+#22	SNOMED T6	86251006
+#23	SNOMED T9	3898006
+#24	SNOMED T8	47284001
+#25	SNOMED T3	128736003
+#26	SNOMED T4	128736003
+#27	SNOMED T5	128736003
+#28	SNOMED T2	14799000
+#29	SNOMED T10	14799000
+#30	SNOMED T11	1187332001
+#31	SNOMED T15	14799000
+#32	SNOMED T16	14799000

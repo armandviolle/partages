@@ -1,0 +1,24 @@
+T1	disease 142 150	migraine
+T2	disease 152 194	paralysie faciale périphérique "a frigore"
+T3	disease 224 234	dépression
+T4	disease 331 364	séquelles de sa paralysie faciale
+T5	disease 347 364	paralysie faciale
+T6	disease 397 454	processus expansif occupant l'hémifosa postérieure droite
+T7	disease 459 465	lésion
+T8	disease 648 654	lésion
+T9	disease 989 1002	hydrocéphalie
+T10	disease 1444 1467	Glioblastome multiforme
+T11	disease 1906 1912	Cancer
+T12	disease 2044 2061	récidive tumorale
+#1	SNOMED T1	37796009
+#2	SNOMED T2	449916008
+#3	SNOMED T10	393563007
+#4	SNOMED T6	254935002
+#5	SNOMED T3	394924000
+#6	SNOMED T4	95666008
+#7	SNOMED T8	417163006
+#8	SNOMED T5	280816001
+#9	SNOMED T12	25173007
+#10	SNOMED T9	230745008
+#11	SNOMED T11	363346000
+#12	SNOMED T7	417163006

@@ -1,0 +1,51 @@
+T1	morphology-onco 165 171	cancer
+T2	morphology-onco 222 228	cancer
+T3	morphology-onco 1464 1482	lésions hépatiques
+T4	morphology-onco 1542 1560	lésions hépatiques
+T5	morphology-onco 1569 1582	métastatiques
+T6	morphology-onco 1795 1804	malignité
+T7	morphology-onco 1823 1837	adénocarcinome
+T8	morphology-onco 1996 2010	adénocarcinome
+T9	morphology-onco 2110 2116	tumeur
+T10	morphology-onco 2141 2162	tumeur neuroendocrine
+T11	morphology-onco 2176 2180	PNET
+T12	morphology-onco 2232 2238	cancer
+T13	morphology-onco 2528 2534	cancer
+T14	morphology-onco 2782 2788	tumeur
+T15	morphology-onco 3411 3417	cancer
+T16	morphology-onco 3830 3851	PNET bien différencié
+T17	morphology-onco 5431 5439	tumorale
+#1	ICD-O-3.1 T7	8140/3
+#2	ICD-O-3.1 T8	8140/3
+#3	ICD-O-3.1 T2	8000/3
+#4	ICD-O-3.1 T1	8000/3
+#5	ICD-O-3.1 T12	8000/3
+#6	ICD-O-3.1 T13	8000/3
+#7	ICD-O-3.1 T15	8000/3
+#8	ICD-O-3.1 T6	8000/3
+#9	ICD-O-3.1 T5	8000/6
+#10	ICD-O-3.1 T9	8000/1
+#11	ICD-O-3.1 T14	8000/1
+#12	ICD-O-3.1 T10	8240/3
+#13	ICD-O-3.1 T17	8000/1
+#14	ICD-O-3.1 T11	8240/3
+#15	ICD-O-3.1 T16	8240/3
+#16	ICD-O-3.1 T3	8000/6
+#17	ICD-O-3.1 T4	8000/6
+#18	SNOMED T7	1187332001
+#19	SNOMED T8	1187332001
+#20	SNOMED T2	1240414004
+#21	SNOMED T1	1240414004
+#22	SNOMED T12	1240414004
+#23	SNOMED T13	1240414004
+#24	SNOMED T15	1240414004
+#25	SNOMED T6	1240414004
+#26	SNOMED T5	14799000
+#27	SNOMED T9	86251006
+#28	SNOMED T14	86251006
+#29	SNOMED T10	189607006
+#30	SNOMED T17	86251006
+#31	SNOMED T11	189607006
+#32	SNOMED T16	189607006
+#33	SNOMED T3	14799000
+#34	SNOMED T4	14799000

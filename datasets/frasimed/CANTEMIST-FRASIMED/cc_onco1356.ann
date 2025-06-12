@@ -1,0 +1,27 @@
+T1	morphology-onco 1146 1156	métastases
+T2	morphology-onco 1657 1663	tumeur
+T3	morphology-onco 1765 1775	métastases
+T4	morphology-onco 1918 1924	tumeur
+T5	morphology-onco 2177 2187	métastases
+T6	morphology-onco 2320 2340	carcinome urothélial
+T7	morphology-onco 2382 2402	Carcinome urothélial
+T8	morphology-onco 2438 2448	Métastases
+T9	morphology-onco 2547 2586	tumeur métastatique du bassinet du rein
+#1	ICD-O-3.1 T7	8120/3
+#2	ICD-O-3.1 T8	8000/6
+#3	ICD-O-3.1 T6	8120/3
+#4	ICD-O-3.1 T1	8000/6
+#5	ICD-O-3.1 T3	8000/6
+#6	ICD-O-3.1 T5	8000/6
+#7	ICD-O-3.1 T2	8000/1
+#8	ICD-O-3.1 T4	8000/1
+#9	ICD-O-3.1 T9	8000/6
+#10	SNOMED T7	27090000
+#11	SNOMED T8	14799000
+#12	SNOMED T6	27090000
+#13	SNOMED T1	14799000
+#14	SNOMED T3	14799000
+#15	SNOMED T5	14799000
+#16	SNOMED T2	86251006
+#17	SNOMED T4	86251006
+#18	SNOMED T9	14799000

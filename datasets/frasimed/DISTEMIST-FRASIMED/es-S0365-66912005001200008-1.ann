@@ -1,0 +1,16 @@
+T1	disease 90 143	MM Ig G Kappa stade III-A avec infiltration hépatique
+T2	disease 603 609	lésion
+T3	disease 688 702	ophtalmoplégie
+T4	disease 807 823	lésions osseuses
+T5	disease 842 848	lésion
+T6	disease 1165 1243	infiltration a continué à progresser à travers les paupières et la conjonctive
+T7	disease 1260 1285	glaucome post-rabeculaire
+T8	disease 1818 1824	ptosis
+#1	SNOMED T1	285421005
+#2	SNOMED T6	231829006+363463000
+#3	SNOMED T7	392288006
+#4	SNOMED T4	76069003
+#5	SNOMED T3	16110005
+#6	SNOMED T8	11934000
+#7	SNOMED T2	417163006
+#8	SNOMED T5	417163006

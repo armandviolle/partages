@@ -1,0 +1,6 @@
+T1	disease 67 73	fumeur
+T2	disease 405 427	poche péri-implantaire
+T3	disease 842 872	défaut osseux péri-implantaire
+#1	SNOMED T1	77176002
+#2	SNOMED T2	442437005
+#3	SNOMED T3	442437005

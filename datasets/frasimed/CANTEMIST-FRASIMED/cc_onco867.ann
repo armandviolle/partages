@@ -1,0 +1,36 @@
+T1	morphology-onco 74 91	papillome inversé
+T2	morphology-onco 605 612	maligne
+T3	morphology-onco 749 770	carcinome épidermoïde
+T4	morphology-onco 786 803	papillome inversé
+T5	morphology-onco 805 828	papillome inversé malin
+T6	morphology-onco 1505 1520	cellule maligne
+T7	morphology-onco 1631 1639	tumorale
+T8	morphology-onco 2950 2960	métastases
+T9	morphology-onco 3138 3144	tumeur
+T10	morphology-onco 3432 3451	nodules pulmonaires
+T11	morphology-onco 3796 3802	tumeur
+T12	morphology-onco 4183 4205	progression pulmonaire
+#1	ICD-O-3.1 T3	8070/3
+#2	ICD-O-3.1 T6	8001/3
+#3	ICD-O-3.1 T2	8000/3
+#4	ICD-O-3.1 T8	8000/6
+#5	ICD-O-3.1 T10	8000/6
+#6	ICD-O-3.1 T1	8050/0
+#7	ICD-O-3.1 T4	8050/0
+#8	ICD-O-3.1 T9	8000/1
+#9	ICD-O-3.1 T11	8000/1
+#10	ICD-O-3.1 T7	8000/1
+#11	ICD-O-3.1 T5	8050/3
+#12	ICD-O-3.1 T12	8000/6
+#13	SNOMED T3	1162767002
+#14	SNOMED T6	88400008
+#15	SNOMED T2	1240414004
+#16	SNOMED T8	14799000
+#17	SNOMED T10	14799000
+#18	SNOMED T1	711329002
+#19	SNOMED T4	711329002
+#20	SNOMED T9	86251006
+#21	SNOMED T11	86251006
+#22	SNOMED T7	86251006
+#23	SNOMED T5	25910003
+#24	SNOMED T12	14799000

@@ -1,0 +1,19 @@
+T1	disease 40 63	hypertension artérielle
+T2	disease 68 91	diabète sucré de type 2
+T3	disease 95 126	accident ischémique transitoire
+T4	disease 130 155	hypothyroïdie auto-immune
+T5	disease 162 187	troubles cognitifs légers
+T6	disease 209 238	brûlure de contact par flamme
+T7	disease 363 444	lésions dermiques et sous-dermiques profondes sur les deux extrémités inférieures
+T8	disease 501 620	brûlures étaient dermiques profondes sur la face postérieure des deux cuisses et circonférentielles sur les deux jambes
+T9	disease 501 578	brûlures étaient dermiques profondes sur la face postérieure des deux cuisses
+T10	disease 720 779	brûlures dermiques superficielles sur les cuisses latérales
+T11	disease 720 792	brûlures dermiques superficielles sur les cuisses latérales et le visage
+T12	disease 1012 1021	blessures
+T13	disease 1408 1416	brûlures
+T14	disease 1511 1534	brûlures superficielles
+T15	disease 1862 1869	brûlure
+T16	disease 1973 1980	escarre
+T17	disease 2004 2063	défaut prétibial de 20 cm de long, avec exposition du tibia
+T18	disease 2754 2760	plaies
+T19	disease 3332 3354	infection de la greffe

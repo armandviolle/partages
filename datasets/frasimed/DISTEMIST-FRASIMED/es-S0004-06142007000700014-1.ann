@@ -1,0 +1,16 @@
+T1	disease 22 49	allergique à la pénicilline
+T2	disease 117 128	endocardite
+T3	disease 312 372	gland du pénis, qui déforme le méat, avec des zones ulcérées
+T4	disease 401 488	ganglions lymphatiques durs et fixes étaient palpables dans les deux régions inguinales
+T5	disease 584 622	adénopathies pulmonaires et inguinales
+T6	disease 646 664	néoplasie du pénis
+T7	disease 785 855	sarcome pléomorphe du pénis avec une différenciation ostéosarcomateuse
+T8	disease 1177 1202	insuffisance rénale aiguë
+#1	SNOMED T1	91936005
+#2	SNOMED T2	56819008
+#3	SNOMED T3	33495006
+#4	SNOMED T4	127199000
+#5	SNOMED T5	127101005+127199000
+#6	SNOMED T6	126896003
+#7	SNOMED T7	424413001
+#8	SNOMED T8	723189000

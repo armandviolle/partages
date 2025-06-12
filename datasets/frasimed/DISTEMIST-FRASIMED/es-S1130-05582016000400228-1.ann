@@ -1,0 +1,18 @@
+T1	disease 183 194	déformation
+T2	disease 264 271	anxiété
+T3	disease 558 586	déformation du sinus frontal
+T4	disease 668 689	lésion intracrânienne
+T5	disease 732 748	lésion pariétale
+T6	disease 789 807	dysplasie fibreuse
+T7	disease 1196 1209	défaut osseux
+T8	disease 1307 1323	lésion pariétale
+T9	disease 1545 1561	lésion pariétale
+#1	SNOMED T9	210038008
+#2	SNOMED T4	254935002
+#3	SNOMED T2	197480006
+#4	SNOMED T6	254145001
+#5	SNOMED T8	210038008
+#6	SNOMED T7	76069003
+#7	SNOMED T5	210038008
+#8	SNOMED T1	417893002
+#9	SNOMED T3	298356007

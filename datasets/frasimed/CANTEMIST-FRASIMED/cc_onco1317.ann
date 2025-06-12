@@ -1,0 +1,12 @@
+T1	morphology-onco 55 76	thymome lymphocytaire
+T2	morphology-onco 744 801	thymome à prédominance lymphocytaire (compatible avec B1)
+T3	morphology-onco 853 860	maligne
+T4	morphology-onco 1000 1026	thymome lymphocytaire (B1)
+#1	ICD-O-3.1 T3	8000/3
+#2	ICD-O-3.1 T1	8583/1
+#3	ICD-O-3.1 T2	8583/3
+#4	ICD-O-3.1 T4	8583/3
+#5	SNOMED T3	1240414004
+#6	SNOMED T1	128711009
+#7	SNOMED T2	128712002
+#8	SNOMED T4	128712002

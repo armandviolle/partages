@@ -1,0 +1,27 @@
+T1	morphology-onco 51 57	cancer
+T2	morphology-onco 644 650	tumeur
+T3	morphology-onco 747 788	adénocarcinome entéroïde bien différencié
+T4	morphology-onco 747 826	adénocarcinome entéroïde bien différencié avec 10% de composante mucosécrétoire
+T5	morphology-onco 864 905	adénocarcinome entéroïde bien différencié
+T6	morphology-onco 1002 1012	Métastases
+T7	morphology-onco 1092 1104	métastatique
+T8	morphology-onco 3154 3180	dissémination de la tumeur
+T9	morphology-onco 3778 3786	tumorale
+#1	ICD-O-3.1 T6	8000/6
+#2	ICD-O-3.1 T1	8000/3
+#3	ICD-O-3.1 T2	8000/1
+#4	ICD-O-3.1 T9	8000/1
+#5	ICD-O-3.1 T3	8140/31
+#6	ICD-O-3.1 T4	8481/3
+#7	ICD-O-3.1 T5	8140/31
+#8	ICD-O-3.1 T7	8000/6
+#9	ICD-O-3.1 T8	8000/6
+#10	SNOMED T6	14799000
+#11	SNOMED T1	1240414004
+#12	SNOMED T2	86251006
+#13	SNOMED T9	86251006
+#14	SNOMED T3	1187332001
+#15	SNOMED T4	900006
+#16	SNOMED T5	1187332001
+#17	SNOMED T7	14799000
+#18	SNOMED T8	14799000

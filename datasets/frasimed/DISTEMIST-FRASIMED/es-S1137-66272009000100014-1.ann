@@ -1,0 +1,22 @@
+T1	disease 121 131	hématémèse
+T2	disease 188 224	hémorragie gastro-intestinale élevée
+T3	disease 301 320	processus catarrhal
+T4	disease 336 355	crises rénorétiques
+T5	disease 366 369	CRU
+T6	disease 379 385	asthme
+T7	disease 701 704	CRU
+T8	disease 930 940	hématémèse
+T9	disease 1134 1137	URC
+T10	disease 1306 1323	traumatisme nasal
+T11	disease 1698 1721	plaie de l'arête nasale
+T12	disease 1737 1764	saignement dans les narines
+T13	disease 1769 1781	marc de café
+T14	disease 1970 1976	méléna
+T15	disease 2486 2496	hématémèse
+T16	disease 2537 2572	hémorragie gastro-intestinale haute
+T17	disease 2728 2776	œsophage avec une muqueuse clairement ischémique
+T18	disease 2978 3002	arrêt cardiorespiratoire
+T19	disease 3134 3169	œsophagite érosive nécrosante aiguë
+T20	disease 3200 3279	artériosclérose aortique, principalement abdominale et à la bifurcation iliaque
+T21	disease 3289 3333	anévrisme sacculaire dans l'aorte abdominale
+T22	disease 3385 3412	hémorragie rétropéritonéale

@@ -1,0 +1,63 @@
+T1	morphology-onco 202 233	adénocarcinome bien différencié
+T2	morphology-onco 244 251	pT1N0M0
+T3	morphology-onco 562 580	rechute pulmonaire
+T4	morphology-onco 1000 1011	néoformatif
+T5	morphology-onco 1183 1189	tumeur
+T6	morphology-onco 1242 1251	néoformée
+T7	morphology-onco 1273 1278	malin
+T8	morphology-onco 1384 1398	adénocarcinome
+T9	morphology-onco 1482 1570	Adénocarcinome du sigma, stade IV, en raison d'une atteinte pulmonaire oligométastatique
+T10	morphology-onco 1733 1752	nodules pulmonaires
+T11	morphology-onco 1916 1928	métastatique
+T12	morphology-onco 2418 2436	rechute pulmonaire
+T13	morphology-onco 3004 3021	nodule pulmonaire
+T14	morphology-onco 3211 3220	malignité
+T15	morphology-onco 3235 3252	nodule thyroïdien
+T16	morphology-onco 3739 3751	métastatique
+T17	morphology-onco 3841 3870	métastase d'un adénocarcinome
+T18	morphology-onco 4093 4125	rechute précoce dans les poumons
+T19	morphology-onco 4365 4378	RP pulmonaire
+T20	morphology-onco 4396 4416	maladie thyroïdienne
+T21	morphology-onco 4579 4591	métastatique
+#1	ICD-O-3.1 T8	8140/3
+#2	ICD-O-3.1 T14	8000/3
+#3	ICD-O-3.1 T7	8000/3
+#4	ICD-O-3.1 T11	8000/6
+#5	ICD-O-3.1 T16	8000/6
+#6	ICD-O-3.1 T17	8140/6
+#7	ICD-O-3.1 T4	8000/1
+#8	ICD-O-3.1 T2	8000/6
+#9	ICD-O-3.1 T5	8000/1
+#10	ICD-O-3.1 T1	8140/31
+#11	ICD-O-3.1 T3	8000/6
+#12	ICD-O-3.1 T6	8000/6
+#13	ICD-O-3.1 T9	8140/6
+#14	ICD-O-3.1 T12	8000/6
+#15	ICD-O-3.1 T18	8000/6
+#16	ICD-O-3.1 T21	8000/6
+#17	ICD-O-3.1 T13	8000/6
+#18	ICD-O-3.1 T15	8000/6
+#19	ICD-O-3.1 T19	8000/6
+#20	ICD-O-3.1 T20	8000/6
+#21	ICD-O-3.1 T10	8000/6
+#22	SNOMED T8	1187332001
+#23	SNOMED T14	1240414004
+#24	SNOMED T7	1240414004
+#25	SNOMED T11	14799000
+#26	SNOMED T16	14799000
+#27	SNOMED T17	4590003
+#28	SNOMED T4	86251006
+#29	SNOMED T2	14799000
+#30	SNOMED T5	86251006
+#31	SNOMED T1	1187332001
+#32	SNOMED T3	14799000
+#33	SNOMED T6	14799000
+#34	SNOMED T9	4590003
+#35	SNOMED T12	14799000
+#36	SNOMED T18	14799000
+#37	SNOMED T21	14799000
+#38	SNOMED T13	14799000
+#39	SNOMED T15	14799000
+#40	SNOMED T19	14799000
+#41	SNOMED T20	14799000
+#42	SNOMED T10	14799000

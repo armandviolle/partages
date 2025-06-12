@@ -1,0 +1,38 @@
+T1	disease 48 77	adénocarcinome de la prostate
+T2	disease 305 331	adénocarcinome prostatique
+T3	disease 367 373	tumeur
+T4	disease 710 726	fistule urinaire
+T5	disease 759 769	péritonite
+T6	disease 925 986	péritonite fécaloïde secondaire à une perforation du sigmoïde
+T7	disease 963 986	perforation du sigmoïde
+T8	disease 1240 1259	symptômes septiques
+T9	disease 1338 1351	état septique
+T10	disease 1379 1395	fistule urinaire
+T11	disease 1452 1486	infection de la plaie chirurgicale
+T12	disease 1657 1673	fistule urinaire
+T13	disease 1677 1741	nécrose graisseuse dans le tiers distal de la plaie chirurgicale
+T14	disease 1759 1804	musculature abdominale comme fond de l'ulcère
+T15	disease 1960 1982	fistule vésico-rectale
+T16	disease 2081 2115	infection de la plaie chirurgicale
+T17	disease 2190 2224	persistance de l'orifice fistuleux
+T18	disease 2246 2268	fistule urétro-rectale
+T19	disease 2758 2784	Dysfonctionnement érectile
+#1	SNOMED T1	399490008
+#2	SNOMED T8	238150007
+#3	SNOMED T18	15165002
+#4	SNOMED T19	397803000
+#5	SNOMED T9	238150007
+#6	SNOMED T15	68301001
+#7	SNOMED T12	57243009
+#8	SNOMED T10	57243009
+#9	SNOMED T13	781193006
+#10	SNOMED T11	433202001
+#11	SNOMED T16	433202001
+#12	SNOMED T2	399490008
+#13	SNOMED T4	57243009
+#14	SNOMED T5	48661000
+#15	SNOMED T6	235985005+712512004
+#16	SNOMED T7	712512004
+#17	SNOMED T14	429040005
+#18	SNOMED T3	55342001
+#19	SNOMED T17	428794004

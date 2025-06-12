@@ -1,0 +1,16 @@
+T1	disease 593 634	grande lésion nodulaire dans le testicule
+T2	disease 725 769	lésions nodulaires solides dans le testicule
+T3	disease 798 831	néoplasie testiculaire bilatérale
+T4	disease 1643 1665	tumeur germinale mixte
+T5	disease 1706 1735	carcinome embryonnaire adulte
+T6	disease 1742 1750	tératome
+T7	disease 1900 1932	séminome de la variété classique
+T8	disease 1953 1977	néoplasie intratubulaire
+#1	SNOMED T7	36741007
+#2	SNOMED T4	1156452003
+#3	SNOMED T1	126900000
+#4	SNOMED T8	108369006
+#5	SNOMED T2	126900000
+#6	SNOMED T5	1156454002
+#7	SNOMED T6	36591000119102
+#8	SNOMED T3	126900000

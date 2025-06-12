@@ -1,0 +1,18 @@
+T1	disease 158 177	traumatisme crânien
+T2	disease 158 228	traumatisme crânien causant un accident vasculaire cérébral ischémique
+T3	disease 189 228	accident vasculaire cérébral ischémique
+T4	disease 255 282	touché au cou par un ballon
+T5	disease 424 500	infarctus ischémique dans le territoire de l'artère cérébrale moyenne droite
+T6	disease 520 578	dissection traumatique de l'artère carotide interne droite
+T7	disease 598 624	hypertension endocrânienne
+T8	disease 632 648	hernie cérébrale
+T9	disease 672 689	mort encéphalique
+#1	SNOMED T7	271719001
+#2	SNOMED T8	49453006
+#3	SNOMED T5	432504007
+#4	SNOMED T9	230802007
+#5	SNOMED T6	705066004
+#6	SNOMED T1	82271004
+#7	SNOMED T3	422504002
+#8	SNOMED T4	90460009
+#9	SNOMED T2	82271004+16218291000119100

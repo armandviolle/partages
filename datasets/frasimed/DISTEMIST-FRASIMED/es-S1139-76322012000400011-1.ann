@@ -1,0 +1,6 @@
+T1	disease 90 113	hématurie macroscopique
+T2	disease 457 468	bilharziose
+T3	disease 961 975	schistosomiase
+#1	SNOMED T2	10087007
+#2	SNOMED T3	10087007
+#3	SNOMED T1	197941005

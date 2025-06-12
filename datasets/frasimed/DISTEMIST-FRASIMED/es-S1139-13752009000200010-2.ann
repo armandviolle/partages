@@ -1,0 +1,14 @@
+T1	disease 52 71	pancolite ulcéreuse
+T2	disease 81 98	corticodépendante
+T3	disease 164 194	surinfection à cytomégalovirus
+T4	disease 284 311	diarrhée avec du sang rouge
+T5	disease 348 375	anémie ferriprive chronique
+T6	disease 447 467	pancolite ulcérative
+T7	disease 1109 1175	cathéter central a dû être changé en raison d'une infection (MARSA
+#1	SNOMED T1	444548001
+#2	SNOMED T2	95919007
+#3	SNOMED T3	28944009
+#4	SNOMED T7	473027008+282028001
+#5	SNOMED T4	95545007
+#6	SNOMED T5	87522002
+#7	SNOMED T6	444548001

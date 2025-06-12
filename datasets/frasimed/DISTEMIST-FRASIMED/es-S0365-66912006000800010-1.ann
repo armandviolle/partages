@@ -1,0 +1,8 @@
+T1	disease 73 79	lésion
+T2	disease 122 139	granulome pyogène
+T3	disease 544 550	lésion
+T4	disease 593 606	pilomatricome
+#1	SNOMED T4	274901004
+#2	SNOMED T2	200722003
+#3	SNOMED T1	417163006
+#4	SNOMED T3	417163006

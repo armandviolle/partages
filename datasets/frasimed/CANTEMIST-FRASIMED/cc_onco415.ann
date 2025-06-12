@@ -1,0 +1,69 @@
+T1	morphology-onco 659 668	malignité
+T2	morphology-onco 744 774	carcinome canalaire infiltrant
+T3	morphology-onco 901 909	pT4bN+Mx
+T4	morphology-onco 1800 1809	malignité
+T5	morphology-onco 1892 1903	néoplasique
+T6	morphology-onco 1962 2036	carcinome canalaire infiltrant, grade I de la classification de Nottingham
+T7	morphology-onco 2221 2240	lésion ostéolytique
+T8	morphology-onco 2389 2399	métastases
+T9	morphology-onco 2675 2693	lésions hépatiques
+T10	morphology-onco 2726 2736	métastases
+T11	morphology-onco 2929 2945	lésions osseuses
+T12	morphology-onco 2946 2959	métastatiques
+T13	morphology-onco 2973 3003	Carcinome canalaire infiltrant
+T14	morphology-onco 4035 4044	ypT1bN0M0
+T15	morphology-onco 4487 4506	lésion ostéolytique
+T16	morphology-onco 4572 4581	métastase
+T17	morphology-onco 4877 4883	cancer
+T18	morphology-onco 5129 5189	maladie a de nouveau progressé, cette fois au niveau du foie
+T19	morphology-onco 5215 5231	lésions osseuses
+T20	morphology-onco 6027 6049	maladie dans le sacrum
+T21	morphology-onco 6075 6093	lésions hépatiques
+T22	morphology-onco 6665 6686	progression hépatique
+T23	morphology-onco 8127 8145	lésions hépatiques
+#1	ICD-O-3.1 T13	8500/3
+#2	ICD-O-3.1 T2	8500/3
+#3	ICD-O-3.1 T17	8000/3
+#4	ICD-O-3.1 T9	8000/6
+#5	ICD-O-3.1 T21	8000/6
+#6	ICD-O-3.1 T23	8000/6
+#7	ICD-O-3.1 T11	8000/6
+#8	ICD-O-3.1 T19	8000/6
+#9	ICD-O-3.1 T1	8000/3
+#10	ICD-O-3.1 T4	8000/3
+#11	ICD-O-3.1 T12	8000/6
+#12	ICD-O-3.1 T8	8000/6
+#13	ICD-O-3.1 T10	8000/6
+#14	ICD-O-3.1 T16	8000/6
+#15	ICD-O-3.1 T5	8000/1
+#16	ICD-O-3.1 T22	8000/6
+#17	ICD-O-3.1 T3	8000/6
+#18	ICD-O-3.1 T6	8500/31
+#19	ICD-O-3.1 T7	8000/6
+#20	ICD-O-3.1 T14	8000/6
+#21	ICD-O-3.1 T15	8000/6
+#22	ICD-O-3.1 T18	8000/6
+#23	ICD-O-3.1 T20	8000/6
+#24	SNOMED T13	58477004
+#25	SNOMED T2	58477004
+#26	SNOMED T17	1240414004
+#27	SNOMED T9	14799000
+#28	SNOMED T21	14799000
+#29	SNOMED T23	14799000
+#30	SNOMED T11	14799000
+#31	SNOMED T19	14799000
+#32	SNOMED T1	1240414004
+#33	SNOMED T4	1240414004
+#34	SNOMED T12	14799000
+#35	SNOMED T8	14799000
+#36	SNOMED T10	14799000
+#37	SNOMED T16	14799000
+#38	SNOMED T5	86251006
+#39	SNOMED T22	14799000
+#40	SNOMED T3	14799000
+#41	SNOMED T6	58477004
+#42	SNOMED T7	14799000
+#43	SNOMED T14	14799000
+#44	SNOMED T15	14799000
+#45	SNOMED T18	14799000
+#46	SNOMED T20	14799000

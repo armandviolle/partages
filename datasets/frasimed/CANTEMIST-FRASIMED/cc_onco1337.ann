@@ -1,0 +1,21 @@
+T1	morphology-onco 359 369	métastases
+T2	morphology-onco 831 841	métastases
+T3	morphology-onco 1110 1197	carcinome acinaire pancréatique mixte, avec des zones de différenciation neuroendocrine
+T4	morphology-onco 1315 1338	métastases de carcinome
+T5	morphology-onco 1439 1449	métastases
+T6	morphology-onco 1634 1672	carcinome mixte acineux-neuroendocrine
+T7	morphology-onco 2387 2472	carcinome pancréatique acineux mixte avec des zones de différenciation neuroendocrine
+#1	ICD-O-3.1 T1	8000/6
+#2	ICD-O-3.1 T2	8000/6
+#3	ICD-O-3.1 T5	8000/6
+#4	ICD-O-3.1 T4	8010/6
+#5	ICD-O-3.1 T3	8154/3
+#6	ICD-O-3.1 T6	8154/3
+#7	ICD-O-3.1 T7	8154/3
+#8	SNOMED T1	14799000
+#9	SNOMED T2	14799000
+#10	SNOMED T5	14799000
+#11	SNOMED T4	79282002
+#12	SNOMED T3	999000
+#13	SNOMED T6	999000
+#14	SNOMED T7	999000

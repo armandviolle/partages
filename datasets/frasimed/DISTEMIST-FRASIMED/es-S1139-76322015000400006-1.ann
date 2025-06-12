@@ -1,0 +1,8 @@
+T1	disease 405 419	polyhydramnios
+T2	disease 1451 1470	acidose métabolique
+T3	disease 2018 2033	néphrocalcinose
+T4	disease 2588 2603	néphrocalcinose
+#1	SNOMED T3	48638002
+#2	SNOMED T4	48638002
+#3	SNOMED T2	59455009
+#4	SNOMED T1	86203003

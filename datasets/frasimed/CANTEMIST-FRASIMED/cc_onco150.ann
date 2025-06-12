@@ -1,0 +1,42 @@
+T1	morphology-onco 146 152	myomes
+T2	morphology-onco 395 464	carcinome canalaire infiltrant (CDI) à différenciation neuroendocrine
+T3	morphology-onco 427 430	CDI
+T4	morphology-onco 1187 1197	métastases
+T5	morphology-onco 1279 1316	processus infiltrant au niveau osseux
+T6	morphology-onco 1364 1409	carcinome canalaire infiltrant (CDI), grade 2
+T7	morphology-onco 1396 1399	CDI
+T8	morphology-onco 1766 1796	carcinome canalaire infiltrant
+T9	morphology-onco 1766 1855	carcinome canalaire infiltrant, pT2 (23 mm), avec différenciation neuroendocrine, grade 2
+T10	morphology-onco 1901 1911	métastases
+T11	morphology-onco 2200 2202	M0
+T12	morphology-onco 2274 2280	tumeur
+T13	morphology-onco 2467 2497	carcinome canalaire infiltrant
+T14	morphology-onco 2467 2530	carcinome canalaire infiltrant à différenciation neuroendocrine
+#1	ICD-O-3.1 T3	8500/3
+#2	ICD-O-3.1 T7	8500/3
+#3	ICD-O-3.1 T11	8000/6
+#4	ICD-O-3.1 T8	8500/3
+#5	ICD-O-3.1 T13	8500/3
+#6	ICD-O-3.1 T4	8000/6
+#7	ICD-O-3.1 T10	8000/6
+#8	ICD-O-3.1 T1	8895/0
+#9	ICD-O-3.1 T12	8000/1
+#10	ICD-O-3.1 T2	8574/3
+#11	ICD-O-3.1 T6	8500/32
+#12	ICD-O-3.1 T9	8574/32
+#13	ICD-O-3.1 T14	8574/3
+#14	ICD-O-3.1 T5	8000/6
+#15	SNOMED T3	58477004
+#16	SNOMED T7	58477004
+#17	SNOMED T11	14799000
+#18	SNOMED T8	58477004
+#19	SNOMED T13	58477004
+#20	SNOMED T4	14799000
+#21	SNOMED T10	14799000
+#22	SNOMED T1	1156875002
+#23	SNOMED T12	86251006
+#24	SNOMED T2	128704005
+#25	SNOMED T6	58477004
+#26	SNOMED T9	128704005
+#27	SNOMED T14	128704005
+#28	SNOMED T5	14799000

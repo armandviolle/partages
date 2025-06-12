@@ -1,0 +1,68 @@
+T1	morphology-onco 2431 2440	néoplasme
+T2	morphology-onco 2460 2481	infiltration pleurale
+T3	morphology-onco 2492 2522	lésion tumorale dans le muscle
+T4	morphology-onco 2715 2751	métastase d'un carcinome épidermoïde
+T5	morphology-onco 2765 2786	Carcinome épidermoïde
+T6	morphology-onco 2852 2862	métastases
+T7	morphology-onco 3332 3353	carcinome épidermoïde
+T8	morphology-onco 3430 3435	malin
+T9	morphology-onco 3735 3756	carcinome épidermoïde
+T10	morphology-onco 3840 3846	tumeur
+T11	morphology-onco 4034 4051	cellules malignes
+T12	morphology-onco 4301 4318	cellules malignes
+T13	morphology-onco 4462 4474	métastatique
+T14	morphology-onco 4587 4596	carcinome
+T15	morphology-onco 4685 4694	carcinome
+T16	morphology-onco 4718 4752	infiltration tumorale de la plèvre
+T17	morphology-onco 4767 4776	métastase
+T18	morphology-onco 4934 4968	métastase de carcinome épidermoïde
+T19	morphology-onco 6921 6956	maladie dans les poumons et le foie
+T20	morphology-onco 7011 7020	métastase
+T21	morphology-onco 7532 7571	cancer du poumon non à petites cellules
+T22	morphology-onco 7950 8031	cancer du poumon non à petites cellules (CPNPC) localement avancé ou métastatique
+T23	morphology-onco 7991 7996	CPNPC
+#1	ICD-O-3.1 T23	8046/3
+#2	ICD-O-3.1 T5	8070/3
+#3	ICD-O-3.1 T14	8010/3
+#4	ICD-O-3.1 T15	8010/3
+#5	ICD-O-3.1 T9	8070/3
+#6	ICD-O-3.1 T7	8070/3
+#7	ICD-O-3.1 T11	8001/3
+#8	ICD-O-3.1 T12	8001/3
+#9	ICD-O-3.1 T8	8000/3
+#10	ICD-O-3.1 T13	8000/6
+#11	ICD-O-3.1 T6	8000/6
+#12	ICD-O-3.1 T17	8000/6
+#13	ICD-O-3.1 T20	8000/6
+#14	ICD-O-3.1 T18	8070/6
+#15	ICD-O-3.1 T1	8000/1
+#16	ICD-O-3.1 T10	8000/1
+#17	ICD-O-3.1 T4	8070/6
+#18	ICD-O-3.1 T2	8000/6
+#19	ICD-O-3.1 T3	8000/6
+#20	ICD-O-3.1 T16	8000/6
+#21	ICD-O-3.1 T19	8000/6
+#22	ICD-O-3.1 T21	8046/3
+#23	ICD-O-3.1 T22	8046/6
+#24	SNOMED T23	128632008
+#25	SNOMED T5	1162767002
+#26	SNOMED T14	1187425009
+#27	SNOMED T15	1187425009
+#28	SNOMED T9	1162767002
+#29	SNOMED T7	1162767002
+#30	SNOMED T11	88400008
+#31	SNOMED T12	88400008
+#32	SNOMED T8	1240414004
+#33	SNOMED T13	14799000
+#34	SNOMED T6	14799000
+#35	SNOMED T17	14799000
+#36	SNOMED T20	14799000
+#37	SNOMED T18	403906006
+#38	SNOMED T1	86251006
+#39	SNOMED T10	86251006
+#40	SNOMED T4	403906006
+#41	SNOMED T2	14799000
+#42	SNOMED T3	14799000
+#43	SNOMED T16	14799000
+#44	SNOMED T19	14799000
+#45	SNOMED T21	128632008

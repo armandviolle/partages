@@ -1,0 +1,28 @@
+T1	disease 113 134	masse kystique rénale
+T2	disease 160 183	polyarthrite rhumatoïde
+T3	disease 185 197	hypertension
+T4	disease 209 221	dyslipidémie
+T5	disease 223 245	tuberculose pulmonaire
+T6	disease 322 326	fumé
+T7	disease 470 485	lithiase rénale
+T8	disease 752 775	hématurie macroscopique
+T9	disease 1146 1159	hépatomégalie
+T10	disease 1168 1202	circulation collatérale abdominale
+T11	disease 1235 1245	varicocèle
+T12	disease 1293 1319	adénopathies périphériques
+T13	disease 1420 1426	anémie
+T14	disease 1673 1703	kyste simple au pôle supérieur
+T15	disease 1708 1772	rein gauche présentait un grand kyste complexe du pôle supérieur
+T16	disease 1937 2079	formation kystique complexe contenant des calcifications pariétales et centrales grossières, occupant les deux tiers supérieurs du rein gauche
+T17	disease 2368 2398	adénopathies rétropéritonéales
+T18	disease 2406 2453	altération morphologique des glandes surrénales
+T19	disease 2546 2563	lésions kystiques
+T20	disease 2604 2634	lésions de nature métastatique
+T21	disease 2642 2660	tuberculose active
+T22	disease 2908 2931	masse kystique complexe
+T23	disease 2992 3044	lésions de nature infectieuse spécifique/parasitaire
+T24	disease 3179 3188	néoplasme
+T25	disease 3433 3468	lésion a envahi le parenchyme rénal
+T26	disease 3543 3581	pyélonéphrite avec une légère atrophie
+T27	disease 3628 3634	tumeur
+T28	disease 3649 3688	adénocarcinome mucineux du bassin rénal

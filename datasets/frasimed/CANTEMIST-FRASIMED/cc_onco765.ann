@@ -1,0 +1,39 @@
+T1	morphology-onco 701 715	adénocarcinome
+T2	morphology-onco 776 785	néoplasie
+T3	morphology-onco 853 908	Lésion occupant l'espace dans le segment VIII hépatique
+T4	morphology-onco 962 974	métastatique
+T5	morphology-onco 1036 1069	Adénocarcinome du côlon pT3pN1aM1
+T6	morphology-onco 1132 1138	tumeur
+T7	morphology-onco 1362 1372	métastases
+T8	morphology-onco 1509 1568	adénocarcinome du côlon synchrone G2 et de zones focales G3
+T9	morphology-onco 1756 1764	tumorale
+T10	morphology-onco 1936 1946	métastases
+T11	morphology-onco 2560 2570	métastases
+T12	morphology-onco 3008 3025	maladie hépatique
+T13	morphology-onco 3105 3129	progression médiastinale
+#1	ICD-O-3.1 T1	8140/3
+#2	ICD-O-3.1 T12	8000/6
+#3	ICD-O-3.1 T4	8000/6
+#4	ICD-O-3.1 T7	8000/6
+#5	ICD-O-3.1 T10	8000/6
+#6	ICD-O-3.1 T11	8000/6
+#7	ICD-O-3.1 T2	8000/1
+#8	ICD-O-3.1 T6	8000/1
+#9	ICD-O-3.1 T9	8000/1
+#10	ICD-O-3.1 T3	8000/6
+#11	ICD-O-3.1 T5	8140/6
+#12	ICD-O-3.1 T8	8140/33
+#13	ICD-O-3.1 T13	8000/6
+#14	SNOMED T1	1187332001
+#15	SNOMED T12	14799000
+#16	SNOMED T4	14799000
+#17	SNOMED T7	14799000
+#18	SNOMED T10	14799000
+#19	SNOMED T11	14799000
+#20	SNOMED T2	86251006
+#21	SNOMED T6	86251006
+#22	SNOMED T9	86251006
+#23	SNOMED T3	14799000
+#24	SNOMED T5	4590003
+#25	SNOMED T8	1187332001
+#26	SNOMED T13	14799000

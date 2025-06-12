@@ -1,0 +1,22 @@
+T1	disease 152 163	traumatisme
+T2	disease 522 528	grippe
+T3	disease 547 575	infection gastro-intestinale
+T4	disease 1455 1466	déformation
+T5	disease 1490 1513	déficit vasculo-nerveux
+T6	disease 1552 1568	éruption cutanée
+T7	disease 1570 1586	lymphadénopathie
+T8	disease 1590 1604	viscéromégalie
+T9	disease 2613 2628	hépatite B et C
+T10	disease 2824 2854	arthrite du genou droit ANA(+)
+T11	disease 2871 2874	AJI
+#1	SNOMED T10	371081002
+#2	SNOMED T11	410502007
+#3	SNOMED T2	6142004
+#4	SNOMED T3	715852004
+#5	SNOMED T7	30746006
+#6	SNOMED T8	28543008
+#7	SNOMED T4	417893002
+#8	SNOMED T9	442374005
+#9	SNOMED T1	417746004
+#10	SNOMED T5	8821000175107
+#11	SNOMED T6	112625008

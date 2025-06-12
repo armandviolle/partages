@@ -1,0 +1,6 @@
+T1	disease 28 85	hémorragie maculaire secondaire à un traumatisme oculaire
+T2	disease 747 767	hémorragie maculaire
+T3	disease 820 856	rupture choroïdienne juxtafovéolaire
+#1	SNOMED T1	247161000
+#2	SNOMED T2	247161000
+#3	SNOMED T3	2532009

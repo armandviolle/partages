@@ -1,0 +1,39 @@
+T1	morphology-onco 736 745	carcinome
+T2	morphology-onco 1104 1119	cellule maligne
+T3	morphology-onco 1535 1552	tératome kystique
+T4	morphology-onco 1821 1845	tératome kystique mature
+T5	morphology-onco 1900 1909	néoplasie
+T6	morphology-onco 2816 2825	malignité
+T7	morphology-onco 3877 3901	tératome kystique mature
+T8	morphology-onco 4048 4065	cellules malignes
+T9	morphology-onco 4103 4140	carcinome épidermoïde peu différencié
+T10	morphology-onco 4103 4168	carcinome épidermoïde peu différencié provenant du kyste dermoïde
+T11	morphology-onco 4396 4405	malignité
+T12	morphology-onco 4439 4476	carcinome épidermoïde peu différencié
+T13	morphology-onco 4439 4498	carcinome épidermoïde peu différencié sur un kyste dermoïde
+#1	ICD-O-3.1 T1	8010/3
+#2	ICD-O-3.1 T9	8070/33
+#3	ICD-O-3.1 T12	8070/33
+#4	ICD-O-3.1 T2	8001/3
+#5	ICD-O-3.1 T8	8001/3
+#6	ICD-O-3.1 T6	8000/3
+#7	ICD-O-3.1 T11	8000/3
+#8	ICD-O-3.1 T5	8000/1
+#9	ICD-O-3.1 T3	9080/0
+#10	ICD-O-3.1 T4	9080/0
+#11	ICD-O-3.1 T7	9080/0
+#12	ICD-O-3.1 T10	9084/3
+#13	ICD-O-3.1 T13	9084/3
+#14	SNOMED T1	1187425009
+#15	SNOMED T9	1162767002
+#16	SNOMED T12	1162767002
+#17	SNOMED T2	88400008
+#18	SNOMED T8	88400008
+#19	SNOMED T6	1240414004
+#20	SNOMED T11	1240414004
+#21	SNOMED T5	86251006
+#22	SNOMED T3	42717009
+#23	SNOMED T4	42717009
+#24	SNOMED T7	42717009
+#25	SNOMED T10	88334008
+#26	SNOMED T13	88334008

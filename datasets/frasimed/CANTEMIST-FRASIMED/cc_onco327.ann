@@ -1,0 +1,66 @@
+T1	morphology-onco 398 405	tumoral
+T2	morphology-onco 809 819	néoplasmes
+T3	morphology-onco 885 924	Adénocarcinome acineux bien différencié
+T4	morphology-onco 1130 1182	Cystadénocarcinome ovarien mucineux bien différencié
+T5	morphology-onco 1679 1687	tumoraux
+T6	morphology-onco 1908 1931	(LOE) au niveau du rein
+T7	morphology-onco 2055 2062	tumoral
+T8	morphology-onco 2487 2497	LOE rénaux
+T9	morphology-onco 3042 3051	malignité
+T10	morphology-onco 3132 3152	carcinome multifocal
+T11	morphology-onco 3688 3698	métastases
+T12	morphology-onco 3878 3887	carcinome
+T13	morphology-onco 4050 4091	tumeur primaire serait d'origine exocrine
+T14	morphology-onco 4360 4394	néoplasmes pancréatiques exocrines
+T15	morphology-onco 4960 4969	néoplasme
+T16	morphology-onco 5056 5098	néoplasme pancréatique est d'origine mixte
+T17	morphology-onco 5125 5157	adénocarcinome acineux endocrine
+T18	morphology-onco 5190 5205	lésions rénales
+T19	morphology-onco 5391 5414	néoplasmes endocriniens
+T20	morphology-onco 5438 5470	adénocarcinome endocrine acineux
+T21	morphology-onco 5704 5713	néoplasme
+T22	morphology-onco 5730 5740	métastases
+#1	ICD-O-3.1 T12	8010/3
+#2	ICD-O-3.1 T9	8000/3
+#3	ICD-O-3.1 T11	8000/6
+#4	ICD-O-3.1 T22	8000/6
+#5	ICD-O-3.1 T15	8000/1
+#6	ICD-O-3.1 T21	8000/1
+#7	ICD-O-3.1 T2	8000/1
+#8	ICD-O-3.1 T1	8000/1
+#9	ICD-O-3.1 T7	8000/1
+#10	ICD-O-3.1 T5	8000/1
+#11	ICD-O-3.1 T3	8550/31
+#12	ICD-O-3.1 T4	8470/31
+#13	ICD-O-3.1 T6	8000/6
+#14	ICD-O-3.1 T8	8000/6
+#15	ICD-O-3.1 T10	8010/3/H
+#16	ICD-O-3.1 T14	8000/1/H
+#17	ICD-O-3.1 T13	8000/1/H
+#18	ICD-O-3.1 T16	8154/3
+#19	ICD-O-3.1 T17	8154/3
+#20	ICD-O-3.1 T18	8000/6
+#21	ICD-O-3.1 T19	8150/1
+#22	ICD-O-3.1 T20	8154/3
+#23	SNOMED T12	1187425009
+#24	SNOMED T9	1240414004
+#25	SNOMED T11	14799000
+#26	SNOMED T22	14799000
+#27	SNOMED T15	86251006
+#28	SNOMED T21	86251006
+#29	SNOMED T2	86251006
+#30	SNOMED T1	86251006
+#31	SNOMED T7	86251006
+#32	SNOMED T5	86251006
+#33	SNOMED T3	45410002
+#34	SNOMED T4	79143006
+#35	SNOMED T6	14799000
+#36	SNOMED T8	14799000
+#37	SNOMED T10	1187425009
+#38	SNOMED T14	86251006
+#39	SNOMED T13	86251006
+#40	SNOMED T16	999000
+#41	SNOMED T17	999000
+#42	SNOMED T18	14799000
+#43	SNOMED T19	126864006
+#44	SNOMED T20	999000

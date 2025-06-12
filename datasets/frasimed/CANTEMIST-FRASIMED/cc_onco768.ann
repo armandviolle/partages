@@ -1,0 +1,47 @@
+T1	morphology-onco 424 436	ballon lâche
+T2	morphology-onco 1366 1385	nodules pulmonaires
+T3	morphology-onco 1574 1598	tumeur cutanée primitive
+T4	morphology-onco 1607 1644	carcinome épidermoïde peu différencié
+T5	morphology-onco 1652 1726	métastase d'une tumeur à différenciation germinale de type trophoblastique
+T6	morphology-onco 1980 2020	tumeur germinale mixte non séminomateuse
+T7	morphology-onco 2034 2062	tumeur du sinus endodermique
+T8	morphology-onco 2072 2087	choriocarcinome
+T9	morphology-onco 2099 2107	tératome
+T10	morphology-onco 2163 2171	tératome
+T11	morphology-onco 2274 2314	Tumeur germinale non séminomateuse mixte
+T12	morphology-onco 2324 2352	tumeur du sinus endodermique
+T13	morphology-onco 2362 2377	choriocarcinome
+T14	morphology-onco 2389 2397	tératome
+T15	morphology-onco 2431 2441	métastases
+T16	morphology-onco 5406 5416	métastases
+#1	ICD-O-3.1 T8	9100/3
+#2	ICD-O-3.1 T13	9100/3
+#3	ICD-O-3.1 T15	8000/6
+#4	ICD-O-3.1 T16	8000/6
+#5	ICD-O-3.1 T9	9080/1
+#6	ICD-O-3.1 T10	9080/1
+#7	ICD-O-3.1 T14	9080/1
+#8	ICD-O-3.1 T1	8000/6
+#9	ICD-O-3.1 T3	8000/1/H
+#10	ICD-O-3.1 T4	8070/33
+#11	ICD-O-3.1 T5	9064/6/H
+#12	ICD-O-3.1 T6	9065/3/H
+#13	ICD-O-3.1 T7	9071/3
+#14	ICD-O-3.1 T11	9065/3/H
+#15	ICD-O-3.1 T12	9071/3
+#16	ICD-O-3.1 T2	8000/6
+#17	SNOMED T8	1156971005
+#18	SNOMED T13	1156971005
+#19	SNOMED T15	14799000
+#20	SNOMED T16	14799000
+#21	SNOMED T9	1187393008
+#22	SNOMED T10	1187393008
+#23	SNOMED T14	1187393008
+#24	SNOMED T1	14799000
+#25	SNOMED T3	86251006
+#26	SNOMED T4	1162767002
+#27	SNOMED T6	128766005
+#28	SNOMED T7	74409009
+#29	SNOMED T11	128766005
+#30	SNOMED T12	74409009
+#31	SNOMED T2	14799000

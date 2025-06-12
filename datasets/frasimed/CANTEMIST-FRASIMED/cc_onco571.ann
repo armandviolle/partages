@@ -1,0 +1,30 @@
+T1	morphology-onco 310 316	cancer
+T2	morphology-onco 1574 1595	carcinome épidermoïde
+T3	morphology-onco 1765 1847	cT2N3 M1a (nodule pulmonaire controlatéral) carcinome épidermoïde du poumon gauche
+T4	morphology-onco 1776 1807	nodule pulmonaire controlatéral
+T5	morphology-onco 4727 4733	tumeur
+T6	morphology-onco 5248 5278	tumeur papillaire de la vessie
+T7	morphology-onco 5343 5350	maligne
+T8	morphology-onco 5459 5504	carcinome urothélial non invasif de bas grade
+T9	morphology-onco 5951 5980	lésion de la tête du pancréas
+T10	morphology-onco 6097 6106	malignité
+#1	ICD-O-3.1 T2	8070/3
+#2	ICD-O-3.1 T1	8000/3
+#3	ICD-O-3.1 T7	8000/3
+#4	ICD-O-3.1 T10	8000/3
+#5	ICD-O-3.1 T5	8000/1
+#6	ICD-O-3.1 T3	8070/6
+#7	ICD-O-3.1 T4	8000/6
+#8	ICD-O-3.1 T8	8130/21
+#9	ICD-O-3.1 T6	8130/1
+#10	ICD-O-3.1 T9	8000/6
+#11	SNOMED T2	1162767002
+#12	SNOMED T1	1240414004
+#13	SNOMED T7	1240414004
+#14	SNOMED T10	1240414004
+#15	SNOMED T5	86251006
+#16	SNOMED T3	403906006
+#17	SNOMED T4	14799000
+#18	SNOMED T8	128877008
+#19	SNOMED T6	128625004
+#20	SNOMED T9	14799000

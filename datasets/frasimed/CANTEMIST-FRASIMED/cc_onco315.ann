@@ -1,0 +1,54 @@
+T1	morphology-onco 299 338	cancer du sigmoïde de stade IV cT3N1bM1
+T2	morphology-onco 340 350	métastases
+T3	morphology-onco 365 385	implants péritonéaux
+T4	morphology-onco 567 650	pT3N2b (7/20) M1 (maladie hépatique bilobaire) adénocarcinome de bas grade du sigma
+T5	morphology-onco 1020 1030	métastases
+T6	morphology-onco 1476 1497	progression hépatique
+T7	morphology-onco 1784 1803	progression osseuse
+T8	morphology-onco 1805 1839	lésion dans la lame iliaque gauche
+T9	morphology-onco 1850 1871	masse des tissus mous
+T10	morphology-onco 1906 1923	maladie hépatique
+T11	morphology-onco 3910 3927	nodule pulmonaire
+T12	morphology-onco 4086 4096	métastases
+T13	morphology-onco 4145 4155	métastases
+T14	morphology-onco 4268 4301	carcinome colorectal métastatique
+T15	morphology-onco 4303 4324	Progression hépatique
+T16	morphology-onco 4341 4379	adénocarcinome colorectal métastatique
+T17	morphology-onco 4962 4971	carcinome
+T18	morphology-onco 5602 5610	tumorale
+#1	ICD-O-3.1 T17	8010/3
+#2	ICD-O-3.1 T2	8000/6
+#3	ICD-O-3.1 T5	8000/6
+#4	ICD-O-3.1 T13	8000/6
+#5	ICD-O-3.1 T18	8000/1
+#6	ICD-O-3.1 T1	8000/6
+#7	ICD-O-3.1 T3	8000/6
+#8	ICD-O-3.1 T4	8140/61
+#9	ICD-O-3.1 T12	8000/6
+#10	ICD-O-3.1 T14	8010/6
+#11	ICD-O-3.1 T16	8140/6
+#12	ICD-O-3.1 T15	8000/6
+#13	ICD-O-3.1 T9	8000/6
+#14	ICD-O-3.1 T11	8000/6
+#15	ICD-O-3.1 T6	8000/6
+#16	ICD-O-3.1 T7	8000/6
+#17	ICD-O-3.1 T10	8000/6
+#18	ICD-O-3.1 T8	8000/6
+#19	SNOMED T17	1187425009
+#20	SNOMED T2	14799000
+#21	SNOMED T5	14799000
+#22	SNOMED T13	14799000
+#23	SNOMED T18	86251006
+#24	SNOMED T1	14799000
+#25	SNOMED T3	14799000
+#26	SNOMED T4	4590003
+#27	SNOMED T12	14799000
+#28	SNOMED T14	79282002
+#29	SNOMED T16	4590003
+#30	SNOMED T15	14799000
+#31	SNOMED T9	14799000
+#32	SNOMED T11	14799000
+#33	SNOMED T6	14799000
+#34	SNOMED T7	14799000
+#35	SNOMED T10	14799000
+#36	SNOMED T8	14799000

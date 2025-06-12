@@ -1,0 +1,41 @@
+T1	morphology-onco 598 604	tumeur
+T2	morphology-onco 707 713	cancer
+T3	morphology-onco 1402 1415	Carcinomatose
+T4	morphology-onco 1465 1471	tumeur
+T5	morphology-onco 1483 1498	hépatocarcinome
+T6	morphology-onco 1585 1591	tumeur
+T7	morphology-onco 1742 1748	tumeur
+T8	morphology-onco 2085 2140	carcinome hépatocellulaire (CHC) modérément différencié
+T9	morphology-onco 2113 2116	CHC
+T10	morphology-onco 2215 2222	tumoral
+T11	morphology-onco 2257 2263	tumeur
+T12	morphology-onco 2290 2315	implant d'hépatocarcinome
+T13	morphology-onco 2542 2545	CHC
+T14	morphology-onco 2576 2596	implants péritonéaux
+#1	ICD-O-3.1 T9	8170/3
+#2	ICD-O-3.1 T13	8170/3
+#3	ICD-O-3.1 T3	8010/9
+#4	ICD-O-3.1 T2	8000/3
+#5	ICD-O-3.1 T5	8170/3
+#6	ICD-O-3.1 T14	8000/6
+#7	ICD-O-3.1 T1	8000/1
+#8	ICD-O-3.1 T4	8000/1
+#9	ICD-O-3.1 T6	8000/1
+#10	ICD-O-3.1 T7	8000/1
+#11	ICD-O-3.1 T11	8000/1
+#12	ICD-O-3.1 T10	8000/1
+#13	ICD-O-3.1 T8	8170/32
+#14	ICD-O-3.1 T12	8170/6
+#15	SNOMED T9	1186630006
+#16	SNOMED T13	1186630006
+#17	SNOMED T3	307593001
+#18	SNOMED T2	1240414004
+#19	SNOMED T5	1186630006
+#20	SNOMED T14	14799000
+#21	SNOMED T1	86251006
+#22	SNOMED T4	86251006
+#23	SNOMED T6	86251006
+#24	SNOMED T7	86251006
+#25	SNOMED T11	86251006
+#26	SNOMED T10	86251006
+#27	SNOMED T8	1186630006

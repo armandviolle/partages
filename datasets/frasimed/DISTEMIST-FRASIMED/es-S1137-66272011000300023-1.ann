@@ -1,0 +1,22 @@
+T1	disease 118 143	allergies médicamenteuses
+T2	disease 372 407	réaction urticariforme prurigineuse
+T3	disease 594 603	urticaire
+T4	disease 685 692	lésions
+T5	disease 827 887	lésions polymorphes à distribution étendue ont été observées
+T6	disease 898 975	lésions croûteuses hémorragiques et d'autres lésions vésiculaires-pustuleuses
+T7	disease 1079 1154	région centrale de l'abdomen, il y avait une lésion nécrotique et croûteuse
+T8	disease 1233 1242	varicelle
+T9	disease 2368 2392	rétention urinaire aiguë
+T10	disease 3115 3134	paraparésie flasque
+T11	disease 3535 3563	lésion intracrânienne focale
+T12	disease 3945 3991	myélite transverse incomplète post-infectieuse
+T13	disease 4208 4239	dilatation du canal épendymaire
+T14	disease 4270 4293	myélopathie infectieuse
+T15	disease 4381 4434	myélite infectieuse dans la moelle épinière cervicale
+T16	disease 4502 4510	syphilis
+T17	disease 4611 4620	Varicella
+T18	disease 4751 4760	varicelle
+T19	disease 4819 4835	immunodéficience
+T20	disease 4971 5034	myélite aiguë due à une infection par le virus Varicella zoster
+T21	disease 5098 5122	myélite aiguë due au VZV
+T22	disease 5405 5423	rétention urinaire

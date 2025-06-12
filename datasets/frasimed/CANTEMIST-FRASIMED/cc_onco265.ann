@@ -1,0 +1,57 @@
+T1	morphology-onco 452 460	mélanome
+T2	morphology-onco 513 553	mélanome malin d'extension superficielle
+T3	morphology-onco 700 706	tumeur
+T4	morphology-onco 723 731	pT3aN0M0
+T5	morphology-onco 1686 1729	extension de la maladie à d'autres endroits
+T6	morphology-onco 1743 1753	METASTASIS
+T7	morphology-onco 1776 1794	MELANOMA MALIGNANT
+T8	morphology-onco 1858 1866	T3aN1bM0
+T9	morphology-onco 2003 2013	METASTASIS
+T10	morphology-onco 2037 2055	MELANOMA MALIGNANT
+T11	morphology-onco 2105 2113	T3aN1bM0
+T12	morphology-onco 2265 2283	MELANOMA MALIGNANT
+T13	morphology-onco 2439 2447	mélanome
+T14	morphology-onco 3188 3240	masse des tissus mous au niveau de la région dorsale
+T15	morphology-onco 3328 3364	lésion nodulaire au niveau du membre
+T16	morphology-onco 3466 3480	mélanome malin
+T17	morphology-onco 3508 3526	cellules tumorales
+T18	morphology-onco 3886 3898	métastatique
+T19	morphology-onco 4472 4481	métastase
+#1	ICD-O-3.1 T6	8000/6
+#2	ICD-O-3.1 T9	8000/6
+#3	ICD-O-3.1 T13	8720/3
+#4	ICD-O-3.1 T17	8001/1
+#5	ICD-O-3.1 T18	8000/6
+#6	ICD-O-3.1 T4	8000/6
+#7	ICD-O-3.1 T3	8000/1
+#8	ICD-O-3.1 T1	8720/3
+#9	ICD-O-3.1 T2	8743/3
+#10	ICD-O-3.1 T5	8000/6
+#11	ICD-O-3.1 T7	8720/3
+#12	ICD-O-3.1 T8	8000/6
+#13	ICD-O-3.1 T10	8720/3
+#14	ICD-O-3.1 T11	8000/6
+#15	ICD-O-3.1 T12	8720/3
+#16	ICD-O-3.1 T16	8720/3
+#17	ICD-O-3.1 T19	8000/6
+#18	ICD-O-3.1 T14	8000/6
+#19	ICD-O-3.1 T15	8000/6
+#20	SNOMED T6	14799000
+#21	SNOMED T9	14799000
+#22	SNOMED T13	1162635006
+#23	SNOMED T17	39577004
+#24	SNOMED T18	14799000
+#25	SNOMED T4	14799000
+#26	SNOMED T3	86251006
+#27	SNOMED T1	1162635006
+#28	SNOMED T2	55320002
+#29	SNOMED T5	14799000
+#30	SNOMED T7	1162635006
+#31	SNOMED T8	14799000
+#32	SNOMED T10	1162635006
+#33	SNOMED T11	14799000
+#34	SNOMED T12	1162635006
+#35	SNOMED T16	1162635006
+#36	SNOMED T19	14799000
+#37	SNOMED T14	14799000
+#38	SNOMED T15	14799000

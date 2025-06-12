@@ -1,0 +1,44 @@
+T1	morphology-onco 38 44	tumeur
+T2	morphology-onco 222 239	macroprolactinome
+T3	morphology-onco 1613 1623	méningiome
+T4	morphology-onco 1795 1805	méningiome
+T5	morphology-onco 2405 2478	métastase d'un adénocarcinome modérément différencié d'origine pulmonaire
+T6	morphology-onco 3113 3197	néoplasie pleuropulmonaire dans le lobe supérieur droit avec de multiples métastases
+T7	morphology-onco 3312 3322	métastases
+T8	morphology-onco 3396 3406	métastases
+T9	morphology-onco 3637 3647	métastases
+T10	morphology-onco 3795 3844	Adénocarcinome pulmonaire de stade IV (métastases
+T11	morphology-onco 4381 4391	métastases
+T12	morphology-onco 5240 5258	nodule sous-cutané
+T13	morphology-onco 5443 5453	métastases
+T14	morphology-onco 5839 5857	maladie abdominale
+T15	morphology-onco 6601 6620	maladie péritonéale
+#1	ICD-O-3.1 T2	8271/0
+#2	ICD-O-3.1 T4	9530/0
+#3	ICD-O-3.1 T3	9530/0
+#4	ICD-O-3.1 T8	8000/6
+#5	ICD-O-3.1 T7	8000/6
+#6	ICD-O-3.1 T9	8000/6
+#7	ICD-O-3.1 T11	8000/6
+#8	ICD-O-3.1 T13	8000/6
+#9	ICD-O-3.1 T12	8000/6
+#10	ICD-O-3.1 T1	8000/1
+#11	ICD-O-3.1 T5	8140/62
+#12	ICD-O-3.1 T6	8973/6
+#13	ICD-O-3.1 T10	8140/6
+#14	ICD-O-3.1 T14	8000/6
+#15	ICD-O-3.1 T15	8000/6
+#16	SNOMED T2	34337008
+#17	SNOMED T4	1157019008
+#18	SNOMED T3	1157019008
+#19	SNOMED T8	14799000
+#20	SNOMED T7	14799000
+#21	SNOMED T9	14799000
+#22	SNOMED T11	14799000
+#23	SNOMED T13	14799000
+#24	SNOMED T12	14799000
+#25	SNOMED T1	86251006
+#26	SNOMED T5	4590003
+#27	SNOMED T10	4590003
+#28	SNOMED T14	14799000
+#29	SNOMED T15	14799000

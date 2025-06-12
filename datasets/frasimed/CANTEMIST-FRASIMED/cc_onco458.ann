@@ -1,0 +1,42 @@
+T1	morphology-onco 944 953	malignité
+T2	morphology-onco 1133 1142	néoplasme
+T3	morphology-onco 1291 1304	carcinomatose
+T4	morphology-onco 1955 1980	tumeur solide et kystique
+T5	morphology-onco 2181 2196	tumeur kystique
+T6	morphology-onco 2216 2255	carcinome séromucineux bien différencié
+T7	morphology-onco 2362 2408	néoplasme mucineux appendiculaire de bas grade
+T8	morphology-onco 2427 2439	métastatique
+T9	morphology-onco 2462 2472	métastases
+T10	morphology-onco 2531 2562	tumeur appendiculaire mucineuse
+T11	morphology-onco 2904 2916	métastatique
+T12	morphology-onco 2932 2938	tumeur
+T13	morphology-onco 3093 3126	néoplasme appendiculaire mucineux
+T14	morphology-onco 3132 3145	carcinomatose
+#1	ICD-O-3.1 T3	8010/9
+#2	ICD-O-3.1 T14	8010/9
+#3	ICD-O-3.1 T1	8000/3
+#4	ICD-O-3.1 T8	8000/6
+#5	ICD-O-3.1 T11	8000/6
+#6	ICD-O-3.1 T9	8000/6
+#7	ICD-O-3.1 T2	8000/1
+#8	ICD-O-3.1 T4	8452/1
+#9	ICD-O-3.1 T5	8452/1
+#10	ICD-O-3.1 T12	8000/1
+#11	ICD-O-3.1 T6	8441/31/H
+#12	ICD-O-3.1 T7	8480/1
+#13	ICD-O-3.1 T10	8480/1
+#14	ICD-O-3.1 T13	8480/1
+#15	SNOMED T3	307593001
+#16	SNOMED T14	307593001
+#17	SNOMED T1	1240414004
+#18	SNOMED T8	14799000
+#19	SNOMED T11	14799000
+#20	SNOMED T9	14799000
+#21	SNOMED T2	86251006
+#22	SNOMED T4	27078002
+#23	SNOMED T5	27078002
+#24	SNOMED T12	86251006
+#25	SNOMED T6	90725004
+#26	SNOMED T7	450896006
+#27	SNOMED T10	450896006
+#28	SNOMED T13	450896006

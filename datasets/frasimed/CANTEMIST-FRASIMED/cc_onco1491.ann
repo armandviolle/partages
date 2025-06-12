@@ -1,0 +1,35 @@
+T1	morphology-onco 318 333	thymome invasif
+T2	morphology-onco 400 406	tumeur
+T3	morphology-onco 466 514	Thymome invasif mixte épithélio-lymphocytaire B3
+T4	morphology-onco 1256 1263	thymome
+T5	morphology-onco 2097 2144	lésions au niveau du sinus costodiaphragmatique
+T6	morphology-onco 2272 2311	implants tumoraux de thymome de type B3
+T7	morphology-onco 2791 2808	lésions pleurales
+T8	morphology-onco 2969 3003	lésions disséminées dans la plèvre
+T9	morphology-onco 3291 3326	implant dans la région péricardique
+T10	morphology-onco 4916 4949	lésions solides dans le péricarde
+T11	morphology-onco 5297 5314	lésions pleurales
+T12	morphology-onco 5341 5362	lésions péricardiques
+#1	ICD-O-3.1 T11	8000/6
+#2	ICD-O-3.1 T4	8580/1
+#3	ICD-O-3.1 T2	8000/1
+#4	ICD-O-3.1 T3	8585/3
+#5	ICD-O-3.1 T1	8580/3
+#6	ICD-O-3.1 T6	8585/6
+#7	ICD-O-3.1 T5	8000/6
+#8	ICD-O-3.1 T7	8000/6
+#9	ICD-O-3.1 T8	8000/6
+#10	ICD-O-3.1 T9	8000/6
+#11	ICD-O-3.1 T10	8000/6
+#12	ICD-O-3.1 T12	8000/6
+#13	SNOMED T11	14799000
+#14	SNOMED T4	1187428006
+#15	SNOMED T2	86251006
+#16	SNOMED T3	128716004
+#17	SNOMED T1	444596001
+#18	SNOMED T5	14799000
+#19	SNOMED T7	14799000
+#20	SNOMED T8	14799000
+#21	SNOMED T9	14799000
+#22	SNOMED T10	14799000
+#23	SNOMED T12	14799000

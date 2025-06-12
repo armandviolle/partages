@@ -1,0 +1,20 @@
+T1	disease 22 47	allergies médicamenteuses
+T2	disease 91 114	hypertension artérielle
+T3	disease 119 142	diabète sucré de type 2
+T4	disease 147 181	fibrillation auriculaire chronique
+T5	disease 188 207	maladie d'Alzheimer
+T6	disease 257 269	marc de café
+T7	disease 574 588	hernie hiatale
+T8	disease 595 671	ulcère profond d'environ 2 cm de diamètre dans le tiers distal de l'œsophage
+T9	disease 760 766	lésion
+T10	disease 930 942	actinomycose
+#1	SNOMED T1	416098002
+#2	SNOMED T7	84089009
+#3	SNOMED T8	30811009
+#4	SNOMED T2	38341003
+#5	SNOMED T3	44054006
+#6	SNOMED T4	426749004
+#7	SNOMED T5	26929004
+#8	SNOMED T10	11817007
+#9	SNOMED T9	417163006
+#10	SNOMED T6	275371002

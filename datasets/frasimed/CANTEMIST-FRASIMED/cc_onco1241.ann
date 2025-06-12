@@ -1,0 +1,129 @@
+T1	morphology-onco 273 281	mélanome
+T2	morphology-onco 354 357	LNH
+T3	morphology-onco 379 387	mélanome
+T4	morphology-onco 603 611	mélanome
+T5	morphology-onco 757 766	métastase
+T6	morphology-onco 1263 1272	pT4aN1aM0
+T7	morphology-onco 1619 1628	métastase
+T8	morphology-onco 2188 2198	métastases
+T9	morphology-onco 2767 2783	lésion hépatique
+T10	morphology-onco 2861 2868	maligne
+T11	morphology-onco 2889 2910	métastase de mélanome
+T12	morphology-onco 3102 3123	métastase de mélanome
+T13	morphology-onco 3295 3304	métastase
+T14	morphology-onco 3369 3386	nodule pulmonaire
+T15	morphology-onco 3387 3399	métastatique
+T16	morphology-onco 3450 3469	nodules pulmonaires
+T17	morphology-onco 3903 3912	métastase
+T18	morphology-onco 3996 4005	métastase
+T19	morphology-onco 4198 4226	maladie au niveau pulmonaire
+T20	morphology-onco 4280 4289	métastase
+T21	morphology-onco 4482 4491	métastase
+T22	morphology-onco 4519 4521	M1
+T23	morphology-onco 5893 5902	métastase
+T24	morphology-onco 6106 6129	lésion hépatique focale
+T25	morphology-onco 6233 6242	métastase
+T26	morphology-onco 6814 6824	métastases
+T27	morphology-onco 7203 7221	lésions hépatiques
+T28	morphology-onco 7335 7353	lésions hépatiques
+T29	morphology-onco 7457 7492	Progression cérébrale d'un mélanome
+T30	morphology-onco 7813 7822	métastase
+T31	morphology-onco 8002 8012	métastases
+T32	morphology-onco 8051 8068	nodule pulmonaire
+T33	morphology-onco 8261 8270	métastase
+T34	morphology-onco 8303 8312	métastase
+T35	morphology-onco 8590 8631	progression a été observée dans le poumon
+T36	morphology-onco 8806 8816	métastases
+T37	morphology-onco 9181 9189	mélanome
+T38	morphology-onco 9430 9440	métastases
+T39	morphology-onco 9576 9586	métastases
+T40	morphology-onco 9622 9639	nodule pulmonaire
+T41	morphology-onco 10125 10134	métastase
+T42	morphology-onco 10231 10254	lésions dans le cerveau
+T43	morphology-onco 10385 10395	métastases
+#1	ICD-O-3.1 T2	9591/3
+#2	ICD-O-3.1 T22	8000/6
+#3	ICD-O-3.1 T42	8000/6
+#4	ICD-O-3.1 T27	8000/6
+#5	ICD-O-3.1 T28	8000/6
+#6	ICD-O-3.1 T24	8000/6
+#7	ICD-O-3.1 T9	8000/6
+#8	ICD-O-3.1 T10	8000/3
+#9	ICD-O-3.1 T1	8720/3
+#10	ICD-O-3.1 T3	8720/3
+#11	ICD-O-3.1 T4	8720/3
+#12	ICD-O-3.1 T37	8720/3
+#13	ICD-O-3.1 T13	8000/6
+#14	ICD-O-3.1 T5	8000/6
+#15	ICD-O-3.1 T7	8000/6
+#16	ICD-O-3.1 T8	8000/6
+#17	ICD-O-3.1 T15	8000/6
+#18	ICD-O-3.1 T20	8000/6
+#19	ICD-O-3.1 T18	8000/6
+#20	ICD-O-3.1 T17	8000/6
+#21	ICD-O-3.1 T21	8000/6
+#22	ICD-O-3.1 T23	8000/6
+#23	ICD-O-3.1 T25	8000/6
+#24	ICD-O-3.1 T26	8000/6
+#25	ICD-O-3.1 T30	8000/6
+#26	ICD-O-3.1 T31	8000/6
+#27	ICD-O-3.1 T33	8000/6
+#28	ICD-O-3.1 T34	8000/6
+#29	ICD-O-3.1 T36	8000/6
+#30	ICD-O-3.1 T38	8000/6
+#31	ICD-O-3.1 T39	8000/6
+#32	ICD-O-3.1 T41	8000/6
+#33	ICD-O-3.1 T43	8000/6
+#34	ICD-O-3.1 T11	8720/6
+#35	ICD-O-3.1 T12	8720/6
+#36	ICD-O-3.1 T14	8000/6
+#37	ICD-O-3.1 T32	8000/6
+#38	ICD-O-3.1 T40	8000/6
+#39	ICD-O-3.1 T16	8000/6
+#40	ICD-O-3.1 T35	8000/6
+#41	ICD-O-3.1 T6	8000/6
+#42	ICD-O-3.1 T19	8000/6
+#43	ICD-O-3.1 T29	8720/6
+#44	SNOMED T2	1172592001
+#45	SNOMED T22	14799000
+#46	SNOMED T42	14799000
+#47	SNOMED T27	14799000
+#48	SNOMED T28	14799000
+#49	SNOMED T24	14799000
+#50	SNOMED T9	14799000
+#51	SNOMED T10	1240414004
+#52	SNOMED T1	1162635006
+#53	SNOMED T3	1162635006
+#54	SNOMED T4	1162635006
+#55	SNOMED T37	1162635006
+#56	SNOMED T13	14799000
+#57	SNOMED T5	14799000
+#58	SNOMED T7	14799000
+#59	SNOMED T8	14799000
+#60	SNOMED T15	14799000
+#61	SNOMED T20	14799000
+#62	SNOMED T18	14799000
+#63	SNOMED T17	14799000
+#64	SNOMED T21	14799000
+#65	SNOMED T23	14799000
+#66	SNOMED T25	14799000
+#67	SNOMED T26	14799000
+#68	SNOMED T30	14799000
+#69	SNOMED T31	14799000
+#70	SNOMED T33	14799000
+#71	SNOMED T34	14799000
+#72	SNOMED T36	14799000
+#73	SNOMED T38	14799000
+#74	SNOMED T39	14799000
+#75	SNOMED T41	14799000
+#76	SNOMED T43	14799000
+#77	SNOMED T11	372158004
+#78	SNOMED T12	372158004
+#79	SNOMED T14	14799000
+#80	SNOMED T32	14799000
+#81	SNOMED T40	14799000
+#82	SNOMED T16	14799000
+#83	SNOMED T35	14799000
+#84	SNOMED T6	14799000
+#85	SNOMED T19	14799000
+#86	SNOMED T29	372158004

@@ -1,0 +1,16 @@
+T1	disease 91 105	métamorphopsie
+T2	disease 495 519	membrane sous-rétinienne
+T3	disease 862 866	NVSR
+T4	disease 1125 1129	NVSR
+T5	disease 1322 1326	NVSR
+T6	disease 1705 1716	tuberculose
+T7	disease 1750 1758	syphilis
+T8	disease 1765 1775	borréliose
+#1	SNOMED T1	42134006
+#2	SNOMED T5	61267008
+#3	SNOMED T4	61267008
+#4	SNOMED T6	56717001
+#5	SNOMED T7	76272004
+#6	SNOMED T8	240668005
+#7	SNOMED T3	61267008
+#8	SNOMED T2	133854004

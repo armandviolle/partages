@@ -1,0 +1,24 @@
+T1	morphology-onco 430 443	carcinomatose
+T2	morphology-onco 463 470	tumeurs
+T3	morphology-onco 512 531	néoplasie primitive
+T4	morphology-onco 783 835	adénocarcinome avec des cellules en anneau de signet
+T5	morphology-onco 852 858	tumeur
+T6	morphology-onco 880 900	tumeur de Krukenberg
+T7	morphology-onco 996 1005	néoplasme
+T8	morphology-onco 5986 5993	maligne
+#1	ICD-O-3.1 T4	8490/3
+#2	ICD-O-3.1 T1	8010/9
+#3	ICD-O-3.1 T8	8000/3
+#4	ICD-O-3.1 T7	8000/1
+#5	ICD-O-3.1 T5	8000/1
+#6	ICD-O-3.1 T2	8000/1
+#7	ICD-O-3.1 T3	8000/1/H
+#8	ICD-O-3.1 T6	8490/6
+#9	SNOMED T4	87737001
+#10	SNOMED T1	307593001
+#11	SNOMED T8	1240414004
+#12	SNOMED T7	86251006
+#13	SNOMED T5	86251006
+#14	SNOMED T2	86251006
+#15	SNOMED T3	86251006
+#16	SNOMED T6	4305004

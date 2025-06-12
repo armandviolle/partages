@@ -1,0 +1,12 @@
+T1	disease 31 54	PR érosive séropositive
+T2	disease 355 363	sclérite
+T3	disease 584 586	PR
+T4	disease 722 725	QUP
+T5	disease 767 769	PR
+T6	disease 814 829	sclérite légère
+#1	SNOMED T1	308143008
+#2	SNOMED T2	78370002
+#3	SNOMED T3	69896004
+#4	SNOMED T4	416473005
+#5	SNOMED T5	69896004
+#6	SNOMED T6	78370002

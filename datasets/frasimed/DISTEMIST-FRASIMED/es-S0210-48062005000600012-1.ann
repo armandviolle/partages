@@ -1,0 +1,12 @@
+T1	disease 44 67	hypertension artérielle
+T2	disease 73 86	hypothyroïdie
+T3	disease 353 364	hypotension
+T4	disease 1084 1115	hématome rétropéritonéal gauche
+T5	disease 1490 1513	hypertension artérielle
+T6	disease 1762 1797	pseudokyste endothélial surrénalien
+#1	SNOMED T1	38341003
+#2	SNOMED T2	40930008
+#3	SNOMED T4	236002003
+#4	SNOMED T5	38341003
+#5	SNOMED T6	30171000
+#6	SNOMED T3	45007003

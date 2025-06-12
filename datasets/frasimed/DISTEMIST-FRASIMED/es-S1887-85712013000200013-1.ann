@@ -1,0 +1,6 @@
+T1	disease 68 80	malnutrition
+T2	disease 101 219	brûlures de second degré dans la région antérieure et postérieure de la cuisse droite, du flanc droit et du mésogastre
+T3	disease 407 413	lésion
+#1	SNOMED T2	68140000+73948007
+#2	SNOMED T1	248325000
+#3	SNOMED T3	417163006

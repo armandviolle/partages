@@ -1,0 +1,32 @@
+T1	disease 48 82	hyperplasie bénigne de la prostate
+T2	disease 87 122	fibrillation auriculaire récurrente
+T3	disease 195 224	insuffisance rénale chronique
+T4	disease 717 737	hypercalcémie sévère
+T5	disease 1279 1298	insuffisance rénale
+T6	disease 1317 1330	hypercalcémie
+T7	disease 1491 1519	processus myéloprolifératifs
+T8	disease 1530 1540	néoplasmes
+T9	disease 1639 1661	pathologie infectieuse
+T10	disease 1692 1713	maladies auto-immunes
+T11	disease 1952 1975	tumeur parathyroïdienne
+T12	disease 2244 2260	phéochromocytome
+T13	disease 2449 2472	tumeur parathyroïdienne
+T14	disease 2518 2540	adénome parathyroïdien
+T15	disease 2628 2651	syndrome de l'os affamé
+T16	disease 2765 2784	hypocalcémie sévère
+#1	SNOMED T15	237883001
+#2	SNOMED T7	425333006
+#3	SNOMED T1	266569009
+#4	SNOMED T12	302835009
+#5	SNOMED T2	440059007
+#6	SNOMED T4	66931009
+#7	SNOMED T16	5291005
+#8	SNOMED T3	90688005
+#9	SNOMED T13	127020005
+#10	SNOMED T14	128474007
+#11	SNOMED T11	127020005
+#12	SNOMED T5	236423003
+#13	SNOMED T6	66931009
+#14	SNOMED T9	40733004
+#15	SNOMED T8	189542002
+#16	SNOMED T10	191006002

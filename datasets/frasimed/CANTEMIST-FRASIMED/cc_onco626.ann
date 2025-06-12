@@ -1,0 +1,42 @@
+T1	morphology-onco 157 163	cancer
+T2	morphology-onco 1059 1089	carcinome canalaire infiltrant
+T3	morphology-onco 1851 1860	malignité
+T4	morphology-onco 2191 2196	malin
+T5	morphology-onco 2286 2316	carcinome canalaire infiltrant
+T6	morphology-onco 2438 2468	carcinome canalaire infiltrant
+T7	morphology-onco 2691 2700	métastase
+T8	morphology-onco 2748 2766	carcinome mammaire
+T9	morphology-onco 2817 2847	Carcinome canalaire infiltrant
+T10	morphology-onco 2894 2896	M1
+T11	morphology-onco 3773 3779	cancer
+T12	morphology-onco 3859 3871	métastatique
+T13	morphology-onco 3947 3953	cancer
+T14	morphology-onco 4461 4467	cancer
+#1	ICD-O-3.1 T9	8500/3
+#2	ICD-O-3.1 T10	8000/6
+#3	ICD-O-3.1 T8	8010/3
+#4	ICD-O-3.1 T2	8500/3
+#5	ICD-O-3.1 T5	8500/3
+#6	ICD-O-3.1 T6	8500/3
+#7	ICD-O-3.1 T1	8000/3
+#8	ICD-O-3.1 T11	8000/3
+#9	ICD-O-3.1 T13	8000/3
+#10	ICD-O-3.1 T14	8000/3
+#11	ICD-O-3.1 T3	8000/3
+#12	ICD-O-3.1 T4	8000/3
+#13	ICD-O-3.1 T12	8000/6
+#14	ICD-O-3.1 T7	8000/6
+#15	SNOMED T9	58477004
+#16	SNOMED T10	14799000
+#17	SNOMED T8	1187425009
+#18	SNOMED T2	58477004
+#19	SNOMED T5	58477004
+#20	SNOMED T6	58477004
+#21	SNOMED T1	1240414004
+#22	SNOMED T11	1240414004
+#23	SNOMED T13	1240414004
+#24	SNOMED T14	1240414004
+#25	SNOMED T3	1240414004
+#26	SNOMED T4	1240414004
+#27	SNOMED T12	14799000
+#28	SNOMED T7	14799000

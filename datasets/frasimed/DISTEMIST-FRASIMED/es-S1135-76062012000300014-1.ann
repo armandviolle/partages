@@ -1,0 +1,28 @@
+T1	disease 37 47	paraplégie
+T2	disease 37 100	paraplégie secondaire à une blessure par balle à la vertèbre T1
+T3	disease 65 100	blessure par balle à la vertèbre T1
+T4	disease 217 247	atrophie des quatre extrémités
+T5	disease 251 269	ankylose des mains
+T6	disease 271 353	ulcères de décubitus avec tissu nécrotique au niveau du bitrocantéreo et du sacrum
+T7	disease 601 615	œdème cérébral
+T8	disease 703 784	dilatation discrète des cavités cardiaques droites et présence de thrombus muraux
+T9	disease 786 825	Adhérences pleurales et interlobulaires
+T10	disease 837 908	thromboembolie pulmonaire dans la branche gauche de l'artère pulmonaire
+T11	disease 1034 1054	infarctus pulmonaire
+T12	disease 1703 1728	thromboembolie pulmonaire
+T13	disease 1783 1812	infection des voies urinaires
+T14	disease 1849 1859	paraplégie
+#1	SNOMED T4	128605003
+#2	SNOMED T1	60389000
+#3	SNOMED T12	59282003
+#4	SNOMED T5	56923001
+#5	SNOMED T3	283545005
+#6	SNOMED T7	2032001
+#7	SNOMED T6	399912005
+#8	SNOMED T13	68566005
+#9	SNOMED T14	60389000
+#10	SNOMED T8	253350005+253522006+91335003
+#11	SNOMED T9	34038005
+#12	SNOMED T10	233935004
+#13	SNOMED T11	64662007
+#14	SNOMED T2	60389000+721428008

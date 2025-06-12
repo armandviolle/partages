@@ -1,0 +1,48 @@
+T1	morphology-onco 949 983	tumeur neuroectodermique primitive
+T2	morphology-onco 1422 1428	tumeur
+T3	morphology-onco 1517 1523	tumeur
+T4	morphology-onco 2833 2839	tumeur
+T5	morphology-onco 3440 3446	tumeur
+T6	morphology-onco 3726 3732	tumeur
+T7	morphology-onco 4650 4659	néoplasme
+T8	morphology-onco 4997 5031	tumeur neuroectodermique primitive
+T9	morphology-onco 5033 5037	PNET
+T10	morphology-onco 7190 7224	tumeur neuroectodermique primitive
+T11	morphology-onco 7226 7230	PNET
+T12	morphology-onco 7267 7271	PNET
+T13	morphology-onco 10716 10722	tumeur
+T14	morphology-onco 10812 10818	tumeur
+T15	morphology-onco 10911 10920	malignité
+T16	morphology-onco 11004 11013	malignité
+#1	ICD-O-3.1 T9	9364/3
+#2	ICD-O-3.1 T11	9364/3
+#3	ICD-O-3.1 T12	9364/3
+#4	ICD-O-3.1 T15	8000/3
+#5	ICD-O-3.1 T16	8000/3
+#6	ICD-O-3.1 T7	8000/1
+#7	ICD-O-3.1 T2	8000/1
+#8	ICD-O-3.1 T3	8000/1
+#9	ICD-O-3.1 T14	8000/1
+#10	ICD-O-3.1 T1	9473/3
+#11	ICD-O-3.1 T8	9473/3
+#12	ICD-O-3.1 T10	9473/3
+#13	ICD-O-3.1 T4	8000/1
+#14	ICD-O-3.1 T5	8000/1
+#15	ICD-O-3.1 T6	8000/1
+#16	ICD-O-3.1 T13	8000/1
+#17	SNOMED T9	254764001
+#18	SNOMED T11	254764001
+#19	SNOMED T12	254764001
+#20	SNOMED T15	1240414004
+#21	SNOMED T16	1240414004
+#22	SNOMED T7	86251006
+#23	SNOMED T2	86251006
+#24	SNOMED T3	86251006
+#25	SNOMED T14	86251006
+#26	SNOMED T1	55045006
+#27	SNOMED T8	55045006
+#28	SNOMED T10	55045006
+#29	SNOMED T4	86251006
+#30	SNOMED T5	86251006
+#31	SNOMED T6	86251006
+#32	SNOMED T13	86251006

@@ -1,0 +1,41 @@
+T1	morphology-onco 1065 1095	adénopathique sus-claviculaire
+T2	morphology-onco 1128 1161	carcinome pulmonaire microcytaire
+T3	morphology-onco 1479 1507	adénopathie sus-claviculaire
+T4	morphology-onco 2818 2827	néoplasie
+T5	morphology-onco 2963 2973	métastases
+T6	morphology-onco 3369 3407	lésion dans la région sus-claviculaire
+T7	morphology-onco 3417 3452	carcinome pulmonaire neuroendocrine
+T8	morphology-onco 3417 3471	carcinome pulmonaire neuroendocrine à petites cellules
+T9	morphology-onco 3473 3495	carcinome microcytaire
+T10	morphology-onco 3563 3644	carcinome microcytaire du poumon, maladie étendue avec atteinte supraclaviculaire
+T11	morphology-onco 3953 3986	carcinome pulmonaire microcytaire
+T12	morphology-onco 4855 4867	métastatique
+T13	morphology-onco 4901 4924	lésion rétropéritonéale
+T14	morphology-onco 4956 4966	métastases
+#1	ICD-O-3.1 T3	8000/6
+#2	ICD-O-3.1 T1	8000/6
+#3	ICD-O-3.1 T2	8041/3
+#4	ICD-O-3.1 T9	8041/3
+#5	ICD-O-3.1 T11	8041/3
+#6	ICD-O-3.1 T12	8000/6
+#7	ICD-O-3.1 T5	8000/6
+#8	ICD-O-3.1 T14	8000/6
+#9	ICD-O-3.1 T4	8000/1
+#10	ICD-O-3.1 T6	8000/6
+#11	ICD-O-3.1 T8	8041/3
+#12	ICD-O-3.1 T7	8246/3
+#13	ICD-O-3.1 T10	8041/6
+#14	ICD-O-3.1 T13	8000/6
+#15	SNOMED T3	14799000
+#16	SNOMED T1	14799000
+#17	SNOMED T2	11010461000119101
+#18	SNOMED T9	11010461000119101
+#19	SNOMED T11	11010461000119101
+#20	SNOMED T12	14799000
+#21	SNOMED T5	14799000
+#22	SNOMED T14	14799000
+#23	SNOMED T4	86251006
+#24	SNOMED T6	14799000
+#25	SNOMED T8	11010461000119101
+#26	SNOMED T7	55937004
+#27	SNOMED T13	14799000

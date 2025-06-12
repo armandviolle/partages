@@ -1,0 +1,74 @@
+T1	morphology-onco 1661 1670	métastase
+T2	morphology-onco 1805 1838	tumeur maligne à petites cellules
+T3	morphology-onco 1805 1912	tumeur maligne à petites cellules avec un taux de prolifération élevé et une différenciation neuroendocrine
+T4	morphology-onco 1958 1992	tumeur neuroectodermique primitive
+T5	morphology-onco 2012 2016	PNET
+T6	morphology-onco 2518 2533	solide kystique
+T7	morphology-onco 2859 2875	Atteinte osseuse
+T8	morphology-onco 2909 2927	lésions blastiques
+T9	morphology-onco 2949 2959	métastases
+T10	morphology-onco 3277 3287	métastases
+T11	morphology-onco 3695 3709	tumeur maligne
+T12	morphology-onco 3730 3734	PNET
+T13	morphology-onco 4016 4020	PNET
+T14	morphology-onco 4051 4091	Tumeur indifférenciée à petites cellules
+T15	morphology-onco 4102 4148	PNET extrasquelettique de stade IV (métastases
+T16	morphology-onco 4183 4216	infiltration de la moelle osseuse
+T17	morphology-onco 5204 5216	métastatique
+T18	morphology-onco 5733 5742	malignité
+T19	morphology-onco 5978 5982	PNET
+T20	morphology-onco 6730 6740	Métastases
+T21	morphology-onco 7047 7056	malignité
+T22	morphology-onco 7237 7252	néoprolifératif
+T23	morphology-onco 7351 7355	PNET
+T24	morphology-onco 7798 7813	tératome mature
+T25	morphology-onco 8224 8240	lésions osseuses
+#1	ICD-O-3.1 T7	8000/6
+#2	ICD-O-3.1 T20	8000/6
+#3	ICD-O-3.1 T5	9364/3
+#4	ICD-O-3.1 T12	9364/3
+#5	ICD-O-3.1 T13	9364/3
+#6	ICD-O-3.1 T19	9364/3
+#7	ICD-O-3.1 T23	9364/3
+#8	ICD-O-3.1 T16	8000/6
+#9	ICD-O-3.1 T8	8000/6
+#10	ICD-O-3.1 T25	8000/6
+#11	ICD-O-3.1 T18	8000/3
+#12	ICD-O-3.1 T21	8000/3
+#13	ICD-O-3.1 T17	8000/6
+#14	ICD-O-3.1 T1	8000/6
+#15	ICD-O-3.1 T9	8000/6
+#16	ICD-O-3.1 T10	8000/6
+#17	ICD-O-3.1 T22	8000/1
+#18	ICD-O-3.1 T24	9080/0
+#19	ICD-O-3.1 T11	8000/3
+#20	ICD-O-3.1 T4	9473/3
+#21	ICD-O-3.1 T3	8002/3/H
+#22	ICD-O-3.1 T2	8002/3
+#23	ICD-O-3.1 T6	8452/1
+#24	ICD-O-3.1 T14	8002/34
+#25	ICD-O-3.1 T15	9364/6
+#26	SNOMED T7	14799000
+#27	SNOMED T20	14799000
+#28	SNOMED T5	254764001
+#29	SNOMED T12	254764001
+#30	SNOMED T13	254764001
+#31	SNOMED T19	254764001
+#32	SNOMED T23	254764001
+#33	SNOMED T16	14799000
+#34	SNOMED T8	14799000
+#35	SNOMED T25	14799000
+#36	SNOMED T18	1240414004
+#37	SNOMED T21	1240414004
+#38	SNOMED T17	14799000
+#39	SNOMED T1	14799000
+#40	SNOMED T9	14799000
+#41	SNOMED T10	14799000
+#42	SNOMED T22	86251006
+#43	SNOMED T24	42717009
+#44	SNOMED T11	1240414004
+#45	SNOMED T4	55045006
+#46	SNOMED T3	82267002
+#47	SNOMED T2	82267002
+#48	SNOMED T6	27078002
+#49	SNOMED T14	82267002

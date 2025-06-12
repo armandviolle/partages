@@ -1,0 +1,48 @@
+T1	morphology-onco 227 233	tumeur
+T2	morphology-onco 405 411	Tumeur
+T3	morphology-onco 1054 1062	tumorale
+T4	morphology-onco 1088 1118	adénocarcinome peu différencié
+T5	morphology-onco 1399 1405	tumeur
+T6	morphology-onco 1473 1479	T4N2M1
+T7	morphology-onco 1481 1491	métastases
+T8	morphology-onco 1622 1652	Adénocarcinome peu différencié
+T9	morphology-onco 1719 1725	T4N2M1
+T10	morphology-onco 1727 1737	métastases
+T11	morphology-onco 2013 2021	tumorale
+T12	morphology-onco 2232 2265	tumeur primaire et les métastases
+T13	morphology-onco 2824 2855	tumorale locale et métastatique
+T14	morphology-onco 6132 6140	tumorale
+T15	morphology-onco 6203 6271	tumeur primaire avec une approche ultérieure de la maladie hépatique
+T16	morphology-onco 6590 6608	lésions hépatiques
+#1	ICD-O-3.1 T8	8140/33
+#2	ICD-O-3.1 T4	8140/33
+#3	ICD-O-3.1 T7	8000/6
+#4	ICD-O-3.1 T10	8000/6
+#5	ICD-O-3.1 T1	8000/1
+#6	ICD-O-3.1 T2	8000/1
+#7	ICD-O-3.1 T5	8000/1
+#8	ICD-O-3.1 T3	8000/1
+#9	ICD-O-3.1 T11	8000/1
+#10	ICD-O-3.1 T14	8000/1
+#11	ICD-O-3.1 T6	8000/6
+#12	ICD-O-3.1 T9	8000/6
+#13	ICD-O-3.1 T12	8000/6
+#14	ICD-O-3.1 T13	8000/6
+#15	ICD-O-3.1 T15	8000/6
+#16	ICD-O-3.1 T16	8000/6
+#17	SNOMED T8	1187332001
+#18	SNOMED T4	1187332001
+#19	SNOMED T7	14799000
+#20	SNOMED T10	14799000
+#21	SNOMED T1	86251006
+#22	SNOMED T2	86251006
+#23	SNOMED T5	86251006
+#24	SNOMED T3	86251006
+#25	SNOMED T11	86251006
+#26	SNOMED T14	86251006
+#27	SNOMED T6	14799000
+#28	SNOMED T9	14799000
+#29	SNOMED T12	14799000
+#30	SNOMED T13	14799000
+#31	SNOMED T15	14799000
+#32	SNOMED T16	14799000

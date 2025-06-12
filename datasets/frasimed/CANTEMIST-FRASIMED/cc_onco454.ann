@@ -1,0 +1,24 @@
+T1	morphology-onco 475 492	sarcome de Kaposi
+T2	morphology-onco 1803 1820	sarcome de Kaposi
+T3	morphology-onco 2037 2054	sarcome de Kaposi
+T4	morphology-onco 2517 2534	sarcome de Kaposi
+T5	morphology-onco 2732 2749	sarcome de Kaposi
+T6	morphology-onco 2987 3004	sarcome de Kaposi
+T7	morphology-onco 3337 3354	sarcome de Kaposi
+T8	morphology-onco 3815 3832	sarcome de Kaposi
+#1	ICD-O-3.1 T1	9140/3
+#2	ICD-O-3.1 T2	9140/3
+#3	ICD-O-3.1 T3	9140/3
+#4	ICD-O-3.1 T4	9140/3
+#5	ICD-O-3.1 T5	9140/3
+#6	ICD-O-3.1 T6	9140/3
+#7	ICD-O-3.1 T7	9140/3
+#8	ICD-O-3.1 T8	9140/3
+#9	SNOMED T1	1179374007
+#10	SNOMED T2	1179374007
+#11	SNOMED T3	1179374007
+#12	SNOMED T4	1179374007
+#13	SNOMED T5	1179374007
+#14	SNOMED T6	1179374007
+#15	SNOMED T7	1179374007
+#16	SNOMED T8	1179374007

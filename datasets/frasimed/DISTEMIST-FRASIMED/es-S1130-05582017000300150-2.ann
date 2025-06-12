@@ -1,0 +1,6 @@
+T1	disease 248 302	détruit une partie du corps et la branche mandibulaire
+T2	disease 401 438	améloblastome plexiforme mandibulaire
+T3	disease 498 504	lésion
+#1	SNOMED T2	285311001
+#2	SNOMED T1	128233005
+#3	SNOMED T3	417163006

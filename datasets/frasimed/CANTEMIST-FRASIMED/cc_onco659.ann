@@ -1,0 +1,39 @@
+T1	morphology-onco 277 283	cancer
+T2	morphology-onco 345 351	cancer
+T3	morphology-onco 389 395	cancer
+T4	morphology-onco 649 667	lésions hépatiques
+T5	morphology-onco 681 691	métastases
+T6	morphology-onco 1214 1223	néoplasie
+T7	morphology-onco 1291 1301	métastases
+T8	morphology-onco 2405 2460	métastase d'une tumeur neuroendocrine bien différenciée
+T9	morphology-onco 3648 3658	carcinoïde
+T10	morphology-onco 4905 4914	néoplasie
+T11	morphology-onco 4983 4993	métastases
+T12	morphology-onco 5076 5132	métastases d'une tumeur neuroendocrine bien différenciée
+T13	morphology-onco 5785 5795	carcinoïde
+T14	morphology-onco 5810 5886	tumeur neuroendocrine d'origine intestinale probable avec atteinte hépatique
+#1	ICD-O-3.1 T9	8240/3
+#2	ICD-O-3.1 T13	8240/3
+#3	ICD-O-3.1 T1	8000/3
+#4	ICD-O-3.1 T3	8000/3
+#5	ICD-O-3.1 T2	8000/3
+#6	ICD-O-3.1 T4	8000/6
+#7	ICD-O-3.1 T5	8000/6
+#8	ICD-O-3.1 T7	8000/6
+#9	ICD-O-3.1 T11	8000/6
+#10	ICD-O-3.1 T8	8240/6
+#11	ICD-O-3.1 T12	8240/6
+#12	ICD-O-3.1 T6	8000/1
+#13	ICD-O-3.1 T10	8000/1
+#14	ICD-O-3.1 T14	8240/6
+#15	SNOMED T9	189607006
+#16	SNOMED T13	189607006
+#17	SNOMED T1	1240414004
+#18	SNOMED T3	1240414004
+#19	SNOMED T2	1240414004
+#20	SNOMED T4	14799000
+#21	SNOMED T5	14799000
+#22	SNOMED T7	14799000
+#23	SNOMED T11	14799000
+#24	SNOMED T6	86251006
+#25	SNOMED T10	86251006

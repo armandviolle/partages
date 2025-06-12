@@ -1,0 +1,74 @@
+T1	morphology-onco 279 281	Ca
+T2	morphology-onco 305 311	cancer
+T3	morphology-onco 367 373	cancer
+T4	morphology-onco 424 426	Ca
+T5	morphology-onco 437 439	Ca
+T6	morphology-onco 1579 1602	lésions blastiques à L1
+T7	morphology-onco 2105 2132	atteinte du corps vertébral
+T8	morphology-onco 2175 2192	expansion osseuse
+T9	morphology-onco 2380 2402	atteinte de l'apophyse
+T10	morphology-onco 2426 2450	foyers nodulaires en D11
+T11	morphology-onco 2464 2473	métastase
+T12	morphology-onco 2693 2749	carcinome canalaire infiltrant de grade II de Nottingham
+T13	morphology-onco 2942 2961	nodules pulmonaires
+T14	morphology-onco 3069 3133	lésions à prédominance lytique dans la jonction chondro-sternale
+T15	morphology-onco 3304 3350	carcinome canalaire infiltrant du sein cT4NxM1
+T16	morphology-onco 5154 5169	lésion tumorale
+T17	morphology-onco 5599 5605	tumeur
+T18	morphology-onco 5681 5689	tumorale
+T19	morphology-onco 6227 6247	implants péritonéaux
+T20	morphology-onco 6281 6287	tumeur
+T21	morphology-onco 6554 6581	carcinome papillaire séreux
+T22	morphology-onco 6704 6724	implants péritonéaux
+T23	morphology-onco 6802 6808	cancer
+T24	morphology-onco 6926 6932	cancer
+T25	morphology-onco 6980 6989	néoplasme
+#1	ICD-O-3.1 T21	8461/3
+#2	ICD-O-3.1 T19	8000/6
+#3	ICD-O-3.1 T22	8000/6
+#4	ICD-O-3.1 T11	8000/6
+#5	ICD-O-3.1 T25	8000/1
+#6	ICD-O-3.1 T13	8000/6
+#7	ICD-O-3.1 T20	8000/1
+#8	ICD-O-3.1 T16	8000/1
+#9	ICD-O-3.1 T17	8000/1
+#10	ICD-O-3.1 T18	8000/1
+#11	ICD-O-3.1 T1	8000/3
+#12	ICD-O-3.1 T2	8000/3
+#13	ICD-O-3.1 T3	8000/3
+#14	ICD-O-3.1 T4	8000/3
+#15	ICD-O-3.1 T5	8000/3
+#16	ICD-O-3.1 T6	8000/6
+#17	ICD-O-3.1 T9	8000/6
+#18	ICD-O-3.1 T10	8000/6
+#19	ICD-O-3.1 T7	8000/6
+#20	ICD-O-3.1 T8	8000/6
+#21	ICD-O-3.1 T12	8500/32
+#22	ICD-O-3.1 T14	8000/6
+#23	ICD-O-3.1 T15	8500/6
+#24	ICD-O-3.1 T23	8000/3
+#25	ICD-O-3.1 T24	8000/3
+#26	SNOMED T21	716649003
+#27	SNOMED T19	14799000
+#28	SNOMED T22	14799000
+#29	SNOMED T11	14799000
+#30	SNOMED T25	86251006
+#31	SNOMED T13	14799000
+#32	SNOMED T20	86251006
+#33	SNOMED T16	86251006
+#34	SNOMED T17	86251006
+#35	SNOMED T18	86251006
+#36	SNOMED T1	1240414004
+#37	SNOMED T2	1240414004
+#38	SNOMED T3	1240414004
+#39	SNOMED T4	1240414004
+#40	SNOMED T5	1240414004
+#41	SNOMED T6	14799000
+#42	SNOMED T9	14799000
+#43	SNOMED T10	14799000
+#44	SNOMED T7	14799000
+#45	SNOMED T8	14799000
+#46	SNOMED T12	58477004
+#47	SNOMED T14	14799000
+#48	SNOMED T23	1240414004
+#49	SNOMED T24	1240414004

@@ -1,0 +1,36 @@
+T1	morphology-onco 1681 1694	métastatiques
+T2	morphology-onco 1887 1901	adénocarcinome
+T3	morphology-onco 1979 1993	adénocarcinome
+T4	morphology-onco 2441 2474	nodules parenchymateux bilatéraux
+T5	morphology-onco 4250 4298	nodules/consolidations parenchymateux bilatéraux
+T6	morphology-onco 4320 4330	métastases
+T7	morphology-onco 4405 4431	lymphangite carcinomateuse
+T8	morphology-onco 4617 4641	dissémination à distance
+T9	morphology-onco 4655 4669	Adénocarcinome
+T10	morphology-onco 4900 4935	Progression de la tumeur pulmonaire
+T11	morphology-onco 5598 5653	progression significative de la tumeur dans les poumons
+T12	morphology-onco 6283 6300	lésions pleurales
+#1	ICD-O-3.1 T9	8140/3
+#2	ICD-O-3.1 T10	8000/6
+#3	ICD-O-3.1 T2	8140/3
+#4	ICD-O-3.1 T3	8140/3
+#5	ICD-O-3.1 T8	8000/6
+#6	ICD-O-3.1 T12	8000/6
+#7	ICD-O-3.1 T7	8000/3
+#8	ICD-O-3.1 T1	8000/6
+#9	ICD-O-3.1 T6	8000/6
+#10	ICD-O-3.1 T11	8000/6
+#11	ICD-O-3.1 T4	8000/6
+#12	ICD-O-3.1 T5	8000/6
+#13	SNOMED T9	1187332001
+#14	SNOMED T10	14799000
+#15	SNOMED T2	1187332001
+#16	SNOMED T3	1187332001
+#17	SNOMED T8	14799000
+#18	SNOMED T12	14799000
+#19	SNOMED T7	1240414004
+#20	SNOMED T1	14799000
+#21	SNOMED T6	14799000
+#22	SNOMED T11	14799000
+#23	SNOMED T4	14799000
+#24	SNOMED T5	14799000

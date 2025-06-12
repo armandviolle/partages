@@ -1,0 +1,35 @@
+T1	morphology-onco 591 614	tumorale solide maligne
+T2	morphology-onco 810 838	adénopathie sus-claviculaire
+T3	morphology-onco 1645 1658	métastatiques
+T4	morphology-onco 1827 1836	malignité
+T5	morphology-onco 2025 2034	malignité
+T6	morphology-onco 2191 2198	maligne
+T7	morphology-onco 2488 2541	tumeur maligne des cordons sexuels / stroma gonadique
+T8	morphology-onco 2573 2637	tumoraux à cellules de Sertoli, stroma gonadique peu différencié
+T9	morphology-onco 2687 2722	tumoraux à cellules de la granulosa
+T10	morphology-onco 2727 2736	malignité
+T11	morphology-onco 3011 3081	Tumeur du cordon sexuel/stroma gonadique malin (OMS 2004) pT3 cN1 cM1a
+T12	morphology-onco 4248 4272	lésion ostéolytique à L5
+#1	ICD-O-3.1 T9	8620/1
+#2	ICD-O-3.1 T1	8000/3
+#3	ICD-O-3.1 T8	8631/3
+#4	ICD-O-3.1 T7	8590/1
+#5	ICD-O-3.1 T11	8590/6
+#6	ICD-O-3.1 T10	8000/3
+#7	ICD-O-3.1 T2	8000/6
+#8	ICD-O-3.1 T3	8000/6
+#9	ICD-O-3.1 T4	8000/3
+#10	ICD-O-3.1 T5	8000/3
+#11	ICD-O-3.1 T6	8000/3
+#12	ICD-O-3.1 T12	8000/6
+#13	SNOMED T9	46585005
+#14	SNOMED T1	1240414004
+#15	SNOMED T8	128906004
+#16	SNOMED T7	237058000
+#17	SNOMED T10	1240414004
+#18	SNOMED T2	14799000
+#19	SNOMED T3	14799000
+#20	SNOMED T4	1240414004
+#21	SNOMED T5	1240414004
+#22	SNOMED T6	1240414004
+#23	SNOMED T12	14799000

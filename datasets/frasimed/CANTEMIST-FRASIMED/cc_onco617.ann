@@ -1,0 +1,9 @@
+T1	morphology-onco 3095 3103	tumorale
+T2	morphology-onco 3575 3588	Gliome diffus
+T3	morphology-onco 5728 5741	gliome diffus
+#1	ICD-O-3.1 T1	8000/1
+#2	ICD-O-3.1 T2	9380/3/H
+#3	ICD-O-3.1 T3	9380/3/H
+#4	SNOMED T1	86251006
+#5	SNOMED T2	74532006
+#6	SNOMED T3	74532006

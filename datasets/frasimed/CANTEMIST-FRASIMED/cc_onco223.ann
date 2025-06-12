@@ -1,0 +1,24 @@
+T1	morphology-onco 427 441	adénocarcinome
+T2	morphology-onco 466 468	M0
+T3	morphology-onco 694 708	adénocarcinome
+T4	morphology-onco 844 885	adénocarcinome bien différencié de 2,4 cm
+T5	morphology-onco 2482 2499	cellules malignes
+T6	morphology-onco 2712 2726	Adénocarcinome
+T7	morphology-onco 3057 3066	néoplasme
+T8	morphology-onco 3477 3494	cellules malignes
+#1	ICD-O-3.1 T1	8140/3
+#2	ICD-O-3.1 T3	8140/3
+#3	ICD-O-3.1 T6	8140/3
+#4	ICD-O-3.1 T2	8000/6
+#5	ICD-O-3.1 T5	8001/3
+#6	ICD-O-3.1 T8	8001/3
+#7	ICD-O-3.1 T7	8000/1
+#8	ICD-O-3.1 T4	8140/31
+#9	SNOMED T1	1187332001
+#10	SNOMED T3	1187332001
+#11	SNOMED T6	1187332001
+#12	SNOMED T2	14799000
+#13	SNOMED T5	88400008
+#14	SNOMED T8	88400008
+#15	SNOMED T7	86251006
+#16	SNOMED T4	1187332001

@@ -1,0 +1,20 @@
+T1	disease 68 90	carie de la dent n° 37
+T2	disease 646 652	caries
+T3	disease 952 958	lésion
+T4	disease 1397 1418	réactions allergiques
+T5	disease 1684 1690	lésion
+T6	disease 1724 1730	lésion
+T7	disease 1838 1844	lésion
+T8	disease 2416 2434	lichen plan buccal
+T9	disease 2537 2561	dermatite aiguë-subaiguë
+T10	disease 2589 2595	lésion
+#1	SNOMED T1	80967001
+#2	SNOMED T2	80967001
+#3	SNOMED T8	235049008
+#4	SNOMED T9	53107009
+#5	SNOMED T4	419076005
+#6	SNOMED T3	417163006
+#7	SNOMED T5	417163006
+#8	SNOMED T6	417163006
+#9	SNOMED T7	417163006
+#10	SNOMED T10	417163006

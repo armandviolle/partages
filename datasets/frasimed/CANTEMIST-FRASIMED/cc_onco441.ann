@@ -1,0 +1,26 @@
+T1	morphology-onco 102 108	cancer
+T2	morphology-onco 189 195	cancer
+T3	morphology-onco 801 804	TNE
+T4	morphology-onco 801 818	TNE fonctionnelle
+T5	morphology-onco 827 840	paragangliome
+T6	morphology-onco 979 992	paragangliome
+T7	morphology-onco 1292 1305	paragangliome
+T8	morphology-onco 1482 1491	métastase
+T9	morphology-onco 2997 3093	paragangliome extra-surrénalien de localisation abdominale, fonctionnel, de stade IV (métastases
+#1	ICD-O-3.1 T3	8240/3
+#2	ICD-O-3.1 T1	8000/3
+#3	ICD-O-3.1 T2	8000/3
+#4	ICD-O-3.1 T8	8000/6
+#5	ICD-O-3.1 T5	8680/1
+#6	ICD-O-3.1 T6	8680/1
+#7	ICD-O-3.1 T7	8680/1
+#8	ICD-O-3.1 T4	8158/1
+#9	ICD-O-3.1 T9	8693/6
+#10	SNOMED T3	189607006
+#11	SNOMED T1	1240414004
+#12	SNOMED T2	1240414004
+#13	SNOMED T8	14799000
+#14	SNOMED T5	302833002
+#15	SNOMED T6	302833002
+#16	SNOMED T7	302833002
+#17	SNOMED T4	450891001

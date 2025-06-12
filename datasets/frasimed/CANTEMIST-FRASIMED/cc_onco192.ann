@@ -1,0 +1,65 @@
+T1	morphology-onco 432 446	adénocarcinome
+T2	morphology-onco 607 621	adénocarcinome
+T3	morphology-onco 642 644	M0
+T4	morphology-onco 1456 1507	Métastase rétrooculaire d'une tumeur neuroendocrine
+T5	morphology-onco 1509 1512	TNE
+T6	morphology-onco 1786 1805	lésion métastatique
+T7	morphology-onco 2031 2034	CID
+T8	morphology-onco 2153 2155	M0
+T9	morphology-onco 3307 3316	malignité
+T10	morphology-onco 3369 3407	tumeur neuroendocrine (TNE) de type G1
+T11	morphology-onco 3392 3395	TNE
+T12	morphology-onco 3703 3706	NER
+T13	morphology-onco 3976 3979	TNE
+T14	morphology-onco 4337 4351	TNE de grade I
+T15	morphology-onco 4523 4526	TNE
+T16	morphology-onco 4615 4621	TNE G1
+T17	morphology-onco 4689 4692	TNE
+T18	morphology-onco 4970 5017	tumeur aux caractéristiques neuroendocriniennes
+T19	morphology-onco 5244 5276	nodule rétro-orbitaire de 1,2 cm
+T20	morphology-onco 5470 5473	NER
+T21	morphology-onco 5651 5703	nodule persistant situé en arrière du globe oculaire
+T22	morphology-onco 5908 5910	M1
+#1	ICD-O-3.1 T7	8500/3
+#2	ICD-O-3.1 T3	8000/6
+#3	ICD-O-3.1 T8	8000/6
+#4	ICD-O-3.1 T22	8000/6
+#5	ICD-O-3.1 T1	8140/3
+#6	ICD-O-3.1 T2	8140/3
+#7	ICD-O-3.1 T9	8000/3
+#8	ICD-O-3.1 T6	8000/6
+#9	ICD-O-3.1 T10	8240/31
+#10	ICD-O-3.1 T4	8240/6
+#11	ICD-O-3.1 T5	8240/3
+#12	ICD-O-3.1 T11	8240/3
+#13	ICD-O-3.1 T12	8240/3
+#14	ICD-O-3.1 T13	8240/3
+#15	ICD-O-3.1 T14	8240/31
+#16	ICD-O-3.1 T15	8240/3
+#17	ICD-O-3.1 T16	8240/31
+#18	ICD-O-3.1 T17	8240/3
+#19	ICD-O-3.1 T18	8240/3
+#20	ICD-O-3.1 T20	8240/3
+#21	ICD-O-3.1 T19	8000/6
+#22	ICD-O-3.1 T21	8000/6
+#23	SNOMED T7	58477004
+#24	SNOMED T3	14799000
+#25	SNOMED T8	14799000
+#26	SNOMED T22	14799000
+#27	SNOMED T1	1187332001
+#28	SNOMED T2	1187332001
+#29	SNOMED T9	1240414004
+#30	SNOMED T6	14799000
+#31	SNOMED T10	189607006
+#32	SNOMED T5	189607006
+#33	SNOMED T11	189607006
+#34	SNOMED T12	189607006
+#35	SNOMED T13	189607006
+#36	SNOMED T14	189607006
+#37	SNOMED T15	189607006
+#38	SNOMED T16	189607006
+#39	SNOMED T17	189607006
+#40	SNOMED T18	189607006
+#41	SNOMED T20	189607006
+#42	SNOMED T19	14799000
+#43	SNOMED T21	14799000

@@ -1,0 +1,12 @@
+T1	disease 44 49	lupus
+T2	disease 53 61	hépatite
+T3	disease 214 222	fistules
+T4	disease 1069 1139	fistule artério-caverneuse dans la partie proximale du corps caverneux
+T5	disease 1183 1209	fistule artério-caverneuse
+T6	disease 1320 1351	priapisme artériel à haut débit
+#1	SNOMED T5	300514006
+#2	SNOMED T1	76272004
+#3	SNOMED T2	128241005
+#4	SNOMED T6	441545004
+#5	SNOMED T3	428794004
+#6	SNOMED T4	33958003

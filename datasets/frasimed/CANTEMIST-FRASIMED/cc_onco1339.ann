@@ -1,0 +1,29 @@
+T1	morphology-onco 357 381	carcinome basocellulaire
+T2	morphology-onco 1138 1154	Lésions lytiques
+T3	morphology-onco 1616 1630	lésion osseuse
+T4	morphology-onco 1751 1767	lésions osseuses
+T5	morphology-onco 1850 1858	malignes
+T6	morphology-onco 1923 1947	métastase d'un carcinome
+T7	morphology-onco 2006 2030	carcinome basocellulaire
+T8	morphology-onco 2044 2083	Métastase d'un carcinome basocellulaire
+T9	morphology-onco 2085 2088	CBC
+T10	morphology-onco 2337 2379	lésions lytiques des 6e et 8e arcs costaux
+#1	ICD-O-3.1 T2	8000/6
+#2	ICD-O-3.1 T1	8090/3
+#3	ICD-O-3.1 T7	8090/3
+#4	ICD-O-3.1 T4	8000/6
+#5	ICD-O-3.1 T3	8000/6
+#6	ICD-O-3.1 T5	8000/3
+#7	ICD-O-3.1 T6	8010/6
+#8	ICD-O-3.1 T8	8090/6
+#9	ICD-O-3.1 T9	8090/3
+#10	ICD-O-3.1 T10	8000/6
+#11	SNOMED T2	14799000
+#12	SNOMED T1	1338007
+#13	SNOMED T7	1338007
+#14	SNOMED T4	14799000
+#15	SNOMED T3	14799000
+#16	SNOMED T5	1240414004
+#17	SNOMED T6	79282002
+#18	SNOMED T9	1338007
+#19	SNOMED T10	14799000

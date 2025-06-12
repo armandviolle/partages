@@ -1,0 +1,44 @@
+T1	morphology-onco 895 901	tumeur
+T2	morphology-onco 1083 1093	métastases
+T3	morphology-onco 1132 1142	métastases
+T4	morphology-onco 1462 1494	lymphome folliculaire de grade 2
+T5	morphology-onco 1553 1568	lésion tumorale
+T6	morphology-onco 1595 1631	carcinome neuroendocrine anaplasique
+T7	morphology-onco 1651 1681	carcinome à cellules de Merkel
+T8	morphology-onco 1695 1772	Carcinome à cellules de Merkel de stade IV en raison d'une atteinte hépatique
+T9	morphology-onco 1807 1828	lymphome folliculaire
+T10	morphology-onco 1875 1878	MBC
+T11	morphology-onco 1879 1891	métastatique
+T12	morphology-onco 2348 2354	tumeur
+T13	morphology-onco 2676 2684	tumorale
+T14	morphology-onco 2941 2956	lésion tumorale
+T15	morphology-onco 4226 4232	tumeur
+#1	ICD-O-3.1 T11	8000/6
+#2	ICD-O-3.1 T2	8000/6
+#3	ICD-O-3.1 T3	8000/6
+#4	ICD-O-3.1 T1	8000/1
+#5	ICD-O-3.1 T12	8000/1
+#6	ICD-O-3.1 T5	8000/1
+#7	ICD-O-3.1 T13	8000/1
+#8	ICD-O-3.1 T14	8000/1
+#9	ICD-O-3.1 T15	8000/1
+#10	ICD-O-3.1 T4	9691/3
+#11	ICD-O-3.1 T7	8247/3
+#12	ICD-O-3.1 T6	8246/34
+#13	ICD-O-3.1 T8	8247/6
+#14	ICD-O-3.1 T9	9690/3
+#15	ICD-O-3.1 T10	8000/6
+#16	SNOMED T11	14799000
+#17	SNOMED T2	14799000
+#18	SNOMED T3	14799000
+#19	SNOMED T1	86251006
+#20	SNOMED T12	86251006
+#21	SNOMED T5	86251006
+#22	SNOMED T13	86251006
+#23	SNOMED T14	86251006
+#24	SNOMED T15	86251006
+#25	SNOMED T4	55020008
+#26	SNOMED T7	5052009
+#27	SNOMED T6	55937004
+#28	SNOMED T9	55150002
+#29	SNOMED T10	14799000

@@ -1,0 +1,28 @@
+T1	disease 52 138	adénocarcinome gastrique sous-cardiaque avec atteinte de la jonction œsophagogastrique
+T2	disease 177 194	liquide ascitique
+T3	disease 645 660	kyste hépatique
+T4	disease 751 765	fuite biliaire
+T5	disease 844 879	collection dans l'hypochondre droit
+T6	disease 1952 1964	rectorragies
+T7	disease 2070 2087	rupture splénique
+T8	disease 2095 2138	fistule oesophagojéjunale périanastomotique
+T9	disease 2282 2311	collections intra-abdominales
+T10	disease 2331 2360	épanchement pleural bilatéral
+T11	disease 2516 2552	thromboembolie pulmonaire bilatérale
+T12	disease 2560 2582	infection respiratoire
+T13	disease 2777 2800	obstruction intestinale
+T14	disease 2818 2843	carcinomatose péritonéale
+#1	SNOMED T1	187734007
+#2	SNOMED T12	275498002
+#3	SNOMED T3	85057007
+#4	SNOMED T7	234506007
+#5	SNOMED T8	405567008
+#6	SNOMED T13	81060008
+#7	SNOMED T4	235932003
+#8	SNOMED T14	255121007
+#9	SNOMED T5	235993005
+#10	SNOMED T9	235993005
+#11	SNOMED T10	425802001
+#12	SNOMED T6	12063002
+#13	SNOMED T2	13124004
+#14	SNOMED T11	233935004

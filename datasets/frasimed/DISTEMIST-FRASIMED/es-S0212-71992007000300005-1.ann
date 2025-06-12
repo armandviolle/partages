@@ -1,0 +1,22 @@
+T1	disease 73 82	ex-fumeur
+T2	disease 114 132	aortique bicuspide
+T3	disease 215 264	diverticulite sigmoïdienne aiguë avec perforation
+T4	disease 268 278	péritonite
+T5	disease 330 379	thrombose veineuse profonde (TVP) fémoro-poplitée
+T6	disease 359 362	TVP
+T7	disease 486 515	syndrome d'hypercoagulabilité
+T8	disease 2135 2153	aortique bicuspide
+T9	disease 2521 2546	thromboembolie pulmonaire
+T10	disease 3860 3900	syndrome primaire des antiphospholipides
+T11	disease 3906 3927	hémorragie pulmonaire
+#1	SNOMED T1	8517006
+#2	SNOMED T2	72352009
+#3	SNOMED T4	48661000
+#4	SNOMED T5	703277001
+#5	SNOMED T7	234467004
+#6	SNOMED T8	72352009
+#7	SNOMED T9	59282003
+#8	SNOMED T10	239892009
+#9	SNOMED T11	78144005
+#10	SNOMED T3	110429003
+#11	SNOMED T6	128053003

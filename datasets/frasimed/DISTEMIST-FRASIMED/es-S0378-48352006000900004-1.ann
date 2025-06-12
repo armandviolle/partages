@@ -1,0 +1,16 @@
+T1	disease 50 54	BPCO
+T2	disease 56 62	fumeur
+T3	disease 83 96	buveur modéré
+T4	disease 496 521	infiltration médiastinale
+T5	disease 1101 1113	plasmocytome
+T6	disease 1224 1239	tumeur sternale
+T7	disease 1606 1612	tumeur
+T8	disease 1640 1665	infiltration médiastinale
+#1	SNOMED T1	13645005
+#2	SNOMED T2	77176002
+#3	SNOMED T8	94409002
+#4	SNOMED T5	415112005
+#5	SNOMED T4	94409002
+#6	SNOMED T3	7200002
+#7	SNOMED T6	126559003
+#8	SNOMED T7	55342001

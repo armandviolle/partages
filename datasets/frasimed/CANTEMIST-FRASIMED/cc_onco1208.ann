@@ -1,0 +1,9 @@
+T1	morphology-onco 59 73	adénocarcinome
+T2	morphology-onco 100 106	T3N2M0
+T3	morphology-onco 2878 2892	adénocarcinome
+#1	ICD-O-3.1 T2	8000/6
+#2	ICD-O-3.1 T1	8140/3
+#3	ICD-O-3.1 T3	8140/3
+#4	SNOMED T2	14799000
+#5	SNOMED T1	1187332001
+#6	SNOMED T3	1187332001

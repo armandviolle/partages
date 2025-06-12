@@ -1,0 +1,42 @@
+T1	morphology-onco 276 297	carcinome épidermoïde
+T2	morphology-onco 441 450	néoplasme
+T3	morphology-onco 709 731	carcinome microcytaire
+T4	morphology-onco 743 750	cT3N3M0
+T5	morphology-onco 1592 1601	malignité
+T6	morphology-onco 1935 1944	néoplasie
+T7	morphology-onco 2185 2196	néoplasique
+T8	morphology-onco 2910 2919	malignité
+T9	morphology-onco 3129 3138	malignité
+T10	morphology-onco 3194 3216	Carcinome microcytaire
+T11	morphology-onco 3234 3241	ct3n3m0
+T12	morphology-onco 3244 3265	Carcinome épidermoïde
+T13	morphology-onco 3999 4034	maladie dans les poumons, la plèvre
+T14	morphology-onco 4598 4609	néoplasique
+#1	ICD-O-3.1 T12	8070/3
+#2	ICD-O-3.1 T10	8041/3
+#3	ICD-O-3.1 T1	8070/3
+#4	ICD-O-3.1 T3	8041/3
+#5	ICD-O-3.1 T5	8000/3
+#6	ICD-O-3.1 T8	8000/3
+#7	ICD-O-3.1 T9	8000/3
+#8	ICD-O-3.1 T2	8000/1
+#9	ICD-O-3.1 T6	8000/1
+#10	ICD-O-3.1 T14	8000/1
+#11	ICD-O-3.1 T7	8000/1
+#12	ICD-O-3.1 T4	8000/6
+#13	ICD-O-3.1 T11	8000/6
+#14	ICD-O-3.1 T13	8000/6
+#15	SNOMED T12	1162767002
+#16	SNOMED T10	11010461000119101
+#17	SNOMED T1	1162767002
+#18	SNOMED T3	11010461000119101
+#19	SNOMED T5	1240414004
+#20	SNOMED T8	1240414004
+#21	SNOMED T9	1240414004
+#22	SNOMED T2	86251006
+#23	SNOMED T6	86251006
+#24	SNOMED T14	86251006
+#25	SNOMED T7	86251006
+#26	SNOMED T4	14799000
+#27	SNOMED T11	14799000
+#28	SNOMED T13	14799000

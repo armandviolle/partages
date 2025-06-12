@@ -1,0 +1,69 @@
+T1	morphology-onco 585 594	néoplasie
+T2	morphology-onco 616 640	tumeur non séminomateuse
+T3	morphology-onco 847 853	Tumeur
+T4	morphology-onco 1180 1202	Masse rétropéritonéale
+T5	morphology-onco 1525 1559	tumeur germinale non séminomateuse
+T6	morphology-onco 1679 1713	tumeur germinale non séminomateuse
+T7	morphology-onco 2006 2040	tumeur neuroectodermique primitive
+T8	morphology-onco 2049 2067	médulloépithéliome
+T9	morphology-onco 2083 2089	tumeur
+T10	morphology-onco 2107 2135	tumeur du sinus endodermique
+T11	morphology-onco 2107 2181	tumeur du sinus endodermique de type microkystique et de variété hépatoïde
+T12	morphology-onco 2369 2391	carcinome embryonnaire
+T13	morphology-onco 2395 2403	séminome
+T14	morphology-onco 2441 2494	tumeurs des sinus endodermiques de type microkystique
+T15	morphology-onco 2518 2532	type hépatoïde
+T16	morphology-onco 2562 2566	PNET
+T17	morphology-onco 2645 2679	Tumeur neuroectodermique primitive
+T18	morphology-onco 2683 2701	médulloépithéliome
+T19	morphology-onco 2741 2766	atteinte rétropéritonéale
+T20	morphology-onco 3195 3199	PNET
+T21	morphology-onco 3606 3628	masse rétropéritonéale
+T22	morphology-onco 4115 4121	tumeur
+T23	morphology-onco 4359 4381	masse rétropéritonéale
+#1	ICD-O-3.1 T4	8000/6
+#2	ICD-O-3.1 T16	9364/3
+#3	ICD-O-3.1 T20	9364/3
+#4	ICD-O-3.1 T17	9473/3
+#5	ICD-O-3.1 T3	8000/1
+#6	ICD-O-3.1 T12	9070/3
+#7	ICD-O-3.1 T21	8000/6
+#8	ICD-O-3.1 T23	8000/6
+#9	ICD-O-3.1 T1	8000/1
+#10	ICD-O-3.1 T13	9061/3
+#11	ICD-O-3.1 T9	8000/1
+#12	ICD-O-3.1 T10	9071/3
+#13	ICD-O-3.1 T14	9071/3/H
+#14	ICD-O-3.1 T5	9065/3
+#15	ICD-O-3.1 T7	9473/3
+#16	ICD-O-3.1 T22	8000/1
+#17	ICD-O-3.1 T2	9065/3
+#18	ICD-O-3.1 T6	9065/3
+#19	ICD-O-3.1 T8	9501/3
+#20	ICD-O-3.1 T11	9071/3/H
+#21	ICD-O-3.1 T15	9071/3
+#22	ICD-O-3.1 T18	9501/3
+#23	ICD-O-3.1 T19	8000/6
+#24	SNOMED T4	14799000
+#25	SNOMED T16	254764001
+#26	SNOMED T20	254764001
+#27	SNOMED T17	55045006
+#28	SNOMED T3	86251006
+#29	SNOMED T12	28047004
+#30	SNOMED T21	14799000
+#31	SNOMED T23	14799000
+#32	SNOMED T1	86251006
+#33	SNOMED T13	1162765005
+#34	SNOMED T9	86251006
+#35	SNOMED T10	74409009
+#36	SNOMED T14	74409009
+#37	SNOMED T5	128766005
+#38	SNOMED T7	55045006
+#39	SNOMED T22	86251006
+#40	SNOMED T2	128766005
+#41	SNOMED T6	128766005
+#42	SNOMED T8	818967003
+#43	SNOMED T11	74409009
+#44	SNOMED T15	74409009
+#45	SNOMED T18	818967003
+#46	SNOMED T19	14799000

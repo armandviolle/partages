@@ -1,0 +1,77 @@
+T1	morphology-onco 596 605	néoplasie
+T2	morphology-onco 657 666	néoplasie
+T3	morphology-onco 1533 1549	masse pulmonaire
+T4	morphology-onco 1575 1594	nodules pulmonaires
+T5	morphology-onco 2032 2045	métastatiques
+T6	morphology-onco 2383 2405	tumeur germinale mixte
+T7	morphology-onco 2443 2471	tumeur du sinus endodermique
+T8	morphology-onco 2473 2485	sac vitellin
+T9	morphology-onco 2493 2508	tératome mature
+T10	morphology-onco 2914 2920	tumeur
+T11	morphology-onco 2928 2947	nodules pulmonaires
+T12	morphology-onco 3182 3204	tumeur germinale mixte
+T13	morphology-onco 3225 3253	tumeur du sinus endodermique
+T14	morphology-onco 3255 3267	sac vitellin
+T15	morphology-onco 3276 3291	tératome mature
+T16	morphology-onco 3413 3432	nodules pulmonaires
+T17	morphology-onco 3456 3513	métastases pulmonaires de la tumeur du sinus endodermique
+T18	morphology-onco 4082 4088	tumeur
+T19	morphology-onco 4242 4252	métastases
+T20	morphology-onco 5061 5078	nodule pulmonaire
+T21	morphology-onco 5089 5105	lésion hépatique
+T22	morphology-onco 5552 5569	masses pariétales
+T23	morphology-onco 5791 5812	progression cérébrale
+T24	morphology-onco 6324 6337	métastatiques
+T25	morphology-onco 6476 6488	métastatique
+T26	morphology-onco 6999 7008	métastase
+#1	ICD-O-3.1 T21	8000/6
+#2	ICD-O-3.1 T3	8000/6
+#3	ICD-O-3.1 T25	8000/6
+#4	ICD-O-3.1 T5	8000/6
+#5	ICD-O-3.1 T24	8000/6
+#6	ICD-O-3.1 T19	8000/6
+#7	ICD-O-3.1 T26	8000/6
+#8	ICD-O-3.1 T1	8000/1
+#9	ICD-O-3.1 T2	8000/1
+#10	ICD-O-3.1 T4	8000/6
+#11	ICD-O-3.1 T11	8000/6
+#12	ICD-O-3.1 T16	8000/6
+#13	ICD-O-3.1 T23	8000/6
+#14	ICD-O-3.1 T9	9080/0
+#15	ICD-O-3.1 T15	9080/0
+#16	ICD-O-3.1 T10	8000/1
+#17	ICD-O-3.1 T6	9085/3
+#18	ICD-O-3.1 T12	9085/3
+#19	ICD-O-3.1 T7	9071/3
+#20	ICD-O-3.1 T13	9071/3
+#21	ICD-O-3.1 T18	8000/1
+#22	ICD-O-3.1 T8	9071/3
+#23	ICD-O-3.1 T14	9071/3
+#24	ICD-O-3.1 T17	9071/6
+#25	ICD-O-3.1 T20	8000/6
+#26	ICD-O-3.1 T22	8000/6
+#27	SNOMED T21	14799000
+#28	SNOMED T3	14799000
+#29	SNOMED T25	14799000
+#30	SNOMED T5	14799000
+#31	SNOMED T24	14799000
+#32	SNOMED T19	14799000
+#33	SNOMED T26	14799000
+#34	SNOMED T1	86251006
+#35	SNOMED T2	86251006
+#36	SNOMED T4	14799000
+#37	SNOMED T11	14799000
+#38	SNOMED T16	14799000
+#39	SNOMED T23	14799000
+#40	SNOMED T9	42717009
+#41	SNOMED T15	42717009
+#42	SNOMED T10	86251006
+#43	SNOMED T6	32844007
+#44	SNOMED T12	32844007
+#45	SNOMED T7	74409009
+#46	SNOMED T13	74409009
+#47	SNOMED T18	86251006
+#48	SNOMED T8	74409009
+#49	SNOMED T14	74409009
+#50	SNOMED T20	14799000
+#51	SNOMED T22	14799000

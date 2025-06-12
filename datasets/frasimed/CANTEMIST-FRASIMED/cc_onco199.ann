@@ -1,0 +1,30 @@
+T1	morphology-onco 200 209	néoplasie
+T2	morphology-onco 532 637	carcinome papillaire à cellules claires multifocal avec des zones étendues de nécrose, grade 2 de Fuhrman
+T3	morphology-onco 665 671	tumeur
+T4	morphology-onco 1941 1952	néoplasique
+T5	morphology-onco 2138 2147	carcinome
+T6	morphology-onco 2276 2282	tumeur
+T7	morphology-onco 2460 2469	métastase
+T8	morphology-onco 2609 2631	métastase de carcinome
+T9	morphology-onco 2729 2766	Métastase médiastinale d'un carcinome
+T10	morphology-onco 3481 3499	masse médiastinale
+#1	ICD-O-3.1 T5	8010/3
+#2	ICD-O-3.1 T7	8000/6
+#3	ICD-O-3.1 T8	8010/6
+#4	ICD-O-3.1 T1	8000/1
+#5	ICD-O-3.1 T4	8000/1
+#6	ICD-O-3.1 T3	8000/1
+#7	ICD-O-3.1 T6	8000/1
+#8	ICD-O-3.1 T2	8050/32/H
+#9	ICD-O-3.1 T9	8010/6
+#10	ICD-O-3.1 T10	8000/6
+#11	SNOMED T5	1187425009
+#12	SNOMED T7	14799000
+#13	SNOMED T8	79282002
+#14	SNOMED T1	86251006
+#15	SNOMED T4	86251006
+#16	SNOMED T3	86251006
+#17	SNOMED T6	86251006
+#18	SNOMED T2	25910003
+#19	SNOMED T9	79282002
+#20	SNOMED T10	14799000

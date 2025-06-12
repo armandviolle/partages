@@ -1,0 +1,10 @@
+T1	disease 415 442	anomalie dento-squelettique
+T2	disease 798 821	duplication condylienne
+T3	disease 1032 1085	condyle était frappante : bifidité antéro-postérieure
+T4	disease 1103 1126	épanchement articulaire
+T5	disease 1275 1313	condyle gauche bifide antéropostérieur
+#1	SNOMED T1	196380002
+#2	SNOMED T2	708669006
+#3	SNOMED T5	708669006
+#4	SNOMED T4	111230002
+#5	SNOMED T3	708669006

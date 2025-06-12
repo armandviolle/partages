@@ -1,0 +1,32 @@
+T1	disease 83 97	cancer du sein
+T2	disease 591 597	lésion
+T3	disease 639 645	lésion
+T4	disease 866 899	morsures de l'araignée Loxosceles
+T5	disease 983 1028	morsures des membres supérieurs et inférieurs
+T6	disease 1091 1097	lésion
+T7	disease 1319 1325	lésion
+T8	disease 1695 1713	morsure d'araignée
+T9	disease 1626 1647	maladies infectieuses
+T10	disease 1764 1800	lésions cutanéomuqueuses nécrotiques
+T11	disease 1816 1825	cellulite
+T12	disease 1830 1841	vascularite
+T13	disease 1847 1866	ulcères diabétiques
+T14	disease 1870 1893	insuffisance vasculaire
+T15	disease 1899 1924	réactions médicamenteuses
+T16	disease 1930 1992	brûlures thermiques ou chimiques, infectieuses ou traumatiques
+#1	SNOMED T1	254837009
+#2	SNOMED T8	771257008
+#3	SNOMED T11	128045006
+#4	SNOMED T12	31996006
+#5	SNOMED T13	422183001
+#6	SNOMED T14	86341008
+#7	SNOMED T15	62014003
+#8	SNOMED T16	314534006+426284001
+#9	SNOMED T4	40119006
+#10	SNOMED T9	394807007
+#11	SNOMED T10	95347000+276320009
+#12	SNOMED T2	417163006
+#13	SNOMED T3	417163006
+#14	SNOMED T6	417163006
+#15	SNOMED T7	417163006
+#16	SNOMED T5	72587008

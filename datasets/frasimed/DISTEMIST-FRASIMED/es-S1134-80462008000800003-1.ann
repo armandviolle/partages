@@ -1,0 +1,16 @@
+T1	disease 48 129	syndrome de douleur régionale complexe de type I de l'extrémité supérieure droite
+T2	disease 261 296	infection causée par le pseudomonas
+T3	disease 645 649	CRPS
+T4	disease 723 735	hypertension
+T5	disease 739 746	diabète
+T6	disease 1431 1449	syndrome de Horner
+T7	disease 1656 1668	hypertension
+T8	disease 2185 2198	thyrotoxicose
+#1	SNOMED T1	293971000119103
+#2	SNOMED T8	90739004
+#3	SNOMED T2	63398001
+#4	SNOMED T3	128200000
+#5	SNOMED T6	271730003
+#6	SNOMED T5	73211009
+#7	SNOMED T4	38341003
+#8	SNOMED T7	38341003

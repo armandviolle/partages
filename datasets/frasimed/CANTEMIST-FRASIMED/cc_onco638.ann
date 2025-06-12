@@ -1,0 +1,12 @@
+T1	morphology-onco 1223 1287	carcinome peu différencié compatible avec une souche épidermoïde
+T2	morphology-onco 1579 1586	maligne
+T3	morphology-onco 1619 1640	Carcinome épidermoïde
+T4	morphology-onco 1659 1668	T2aT4N0M0
+#1	ICD-O-3.1 T3	8070/3
+#2	ICD-O-3.1 T1	8070/33
+#3	ICD-O-3.1 T2	8000/3
+#4	ICD-O-3.1 T4	8000/6
+#5	SNOMED T3	1162767002
+#6	SNOMED T1	1162767002
+#7	SNOMED T2	1240414004
+#8	SNOMED T4	14799000

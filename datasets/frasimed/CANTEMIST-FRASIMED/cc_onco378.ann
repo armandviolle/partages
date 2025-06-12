@@ -1,0 +1,83 @@
+T1	morphology-onco 76 85	néoplasie
+T2	morphology-onco 541 547	tumeur
+T3	morphology-onco 823 835	néoformation
+T4	morphology-onco 1280 1297	CELLULES MALIGNES
+T5	morphology-onco 1318 1352	CARCINOME ÉPIDERMOÏDE KÉRATINISANT
+T6	morphology-onco 1552 1563	néoplasique
+T7	morphology-onco 2418 2438	carcinome malpighien
+T8	morphology-onco 3063 3072	malignité
+T9	morphology-onco 3218 3226	tumorale
+T10	morphology-onco 3365 3371	tumeur
+T11	morphology-onco 3756 3778	carcinome métaplasique
+T12	morphology-onco 3859 3868	néoplasie
+T13	morphology-onco 4006 4034	différenciation malpighienne
+T14	morphology-onco 4064 4070	tumeur
+T15	morphology-onco 4164 4179	macrométastases
+T16	morphology-onco 4339 4354	macrométastases
+T17	morphology-onco 4517 4532	macrométastases
+T18	morphology-onco 4552 4574	Carcinome métaplasique
+T19	morphology-onco 4593 4602	ypT1cN2M0
+T20	morphology-onco 4954 4972	nodule dans le LSD
+T21	morphology-onco 5051 5061	métastases
+T22	morphology-onco 5090 5138	atteinte axillaire gauche, sans atteinte osseuse
+T23	morphology-onco 5254 5260	tumeur
+T24	morphology-onco 5750 5760	métastases
+T25	morphology-onco 6258 6271	néoformatives
+T26	morphology-onco 6407 6416	métastase
+T27	morphology-onco 6486 6530	métastase de carcinome mammaire métaplasique
+T28	morphology-onco 6993 7014	lésion endobronchique
+#1	ICD-O-3.1 T5	8071/3
+#2	ICD-O-3.1 T4	8001/3
+#3	ICD-O-3.1 T7	8070/3
+#4	ICD-O-3.1 T18	8575/3
+#5	ICD-O-3.1 T22	8000/6
+#6	ICD-O-3.1 T11	8575/3
+#7	ICD-O-3.1 T13	8070/3
+#8	ICD-O-3.1 T15	8000/6
+#9	ICD-O-3.1 T16	8000/6
+#10	ICD-O-3.1 T17	8000/6
+#11	ICD-O-3.1 T8	8000/3
+#12	ICD-O-3.1 T21	8000/6
+#13	ICD-O-3.1 T24	8000/6
+#14	ICD-O-3.1 T26	8000/6
+#15	ICD-O-3.1 T3	8000/1
+#16	ICD-O-3.1 T1	8000/1
+#17	ICD-O-3.1 T12	8000/1
+#18	ICD-O-3.1 T6	8000/1
+#19	ICD-O-3.1 T23	8000/1
+#20	ICD-O-3.1 T2	8000/1
+#21	ICD-O-3.1 T14	8000/1
+#22	ICD-O-3.1 T9	8000/1
+#23	ICD-O-3.1 T10	8000/1
+#24	ICD-O-3.1 T19	8000/6
+#25	ICD-O-3.1 T20	8000/6
+#26	ICD-O-3.1 T25	8000/1
+#27	ICD-O-3.1 T27	8575/6
+#28	ICD-O-3.1 T28	8000/6
+#29	SNOMED T5	18048008
+#30	SNOMED T4	88400008
+#31	SNOMED T7	1162767002
+#32	SNOMED T18	128705006
+#33	SNOMED T22	14799000
+#34	SNOMED T11	128705006
+#35	SNOMED T13	1162767002
+#36	SNOMED T15	14799000
+#37	SNOMED T16	14799000
+#38	SNOMED T17	14799000
+#39	SNOMED T8	1240414004
+#40	SNOMED T21	14799000
+#41	SNOMED T24	14799000
+#42	SNOMED T26	14799000
+#43	SNOMED T3	86251006
+#44	SNOMED T1	86251006
+#45	SNOMED T12	86251006
+#46	SNOMED T6	86251006
+#47	SNOMED T23	86251006
+#48	SNOMED T2	86251006
+#49	SNOMED T14	86251006
+#50	SNOMED T9	86251006
+#51	SNOMED T10	86251006
+#52	SNOMED T19	14799000
+#53	SNOMED T20	14799000
+#54	SNOMED T25	86251006
+#55	SNOMED T28	14799000

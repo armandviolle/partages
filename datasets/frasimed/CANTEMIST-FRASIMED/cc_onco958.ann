@@ -1,0 +1,39 @@
+T1	morphology-onco 111 117	cancer
+T2	morphology-onco 365 371	cancer
+T3	morphology-onco 399 405	cancer
+T4	morphology-onco 427 433	cancer
+T5	morphology-onco 604 612	Grosseur
+T6	morphology-onco 2152 2178	métastase d'adénocarcinome
+T7	morphology-onco 2362 2376	adénocarcinome
+T8	morphology-onco 2429 2439	métastases
+T9	morphology-onco 2627 2648	cellules néoplasiques
+T10	morphology-onco 3019 3058	carcinome mucoépidermoïde de haut grade
+T11	morphology-onco 3432 3452	carcinome sécrétoire
+T12	morphology-onco 3676 3683	tumeurs
+T13	morphology-onco 3918 3932	lésion osseuse
+#1	ICD-O-3.1 T5	8000/1
+#2	ICD-O-3.1 T7	8140/3
+#3	ICD-O-3.1 T11	8502/3
+#4	ICD-O-3.1 T1	8000/3
+#5	ICD-O-3.1 T2	8000/3
+#6	ICD-O-3.1 T4	8000/3
+#7	ICD-O-3.1 T3	8000/3
+#8	ICD-O-3.1 T9	8001/1
+#9	ICD-O-3.1 T13	8000/6
+#10	ICD-O-3.1 T8	8000/6
+#11	ICD-O-3.1 T6	8140/6
+#12	ICD-O-3.1 T12	8000/1
+#13	ICD-O-3.1 T10	8430/34
+#14	SNOMED T5	86251006
+#15	SNOMED T7	1187332001
+#16	SNOMED T11	41919003
+#17	SNOMED T1	1240414004
+#18	SNOMED T2	1240414004
+#19	SNOMED T4	1240414004
+#20	SNOMED T3	1240414004
+#21	SNOMED T9	39577004
+#22	SNOMED T13	14799000
+#23	SNOMED T8	14799000
+#24	SNOMED T6	4590003
+#25	SNOMED T12	86251006
+#26	SNOMED T10	4079000

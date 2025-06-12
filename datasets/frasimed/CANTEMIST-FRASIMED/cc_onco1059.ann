@@ -1,0 +1,113 @@
+T1	morphology-onco 1979 1988	métastase
+T2	morphology-onco 2031 2037	tumeur
+T3	morphology-onco 2261 2272	néoplasique
+T4	morphology-onco 2511 2535	carcinome neuroendocrine
+T5	morphology-onco 2511 2560	carcinome neuroendocrine (non à petites cellules)
+T6	morphology-onco 2565 2571	tumeur
+T7	morphology-onco 2688 2711	tumeurs neuroendocrines
+T8	morphology-onco 2790 2819	adénopathie supraclaviculaire
+T9	morphology-onco 2870 2877	maligne
+T10	morphology-onco 3054 3063	malignité
+T11	morphology-onco 3075 3105	nodules pulmonaires bilatéraux
+T12	morphology-onco 3403 3410	maligne
+T13	morphology-onco 3415 3424	carcinome
+T14	morphology-onco 3555 3582	cellules tumorales malignes
+T15	morphology-onco 3584 3635	Carcinome avec des caractéristiques neuroendocrines
+T16	morphology-onco 3794 3803	néoplasme
+T17	morphology-onco 3820 3855	carcinome médullaire de la thyroïde
+T18	morphology-onco 4023 4053	carcinome thyroïdien insulaire
+T19	morphology-onco 4055 4080	carcinome peu différencié
+T20	morphology-onco 4310 4319	néoplasme
+T21	morphology-onco 4353 4456	Carcinome pulmonaire à grandes cellules avec composante neuroendocrine (pas à petites cellules), T4N2M1
+T22	morphology-onco 4450 4456	T4N2M1
+T23	morphology-onco 4472 4502	atteinte pulmonaire bilatérale
+T24	morphology-onco 4916 4935	nodules pulmonaires
+T25	morphology-onco 5151 5157	tumeur
+T26	morphology-onco 5796 5831	carcinome thyroïdien neuroendocrine
+T27	morphology-onco 5870 5893	carcinome indifférencié
+T28	morphology-onco 5870 5905	carcinome indifférencié/anaplasique
+T29	morphology-onco 5939 5960	cellules néoplasiques
+T30	morphology-onco 6346 6355	carcinome
+T31	morphology-onco 6496 6585	carcinome de haut grade présentant des caractéristiques neuroendocrines (aspect organoïde
+T32	morphology-onco 6657 6680	carcinome indifférencié
+T33	morphology-onco 6657 6692	carcinome indifférencié/anaplasique
+T34	morphology-onco 6725 6751	carcinomes neuroendocrines
+T35	morphology-onco 6856 6886	atteinte pulmonaire bilatérale
+T36	morphology-onco 7139 7158	lésions pulmonaires
+T37	morphology-onco 7441 7471	lésions pulmonaires nodulaires
+T38	morphology-onco 7541 7560	lésions pulmonaires
+#1	ICD-O-3.1 T22	8000/6
+#2	ICD-O-3.1 T8	8000/6
+#3	ICD-O-3.1 T23	8000/6
+#4	ICD-O-3.1 T35	8000/6
+#5	ICD-O-3.1 T13	8010/3
+#6	ICD-O-3.1 T30	8010/3
+#7	ICD-O-3.1 T17	8510/3
+#8	ICD-O-3.1 T4	8246/3
+#9	ICD-O-3.1 T26	8246/3
+#10	ICD-O-3.1 T19	8010/33
+#11	ICD-O-3.1 T29	8001/1
+#12	ICD-O-3.1 T14	8001/3
+#13	ICD-O-3.1 T37	8000/6
+#14	ICD-O-3.1 T36	8000/6
+#15	ICD-O-3.1 T38	8000/6
+#16	ICD-O-3.1 T9	8000/3
+#17	ICD-O-3.1 T10	8000/3
+#18	ICD-O-3.1 T12	8000/3
+#19	ICD-O-3.1 T1	8000/6
+#20	ICD-O-3.1 T16	8000/1
+#21	ICD-O-3.1 T20	8000/1
+#22	ICD-O-3.1 T3	8000/1
+#23	ICD-O-3.1 T24	8000/6
+#24	ICD-O-3.1 T11	8000/6
+#25	ICD-O-3.1 T2	8000/1
+#26	ICD-O-3.1 T6	8000/1
+#27	ICD-O-3.1 T7	8240/3
+#28	ICD-O-3.1 T25	8000/1
+#29	ICD-O-3.1 T5	8046/3
+#30	ICD-O-3.1 T15	8246/3
+#31	ICD-O-3.1 T18	8337/3
+#32	ICD-O-3.1 T21	8013/6
+#33	ICD-O-3.1 T28	8020/3
+#34	ICD-O-3.1 T27	8021/3
+#35	ICD-O-3.1 T31	8246/34/H
+#36	ICD-O-3.1 T33	8020/3
+#37	ICD-O-3.1 T32	8021/3
+#38	ICD-O-3.1 T34	8246/3
+#39	SNOMED T22	14799000
+#40	SNOMED T8	14799000
+#41	SNOMED T23	14799000
+#42	SNOMED T35	14799000
+#43	SNOMED T13	1187425009
+#44	SNOMED T30	1187425009
+#45	SNOMED T17	32913002
+#46	SNOMED T4	55937004
+#47	SNOMED T26	55937004
+#48	SNOMED T19	1187425009
+#49	SNOMED T29	39577004
+#50	SNOMED T14	88400008
+#51	SNOMED T37	14799000
+#52	SNOMED T36	14799000
+#53	SNOMED T38	14799000
+#54	SNOMED T9	1240414004
+#55	SNOMED T10	1240414004
+#56	SNOMED T12	1240414004
+#57	SNOMED T1	14799000
+#58	SNOMED T16	86251006
+#59	SNOMED T20	86251006
+#60	SNOMED T3	86251006
+#61	SNOMED T24	14799000
+#62	SNOMED T11	14799000
+#63	SNOMED T2	86251006
+#64	SNOMED T6	86251006
+#65	SNOMED T7	189607006
+#66	SNOMED T25	86251006
+#67	SNOMED T5	128632008
+#68	SNOMED T15	55937004
+#69	SNOMED T18	128673009
+#70	SNOMED T28	38549000
+#71	SNOMED T27	38549000
+#72	SNOMED T31	55937004
+#73	SNOMED T33	38549000
+#74	SNOMED T32	38549000
+#75	SNOMED T34	55937004

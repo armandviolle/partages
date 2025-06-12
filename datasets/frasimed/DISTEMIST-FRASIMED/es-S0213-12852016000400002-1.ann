@@ -1,0 +1,8 @@
+T1	disease 54 168	lésions cutanées desquamatives sur le cuir chevelu et des lésions exsudatives dans les plis et la région périanale
+T2	disease 243 246	HCL
+T3	disease 374 432	gingivite localisée a été diagnostiquée au niveau de 83,84
+T4	disease 1452 1501	histiocytose multifocale à cellules de Langerhans
+#1	SNOMED T1	419735006
+#2	SNOMED T2	65399007
+#3	SNOMED T3	714485009
+#4	SNOMED T4	128811003

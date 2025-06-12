@@ -1,0 +1,12 @@
+T1	disease 66 84	dermatite atopique
+T2	disease 123 152	lésions cutanées sur le tronc
+T3	disease 270 323	lésions érythémateuses, non confluentes, sur le tronc
+T4	disease 519 550	urticaire aiguë parainfectieuse
+T5	disease 558 608	pharyngotonsillite d'étiologie probablement virale
+T6	disease 677 693	atteinte cutanée
+T7	disease 716 808	lésions érythématodécamatives prurigineuses dans les régions périoculaires et périorbitaires
+T8	disease 815 854	plaques sur le tronc et les grands plis
+T9	disease 879 931	surinfection et des lésions de grattage sur le tronc
+T10	disease 1045 1081	dermatite atopique avec surinfection
+T11	disease 1554 1580	syndrome de la peau brûlée
+T12	disease 1780 1813	lésions palpébrales et périorales

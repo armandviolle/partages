@@ -1,0 +1,58 @@
+T1	morphology-onco 177 183	tumeur
+T2	morphology-onco 767 776	neurinome
+T3	morphology-onco 1268 1285	hémangioblastomes
+T4	morphology-onco 1618 1634	hémangioblastome
+T5	morphology-onco 1800 1807	tumeurs
+T6	morphology-onco 1840 1849	carcinome
+T7	morphology-onco 2068 2117	carcinome rénal à cellules claires multicentrique
+T8	morphology-onco 2128 2184	tumeur de plus de 5 cm, un grade nucléaire de Fuhrman II
+T9	morphology-onco 2335 2384	carcinome rénal à cellules claires multicentrique
+T10	morphology-onco 2516 2526	métastases
+T11	morphology-onco 2545 2589	carcinome rénal bilatéral à cellules claires
+T12	morphology-onco 2774 2821	masse palpable a été détectée dans le testicule
+T13	morphology-onco 2915 2975	métastases multiples d'un carcinome rénal à cellules claires
+T14	morphology-onco 2981 3004	atteinte de l'épididyme
+T15	morphology-onco 3130 3140	métastases
+T16	morphology-onco 3353 3400	métastase de carcinome rénal à cellules claires
+T17	morphology-onco 3729 3751	cystadénome papillaire
+T18	morphology-onco 3874 3890	hémangioblastome
+T19	morphology-onco 4072 4107	métastases possibles d'un carcinome
+T20	morphology-onco 4194 4210	phéochromocytome
+#1	ICD-O-3.1 T6	8010/3
+#2	ICD-O-3.1 T7	8310/3/H
+#3	ICD-O-3.1 T9	8310/3/H
+#4	ICD-O-3.1 T11	8310/3
+#5	ICD-O-3.1 T20	8700/0
+#6	ICD-O-3.1 T4	9161/1
+#7	ICD-O-3.1 T18	9161/1
+#8	ICD-O-3.1 T3	9161/1
+#9	ICD-O-3.1 T10	8000/6
+#10	ICD-O-3.1 T15	8000/6
+#11	ICD-O-3.1 T19	8010/6
+#12	ICD-O-3.1 T1	8000/1
+#13	ICD-O-3.1 T5	8000/1
+#14	ICD-O-3.1 T2	9560/0
+#15	ICD-O-3.1 T13	8310/6
+#16	ICD-O-3.1 T16	8310/6
+#17	ICD-O-3.1 T17	8450/0
+#18	ICD-O-3.1 T8	8000/12
+#19	ICD-O-3.1 T12	8000/6
+#20	ICD-O-3.1 T14	8000/6
+#21	SNOMED T6	1187425009
+#22	SNOMED T7	30546008
+#23	SNOMED T9	30546008
+#24	SNOMED T11	30546008
+#25	SNOMED T20	302835009
+#26	SNOMED T4	1156474009
+#27	SNOMED T18	1156474009
+#28	SNOMED T3	1156474009
+#29	SNOMED T10	14799000
+#30	SNOMED T15	14799000
+#31	SNOMED T19	79282002
+#32	SNOMED T1	86251006
+#33	SNOMED T5	86251006
+#34	SNOMED T2	189948006
+#35	SNOMED T17	32140001
+#36	SNOMED T8	86251006
+#37	SNOMED T12	14799000
+#38	SNOMED T14	14799000

@@ -1,0 +1,21 @@
+T1	morphology-onco 173 179	cancer
+T2	morphology-onco 282 288	cancer
+T3	morphology-onco 323 329	cancer
+T4	morphology-onco 364 373	néoplasie
+T5	morphology-onco 878 899	tumeur multicentrique
+T6	morphology-onco 1226 1247	tumeur multicentrique
+T7	morphology-onco 1252 1303	carcinome canalaire infiltrant de 15 mm de grade II
+#1	ICD-O-3.1 T3	8000/3
+#2	ICD-O-3.1 T2	8000/3
+#3	ICD-O-3.1 T4	8000/1
+#4	ICD-O-3.1 T1	8000/1
+#5	ICD-O-3.1 T5	8000/1/H
+#6	ICD-O-3.1 T6	8000/1/H
+#7	ICD-O-3.1 T7	8500/32
+#8	SNOMED T3	1240414004
+#9	SNOMED T2	1240414004
+#10	SNOMED T4	86251006
+#11	SNOMED T1	86251006
+#12	SNOMED T5	86251006
+#13	SNOMED T6	86251006
+#14	SNOMED T7	58477004

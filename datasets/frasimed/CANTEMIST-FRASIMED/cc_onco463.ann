@@ -1,0 +1,39 @@
+T1	morphology-onco 219 225	cancer
+T2	morphology-onco 471 501	carcinome lobulaire infiltrant
+T3	morphology-onco 665 673	pT2pN2M0
+T4	morphology-onco 1036 1042	tumeur
+T5	morphology-onco 2198 2211	carcinomatose
+T6	morphology-onco 2583 2596	carcinomatose
+T7	morphology-onco 2601 2610	carcinome
+T8	morphology-onco 2753 2774	implants néoplasiques
+T9	morphology-onco 3099 3108	malignité
+T10	morphology-onco 3164 3177	carcinomatose
+T11	morphology-onco 3278 3303	carcinome peu différencié
+T12	morphology-onco 3448 3476	maladie au niveau péritonéal
+T13	morphology-onco 3556 3598	cancer du sein de stade IV avec métastases
+#1	ICD-O-3.1 T7	8010/3
+#2	ICD-O-3.1 T2	8520/3
+#3	ICD-O-3.1 T11	8010/33
+#4	ICD-O-3.1 T5	8010/9
+#5	ICD-O-3.1 T6	8010/9
+#6	ICD-O-3.1 T10	8010/9
+#7	ICD-O-3.1 T1	8000/3
+#8	ICD-O-3.1 T9	8000/3
+#9	ICD-O-3.1 T4	8000/1
+#10	ICD-O-3.1 T3	8000/6
+#11	ICD-O-3.1 T8	8000/6
+#12	ICD-O-3.1 T13	8000/6
+#13	ICD-O-3.1 T12	8000/6
+#14	SNOMED T7	1187425009
+#15	SNOMED T2	278054005
+#16	SNOMED T11	1187425009
+#17	SNOMED T5	307593001
+#18	SNOMED T6	307593001
+#19	SNOMED T10	307593001
+#20	SNOMED T1	1240414004
+#21	SNOMED T9	1240414004
+#22	SNOMED T4	86251006
+#23	SNOMED T3	14799000
+#24	SNOMED T8	14799000
+#25	SNOMED T13	14799000
+#26	SNOMED T12	14799000

@@ -1,0 +1,10 @@
+T1	disease 377 393	nodules tumoraux
+T2	disease 884 900	tératocarcinomes
+T3	disease 902 917	tératome mature
+T4	disease 921 943	carcinome embryonnaire
+T5	disease 1139 1157	séminome classique
+#1	SNOMED T3	55818009
+#2	SNOMED T4	1156454002
+#3	SNOMED T5	443675005
+#4	SNOMED T1	108369006
+#5	SNOMED T2	67830002

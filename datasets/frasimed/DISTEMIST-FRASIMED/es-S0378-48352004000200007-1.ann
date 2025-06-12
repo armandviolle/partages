@@ -1,0 +1,17 @@
+T1	disease 64 84	déficit intellectuel
+T2	disease 200 222	lésion frontale gauche
+T3	disease 311 339	hernie trans-subzyphoïdienne
+T4	disease 392 427	dilatation des ventricules latéraux
+T5	disease 486 518	ménigiome du lobe frontal gauche
+T6	disease 625 645	ostéosarcome méningé
+T7	disease 720 739	Tumeur ostéogénique
+T8	disease 1086 1115	paralysie de l'hémidiaphragme
+T9	disease 1129 1140	hydrothorax
+T10	disease 1190 1211	atteinte métastatique
+T11	disease 1360 1385	néoplasme méningé frontal
+T12	disease 1443 1466	collapsus ventriculaire
+T13	disease 1591 1672	ostéosarcome de la méninge durale, avec infiltration du tissu cérébral et de l'os
+T14	disease 2256 2276	déficit intellectuel
+T15	disease 2491 2534	nodules métastatiques dans les deux poumons
+T16	disease 2885 2920	thrombose du système fémoral gauche
+T17	disease 2940 2962	métastases pulmonaires

@@ -1,0 +1,13 @@
+T1	morphology-onco 1246 1258	néoformation
+T2	morphology-onco 1529 1542	métastatiques
+T3	morphology-onco 1598 1626	carcinome à petites cellules
+T4	morphology-onco 1684 1747	carcinome microcytaire du poumon et d'une maladie étendue (foie
+T5	morphology-onco 2861 2903	cancer du poumon microcytaire métastatique
+#1	ICD-O-3.1 T3	8041/3
+#2	ICD-O-3.1 T2	8000/6
+#3	ICD-O-3.1 T1	8000/1
+#4	ICD-O-3.1 T4	8041/6
+#5	ICD-O-3.1 T5	8041/6
+#6	SNOMED T3	11010461000119101
+#7	SNOMED T2	14799000
+#8	SNOMED T1	86251006

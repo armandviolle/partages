@@ -1,0 +1,16 @@
+T1	disease 54 83	insuffisance rénale chronique
+T2	disease 85 88	IRC
+T3	disease 112 135	polyarthrite rhumatoïde
+T4	disease 137 139	PR
+T5	disease 233 258	hématurie anémique totale
+T6	disease 557 572	caillot vésical
+T7	disease 993 1022	lésion vésicale macroscopique
+T8	disease 1118 1134	amylose vésicale
+#1	SNOMED T1	90688005
+#2	SNOMED T2	723190009
+#3	SNOMED T3	69896004
+#4	SNOMED T4	69896004
+#5	SNOMED T5	34436003+271737000
+#6	SNOMED T7	42643001
+#7	SNOMED T8	17602002
+#8	SNOMED T6	42643001

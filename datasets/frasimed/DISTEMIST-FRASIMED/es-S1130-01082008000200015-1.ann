@@ -1,0 +1,14 @@
+T1	disease 174 198	fistule biliaire externe
+T2	disease 394 400	bilome
+T3	disease 561 577	fistule biliaire
+T4	disease 752 776	fistule biliaire externe
+T5	disease 1201 1225	fistule biliaire externe
+T6	disease 1651 1657	lésion
+T7	disease 1875 1881	lésion
+#1	SNOMED T1	53206008
+#2	SNOMED T2	235932003
+#3	SNOMED T3	53206008
+#4	SNOMED T4	53206008
+#5	SNOMED T5	53206008
+#6	SNOMED T6	417163006
+#7	SNOMED T7	417163006

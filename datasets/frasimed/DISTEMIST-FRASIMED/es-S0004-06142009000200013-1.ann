@@ -1,0 +1,14 @@
+T1	disease 21 28	fumeuse
+T2	disease 89 102	fausse couche
+T3	disease 178 189	infertilité
+T4	disease 261 293	lésion intravésicale exophytique
+T5	disease 530 553	hématurie macroscopique
+T6	disease 873 879	lésion
+T7	disease 1462 1483	mullérianose vésicale
+#1	SNOMED T2	17369002
+#2	SNOMED T5	197941005
+#3	SNOMED T7	65099004
+#4	SNOMED T6	417163006
+#5	SNOMED T3	8619003
+#6	SNOMED T1	77176002
+#7	SNOMED T4	126885006

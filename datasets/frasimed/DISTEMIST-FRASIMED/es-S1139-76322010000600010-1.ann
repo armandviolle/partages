@@ -1,0 +1,24 @@
+T1	disease 116 151	grosseur sur la paupière inférieure
+T2	disease 404 486	ulcérations sur la surface cutanée et la muqueuse de la paupière inférieure gauche
+T3	disease 513 547	adénopathies des deux côtés du cou
+T4	disease 807 827	processus infectieux
+T5	disease 1064 1090	lymphadénopathie régionale
+T6	disease 1103 1124	processus néoformatif
+T7	disease 1191 1224	dermatite de contact due au latex
+T8	disease 1448 1454	ulcère
+T9	disease 1884 1898	lésion ulcérée
+T10	disease 1952 1986	infection par le virus de l'herpès
+T11	disease 2006 2043	surinfection probablement bactérienne
+T12	disease 2178 2199	ulcérations ont guéri
+#1	SNOMED T1	248514008
+#2	SNOMED T12	125313005
+#3	SNOMED T2	313253009
+#4	SNOMED T4	40733004
+#5	SNOMED T3	127086001
+#6	SNOMED T5	30746006
+#7	SNOMED T6	55342001
+#8	SNOMED T9	56208002
+#9	SNOMED T7	10628671000119100
+#10	SNOMED T11	87628006
+#11	SNOMED T8	429040005
+#12	SNOMED T10	88594005

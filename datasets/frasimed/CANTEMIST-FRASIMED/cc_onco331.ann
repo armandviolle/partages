@@ -1,0 +1,21 @@
+T1	morphology-onco 2306 2315	malignité
+T2	morphology-onco 2451 2509	carcinome canalaire infiltrant, grade histologique (GH) II
+T3	morphology-onco 2625 2652	carcinome canalaire in situ
+T4	morphology-onco 2741 2769	métastase due à un carcinome
+T5	morphology-onco 3527 3557	carcinome canalaire infiltrant
+T6	morphology-onco 3658 3675	carcinome in situ
+T7	morphology-onco 4296 4314	maladie à distance
+#1	ICD-O-3.1 T3	8500/2
+#2	ICD-O-3.1 T5	8500/3
+#3	ICD-O-3.1 T6	8010/2
+#4	ICD-O-3.1 T2	8500/32
+#5	ICD-O-3.1 T4	8010/6
+#6	ICD-O-3.1 T7	8000/6
+#7	ICD-O-3.1 T1	8000/3
+#8	SNOMED T3	1162814007
+#9	SNOMED T5	58477004
+#10	SNOMED T6	1187138006
+#11	SNOMED T2	58477004
+#12	SNOMED T4	79282002
+#13	SNOMED T7	14799000
+#14	SNOMED T1	1240414004

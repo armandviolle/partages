@@ -1,0 +1,72 @@
+T1	morphology-onco 399 427	adénopathie sus-claviculaire
+T2	morphology-onco 478 506	adénopathie sus-claviculaire
+T3	morphology-onco 533 557	adénocarcinome canalaire
+T4	morphology-onco 659 665	tumeur
+T5	morphology-onco 887 893	tumeur
+T6	morphology-onco 1151 1158	angiome
+T7	morphology-onco 1351 1379	adénopathie sus-claviculaire
+T8	morphology-onco 2329 2353	adénocarcinome canalaire
+T9	morphology-onco 5706 5713	angiome
+T10	morphology-onco 6214 6220	tumeur
+T11	morphology-onco 7556 7565	néoplasme
+T12	morphology-onco 7861 7869	tumorale
+T13	morphology-onco 9198 9222	Adénocarcinome canalaire
+T14	morphology-onco 9293 9302	néoplasie
+T15	morphology-onco 9625 9631	tumeur
+T16	morphology-onco 10261 10269	tumorale
+T17	morphology-onco 11257 11285	adénopathie sus-claviculaire
+T18	morphology-onco 11584 11590	tumeur
+T19	morphology-onco 11654 11664	métastases
+T20	morphology-onco 11720 11733	carcinomatose
+T21	morphology-onco 11892 11905	carcinomatose
+T22	morphology-onco 11954 11998	adénopathies cervicales et sus-claviculaires
+T23	morphology-onco 12163 12169	tumeur
+T24	morphology-onco 12536 12549	Carcinomatose
+#1	ICD-O-3.1 T6	9120/0
+#2	ICD-O-3.1 T9	9120/0
+#3	ICD-O-3.1 T20	8010/9
+#4	ICD-O-3.1 T21	8010/9
+#5	ICD-O-3.1 T19	8000/6
+#6	ICD-O-3.1 T11	8000/1
+#7	ICD-O-3.1 T14	8000/1
+#8	ICD-O-3.1 T4	8000/1
+#9	ICD-O-3.1 T15	8000/1
+#10	ICD-O-3.1 T18	8000/1
+#11	ICD-O-3.1 T5	8000/1
+#12	ICD-O-3.1 T23	8000/1
+#13	ICD-O-3.1 T10	8000/1
+#14	ICD-O-3.1 T12	8000/1
+#15	ICD-O-3.1 T16	8000/1
+#16	ICD-O-3.1 T3	8500/3
+#17	ICD-O-3.1 T8	8500/3
+#18	ICD-O-3.1 T13	8500/3
+#19	ICD-O-3.1 T24	8010/9
+#20	ICD-O-3.1 T1	8000/6
+#21	ICD-O-3.1 T2	8000/6
+#22	ICD-O-3.1 T7	8000/6
+#23	ICD-O-3.1 T17	8000/6
+#24	ICD-O-3.1 T22	8000/6
+#25	SNOMED T6	253053003
+#26	SNOMED T9	253053003
+#27	SNOMED T20	307593001
+#28	SNOMED T21	307593001
+#29	SNOMED T19	14799000
+#30	SNOMED T11	86251006
+#31	SNOMED T14	86251006
+#32	SNOMED T4	86251006
+#33	SNOMED T15	86251006
+#34	SNOMED T18	86251006
+#35	SNOMED T5	86251006
+#36	SNOMED T23	86251006
+#37	SNOMED T10	86251006
+#38	SNOMED T12	86251006
+#39	SNOMED T16	86251006
+#40	SNOMED T3	58477004
+#41	SNOMED T8	58477004
+#42	SNOMED T13	58477004
+#43	SNOMED T24	307593001
+#44	SNOMED T1	14799000
+#45	SNOMED T2	14799000
+#46	SNOMED T7	14799000
+#47	SNOMED T17	14799000
+#48	SNOMED T22	14799000

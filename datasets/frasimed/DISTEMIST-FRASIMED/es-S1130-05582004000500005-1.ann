@@ -1,0 +1,30 @@
+T1	disease 105 114	dysphagie
+T2	disease 270 289	retard psychomoteur
+T3	disease 381 394	petite taille
+T4	disease 414 427	hypothyroïdie
+T5	disease 677 684	ulcérée
+T6	disease 692 709	ganglion cervical
+T7	disease 846 863	thyroïde linguale
+T8	disease 846 915	thyroïde linguale avec une obstruction sévère des voies respiratoires
+T9	disease 1216 1233	thyroïde linguale
+T10	disease 1278 1299	dysphagie obstructive
+T11	disease 1500 1529	tumeur à la base de la langue
+T12	disease 1949 1955	lésion
+T13	disease 2200 2217	thyroïde linguale
+T14	disease 2258 2282	tissu thyroïdien lingual
+T15	disease 2388 2401	hypothyroïdie
+#1	SNOMED T13	21279007
+#2	SNOMED T15	40930008
+#3	SNOMED T14	21279007
+#4	SNOMED T11	126779009
+#5	SNOMED T2	1144814003
+#6	SNOMED T7	21279007
+#7	SNOMED T4	40930008
+#8	SNOMED T9	21279007
+#9	SNOMED T6	127086001
+#10	SNOMED T1	288939007
+#11	SNOMED T10	40739000
+#12	SNOMED T5	429040005
+#13	SNOMED T12	417163006
+#14	SNOMED T3	418519005
+#15	SNOMED T8	21279007+68372009

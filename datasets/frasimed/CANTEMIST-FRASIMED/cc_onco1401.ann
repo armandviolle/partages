@@ -1,0 +1,21 @@
+T1	morphology-onco 95 114	lymphome de Hodgkin
+T2	morphology-onco 737 756	lymphome hodgkinien
+T3	morphology-onco 956 965	malignité
+T4	morphology-onco 1429 1438	malignité
+T5	morphology-onco 1592 1617	adénocarcinome infiltrant
+T6	morphology-onco 1631 1676	Adénocarcinome acineux modérément différencié
+T7	morphology-onco 1688 1694	T3N0M0
+#1	ICD-O-3.1 T7	8000/6
+#2	ICD-O-3.1 T5	8140/3/H
+#3	ICD-O-3.1 T3	8000/3
+#4	ICD-O-3.1 T4	8000/3
+#5	ICD-O-3.1 T1	9650/3
+#6	ICD-O-3.1 T2	9650/3
+#7	ICD-O-3.1 T6	8550/32
+#8	SNOMED T7	14799000
+#9	SNOMED T5	1187332001
+#10	SNOMED T3	1240414004
+#11	SNOMED T4	1240414004
+#12	SNOMED T1	1163005009
+#13	SNOMED T2	1163005009
+#14	SNOMED T6	45410002

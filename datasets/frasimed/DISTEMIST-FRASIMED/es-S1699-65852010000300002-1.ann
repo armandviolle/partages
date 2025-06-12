@@ -1,0 +1,12 @@
+T1	disease 148 187	perte de l'incisive centrale supérieure
+T2	disease 252 278	kyste radiculaire résiduel
+T3	disease 402 407	kyste
+T4	disease 436 449	défaut osseux
+T5	disease 1328 1345	kyste radiculaire
+T6	disease 1542 1555	défaut osseux
+#1	SNOMED T1	37320007
+#2	SNOMED T2	89988002
+#3	SNOMED T5	89988002
+#4	SNOMED T4	76069003
+#5	SNOMED T6	76069003
+#6	SNOMED T3	441457006

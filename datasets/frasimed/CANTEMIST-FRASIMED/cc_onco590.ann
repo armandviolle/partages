@@ -1,0 +1,64 @@
+T1	morphology-onco 788 815	syndrome lymphoprolifératif
+T2	morphology-onco 788 861	syndrome lymphoprolifératif T chronique de type lymphocytes à gros grains
+T3	morphology-onco 972 1019	adénocarcinome pulmonaire infiltrant papillaire
+T4	morphology-onco 1297 1306	malignité
+T5	morphology-onco 2322 2360	lésions suspectes dans les tissus mous
+T6	morphology-onco 2779 2788	malignité
+T7	morphology-onco 2823 2842	lésion du tissu mou
+T8	morphology-onco 3056 3063	maligne
+T9	morphology-onco 3150 3159	malignité
+T10	morphology-onco 3704 3732	tumeur à cellules fusiformes
+T11	morphology-onco 3975 3994	cellules fusiformes
+T12	morphology-onco 4038 4060	carcinome sarcomatoïde
+T13	morphology-onco 4087 4120	métastase à partir d'un carcinome
+T14	morphology-onco 4235 4291	Carcinome sarcomatoïde d'origine pulmonaire cTx cNx pM1c
+T15	morphology-onco 4319 4352	atteinte multiple des tissus mous
+T16	morphology-onco 4746 4787	progression radiologique au niveau osseux
+T17	morphology-onco 4803 4819	lésions osseuses
+T18	morphology-onco 5173 5216	progression a été observée au niveau osseux
+T19	morphology-onco 5312 5343	lésions connues des tissus mous
+T20	morphology-onco 5815 5846	lésions connues des tissus mous
+T21	morphology-onco 5961 5977	lésions osseuses
+T22	morphology-onco 6010 6017	tumoral
+#1	ICD-O-3.1 T12	8033/3
+#2	ICD-O-3.1 T19	8000/6
+#3	ICD-O-3.1 T17	8000/6
+#4	ICD-O-3.1 T21	8000/6
+#5	ICD-O-3.1 T7	8000/6
+#6	ICD-O-3.1 T4	8000/3
+#7	ICD-O-3.1 T6	8000/3
+#8	ICD-O-3.1 T8	8000/3
+#9	ICD-O-3.1 T9	8000/3
+#10	ICD-O-3.1 T16	8000/6
+#11	ICD-O-3.1 T1	9970/1
+#12	ICD-O-3.1 T10	8004/3
+#13	ICD-O-3.1 T11	8032/1
+#14	ICD-O-3.1 T22	8000/1
+#15	ICD-O-3.1 T2	9831/3
+#16	ICD-O-3.1 T3	8503/3
+#17	ICD-O-3.1 T13	8010/6
+#18	ICD-O-3.1 T14	8033/6
+#19	ICD-O-3.1 T15	8000/6
+#20	ICD-O-3.1 T18	8000/6
+#21	ICD-O-3.1 T20	8000/6
+#22	ICD-O-3.1 T5	8000/6
+#23	SNOMED T12	23109009
+#24	SNOMED T19	14799000
+#25	SNOMED T17	14799000
+#26	SNOMED T21	14799000
+#27	SNOMED T7	14799000
+#28	SNOMED T4	1240414004
+#29	SNOMED T6	1240414004
+#30	SNOMED T8	1240414004
+#31	SNOMED T9	1240414004
+#32	SNOMED T16	14799000
+#33	SNOMED T1	277466009
+#34	SNOMED T10	88897007
+#35	SNOMED T22	86251006
+#36	SNOMED T2	55081009
+#37	SNOMED T3	64524002
+#38	SNOMED T13	79282002
+#39	SNOMED T15	14799000
+#40	SNOMED T18	14799000
+#41	SNOMED T20	14799000
+#42	SNOMED T5	14799000

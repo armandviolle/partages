@@ -1,0 +1,74 @@
+T1	morphology-onco 264 272	grosseur
+T2	morphology-onco 330 337	cutanée
+T3	morphology-onco 491 497	cancer
+T4	morphology-onco 563 569	tumeur
+T5	morphology-onco 665 674	malignité
+T6	morphology-onco 745 775	carcinome canalaire infiltrant
+T7	morphology-onco 785 788	CDI
+T8	morphology-onco 1106 1116	métastases
+T9	morphology-onco 1194 1197	IDC
+T10	morphology-onco 1250 1252	M1
+T11	morphology-onco 1653 1663	métastases
+T12	morphology-onco 2064 2070	tumeur
+T13	morphology-onco 2414 2420	tumeur
+T14	morphology-onco 2704 2710	tumeur
+T15	morphology-onco 3415 3424	métastase
+T16	morphology-onco 3670 3682	métastatique
+T17	morphology-onco 3724 3732	tumorale
+T18	morphology-onco 3951 3957	tumeur
+T19	morphology-onco 4341 4365	métastase d'un carcinome
+T20	morphology-onco 4498 4516	progression des os
+T21	morphology-onco 4579 4588	métastase
+T22	morphology-onco 4692 4719	cancer du sein métastatique
+T23	morphology-onco 4995 5004	métastase
+T24	morphology-onco 5224 5236	métastatique
+T25	morphology-onco 5686 5753	Métastase cérébelleuse d'un carcinome mammaire canalaire infiltrant
+#1	ICD-O-3.1 T7	8500/3
+#2	ICD-O-3.1 T9	8500/3
+#3	ICD-O-3.1 T10	8000/6
+#4	ICD-O-3.1 T6	8500/3
+#5	ICD-O-3.1 T3	8000/3
+#6	ICD-O-3.1 T22	8000/6
+#7	ICD-O-3.1 T5	8000/3
+#8	ICD-O-3.1 T16	8000/6
+#9	ICD-O-3.1 T24	8000/6
+#10	ICD-O-3.1 T8	8000/6
+#11	ICD-O-3.1 T11	8000/6
+#12	ICD-O-3.1 T15	8000/6
+#13	ICD-O-3.1 T21	8000/6
+#14	ICD-O-3.1 T23	8000/6
+#15	ICD-O-3.1 T19	8010/6
+#16	ICD-O-3.1 T20	8000/6
+#17	ICD-O-3.1 T13	8000/1
+#18	ICD-O-3.1 T14	8000/1
+#19	ICD-O-3.1 T18	8000/1
+#20	ICD-O-3.1 T1	8000/1
+#21	ICD-O-3.1 T4	8000/1
+#22	ICD-O-3.1 T12	8000/1
+#23	ICD-O-3.1 T17	8000/1
+#24	ICD-O-3.1 T2	8000/6
+#25	ICD-O-3.1 T25	8500/6
+#26	SNOMED T7	58477004
+#27	SNOMED T9	58477004
+#28	SNOMED T10	14799000
+#29	SNOMED T6	58477004
+#30	SNOMED T3	1240414004
+#31	SNOMED T22	14799000
+#32	SNOMED T5	1240414004
+#33	SNOMED T16	14799000
+#34	SNOMED T24	14799000
+#35	SNOMED T8	14799000
+#36	SNOMED T11	14799000
+#37	SNOMED T15	14799000
+#38	SNOMED T21	14799000
+#39	SNOMED T23	14799000
+#40	SNOMED T19	79282002
+#41	SNOMED T20	14799000
+#42	SNOMED T13	86251006
+#43	SNOMED T14	86251006
+#44	SNOMED T18	86251006
+#45	SNOMED T1	86251006
+#46	SNOMED T4	86251006
+#47	SNOMED T12	86251006
+#48	SNOMED T17	86251006
+#49	SNOMED T2	14799000

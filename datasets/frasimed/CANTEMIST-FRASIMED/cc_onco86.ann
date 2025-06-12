@@ -1,0 +1,102 @@
+T1	morphology-onco 1720 1727	sarcome
+T2	morphology-onco 1752 1771	nodules pulmonaires
+T3	morphology-onco 1937 1958	nodules sous-pleuraux
+T4	morphology-onco 2033 2043	métastases
+T5	morphology-onco 2181 2197	lésions lytiques
+T6	morphology-onco 2269 2281	métastatique
+T7	morphology-onco 2566 2599	infiltration de la moelle osseuse
+T8	morphology-onco 2619 2621	SE
+T9	morphology-onco 2716 2721	malin
+T10	morphology-onco 2861 2871	métastases
+T11	morphology-onco 3088 3122	tumeur neuroectodermique primitive
+T12	morphology-onco 3123 3125	SE
+T13	morphology-onco 3133 3152	MO infiltrée par SE
+T14	morphology-onco 3362 3390	ES avec maladie métastatique
+T15	morphology-onco 3415 3425	métastases
+T16	morphology-onco 3448 3472	moelle osseuse infiltrée
+T17	morphology-onco 3961 3980	nodules pulmonaires
+T18	morphology-onco 5129 5149	nodules sous-cutanés
+T19	morphology-onco 5435 5446	néoplasique
+T20	morphology-onco 5685 5707	atteinte leptoméningée
+T21	morphology-onco 5767 5801	atteinte métastatique des méninges
+T22	morphology-onco 5776 5788	métastatique
+T23	morphology-onco 5871 5904	infiltration de la moelle osseuse
+T24	morphology-onco 6391 6408	cellules malignes
+T25	morphology-onco 6517 6537	nodules sous-cutanés
+T26	morphology-onco 6592 6594	SE
+T27	morphology-onco 6790 6809	nodules pulmonaires
+T28	morphology-onco 7070 7082	métastatique
+T29	morphology-onco 7190 7218	Sarcome d'Ewing métastatique
+T30	morphology-onco 7239 7252	carcinomatose
+T31	morphology-onco 7279 7299	nodules sous-cutanés
+T32	morphology-onco 7768 7800	progression des tumeurs osseuses
+T33	morphology-onco 7821 7841	nodules sous-cutanés
+T34	morphology-onco 7858 7884	infiltration leptoméningée
+T35	morphology-onco 8139 8154	infiltration MO
+#1	ICD-O-3.1 T20	8000/6
+#2	ICD-O-3.1 T21	8000/6
+#3	ICD-O-3.1 T30	8010/9
+#4	ICD-O-3.1 T24	8001/3
+#5	ICD-O-3.1 T23	8000/6
+#6	ICD-O-3.1 T7	8000/6
+#7	ICD-O-3.1 T34	8000/6
+#8	ICD-O-3.1 T5	8000/6
+#9	ICD-O-3.1 T9	8000/3
+#10	ICD-O-3.1 T6	8000/6
+#11	ICD-O-3.1 T10	8000/6
+#12	ICD-O-3.1 T28	8000/6
+#13	ICD-O-3.1 T22	8000/6
+#14	ICD-O-3.1 T4	8000/6
+#15	ICD-O-3.1 T15	8000/6
+#16	ICD-O-3.1 T19	8000/1
+#17	ICD-O-3.1 T2	8000/6
+#18	ICD-O-3.1 T17	8000/6
+#19	ICD-O-3.1 T27	8000/6
+#20	ICD-O-3.1 T18	8000/6
+#21	ICD-O-3.1 T25	8000/6
+#22	ICD-O-3.1 T31	8000/6
+#23	ICD-O-3.1 T33	8000/6
+#24	ICD-O-3.1 T3	8000/6
+#25	ICD-O-3.1 T1	8800/3
+#26	ICD-O-3.1 T11	9473/3
+#27	ICD-O-3.1 T13	9260/6
+#28	ICD-O-3.1 T14	9260/6
+#29	ICD-O-3.1 T26	9260/3
+#30	ICD-O-3.1 T29	9260/6
+#31	ICD-O-3.1 T32	8000/6
+#32	ICD-O-3.1 T35	8000/6
+#33	ICD-O-3.1 T8	9260/3
+#34	ICD-O-3.1 T12	9260/3
+#35	ICD-O-3.1 T16	8000/6
+#36	SNOMED T20	14799000
+#37	SNOMED T21	14799000
+#38	SNOMED T30	307593001
+#39	SNOMED T24	88400008
+#40	SNOMED T23	14799000
+#41	SNOMED T7	14799000
+#42	SNOMED T34	14799000
+#43	SNOMED T5	14799000
+#44	SNOMED T9	1240414004
+#45	SNOMED T6	14799000
+#46	SNOMED T10	14799000
+#47	SNOMED T28	14799000
+#48	SNOMED T22	14799000
+#49	SNOMED T4	14799000
+#50	SNOMED T15	14799000
+#51	SNOMED T19	86251006
+#52	SNOMED T2	14799000
+#53	SNOMED T17	14799000
+#54	SNOMED T27	14799000
+#55	SNOMED T18	14799000
+#56	SNOMED T25	14799000
+#57	SNOMED T31	14799000
+#58	SNOMED T33	14799000
+#59	SNOMED T3	14799000
+#60	SNOMED T1	1187396000
+#61	SNOMED T11	55045006
+#62	SNOMED T26	76909002
+#63	SNOMED T32	14799000
+#64	SNOMED T35	14799000
+#65	SNOMED T8	76909002
+#66	SNOMED T12	76909002
+#67	SNOMED T16	14799000

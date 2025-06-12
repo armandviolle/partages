@@ -1,0 +1,36 @@
+T1	morphology-onco 433 447	adénocarcinome
+T2	morphology-onco 449 452	ADC
+T3	morphology-onco 685 694	pT3pN2cM0
+T4	morphology-onco 847 910	ADC de la prostate (Gleason 4 + 5) avec de multiples métastases
+T5	morphology-onco 945 954	pT3cN1cM1
+T6	morphology-onco 1228 1264	maladie a progressé au niveau osseux
+T7	morphology-onco 1484 1500	lésions osseuses
+T8	morphology-onco 1582 1606	maladie au niveau osseux
+T9	morphology-onco 3218 3252	cancer de la prostate métastatique
+T10	morphology-onco 3703 3706	ADC
+T11	morphology-onco 3833 3866	infiltration de la moelle osseuse
+T12	morphology-onco 3935 3941	tumeur
+#1	ICD-O-3.1 T2	8140/3
+#2	ICD-O-3.1 T10	8140/3
+#3	ICD-O-3.1 T1	8140/3
+#4	ICD-O-3.1 T11	8000/6
+#5	ICD-O-3.1 T7	8000/6
+#6	ICD-O-3.1 T12	8000/1
+#7	ICD-O-3.1 T3	8000/6
+#8	ICD-O-3.1 T4	8140/63
+#9	ICD-O-3.1 T5	8000/6
+#10	ICD-O-3.1 T6	8000/6
+#11	ICD-O-3.1 T8	8000/6
+#12	ICD-O-3.1 T9	8000/6
+#13	SNOMED T2	1187332001
+#14	SNOMED T10	1187332001
+#15	SNOMED T1	1187332001
+#16	SNOMED T11	14799000
+#17	SNOMED T7	14799000
+#18	SNOMED T12	86251006
+#19	SNOMED T3	14799000
+#20	SNOMED T4	4590003
+#21	SNOMED T5	14799000
+#22	SNOMED T6	14799000
+#23	SNOMED T8	14799000
+#24	SNOMED T9	14799000

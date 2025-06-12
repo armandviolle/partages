@@ -1,0 +1,36 @@
+T1	morphology-onco 512 522	métastases
+T2	morphology-onco 709 743	carcinome rénal à cellules claires
+T3	morphology-onco 709 765	carcinome rénal à cellules claires de grade 3 de Fürhman
+T4	morphology-onco 1235 1241	T3N0M1
+T5	morphology-onco 1338 1358	lésion supraciliaire
+T6	morphology-onco 1481 1490	métastase
+T7	morphology-onco 1511 1513	M1
+T8	morphology-onco 1535 1538	CCR
+T9	morphology-onco 1754 1768	lésion cutanée
+T10	morphology-onco 3538 3547	néoplasme
+T11	morphology-onco 3603 3610	tumeurs
+T12	morphology-onco 4727 4752	cancer à cellules claires
+#1	ICD-O-3.1 T7	8000/6
+#2	ICD-O-3.1 T1	8000/6
+#3	ICD-O-3.1 T6	8000/6
+#4	ICD-O-3.1 T10	8000/1
+#5	ICD-O-3.1 T11	8000/1
+#6	ICD-O-3.1 T3	8312/33
+#7	ICD-O-3.1 T4	8000/6
+#8	ICD-O-3.1 T8	8312/3
+#9	ICD-O-3.1 T9	8000/6
+#10	ICD-O-3.1 T12	8005/3
+#11	ICD-O-3.1 T2	8310/3
+#12	ICD-O-3.1 T5	8000/6
+#13	SNOMED T7	14799000
+#14	SNOMED T1	14799000
+#15	SNOMED T6	14799000
+#16	SNOMED T10	86251006
+#17	SNOMED T11	86251006
+#18	SNOMED T3	41607009
+#19	SNOMED T4	14799000
+#20	SNOMED T8	41607009
+#21	SNOMED T9	14799000
+#22	SNOMED T12	128627007
+#23	SNOMED T2	30546008
+#24	SNOMED T5	14799000

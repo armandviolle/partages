@@ -1,0 +1,18 @@
+T1	disease 35 49	polytraumatisé
+T2	disease 122 138	hypoxémie sévère
+T3	disease 221 280	fracture du zygoma gauche, de la paroi latérale de l'orbite
+T4	disease 293 316	fracture des os propres
+T5	disease 322 346	fracture de la clavicule
+T6	disease 359 378	fracture du sternum
+T7	disease 383 423	multiples fractures costales bilatérales
+T8	disease 429 441	volet costal
+T9	disease 453 474	emphysème sous-cutané
+T10	disease 479 494	pneumomédiastin
+T11	disease 500 512	pneumothorax
+T12	disease 520 551	fracture de la branche pubienne
+T13	disease 575 591	hypoxémie sévère
+T14	disease 744 751	lésions
+T15	disease 1391 1419	fistule trachéo-œsophagienne
+T16	disease 1702 1735	choc résistant aux catécholamines
+T17	disease 1741 1748	acidose
+T18	disease 1752 1761	hypoxémie

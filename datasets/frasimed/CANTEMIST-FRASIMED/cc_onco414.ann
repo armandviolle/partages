@@ -1,0 +1,30 @@
+T1	morphology-onco 1254 1278	relâchement du ballonnet
+T2	morphology-onco 1682 1692	métastases
+T3	morphology-onco 1879 1890	hémangiomes
+T4	morphology-onco 2109 2120	hémangiomes
+T5	morphology-onco 2578 2669	Néoplasie trophoblastique gestationnelle de stade III (en raison d'une atteinte pulmonaire)
+T6	morphology-onco 3130 3140	métastases
+T7	morphology-onco 3180 3224	métastases pulmonaires bilatérales multiples
+T8	morphology-onco 3273 3298	néoplasie trophoblastique
+T9	morphology-onco 3732 3747	choriocarcinome
+T10	morphology-onco 4981 5000	lésions pulmonaires
+#1	ICD-O-3.1 T9	9100/3
+#2	ICD-O-3.1 T3	9120/0
+#3	ICD-O-3.1 T4	9120/0
+#4	ICD-O-3.1 T10	8000/6
+#5	ICD-O-3.1 T2	8000/6
+#6	ICD-O-3.1 T6	8000/6
+#7	ICD-O-3.1 T1	8000/6
+#8	ICD-O-3.1 T5	8000/6/H
+#9	ICD-O-3.1 T7	8000/6
+#10	ICD-O-3.1 T8	8000/1/H
+#11	SNOMED T9	1156971005
+#12	SNOMED T3	253053003
+#13	SNOMED T4	253053003
+#14	SNOMED T10	14799000
+#15	SNOMED T2	14799000
+#16	SNOMED T6	14799000
+#17	SNOMED T1	14799000
+#18	SNOMED T5	14799000
+#19	SNOMED T7	14799000
+#20	SNOMED T8	86251006

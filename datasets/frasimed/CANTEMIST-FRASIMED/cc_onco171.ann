@@ -1,0 +1,63 @@
+T1	morphology-onco 295 303	mélanome
+T2	morphology-onco 304 310	T1N0M0
+T3	morphology-onco 878 905	lésions de l'intestin grêle
+T4	morphology-onco 995 1016	métastase de mélanome
+T5	morphology-onco 1654 1709	tumeur mélanocytaire atypique, principalement fusiforme
+T6	morphology-onco 2527 2561	Récidive péritonéale d'un mélanome
+T7	morphology-onco 2826 2843	implants tumoraux
+T8	morphology-onco 2938 2960	métastases de mélanome
+T9	morphology-onco 3016 3026	métastases
+T10	morphology-onco 3199 3219	récidive intestinale
+T11	morphology-onco 3229 3248	nodule mésentérique
+T12	morphology-onco 3314 3326	métastatique
+T13	morphology-onco 4036 4054	implant péritonéal
+T14	morphology-onco 4166 4176	métastases
+T15	morphology-onco 4229 4241	péritumorale
+T16	morphology-onco 4500 4506	tumeur
+T17	morphology-onco 4572 4593	métastase de mélanome
+T18	morphology-onco 4909 4930	métastase de mélanome
+T19	morphology-onco 4997 5020	récidive dans la narine
+T20	morphology-onco 5202 5248	progression bilatérale de la tumeur pulmonaire
+T21	morphology-onco 5451 5470	nodules pulmonaires
+#1	ICD-O-3.1 T2	8000/6
+#2	ICD-O-3.1 T7	8000/6
+#3	ICD-O-3.1 T1	8720/3
+#4	ICD-O-3.1 T12	8000/6
+#5	ICD-O-3.1 T9	8000/6
+#6	ICD-O-3.1 T14	8000/6
+#7	ICD-O-3.1 T4	8720/6
+#8	ICD-O-3.1 T8	8720/6
+#9	ICD-O-3.1 T17	8720/6
+#10	ICD-O-3.1 T18	8720/6
+#11	ICD-O-3.1 T16	8000/1
+#12	ICD-O-3.1 T3	8000/6
+#13	ICD-O-3.1 T5	8772/3
+#14	ICD-O-3.1 T6	8720/6
+#15	ICD-O-3.1 T10	8000/6
+#16	ICD-O-3.1 T13	8000/6
+#17	ICD-O-3.1 T15	8000/1
+#18	ICD-O-3.1 T19	8000/6
+#19	ICD-O-3.1 T20	8000/6
+#20	ICD-O-3.1 T21	8000/6
+#21	ICD-O-3.1 T11	8000/6
+#22	SNOMED T2	14799000
+#23	SNOMED T7	14799000
+#24	SNOMED T1	1162635006
+#25	SNOMED T12	14799000
+#26	SNOMED T9	14799000
+#27	SNOMED T14	14799000
+#28	SNOMED T4	372158004
+#29	SNOMED T8	372158004
+#30	SNOMED T17	372158004
+#31	SNOMED T18	372158004
+#32	SNOMED T16	86251006
+#33	SNOMED T3	14799000
+#34	SNOMED T5	68827007
+#35	SNOMED T6	372158004
+#36	SNOMED T10	14799000
+#37	SNOMED T13	14799000
+#38	SNOMED T15	86251006
+#39	SNOMED T19	14799000
+#40	SNOMED T20	14799000
+#41	SNOMED T21	14799000
+#42	SNOMED T11	14799000

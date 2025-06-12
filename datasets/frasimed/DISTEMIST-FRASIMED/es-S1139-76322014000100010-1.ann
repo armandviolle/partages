@@ -1,0 +1,8 @@
+T1	disease 611 623	abdomen aigu
+T2	disease 805 822	appendicite aiguë
+T3	disease 1347 1358	obstruction
+T4	disease 2143 2189	appendice cæcal avec des signes inflammatoires
+#1	SNOMED T4	74400008
+#2	SNOMED T3	81060008
+#3	SNOMED T1	9209005
+#4	SNOMED T2	85189001

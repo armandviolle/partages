@@ -1,0 +1,44 @@
+T1	disease 266 278	hypertension
+T2	disease 285 302	diabète de type 2
+T3	disease 388 397	tabagisme
+T4	disease 404 425	consommation d'alcool
+T5	disease 619 625	lésion
+T6	disease 649 665	lymphadénopathie
+T7	disease 844 850	lésion
+T8	disease 1065 1096	perforation des tables osseuses
+T9	disease 1203 1209	lésion
+T10	disease 1264 1279	cavité kystique
+T11	disease 1465 1471	lésion
+T12	disease 1502 1534	tumeur odontogène kératocystique
+T13	disease 2033 2039	lésion
+T14	disease 2096 2161	destruction claire des tables osseuses vestibulaires et linguales
+T15	disease 2305 2311	lésion
+T16	disease 2433 2446	défaut osseux
+T17	disease 2845 2870	prolifération néoplasique
+T18	disease 2883 2925	modèle infiltrant vers le tissu conjonctif
+T19	disease 3204 3272	carcinome épidermique intra-osseux modérément différencié a été posé
+T20	disease 3475 3485	métastases
+T21	disease 3506 3523	tumeurs primaires
+T22	disease 3601 3610	pneumonie
+#1	SNOMED T10	441457006
+#2	SNOMED T2	44054006
+#3	SNOMED T22	233604007
+#4	SNOMED T20	128462008
+#5	SNOMED T3	365982000
+#6	SNOMED T21	372087000
+#7	SNOMED T6	30746006
+#8	SNOMED T12	713277006
+#9	SNOMED T17	1495041000004108
+#10	SNOMED T19	278411006
+#11	SNOMED T1	38341003
+#12	SNOMED T16	76069003
+#13	SNOMED T4	704197006
+#14	SNOMED T5	417163006
+#15	SNOMED T7	417163006
+#16	SNOMED T9	417163006
+#17	SNOMED T11	417163006
+#18	SNOMED T13	417163006
+#19	SNOMED T15	417163006
+#20	SNOMED T14	128233005
+#21	SNOMED T8	126551000
+#22	SNOMED T18	363346000

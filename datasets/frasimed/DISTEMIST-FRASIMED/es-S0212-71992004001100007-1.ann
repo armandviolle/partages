@@ -1,0 +1,30 @@
+T1	disease 150 176	valvulopathie rhumatismale
+T2	disease 184 218	fibrillation auriculaire chronique
+T3	disease 220 223	FAC
+T4	disease 232 235	HTA
+T5	disease 243 276	insuffisance cardiaque congestive
+T6	disease 278 281	ICC
+T7	disease 598 601	ICC
+T8	disease 721 734	hépatomégalie
+T9	disease 1064 1067	ICC
+T10	disease 1525 1532	lésions
+T11	disease 1634 1656	phénomènes vasculaires
+T12	disease 1677 1700	endocardite infectieuse
+T13	disease 1918 1929	végétations
+T14	disease 2548 2573	hématome occipitopariétal
+T15	disease 3002 3019	hématome cérébral
+#1	SNOMED T1	16063004
+#2	SNOMED T2	426749004
+#3	SNOMED T4	38341003
+#4	SNOMED T5	42343007
+#5	SNOMED T6	42343007
+#6	SNOMED T7	42343007
+#7	SNOMED T9	42343007
+#8	SNOMED T12	233850007
+#9	SNOMED T14	450425005
+#10	SNOMED T15	301764006
+#11	SNOMED T11	31996006
+#12	SNOMED T13	264340003
+#13	SNOMED T8	80515008
+#14	SNOMED T10	157670007
+#15	SNOMED T3	426749004

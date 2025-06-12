@@ -1,0 +1,63 @@
+T1	morphology-onco 67 73	cancer
+T2	morphology-onco 124 133	néoplasie
+T3	morphology-onco 178 184	cancer
+T4	morphology-onco 1031 1037	tumeur
+T5	morphology-onco 1247 1281	tumeur stromale gastro-intestinale
+T6	morphology-onco 1481 1487	tumeur
+T7	morphology-onco 1721 1762	fibromatose mésentérique de type desmoïde
+T8	morphology-onco 2152 2169	tumeurs desmoïdes
+T9	morphology-onco 2179 2210	polypose adénomateuse familiale
+T10	morphology-onco 2212 2215	PAF
+T11	morphology-onco 2425 2445	implants péritonéaux
+T12	morphology-onco 2483 2489	tumeur
+T13	morphology-onco 2763 2766	FAP
+T14	morphology-onco 2841 2849	tumorale
+T15	morphology-onco 2851 2871	implants péritonéaux
+T16	morphology-onco 3048 3110	lymphome B diffus à grandes cellules, immunophénotype germinal
+T17	morphology-onco 4196 4215	atteinte abdominale
+T18	morphology-onco 4888 4912	masses intrapéritonéales
+T19	morphology-onco 4943 4956	métastatiques
+T20	morphology-onco 5584 5610	masses au niveau abdominal
+T21	morphology-onco 5691 5759	Lymphome diffus à grandes cellules B (DLBCL) de type centro-germinal
+#1	ICD-O-3.1 T5	8936/3
+#2	ICD-O-3.1 T1	8000/3
+#3	ICD-O-3.1 T3	8000/3
+#4	ICD-O-3.1 T11	8000/6
+#5	ICD-O-3.1 T15	8000/6
+#6	ICD-O-3.1 T19	8000/6
+#7	ICD-O-3.1 T2	8000/1
+#8	ICD-O-3.1 T9	8220/0
+#9	ICD-O-3.1 T4	8000/1
+#10	ICD-O-3.1 T6	8000/1
+#11	ICD-O-3.1 T12	8000/1
+#12	ICD-O-3.1 T14	8000/1
+#13	ICD-O-3.1 T7	8821/1
+#14	ICD-O-3.1 T8	8821/1
+#15	ICD-O-3.1 T10	8220/0
+#16	ICD-O-3.1 T13	8220/0
+#17	ICD-O-3.1 T16	9680/3/H
+#18	ICD-O-3.1 T17	8000/6
+#19	ICD-O-3.1 T18	8000/6
+#20	ICD-O-3.1 T20	8000/6
+#21	ICD-O-3.1 T21	9680/3/H
+#22	SNOMED T5	128756002
+#23	SNOMED T1	1240414004
+#24	SNOMED T3	1240414004
+#25	SNOMED T11	14799000
+#26	SNOMED T15	14799000
+#27	SNOMED T19	14799000
+#28	SNOMED T2	86251006
+#29	SNOMED T9	72900001
+#30	SNOMED T4	86251006
+#31	SNOMED T6	86251006
+#32	SNOMED T12	86251006
+#33	SNOMED T14	86251006
+#34	SNOMED T7	47284001
+#35	SNOMED T8	47284001
+#36	SNOMED T10	72900001
+#37	SNOMED T13	72900001
+#38	SNOMED T16	1172695008
+#39	SNOMED T17	14799000
+#40	SNOMED T18	14799000
+#41	SNOMED T20	14799000
+#42	SNOMED T21	1172695008

@@ -1,0 +1,18 @@
+T1	disease 52 91	maladie de Crohn de localisation iléale
+T2	disease 178 198	crises subocclusives
+T3	disease 260 308	perforation abdominale avec péritonite fécaloïde
+T4	disease 448 476	syndrome de l'intestin court
+T5	disease 486 528	fistule entéro-entérique et entéro-cutanée
+T6	disease 621 666	infection de la plaie avec déhiscence cutanée
+T7	disease 674 693	malnutrition sévère
+T8	disease 1247 1257	cholestase
+T9	disease 1479 1501	fistule entéro-cutanée
+#1	SNOMED T1	38106008
+#2	SNOMED T4	26629001
+#3	SNOMED T5	197247001+3590007
+#4	SNOMED T9	197247001
+#5	SNOMED T2	235825006
+#6	SNOMED T6	76844004+410723003
+#7	SNOMED T3	235985005+56905009
+#8	SNOMED T7	29740003
+#9	SNOMED T8	33688009

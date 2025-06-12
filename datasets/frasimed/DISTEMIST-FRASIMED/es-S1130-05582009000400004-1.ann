@@ -1,0 +1,10 @@
+T1	disease 580 643	lésion radiotransparente, uniloculaire avec des bords sclérosés
+T2	disease 762 779	fibrome ossifiant
+T3	disease 784 790	lésion
+T4	disease 907 924	fibrome ossifiant
+T5	disease 1180 1201	récidive de la tumeur
+#1	SNOMED T2	25603007
+#2	SNOMED T4	25603007
+#3	SNOMED T5	25173007
+#4	SNOMED T1	52988006
+#5	SNOMED T3	417163006

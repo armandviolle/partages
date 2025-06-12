@@ -1,0 +1,27 @@
+T1	morphology-onco 809 820	néoplasique
+T2	morphology-onco 1139 1190	carcinome mammaire canalaire infiltrant, de grade 2
+T3	morphology-onco 1454 1463	malignité
+T4	morphology-onco 1675 1684	malignité
+T5	morphology-onco 1699 1719	extension à distance
+T6	morphology-onco 1843 1863	malignité à distance
+T7	morphology-onco 1917 1947	carcinome canalaire infiltrant
+T8	morphology-onco 1975 1982	cT2N2M0
+T9	morphology-onco 5995 6025	carcinome canalaire infiltrant
+#1	ICD-O-3.1 T7	8500/3
+#2	ICD-O-3.1 T9	8500/3
+#3	ICD-O-3.1 T5	8000/6
+#4	ICD-O-3.1 T3	8000/3
+#5	ICD-O-3.1 T4	8000/3
+#6	ICD-O-3.1 T6	8000/6
+#7	ICD-O-3.1 T1	8000/1
+#8	ICD-O-3.1 T2	8500/32
+#9	ICD-O-3.1 T8	8000/6
+#10	SNOMED T7	58477004
+#11	SNOMED T9	58477004
+#12	SNOMED T5	14799000
+#13	SNOMED T3	1240414004
+#14	SNOMED T4	1240414004
+#15	SNOMED T6	14799000
+#16	SNOMED T1	86251006
+#17	SNOMED T2	58477004
+#18	SNOMED T8	14799000

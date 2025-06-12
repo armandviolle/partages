@@ -1,0 +1,62 @@
+T1	morphology-onco 119 125	tumeur
+T2	morphology-onco 319 336	lésion pulmonaire
+T3	morphology-onco 396 429	lymphadénopathie sus-claviculaire
+T4	morphology-onco 444 466	atteinte surrénalienne
+T5	morphology-onco 639 672	néoplasie pulmonaire métastatique
+T6	morphology-onco 1280 1311	adénopathique supraclaviculaire
+T7	morphology-onco 1764 1805	ganglions lymphatiques supraclaviculaires
+T8	morphology-onco 1817 1853	glande surrénale gauche est atteinte
+T9	morphology-onco 2090 2097	maligne
+T10	morphology-onco 2306 2339	néoplasie pulmonaire métastatique
+T11	morphology-onco 2460 2469	néoplasie
+T12	morphology-onco 2671 2680	métastase
+T13	morphology-onco 3004 3032	processus lymphoprolifératif
+T14	morphology-onco 3106 3134	adénopathie sus-claviculaire
+T15	morphology-onco 3821 3832	néoplasique
+T16	morphology-onco 3973 4006	lymphome folliculaire de grade 3A
+T17	morphology-onco 4131 4139	malignes
+T18	morphology-onco 4236 4248	métastatique
+T19	morphology-onco 4628 4683	lymphome folliculaire de grade 3A stade IVA (métastases
+T20	morphology-onco 5517 5547	adénopathies sus-claviculaires
+T21	morphology-onco 5555 5581	consolidations pulmonaires
+#1	ICD-O-3.1 T9	8000/3
+#2	ICD-O-3.1 T18	8000/6
+#3	ICD-O-3.1 T12	8000/6
+#4	ICD-O-3.1 T11	8000/1
+#5	ICD-O-3.1 T15	8000/1
+#6	ICD-O-3.1 T1	8000/1
+#7	ICD-O-3.1 T5	8000/6
+#8	ICD-O-3.1 T3	8000/6
+#9	ICD-O-3.1 T4	8000/6
+#10	ICD-O-3.1 T6	8000/6
+#11	ICD-O-3.1 T7	8000/6
+#12	ICD-O-3.1 T8	8000/6
+#13	ICD-O-3.1 T10	8000/6
+#14	ICD-O-3.1 T13	9970/1
+#15	ICD-O-3.1 T16	9698/3
+#16	ICD-O-3.1 T17	8000/6
+#17	ICD-O-3.1 T19	9698/6
+#18	ICD-O-3.1 T20	8000/6
+#19	ICD-O-3.1 T21	8000/6
+#20	ICD-O-3.1 T2	8000/6
+#21	ICD-O-3.1 T14	8000/6
+#22	SNOMED T9	1240414004
+#23	SNOMED T18	14799000
+#24	SNOMED T12	14799000
+#25	SNOMED T11	86251006
+#26	SNOMED T15	86251006
+#27	SNOMED T1	86251006
+#28	SNOMED T5	14799000
+#29	SNOMED T3	14799000
+#30	SNOMED T4	14799000
+#31	SNOMED T6	14799000
+#32	SNOMED T7	14799000
+#33	SNOMED T8	14799000
+#34	SNOMED T10	14799000
+#35	SNOMED T13	277466009
+#36	SNOMED T16	40411000
+#37	SNOMED T17	14799000
+#38	SNOMED T20	14799000
+#39	SNOMED T21	14799000
+#40	SNOMED T2	14799000
+#41	SNOMED T14	14799000

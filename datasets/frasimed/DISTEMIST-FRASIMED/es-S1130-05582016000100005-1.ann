@@ -1,0 +1,12 @@
+T1	disease 138 163	fente labiale et palatine
+T2	disease 330 348	hypoplasie malaire
+T3	disease 408 440	dysmorphie de la pyramide nasale
+T4	disease 588 609	hypoplasie maxillaire
+T5	disease 1396 1443	masse faciale, qui a révélé un pseudo-anévrisme
+T6	disease 2037 2100	pseudo-anévrisme et sa dépendance à l'artère maxillaire interne
+#1	SNOMED T2	93303009
+#2	SNOMED T6	443089001
+#3	SNOMED T4	444967008
+#4	SNOMED T1	66948001
+#5	SNOMED T3	128274005
+#6	SNOMED T5	443089001

@@ -1,0 +1,22 @@
+T1	disease 56 71	perte de vision
+T2	disease 190 205	carcinome rénal
+T3	disease 264 284	métastase pulmonaire
+T4	disease 694 715	décollement de rétine
+T5	disease 717 719	RD
+T6	disease 770 796	inflammation intraoculaire
+T7	disease 1298 1304	lésion
+T8	disease 1311 1313	RD
+T9	disease 1606 1634	métastase de carcinome rénal
+T10	disease 1682 1707	infiltrer le nerf optique
+T11	disease 1911 1933	métastase choroïdienne
+#1	SNOMED T2	254915003
+#2	SNOMED T3	94391008
+#3	SNOMED T5	42059000
+#4	SNOMED T8	42059000
+#5	SNOMED T9	702392008
+#6	SNOMED T11	94254004
+#7	SNOMED T4	42059000
+#8	SNOMED T7	417163006
+#9	SNOMED T1	267631003
+#10	SNOMED T6	128473001
+#11	SNOMED T10	312945001

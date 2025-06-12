@@ -1,0 +1,30 @@
+T1	disease 20 30	diabétique
+T2	disease 98 113	lithiase rénale
+T3	disease 120 150	coliques néphrétiques répétées
+T4	disease 164 188	néoplasie maligne du cou
+T5	disease 449 467	infection urinaire
+T6	disease 1318 1336	infection urinaire
+T7	disease 2334 2350	prostatite aiguë
+T8	disease 2374 2377	HBP
+T9	disease 3313 3330	abcès prostatique
+T10	disease 3453 3458	abcès
+T11	disease 3672 3691	symptômes septiques
+T12	disease 3835 3840	abcès
+T13	disease 3898 3937	prostate avec une collection de liquide
+T14	disease 4483 4511	adénocarcinome microacinaire
+T15	disease 4580 4617	prostatite abcédée chronique et aiguë
+#1	SNOMED T6	68566005
+#2	SNOMED T1	73211009
+#3	SNOMED T7	79411002
+#4	SNOMED T14	443961001
+#5	SNOMED T8	266569009
+#6	SNOMED T2	95570007
+#7	SNOMED T3	7093002
+#8	SNOMED T15	8725005
+#9	SNOMED T4	93922007
+#10	SNOMED T11	238150007
+#11	SNOMED T5	68566005
+#12	SNOMED T13	8725005
+#13	SNOMED T9	8725005
+#14	SNOMED T12	128477000
+#15	SNOMED T10	128477000

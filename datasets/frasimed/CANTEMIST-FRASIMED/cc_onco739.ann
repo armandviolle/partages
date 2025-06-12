@@ -1,0 +1,52 @@
+T1	morphology-onco 956 962	tumeur
+T2	morphology-onco 1068 1093	tumeur fibreuse solitaire
+T3	morphology-onco 1225 1231	tumeur
+T4	morphology-onco 1363 1369	tumeur
+T5	morphology-onco 1990 2032	métastases d'une tumeur fibreuse solitaire
+T6	morphology-onco 2106 2124	récidive hépatique
+T7	morphology-onco 2517 2533	lésion hépatique
+T8	morphology-onco 2871 2890	nodules pulmonaires
+T9	morphology-onco 3060 3069	métastase
+T10	morphology-onco 4195 4212	Nodule pulmonaire
+T11	morphology-onco 4600 4609	métastase
+T12	morphology-onco 4680 4689	métastase
+T13	morphology-onco 4765 4774	malignité
+T14	morphology-onco 4921 4931	métastases
+T15	morphology-onco 4976 4995	nodules pulmonaires
+T16	morphology-onco 5010 5019	malignité
+T17	morphology-onco 5147 5211	Récidive hépatique et pulmonaire d'une tumeur fibreuse solitaire
+T18	morphology-onco 6325 6335	métastases
+#1	ICD-O-3.1 T13	8000/3
+#2	ICD-O-3.1 T16	8000/3
+#3	ICD-O-3.1 T9	8000/6
+#4	ICD-O-3.1 T11	8000/6
+#5	ICD-O-3.1 T12	8000/6
+#6	ICD-O-3.1 T14	8000/6
+#7	ICD-O-3.1 T18	8000/6
+#8	ICD-O-3.1 T2	8815/0
+#9	ICD-O-3.1 T1	8000/1
+#10	ICD-O-3.1 T3	8000/1
+#11	ICD-O-3.1 T4	8000/1
+#12	ICD-O-3.1 T5	8815/6
+#13	ICD-O-3.1 T6	8000/6
+#14	ICD-O-3.1 T7	8000/6
+#15	ICD-O-3.1 T8	8000/6
+#16	ICD-O-3.1 T15	8000/6
+#17	ICD-O-3.1 T17	8815/6
+#18	ICD-O-3.1 T10	8000/6
+#19	SNOMED T13	1240414004
+#20	SNOMED T16	1240414004
+#21	SNOMED T9	14799000
+#22	SNOMED T11	14799000
+#23	SNOMED T12	14799000
+#24	SNOMED T14	14799000
+#25	SNOMED T18	14799000
+#26	SNOMED T2	128736003
+#27	SNOMED T1	86251006
+#28	SNOMED T3	86251006
+#29	SNOMED T4	86251006
+#30	SNOMED T6	14799000
+#31	SNOMED T7	14799000
+#32	SNOMED T8	14799000
+#33	SNOMED T15	14799000
+#34	SNOMED T10	14799000

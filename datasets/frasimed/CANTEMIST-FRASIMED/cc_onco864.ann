@@ -1,0 +1,66 @@
+T1	morphology-onco 211 219	mélanome
+T2	morphology-onco 281 289	mélanome
+T3	morphology-onco 440 455	micrométastases
+T4	morphology-onco 541 548	T3N2M1b
+T5	morphology-onco 588 598	métastases
+T6	morphology-onco 676 686	métastases
+T7	morphology-onco 1089 1112	implant rétropéritonéal
+T8	morphology-onco 1129 1150	lésions sous-cutanées
+T9	morphology-onco 1455 1474	lésions pulmonaires
+T10	morphology-onco 2274 2292	lésions cérébrales
+T11	morphology-onco 2388 2397	métastase
+T12	morphology-onco 2795 2844	métastase intramédullaire solitaire d'un mélanome
+T13	morphology-onco 2884 2893	métastase
+T14	morphology-onco 2921 2941	implant mésentérique
+T15	morphology-onco 2995 3004	métastase
+T16	morphology-onco 3033 3055	Nodule rétropéritonéal
+T17	morphology-onco 3057 3076	nodules pulmonaires
+T18	morphology-onco 3193 3203	métastases
+T19	morphology-onco 3268 3296	maladie aux niveaux cérébral
+T20	morphology-onco 4079 4093	lésion spinale
+T21	morphology-onco 4169 4187	lésions cérébrales
+T22	morphology-onco 4853 4866	métastatiques
+#1	ICD-O-3.1 T10	8000/6
+#2	ICD-O-3.1 T21	8000/6
+#3	ICD-O-3.1 T9	8000/6
+#4	ICD-O-3.1 T1	8720/3
+#5	ICD-O-3.1 T2	8720/3
+#6	ICD-O-3.1 T5	8000/6
+#7	ICD-O-3.1 T6	8000/6
+#8	ICD-O-3.1 T11	8000/6
+#9	ICD-O-3.1 T13	8000/6
+#10	ICD-O-3.1 T15	8000/6
+#11	ICD-O-3.1 T18	8000/6
+#12	ICD-O-3.1 T3	8000/6
+#13	ICD-O-3.1 T17	8000/6
+#14	ICD-O-3.1 T4	8000/6
+#15	ICD-O-3.1 T7	8000/6
+#16	ICD-O-3.1 T8	8000/6
+#17	ICD-O-3.1 T12	8720/6
+#18	ICD-O-3.1 T14	8000/6
+#19	ICD-O-3.1 T16	8000/6
+#20	ICD-O-3.1 T19	8000/6
+#21	ICD-O-3.1 T20	8000/6
+#22	ICD-O-3.1 T22	8000/6
+#23	SNOMED T10	14799000
+#24	SNOMED T21	14799000
+#25	SNOMED T9	14799000
+#26	SNOMED T1	1162635006
+#27	SNOMED T2	1162635006
+#28	SNOMED T5	14799000
+#29	SNOMED T6	14799000
+#30	SNOMED T11	14799000
+#31	SNOMED T13	14799000
+#32	SNOMED T15	14799000
+#33	SNOMED T18	14799000
+#34	SNOMED T3	14799000
+#35	SNOMED T17	14799000
+#36	SNOMED T4	14799000
+#37	SNOMED T7	14799000
+#38	SNOMED T8	14799000
+#39	SNOMED T12	372158004
+#40	SNOMED T14	14799000
+#41	SNOMED T16	14799000
+#42	SNOMED T19	14799000
+#43	SNOMED T20	14799000
+#44	SNOMED T22	14799000

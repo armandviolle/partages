@@ -1,0 +1,8 @@
+T1	disease 111 190	syndrome coronarien aigu avec élévation du segment ST dans la partie antérieure
+T2	disease 294 368	lésion dans la partie moyenne de l'artère coronaire descendante antérieure
+T3	disease 655 665	hématémèse
+T4	disease 881 904	lésion de Mallory Weiss
+#1	SNOMED T1	394659003
+#2	SNOMED T2	414024009
+#3	SNOMED T3	8765009
+#4	SNOMED T4	307131005

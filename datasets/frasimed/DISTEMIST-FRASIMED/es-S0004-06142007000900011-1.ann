@@ -1,0 +1,18 @@
+T1	disease 43 100	hémorragie gastro-intestinale supérieure due à l'aspirine
+T2	disease 106 137	accident ischémique transitoire
+T3	disease 861 937	hématome étendu, de 12 cm de diamètre maximum, dans la cellule rénale gauche
+T4	disease 944 973	liquide intrapéritonéal libre
+T5	disease 1095 1098	HTA
+T6	disease 1488 1506	crise hypertensive
+T7	disease 1613 1658	rupture non traumatique d'un phéochromocytome
+T8	disease 2223 2231	hématome
+T9	disease 2283 2342	image pseudo-kystique persistait dans la zone surrénalienne
+#1	SNOMED T8	385494008
+#2	SNOMED T7	302835009
+#3	SNOMED T1	37372002
+#4	SNOMED T2	266257000
+#5	SNOMED T9	30171000
+#6	SNOMED T3	262891006
+#7	SNOMED T5	38341003
+#8	SNOMED T6	706882009
+#9	SNOMED T4	271861000

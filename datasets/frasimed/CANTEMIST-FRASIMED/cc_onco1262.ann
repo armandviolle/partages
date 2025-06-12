@@ -1,0 +1,18 @@
+T1	morphology-onco 1085 1097	métastatique
+T2	morphology-onco 1246 1293	carcinome épidermoïde bien différencié du pénis
+T3	morphology-onco 1398 1441	carcinome malpighien modérément différencié
+T4	morphology-onco 1498 1515	carcinome in situ
+T5	morphology-onco 1524 1540	maladie de Bowen
+T6	morphology-onco 1583 1589	tumeur
+#1	ICD-O-3.1 T3	8070/32
+#2	ICD-O-3.1 T4	8010/2
+#3	ICD-O-3.1 T1	8000/6
+#4	ICD-O-3.1 T6	8000/1
+#5	ICD-O-3.1 T2	8070/31
+#6	ICD-O-3.1 T5	8081/2
+#7	SNOMED T3	1162767002
+#8	SNOMED T4	1187138006
+#9	SNOMED T1	14799000
+#10	SNOMED T6	86251006
+#11	SNOMED T2	1162767002
+#12	SNOMED T5	254656002

@@ -1,0 +1,8 @@
+T1	disease 70 77	diabète
+T2	disease 104 129	pancréatite aiguë modérée
+T3	disease 506 513	syncope
+T4	disease 678 716	pseudo-kyste pancréatique hémorragique
+#1	SNOMED T1	73211009
+#2	SNOMED T2	197456007
+#3	SNOMED T3	29423006
+#4	SNOMED T4	111374002

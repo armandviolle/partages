@@ -1,0 +1,16 @@
+T1	disease 29 39	hépatite B
+T2	disease 273 287	viscéromégalie
+T3	disease 1928 1953	fibroadénome de l'urachus
+T4	disease 2131 2163	tumeur morphologiquement bénigne
+T5	disease 2261 2267	tumeur
+T6	disease 2691 2717	tumeur épithéliale maligne
+T7	disease 3431 3437	tumeur
+T8	disease 4093 4118	tumeur fibreuse solitaire
+#1	SNOMED T1	66071002
+#2	SNOMED T3	126893006
+#3	SNOMED T4	55342001
+#4	SNOMED T6	68453008
+#5	SNOMED T7	55342001
+#6	SNOMED T8	128736003
+#7	SNOMED T2	28543008
+#8	SNOMED T5	55342001

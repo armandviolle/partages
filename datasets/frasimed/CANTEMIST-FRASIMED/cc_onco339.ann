@@ -1,0 +1,42 @@
+T1	morphology-onco 1209 1224	néoplasme malin
+T2	morphology-onco 1578 1597	nodules pulmonaires
+T3	morphology-onco 1655 1665	métastases
+T4	morphology-onco 2062 2081	cellularité maligne
+T5	morphology-onco 2192 2204	néoformation
+T6	morphology-onco 2722 2745	carcinome indifférencié
+T7	morphology-onco 2752 2796	sarcome avec des caractéristiques rhabdoïdes
+T8	morphology-onco 2992 3013	Carcinome anaplasique
+T9	morphology-onco 2992 3032	Carcinome anaplasique à grandes cellules
+T10	morphology-onco 3176 3178	M1
+T11	morphology-onco 3180 3190	métastases
+T12	morphology-onco 3426 3428	M1
+T13	morphology-onco 4124 4145	carcinome anaplasique
+T14	morphology-onco 5096 5102	tumeur
+#1	ICD-O-3.1 T8	8021/3
+#2	ICD-O-3.1 T10	8000/6
+#3	ICD-O-3.1 T12	8000/6
+#4	ICD-O-3.1 T13	8021/3
+#5	ICD-O-3.1 T6	8020/3
+#6	ICD-O-3.1 T3	8000/6
+#7	ICD-O-3.1 T11	8000/6
+#8	ICD-O-3.1 T5	8000/1
+#9	ICD-O-3.1 T14	8000/1
+#10	ICD-O-3.1 T1	8000/3
+#11	ICD-O-3.1 T2	8000/6
+#12	ICD-O-3.1 T4	8001/3
+#13	ICD-O-3.1 T7	8963/3
+#14	ICD-O-3.1 T9	8012/3
+#15	SNOMED T8	38549000
+#16	SNOMED T10	14799000
+#17	SNOMED T12	14799000
+#18	SNOMED T13	38549000
+#19	SNOMED T6	38549000
+#20	SNOMED T3	14799000
+#21	SNOMED T11	14799000
+#22	SNOMED T5	86251006
+#23	SNOMED T14	86251006
+#24	SNOMED T1	1240414004
+#25	SNOMED T2	14799000
+#26	SNOMED T4	88400008
+#27	SNOMED T7	1156418001
+#28	SNOMED T9	22687000

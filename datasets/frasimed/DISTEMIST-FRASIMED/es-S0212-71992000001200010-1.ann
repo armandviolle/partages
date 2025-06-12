@@ -1,0 +1,28 @@
+T1	disease 44 60	maladie de Crohn
+T2	disease 119 140	occlusion intestinale
+T3	disease 447 482	exacerbation de la maladie de Crohn
+T4	disease 854 867	hépatomégalie
+T5	disease 1307 1351	multiples abcès dans le lobe hépatique droit
+T6	disease 1365 1380	abcès abdominal
+T7	disease 1654 1659	abcès
+T8	disease 1726 1739	abcès du foie
+T9	disease 1865 1908	sténoses au niveau du jéjunum et de l'iléon
+T10	disease 1929 1936	fistule
+T11	disease 1942 1965	obstruction intestinale
+T12	disease 1970 1983	abcès du foie
+T13	disease 2062 2067	abcès
+T14	disease 2547 2552	abcès
+#1	SNOMED T12	27916005
+#2	SNOMED T1	34000006
+#3	SNOMED T13	128477000
+#4	SNOMED T2	81060008
+#5	SNOMED T3	34000006
+#6	SNOMED T14	128477000
+#7	SNOMED T5	27916005
+#8	SNOMED T6	75100008
+#9	SNOMED T8	27916005
+#10	SNOMED T9	903952141000132105+95539004
+#11	SNOMED T11	81060008
+#12	SNOMED T10	428794004
+#13	SNOMED T7	128477000
+#14	SNOMED T4	80515008

@@ -1,0 +1,5 @@
+T1	morphology-onco 412 475	carcinome rénal à cellules claires avec dissémination hépatique
+T2	morphology-onco 546 555	néoplasme
+#1	ICD-O-3.1 T2	8000/1
+#2	ICD-O-3.1 T1	8310/6
+#3	SNOMED T2	86251006

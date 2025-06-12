@@ -1,0 +1,32 @@
+T1	morphology-onco 682 691	néoplasie
+T2	morphology-onco 815 837	tumeur germinale mixte
+T3	morphology-onco 863 921	composante embryonnaire mixte 40 % et tératome mature 60 %
+T4	morphology-onco 901 916	tératome mature
+T5	morphology-onco 1233 1245	métastatique
+T6	morphology-onco 1435 1441	tumeur
+T7	morphology-onco 3469 3477	tumoraux
+T8	morphology-onco 3559 3567	tératome
+T9	morphology-onco 3610 3618	tératome
+T10	morphology-onco 4775 4796	métastase de tératome
+T11	morphology-onco 5055 5063	tumorale
+#1	ICD-O-3.1 T5	8000/6
+#2	ICD-O-3.1 T1	8000/1
+#3	ICD-O-3.1 T8	9080/1
+#4	ICD-O-3.1 T9	9080/1
+#5	ICD-O-3.1 T4	9080/0
+#6	ICD-O-3.1 T7	8000/1
+#7	ICD-O-3.1 T6	8000/1
+#8	ICD-O-3.1 T11	8000/1
+#9	ICD-O-3.1 T2	9085/3
+#10	ICD-O-3.1 T3	9081/3
+#11	ICD-O-3.1 T10	9080/6
+#12	SNOMED T5	14799000
+#13	SNOMED T1	86251006
+#14	SNOMED T8	1187393008
+#15	SNOMED T9	1187393008
+#16	SNOMED T4	42717009
+#17	SNOMED T7	86251006
+#18	SNOMED T6	86251006
+#19	SNOMED T11	86251006
+#20	SNOMED T2	32844007
+#21	SNOMED T3	67830002

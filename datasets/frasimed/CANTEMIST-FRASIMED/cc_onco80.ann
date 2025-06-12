@@ -1,0 +1,54 @@
+T1	morphology-onco 860 886	mélanome superficiel étalé
+T2	morphology-onco 1336 1345	néoplasie
+T3	morphology-onco 1431 1446	micrométastases
+T4	morphology-onco 1477 1492	micrométastases
+T5	morphology-onco 1600 1610	métastases
+T6	morphology-onco 1674 1708	mélanome à extension superficielle
+T7	morphology-onco 1948 1964	lésions cutanées
+T8	morphology-onco 2013 2024	naevus bleu
+T9	morphology-onco 2071 2100	métastase cutanée de mélanome
+T10	morphology-onco 2145 2163	maladie à distance
+T11	morphology-onco 2434 2450	lésions cutanées
+T12	morphology-onco 2660 2670	métastases
+T13	morphology-onco 2812 2818	tumeur
+T14	morphology-onco 3968 3976	mélanome
+T15	morphology-onco 4020 4030	métastases
+T16	morphology-onco 5254 5270	lésions cutanées
+T17	morphology-onco 7696 7706	métastases
+T18	morphology-onco 7827 7835	mélanome
+#1	ICD-O-3.1 T10	8000/6
+#2	ICD-O-3.1 T14	8720/3
+#3	ICD-O-3.1 T18	8720/3
+#4	ICD-O-3.1 T5	8000/6
+#5	ICD-O-3.1 T12	8000/6
+#6	ICD-O-3.1 T15	8000/6
+#7	ICD-O-3.1 T17	8000/6
+#8	ICD-O-3.1 T3	8000/6
+#9	ICD-O-3.1 T4	8000/6
+#10	ICD-O-3.1 T2	8000/1
+#11	ICD-O-3.1 T8	8780/0
+#12	ICD-O-3.1 T13	8000/1
+#13	ICD-O-3.1 T1	8743/3
+#14	ICD-O-3.1 T6	8743/3
+#15	ICD-O-3.1 T9	8720/6
+#16	ICD-O-3.1 T7	8000/6
+#17	ICD-O-3.1 T11	8000/6
+#18	ICD-O-3.1 T16	8000/6
+#19	SNOMED T10	14799000
+#20	SNOMED T14	1162635006
+#21	SNOMED T18	1162635006
+#22	SNOMED T5	14799000
+#23	SNOMED T12	14799000
+#24	SNOMED T15	14799000
+#25	SNOMED T17	14799000
+#26	SNOMED T3	14799000
+#27	SNOMED T4	14799000
+#28	SNOMED T2	86251006
+#29	SNOMED T8	254806009
+#30	SNOMED T13	86251006
+#31	SNOMED T1	55320002
+#32	SNOMED T6	55320002
+#33	SNOMED T9	372158004
+#34	SNOMED T7	14799000
+#35	SNOMED T11	14799000
+#36	SNOMED T16	14799000

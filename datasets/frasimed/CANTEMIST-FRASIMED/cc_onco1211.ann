@@ -1,0 +1,12 @@
+T1	morphology-onco 1199 1235	métastase d'un carcinome épidermoïde
+T2	morphology-onco 2085 2102	carcinome in situ
+T3	morphology-onco 2276 2297	carcinome épidermoïde
+T4	morphology-onco 2314 2316	M0
+#1	ICD-O-3.1 T4	8000/6
+#2	ICD-O-3.1 T3	8070/3
+#3	ICD-O-3.1 T2	8010/2
+#4	ICD-O-3.1 T1	8070/6
+#5	SNOMED T4	14799000
+#6	SNOMED T3	1162767002
+#7	SNOMED T2	1187138006
+#8	SNOMED T1	403906006

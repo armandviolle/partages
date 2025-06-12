@@ -1,0 +1,10 @@
+T1	disease 143 153	hémothorax
+T2	disease 1164 1167	HCL
+T3	disease 1349 1404	lymphadénopathie dans la localisation supraclaviculaire
+T4	disease 1458 1520	maladie de Hodgkin de type sclérose nodulaire associée à l'HCL
+T5	disease 1517 1520	HCL
+#1	SNOMED T2	65399007
+#2	SNOMED T3	127088000
+#3	SNOMED T4	118608000
+#4	SNOMED T5	65399007
+#5	SNOMED T1	31892009

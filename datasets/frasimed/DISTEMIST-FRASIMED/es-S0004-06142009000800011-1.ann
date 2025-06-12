@@ -1,0 +1,4 @@
+T1	disease 626 684	tumeur mésenchymateuse bénigne ou à faible potentiel malin
+T2	disease 1990 2022	léiomyosarcome de très bas grade
+#1	SNOMED T1	55342001
+#2	SNOMED T2	443719001

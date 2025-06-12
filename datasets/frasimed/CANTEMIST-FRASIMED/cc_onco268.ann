@@ -1,0 +1,15 @@
+T1	morphology-onco 163 172	néoplasie
+T2	morphology-onco 303 328	adénocarcinome intestinal
+T3	morphology-onco 442 461	nodules pulmonaires
+T4	morphology-onco 494 504	métastases
+T5	morphology-onco 527 541	adénocarcinome
+#1	ICD-O-3.1 T5	8140/3
+#2	ICD-O-3.1 T2	8144/3
+#3	ICD-O-3.1 T4	8000/6
+#4	ICD-O-3.1 T1	8000/1
+#5	ICD-O-3.1 T3	8000/6
+#6	SNOMED T5	1187332001
+#7	SNOMED T2	25190001
+#8	SNOMED T4	14799000
+#9	SNOMED T1	86251006
+#10	SNOMED T3	14799000

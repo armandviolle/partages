@@ -1,0 +1,20 @@
+T1	disease 43 55	hypertension
+T2	disease 62 74	dyslipidémie
+T3	disease 85 108	cardiopathie ischémique
+T4	disease 115 151	infarctus du myocarde inférieur aigu
+T5	disease 165 191	artériopathie périphérique
+T6	disease 243 323	ischémie aiguë du membre inférieur gauche en 2010 due à une occlusion du pontage
+T7	disease 447 476	insuffisance rénale chronique
+T8	disease 507 526	néphroangiosclérose
+T9	disease 2057 2080	spondylodiscite D10-D11
+T10	disease 2106 2125	abcès paravertébral
+#1	SNOMED T1	38341003
+#2	SNOMED T2	370992007
+#3	SNOMED T3	194828000
+#4	SNOMED T4	73795002
+#5	SNOMED T5	399957001
+#6	SNOMED T6	306847001+233961000
+#7	SNOMED T9	203241002
+#8	SNOMED T10	405562002
+#9	SNOMED T7	90688005
+#10	SNOMED T8	473392002

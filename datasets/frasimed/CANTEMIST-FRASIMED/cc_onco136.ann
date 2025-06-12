@@ -1,0 +1,33 @@
+T1	morphology-onco 1735 1742	maligne
+T2	morphology-onco 2155 2164	malignité
+T3	morphology-onco 2267 2281	adénocarcinome
+T4	morphology-onco 2461 2519	adénocarcinome infiltrant multifocal bien différencié (G1)
+T5	morphology-onco 2590 2613	adénocarcinome mucineux
+T6	morphology-onco 2590 2621	adénocarcinome mucineux in situ
+T7	morphology-onco 2650 2659	néoplasie
+T8	morphology-onco 2673 2687	Adénocarcinome
+T9	morphology-onco 2710 2712	M0
+T10	morphology-onco 3297 3328	lésions pulmonaires bilatérales
+T11	morphology-onco 5308 5315	tumoral
+#1	ICD-O-3.1 T8	8140/3
+#2	ICD-O-3.1 T9	8000/6
+#3	ICD-O-3.1 T3	8140/3
+#4	ICD-O-3.1 T1	8000/3
+#5	ICD-O-3.1 T2	8000/3
+#6	ICD-O-3.1 T7	8000/1
+#7	ICD-O-3.1 T11	8000/1
+#8	ICD-O-3.1 T4	8140/31/H
+#9	ICD-O-3.1 T5	8480/3
+#10	ICD-O-3.1 T6	8140/2
+#11	ICD-O-3.1 T10	8000/6
+#12	SNOMED T8	1187332001
+#13	SNOMED T9	14799000
+#14	SNOMED T3	1187332001
+#15	SNOMED T1	1240414004
+#16	SNOMED T2	1240414004
+#17	SNOMED T7	86251006
+#18	SNOMED T11	86251006
+#19	SNOMED T4	1187332001
+#20	SNOMED T5	72495009
+#21	SNOMED T6	51642000
+#22	SNOMED T10	14799000

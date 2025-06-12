@@ -1,0 +1,60 @@
+T1	morphology-onco 305 320	hépatocarcinome
+T2	morphology-onco 724 738	adénocarcinome
+T3	morphology-onco 827 833	tumeur
+T4	morphology-onco 1130 1187	adénocarcinome ulcéro-végétatif bien différencié du côlon
+T5	morphology-onco 1377 1383	tumeur
+T6	morphology-onco 1450 1468	maladie à distance
+T7	morphology-onco 2416 2441	adénocarcinome infiltrant
+T8	morphology-onco 2537 2547	métastases
+T9	morphology-onco 2680 2717	adénocarcinome modérément différencié
+T10	morphology-onco 2762 2772	métastases
+T11	morphology-onco 3332 3339	tumoral
+T12	morphology-onco 3355 3367	métastatique
+T13	morphology-onco 3992 4001	malignité
+T14	morphology-onco 4342 4358	lésion hépatique
+T15	morphology-onco 4539 4622	adénocarcinome intestinal modérément différencié avec une composante mucosécrétoire
+T16	morphology-onco 5420 5429	métastase
+T17	morphology-onco 5544 5551	maligne
+T18	morphology-onco 5736 5750	adénocarcinome
+T19	morphology-onco 7050 7064	adénocarcinome
+T20	morphology-onco 7137 7146	malignité
+#1	ICD-O-3.1 T2	8140/3
+#2	ICD-O-3.1 T18	8140/3
+#3	ICD-O-3.1 T19	8140/3
+#4	ICD-O-3.1 T4	8140/31
+#5	ICD-O-3.1 T7	8140/3/H
+#6	ICD-O-3.1 T9	8140/32
+#7	ICD-O-3.1 T6	8000/6
+#8	ICD-O-3.1 T1	8170/3
+#9	ICD-O-3.1 T14	8000/6
+#10	ICD-O-3.1 T13	8000/3
+#11	ICD-O-3.1 T17	8000/3
+#12	ICD-O-3.1 T20	8000/3
+#13	ICD-O-3.1 T12	8000/6
+#14	ICD-O-3.1 T8	8000/6
+#15	ICD-O-3.1 T10	8000/6
+#16	ICD-O-3.1 T16	8000/6
+#17	ICD-O-3.1 T5	8000/1
+#18	ICD-O-3.1 T3	8000/1
+#19	ICD-O-3.1 T11	8000/1
+#20	ICD-O-3.1 T15	8481/32
+#21	SNOMED T2	1187332001
+#22	SNOMED T18	1187332001
+#23	SNOMED T19	1187332001
+#24	SNOMED T4	1187332001
+#25	SNOMED T7	1187332001
+#26	SNOMED T9	1187332001
+#27	SNOMED T6	14799000
+#28	SNOMED T1	1186630006
+#29	SNOMED T14	14799000
+#30	SNOMED T13	1240414004
+#31	SNOMED T17	1240414004
+#32	SNOMED T20	1240414004
+#33	SNOMED T12	14799000
+#34	SNOMED T8	14799000
+#35	SNOMED T10	14799000
+#36	SNOMED T16	14799000
+#37	SNOMED T5	86251006
+#38	SNOMED T3	86251006
+#39	SNOMED T11	86251006
+#40	SNOMED T15	900006

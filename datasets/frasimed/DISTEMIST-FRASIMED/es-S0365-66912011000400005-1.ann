@@ -1,0 +1,20 @@
+T1	disease 44 107	polyarthrite rhumatoïde (PR) séropositive, érosive et nodulaire
+T2	disease 69 71	PR
+T3	disease 682 794	arthrite septique de la cheville droite avec une culture du liquide synovial positive pour Staphylococcus aureus
+T4	disease 1132 1140	sclérite
+T5	disease 1217 1220	QUP
+T6	disease 1526 1546	perforation oculaire
+T7	disease 1622 1630	sclérite
+T8	disease 1939 1954	leucome cornéen
+T9	disease 1968 1976	sclérite
+T10	disease 2046 2048	RA
+#1	SNOMED T3	111820003
+#2	SNOMED T1	308143008
+#3	SNOMED T2	69896004
+#4	SNOMED T4	78370002
+#5	SNOMED T5	416473005
+#6	SNOMED T6	231879009
+#7	SNOMED T7	78370002
+#8	SNOMED T8	704272003
+#9	SNOMED T9	78370002
+#10	SNOMED T10	69896004

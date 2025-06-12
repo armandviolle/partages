@@ -1,0 +1,45 @@
+T1	morphology-onco 636 682	carcinome canalaire micropapillaire infiltrant
+T2	morphology-onco 636 695	carcinome canalaire micropapillaire infiltrant de grade III
+T3	morphology-onco 2087 2108	cellules néoplasiques
+T4	morphology-onco 2129 2135	cancer
+T5	morphology-onco 2466 2476	métastases
+T6	morphology-onco 2722 2738	lésions osseuses
+T7	morphology-onco 2823 2831	tumorale
+T8	morphology-onco 2851 2861	métastases
+T9	morphology-onco 3097 3112	maladie osseuse
+T10	morphology-onco 3514 3524	métastases
+T11	morphology-onco 3985 4012	maladie au niveau hépatique
+T12	morphology-onco 4819 4829	métastases
+T13	morphology-onco 4880 4896	lésions osseuses
+T14	morphology-onco 6636 6659	lésions de blast osseux
+T15	morphology-onco 6663 6690	foie avec multiples lésions
+#1	ICD-O-3.1 T4	8000/3
+#2	ICD-O-3.1 T3	8001/1
+#3	ICD-O-3.1 T9	8000/6
+#4	ICD-O-3.1 T6	8000/6
+#5	ICD-O-3.1 T13	8000/6
+#6	ICD-O-3.1 T5	8000/6
+#7	ICD-O-3.1 T8	8000/6
+#8	ICD-O-3.1 T10	8000/6
+#9	ICD-O-3.1 T12	8000/6
+#10	ICD-O-3.1 T7	8000/1
+#11	ICD-O-3.1 T2	8500/33
+#12	ICD-O-3.1 T1	8265/3
+#13	ICD-O-3.1 T11	8000/6
+#14	ICD-O-3.1 T14	8000/6
+#15	ICD-O-3.1 T15	8000/6
+#16	SNOMED T4	1240414004
+#17	SNOMED T3	39577004
+#18	SNOMED T9	14799000
+#19	SNOMED T6	14799000
+#20	SNOMED T13	14799000
+#21	SNOMED T5	14799000
+#22	SNOMED T8	14799000
+#23	SNOMED T10	14799000
+#24	SNOMED T12	14799000
+#25	SNOMED T7	86251006
+#26	SNOMED T2	58477004
+#27	SNOMED T1	450895005
+#28	SNOMED T11	14799000
+#29	SNOMED T14	14799000
+#30	SNOMED T15	14799000

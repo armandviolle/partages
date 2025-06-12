@@ -1,0 +1,12 @@
+T1	disease 1145 1162	lymphadénopathies
+T2	disease 1297 1325	processus lymphoprolifératif
+T3	disease 1331 1347	tumeur neurogène
+T4	disease 1355 1377	tumeur mésenchymateuse
+T5	disease 2750 2789	hyperplasie angiofolliculaire lymphoïde
+T6	disease 2799 2848	maladie de Castleman, variante hyaline-vasculaire
+#1	SNOMED T5	207036003
+#2	SNOMED T6	127213008
+#3	SNOMED T1	30746006
+#4	SNOMED T2	277466009
+#5	SNOMED T3	55342001
+#6	SNOMED T4	55342001

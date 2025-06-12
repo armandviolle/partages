@@ -1,0 +1,21 @@
+T1	morphology-onco 526 540	chondrosarcome
+T2	morphology-onco 700 708	sarcomes
+T3	morphology-onco 808 822	chondrosarcome
+T4	morphology-onco 3027 3033	tumeur
+T5	morphology-onco 3951 3980	Leucémie myéloblastique aiguë
+T6	morphology-onco 3951 4008	Leucémie myéloblastique aiguë (phénotype évocateur de M3)
+T7	morphology-onco 4687 4719	leucémie myéloblastique aiguë M3
+#1	ICD-O-3.1 T5	9872/3
+#2	ICD-O-3.1 T1	9220/3
+#3	ICD-O-3.1 T3	9220/3
+#4	ICD-O-3.1 T2	8800/3
+#5	ICD-O-3.1 T4	8000/1
+#6	ICD-O-3.1 T6	9866/3
+#7	ICD-O-3.1 T7	9866/3
+#8	SNOMED T5	103689001
+#9	SNOMED T1	1163016002
+#10	SNOMED T3	1163016002
+#11	SNOMED T2	1187396000
+#12	SNOMED T4	86251006
+#13	SNOMED T6	28950004
+#14	SNOMED T7	28950004

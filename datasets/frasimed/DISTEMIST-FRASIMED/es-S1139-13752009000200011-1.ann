@@ -1,0 +1,19 @@
+T1	disease 69 100	syndrome de Laurence-Moon-Biell
+T2	disease 123 136	hypogonadisme
+T3	disease 142 149	obésité
+T4	disease 154 167	retard mental
+T5	disease 173 185	polydactylie
+T6	disease 191 211	rétinite pigmentaire
+T7	disease 219 238	insuffisance rénale
+T8	disease 383 401	thrombose veineuse
+T9	disease 636 646	péritonite
+T10	disease 656 681	hyperparathyroïdie sévère
+T11	disease 834 923	péritonite, causée par deux germes (Staphylococcus epidermidis et Pseudomonas aeruginosa)
+T12	disease 938 974	infection du tunnel staphylococcique
+T13	disease 1147 1205	éventration péritonéale au niveau de l'orifice du cathéter
+T14	disease 1244 1306	sclérose et une calcification de toute la membrane péritonéale
+T15	disease 1654 1686	péritonite due à Echerichia coli
+T16	disease 1628 1686	ascite, secondaires à une péritonite due à Echerichia coli
+T17	disease 1770 1809	ischémie aiguë dans le membre inférieur
+T18	disease 1827 1854	obstruction fémoro-poplitée
+T19	disease 1889 1914	calcification péritonéale

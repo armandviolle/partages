@@ -1,0 +1,32 @@
+T1	disease 70 126	traumatisme oculaire à l'œil gauche avec un lance-pierre
+T2	disease 254 266	microhyphème
+T3	disease 274 291	uvéite antérieure
+T4	disease 345 391	hémorragies rétiniennes arrondies équatoriales
+T5	disease 533 576	ischémie rétinienne périphérique inférieure
+T6	disease 621 632	traumatisme
+T7	disease 674 713	scotome périphérique temporal supérieur
+T8	disease 776 805	néovascularisation rétinienne
+T9	disease 948 961	drépanocytose
+T10	disease 980 992	microhyphème
+T11	disease 1000 1023	hémorragies rétiniennes
+T12	disease 1407 1419	microhyphème
+T13	disease 1508 1534	troubles de la coagulation
+T14	disease 1563 1593	déficit en facteurs VIII et XI
+T15	disease 1600 1621	déficit en vitamine K
+T16	disease 1643 1662	ischémie rétinienne
+#1	SNOMED T1	282752000
+#2	SNOMED T3	410692006
+#3	SNOMED T4	28998008
+#4	SNOMED T5	26468004
+#5	SNOMED T7	246659002
+#6	SNOMED T10	75229002
+#7	SNOMED T12	75229002
+#8	SNOMED T16	26468004
+#9	SNOMED T13	64779008
+#10	SNOMED T2	75229002
+#11	SNOMED T8	61267008
+#12	SNOMED T11	28998008
+#13	SNOMED T14	234440005+767712006
+#14	SNOMED T15	124892003
+#15	SNOMED T6	417746004
+#16	SNOMED T9	127040003

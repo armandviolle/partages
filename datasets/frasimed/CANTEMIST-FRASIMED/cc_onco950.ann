@@ -1,0 +1,43 @@
+T1	morphology-onco 1343 1361	lésions à distance
+T2	morphology-onco 1396 1421	tumeur à petites cellules
+T3	morphology-onco 1699 1704	malin
+T4	morphology-onco 1942 1956	tumeur d'Ewing
+T5	morphology-onco 2014 2032	cellules tumorales
+T6	morphology-onco 2083 2098	sarcome d'Ewing
+T7	morphology-onco 2099 2103	PNET
+T8	morphology-onco 2128 2142	tumeur d'Askin
+T9	morphology-onco 2220 2235	Sarcome d'Ewing
+T10	morphology-onco 2236 2243	T2bN0M0
+T11	morphology-onco 2727 2733	tumeur
+T12	morphology-onco 3212 3218	tumeur
+T13	morphology-onco 3223 3229	tumeur
+T14	morphology-onco 4523 4547	tumeur à cellules rondes
+T15	morphology-onco 4579 4594	sarcome d'Ewing
+#1	ICD-O-3.1 T7	9364/3
+#2	ICD-O-3.1 T5	8001/1
+#3	ICD-O-3.1 T1	8000/6
+#4	ICD-O-3.1 T3	8000/3
+#5	ICD-O-3.1 T12	8000/1
+#6	ICD-O-3.1 T13	8000/1
+#7	ICD-O-3.1 T2	8002/1
+#8	ICD-O-3.1 T14	8041/1
+#9	ICD-O-3.1 T11	8000/1
+#10	ICD-O-3.1 T4	9260/3
+#11	ICD-O-3.1 T6	9260/3
+#12	ICD-O-3.1 T8	9365/3
+#13	ICD-O-3.1 T9	9260/3
+#14	ICD-O-3.1 T10	8000/6
+#15	ICD-O-3.1 T15	9260/3
+#16	SNOMED T7	254764001
+#17	SNOMED T5	39577004
+#18	SNOMED T1	14799000
+#19	SNOMED T3	1240414004
+#20	SNOMED T12	86251006
+#21	SNOMED T13	86251006
+#22	SNOMED T11	86251006
+#23	SNOMED T4	76909002
+#24	SNOMED T6	76909002
+#25	SNOMED T8	128783001
+#26	SNOMED T9	76909002
+#27	SNOMED T10	14799000
+#28	SNOMED T15	76909002

@@ -1,0 +1,6 @@
+T1	disease 43 62	exstrophie cloacale
+T2	disease 196 242	fistules et cicatrices sur la paroi abdominale
+T3	disease 1088 1104	défaut abdominal
+#1	SNOMED T1	20815007
+#2	SNOMED T2	197263009+300398009
+#3	SNOMED T3	363024001

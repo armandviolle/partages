@@ -1,0 +1,18 @@
+T1	disease 34 61	perte soudaine de la vision
+T2	disease 176 179	PXE
+T3	disease 337 351	AE bilatérales
+T4	disease 360 395	OD, il y avait une lésion gliotique
+T5	disease 621 649	hémorragies sous-rétiniennes
+T6	disease 694 706	membrane CNV
+T7	disease 727 748	dystrophie rétinienne
+T8	disease 829 846	escarre gliotique
+T9	disease 1490 1510	altération de la RPE
+#1	SNOMED T4	80321008
+#2	SNOMED T2	252246005
+#3	SNOMED T5	13937002
+#4	SNOMED T6	75971007
+#5	SNOMED T7	314407005
+#6	SNOMED T3	15989991000119102
+#7	SNOMED T1	267631003
+#8	SNOMED T8	11131000119108
+#9	SNOMED T9	421689001

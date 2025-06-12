@@ -1,0 +1,39 @@
+T1	morphology-onco 532 538	cancer
+T2	morphology-onco 595 601	cancer
+T3	morphology-onco 649 656	sarcome
+T4	morphology-onco 3617 3630	Carcinomatose
+T5	morphology-onco 3696 3705	néoplasie
+T6	morphology-onco 4130 4134	TGNS
+T7	morphology-onco 4130 4153	TGNS sinus endodermique
+T8	morphology-onco 4187 4200	carcinomatose
+T9	morphology-onco 5373 5381	tumorale
+T10	morphology-onco 6097 6118	cellules néoplasiques
+T11	morphology-onco 6195 6229	tumeur germinale non séminomateuse
+T12	morphology-onco 6231 6235	NSGT
+T13	morphology-onco 6247 6275	tumeur du sinus endodermique
+#1	ICD-O-3.1 T4	8010/9
+#2	ICD-O-3.1 T6	9065/3
+#3	ICD-O-3.1 T12	9065/3
+#4	ICD-O-3.1 T8	8010/9
+#5	ICD-O-3.1 T1	8000/3
+#6	ICD-O-3.1 T2	8000/3
+#7	ICD-O-3.1 T10	8001/1
+#8	ICD-O-3.1 T5	8000/1
+#9	ICD-O-3.1 T3	8800/3
+#10	ICD-O-3.1 T13	9071/3
+#11	ICD-O-3.1 T11	9065/3
+#12	ICD-O-3.1 T9	8000/1
+#13	ICD-O-3.1 T7	9071/3
+#14	SNOMED T4	307593001
+#15	SNOMED T6	128766005
+#16	SNOMED T12	128766005
+#17	SNOMED T8	307593001
+#18	SNOMED T1	1240414004
+#19	SNOMED T2	1240414004
+#20	SNOMED T10	39577004
+#21	SNOMED T5	86251006
+#22	SNOMED T3	1187396000
+#23	SNOMED T13	74409009
+#24	SNOMED T11	128766005
+#25	SNOMED T9	86251006
+#26	SNOMED T7	74409009

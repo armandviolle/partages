@@ -1,0 +1,12 @@
+T1	disease 106 124	cholécystite aiguë
+T2	disease 293 300	biliome
+T3	disease 492 509	pancréatite aiguë
+T4	disease 525 553	collection péri-pancréatique
+T5	disease 692 719	collection rétropéritonéale
+T6	disease 1131 1173	abcès pariétocolique droit extrapéritonéal
+#1	SNOMED T6	75100008
+#2	SNOMED T2	235932003
+#3	SNOMED T4	235957008
+#4	SNOMED T1	65275009
+#5	SNOMED T5	32362007
+#6	SNOMED T3	197456007

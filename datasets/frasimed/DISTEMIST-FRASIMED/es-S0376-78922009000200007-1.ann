@@ -1,0 +1,10 @@
+T1	disease 72 130	défaut post-traumatique complexe du pied et de la cheville
+T2	disease 190 274	exposition de la malléole tibiale, de l'astragale et de l'articulation sous-talienne
+T3	disease 276 356	section du tendon tibial postérieur et du tendon du long fléchisseur des orteils
+T4	disease 360 418	avulsion du nerf tibial et de l'artère tibiale postérieure
+T5	disease 619 630	traumatisme
+#1	SNOMED T3	262983003+118937003+439052006
+#2	SNOMED T4	284554003+399233006+234013003
+#3	SNOMED T1	125604000+125603006
+#4	SNOMED T5	417746004
+#5	SNOMED T2	125662003

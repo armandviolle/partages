@@ -1,0 +1,15 @@
+T1	morphology-onco 236 244	mélanome
+T2	morphology-onco 566 587	métastase de mélanome
+T3	morphology-onco 987 995	mélanome
+T4	morphology-onco 1578 1610	récidive intestinale du mélanome
+T5	morphology-onco 6461 6475	Mélanome malin
+#1	ICD-O-3.1 T5	8720/3
+#2	ICD-O-3.1 T1	8720/3
+#3	ICD-O-3.1 T3	8720/3
+#4	ICD-O-3.1 T2	8720/6
+#5	ICD-O-3.1 T4	8720/6
+#6	SNOMED T5	1162635006
+#7	SNOMED T1	1162635006
+#8	SNOMED T3	1162635006
+#9	SNOMED T2	372158004
+#10	SNOMED T4	372158004

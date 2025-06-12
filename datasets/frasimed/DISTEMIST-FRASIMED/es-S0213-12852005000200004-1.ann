@@ -1,0 +1,22 @@
+T1	disease 97 103	violée
+T2	disease 225 247	lésions dans la bouche
+T3	disease 538 557	syphilis secondaire
+T4	disease 1500 1517	leucoplasie velue
+T5	disease 1519 1521	LV
+T6	disease 1944 1960	lésions buccales
+T7	disease 2098 2118	leucoplasie chevelue
+T8	disease 2200 2208	syphilis
+T9	disease 2309 2311	LV
+T10	disease 2547 2555	syphilis
+T11	disease 2606 2622	immunodéficience
+#1	SNOMED T1	42085001
+#2	SNOMED T8	76272004
+#3	SNOMED T10	76272004
+#4	SNOMED T11	234532001
+#5	SNOMED T6	1071000119107
+#6	SNOMED T3	240557004
+#7	SNOMED T4	414603003
+#8	SNOMED T5	414952002
+#9	SNOMED T7	414603003
+#10	SNOMED T9	414952002
+#11	SNOMED T2	1071000119107

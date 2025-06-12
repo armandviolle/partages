@@ -1,0 +1,12 @@
+T1	disease 47 100	vessie hyperréflexe secondaire à une myéloméningocèle
+T2	disease 84 100	myéloméningocèle
+T3	disease 164 177	hydrocéphalie
+T4	disease 341 365	pyélonéphrite récurrente
+T5	disease 484 506	reflux vésico-urétéral
+T6	disease 1063 1076	pyélonéphrite
+#1	SNOMED T1	786457000+414667000
+#2	SNOMED T2	414667000
+#3	SNOMED T6	45816000
+#4	SNOMED T3	230745008
+#5	SNOMED T4	63302006
+#6	SNOMED T5	26836002

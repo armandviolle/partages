@@ -1,0 +1,57 @@
+T1	morphology-onco 300 306	cancer
+T2	morphology-onco 457 468	neurilémome
+T3	morphology-onco 637 646	malignité
+T4	morphology-onco 672 686	adénocarcinome
+T5	morphology-onco 902 908	tumeur
+T6	morphology-onco 1595 1613	mésothéliome malin
+T7	morphology-onco 2013 2019	tumeur
+T8	morphology-onco 3481 3487	tumeur
+T9	morphology-onco 3748 3757	néoplasme
+T10	morphology-onco 3774 3835	mésothéliome conventionnel avec un motif tubulaire papillaire
+T11	morphology-onco 3847 3860	sarcomatoïdes
+T12	morphology-onco 3862 3887	mésothéliome monophasique
+T13	morphology-onco 4362 4386	infiltration péritonéale
+T14	morphology-onco 4569 4581	mésothéliome
+T15	morphology-onco 4906 4919	Carcinomatose
+T16	morphology-onco 5873 5913	Mésothéliome malin inguinal monophasique
+T17	morphology-onco 6693 6717	infiltration péritonéale
+T18	morphology-onco 6770 6793	progression péritonéale
+T19	morphology-onco 7565 7577	métastatique
+#1	ICD-O-3.1 T15	8010/9
+#2	ICD-O-3.1 T4	8140/3
+#3	ICD-O-3.1 T1	8000/3
+#4	ICD-O-3.1 T3	8000/3
+#5	ICD-O-3.1 T19	8000/6
+#6	ICD-O-3.1 T9	8000/1
+#7	ICD-O-3.1 T5	8000/1
+#8	ICD-O-3.1 T8	8000/1
+#9	ICD-O-3.1 T2	9560/0
+#10	ICD-O-3.1 T6	9050/3
+#11	ICD-O-3.1 T7	8000/1
+#12	ICD-O-3.1 T10	9050/3/H
+#13	ICD-O-3.1 T12	9050/3/H
+#14	ICD-O-3.1 T14	9050/3
+#15	ICD-O-3.1 T16	9050/3/H
+#16	ICD-O-3.1 T18	8000/6
+#17	ICD-O-3.1 T17	8000/6
+#18	ICD-O-3.1 T13	8000/6
+#19	ICD-O-3.1 T11	9051/3
+#20	SNOMED T15	307593001
+#21	SNOMED T4	1187332001
+#22	SNOMED T1	1240414004
+#23	SNOMED T3	1240414004
+#24	SNOMED T19	14799000
+#25	SNOMED T9	86251006
+#26	SNOMED T5	86251006
+#27	SNOMED T8	86251006
+#28	SNOMED T2	189948006
+#29	SNOMED T6	109378008
+#30	SNOMED T7	86251006
+#31	SNOMED T10	109378008
+#32	SNOMED T12	109378008
+#33	SNOMED T14	109378008
+#34	SNOMED T16	109378008
+#35	SNOMED T18	14799000
+#36	SNOMED T17	14799000
+#37	SNOMED T13	14799000
+#38	SNOMED T11	54443001

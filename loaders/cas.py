@@ -11,8 +11,8 @@ class CAS(BaseLoader):
         """
         res = {
             "text": list(dataset['text']),
-            "source": [self.source] * len(dataset), # self.source should be "MANTRA_GSC"
-            "subset": [subset] * len(dataset),       # subset should be "French"
-            "source_split": [split] * len(dataset)   # split should be "train"
+            "source": [self.source] * len(dataset),
+            "subset": [subset] * len(dataset),
+            "source_split": [split] * len(dataset)
         }
         return Dataset.from_dict(res)

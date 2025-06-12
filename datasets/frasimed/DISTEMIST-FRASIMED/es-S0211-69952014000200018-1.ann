@@ -1,0 +1,30 @@
+T1	disease 632 638	ascite
+T2	disease 677 708	anémie normocytaire normochrome
+T3	disease 941 953	hyponatrémie
+T4	disease 961 973	hypokaliémie
+T5	disease 983 995	hypocalcémie
+T6	disease 1198 1201	SNC
+T7	disease 1614 1651	sténose pulmonaire valvulaire modérée
+T8	disease 1659 1689	communication interauriculaire
+T9	disease 1902 1951	convulsions secondaires à une hypocalcémie sévère
+T10	disease 1932 1951	hypocalcémie sévère
+T11	disease 2072 2098	brûlure du troisième degré
+T12	disease 2260 2331	septicémie secondaire à Staphylococcus hominis et Enterococcus faecalis
+T13	disease 2493 2513	pneumonie bilatérale
+T14	disease 2528 2540	pneumothorax
+T15	disease 2610 2631	hypoxémie réfractaire
+#1	SNOMED T6	21483005
+#2	SNOMED T9	5291005+91175000
+#3	SNOMED T13	407671000
+#4	SNOMED T12	447894003+310669007
+#5	SNOMED T10	5291005
+#6	SNOMED T14	36118008
+#7	SNOMED T15	389087006
+#8	SNOMED T11	403192003
+#9	SNOMED T7	56786000
+#10	SNOMED T8	70142008
+#11	SNOMED T1	389026000
+#12	SNOMED T2	46737006
+#13	SNOMED T3	89627008
+#14	SNOMED T4	43339004
+#15	SNOMED T5	5291005

@@ -1,0 +1,30 @@
+T1	disease 33 42	ex-fumeur
+T2	disease 94 115	Infarctus du myocarde
+T3	disease 134 164	anévrisme abdominal infrarénal
+T4	disease 168 183	Lithiase rénale
+T5	disease 196 219	hypertension artérielle
+T6	disease 254 277	hématurie macroscopique
+T7	disease 330 366	carcinome transitionnel de la vessie
+T8	disease 443 460	carcinome in situ
+T9	disease 495 512	récidive tumorale
+T10	disease 553 570	carcinome in situ
+T11	disease 1191 1207	lésion nodulaire
+T12	disease 1386 1411	carcinome peu différencié
+T13	disease 1821 1903	métastase dans la paroi abdominale due à un carcinome micropapillaire de la vessie
+T14	disease 2103 2126	métastase ganglionnaire
+T15	disease 2221 2261	récidive n'a été détectée dans la vessie
+#1	SNOMED T2	22298006
+#2	SNOMED T6	197941005
+#3	SNOMED T3	444569004
+#4	SNOMED T4	95570007
+#5	SNOMED T14	94392001
+#6	SNOMED T7	255109008
+#7	SNOMED T5	38341003
+#8	SNOMED T13	399326009+94418000
+#9	SNOMED T1	8517006
+#10	SNOMED T9	25173007
+#11	SNOMED T11	27925004
+#12	SNOMED T15	94186002
+#13	SNOMED T8	68956006
+#14	SNOMED T10	68956006
+#15	SNOMED T12	722688002

@@ -1,0 +1,33 @@
+T1	morphology-onco 1274 1286	néoformation
+T2	morphology-onco 1600 1646	adénocarcinome modérément différencié du côlon
+T3	morphology-onco 1787 1793	tumeur
+T4	morphology-onco 1924 1961	adénocarcinome modérément différencié
+T5	morphology-onco 2328 2334	tumeur
+T6	morphology-onco 2390 2392	M0
+T7	morphology-onco 3294 3308	adénocarcinome
+T8	morphology-onco 3458 3467	malignité
+T9	morphology-onco 3960 3966	tumeur
+T10	morphology-onco 4041 4050	métastase
+T11	morphology-onco 4296 4310	adénocarcinome
+#1	ICD-O-3.1 T6	8000/6
+#2	ICD-O-3.1 T7	8140/3
+#3	ICD-O-3.1 T11	8140/3
+#4	ICD-O-3.1 T4	8140/32
+#5	ICD-O-3.1 T8	8000/3
+#6	ICD-O-3.1 T10	8000/6
+#7	ICD-O-3.1 T1	8000/1
+#8	ICD-O-3.1 T3	8000/1
+#9	ICD-O-3.1 T9	8000/1
+#10	ICD-O-3.1 T5	8000/1
+#11	ICD-O-3.1 T2	8140/32
+#12	SNOMED T6	14799000
+#13	SNOMED T7	1187332001
+#14	SNOMED T11	1187332001
+#15	SNOMED T4	1187332001
+#16	SNOMED T8	1240414004
+#17	SNOMED T10	14799000
+#18	SNOMED T1	86251006
+#19	SNOMED T3	86251006
+#20	SNOMED T9	86251006
+#21	SNOMED T5	86251006
+#22	SNOMED T2	1187332001

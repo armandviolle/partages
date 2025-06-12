@@ -1,0 +1,12 @@
+T1	disease 69 93	traumatisme testiculaire
+T2	disease 970 986	hydrocèle droite
+T3	disease 1040 1054	polyorchidisme
+T4	disease 1060 1069	hydrocèle
+T5	disease 1340 1356	hydrocèle droite
+T6	disease 1567 1576	hydrocèle
+#1	SNOMED T5	26614003
+#2	SNOMED T1	262921003
+#3	SNOMED T6	26614003
+#4	SNOMED T2	26614003
+#5	SNOMED T3	17471001
+#6	SNOMED T4	26614003

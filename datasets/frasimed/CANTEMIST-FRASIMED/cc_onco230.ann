@@ -1,0 +1,54 @@
+T1	morphology-onco 516 525	néoplasme
+T2	morphology-onco 911 925	adénocarcinome
+T3	morphology-onco 1075 1114	carcinome canalaire infiltrant, grade I
+T4	morphology-onco 1121 1125	N0M0
+T5	morphology-onco 1328 1337	néoplasme
+T6	morphology-onco 1797 1808	néoplasique
+T7	morphology-onco 1865 1927	adénocarcinome infiltrant de bas grade histologique (grade II)
+T8	morphology-onco 2070 2083	métastatiques
+T9	morphology-onco 2319 2345	lésions hépatiques focales
+T10	morphology-onco 2495 2540	adénocarcinome du côlon de stade IV (pTxNxM1)
+T11	morphology-onco 2724 2730	tumeur
+T12	morphology-onco 2747 2765	lésions hépatiques
+T13	morphology-onco 3798 3807	néoplasie
+T14	morphology-onco 3971 3982	néoplasique
+T15	morphology-onco 4271 4280	néoplasie
+T16	morphology-onco 4750 4764	lésion lytique
+T17	morphology-onco 4841 4850	métastase
+T18	morphology-onco 4993 5002	métastase
+#1	ICD-O-3.1 T2	8140/3
+#2	ICD-O-3.1 T17	8000/6
+#3	ICD-O-3.1 T1	8000/1
+#4	ICD-O-3.1 T5	8000/1
+#5	ICD-O-3.1 T13	8000/1
+#6	ICD-O-3.1 T15	8000/1
+#7	ICD-O-3.1 T14	8000/1
+#8	ICD-O-3.1 T6	8000/1
+#9	ICD-O-3.1 T11	8000/1
+#10	ICD-O-3.1 T3	8500/31
+#11	ICD-O-3.1 T18	8000/6
+#12	ICD-O-3.1 T7	8140/32
+#13	ICD-O-3.1 T10	8140/6
+#14	ICD-O-3.1 T4	8000/6
+#15	ICD-O-3.1 T12	8000/6
+#16	ICD-O-3.1 T16	8000/6
+#17	ICD-O-3.1 T8	8000/6
+#18	ICD-O-3.1 T9	8000/6
+#19	SNOMED T2	1187332001
+#20	SNOMED T17	14799000
+#21	SNOMED T1	86251006
+#22	SNOMED T5	86251006
+#23	SNOMED T13	86251006
+#24	SNOMED T15	86251006
+#25	SNOMED T14	86251006
+#26	SNOMED T6	86251006
+#27	SNOMED T11	86251006
+#28	SNOMED T3	58477004
+#29	SNOMED T18	14799000
+#30	SNOMED T7	1187332001
+#31	SNOMED T10	4590003
+#32	SNOMED T4	14799000
+#33	SNOMED T12	14799000
+#34	SNOMED T16	14799000
+#35	SNOMED T8	14799000
+#36	SNOMED T9	14799000

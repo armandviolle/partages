@@ -1,0 +1,39 @@
+T1	morphology-onco 646 656	métastases
+T2	morphology-onco 1488 1502	adénocarcinome
+T3	morphology-onco 1541 1575	adénocarcinome pulmonaire T4 N2 M1
+T4	morphology-onco 1600 1618	atteintes osseuses
+T5	morphology-onco 1794 1808	adénocarcinome
+T6	morphology-onco 3543 3593	progression minime au niveau des poumons et des os
+T7	morphology-onco 3746 3761	maladie osseuse
+T8	morphology-onco 4033 4047	adénocarcinome
+T9	morphology-onco 4249 4256	maligne
+T10	morphology-onco 4843 4862	progression osseuse
+T11	morphology-onco 5379 5412	progression pulmonaire et osseuse
+T12	morphology-onco 5729 5739	métastases
+T13	morphology-onco 6005 6019	adénocarcinome
+#1	ICD-O-3.1 T2	8140/3
+#2	ICD-O-3.1 T5	8140/3
+#3	ICD-O-3.1 T8	8140/3
+#4	ICD-O-3.1 T13	8140/3
+#5	ICD-O-3.1 T9	8000/3
+#6	ICD-O-3.1 T1	8000/6
+#7	ICD-O-3.1 T12	8000/6
+#8	ICD-O-3.1 T3	8140/6
+#9	ICD-O-3.1 T6	8000/6
+#10	ICD-O-3.1 T10	8000/6
+#11	ICD-O-3.1 T11	8000/6
+#12	ICD-O-3.1 T4	8000/6
+#13	ICD-O-3.1 T7	8000/6
+#14	SNOMED T2	1187332001
+#15	SNOMED T5	1187332001
+#16	SNOMED T8	1187332001
+#17	SNOMED T13	1187332001
+#18	SNOMED T9	1240414004
+#19	SNOMED T1	14799000
+#20	SNOMED T12	14799000
+#21	SNOMED T3	4590003
+#22	SNOMED T6	14799000
+#23	SNOMED T10	14799000
+#24	SNOMED T11	14799000
+#25	SNOMED T4	14799000
+#26	SNOMED T7	14799000

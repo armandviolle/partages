@@ -1,0 +1,36 @@
+T1	morphology-onco 3815 3823	lymphome
+T2	morphology-onco 3912 3921	métastase
+T3	morphology-onco 4296 4310	adénocarcinome
+T4	morphology-onco 4314 4322	lymphome
+T5	morphology-onco 4431 4445	adénocarcinome
+T6	morphology-onco 4472 4500	processus lymphoprolifératif
+T7	morphology-onco 5133 5175	carcinome à petites cellules indifférencié
+T8	morphology-onco 5133 5200	carcinome à petites cellules indifférencié, d'aspect neuroendocrine
+T9	morphology-onco 5214 5236	Carcinome microcytaire
+T10	morphology-onco 6319 6325	tumeur
+T11	morphology-onco 8318 8326	tumorale
+T12	morphology-onco 8622 8628	tumeur
+#1	ICD-O-3.1 T9	8041/3
+#2	ICD-O-3.1 T3	8140/3
+#3	ICD-O-3.1 T5	8140/3
+#4	ICD-O-3.1 T7	8041/34
+#5	ICD-O-3.1 T1	9590/3
+#6	ICD-O-3.1 T4	9590/3
+#7	ICD-O-3.1 T2	8000/6
+#8	ICD-O-3.1 T12	8000/1
+#9	ICD-O-3.1 T10	8000/1
+#10	ICD-O-3.1 T11	8000/1
+#11	ICD-O-3.1 T6	9970/1
+#12	ICD-O-3.1 T8	8574/34
+#13	SNOMED T9	11010461000119101
+#14	SNOMED T3	1187332001
+#15	SNOMED T5	1187332001
+#16	SNOMED T7	11010461000119101
+#17	SNOMED T1	1163043007
+#18	SNOMED T4	1163043007
+#19	SNOMED T2	14799000
+#20	SNOMED T12	86251006
+#21	SNOMED T10	86251006
+#22	SNOMED T11	86251006
+#23	SNOMED T6	277466009
+#24	SNOMED T8	128704005

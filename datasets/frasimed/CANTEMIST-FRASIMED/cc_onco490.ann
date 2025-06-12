@@ -1,0 +1,66 @@
+T1	morphology-onco 422 440	carcinome cervical
+T2	morphology-onco 1886 1892	tumeur
+T3	morphology-onco 1918 1933	implant pleural
+T4	morphology-onco 1948 1964	atteinte osseuse
+T5	morphology-onco 2301 2313	métastatique
+T6	morphology-onco 2647 2664	implants pleuraux
+T7	morphology-onco 2824 2872	carcinome non à petites cellules peu différencié
+T8	morphology-onco 3000 3018	cellules tumorales
+T9	morphology-onco 3134 3193	carcinome pulmonaire non à petites cellules peu différencié
+T10	morphology-onco 3235 3247	métastatique
+T11	morphology-onco 3325 3329	cM1c
+T12	morphology-onco 3388 3395	tumoral
+T13	morphology-onco 3451 3469	cellules tumorales
+T14	morphology-onco 3509 3531	atteinte leptoméningée
+T15	morphology-onco 3852 3864	métastatique
+T16	morphology-onco 4660 4680	masse de tissus mous
+T17	morphology-onco 4777 4807	Lésions dans le lobe hépatique
+T18	morphology-onco 4835 4845	métastases
+T19	morphology-onco 5371 5377	tumeur
+T20	morphology-onco 5414 5427	métastatiques
+T21	morphology-onco 6080 6112	infiltration osseuse néoplasique
+T22	morphology-onco 6618 6640	lésion des tissus mous
+#1	ICD-O-3.1 T1	8010/3
+#2	ICD-O-3.1 T8	8001/1
+#3	ICD-O-3.1 T13	8001/1
+#4	ICD-O-3.1 T5	8000/6
+#5	ICD-O-3.1 T10	8000/6
+#6	ICD-O-3.1 T20	8000/6
+#7	ICD-O-3.1 T18	8000/6
+#8	ICD-O-3.1 T19	8000/1
+#9	ICD-O-3.1 T12	8000/1
+#10	ICD-O-3.1 T2	8000/1
+#11	ICD-O-3.1 T3	8000/6
+#12	ICD-O-3.1 T4	8000/6
+#13	ICD-O-3.1 T7	8046/33
+#14	ICD-O-3.1 T9	8046/33
+#15	ICD-O-3.1 T11	8000/6
+#16	ICD-O-3.1 T14	8000/6
+#17	ICD-O-3.1 T15	8000/6
+#18	ICD-O-3.1 T21	8000/6
+#19	ICD-O-3.1 T6	8000/6
+#20	ICD-O-3.1 T22	8000/6
+#21	ICD-O-3.1 T17	8000/6
+#22	ICD-O-3.1 T16	8000/6
+#23	SNOMED T1	1187425009
+#24	SNOMED T8	39577004
+#25	SNOMED T13	39577004
+#26	SNOMED T5	14799000
+#27	SNOMED T10	14799000
+#28	SNOMED T20	14799000
+#29	SNOMED T18	14799000
+#30	SNOMED T19	86251006
+#31	SNOMED T12	86251006
+#32	SNOMED T2	86251006
+#33	SNOMED T3	14799000
+#34	SNOMED T4	14799000
+#35	SNOMED T7	128632008
+#36	SNOMED T9	128632008
+#37	SNOMED T11	14799000
+#38	SNOMED T14	14799000
+#39	SNOMED T15	14799000
+#40	SNOMED T21	14799000
+#41	SNOMED T6	14799000
+#42	SNOMED T22	14799000
+#43	SNOMED T17	14799000
+#44	SNOMED T16	14799000

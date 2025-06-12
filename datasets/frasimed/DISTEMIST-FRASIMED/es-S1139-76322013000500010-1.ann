@@ -1,0 +1,12 @@
+T1	disease 144 159	tumeur de Wilms
+T2	disease 858 872	déshydratation
+T3	disease 1146 1162	ballon de vessie
+T4	disease 1751 1768	appendicite aiguë
+T5	disease 1940 1957	appendicite aiguë
+T6	disease 2041 2065	appendicite phlegmoneuse
+#1	SNOMED T1	302849000
+#2	SNOMED T5	85189001
+#3	SNOMED T4	85189001
+#4	SNOMED T6	735591005
+#5	SNOMED T2	34095006
+#6	SNOMED T3	267064002

@@ -1,0 +1,42 @@
+T1	morphology-onco 216 222	cancer
+T2	morphology-onco 568 598	carcinome canalaire infiltrant
+T3	morphology-onco 1153 1171	lésions hépatiques
+T4	morphology-onco 1393 1410	atteinte pleurale
+T5	morphology-onco 1618 1649	adénocarcinome bien différencié
+T6	morphology-onco 1809 1827	maladie à distance
+T7	morphology-onco 1841 1850	Carcinome
+T8	morphology-onco 1859 1866	cT1N0M0
+T9	morphology-onco 1870 1902	adénocarcinome du poumon cT3N2M1
+T10	morphology-onco 1946 1963	atteinte pleurale
+T11	morphology-onco 1997 2003	tumeur
+T12	morphology-onco 2140 2146	tumeur
+T13	morphology-onco 2241 2282	carcinome canalaire infiltrant de grade 2
+T14	morphology-onco 2516 2522	cancer
+#1	ICD-O-3.1 T7	8010/3
+#2	ICD-O-3.1 T5	8140/31
+#3	ICD-O-3.1 T4	8000/6
+#4	ICD-O-3.1 T10	8000/6
+#5	ICD-O-3.1 T8	8000/6
+#6	ICD-O-3.1 T2	8500/3
+#7	ICD-O-3.1 T13	8500/32
+#8	ICD-O-3.1 T1	8000/3
+#9	ICD-O-3.1 T14	8000/3
+#10	ICD-O-3.1 T6	8000/6
+#11	ICD-O-3.1 T3	8000/6
+#12	ICD-O-3.1 T11	8000/1
+#13	ICD-O-3.1 T12	8000/1
+#14	ICD-O-3.1 T9	8140/6
+#15	SNOMED T7	1187425009
+#16	SNOMED T5	1187332001
+#17	SNOMED T4	14799000
+#18	SNOMED T10	14799000
+#19	SNOMED T8	14799000
+#20	SNOMED T2	58477004
+#21	SNOMED T13	58477004
+#22	SNOMED T1	1240414004
+#23	SNOMED T14	1240414004
+#24	SNOMED T6	14799000
+#25	SNOMED T3	14799000
+#26	SNOMED T11	86251006
+#27	SNOMED T12	86251006
+#28	SNOMED T9	4590003

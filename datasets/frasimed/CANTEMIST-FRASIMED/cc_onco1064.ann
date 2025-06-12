@@ -1,0 +1,35 @@
+T1	morphology-onco 480 510	tumeur germinale séminomateuse
+T2	morphology-onco 512 516	SGGT
+T3	morphology-onco 1186 1235	lésion d'extension intra-extradurale au niveau D6
+T4	morphology-onco 1893 1952	lésion extramédullaire intradurale-extradurale au niveau D6
+T5	morphology-onco 2126 2132	Tumeur
+T6	morphology-onco 2208 2251	tumeur germinale testiculaire séminomateuse
+T7	morphology-onco 2831 2891	métastase extramédullaire de la région dorsale d'un séminome
+T8	morphology-onco 2957 2978	cellules néoplasiques
+T9	morphology-onco 3767 3779	métastatique
+T10	morphology-onco 4372 4391	lésion cérébelleuse
+T11	morphology-onco 4430 4446	lésions pinéales
+T12	morphology-onco 4514 4528	lésion dorsale
+#1	ICD-O-3.1 T5	8000/1
+#2	ICD-O-3.1 T8	8001/1
+#3	ICD-O-3.1 T10	8000/6
+#4	ICD-O-3.1 T12	8000/6
+#5	ICD-O-3.1 T9	8000/6
+#6	ICD-O-3.1 T7	9061/6
+#7	ICD-O-3.1 T1	9061/3
+#8	ICD-O-3.1 T2	9061/3
+#9	ICD-O-3.1 T6	9061/3
+#10	ICD-O-3.1 T3	8000/6
+#11	ICD-O-3.1 T4	8000/6
+#12	ICD-O-3.1 T11	8000/6
+#13	SNOMED T5	86251006
+#14	SNOMED T8	39577004
+#15	SNOMED T10	14799000
+#16	SNOMED T12	14799000
+#17	SNOMED T9	14799000
+#18	SNOMED T1	1162765005
+#19	SNOMED T2	1162765005
+#20	SNOMED T6	1162765005
+#21	SNOMED T3	14799000
+#22	SNOMED T4	14799000
+#23	SNOMED T11	14799000

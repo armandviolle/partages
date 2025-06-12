@@ -1,0 +1,21 @@
+T1	morphology-onco 346 360	adénocarcinome
+T2	morphology-onco 695 732	adénocarcinome modérément différencié
+T3	morphology-onco 2911 2925	adénocarcinome
+T4	morphology-onco 4711 4737	infiltration du mésorectum
+T5	morphology-onco 4749 4834	adénopathies hypermétaboliques rétrocrurales, rétropéritonéales et supraclaviculaires
+T6	morphology-onco 6810 6872	carcinome cervical de stade IV (adénopathies sus-claviculaires
+T7	morphology-onco 6884 6908	infiltration mésorectale
+#1	ICD-O-3.1 T1	8140/3
+#2	ICD-O-3.1 T3	8140/3
+#3	ICD-O-3.1 T2	8140/32
+#4	ICD-O-3.1 T5	8000/6
+#5	ICD-O-3.1 T6	8010/6
+#6	ICD-O-3.1 T4	8000/6
+#7	ICD-O-3.1 T7	8000/6
+#8	SNOMED T1	1187332001
+#9	SNOMED T3	1187332001
+#10	SNOMED T2	1187332001
+#11	SNOMED T5	14799000
+#12	SNOMED T6	79282002
+#13	SNOMED T4	14799000
+#14	SNOMED T7	14799000

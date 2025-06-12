@@ -1,0 +1,6 @@
+T1	disease 61 83	infection respiratoire
+T2	disease 150 165	hypoalbuminémie
+T3	disease 322 332	ICD sévère
+#1	SNOMED T3	408643008
+#2	SNOMED T1	275498002
+#3	SNOMED T2	119247004

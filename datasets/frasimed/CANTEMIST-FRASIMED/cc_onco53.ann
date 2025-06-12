@@ -1,0 +1,90 @@
+T1	morphology-onco 322 342	mélanome superficiel
+T2	morphology-onco 560 568	mélanome
+T3	morphology-onco 932 940	mélanome
+T4	morphology-onco 2323 2382	maladie a été observée dans le tissu cellulaire sous-cutané
+T5	morphology-onco 2501 2511	métastases
+T6	morphology-onco 2861 2881	nodules sous-cutanés
+T7	morphology-onco 3251 3264	métastatiques
+T8	morphology-onco 3675 3695	nodules sous-cutanés
+T9	morphology-onco 3736 3766	lésions au niveau sous-pleural
+T10	morphology-onco 4911 4923	métastatique
+T11	morphology-onco 5129 5136	tumeurs
+T12	morphology-onco 5742 5759	implants pleuraux
+T13	morphology-onco 5859 5868	Métastase
+T14	morphology-onco 6080 6097	implants pleuraux
+T15	morphology-onco 6114 6138	atteinte des tissus mous
+T16	morphology-onco 6299 6320	lésions métastatiques
+T17	morphology-onco 6480 6490	métastases
+T18	morphology-onco 6752 6762	métastases
+T19	morphology-onco 7186 7199	métastatiques
+T20	morphology-onco 7413 7424	néoplasique
+T21	morphology-onco 7483 7506	implant rétropéritonéal
+T22	morphology-onco 7609 7629	implant sous-pleural
+T23	morphology-onco 7647 7669	lésion des tissus mous
+T24	morphology-onco 8005 8011	tumeur
+T25	morphology-onco 8280 8303	lésions paravertébrales
+T26	morphology-onco 8377 8399	atteinte surrénalienne
+T27	morphology-onco 8653 8702	Mélanome polytatrique de stade IV avec métastases
+T28	morphology-onco 9270 9276	tumeur
+T29	morphology-onco 9805 9836	maladie au niveau paravertébral
+T30	morphology-onco 10323 10331	tumorale
+#1	ICD-O-3.1 T13	8000/6
+#2	ICD-O-3.1 T15	8000/6
+#3	ICD-O-3.1 T12	8000/6
+#4	ICD-O-3.1 T14	8000/6
+#5	ICD-O-3.1 T23	8000/6
+#6	ICD-O-3.1 T2	8720/3
+#7	ICD-O-3.1 T3	8720/3
+#8	ICD-O-3.1 T1	8743/3
+#9	ICD-O-3.1 T7	8000/6
+#10	ICD-O-3.1 T16	8000/6
+#11	ICD-O-3.1 T19	8000/6
+#12	ICD-O-3.1 T10	8000/6
+#13	ICD-O-3.1 T5	8000/6
+#14	ICD-O-3.1 T17	8000/6
+#15	ICD-O-3.1 T18	8000/6
+#16	ICD-O-3.1 T20	8000/1
+#17	ICD-O-3.1 T6	8000/6
+#18	ICD-O-3.1 T8	8000/6
+#19	ICD-O-3.1 T24	8000/1
+#20	ICD-O-3.1 T28	8000/1
+#21	ICD-O-3.1 T30	8000/1
+#22	ICD-O-3.1 T11	8000/1
+#23	ICD-O-3.1 T4	8000/6
+#24	ICD-O-3.1 T9	8000/6
+#25	ICD-O-3.1 T21	8000/6
+#26	ICD-O-3.1 T22	8000/6
+#27	ICD-O-3.1 T27	8720/6
+#28	ICD-O-3.1 T29	8000/6
+#29	ICD-O-3.1 T25	8000/6
+#30	ICD-O-3.1 T26	8000/6
+#31	SNOMED T13	14799000
+#32	SNOMED T15	14799000
+#33	SNOMED T12	14799000
+#34	SNOMED T14	14799000
+#35	SNOMED T23	14799000
+#36	SNOMED T2	1162635006
+#37	SNOMED T3	1162635006
+#38	SNOMED T1	55320002
+#39	SNOMED T7	14799000
+#40	SNOMED T16	14799000
+#41	SNOMED T19	14799000
+#42	SNOMED T10	14799000
+#43	SNOMED T5	14799000
+#44	SNOMED T17	14799000
+#45	SNOMED T18	14799000
+#46	SNOMED T20	86251006
+#47	SNOMED T6	14799000
+#48	SNOMED T8	14799000
+#49	SNOMED T24	86251006
+#50	SNOMED T28	86251006
+#51	SNOMED T30	86251006
+#52	SNOMED T11	86251006
+#53	SNOMED T4	14799000
+#54	SNOMED T9	14799000
+#55	SNOMED T21	14799000
+#56	SNOMED T22	14799000
+#57	SNOMED T27	372158004
+#58	SNOMED T29	14799000
+#59	SNOMED T25	14799000
+#60	SNOMED T26	14799000

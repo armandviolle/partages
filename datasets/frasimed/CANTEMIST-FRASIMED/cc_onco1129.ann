@@ -1,0 +1,126 @@
+T1	morphology-onco 2422 2461	adénopathie cervicale, sus-claviculaire
+T2	morphology-onco 5493 5500	tumeurs
+T3	morphology-onco 5822 5830	tumorale
+T4	morphology-onco 6253 6262	néoplasie
+T5	morphology-onco 6275 6317	Adénopathie métastatique supraclaviculaire
+T6	morphology-onco 6287 6299	métastatique
+T7	morphology-onco 6974 6984	métastases
+T8	morphology-onco 10185 10194	néoplasme
+T9	morphology-onco 10229 10238	néoplasme
+T10	morphology-onco 10329 10339	néoplasmes
+T11	morphology-onco 10394 10433	carcinome pulmonaire à petites cellules
+T12	morphology-onco 10582 10592	néoplasmes
+T13	morphology-onco 10613 10623	métastaser
+T14	morphology-onco 10715 10738	lymphome non hodgkinien
+T15	morphology-onco 10971 10981	néoplasmes
+T16	morphology-onco 11003 11018	hépatocarcinome
+T17	morphology-onco 11023 11041	cholangiocarcinome
+T18	morphology-onco 11045 11059	adénocarcinome
+T19	morphology-onco 11076 11082	cancer
+T20	morphology-onco 11335 11350	hépatocarcinome
+T21	morphology-onco 11388 11394	cancer
+T22	morphology-onco 11407 11430	sarcome des tissus mous
+T23	morphology-onco 11443 11466	tumeurs neuroendocrines
+T24	morphology-onco 11471 11479	mélanome
+T25	morphology-onco 11485 11495	néoplasmes
+T26	morphology-onco 11634 11644	métastases
+T27	morphology-onco 11740 11748	malignes
+T28	morphology-onco 12033 12040	maligne
+T29	morphology-onco 12209 12220	néoplasique
+T30	morphology-onco 12298 12305	tumeurs
+T31	morphology-onco 12335 12359	carcinomes microcytaires
+T32	morphology-onco 12394 12401	tumeurs
+T33	morphology-onco 12436 12445	mélanomes
+T34	morphology-onco 12451 12460	lymphomes
+T35	morphology-onco 12587 12593	cancer
+T36	morphology-onco 12627 12656	syndromes lymphoprolifératifs
+T37	morphology-onco 14539 14550	néoplasique
+T38	morphology-onco 15049 15106	carcinome neuroendocrine à petites cellules de haut grade
+T39	morphology-onco 15196 15208	métastatique
+T40	morphology-onco 15280 15288	tumorale
+T41	morphology-onco 15500 15524	néoplasique métastatique
+T42	morphology-onco 15534 15591	carcinome neuroendocrine à petites cellules de haut grade
+#1	ICD-O-3.1 T5	8000/6
+#2	ICD-O-3.1 T18	8140/3
+#3	ICD-O-3.1 T1	8000/6
+#4	ICD-O-3.1 T11	8041/3
+#5	ICD-O-3.1 T31	8041/3
+#6	ICD-O-3.1 T17	8160/3
+#7	ICD-O-3.1 T19	8000/3
+#8	ICD-O-3.1 T35	8000/3
+#9	ICD-O-3.1 T16	8170/3
+#10	ICD-O-3.1 T20	8170/3
+#11	ICD-O-3.1 T34	9590/3
+#12	ICD-O-3.1 T14	9591/3
+#13	ICD-O-3.1 T28	8000/3
+#14	ICD-O-3.1 T27	8000/3
+#15	ICD-O-3.1 T24	8720/3
+#16	ICD-O-3.1 T33	8720/3
+#17	ICD-O-3.1 T6	8000/6
+#18	ICD-O-3.1 T39	8000/6
+#19	ICD-O-3.1 T7	8000/6
+#20	ICD-O-3.1 T26	8000/6
+#21	ICD-O-3.1 T4	8000/1
+#22	ICD-O-3.1 T8	8000/1
+#23	ICD-O-3.1 T9	8000/1
+#24	ICD-O-3.1 T10	8000/1
+#25	ICD-O-3.1 T12	8000/1
+#26	ICD-O-3.1 T15	8000/1
+#27	ICD-O-3.1 T25	8000/1
+#28	ICD-O-3.1 T29	8000/1
+#29	ICD-O-3.1 T37	8000/1
+#30	ICD-O-3.1 T41	8000/6
+#31	ICD-O-3.1 T22	8800/3
+#32	ICD-O-3.1 T3	8000/1
+#33	ICD-O-3.1 T40	8000/1
+#34	ICD-O-3.1 T2	8000/1
+#35	ICD-O-3.1 T30	8000/1
+#36	ICD-O-3.1 T32	8000/1
+#37	ICD-O-3.1 T23	8240/3
+#38	ICD-O-3.1 T13	8000/6
+#39	ICD-O-3.1 T21	8000/3
+#40	ICD-O-3.1 T36	9970/1
+#41	ICD-O-3.1 T38	8041/34
+#42	ICD-O-3.1 T42	8041/34
+#43	SNOMED T5	14799000
+#44	SNOMED T18	1187332001
+#45	SNOMED T1	14799000
+#46	SNOMED T11	11010461000119101
+#47	SNOMED T31	11010461000119101
+#48	SNOMED T17	312104005
+#49	SNOMED T19	1240414004
+#50	SNOMED T35	1240414004
+#51	SNOMED T16	1186630006
+#52	SNOMED T20	1186630006
+#53	SNOMED T34	1163043007
+#54	SNOMED T14	1172592001
+#55	SNOMED T28	1240414004
+#56	SNOMED T27	1240414004
+#57	SNOMED T24	1162635006
+#58	SNOMED T33	1162635006
+#59	SNOMED T6	14799000
+#60	SNOMED T39	14799000
+#61	SNOMED T7	14799000
+#62	SNOMED T26	14799000
+#63	SNOMED T4	86251006
+#64	SNOMED T8	86251006
+#65	SNOMED T9	86251006
+#66	SNOMED T10	86251006
+#67	SNOMED T12	86251006
+#68	SNOMED T15	86251006
+#69	SNOMED T25	86251006
+#70	SNOMED T29	86251006
+#71	SNOMED T37	86251006
+#72	SNOMED T41	14799000
+#73	SNOMED T22	1187396000
+#74	SNOMED T3	86251006
+#75	SNOMED T40	86251006
+#76	SNOMED T2	86251006
+#77	SNOMED T30	86251006
+#78	SNOMED T32	86251006
+#79	SNOMED T23	189607006
+#80	SNOMED T13	14799000
+#81	SNOMED T21	1240414004
+#82	SNOMED T36	277466009
+#83	SNOMED T38	11010461000119101
+#84	SNOMED T42	11010461000119101

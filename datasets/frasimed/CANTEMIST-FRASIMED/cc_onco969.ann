@@ -1,0 +1,17 @@
+T1	morphology-onco 848 854	tumeur
+T2	morphology-onco 899 918	lésions pulmonaires
+T3	morphology-onco 987 997	métastases
+T4	morphology-onco 1126 1165	carcinome à cellules claires, Führman 3
+T5	morphology-onco 1504 1548	tumeur rénale à cellules claires pT3a pN1 M1
+T6	morphology-onco 1784 1828	progression néoplasique au niveau pulmonaire
+#1	ICD-O-3.1 T2	8000/6
+#2	ICD-O-3.1 T3	8000/6
+#3	ICD-O-3.1 T1	8000/1
+#4	ICD-O-3.1 T4	8310/31
+#5	ICD-O-3.1 T5	8005/6
+#6	ICD-O-3.1 T6	8000/6
+#7	SNOMED T2	14799000
+#8	SNOMED T3	14799000
+#9	SNOMED T1	86251006
+#10	SNOMED T4	30546008
+#11	SNOMED T6	14799000

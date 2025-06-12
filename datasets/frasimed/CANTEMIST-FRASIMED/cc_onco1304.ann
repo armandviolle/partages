@@ -1,0 +1,15 @@
+T1	morphology-onco 1226 1232	tumeur
+T2	morphology-onco 1527 1533	tumeur
+T3	morphology-onco 1722 1773	lymphome B diffus à grandes cellules non hodgkinien
+T4	morphology-onco 1940 1948	lymphome
+T5	morphology-onco 2095 2146	Lymphome B non hodgkinien diffus à grandes cellules
+#1	ICD-O-3.1 T4	9590/3
+#2	ICD-O-3.1 T2	8000/1
+#3	ICD-O-3.1 T1	8000/1
+#4	ICD-O-3.1 T3	9680/3
+#5	ICD-O-3.1 T5	9680/3
+#6	SNOMED T4	1163043007
+#7	SNOMED T2	86251006
+#8	SNOMED T1	86251006
+#9	SNOMED T3	1172695008
+#10	SNOMED T5	1172695008

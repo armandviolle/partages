@@ -1,0 +1,42 @@
+T1	morphology-onco 198 204	tumeur
+T2	morphology-onco 364 394	adénocarcinome peu différencié
+T3	morphology-onco 459 475	nodule hépatique
+T4	morphology-onco 489 499	métastases
+T5	morphology-onco 617 633	nodule hépatique
+T6	morphology-onco 684 708	carcinome neuroendocrine
+T7	morphology-onco 877 900	dissémination hépatique
+T8	morphology-onco 1035 1070	lésions hépatiques hypervasculaires
+T9	morphology-onco 1092 1102	métastases
+T10	morphology-onco 1414 1435	progression hépatique
+T11	morphology-onco 2018 2039	progression hépatique
+T12	morphology-onco 2844 2862	lésions hépatiques
+T13	morphology-onco 5462 5470	tumorale
+T14	morphology-onco 6971 7036	Tumeur neuroendocrine pancréatique disséminée au niveau hépatique
+#1	ICD-O-3.1 T2	8140/33
+#2	ICD-O-3.1 T6	8246/3
+#3	ICD-O-3.1 T7	8000/6
+#4	ICD-O-3.1 T12	8000/6
+#5	ICD-O-3.1 T4	8000/6
+#6	ICD-O-3.1 T9	8000/6
+#7	ICD-O-3.1 T3	8000/6
+#8	ICD-O-3.1 T5	8000/6
+#9	ICD-O-3.1 T10	8000/6
+#10	ICD-O-3.1 T11	8000/6
+#11	ICD-O-3.1 T1	8000/1
+#12	ICD-O-3.1 T13	8000/1
+#13	ICD-O-3.1 T8	8000/6
+#14	ICD-O-3.1 T14	8150/6
+#15	SNOMED T2	1187332001
+#16	SNOMED T6	55937004
+#17	SNOMED T7	14799000
+#18	SNOMED T12	14799000
+#19	SNOMED T4	14799000
+#20	SNOMED T9	14799000
+#21	SNOMED T3	14799000
+#22	SNOMED T5	14799000
+#23	SNOMED T10	14799000
+#24	SNOMED T11	14799000
+#25	SNOMED T1	86251006
+#26	SNOMED T13	86251006
+#27	SNOMED T8	14799000
+#28	SNOMED T14	261713004

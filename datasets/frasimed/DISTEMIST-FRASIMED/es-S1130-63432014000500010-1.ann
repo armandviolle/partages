@@ -1,0 +1,24 @@
+T1	disease 28 34	fumeur
+T2	disease 76 139	hypothyroïdie après ablation de la thyroïde par iode radioactif
+T3	disease 147 156	OG sévère
+T4	disease 162 192	neuropathie optique bilatérale
+T5	disease 274 305	pseudophakie dans les deux yeux
+T6	disease 307 327	punctata inferior OD
+T7	disease 359 380	chémosis conjonctival
+T8	disease 397 418	œdème de la caroncule
+T9	disease 821 835	arrêt du tabac
+T10	disease 1188 1200	orbitopathie
+T11	disease 2125 2170	œdème et d'érythème conjonctival et palpébral
+T12	disease 2396 2405	strabisme
+#1	SNOMED T10	371436007
+#2	SNOMED T1	77176002
+#3	SNOMED T9	89765005
+#4	SNOMED T2	237527007
+#5	SNOMED T3	276177000
+#6	SNOMED T4	77157004
+#7	SNOMED T5	95217000
+#8	SNOMED T6	42513006
+#9	SNOMED T11	84178004+193967004+703630003+1137447008
+#10	SNOMED T7	8148005
+#11	SNOMED T12	22066006
+#12	SNOMED T8	386658005

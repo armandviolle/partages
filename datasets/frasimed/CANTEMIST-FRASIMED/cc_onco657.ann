@@ -1,0 +1,48 @@
+T1	morphology-onco 2396 2453	adénopathie palpable latéro-cervicale, supra-claviculaire
+T2	morphology-onco 4192 4207	LOES hépatiques
+T3	morphology-onco 4453 4462	métastase
+T4	morphology-onco 4464 4507	Tumeur en relation avec la glande surrénale
+T5	morphology-onco 4632 4641	métastase
+T6	morphology-onco 4751 4760	métastase
+T7	morphology-onco 5594 5603	néoplasie
+T8	morphology-onco 5710 5727	cellules malignes
+T9	morphology-onco 5729 5758	Métastase d'un adénocarcinome
+T10	morphology-onco 5973 5991	cellules tumorales
+T11	morphology-onco 6004 6024	Lésion surrénalienne
+T12	morphology-onco 6072 6089	cellules malignes
+T13	morphology-onco 6091 6127	Métastase d'un carcinome épidermoïde
+T14	morphology-onco 6526 6539	LOE hépatique
+T15	morphology-onco 6560 6574	adénocarcinome
+T16	morphology-onco 6647 6659	métastatique
+#1	ICD-O-3.1 T11	8000/6
+#2	ICD-O-3.1 T9	8140/6
+#3	ICD-O-3.1 T13	8070/6
+#4	ICD-O-3.1 T15	8140/3
+#5	ICD-O-3.1 T1	8000/6
+#6	ICD-O-3.1 T8	8001/3
+#7	ICD-O-3.1 T12	8001/3
+#8	ICD-O-3.1 T10	8001/1
+#9	ICD-O-3.1 T16	8000/6
+#10	ICD-O-3.1 T3	8000/6
+#11	ICD-O-3.1 T5	8000/6
+#12	ICD-O-3.1 T6	8000/6
+#13	ICD-O-3.1 T7	8000/1
+#14	ICD-O-3.1 T2	8000/6
+#15	ICD-O-3.1 T4	8000/6
+#16	ICD-O-3.1 T14	8000/6
+#17	SNOMED T11	14799000
+#18	SNOMED T9	4590003
+#19	SNOMED T13	403906006
+#20	SNOMED T15	1187332001
+#21	SNOMED T1	14799000
+#22	SNOMED T8	88400008
+#23	SNOMED T12	88400008
+#24	SNOMED T10	39577004
+#25	SNOMED T16	14799000
+#26	SNOMED T3	14799000
+#27	SNOMED T5	14799000
+#28	SNOMED T6	14799000
+#29	SNOMED T7	86251006
+#30	SNOMED T2	14799000
+#31	SNOMED T4	14799000
+#32	SNOMED T14	14799000

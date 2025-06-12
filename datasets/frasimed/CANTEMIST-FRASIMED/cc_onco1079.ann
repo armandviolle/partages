@@ -1,0 +1,27 @@
+T1	morphology-onco 540 555	tumeur stromale
+T2	morphology-onco 618 624	tumeur
+T3	morphology-onco 701 707	tumeur
+T4	morphology-onco 1370 1382	métastatique
+T5	morphology-onco 1505 1552	sarcome stromal gastro-intestinal de haut grade
+T6	morphology-onco 1590 1597	tumeurs
+T7	morphology-onco 3399 3408	tumorales
+T8	morphology-onco 3548 3577	tumeur stromale de haut grade
+T9	morphology-onco 3650 3660	métastases
+#1	ICD-O-3.1 T4	8000/6
+#2	ICD-O-3.1 T9	8000/6
+#3	ICD-O-3.1 T6	8000/1
+#4	ICD-O-3.1 T3	8000/1
+#5	ICD-O-3.1 T2	8000/1
+#6	ICD-O-3.1 T7	8000/1
+#7	ICD-O-3.1 T1	8935/1
+#8	ICD-O-3.1 T5	8936/34
+#9	ICD-O-3.1 T8	8935/14
+#10	SNOMED T4	14799000
+#11	SNOMED T9	14799000
+#12	SNOMED T6	86251006
+#13	SNOMED T3	86251006
+#14	SNOMED T2	86251006
+#15	SNOMED T7	86251006
+#16	SNOMED T1	128752000
+#17	SNOMED T5	128756002
+#18	SNOMED T8	128752000

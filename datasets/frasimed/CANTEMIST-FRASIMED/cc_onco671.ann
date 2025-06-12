@@ -1,0 +1,72 @@
+T1	morphology-onco 249 266	nodule pulmonaire
+T2	morphology-onco 1294 1313	nodules pulmonaires
+T3	morphology-onco 1486 1492	tumeur
+T4	morphology-onco 1509 1539	carcinome canalaire infiltrant
+T5	morphology-onco 1806 1823	cellules malignes
+T6	morphology-onco 2068 2098	Carcinome canalaire infiltrant
+T7	morphology-onco 2144 2154	métastases
+T8	morphology-onco 2185 2187	M1
+T9	morphology-onco 2233 2275	cancer du sein métastatique triple négatif
+T10	morphology-onco 2882 2892	métastases
+T11	morphology-onco 3137 3143	tumeur
+T12	morphology-onco 3260 3270	métastases
+T13	morphology-onco 3843 3895	métastase d'un carcinome neuroendocrine de bas grade
+T14	morphology-onco 3950 3971	tumeur neuroendocrine
+T15	morphology-onco 4299 4306	tumeurs
+T16	morphology-onco 4321 4351	Carcinome canalaire infiltrant
+T17	morphology-onco 4352 4358	T3N2M0
+T18	morphology-onco 4389 4439	Tumeur neuroendocrine de bas grade avec métastases
+T19	morphology-onco 4567 4576	carcinome
+T20	morphology-onco 4711 4720	néoplasie
+T21	morphology-onco 5087 5106	lésions pulmonaires
+T22	morphology-onco 5124 5145	tumeur neuroendocrine
+T23	morphology-onco 5331 5398	tumeur neuroendocrine de bas grade d'origine inconnue, métastatique
+T24	morphology-onco 5691 5709	maladie pulmonaire
+T25	morphology-onco 5775 5784	carcinome
+#1	ICD-O-3.1 T6	8500/3
+#2	ICD-O-3.1 T16	8500/3
+#3	ICD-O-3.1 T8	8000/6
+#4	ICD-O-3.1 T19	8010/3
+#5	ICD-O-3.1 T25	8010/3
+#6	ICD-O-3.1 T4	8500/3
+#7	ICD-O-3.1 T5	8001/3
+#8	ICD-O-3.1 T24	8000/6
+#9	ICD-O-3.1 T21	8000/6
+#10	ICD-O-3.1 T7	8000/6
+#11	ICD-O-3.1 T10	8000/6
+#12	ICD-O-3.1 T12	8000/6
+#13	ICD-O-3.1 T20	8000/1
+#14	ICD-O-3.1 T1	8000/6
+#15	ICD-O-3.1 T2	8000/6
+#16	ICD-O-3.1 T3	8000/1
+#17	ICD-O-3.1 T11	8000/1
+#18	ICD-O-3.1 T14	8240/3
+#19	ICD-O-3.1 T22	8240/3
+#20	ICD-O-3.1 T23	8240/6
+#21	ICD-O-3.1 T15	8000/1
+#22	ICD-O-3.1 T9	8000/6
+#23	ICD-O-3.1 T13	8246/6
+#24	ICD-O-3.1 T17	8000/6
+#25	ICD-O-3.1 T18	8240/6
+#26	SNOMED T6	58477004
+#27	SNOMED T16	58477004
+#28	SNOMED T8	14799000
+#29	SNOMED T19	1187425009
+#30	SNOMED T25	1187425009
+#31	SNOMED T4	58477004
+#32	SNOMED T5	88400008
+#33	SNOMED T24	14799000
+#34	SNOMED T21	14799000
+#35	SNOMED T7	14799000
+#36	SNOMED T10	14799000
+#37	SNOMED T12	14799000
+#38	SNOMED T20	86251006
+#39	SNOMED T1	14799000
+#40	SNOMED T2	14799000
+#41	SNOMED T3	86251006
+#42	SNOMED T11	86251006
+#43	SNOMED T14	189607006
+#44	SNOMED T22	189607006
+#45	SNOMED T15	86251006
+#46	SNOMED T9	14799000
+#47	SNOMED T17	14799000

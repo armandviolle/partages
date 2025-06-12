@@ -1,0 +1,21 @@
+T1	morphology-onco 542 567	tumeur bénigne prévisible
+T2	morphology-onco 1032 1038	tumeur
+T3	morphology-onco 1382 1394	ostéosarcome
+T4	morphology-onco 1856 1862	tumeur
+T5	morphology-onco 2759 2767	tumorale
+T6	morphology-onco 2770 2782	ostéosarcome
+T7	morphology-onco 3772 3784	ostéosarcome
+#1	ICD-O-3.1 T3	9180/3
+#2	ICD-O-3.1 T6	9180/3
+#3	ICD-O-3.1 T7	9180/3
+#4	ICD-O-3.1 T2	8000/1
+#5	ICD-O-3.1 T4	8000/1
+#6	ICD-O-3.1 T5	8000/1
+#7	ICD-O-3.1 T1	8000/1
+#8	SNOMED T3	1163405004
+#9	SNOMED T6	1163405004
+#10	SNOMED T7	1163405004
+#11	SNOMED T2	86251006
+#12	SNOMED T4	86251006
+#13	SNOMED T5	86251006
+#14	SNOMED T1	86251006

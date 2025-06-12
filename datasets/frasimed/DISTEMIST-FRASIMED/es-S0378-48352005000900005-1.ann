@@ -1,0 +1,18 @@
+T1	disease 137 167	carcinome lobulaire infiltrant
+T2	disease 195 210	tumeur primaire
+T3	disease 231 323	Quatorze ganglions ont été isolés de l'aisselle, dont quatre étaient infiltrés par la tumeur
+T4	disease 731 789	adénocarcinome diffus avec des cellules en anneau de signe
+T5	disease 881 887	ascite
+T6	disease 894 913	néoplasme gastrique
+T7	disease 964 994	infiltrant la tête du pancréas
+T8	disease 1056 1095	invasion de cellules en anneau de signe
+T9	disease 1309 1328	métastases osseuses
+#1	SNOMED T1	278054005
+#2	SNOMED T2	372087000
+#3	SNOMED T3	127189005
+#4	SNOMED T4	87737001
+#5	SNOMED T5	389026000
+#6	SNOMED T6	126824007
+#7	SNOMED T7	94325008
+#8	SNOMED T8	87737001
+#9	SNOMED T9	94222008

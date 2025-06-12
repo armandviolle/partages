@@ -1,0 +1,8 @@
+T1	disease 42 65	hypertension artérielle
+T2	disease 71 105	hyperplasie bénigne de la prostate
+T3	disease 474 503	kyste hydatique rétro-vésical
+T4	disease 987 1006	hydatique pelvienne
+#1	SNOMED T1	38341003
+#2	SNOMED T2	266569009
+#3	SNOMED T3	74942003
+#4	SNOMED T4	74942003

@@ -1,0 +1,73 @@
+T1	morphology-onco 293 309	hémangioblastome
+T2	morphology-onco 539 545	cancer
+T3	morphology-onco 2352 2367	lésion tumorale
+T4	morphology-onco 2433 2443	hémangiome
+T5	morphology-onco 2529 2537	tumorale
+T6	morphology-onco 2646 2670	micronodules pulmonaires
+T7	morphology-onco 2787 2798	néoplasique
+T8	morphology-onco 2838 2862	micronodules pulmonaires
+T9	morphology-onco 2939 2988	métastase d'un carcinome rénal à cellules claires
+T10	morphology-onco 3002 3049	Carcinome rénal à cellules claires métastatique
+T11	morphology-onco 3107 3126	lésions pulmonaires
+T12	morphology-onco 3199 3208	métastase
+T13	morphology-onco 3461 3495	carcinome rénal à cellules claires
+T14	morphology-onco 3537 3546	rhabdoïde
+T15	morphology-onco 3550 3562	sarcomatoïde
+T16	morphology-onco 3597 3615	maladie à distance
+T17	morphology-onco 3617 3645	lésion tumorale choroïdienne
+T18	morphology-onco 3694 3718	micronodules pulmonaires
+T19	morphology-onco 3993 4019	tumeur choroïdienne solide
+T20	morphology-onco 4073 4109	métastase choroïdienne de son cancer
+T21	morphology-onco 4557 4581	micronodules pulmonaires
+T22	morphology-onco 4592 4598	tumeur
+T23	morphology-onco 4636 4642	tumeur
+T24	morphology-onco 4733 4749	hémangioblastome
+T25	morphology-onco 4786 4792	tumeur
+#1	ICD-O-3.1 T10	8310/6
+#2	ICD-O-3.1 T13	8310/3
+#3	ICD-O-3.1 T2	8000/3
+#4	ICD-O-3.1 T16	8000/6
+#5	ICD-O-3.1 T1	9161/1
+#6	ICD-O-3.1 T24	9161/1
+#7	ICD-O-3.1 T4	9120/0
+#8	ICD-O-3.1 T11	8000/6
+#9	ICD-O-3.1 T12	8000/6
+#10	ICD-O-3.1 T9	8310/6
+#11	ICD-O-3.1 T6	8000/6
+#12	ICD-O-3.1 T8	8000/6
+#13	ICD-O-3.1 T18	8000/6
+#14	ICD-O-3.1 T21	8000/6
+#15	ICD-O-3.1 T7	8000/1
+#16	ICD-O-3.1 T15	8033/3
+#17	ICD-O-3.1 T25	8000/1
+#18	ICD-O-3.1 T22	8000/1
+#19	ICD-O-3.1 T23	8000/1
+#20	ICD-O-3.1 T3	8000/1
+#21	ICD-O-3.1 T5	8000/1
+#22	ICD-O-3.1 T14	8963/3
+#23	ICD-O-3.1 T17	8000/6
+#24	ICD-O-3.1 T20	8000/6
+#25	ICD-O-3.1 T19	8000/6
+#26	SNOMED T13	30546008
+#27	SNOMED T2	1240414004
+#28	SNOMED T16	14799000
+#29	SNOMED T1	1156474009
+#30	SNOMED T24	1156474009
+#31	SNOMED T4	253053003
+#32	SNOMED T11	14799000
+#33	SNOMED T12	14799000
+#34	SNOMED T6	14799000
+#35	SNOMED T8	14799000
+#36	SNOMED T18	14799000
+#37	SNOMED T21	14799000
+#38	SNOMED T7	86251006
+#39	SNOMED T15	23109009
+#40	SNOMED T25	86251006
+#41	SNOMED T22	86251006
+#42	SNOMED T23	86251006
+#43	SNOMED T3	86251006
+#44	SNOMED T5	86251006
+#45	SNOMED T14	1156418001
+#46	SNOMED T17	14799000
+#47	SNOMED T20	14799000
+#48	SNOMED T19	14799000

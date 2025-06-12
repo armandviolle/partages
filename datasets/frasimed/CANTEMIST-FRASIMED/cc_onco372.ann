@@ -1,0 +1,36 @@
+T1	morphology-onco 260 266	cancer
+T2	morphology-onco 638 694	lésion végétante, sessile et irrégulière de l'aryténoïde
+T3	morphology-onco 1045 1062	nodule pulmonaire
+T4	morphology-onco 1172 1182	métastases
+T5	morphology-onco 1374 1392	implant péritonéal
+T6	morphology-onco 1804 1849	adénocarcinome invasif modérément différencié
+T7	morphology-onco 1969 1986	nodule pulmonaire
+T8	morphology-onco 2059 2067	tumorale
+T9	morphology-onco 2608 2667	lésion végétative rugueuse a été observée dans l'aryténoïde
+T10	morphology-onco 2894 2946	métastase d'un adénocarcinome modérément différencié
+T11	morphology-onco 3150 3197	adénocarcinome du côlon de stade IV (métastases
+T12	morphology-onco 3831 3850	lésions pulmonaires
+#1	ICD-O-3.1 T6	8140/32/H
+#2	ICD-O-3.1 T1	8000/3
+#3	ICD-O-3.1 T5	8000/6
+#4	ICD-O-3.1 T12	8000/6
+#5	ICD-O-3.1 T4	8000/6
+#6	ICD-O-3.1 T3	8000/6
+#7	ICD-O-3.1 T7	8000/6
+#8	ICD-O-3.1 T8	8000/1
+#9	ICD-O-3.1 T10	8140/62
+#10	ICD-O-3.1 T11	8140/6
+#11	ICD-O-3.1 T9	8000/6
+#12	ICD-O-3.1 T2	8000/6
+#13	SNOMED T6	1187332001
+#14	SNOMED T1	1240414004
+#15	SNOMED T5	14799000
+#16	SNOMED T12	14799000
+#17	SNOMED T4	14799000
+#18	SNOMED T3	14799000
+#19	SNOMED T7	14799000
+#20	SNOMED T8	86251006
+#21	SNOMED T10	4590003
+#22	SNOMED T11	4590003
+#23	SNOMED T9	14799000
+#24	SNOMED T2	14799000

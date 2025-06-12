@@ -1,0 +1,32 @@
+T1	morphology-onco 105 138	tumeur à cellules géantes de l'os
+T2	morphology-onco 283 291	tumorale
+T3	morphology-onco 385 397	métastatique
+T4	morphology-onco 501 509	tumorale
+T5	morphology-onco 1333 1342	métastase
+T6	morphology-onco 2499 2505	tumeur
+T7	morphology-onco 2573 2583	métastases
+T8	morphology-onco 2613 2633	lâchage de ballonnet
+T9	morphology-onco 2723 2783	tumeur à cellules géantes de l'humérus droit avec métastases
+T10	morphology-onco 2815 2832	lâcher de ballons
+T11	morphology-onco 3441 3474	tumeur à cellules géantes de l'os
+#1	ICD-O-3.1 T3	8000/6
+#2	ICD-O-3.1 T5	8000/6
+#3	ICD-O-3.1 T7	8000/6
+#4	ICD-O-3.1 T8	8000/6
+#5	ICD-O-3.1 T10	8000/6
+#6	ICD-O-3.1 T1	9250/3
+#7	ICD-O-3.1 T11	9250/3
+#8	ICD-O-3.1 T6	8000/1
+#9	ICD-O-3.1 T2	8000/1
+#10	ICD-O-3.1 T4	8000/1
+#11	ICD-O-3.1 T9	8003/6
+#12	SNOMED T3	14799000
+#13	SNOMED T5	14799000
+#14	SNOMED T7	14799000
+#15	SNOMED T8	14799000
+#16	SNOMED T10	14799000
+#17	SNOMED T1	10069009
+#18	SNOMED T11	10069009
+#19	SNOMED T6	86251006
+#20	SNOMED T2	86251006
+#21	SNOMED T4	86251006

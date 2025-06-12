@@ -1,0 +1,36 @@
+T1	morphology-onco 1507 1532	adénocarcinome infiltrant
+T2	morphology-onco 1534 1537	ADC
+T3	morphology-onco 2247 2258	néoplasique
+T4	morphology-onco 2420 2429	malignité
+T5	morphology-onco 2525 2527	M1
+T6	morphology-onco 2552 2566	ADC infiltrant
+T7	morphology-onco 2590 2592	M0
+T8	morphology-onco 3680 3689	néoplasme
+T9	morphology-onco 3747 3756	néoplasie
+T10	morphology-onco 4639 4648	malignité
+T11	morphology-onco 4785 4794	néoplasme
+T12	morphology-onco 5073 5131	ADC du bas rectum, bien différencié (G1) avec infiltration
+#1	ICD-O-3.1 T2	8140/3
+#2	ICD-O-3.1 T7	8000/6
+#3	ICD-O-3.1 T5	8000/6
+#4	ICD-O-3.1 T4	8000/3
+#5	ICD-O-3.1 T10	8000/3
+#6	ICD-O-3.1 T8	8000/1
+#7	ICD-O-3.1 T9	8000/1
+#8	ICD-O-3.1 T11	8000/1
+#9	ICD-O-3.1 T3	8000/1
+#10	ICD-O-3.1 T1	8140/3/H
+#11	ICD-O-3.1 T6	8140/3/H
+#12	ICD-O-3.1 T12	8140/31/H
+#13	SNOMED T2	1187332001
+#14	SNOMED T7	14799000
+#15	SNOMED T5	14799000
+#16	SNOMED T4	1240414004
+#17	SNOMED T10	1240414004
+#18	SNOMED T8	86251006
+#19	SNOMED T9	86251006
+#20	SNOMED T11	86251006
+#21	SNOMED T3	86251006
+#22	SNOMED T1	1187332001
+#23	SNOMED T6	1187332001
+#24	SNOMED T12	1187332001

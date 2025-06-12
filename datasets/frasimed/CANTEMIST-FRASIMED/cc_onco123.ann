@@ -1,0 +1,21 @@
+T1	morphology-onco 162 192	carcinome canalaire infiltrant
+T2	morphology-onco 695 704	carcinome
+T3	morphology-onco 1218 1251	carcinome canalaire infiltrant G1
+T4	morphology-onco 1352 1361	carcinome
+T5	morphology-onco 1483 1548	carcinome canalaire infiltrant de 5,5 mm, de grade histologique 1
+T6	morphology-onco 1594 1609	macrométastases
+T7	morphology-onco 1915 1921	tumeur
+#1	ICD-O-3.1 T2	8010/3
+#2	ICD-O-3.1 T4	8010/3
+#3	ICD-O-3.1 T1	8500/3
+#4	ICD-O-3.1 T6	8000/6
+#5	ICD-O-3.1 T7	8000/1
+#6	ICD-O-3.1 T3	8500/31
+#7	ICD-O-3.1 T5	8500/31
+#8	SNOMED T2	1187425009
+#9	SNOMED T4	1187425009
+#10	SNOMED T1	58477004
+#11	SNOMED T6	14799000
+#12	SNOMED T7	86251006
+#13	SNOMED T3	58477004
+#14	SNOMED T5	58477004

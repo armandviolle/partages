@@ -1,0 +1,16 @@
+T1	disease 125 151	ptose congénitale de l'œil
+T2	disease 356 380	problèmes de coagulation
+T3	disease 494 535	asymétrie entre les paupières supérieures
+T4	disease 540 611	tiers interne de la paupière supérieure gauche étant légèrement abaissé
+T5	disease 1136 1145	hypotrope
+T6	disease 1926 1938	astigmatisme
+T7	disease 2074 2088	kyste dermoïde
+T8	disease 2241 2247	lésion
+#1	SNOMED T1	268163008
+#2	SNOMED T7	441459009
+#3	SNOMED T5	29491004
+#4	SNOMED T6	82649003
+#5	SNOMED T8	417163006
+#6	SNOMED T2	248253003
+#7	SNOMED T3	366009001
+#8	SNOMED T4	412719003

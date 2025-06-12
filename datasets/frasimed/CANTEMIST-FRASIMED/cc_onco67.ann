@@ -1,0 +1,87 @@
+T1	morphology-onco 1156 1168	métastatique
+T2	morphology-onco 1229 1235	tumeur
+T3	morphology-onco 1531 1537	tumeur
+T4	morphology-onco 1865 1879	carcinosarcome
+T5	morphology-onco 1944 1979	adénocarcinome séreux de haut grade
+T6	morphology-onco 2011 2029	sarcome pléomorphe
+T7	morphology-onco 2663 2677	adénocarcinome
+T8	morphology-onco 2969 3001	Tumeur mullérienne mixte maligne
+T9	morphology-onco 3003 3017	carcinosarcome
+T10	morphology-onco 3059 3094	adénocarcinome séreux de haut grade
+T11	morphology-onco 3130 3148	sarcome pléomorphe
+T12	morphology-onco 3203 3235	tumeur mullerienne mixte maligne
+T13	morphology-onco 3347 3358	néoplasique
+T14	morphology-onco 3950 3959	métastase
+T15	morphology-onco 4470 4478	tumorale
+T16	morphology-onco 4544 4558	Carcinosarcome
+T17	morphology-onco 4608 4637	rechute locale et péritonéale
+T18	morphology-onco 4669 4675	cancer
+T19	morphology-onco 5735 5763	maladie au niveau péritonéal
+T20	morphology-onco 5828 5834	tumeur
+T21	morphology-onco 6275 6281	cancer
+T22	morphology-onco 6412 6418	cancer
+T23	morphology-onco 6498 6504	cancer
+T24	morphology-onco 6578 6584	cancer
+T25	morphology-onco 6825 6831	cancer
+T26	morphology-onco 6902 6920	cholangiocarcinome
+T27	morphology-onco 6981 6990	carcinome
+T28	morphology-onco 7086 7095	carcinome
+T29	morphology-onco 7450 7467	syndrome de Lynch
+#1	ICD-O-3.1 T16	8980/3
+#2	ICD-O-3.1 T8	8950/3
+#3	ICD-O-3.1 T7	8140/3
+#4	ICD-O-3.1 T5	8441/34
+#5	ICD-O-3.1 T10	8441/34
+#6	ICD-O-3.1 T27	8010/3
+#7	ICD-O-3.1 T28	8010/3
+#8	ICD-O-3.1 T26	8160/3
+#9	ICD-O-3.1 T14	8000/6
+#10	ICD-O-3.1 T13	8000/1
+#11	ICD-O-3.1 T20	8000/1
+#12	ICD-O-3.1 T12	8950/3
+#13	ICD-O-3.1 T2	8000/1
+#14	ICD-O-3.1 T3	8000/1
+#15	ICD-O-3.1 T15	8000/1
+#16	ICD-O-3.1 T1	8000/6
+#17	ICD-O-3.1 T4	8980/3
+#18	ICD-O-3.1 T6	8802/3
+#19	ICD-O-3.1 T9	8980/3
+#20	ICD-O-3.1 T11	8802/3
+#21	ICD-O-3.1 T18	8000/3
+#22	ICD-O-3.1 T19	8000/6
+#23	ICD-O-3.1 T21	8000/3
+#24	ICD-O-3.1 T22	8000/3
+#25	ICD-O-3.1 T23	8000/3
+#26	ICD-O-3.1 T24	8000/3
+#27	ICD-O-3.1 T25	8000/3
+#28	ICD-O-3.1 T17	8000/6
+#29	ICD-O-3.1 T29	8010/3
+#30	SNOMED T16	63264007
+#31	SNOMED T8	84427001
+#32	SNOMED T7	1187332001
+#33	SNOMED T5	90725004
+#34	SNOMED T10	90725004
+#35	SNOMED T27	1187425009
+#36	SNOMED T28	1187425009
+#37	SNOMED T26	312104005
+#38	SNOMED T14	14799000
+#39	SNOMED T13	86251006
+#40	SNOMED T20	86251006
+#41	SNOMED T12	84427001
+#42	SNOMED T2	86251006
+#43	SNOMED T3	86251006
+#44	SNOMED T15	86251006
+#45	SNOMED T1	14799000
+#46	SNOMED T4	63264007
+#47	SNOMED T6	302840001
+#48	SNOMED T9	63264007
+#49	SNOMED T11	302840001
+#50	SNOMED T18	1240414004
+#51	SNOMED T19	14799000
+#52	SNOMED T21	1240414004
+#53	SNOMED T22	1240414004
+#54	SNOMED T23	1240414004
+#55	SNOMED T24	1240414004
+#56	SNOMED T25	1240414004
+#57	SNOMED T17	14799000
+#58	SNOMED T29	1187425009

@@ -1,0 +1,26 @@
+T1	disease 35 41	fumeur
+T2	disease 83 108	allergies médicamenteuses
+T3	disease 131 141	hypertendu
+T4	disease 143 153	diabétique
+T5	disease 157 171	dyslipidémique
+T6	disease 203 212	cataracte
+T7	disease 756 803	glande parotide droite, deux lésions nodulaires
+T8	disease 1002 1039	parotide gauche, une lésion nodulaire
+T9	disease 1300 1317	tumeur de Warthin
+T10	disease 1415 1432	tumeur de Warthin
+T11	disease 1507 1584	lésions nodulaires hétérogènes sont observées dans les deux glandes parotides
+T12	disease 1788 1834	tumeur de Warthin multicentrique et bilatérale
+T13	disease 1932 1975	tumeur de Warthin multifocale et bilatérale
+#1	SNOMED T7	126788000
+#2	SNOMED T11	126788000
+#3	SNOMED T10	422470007
+#4	SNOMED T9	422470007
+#5	SNOMED T13	20776008
+#6	SNOMED T3	38341003
+#7	SNOMED T4	73211009
+#8	SNOMED T5	370992007
+#9	SNOMED T6	193570009
+#10	SNOMED T8	126788000
+#11	SNOMED T12	20776008
+#12	SNOMED T2	416098002
+#13	SNOMED T1	77176002

@@ -1,0 +1,18 @@
+T1	morphology-onco 164 189	tumeur à cellules géantes
+T2	morphology-onco 268 274	tumeur
+T3	morphology-onco 382 430	tumeur à cellules géantes de grade 3 de Sanerkin
+T4	morphology-onco 519 544	Tumeur à cellules géantes
+T5	morphology-onco 813 823	métastases
+T6	morphology-onco 870 887	lâcher de ballons
+#1	ICD-O-3.1 T4	8003/3
+#2	ICD-O-3.1 T5	8000/6
+#3	ICD-O-3.1 T6	8000/6
+#4	ICD-O-3.1 T1	8003/3
+#5	ICD-O-3.1 T2	8000/1
+#6	ICD-O-3.1 T3	8003/33
+#7	SNOMED T4	83950009
+#8	SNOMED T5	14799000
+#9	SNOMED T6	14799000
+#10	SNOMED T1	83950009
+#11	SNOMED T2	86251006
+#12	SNOMED T3	83950009

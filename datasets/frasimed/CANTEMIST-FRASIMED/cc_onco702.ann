@@ -1,0 +1,30 @@
+T1	morphology-onco 1051 1101	Dissémination micronodulaire pulmonaire bilatérale
+T2	morphology-onco 1103 1113	Métastases
+T3	morphology-onco 1310 1317	maligne
+T4	morphology-onco 1340 1354	adénocarcinome
+T5	morphology-onco 1472 1514	Adénocarcinome pulmonaire E-IV (cT3cN2cM1)
+T6	morphology-onco 1572 1586	adénocarcinome
+T7	morphology-onco 2120 2127	tumoral
+T8	morphology-onco 3056 3086	lésion au niveau de la calotte
+T9	morphology-onco 3399 3413	adénocarcinome
+T10	morphology-onco 4329 4347	lésions hépatiques
+#1	ICD-O-3.1 T2	8000/6
+#2	ICD-O-3.1 T3	8000/3
+#3	ICD-O-3.1 T7	8000/1
+#4	ICD-O-3.1 T4	8140/3
+#5	ICD-O-3.1 T5	8140/6
+#6	ICD-O-3.1 T6	8140/3
+#7	ICD-O-3.1 T9	8140/3
+#8	ICD-O-3.1 T1	8000/6
+#9	ICD-O-3.1 T10	8000/6
+#10	ICD-O-3.1 T8	8000/6
+#11	SNOMED T2	14799000
+#12	SNOMED T3	1240414004
+#13	SNOMED T7	86251006
+#14	SNOMED T4	1187332001
+#15	SNOMED T5	4590003
+#16	SNOMED T6	1187332001
+#17	SNOMED T9	1187332001
+#18	SNOMED T1	14799000
+#19	SNOMED T10	14799000
+#20	SNOMED T8	14799000

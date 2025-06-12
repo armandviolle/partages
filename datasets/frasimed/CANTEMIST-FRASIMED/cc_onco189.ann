@@ -1,0 +1,36 @@
+T1	morphology-onco 1224 1230	tumeur
+T2	morphology-onco 1620 1626	tumeur
+T3	morphology-onco 2054 2064	schwannome
+T4	morphology-onco 2251 2261	schwannome
+T5	morphology-onco 2379 2385	tumeur
+T6	morphology-onco 2617 2623	tumeur
+T7	morphology-onco 3203 3250	tumeur maligne de la gaine du nerf périphérique
+T8	morphology-onco 3252 3269	neurofibrosarcome
+T9	morphology-onco 3851 3898	Tumeur neuroectodermique primitive périphérique
+T10	morphology-onco 3900 3904	PNET
+T11	morphology-onco 3900 3910	PNET-Ewing
+T12	morphology-onco 4569 4575	tumeur
+#1	ICD-O-3.1 T3	9560/0
+#2	ICD-O-3.1 T4	9560/0
+#3	ICD-O-3.1 T5	8000/1
+#4	ICD-O-3.1 T6	8000/1
+#5	ICD-O-3.1 T1	8000/1
+#6	ICD-O-3.1 T2	8000/1
+#7	ICD-O-3.1 T12	8000/1
+#8	ICD-O-3.1 T7	9540/3
+#9	ICD-O-3.1 T8	9540/3
+#10	ICD-O-3.1 T9	9364/3
+#11	ICD-O-3.1 T11	9260/3
+#12	ICD-O-3.1 T10	9364/3
+#13	SNOMED T3	189948006
+#14	SNOMED T4	189948006
+#15	SNOMED T5	86251006
+#16	SNOMED T6	86251006
+#17	SNOMED T1	86251006
+#18	SNOMED T2	86251006
+#19	SNOMED T12	86251006
+#20	SNOMED T7	404037002
+#21	SNOMED T8	404037002
+#22	SNOMED T9	254764001
+#23	SNOMED T11	76909002
+#24	SNOMED T10	254764001

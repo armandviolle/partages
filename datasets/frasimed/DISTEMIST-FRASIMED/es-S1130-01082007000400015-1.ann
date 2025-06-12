@@ -1,0 +1,12 @@
+T1	disease 235 270	atrésie colique du côlon descendant
+T2	disease 277 326	volvulus de l'intestin grêle en période néonatale
+T3	disease 923 960	appendicite du moignon appendiculaire
+T4	disease 1063 1077	appendicolithe
+T5	disease 1130 1178	plastron péricécal sur un moignon appendiculaire
+T6	disease 1211 1234	appendicite gangreneuse
+#1	SNOMED T1	37054000
+#2	SNOMED T2	9707006
+#3	SNOMED T3	418171008
+#4	SNOMED T4	24764000
+#5	SNOMED T5	62224002+441850003
+#6	SNOMED T6	50846009

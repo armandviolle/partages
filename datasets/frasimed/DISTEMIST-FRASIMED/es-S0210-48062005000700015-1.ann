@@ -1,0 +1,22 @@
+T1	disease 78 105	spondylarthrite ankylosante
+T2	disease 654 677	carcinome transitionnel
+T3	disease 927 1009	récidive de tumeur papillaire, d'apparence superficielle, dans le plancher vésical
+T4	disease 1329 1352	carcinome transitionnel
+T5	disease 2084 2125	paroi antérieure de la vessie, avec abcès
+T6	disease 2141 2148	cystite
+T7	disease 2337 2354	récidive tumorale
+T8	disease 3084 3090	lésion
+T9	disease 3177 3197	néoplasme infiltrant
+T10	disease 3654 3675	infiltration tumorale
+T11	disease 3783 3802	cystite incrustante
+#1	SNOMED T11	783184003
+#2	SNOMED T1	9631008
+#3	SNOMED T3	314968009
+#4	SNOMED T5	36699003
+#5	SNOMED T9	363346000
+#6	SNOMED T2	27090000
+#7	SNOMED T4	27090000
+#8	SNOMED T10	128462008
+#9	SNOMED T8	417163006
+#10	SNOMED T6	38822007
+#11	SNOMED T7	277647002

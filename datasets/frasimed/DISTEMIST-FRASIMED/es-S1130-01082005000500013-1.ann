@@ -1,0 +1,18 @@
+T1	disease 53 104	mélanome cutané malin nodulaire sur l'épaule gauche
+T2	disease 347 368	occlusion intestinale
+T3	disease 390 422	invagination de l'intestin grêle
+T4	disease 500 542	iléon en raison d'une tumeur intraluminale
+T5	disease 589 607	tumeurs polypoïdes
+T6	disease 1745 1797	métastase dans l'intestin grêle d'un mélanome cutané
+T7	disease 1782 1797	mélanome cutané
+T8	disease 1948 1986	lésions dans la jonction jéjuno-iléale
+T9	disease 2320 2327	tumeurs
+#1	SNOMED T1	254731001
+#2	SNOMED T8	119522002
+#3	SNOMED T6	443493003+94580002
+#4	SNOMED T7	93655004
+#5	SNOMED T2	81060008
+#6	SNOMED T3	721651002
+#7	SNOMED T4	126835002
+#8	SNOMED T9	189542002
+#9	SNOMED T5	441456002

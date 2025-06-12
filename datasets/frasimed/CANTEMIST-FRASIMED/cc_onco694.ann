@@ -1,0 +1,57 @@
+T1	morphology-onco 129 135	tumeur
+T2	morphology-onco 590 604	adénocarcinome
+T3	morphology-onco 1184 1232	adénocarcinome pulmonaire non à petites cellules
+T4	morphology-onco 1241 1244	cM0
+T5	morphology-onco 2127 2150	lésion hépatique focale
+T6	morphology-onco 2278 2327	métastatique de la lésion due à un adénocarcinome
+T7	morphology-onco 2616 2632	lésion hépatique
+T8	morphology-onco 3092 3113	progression hépatique
+T9	morphology-onco 3163 3184	progression hépatique
+T10	morphology-onco 3749 3768	lésion métastatique
+T11	morphology-onco 4011 4057	Métastase hépatique unique d'un adénocarcinome
+T12	morphology-onco 4097 4129	Carcinome non à petites cellules
+T13	morphology-onco 4138 4141	cM0
+T14	morphology-onco 4304 4322	maladie disséminée
+T15	morphology-onco 4533 4549	lésion hépatique
+T16	morphology-onco 5110 5149	lésions scléreuses des corps vertébraux
+T17	morphology-onco 5188 5201	métastatiques
+T18	morphology-onco 5250 5288	maladie à d'autres niveaux : hépatique
+T19	morphology-onco 5340 5356	implant du côlon
+#1	ICD-O-3.1 T2	8140/3
+#2	ICD-O-3.1 T10	8000/6
+#3	ICD-O-3.1 T17	8000/6
+#4	ICD-O-3.1 T1	8000/1
+#5	ICD-O-3.1 T3	8046/3
+#6	ICD-O-3.1 T4	8000/6
+#7	ICD-O-3.1 T8	8000/6
+#8	ICD-O-3.1 T9	8000/6
+#9	ICD-O-3.1 T11	8140/6
+#10	ICD-O-3.1 T6	8140/6
+#11	ICD-O-3.1 T12	8046/3
+#12	ICD-O-3.1 T13	8000/6
+#13	ICD-O-3.1 T14	8000/6
+#14	ICD-O-3.1 T18	8000/6
+#15	ICD-O-3.1 T19	8000/6
+#16	ICD-O-3.1 T5	8000/6
+#17	ICD-O-3.1 T7	8000/6
+#18	ICD-O-3.1 T15	8000/6
+#19	ICD-O-3.1 T16	8000/6
+#20	SNOMED T2	1187332001
+#21	SNOMED T10	14799000
+#22	SNOMED T17	14799000
+#23	SNOMED T1	86251006
+#24	SNOMED T3	128632008
+#25	SNOMED T4	14799000
+#26	SNOMED T8	14799000
+#27	SNOMED T9	14799000
+#28	SNOMED T11	4590003
+#29	SNOMED T6	4590003
+#30	SNOMED T12	128632008
+#31	SNOMED T13	14799000
+#32	SNOMED T14	14799000
+#33	SNOMED T18	14799000
+#34	SNOMED T19	14799000
+#35	SNOMED T5	14799000
+#36	SNOMED T7	14799000
+#37	SNOMED T15	14799000
+#38	SNOMED T16	14799000

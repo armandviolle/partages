@@ -1,0 +1,24 @@
+T1	disease 51 77	malformations congénitales
+T2	disease 154 180	hypoplasie de l'avant-bras
+T3	disease 192 253	absence des troisième, quatrième et cinquième rayons digitaux
+T4	disease 261 289	déviation ulnaire de la main
+T5	disease 515 571	hypoplasie ulnaire et radiale aux dépens du tiers distal
+T6	disease 582 606	synostose radio-humérale
+T7	disease 612 644	absence des premiers os du carpe
+T8	disease 652 704	absence des troisième, quatrième et cinquième rayons
+T9	disease 1090 1143	défaut de formation longitudinale du membre supérieur
+T10	disease 1189 1233	raccourcissement longitudinal huméral modéré
+T11	disease 3774 3796	blesser ces structures
+T12	disease 4448 4456	guérison
+#1	SNOMED T1	276655000
+#2	SNOMED T2	253929007
+#3	SNOMED T3	34111000
+#4	SNOMED T5	253929007
+#5	SNOMED T6	205329008
+#6	SNOMED T7	91873009
+#7	SNOMED T9	70902004
+#8	SNOMED T4	249757009
+#9	SNOMED T12	275322007
+#10	SNOMED T11	417163006
+#11	SNOMED T10	93264003
+#12	SNOMED T8	34111000

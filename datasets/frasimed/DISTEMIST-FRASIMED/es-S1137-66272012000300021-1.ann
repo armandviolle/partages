@@ -1,0 +1,14 @@
+T1	disease 283 312	adénocarcinome de la prostate
+T2	disease 806 823	iléus paralytique
+T3	disease 1354 1423	collection de liquide avec du gaz en abondance dans le rétropéritoine
+T4	disease 1498 1513	pneumopéritoine
+T5	disease 1535 1548	diverticulose
+T6	disease 1639 1660	perforation duodénale
+T7	disease 1702 1723	affection infectieuse
+#1	SNOMED T6	270909006
+#2	SNOMED T2	55525008
+#3	SNOMED T3	734045002
+#4	SNOMED T1	399490008
+#5	SNOMED T4	17204006
+#6	SNOMED T5	397881000
+#7	SNOMED T7	40733004

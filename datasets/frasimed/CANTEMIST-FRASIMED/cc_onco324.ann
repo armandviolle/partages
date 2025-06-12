@@ -1,0 +1,60 @@
+T1	morphology-onco 590 615	adénocarcinome intestinal
+T2	morphology-onco 731 742	hémangiomes
+T3	morphology-onco 959 968	métastase
+T4	morphology-onco 1077 1121	adénocarcinome gastrique du corps intestinal
+T5	morphology-onco 1180 1190	métastases
+T6	morphology-onco 1846 1886	lésion hypodense du segment VI hépatique
+T7	morphology-onco 2478 2484	tumeur
+T8	morphology-onco 2619 2635	lésion hépatique
+T9	morphology-onco 2700 2717	cellules malignes
+T10	morphology-onco 2758 2771	carcinomatose
+T11	morphology-onco 2831 2848	cellules malignes
+T12	morphology-onco 2913 2969	adénocarcinome peu différencié (4 cm) de type intestinal
+T13	morphology-onco 3200 3209	néoplasie
+T14	morphology-onco 3332 3341	néoplasie
+T15	morphology-onco 3497 3527	lésion du segment VI hépatique
+T16	morphology-onco 3553 3563	métastases
+T17	morphology-onco 3689 3710	progression hépatique
+T18	morphology-onco 4307 4323	lésion hépatique
+T19	morphology-onco 4646 4652	tumeur
+T20	morphology-onco 4680 4718	métastase de carcinome peu différencié
+#1	ICD-O-3.1 T1	8144/3
+#2	ICD-O-3.1 T10	8010/9
+#3	ICD-O-3.1 T9	8001/3
+#4	ICD-O-3.1 T11	8001/3
+#5	ICD-O-3.1 T2	9120/0
+#6	ICD-O-3.1 T8	8000/6
+#7	ICD-O-3.1 T18	8000/6
+#8	ICD-O-3.1 T3	8000/6
+#9	ICD-O-3.1 T5	8000/6
+#10	ICD-O-3.1 T16	8000/6
+#11	ICD-O-3.1 T13	8000/1
+#12	ICD-O-3.1 T14	8000/1
+#13	ICD-O-3.1 T17	8000/6
+#14	ICD-O-3.1 T19	8000/1
+#15	ICD-O-3.1 T7	8000/1
+#16	ICD-O-3.1 T4	8144/3
+#17	ICD-O-3.1 T6	8000/6
+#18	ICD-O-3.1 T12	8144/33
+#19	ICD-O-3.1 T15	8000/6
+#20	ICD-O-3.1 T20	8010/63
+#21	SNOMED T1	25190001
+#22	SNOMED T10	307593001
+#23	SNOMED T9	88400008
+#24	SNOMED T11	88400008
+#25	SNOMED T2	253053003
+#26	SNOMED T8	14799000
+#27	SNOMED T18	14799000
+#28	SNOMED T3	14799000
+#29	SNOMED T5	14799000
+#30	SNOMED T16	14799000
+#31	SNOMED T13	86251006
+#32	SNOMED T14	86251006
+#33	SNOMED T17	14799000
+#34	SNOMED T19	86251006
+#35	SNOMED T7	86251006
+#36	SNOMED T4	25190001
+#37	SNOMED T6	14799000
+#38	SNOMED T12	25190001
+#39	SNOMED T15	14799000
+#40	SNOMED T20	79282002

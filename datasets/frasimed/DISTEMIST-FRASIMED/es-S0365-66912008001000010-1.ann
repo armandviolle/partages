@@ -1,0 +1,12 @@
+T1	disease 291 294	HIC
+T2	disease 386 402	œdème papillaire
+T3	disease 740 766	œdème papillaire bilatéral
+T4	disease 1680 1706	thrombose du sinus crânien
+T5	disease 1724 1766	sténose segmentaire du sinus latéral droit
+T6	disease 1930 1963	sténose du sinus transverse droit
+#1	SNOMED T3	15930381000119104
+#2	SNOMED T1	50490005
+#3	SNOMED T4	192759008
+#4	SNOMED T2	423341008
+#5	SNOMED T5	62914000
+#6	SNOMED T6	62914000

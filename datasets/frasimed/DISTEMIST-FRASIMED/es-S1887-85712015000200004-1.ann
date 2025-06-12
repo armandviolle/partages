@@ -1,0 +1,14 @@
+T1	disease 103 194	traumatisme ouvert au coude droit lors d'une attaque secondaire à l'impact d'une arme à feu
+T2	disease 605 613	blessure
+T3	disease 943 1016	blessure par balle avec plaie d'entrée dans le coude sans plaie de sortie
+T4	disease 1063 1084	fracture de l'humérus
+T5	disease 1104 1131	fracture de l'ulna proximal
+T6	disease 1146 1173	fracture du radius proximal
+T7	disease 3021 3026	plaie
+#1	SNOMED T1	10907441000119101
+#2	SNOMED T3	10907441000119101
+#3	SNOMED T4	263192005
+#4	SNOMED T5	263203001
+#5	SNOMED T6	263195007
+#6	SNOMED T2	417163006
+#7	SNOMED T7	416462003

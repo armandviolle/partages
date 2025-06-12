@@ -1,0 +1,36 @@
+T1	morphology-onco 516 530	adénocarcinome
+T2	morphology-onco 918 940	mélanome en régression
+T3	morphology-onco 1006 1026	mélanome superficiel
+T4	morphology-onco 1580 1594	mélanome malin
+T5	morphology-onco 1669 1692	métastase d'un mélanome
+T6	morphology-onco 1908 1951	mélanome rétro-auriculaire gauche pT2bNxM1a
+T7	morphology-onco 2080 2092	métastatique
+T8	morphology-onco 2225 2233	mélanome
+T9	morphology-onco 4252 4265	métastatiques
+T10	morphology-onco 4727 4735	Mélanome
+T11	morphology-onco 4792 4807	Rechute cutanée
+T12	morphology-onco 4845 4848	M1a
+#1	ICD-O-3.1 T12	8000/6
+#2	ICD-O-3.1 T1	8140/3
+#3	ICD-O-3.1 T2	8723/3
+#4	ICD-O-3.1 T8	8720/3
+#5	ICD-O-3.1 T4	8720/3
+#6	ICD-O-3.1 T5	8720/6
+#7	ICD-O-3.1 T6	8720/6
+#8	ICD-O-3.1 T7	8000/6
+#9	ICD-O-3.1 T9	8000/6
+#10	ICD-O-3.1 T10	8720/3
+#11	ICD-O-3.1 T3	8743/3
+#12	ICD-O-3.1 T11	8000/6
+#13	SNOMED T12	14799000
+#14	SNOMED T1	1187332001
+#15	SNOMED T2	39896009
+#16	SNOMED T8	1162635006
+#17	SNOMED T4	1162635006
+#18	SNOMED T5	372158004
+#19	SNOMED T6	372158004
+#20	SNOMED T7	14799000
+#21	SNOMED T9	14799000
+#22	SNOMED T10	1162635006
+#23	SNOMED T3	55320002
+#24	SNOMED T11	14799000

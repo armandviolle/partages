@@ -1,0 +1,26 @@
+T1	disease 76 99	cardiopathie ischémique
+T2	disease 107 173	insuffisance rénale chronique secondaire à une néphroangiosclérose
+T3	disease 154 173	néphroangiosclérose
+T4	disease 435 454	épanchement pleural
+T5	disease 1250 1269	épanchement pleural
+T6	disease 1372 1383	hydrothorax
+T7	disease 1629 1640	hydrothorax
+T8	disease 1863 1882	épanchement pleural
+T9	disease 2103 2114	hydrothorax
+T10	disease 2391 2402	hydrothorax
+T11	disease 2943 2954	hydrothorax
+T12	disease 3344 3363	épanchement pleural
+T13	disease 3733 3744	hydrothorax
+#1	SNOMED T6	79231000
+#2	SNOMED T1	194828000
+#3	SNOMED T3	32916005
+#4	SNOMED T11	79231000
+#5	SNOMED T9	79231000
+#6	SNOMED T7	79231000
+#7	SNOMED T4	60046008
+#8	SNOMED T10	79231000
+#9	SNOMED T8	60046008
+#10	SNOMED T12	60046008
+#11	SNOMED T5	60046008
+#12	SNOMED T13	79231000
+#13	SNOMED T2	49220004

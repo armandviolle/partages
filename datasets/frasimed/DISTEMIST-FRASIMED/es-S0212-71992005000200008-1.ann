@@ -1,0 +1,20 @@
+T1	disease 48 67	thalassémie mineure
+T2	disease 72 95	diabète sucré de type 2
+T3	disease 254 276	hydrocèle testiculaire
+T4	disease 370 393	syncopes orthostatiques
+T5	disease 600 628	bloc AV paroxystique complet
+T6	disease 927 967	légère hypertrophie du ventricule gauche
+T7	disease 1160 1194	syncope orthostatique idiopathique
+T8	disease 1361 1385	syncope en orthostatisme
+T9	disease 1416 1428	traumatismes
+T10	disease 1452 1470	état de présyncope
+T11	disease 2352 2381	désinhibition comportementale
+T12	disease 3431 3437	lésion
+T13	disease 3567 3573	colite
+T14	disease 3599 3642	orifices diverticulaires dans tout le côlon
+T15	disease 3815 3847	ventricule gauche hypertrophique
+T16	disease 3954 3981	Insuffisance mitrale légère
+T17	disease 3997 4007	amyloïdose
+T18	disease 4172 4218	bloc AV complet avec stimulation ventriculaire
+T19	disease 4482 4488	lésion
+T20	disease 4762 4787	défaillance autonome pure

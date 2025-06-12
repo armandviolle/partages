@@ -1,0 +1,63 @@
+T1	morphology-onco 332 338	tumeur
+T2	morphology-onco 492 498	Tumeur
+T3	morphology-onco 771 784	métastatiques
+T4	morphology-onco 847 857	métastases
+T5	morphology-onco 947 977	carcinome canalaire infiltrant
+T6	morphology-onco 1112 1142	carcinome canalaire infiltrant
+T7	morphology-onco 1171 1180	malignité
+T8	morphology-onco 1220 1228	tumoraux
+T9	morphology-onco 1242 1252	métastases
+T10	morphology-onco 1554 1584	carcinome canalaire infiltrant
+T11	morphology-onco 1625 1627	M0
+T12	morphology-onco 2636 2646	métastases
+T13	morphology-onco 3149 3159	métastases
+T14	morphology-onco 3214 3236	progression pulmonaire
+T15	morphology-onco 3253 3263	métastases
+T16	morphology-onco 3548 3566	maladie pulmonaire
+T17	morphology-onco 3608 3618	métastases
+T18	morphology-onco 3789 3815	progressé dans les poumons
+T19	morphology-onco 4198 4207	métastase
+T20	morphology-onco 5483 5492	métastase
+T21	morphology-onco 5586 5607	progression de l'iris
+#1	ICD-O-3.1 T6	8500/3
+#2	ICD-O-3.1 T11	8000/6
+#3	ICD-O-3.1 T5	8500/3
+#4	ICD-O-3.1 T10	8500/3
+#5	ICD-O-3.1 T7	8000/3
+#6	ICD-O-3.1 T4	8000/6
+#7	ICD-O-3.1 T9	8000/6
+#8	ICD-O-3.1 T12	8000/6
+#9	ICD-O-3.1 T13	8000/6
+#10	ICD-O-3.1 T15	8000/6
+#11	ICD-O-3.1 T17	8000/6
+#12	ICD-O-3.1 T19	8000/6
+#13	ICD-O-3.1 T20	8000/6
+#14	ICD-O-3.1 T1	8000/1
+#15	ICD-O-3.1 T8	8000/1
+#16	ICD-O-3.1 T3	8000/6
+#17	ICD-O-3.1 T14	8000/6
+#18	ICD-O-3.1 T18	8000/6
+#19	ICD-O-3.1 T21	8000/6
+#20	ICD-O-3.1 T2	8000/1
+#21	ICD-O-3.1 T16	8000/6
+#22	SNOMED T6	58477004
+#23	SNOMED T11	14799000
+#24	SNOMED T5	58477004
+#25	SNOMED T10	58477004
+#26	SNOMED T7	1240414004
+#27	SNOMED T4	14799000
+#28	SNOMED T9	14799000
+#29	SNOMED T12	14799000
+#30	SNOMED T13	14799000
+#31	SNOMED T15	14799000
+#32	SNOMED T17	14799000
+#33	SNOMED T19	14799000
+#34	SNOMED T20	14799000
+#35	SNOMED T1	86251006
+#36	SNOMED T8	86251006
+#37	SNOMED T3	14799000
+#38	SNOMED T14	14799000
+#39	SNOMED T18	14799000
+#40	SNOMED T21	14799000
+#41	SNOMED T2	86251006
+#42	SNOMED T16	14799000

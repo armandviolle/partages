@@ -1,0 +1,39 @@
+T1	morphology-onco 1310 1316	tumeur
+T2	morphology-onco 1457 1463	tumeur
+T3	morphology-onco 2085 2091	tumeur
+T4	morphology-onco 2150 2194	tumeur juvénile des cellules de la granulosa
+T5	morphology-onco 2196 2223	Implant dans le fond utérin
+T6	morphology-onco 2238 2249	néoplasique
+T7	morphology-onco 2265 2324	Implant néoplasique dans la sous-séreuse du col de l'utérus
+T8	morphology-onco 2365 2434	tumeur à cellules de la granulosa ovarienne juvénile bilatérale (GCT)
+T9	morphology-onco 2430 2433	GCT
+T10	morphology-onco 2832 2842	métastases
+T11	morphology-onco 3512 3530	atteinte hépatique
+T12	morphology-onco 3566 3576	métastases
+T13	morphology-onco 3699 3712	métastatiques
+#1	ICD-O-3.1 T9	8620/1
+#2	ICD-O-3.1 T11	8000/6
+#3	ICD-O-3.1 T13	8000/6
+#4	ICD-O-3.1 T10	8000/6
+#5	ICD-O-3.1 T12	8000/6
+#6	ICD-O-3.1 T6	8000/1
+#7	ICD-O-3.1 T3	8000/1
+#8	ICD-O-3.1 T1	8000/1
+#9	ICD-O-3.1 T2	8000/1
+#10	ICD-O-3.1 T4	8622/1
+#11	ICD-O-3.1 T5	8000/6
+#12	ICD-O-3.1 T7	8000/6
+#13	ICD-O-3.1 T8	8622/1
+#14	SNOMED T9	46585005
+#15	SNOMED T11	14799000
+#16	SNOMED T13	14799000
+#17	SNOMED T10	14799000
+#18	SNOMED T12	14799000
+#19	SNOMED T6	86251006
+#20	SNOMED T3	86251006
+#21	SNOMED T1	86251006
+#22	SNOMED T2	86251006
+#23	SNOMED T4	77029009
+#24	SNOMED T5	14799000
+#25	SNOMED T7	14799000
+#26	SNOMED T8	77029009

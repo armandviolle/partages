@@ -1,0 +1,18 @@
+T1	disease 45 63	néoplasie laryngée
+T2	disease 68 91	diabète sucré de type 2
+T3	disease 93 102	ex-fumeur
+T4	disease 106 115	ex-buveur
+T5	disease 141 163	crise d'hyperthyroïdie
+T6	disease 199 210	exophtalmie
+T7	disease 359 389	rétinopathie diabétique légère
+T8	disease 503 532	rétraction des deux paupières
+T9	disease 836 847	exophtalmie
+T10	disease 1045 1053	proptose
+T11	disease 1172 1196	ophtalmoplégie dans l'AO
+T12	disease 1204 1227	exposition de la cornée
+T13	disease 1396 1417	crise d'hypothyroïdie
+T14	disease 1540 1551	exophtalmie
+T15	disease 1752 1760	glaucome
+T16	disease 1931 1939	proptose
+T17	disease 2072 2098	neuropathie optique sévère
+T18	disease 2129 2167	rétinopathie diabétique légère-modérée

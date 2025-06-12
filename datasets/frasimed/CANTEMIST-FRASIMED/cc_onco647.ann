@@ -1,0 +1,51 @@
+T1	morphology-onco 530 544	adénocarcinome
+T2	morphology-onco 546 549	ADC
+T3	morphology-onco 719 722	ADC
+T4	morphology-onco 795 802	tumoral
+T5	morphology-onco 927 946	nodules pulmonaires
+T6	morphology-onco 980 990	métastases
+T7	morphology-onco 1021 1024	ADC
+T8	morphology-onco 1064 1066	M1
+T9	morphology-onco 1438 1444	tumeur
+T10	morphology-onco 1663 1676	métastatiques
+T11	morphology-onco 2260 2266	tumeur
+T12	morphology-onco 2464 2516	lésion exophytique au niveau du trigone rétromolaire
+T13	morphology-onco 2602 2615	métastatiques
+T14	morphology-onco 2709 2723	adénocarcinome
+T15	morphology-onco 2836 2842	tumeur
+T16	morphology-onco 2861 2880	lésion métastatique
+T17	morphology-onco 3005 3063	Métastase dans le trigone rétromolaire d'un adénocarcinome
+#1	ICD-O-3.1 T2	8140/3
+#2	ICD-O-3.1 T3	8140/3
+#3	ICD-O-3.1 T7	8140/3
+#4	ICD-O-3.1 T8	8000/6
+#5	ICD-O-3.1 T1	8140/3
+#6	ICD-O-3.1 T14	8140/3
+#7	ICD-O-3.1 T16	8000/6
+#8	ICD-O-3.1 T13	8000/6
+#9	ICD-O-3.1 T6	8000/6
+#10	ICD-O-3.1 T5	8000/6
+#11	ICD-O-3.1 T11	8000/1
+#12	ICD-O-3.1 T15	8000/1
+#13	ICD-O-3.1 T4	8000/1
+#14	ICD-O-3.1 T9	8000/1
+#15	ICD-O-3.1 T10	8000/6
+#16	ICD-O-3.1 T17	8140/6
+#17	ICD-O-3.1 T12	8000/6
+#18	SNOMED T2	1187332001
+#19	SNOMED T3	1187332001
+#20	SNOMED T7	1187332001
+#21	SNOMED T8	14799000
+#22	SNOMED T1	1187332001
+#23	SNOMED T14	1187332001
+#24	SNOMED T16	14799000
+#25	SNOMED T13	14799000
+#26	SNOMED T6	14799000
+#27	SNOMED T5	14799000
+#28	SNOMED T11	86251006
+#29	SNOMED T15	86251006
+#30	SNOMED T4	86251006
+#31	SNOMED T9	86251006
+#32	SNOMED T10	14799000
+#33	SNOMED T17	4590003
+#34	SNOMED T12	14799000

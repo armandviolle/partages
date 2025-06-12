@@ -1,0 +1,24 @@
+T1	morphology-onco 240 265	syndrome myélodysplasique
+T2	morphology-onco 651 682	carcinome malpighien infiltrant
+T3	morphology-onco 1836 1842	tumeur
+T4	morphology-onco 2005 2011	tumeur
+T5	morphology-onco 2407 2452	carcinome épidermoïde kératinisant infiltrant
+T6	morphology-onco 2822 2854	lésions lytiques dans l'acromion
+T7	morphology-onco 2935 2944	néoplasme
+T8	morphology-onco 3282 3322	carcinome épidermoïde du poumon, T4N2M1b
+#1	ICD-O-3.1 T7	8000/1
+#2	ICD-O-3.1 T1	9989/3
+#3	ICD-O-3.1 T3	8000/1
+#4	ICD-O-3.1 T4	8000/1
+#5	ICD-O-3.1 T2	8070/3/H
+#6	ICD-O-3.1 T5	8071/3/H
+#7	ICD-O-3.1 T6	8000/6
+#8	ICD-O-3.1 T8	8070/6
+#9	SNOMED T7	86251006
+#10	SNOMED T1	109995007
+#11	SNOMED T3	86251006
+#12	SNOMED T4	86251006
+#13	SNOMED T2	1162767002
+#14	SNOMED T5	18048008
+#15	SNOMED T6	14799000
+#16	SNOMED T8	403906006

@@ -1,0 +1,10 @@
+T1	disease 139 260	carcinome épidermoïde affectant le bord lingual, la paroi oropharyngée latérale, la zone amygdalienne et l'hémipalate mou
+T2	disease 301 412	adénopathies métastatiques dans les axes vasculaires et dans les régions sous-maxillaires des deux côtés du cou
+T3	disease 455 461	tumeur
+T4	disease 1518 1574	processus néoplasique dans le lobe moyen droit du poumon
+T5	disease 1970 2002	déchirures de la paroi trachéale
+#1	SNOMED T4	126713003
+#2	SNOMED T1	276952000+408649007+276962007
+#3	SNOMED T2	94392001+127082004+127087005
+#4	SNOMED T5	233784004
+#5	SNOMED T3	55342001

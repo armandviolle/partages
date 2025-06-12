@@ -1,0 +1,30 @@
+T1	morphology-onco 13 26	angiosarcomes
+T2	morphology-onco 44 54	néoplasmes
+T3	morphology-onco 527 541	adénocarcinome
+T4	morphology-onco 555 563	pT2aN0M0
+T5	morphology-onco 2647 2659	angiosarcome
+T6	morphology-onco 2864 2876	métastatique
+T7	morphology-onco 2948 2954	tumeur
+T8	morphology-onco 3131 3166	angiosarcome modérément différencié
+T9	morphology-onco 3522 3534	angiosarcome
+T10	morphology-onco 3628 3646	maladie à distance
+#1	ICD-O-3.1 T3	8140/3
+#2	ICD-O-3.1 T5	9120/3
+#3	ICD-O-3.1 T9	9120/3
+#4	ICD-O-3.1 T10	8000/6
+#5	ICD-O-3.1 T6	8000/6
+#6	ICD-O-3.1 T2	8000/1
+#7	ICD-O-3.1 T7	8000/1
+#8	ICD-O-3.1 T1	9120/3
+#9	ICD-O-3.1 T4	8000/6
+#10	ICD-O-3.1 T8	9120/32
+#11	SNOMED T3	1187332001
+#12	SNOMED T5	39000009
+#13	SNOMED T9	39000009
+#14	SNOMED T10	14799000
+#15	SNOMED T6	14799000
+#16	SNOMED T2	86251006
+#17	SNOMED T7	86251006
+#18	SNOMED T1	39000009
+#19	SNOMED T4	14799000
+#20	SNOMED T8	39000009

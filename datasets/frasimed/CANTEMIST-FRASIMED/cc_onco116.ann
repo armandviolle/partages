@@ -1,0 +1,68 @@
+T1	morphology-onco 77 93	neurofibromatose
+T2	morphology-onco 190 203	neurofibromes
+T3	morphology-onco 330 336	tumeur
+T4	morphology-onco 470 476	tumeur
+T5	morphology-onco 511 561	tumeur maligne de haut grade de la gaine des nerfs
+T6	morphology-onco 774 787	neurofibromes
+T7	morphology-onco 1275 1288	neurofibromes
+T8	morphology-onco 1901 1941	neurofibrome avec dégénérescence maligne
+T9	morphology-onco 2239 2273	tumeur maligne de la gaine du nerf
+T10	morphology-onco 2731 2740	malignité
+T11	morphology-onco 3758 3770	neurofibrome
+T12	morphology-onco 3976 3985	malignité
+T13	morphology-onco 3987 4010	neurofibrome plexiforme
+T14	morphology-onco 4143 4149	tumeur
+T15	morphology-onco 4273 4307	tumeur maligne de la gaine du nerf
+T16	morphology-onco 4320 4333	neurofibromes
+T17	morphology-onco 4357 4391	tumeur maligne de la gaine du nerf
+T18	morphology-onco 4555 4561	tumeur
+T19	morphology-onco 4768 4774	tumeur
+T20	morphology-onco 5003 5009	tumeur
+T21	morphology-onco 5059 5070	sarcomateux
+T22	morphology-onco 5349 5408	rechute frontale d'une tumeur maligne de la gaine des nerfs
+T23	morphology-onco 5437 5475	infiltration parenchymateuse cérébrale
+#1	ICD-O-3.1 T10	8000/3
+#2	ICD-O-3.1 T12	8000/3
+#3	ICD-O-3.1 T11	9540/0
+#4	ICD-O-3.1 T2	9540/0
+#5	ICD-O-3.1 T6	9540/0
+#6	ICD-O-3.1 T7	9540/0
+#7	ICD-O-3.1 T16	9540/0
+#8	ICD-O-3.1 T1	9540/1
+#9	ICD-O-3.1 T21	8800/9
+#10	ICD-O-3.1 T9	9540/3
+#11	ICD-O-3.1 T15	9540/3
+#12	ICD-O-3.1 T3	8000/1
+#13	ICD-O-3.1 T14	8000/1
+#14	ICD-O-3.1 T18	8000/1
+#15	ICD-O-3.1 T19	8000/1
+#16	ICD-O-3.1 T20	8000/1
+#17	ICD-O-3.1 T4	8000/1
+#18	ICD-O-3.1 T5	9540/34
+#19	ICD-O-3.1 T13	9550/0
+#20	ICD-O-3.1 T17	9540/3
+#21	ICD-O-3.1 T22	9540/6
+#22	ICD-O-3.1 T23	8000/6
+#23	ICD-O-3.1 T8	9540/3
+#24	SNOMED T10	1240414004
+#25	SNOMED T12	1240414004
+#26	SNOMED T11	1156930004
+#27	SNOMED T2	1156930004
+#28	SNOMED T6	1156930004
+#29	SNOMED T7	1156930004
+#30	SNOMED T16	1156930004
+#31	SNOMED T1	19133005
+#32	SNOMED T21	9395006
+#33	SNOMED T9	404037002
+#34	SNOMED T15	404037002
+#35	SNOMED T3	86251006
+#36	SNOMED T14	86251006
+#37	SNOMED T18	86251006
+#38	SNOMED T19	86251006
+#39	SNOMED T20	86251006
+#40	SNOMED T4	86251006
+#41	SNOMED T5	404037002
+#42	SNOMED T13	41252002
+#43	SNOMED T17	404037002
+#44	SNOMED T23	14799000
+#45	SNOMED T8	404037002

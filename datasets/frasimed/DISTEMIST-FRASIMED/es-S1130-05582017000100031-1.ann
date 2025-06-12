@@ -1,0 +1,6 @@
+T1	disease 65 101	édentulisme partiel des deux arcades
+T2	disease 109 198	atrophie alvéolaire sévère de classe III de Seibert1 dans la région prémaxillaire édentée
+T3	disease 648 653	plaie
+#1	SNOMED T1	371084005+371083004
+#2	SNOMED T2	75721000
+#3	SNOMED T3	416462003

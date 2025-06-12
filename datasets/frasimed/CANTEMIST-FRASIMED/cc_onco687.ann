@@ -1,0 +1,75 @@
+T1	morphology-onco 354 365	néoplasique
+T2	morphology-onco 446 452	tumeur
+T3	morphology-onco 766 789	tumeur de type desmoïde
+T4	morphology-onco 1998 2004	tumeur
+T5	morphology-onco 2406 2412	tumeur
+T6	morphology-onco 2445 2515	tumeur maligne de la gaine du nerf périphérique, épithélioïde, OMS G-3
+T7	morphology-onco 3285 3306	métastase de mélanome
+T8	morphology-onco 3367 3376	néoplasme
+T9	morphology-onco 3535 3542	maligne
+T10	morphology-onco 3666 3684	maladie à distance
+T11	morphology-onco 3997 4068	Tumeur épithélioïde maligne de grade 3 de la gaine du nerf périphérique
+T12	morphology-onco 4131 4152	mélanome métastatique
+T13	morphology-onco 4261 4284	sarcome des tissus mous
+T14	morphology-onco 5031 5038	maligne
+T15	morphology-onco 5510 5516	tumeur
+T16	morphology-onco 5680 5714	métastase cutanée peu différenciée
+T17	morphology-onco 5736 5763	métastase de mélanome malin
+T18	morphology-onco 6551 6569	lésions cérébrales
+T19	morphology-onco 6583 6593	métastases
+T20	morphology-onco 7080 7089	néoplasme
+T21	morphology-onco 7307 7315	mélanome
+T22	morphology-onco 7322 7327	TMVNP
+T23	morphology-onco 8482 8500	lésions cérébrales
+T24	morphology-onco 8672 8705	lésions dans les régions frontale
+T25	morphology-onco 8969 8984	lésion frontale
+#1	ICD-O-3.1 T10	8000/6
+#2	ICD-O-3.1 T18	8000/6
+#3	ICD-O-3.1 T23	8000/6
+#4	ICD-O-3.1 T9	8000/3
+#5	ICD-O-3.1 T14	8000/3
+#6	ICD-O-3.1 T21	8720/3
+#7	ICD-O-3.1 T12	8720/6
+#8	ICD-O-3.1 T19	8000/6
+#9	ICD-O-3.1 T7	8720/6
+#10	ICD-O-3.1 T17	8720/6
+#11	ICD-O-3.1 T8	8000/1
+#12	ICD-O-3.1 T20	8000/1
+#13	ICD-O-3.1 T13	8800/3
+#14	ICD-O-3.1 T2	8000/1
+#15	ICD-O-3.1 T4	8000/1
+#16	ICD-O-3.1 T5	8000/1
+#17	ICD-O-3.1 T15	8000/1
+#18	ICD-O-3.1 T1	8000/1
+#19	ICD-O-3.1 T3	8821/1
+#20	ICD-O-3.1 T6	9540/33
+#21	ICD-O-3.1 T11	9540/33
+#22	ICD-O-3.1 T16	8000/63
+#23	ICD-O-3.1 T22	9540/3
+#24	ICD-O-3.1 T24	8000/6
+#25	ICD-O-3.1 T25	8000/6
+#26	SNOMED T10	14799000
+#27	SNOMED T18	14799000
+#28	SNOMED T23	14799000
+#29	SNOMED T9	1240414004
+#30	SNOMED T14	1240414004
+#31	SNOMED T21	1162635006
+#32	SNOMED T12	372158004
+#33	SNOMED T19	14799000
+#34	SNOMED T7	372158004
+#35	SNOMED T17	372158004
+#36	SNOMED T8	86251006
+#37	SNOMED T20	86251006
+#38	SNOMED T13	1187396000
+#39	SNOMED T2	86251006
+#40	SNOMED T4	86251006
+#41	SNOMED T5	86251006
+#42	SNOMED T15	86251006
+#43	SNOMED T1	86251006
+#44	SNOMED T3	47284001
+#45	SNOMED T6	404037002
+#46	SNOMED T11	404037002
+#47	SNOMED T16	14799000
+#48	SNOMED T22	404037002
+#49	SNOMED T24	14799000
+#50	SNOMED T25	14799000

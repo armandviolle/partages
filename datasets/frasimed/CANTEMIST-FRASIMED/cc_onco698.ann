@@ -1,0 +1,54 @@
+T1	morphology-onco 154 160	cancer
+T2	morphology-onco 234 240	cancer
+T3	morphology-onco 629 659	carcinome canalaire infiltrant
+T4	morphology-onco 807 825	maladie à distance
+T5	morphology-onco 1379 1391	métastatique
+T6	morphology-onco 1487 1511	carcinome neuroendocrine
+T7	morphology-onco 1526 1535	pT3pN2aM0
+T8	morphology-onco 2976 3003	cellules tumorales malignes
+T9	morphology-onco 3163 3172	carcinome
+T10	morphology-onco 4043 4051	tumorale
+T11	morphology-onco 4417 4441	carcinome neuroendocrine
+T12	morphology-onco 5128 5144	lésions osseuses
+T13	morphology-onco 5145 5158	métastatiques
+T14	morphology-onco 5467 5485	lésions hépatiques
+T15	morphology-onco 5580 5588	tumorale
+T16	morphology-onco 5649 5684	tumeur neuroendocrine de haut grade
+T17	morphology-onco 6026 6064	carcinome neuroendocrine de haut grade
+T18	morphology-onco 6312 6320	tumorale
+#1	ICD-O-3.1 T9	8010/3
+#2	ICD-O-3.1 T3	8500/3
+#3	ICD-O-3.1 T1	8000/3
+#4	ICD-O-3.1 T2	8000/3
+#5	ICD-O-3.1 T5	8000/6
+#6	ICD-O-3.1 T6	8246/3
+#7	ICD-O-3.1 T8	8001/3
+#8	ICD-O-3.1 T11	8246/3
+#9	ICD-O-3.1 T16	8240/34
+#10	ICD-O-3.1 T17	8240/34
+#11	ICD-O-3.1 T13	8000/6
+#12	ICD-O-3.1 T7	8000/6
+#13	ICD-O-3.1 T4	8000/6
+#14	ICD-O-3.1 T14	8000/6
+#15	ICD-O-3.1 T12	8000/6
+#16	ICD-O-3.1 T10	8000/1
+#17	ICD-O-3.1 T15	8000/1
+#18	ICD-O-3.1 T18	8000/1
+#19	SNOMED T9	1187425009
+#20	SNOMED T3	58477004
+#21	SNOMED T1	1240414004
+#22	SNOMED T2	1240414004
+#23	SNOMED T5	14799000
+#24	SNOMED T6	55937004
+#25	SNOMED T8	88400008
+#26	SNOMED T11	55937004
+#27	SNOMED T16	189607006
+#28	SNOMED T17	189607006
+#29	SNOMED T13	14799000
+#30	SNOMED T7	14799000
+#31	SNOMED T4	14799000
+#32	SNOMED T14	14799000
+#33	SNOMED T12	14799000
+#34	SNOMED T10	86251006
+#35	SNOMED T15	86251006
+#36	SNOMED T18	86251006

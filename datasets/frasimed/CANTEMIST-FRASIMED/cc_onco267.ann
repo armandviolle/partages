@@ -1,0 +1,51 @@
+T1	morphology-onco 155 161	cancer
+T2	morphology-onco 438 485	adénopathie axillaire et creux sus-claviculaire
+T3	morphology-onco 514 520	tumeur
+T4	morphology-onco 621 628	tumeurs
+T5	morphology-onco 845 877	tumeur de Phyllodes de bas grade
+T6	morphology-onco 894 926	carcinome infiltrant de grade II
+T7	morphology-onco 1052 1074	carcinome métaplasique
+T8	morphology-onco 1096 1102	tumeur
+T9	morphology-onco 1813 1835	carcinome métaplasique
+T10	morphology-onco 1869 1876	cT4N1M0
+T11	morphology-onco 1884 1916	tumeur de Phyllodes de bas grade
+T12	morphology-onco 1936 1943	cT2N0M0
+T13	morphology-onco 2449 2481	tumeur de Phyllodes de bas grade
+T14	morphology-onco 2518 2550	carcinome canalaire écriscamoïde
+T15	morphology-onco 2594 2614	cellularité tumorale
+T16	morphology-onco 2638 2658	carcinome sécrétoire
+T17	morphology-onco 3712 3718	tumeur
+#1	ICD-O-3.1 T1	8000/3
+#2	ICD-O-3.1 T8	8000/1
+#3	ICD-O-3.1 T17	8000/1
+#4	ICD-O-3.1 T3	8000/1
+#5	ICD-O-3.1 T4	8000/1
+#6	ICD-O-3.1 T5	9020/11
+#7	ICD-O-3.1 T6	8010/32/H
+#8	ICD-O-3.1 T7	8575/3
+#9	ICD-O-3.1 T9	8575/3
+#10	ICD-O-3.1 T13	9020/11
+#11	ICD-O-3.1 T11	9020/11
+#12	ICD-O-3.1 T14	8070/3/H
+#13	ICD-O-3.1 T16	8502/3
+#14	ICD-O-3.1 T10	8000/6
+#15	ICD-O-3.1 T12	8000/6
+#16	ICD-O-3.1 T15	8001/1
+#17	ICD-O-3.1 T2	8000/6
+#18	SNOMED T1	1240414004
+#19	SNOMED T8	86251006
+#20	SNOMED T17	86251006
+#21	SNOMED T3	86251006
+#22	SNOMED T4	86251006
+#23	SNOMED T5	71232009
+#24	SNOMED T6	1187425009
+#25	SNOMED T7	128705006
+#26	SNOMED T9	128705006
+#27	SNOMED T13	71232009
+#28	SNOMED T11	71232009
+#29	SNOMED T14	1162767002
+#30	SNOMED T16	41919003
+#31	SNOMED T10	14799000
+#32	SNOMED T12	14799000
+#33	SNOMED T15	39577004
+#34	SNOMED T2	14799000

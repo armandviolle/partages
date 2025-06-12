@@ -1,0 +1,22 @@
+T1	disease 638 644	lésion
+T2	disease 792 798	lésion
+T3	disease 879 916	œdème osseux marqué dans le scaphoïde
+T4	disease 952 960	synovite
+T5	disease 997 1003	lésion
+T6	disease 1022 1033	enchondrome
+T7	disease 1035 1056	ganglion intra-osseux
+T8	disease 1091 1097	lésion
+T9	disease 1455 1461	lésion
+T10	disease 2248 2266	kystes anévrismaux
+T11	disease 2304 2340	chondroblastome du scaphoïde carpien
+#1	SNOMED T4	416209007
+#2	SNOMED T6	443496006
+#3	SNOMED T7	445008009
+#4	SNOMED T10	203468000
+#5	SNOMED T11	188944001
+#6	SNOMED T1	417163006
+#7	SNOMED T2	417163006
+#8	SNOMED T5	417163006
+#9	SNOMED T8	417163006
+#10	SNOMED T9	417163006
+#11	SNOMED T3	102563003

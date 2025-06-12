@@ -1,0 +1,16 @@
+T1	disease 56 65	tabagisme
+T2	disease 71 91	hypercholestérolémie
+T3	disease 109 141	grave maladie coronarienne aiguë
+T4	disease 1019 1062	obstruction des voies aériennes supérieures
+T5	disease 1128 1145	sténose trachéale
+T6	disease 1207 1248	sténose trachéale à l'extrémité proximale
+T7	disease 1294 1315	fibrose péritrachéale
+T8	disease 1507 1513	lésion
+#1	SNOMED T1	365982000
+#2	SNOMED T2	13644009
+#3	SNOMED T3	127337006
+#4	SNOMED T4	68372009
+#5	SNOMED T5	11296007
+#6	SNOMED T6	11296007
+#7	SNOMED T7	59837008+263756000
+#8	SNOMED T8	417163006

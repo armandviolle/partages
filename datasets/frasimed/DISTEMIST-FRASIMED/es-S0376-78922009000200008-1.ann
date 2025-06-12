@@ -1,0 +1,14 @@
+T1	disease 50 69	exstrophie cloacale
+T2	disease 210 251	absence de la paroi abdominale antérieure
+T3	disease 276 296	éventration pubienne
+T4	disease 312 336	séquelles cicatricielles
+T5	disease 343 373	réservoir urinaire incontinent
+T6	disease 1805 1816	éventration
+T7	disease 2144 2160	diastasis pubien
+#1	SNOMED T7	263012009
+#2	SNOMED T1	20815007
+#3	SNOMED T3	47583008
+#4	SNOMED T4	275322007
+#5	SNOMED T6	236037000
+#6	SNOMED T2	609624008
+#7	SNOMED T5	253859003

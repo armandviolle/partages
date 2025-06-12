@@ -1,0 +1,16 @@
+T1	disease 17 23	fumeur
+T2	disease 130 164	infection du bas appareil urinaire
+T3	disease 172 191	colique néphrétique
+T4	disease 525 539	adénocarcinome
+T5	disease 625 643	pathologie osseuse
+T6	disease 1054 1072	rétention urinaire
+T7	disease 1611 1679	urètre pénien plein de formations mamelonnées polypoïdes de 0,5-1 cm
+T8	disease 2573 2587	adénocarcinome
+#1	SNOMED T6	267064002
+#2	SNOMED T2	68566005
+#3	SNOMED T3	7093002
+#4	SNOMED T8	443961001
+#5	SNOMED T1	77176002
+#6	SNOMED T4	443961001
+#7	SNOMED T5	76069003
+#8	SNOMED T7	249300001

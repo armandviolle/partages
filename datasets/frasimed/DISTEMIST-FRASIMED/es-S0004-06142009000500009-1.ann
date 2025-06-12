@@ -1,0 +1,26 @@
+T1	disease 45 65	diabétique de type 2
+T2	disease 105 116	hypertendue
+T3	disease 205 244	accident vasculaire cérébral ischémique
+T4	disease 1101 1126	insuffisance rénale aiguë
+T5	disease 1700 1722	cystite emphysémateuse
+T6	disease 1866 1950	dilatation de la vésicule biliaire et des voies biliaires intra- et extra-hépatiques
+T7	disease 1974 1992	cholédocholithiase
+T8	disease 2252 2269	ictère obstructif
+T9	disease 2276 2298	cystite emphysémateuse
+T10	disease 2572 2594	cystite emphysémateuse
+T11	disease 2598 2615	ictère obstructif
+T12	disease 2716 2763	aucune pierre ou dilatation des voies biliaires
+T13	disease 3204 3211	lésions
+#1	SNOMED T8	59848001
+#2	SNOMED T1	44054006
+#3	SNOMED T9	52123000
+#4	SNOMED T5	52123000
+#5	SNOMED T3	422504002
+#6	SNOMED T4	723189000
+#7	SNOMED T10	52123000
+#8	SNOMED T11	59848001
+#9	SNOMED T7	307132003
+#10	SNOMED T12	266474003
+#11	SNOMED T2	38341003
+#12	SNOMED T13	157670007
+#13	SNOMED T6	300344005+1082431000119108

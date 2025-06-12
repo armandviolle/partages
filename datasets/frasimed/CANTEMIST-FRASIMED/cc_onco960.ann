@@ -1,0 +1,38 @@
+T1	morphology-onco 1569 1587	cholangiocarcinome
+T2	morphology-onco 1745 1756	hémangiomes
+T3	morphology-onco 2438 2459	cellules néoplasiques
+T4	morphology-onco 2472 2490	cholangiocarcinome
+T5	morphology-onco 2519 2551	métastases de cholangiocarcinome
+T6	morphology-onco 2618 2636	cholangiocarcinome
+T7	morphology-onco 2935 3023	carcinome combiné, d'un hépatocarcinome de grade 2 et d'un cholangiocarcinome de grade 3
+T8	morphology-onco 2959 2985	hépatocarcinome de grade 2
+T9	morphology-onco 2994 3023	cholangiocarcinome de grade 3
+T10	morphology-onco 3183 3200	carcinome combiné
+T11	morphology-onco 3339 3354	hépatocarcinome
+T12	morphology-onco 3400 3418	cholangiocarcinome
+T13	morphology-onco 3624 3642	cholangiocarcinome
+#1	ICD-O-3.1 T1	8160/3
+#2	ICD-O-3.1 T4	8160/3
+#3	ICD-O-3.1 T6	8160/3
+#4	ICD-O-3.1 T12	8160/3
+#5	ICD-O-3.1 T13	8160/3
+#6	ICD-O-3.1 T3	8001/1
+#7	ICD-O-3.1 T2	9120/0
+#8	ICD-O-3.1 T11	8170/3
+#9	ICD-O-3.1 T5	8160/6
+#10	ICD-O-3.1 T7	8180/3
+#11	ICD-O-3.1 T8	8170/32
+#12	ICD-O-3.1 T9	8160/33
+#13	ICD-O-3.1 T10	8180/3
+#14	SNOMED T1	312104005
+#15	SNOMED T4	312104005
+#16	SNOMED T6	312104005
+#17	SNOMED T12	312104005
+#18	SNOMED T13	312104005
+#19	SNOMED T3	39577004
+#20	SNOMED T2	253053003
+#21	SNOMED T11	1186630006
+#22	SNOMED T7	52178006
+#23	SNOMED T8	1186630006
+#24	SNOMED T9	312104005
+#25	SNOMED T10	52178006

@@ -1,0 +1,37 @@
+T1	morphology-onco 396 418	masse sus-claviculaire
+T2	morphology-onco 1121 1171	adénopathique multiple au niveau supraclaviculaire
+T3	morphology-onco 1242 1252	métastases
+T4	morphology-onco 1420 1477	adénopathique au niveau latérocervical, supraclaviculaire
+T5	morphology-onco 1698 1733	métastase de carcinome embryonnaire
+T6	morphology-onco 1747 1798	Carcinome embryonnaire avec de multiples métastases
+T7	morphology-onco 1974 1996	carcinome embryonnaire
+T8	morphology-onco 2031 2039	séminome
+T9	morphology-onco 2050 2058	tératome
+T10	morphology-onco 2177 2211	tumeur germinale non séminomateuse
+T11	morphology-onco 2213 2217	NSGT
+T12	morphology-onco 3947 3959	néoplasiques
+T13	morphology-onco 4725 4740	tératome mature
+#1	ICD-O-3.1 T11	9065/3
+#2	ICD-O-3.1 T7	9070/3
+#3	ICD-O-3.1 T3	8000/6
+#4	ICD-O-3.1 T5	9070/6
+#5	ICD-O-3.1 T12	8000/1
+#6	ICD-O-3.1 T8	9061/3
+#7	ICD-O-3.1 T9	9080/1
+#8	ICD-O-3.1 T13	9080/0
+#9	ICD-O-3.1 T10	9065/3
+#10	ICD-O-3.1 T1	8000/6
+#11	ICD-O-3.1 T2	8000/6
+#12	ICD-O-3.1 T4	8000/6
+#13	ICD-O-3.1 T6	9070/6
+#14	SNOMED T11	128766005
+#15	SNOMED T7	28047004
+#16	SNOMED T3	14799000
+#17	SNOMED T12	86251006
+#18	SNOMED T8	1162765005
+#19	SNOMED T9	1187393008
+#20	SNOMED T13	42717009
+#21	SNOMED T10	128766005
+#22	SNOMED T1	14799000
+#23	SNOMED T2	14799000
+#24	SNOMED T4	14799000

@@ -1,0 +1,42 @@
+T1	morphology-onco 655 663	mélanome
+T2	morphology-onco 687 695	mélanome
+T3	morphology-onco 701 727	mélanome lentigineux acral
+T4	morphology-onco 936 944	mélanome
+T5	morphology-onco 1111 1133	métastases de mélanome
+T6	morphology-onco 1224 1226	M0
+T7	morphology-onco 1238 1264	mélanome lentigineux acral
+T8	morphology-onco 1979 1987	mélanome
+T9	morphology-onco 3473 3494	lésions sous-cutanées
+T10	morphology-onco 3614 3633	atteinte à distance
+T11	morphology-onco 3639 3649	métastases
+T12	morphology-onco 3664 3672	mélanome
+T13	morphology-onco 3818 3839	lésions sous-cutanées
+T14	morphology-onco 4282 4303	progression inguinale
+#1	ICD-O-3.1 T6	8000/6
+#2	ICD-O-3.1 T7	8744/3
+#3	ICD-O-3.1 T10	8000/6
+#4	ICD-O-3.1 T9	8000/6
+#5	ICD-O-3.1 T13	8000/6
+#6	ICD-O-3.1 T1	8720/3
+#7	ICD-O-3.1 T2	8720/3
+#8	ICD-O-3.1 T4	8720/3
+#9	ICD-O-3.1 T8	8720/3
+#10	ICD-O-3.1 T12	8720/3
+#11	ICD-O-3.1 T3	8744/3
+#12	ICD-O-3.1 T11	8000/6
+#13	ICD-O-3.1 T5	8720/6
+#14	ICD-O-3.1 T14	8000/6
+#15	SNOMED T6	14799000
+#16	SNOMED T7	254732008
+#17	SNOMED T10	14799000
+#18	SNOMED T9	14799000
+#19	SNOMED T13	14799000
+#20	SNOMED T1	1162635006
+#21	SNOMED T2	1162635006
+#22	SNOMED T4	1162635006
+#23	SNOMED T8	1162635006
+#24	SNOMED T12	1162635006
+#25	SNOMED T3	254732008
+#26	SNOMED T11	14799000
+#27	SNOMED T5	372158004
+#28	SNOMED T14	14799000

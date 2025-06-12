@@ -1,0 +1,8 @@
+T1	disease 623 657	corps étrangers dans le mésogastre
+T2	disease 862 908	corps étrangers radio-opaques intra-abdominaux
+T3	disease 1577 1598	crise tonico-clonique
+T4	disease 1855 1920	corps étrangers durs ont été palpés tout le long du tube digestif
+#1	SNOMED T2	308890008
+#2	SNOMED T4	33334006
+#3	SNOMED T3	54200006
+#4	SNOMED T1	211631008

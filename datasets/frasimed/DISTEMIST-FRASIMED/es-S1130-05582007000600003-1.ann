@@ -1,0 +1,12 @@
+T1	disease 40 71	thrombose veineuse dans le MMII
+T2	disease 138 184	lésion ulcérée au niveau de la muqueuse jugale
+T3	disease 240 261	carcinome épidermoïde
+T4	disease 267 347	lymphadénopathie de 2 cm de diamètre était également palpable au niveau cervical
+T5	disease 387 402	lésion tumorale
+T6	disease 962 981	défaut intra-buccal
+#1	SNOMED T1	309735004
+#2	SNOMED T2	697977007
+#3	SNOMED T3	402815007
+#4	SNOMED T4	127086001
+#5	SNOMED T5	55342001
+#6	SNOMED T6	116337000

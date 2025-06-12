@@ -1,0 +1,61 @@
+T1	morphology-onco 105 137	sarcome pléomorphe de haut grade
+T2	morphology-onco 639 658	nodules pulmonaires
+T3	morphology-onco 997 1010	neurofibromes
+T4	morphology-onco 1182 1198	neurofibromatose
+T5	morphology-onco 1319 1332	neurofibromes
+T6	morphology-onco 1383 1395	neurofibrome
+T7	morphology-onco 1927 1960	néoplasique à cellules fusiformes
+T8	morphology-onco 2083 2112	sarcome à cellules fusiformes
+T9	morphology-onco 2600 2612	neurofibrome
+T10	morphology-onco 2981 2994	métastatiques
+T11	morphology-onco 3330 3346	neurofibromatose
+T12	morphology-onco 3385 3433	sarcome rétropéritonéal pléomorphe de haut grade
+T13	morphology-onco 3478 3578	tumeur maligne des gaines des nerfs périphériques de stade IV en raison de la présence de métastases
+T14	morphology-onco 3599 3616	lâcher de ballons
+T15	morphology-onco 3628 3638	métastases
+T16	morphology-onco 4113 4136	maladie dans le cerveau
+T17	morphology-onco 4158 4176	lésions cérébrales
+T18	morphology-onco 4790 4800	métastases
+T19	morphology-onco 4818 4835	implants pleuraux
+T20	morphology-onco 4850 4872	implant dans la plèvre
+T21	morphology-onco 4902 4920	maladie pulmonaire
+#1	ICD-O-3.1 T16	8000/6
+#2	ICD-O-3.1 T21	8000/6
+#3	ICD-O-3.1 T19	8000/6
+#4	ICD-O-3.1 T17	8000/6
+#5	ICD-O-3.1 T10	8000/6
+#6	ICD-O-3.1 T15	8000/6
+#7	ICD-O-3.1 T18	8000/6
+#8	ICD-O-3.1 T6	9540/0
+#9	ICD-O-3.1 T9	9540/0
+#10	ICD-O-3.1 T3	9540/0
+#11	ICD-O-3.1 T5	9540/0
+#12	ICD-O-3.1 T4	9540/1
+#13	ICD-O-3.1 T11	9540/1
+#14	ICD-O-3.1 T2	8000/6
+#15	ICD-O-3.1 T8	8801/3
+#16	ICD-O-3.1 T1	8802/34
+#17	ICD-O-3.1 T14	8000/6
+#18	ICD-O-3.1 T7	8004/1
+#19	ICD-O-3.1 T12	8802/34
+#20	ICD-O-3.1 T13	9540/6
+#21	ICD-O-3.1 T20	8000/6
+#22	SNOMED T16	14799000
+#23	SNOMED T21	14799000
+#24	SNOMED T19	14799000
+#25	SNOMED T17	14799000
+#26	SNOMED T10	14799000
+#27	SNOMED T15	14799000
+#28	SNOMED T18	14799000
+#29	SNOMED T6	1156930004
+#30	SNOMED T9	1156930004
+#31	SNOMED T3	1156930004
+#32	SNOMED T5	1156930004
+#33	SNOMED T4	19133005
+#34	SNOMED T11	19133005
+#35	SNOMED T2	14799000
+#36	SNOMED T8	9801004
+#37	SNOMED T1	302840001
+#38	SNOMED T14	14799000
+#39	SNOMED T12	302840001
+#40	SNOMED T20	14799000

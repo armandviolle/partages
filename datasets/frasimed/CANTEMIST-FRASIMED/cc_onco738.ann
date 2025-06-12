@@ -1,0 +1,63 @@
+T1	morphology-onco 178 190	neurofibrome
+T2	morphology-onco 334 340	cancer
+T3	morphology-onco 1262 1274	neurofibrome
+T4	morphology-onco 1318 1333	tumeur kystique
+T5	morphology-onco 1459 1472	carcinomatose
+T6	morphology-onco 1538 1557	implants hépatiques
+T7	morphology-onco 1925 1955	carcinome séreux de haut grade
+T8	morphology-onco 2074 2092	implant péritonéal
+T9	morphology-onco 2145 2161	neurofibromatose
+T10	morphology-onco 2303 2357	carcinome ovarien de stade IIIC (séreux de haut grade)
+T11	morphology-onco 2661 2667	cancer
+T12	morphology-onco 3106 3115	neurinome
+T13	morphology-onco 3542 3581	carcinome séreux résiduel de haut grade
+T14	morphology-onco 3586 3592	tumeur
+T15	morphology-onco 3626 3635	YpT2aN0Mx
+T16	morphology-onco 4654 4675	cellules néoplasiques
+T17	morphology-onco 4678 4692	adénocarcinome
+T18	morphology-onco 5415 5424	carcinome
+T19	morphology-onco 6150 6157	tumoral
+T20	morphology-onco 6626 6643	cellules malignes
+T21	morphology-onco 6658 6667	carcinome
+#1	ICD-O-3.1 T17	8140/3
+#2	ICD-O-3.1 T18	8010/3
+#3	ICD-O-3.1 T21	8010/3
+#4	ICD-O-3.1 T7	8441/34
+#5	ICD-O-3.1 T5	8010/9
+#6	ICD-O-3.1 T2	8000/3
+#7	ICD-O-3.1 T11	8000/3
+#8	ICD-O-3.1 T20	8001/3
+#9	ICD-O-3.1 T16	8001/1
+#10	ICD-O-3.1 T1	9540/0
+#11	ICD-O-3.1 T3	9540/0
+#12	ICD-O-3.1 T9	9540/1
+#13	ICD-O-3.1 T14	8000/1
+#14	ICD-O-3.1 T19	8000/1
+#15	ICD-O-3.1 T6	8000/6
+#16	ICD-O-3.1 T8	8000/6
+#17	ICD-O-3.1 T10	8441/34
+#18	ICD-O-3.1 T12	9560/0
+#19	ICD-O-3.1 T13	8441/34
+#20	ICD-O-3.1 T15	8000/6
+#21	ICD-O-3.1 T4	8452/1
+#22	SNOMED T17	1187332001
+#23	SNOMED T18	1187425009
+#24	SNOMED T21	1187425009
+#25	SNOMED T7	90725004
+#26	SNOMED T5	307593001
+#27	SNOMED T2	1240414004
+#28	SNOMED T11	1240414004
+#29	SNOMED T20	88400008
+#30	SNOMED T16	39577004
+#31	SNOMED T1	1156930004
+#32	SNOMED T3	1156930004
+#33	SNOMED T9	19133005
+#34	SNOMED T14	86251006
+#35	SNOMED T19	86251006
+#36	SNOMED T6	14799000
+#37	SNOMED T8	14799000
+#38	SNOMED T10	90725004
+#39	SNOMED T12	189948006
+#40	SNOMED T13	90725004
+#41	SNOMED T15	14799000
+#42	SNOMED T4	27078002

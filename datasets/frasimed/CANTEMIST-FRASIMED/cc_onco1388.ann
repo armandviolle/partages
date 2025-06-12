@@ -1,0 +1,9 @@
+T1	morphology-onco 40 78	lymphome B folliculaire non hodgkinien
+T2	morphology-onco 40 88	lymphome B folliculaire non hodgkinien, grade 3a
+T3	morphology-onco 2989 2997	lymphome
+#1	ICD-O-3.1 T3	9590/3
+#2	ICD-O-3.1 T1	9591/3
+#3	ICD-O-3.1 T2	9698/3
+#4	SNOMED T3	1163043007
+#5	SNOMED T1	1172592001
+#6	SNOMED T2	40411000

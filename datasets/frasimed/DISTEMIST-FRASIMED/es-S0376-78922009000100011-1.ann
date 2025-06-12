@@ -1,0 +1,28 @@
+T1	disease 186 192	lésion
+T2	disease 237 256	lésion pénoscrotale
+T3	disease 406 421	sarcome infecté
+T4	disease 428 452	lymphogranulome vénérien
+T5	disease 815 856	carcinome verruqueux de Buscke-Lowenstein
+T6	disease 899 939	lésion tumorale exophytique sur le pénis
+T7	disease 1063 1104	ulcération dans le sillon balanopréputial
+T8	disease 1426 1465	infiltré les tissus pubiens, le scrotum
+T9	disease 1764 1799	adénopathies iliaques et inguinales
+T10	disease 1849 1866	orifice fistuleux
+T11	disease 2004 2014	brucellose
+T12	disease 2019 2024	lupus
+T13	disease 2213 2258	condylome acuminé géant de Buschke-Lowenstein
+T14	disease 2462 2547	adénopathies bilatérales dans les chaînes iliaques et inguinales internes et externes
+T15	disease 2567 2579	adénopathies
+T16	disease 2681 2730	également infiltrer le fascia du muscle adducteur
+T17	disease 2751 2869	infiltration de la graisse du tissu cellulaire sous-cutané de la paroi interne des cuisses ou de la graisse du périnée
+T18	disease 2898 2952	lésion osseuse dans les branches ischio-ileo-pubiennes
+T19	disease 2966 2991	infiltration métastatique
+T20	disease 3033 3039	tumeur
+T21	disease 3046 3081	atteinte des chaînes ganglionnaires
+T22	disease 3469 3484	lésion tumorale
+T23	disease 3938 3960	métastase de carcinome
+T24	disease 4621 4635	masse tumorale
+T25	disease 4752 4772	métastases tumorales
+T26	disease 5011 5050	plaie de l'incision de lymphadénectomie
+T27	disease 5885 5915	hypogonadisme hypergonadotrope
+T28	disease 6038 6052	tumeur bénigne

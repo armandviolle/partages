@@ -1,0 +1,33 @@
+T1	morphology-onco 69 99	carcinome canalaire infiltrant
+T2	morphology-onco 371 379	tumorale
+T3	morphology-onco 627 633	cancer
+T4	morphology-onco 720 726	cancer
+T5	morphology-onco 1002 1039	ganglion lymphatique sus-claviculaire
+T6	morphology-onco 1561 1610	Carcinome ovarien papillaire séreux de haut grade
+T7	morphology-onco 1651 1653	Mx
+T8	morphology-onco 1685 1691	cancer
+T9	morphology-onco 2271 2291	rechute médiastinale
+T10	morphology-onco 5831 5837	tumeur
+T11	morphology-onco 6154 6160	tumeur
+#1	ICD-O-3.1 T1	8500/3
+#2	ICD-O-3.1 T3	8000/3
+#3	ICD-O-3.1 T4	8000/3
+#4	ICD-O-3.1 T8	8000/3
+#5	ICD-O-3.1 T10	8000/1
+#6	ICD-O-3.1 T2	8000/1
+#7	ICD-O-3.1 T11	8000/1
+#8	ICD-O-3.1 T7	8000/6
+#9	ICD-O-3.1 T6	8461/34
+#10	ICD-O-3.1 T5	8000/6
+#11	ICD-O-3.1 T9	8000/6
+#12	SNOMED T1	58477004
+#13	SNOMED T3	1240414004
+#14	SNOMED T4	1240414004
+#15	SNOMED T8	1240414004
+#16	SNOMED T10	86251006
+#17	SNOMED T2	86251006
+#18	SNOMED T11	86251006
+#19	SNOMED T7	14799000
+#20	SNOMED T6	716649003
+#21	SNOMED T5	14799000
+#22	SNOMED T9	14799000

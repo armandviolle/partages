@@ -1,0 +1,27 @@
+T1	disease 124 198	lésion lytique mesurant 38 x 21 mm impliquant le calvarium temporal gauche
+T2	disease 317 331	lésion cutanée
+T3	disease 995 1008	défaut osseux
+T4	disease 1218 1227	néoplasme
+T5	disease 1507 1552	tumeur maligne originaire du follicule pileux
+T6	disease 1576 1604	carcinome trichofolliculaire
+T7	disease 1653 1659	tumeur
+T8	disease 1680 1694	lésion cutanée
+T9	disease 2169 2191	épaississement pleural
+T10	disease 2431 2458	dissémination ganglionnaire
+T11	disease 2696 2702	lésion
+T12	disease 2893 2912	infiltration durale
+T13	disease 3101 3124	défaut osseux et cutané
+T14	disease 3376 3446	tumeur à la jonction des tiers moyen et postérieur de la base du crâne
+T15	disease 3792 3798	tumeur
+T16	disease 3866 3943	carcinome trichofolliculaire dans la table interne, le diploé et la dure-mère
+T17	disease 3993 4060	infiltré le cuir chevelu, le tissu épidural ou les ganglions locaux
+T18	disease 4136 4152	lésion pariétale
+T19	disease 4749 4762	défaut osseux
+T20	disease 4767 4780	défaut osseux
+T21	disease 4844 4930	diploé et la dure-mère étaient tous deux infiltrés par un carcinome trichofolliculaire
+T22	disease 5249 5271	métastases pulmonaires
+T23	disease 5428 5496	métastase d'un carcinome trichofolliculaire primaire du cuir chevelu
+T24	disease 6105 6120	tumeur primaire
+T25	disease 6205 6222	récidive tumorale
+T26	disease 6205 6234	récidive tumorale, pulmonaire
+T27	disease 6242 6280	dissémination à l'abdomen ou au pelvis

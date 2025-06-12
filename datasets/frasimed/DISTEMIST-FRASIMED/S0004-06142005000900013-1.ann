@@ -1,0 +1,6 @@
+T1	disease 920 937	léiomyome vésical
+T2	disease 1092 1111	adénome prostatique
+T3	disease 1685 1711	cystopathie d'incrustation
+#1	SNOMED T1	146801000119103
+#2	SNOMED T2	21173002
+#3	SNOMED T3	783184003

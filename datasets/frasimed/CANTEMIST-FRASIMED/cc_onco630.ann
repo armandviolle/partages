@@ -1,0 +1,12 @@
+T1	morphology-onco 3637 3643	tumeur
+T2	morphology-onco 3900 3916	phéochromocytome
+T3	morphology-onco 3974 3990	phéochromocytome
+T4	morphology-onco 4527 4543	phéochromocytome
+#1	ICD-O-3.1 T2	8700/0
+#2	ICD-O-3.1 T3	8700/0
+#3	ICD-O-3.1 T4	8700/0
+#4	ICD-O-3.1 T1	8000/1
+#5	SNOMED T2	302835009
+#6	SNOMED T3	302835009
+#7	SNOMED T4	302835009
+#8	SNOMED T1	86251006

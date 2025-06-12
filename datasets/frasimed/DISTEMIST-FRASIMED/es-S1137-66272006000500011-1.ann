@@ -1,0 +1,12 @@
+T1	disease 20 26	fumeur
+T2	disease 40 60	alcoolisme chronique
+T3	disease 93 112	hépatite alcoolique
+T4	disease 499 508	dysphagie
+T5	disease 2017 2038	infiltration tumorale
+T6	disease 2353 2359	alcool
+#1	SNOMED T1	77176002
+#2	SNOMED T2	284591009
+#3	SNOMED T5	128462008
+#4	SNOMED T6	7200002
+#5	SNOMED T3	235875008
+#6	SNOMED T4	288939007

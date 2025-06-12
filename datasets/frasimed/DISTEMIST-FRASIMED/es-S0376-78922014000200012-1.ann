@@ -1,0 +1,22 @@
+T1	disease 20 30	diabétique
+T2	disease 275 339	traumatisme contondant qui a initialement causé une dermabrasion
+T3	disease 432 452	cellulite préseptale
+T4	disease 506 524	escarre nécrotique
+T5	disease 1043 1049	plaies
+T6	disease 1689 1709	processus infectieux
+T7	disease 1832 1877	perte de peau de toute la paupière supérieure
+T8	disease 1883 1943	perte partielle de l'orbicularis oculi et du muscle releveur
+T9	disease 2009 2039	perte focale de la conjonctive
+T10	disease 2866 2889	éversion de la paupière
+T11	disease 2979 2991	lagophtalmie
+#1	SNOMED T1	73211009
+#2	SNOMED T10	62909004
+#3	SNOMED T3	314516007
+#4	SNOMED T7	246816005
+#5	SNOMED T4	421306004
+#6	SNOMED T8	128603005
+#7	SNOMED T11	60735000
+#8	SNOMED T9	246875002
+#9	SNOMED T2	425359009
+#10	SNOMED T5	416462003
+#11	SNOMED T6	40733004

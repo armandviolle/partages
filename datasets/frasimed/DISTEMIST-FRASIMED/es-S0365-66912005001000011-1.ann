@@ -1,0 +1,22 @@
+T1	disease 83 145	dislocation d'un quadrant de lentille dans la cavité vitréenne
+T2	disease 154 169	œdème maculaire
+T3	disease 291 306	œdème maculaire
+T4	disease 602 625	perte d'acuité visuelle
+T5	disease 726 734	hypopion
+T6	disease 1011 1044	endophtalmie infectieuse, toxique
+T7	disease 1048 1054	pseudo
+T8	disease 1147 1161	pseudohypopyon
+T9	disease 1344 1363	pseudo-endophtalmie
+T10	disease 1669 1701	bulles dans l'épithélium cornéen
+T11	disease 1708 1716	hypopion
+#1	SNOMED T1	65814009
+#2	SNOMED T2	37231002
+#3	SNOMED T3	37231002
+#4	SNOMED T5	87807004
+#5	SNOMED T6	414491002
+#6	SNOMED T7	11131000119108
+#7	SNOMED T9	11131000119108
+#8	SNOMED T11	87807004
+#9	SNOMED T10	421059009
+#10	SNOMED T8	246995007
+#11	SNOMED T4	170728008

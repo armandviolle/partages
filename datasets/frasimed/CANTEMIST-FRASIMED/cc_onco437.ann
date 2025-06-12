@@ -1,0 +1,48 @@
+T1	morphology-onco 339 355	myélome multiple
+T2	morphology-onco 616 623	myélome
+T3	morphology-onco 943 957	adénocarcinome
+T4	morphology-onco 1061 1063	M0
+T5	morphology-onco 1336 1359	carcinome indifférencié
+T6	morphology-onco 1483 1522	adénopathie au niveau supraclaviculaire
+T7	morphology-onco 1556 1564	tumorale
+T8	morphology-onco 1662 1669	cTxN3M0
+T9	morphology-onco 2163 2172	malignité
+T10	morphology-onco 2204 2210	tumeur
+T11	morphology-onco 2523 2546	carcinome indifférencié
+T12	morphology-onco 4224 4243	lésion adénomateuse
+T13	morphology-onco 4406 4431	carcinome peu différencié
+T14	morphology-onco 4992 5015	Carcinome indifférencié
+T15	morphology-onco 5239 5248	tumorales
+T16	morphology-onco 5698 5721	carcinome indifférencié
+#1	ICD-O-3.1 T14	8020/3
+#2	ICD-O-3.1 T4	8000/6
+#3	ICD-O-3.1 T3	8140/3
+#4	ICD-O-3.1 T12	8140/0
+#5	ICD-O-3.1 T8	8000/6
+#6	ICD-O-3.1 T5	8020/3
+#7	ICD-O-3.1 T11	8020/3
+#8	ICD-O-3.1 T16	8020/3
+#9	ICD-O-3.1 T9	8000/3
+#10	ICD-O-3.1 T2	9732/3
+#11	ICD-O-3.1 T1	9732/3
+#12	ICD-O-3.1 T10	8000/1
+#13	ICD-O-3.1 T7	8000/1
+#14	ICD-O-3.1 T15	8000/1
+#15	ICD-O-3.1 T6	8000/6
+#16	ICD-O-3.1 T13	8010/33
+#17	SNOMED T14	38549000
+#18	SNOMED T4	14799000
+#19	SNOMED T3	1187332001
+#20	SNOMED T12	1187379001
+#21	SNOMED T8	14799000
+#22	SNOMED T5	38549000
+#23	SNOMED T11	38549000
+#24	SNOMED T16	38549000
+#25	SNOMED T9	1240414004
+#26	SNOMED T2	109989006
+#27	SNOMED T1	109989006
+#28	SNOMED T10	86251006
+#29	SNOMED T7	86251006
+#30	SNOMED T15	86251006
+#31	SNOMED T6	14799000
+#32	SNOMED T13	1187425009

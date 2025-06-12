@@ -1,0 +1,20 @@
+T1	disease 179 185	anémie
+T2	disease 191 226	varices dans les membres inférieurs
+T3	disease 232 244	hypocalcémie
+T4	disease 252 276	gonarthrite séronégative
+T5	disease 292 350	IO a révélé un abcès marginal, une épithéliopathie diffuse
+T6	disease 358 386	kératinisation conjonctivale
+T7	disease 592 607	épithéliopathie
+T8	disease 950 982	kératinisation de la conjonctive
+T9	disease 988 1011	épithéliopathie diffuse
+T10	disease 1166 1199	hyperkératinisation conjonctivale
+#1	SNOMED T5	95679004
+#2	SNOMED T1	271737000
+#3	SNOMED T2	72866009
+#4	SNOMED T3	5291005
+#5	SNOMED T4	128136007
+#6	SNOMED T8	246874003
+#7	SNOMED T9	231929005
+#8	SNOMED T10	246874003
+#9	SNOMED T6	246874003
+#10	SNOMED T7	371405004

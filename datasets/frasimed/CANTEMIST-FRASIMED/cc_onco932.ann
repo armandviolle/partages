@@ -1,0 +1,30 @@
+T1	morphology-onco 2337 2346	malignité
+T2	morphology-onco 2362 2382	implants péritonéaux
+T3	morphology-onco 2477 2489	néoplasiques
+T4	morphology-onco 2615 2649	tumeur stromale gastro-intestinale
+T5	morphology-onco 2651 2655	GIST
+T6	morphology-onco 3131 3137	tumeur
+T7	morphology-onco 3138 3142	GIST
+T8	morphology-onco 4332 4357	leucémie myélomonocytaire
+T9	morphology-onco 4464 4480	sarcome myéloïde
+T10	morphology-onco 4581 4606	leucémie myélomonocytaire
+#1	ICD-O-3.1 T5	8936/3
+#2	ICD-O-3.1 T7	8936/3
+#3	ICD-O-3.1 T2	8000/6
+#4	ICD-O-3.1 T1	8000/3
+#5	ICD-O-3.1 T3	8000/1
+#6	ICD-O-3.1 T6	8000/1
+#7	ICD-O-3.1 T4	8936/3
+#8	ICD-O-3.1 T8	9867/3
+#9	ICD-O-3.1 T9	9930/3
+#10	ICD-O-3.1 T10	9867/3
+#11	SNOMED T5	128756002
+#12	SNOMED T7	128756002
+#13	SNOMED T2	14799000
+#14	SNOMED T1	1240414004
+#15	SNOMED T3	86251006
+#16	SNOMED T6	86251006
+#17	SNOMED T4	128756002
+#18	SNOMED T8	30962008
+#19	SNOMED T9	35287006
+#20	SNOMED T10	30962008

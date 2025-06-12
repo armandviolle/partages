@@ -1,0 +1,39 @@
+T1	morphology-onco 1024 1033	métastase
+T2	morphology-onco 1811 1822	néoplasique
+T3	morphology-onco 1870 1884	adénocarcinome
+T4	morphology-onco 1955 1969	Adénocarcinome
+T5	morphology-onco 2678 2692	adénocarcinome
+T6	morphology-onco 2709 2753	atteinte probable du système nerveux central
+T7	morphology-onco 3588 3595	adénome
+T8	morphology-onco 3849 3863	adénocarcinome
+T9	morphology-onco 3875 3882	T1bN1M0
+T10	morphology-onco 4458 4499	adénocarcinome pulmonaire de type acineux
+T11	morphology-onco 4567 4573	tumeur
+T12	morphology-onco 4649 4651	Mx
+T13	morphology-onco 4895 4902	maligne
+#1	ICD-O-3.1 T4	8140/3
+#2	ICD-O-3.1 T12	8000/6
+#3	ICD-O-3.1 T3	8140/3
+#4	ICD-O-3.1 T5	8140/3
+#5	ICD-O-3.1 T8	8140/3
+#6	ICD-O-3.1 T7	8140/0
+#7	ICD-O-3.1 T6	8000/6
+#8	ICD-O-3.1 T13	8000/3
+#9	ICD-O-3.1 T1	8000/6
+#10	ICD-O-3.1 T2	8000/1
+#11	ICD-O-3.1 T11	8000/1
+#12	ICD-O-3.1 T9	8000/6
+#13	ICD-O-3.1 T10	8550/3
+#14	SNOMED T4	1187332001
+#15	SNOMED T12	14799000
+#16	SNOMED T3	1187332001
+#17	SNOMED T5	1187332001
+#18	SNOMED T8	1187332001
+#19	SNOMED T7	1187379001
+#20	SNOMED T6	14799000
+#21	SNOMED T13	1240414004
+#22	SNOMED T1	14799000
+#23	SNOMED T2	86251006
+#24	SNOMED T11	86251006
+#25	SNOMED T9	14799000
+#26	SNOMED T10	45410002

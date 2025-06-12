@@ -1,0 +1,33 @@
+T1	morphology-onco 1024 1060	lymphome diffus à grandes cellules B
+T2	morphology-onco 1153 1197	carcinome épidermoïde modérément différencié
+T3	morphology-onco 1211 1262	Lymphome B diffus à grandes cellules non hodgkinien
+T4	morphology-onco 1285 1328	Carcinome pulmonaire non à petites cellules
+T5	morphology-onco 1285 1365	Carcinome pulmonaire non à petites cellules de stade IIIA, sous-type épidermoïde
+T6	morphology-onco 1659 1665	tumeur
+T7	morphology-onco 1711 1719	cT3cN1M0
+T8	morphology-onco 2157 2178	carcinome épidermoïde
+T9	morphology-onco 2573 2582	métastase
+T10	morphology-onco 2789 2795	tumeur
+T11	morphology-onco 2832 2866	métastase de carcinome épidermoïde
+#1	ICD-O-3.1 T4	8046/3
+#2	ICD-O-3.1 T8	8070/3
+#3	ICD-O-3.1 T2	8070/32
+#4	ICD-O-3.1 T9	8000/6
+#5	ICD-O-3.1 T11	8070/6
+#6	ICD-O-3.1 T6	8000/1
+#7	ICD-O-3.1 T10	8000/1
+#8	ICD-O-3.1 T1	9680/3
+#9	ICD-O-3.1 T3	9680/3
+#10	ICD-O-3.1 T5	8070/3
+#11	ICD-O-3.1 T7	8000/6
+#12	SNOMED T4	128632008
+#13	SNOMED T8	1162767002
+#14	SNOMED T2	1162767002
+#15	SNOMED T9	14799000
+#16	SNOMED T11	403906006
+#17	SNOMED T6	86251006
+#18	SNOMED T10	86251006
+#19	SNOMED T1	1172695008
+#20	SNOMED T3	1172695008
+#21	SNOMED T5	1162767002
+#22	SNOMED T7	14799000

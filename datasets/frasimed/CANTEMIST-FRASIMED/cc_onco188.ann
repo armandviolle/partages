@@ -1,0 +1,50 @@
+T1	morphology-onco 1214 1223	néoplasie
+T2	morphology-onco 1385 1413	tumeur germinale mixte (TGC)
+T3	morphology-onco 1409 1412	TGC
+T4	morphology-onco 1427 1449	carcinome embryonnaire
+T5	morphology-onco 1461 1469	tératome
+T6	morphology-onco 1483 1511	tumeur du sinus endodermique
+T7	morphology-onco 1969 1986	nodule pulmonaire
+T8	morphology-onco 2170 2222	tumeur germinale non séminomateuse (NSGCT) T2 N3 M1a
+T9	morphology-onco 2206 2211	NSGCT
+T10	morphology-onco 2996 3013	nodule pulmonaire
+T11	morphology-onco 3336 3344	tumorale
+T12	morphology-onco 4553 4576	lésion rétropéritonéale
+T13	morphology-onco 4614 4633	lésions pulmonaires
+T14	morphology-onco 5007 5026	nodules pulmonaires
+T15	morphology-onco 5050 5072	masse rétropéritonéale
+T16	morphology-onco 5297 5312	tératome mature
+T17	morphology-onco 5608 5632	micronodules pulmonaires
+#1	ICD-O-3.1 T3	9064/3
+#2	ICD-O-3.1 T9	9065/3
+#3	ICD-O-3.1 T4	9070/3
+#4	ICD-O-3.1 T13	8000/6
+#5	ICD-O-3.1 T17	8000/6
+#6	ICD-O-3.1 T1	8000/1
+#7	ICD-O-3.1 T7	8000/6
+#8	ICD-O-3.1 T10	8000/6
+#9	ICD-O-3.1 T14	8000/6
+#10	ICD-O-3.1 T5	9080/1
+#11	ICD-O-3.1 T16	9080/0
+#12	ICD-O-3.1 T2	9064/3/H
+#13	ICD-O-3.1 T8	9065/6
+#14	ICD-O-3.1 T6	9071/3
+#15	ICD-O-3.1 T11	8000/1
+#16	ICD-O-3.1 T12	8000/6
+#17	ICD-O-3.1 T15	8000/6
+#18	SNOMED T3	28307001
+#19	SNOMED T9	128766005
+#20	SNOMED T4	28047004
+#21	SNOMED T13	14799000
+#22	SNOMED T17	14799000
+#23	SNOMED T1	86251006
+#24	SNOMED T7	14799000
+#25	SNOMED T10	14799000
+#26	SNOMED T14	14799000
+#27	SNOMED T5	1187393008
+#28	SNOMED T16	42717009
+#29	SNOMED T2	28307001
+#30	SNOMED T6	74409009
+#31	SNOMED T11	86251006
+#32	SNOMED T12	14799000
+#33	SNOMED T15	14799000

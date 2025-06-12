@@ -1,0 +1,20 @@
+T1	disease 412 434	embryotoxon postérieur
+T2	disease 580 645	atrophie géographique circumpapillaire de l'EPR et de la choroïde
+T3	disease 779 786	Lésions
+T4	disease 877 926	atrophie touchant partiellement la zone maculaire
+T5	disease 1018 1058	atrophie de l'EPR et du choriocapillaris
+T6	disease 1140 1163	choroïdite serpigineuse
+T7	disease 1324 1346	carence nutritionnelle
+T8	disease 1671 1690	syndrome d'Alagille
+T9	disease 1900 1919	syndrome d'Alagille
+T10	disease 2120 2157	lésions choriorétiniennes atrophiques
+#1	SNOMED T8	31742004
+#2	SNOMED T10	95686007
+#3	SNOMED T9	31742004
+#4	SNOMED T1	392437005
+#5	SNOMED T2	342581000119102+312918002
+#6	SNOMED T4	405722004
+#7	SNOMED T5	342581000119102+312918002
+#8	SNOMED T6	312491004
+#9	SNOMED T7	70241007
+#10	SNOMED T3	157670007

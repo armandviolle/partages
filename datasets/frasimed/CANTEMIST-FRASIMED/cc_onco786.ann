@@ -1,0 +1,54 @@
+T1	morphology-onco 1563 1587	micronodules pulmonaires
+T2	morphology-onco 2020 2064	adénocarcinome pancréatique bien différencié
+T3	morphology-onco 2089 2108	nodules pulmonaires
+T4	morphology-onco 2212 2236	dissémination à distance
+T5	morphology-onco 2468 2478	métastases
+T6	morphology-onco 2634 2674	adénocarcinome pancréatique métastatique
+T7	morphology-onco 2683 2685	M1
+T8	morphology-onco 3258 3282	micronodules pulmonaires
+T9	morphology-onco 3315 3322	tumoral
+T10	morphology-onco 3365 3383	maladie pulmonaire
+T11	morphology-onco 3902 3924	progression pulmonaire
+T12	morphology-onco 3984 4003	atteinte pulmonaire
+T13	morphology-onco 4098 4110	métastatique
+T14	morphology-onco 4439 4461	progression pulmonaire
+T15	morphology-onco 4864 4876	métastatique
+T16	morphology-onco 6536 6550	adénocarcinome
+T17	morphology-onco 6933 6947	adénocarcinome
+T18	morphology-onco 7076 7082	tumeur
+#1	ICD-O-3.1 T7	8000/6
+#2	ICD-O-3.1 T16	8140/3
+#3	ICD-O-3.1 T17	8140/3
+#4	ICD-O-3.1 T6	8140/6
+#5	ICD-O-3.1 T12	8000/6
+#6	ICD-O-3.1 T4	8000/6
+#7	ICD-O-3.1 T10	8000/6
+#8	ICD-O-3.1 T13	8000/6
+#9	ICD-O-3.1 T15	8000/6
+#10	ICD-O-3.1 T5	8000/6
+#11	ICD-O-3.1 T1	8000/6
+#12	ICD-O-3.1 T8	8000/6
+#13	ICD-O-3.1 T3	8000/6
+#14	ICD-O-3.1 T11	8000/6
+#15	ICD-O-3.1 T14	8000/6
+#16	ICD-O-3.1 T9	8000/1
+#17	ICD-O-3.1 T18	8000/1
+#18	ICD-O-3.1 T2	8140/31
+#19	SNOMED T7	14799000
+#20	SNOMED T16	1187332001
+#21	SNOMED T17	1187332001
+#22	SNOMED T6	4590003
+#23	SNOMED T12	14799000
+#24	SNOMED T4	14799000
+#25	SNOMED T10	14799000
+#26	SNOMED T13	14799000
+#27	SNOMED T15	14799000
+#28	SNOMED T5	14799000
+#29	SNOMED T1	14799000
+#30	SNOMED T8	14799000
+#31	SNOMED T3	14799000
+#32	SNOMED T11	14799000
+#33	SNOMED T14	14799000
+#34	SNOMED T9	86251006
+#35	SNOMED T18	86251006
+#36	SNOMED T2	1187332001

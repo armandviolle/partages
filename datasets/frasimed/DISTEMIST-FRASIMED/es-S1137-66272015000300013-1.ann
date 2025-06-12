@@ -1,0 +1,17 @@
+T1	disease 63 100	carcinome épidermoïde T2N2b du larynx
+T2	disease 351 403	carcinome épidermoïde infiltrant dans l'hémipiglotte
+T3	disease 425 533	ganglions lymphatiques positifs de la chaîne jugulaire interne, sous-digastrique et supraclaviculaire gauche
+T4	disease 770 790	diplopie binoculaire
+T5	disease 800 812	vision floue
+T6	disease 847 913	ophtalmoparésie des troisième, quatrième et sixième nerfs crâniens
+T7	disease 1247 1261	lésion lytique
+T8	disease 1267 1307	invasion de l'aile sphénoïde ou du sinus
+T9	disease 1409 1419	schwannome
+T10	disease 1424 1434	méningiome
+T11	disease 1442 1451	métastase
+T12	disease 1567 1607	invasion tumorale de l'espace intradural
+T13	disease 1665 1686	carcinome épidermoïde
+T14	disease 1930 1974	lésions focales dans les corps D4, D6 et D10
+T15	disease 1994 2016	implants métastatiques
+T16	disease 2102 2116	ophtalmoplégie
+T17	disease 2219 2247	métastase du sinus caverneux

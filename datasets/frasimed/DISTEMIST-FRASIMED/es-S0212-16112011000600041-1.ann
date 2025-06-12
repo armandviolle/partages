@@ -1,0 +1,10 @@
+T1	disease 17 24	fumeuse
+T2	disease 297 330	iléon terminal, trois ulcérations
+T3	disease 457 473	maladie de Crohn
+T4	disease 694 706	malnutrition
+T5	disease 921 924	PLE
+#1	SNOMED T1	77176002
+#2	SNOMED T2	50565005
+#3	SNOMED T3	34000006
+#4	SNOMED T4	248325000
+#5	SNOMED T5	66972006

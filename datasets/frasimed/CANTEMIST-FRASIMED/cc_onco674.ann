@@ -1,0 +1,42 @@
+T1	morphology-onco 363 404	lésion est apparue dans la cavité buccale
+T2	morphology-onco 1610 1622	métastatique
+T3	morphology-onco 1714 1728	adénocarcinome
+T4	morphology-onco 1857 1884	lésion de la cavité buccale
+T5	morphology-onco 1887 1916	métastase d'un adénocarcinome
+T6	morphology-onco 1951 1965	Adénocarcinome
+T7	morphology-onco 2243 2273	lésion du trigone rétromolaire
+T8	morphology-onco 2540 2556	lésions osseuses
+T9	morphology-onco 2723 2738	maladie osseuse
+T10	morphology-onco 2758 2782	lésion dans l'hémisacrum
+T11	morphology-onco 3323 3341	lésions hépatiques
+T12	morphology-onco 3407 3436	lésion dans la cavité buccale
+T13	morphology-onco 3511 3529	lésions hépatiques
+T14	morphology-onco 3572 3582	métastases
+#1	ICD-O-3.1 T6	8140/3
+#2	ICD-O-3.1 T3	8140/3
+#3	ICD-O-3.1 T11	8000/6
+#4	ICD-O-3.1 T13	8000/6
+#5	ICD-O-3.1 T8	8000/6
+#6	ICD-O-3.1 T2	8000/6
+#7	ICD-O-3.1 T14	8000/6
+#8	ICD-O-3.1 T5	8140/6
+#9	ICD-O-3.1 T4	8000/6
+#10	ICD-O-3.1 T1	8000/6
+#11	ICD-O-3.1 T7	8000/6
+#12	ICD-O-3.1 T9	8000/6
+#13	ICD-O-3.1 T10	8000/6
+#14	ICD-O-3.1 T12	8000/6
+#15	SNOMED T6	1187332001
+#16	SNOMED T3	1187332001
+#17	SNOMED T11	14799000
+#18	SNOMED T13	14799000
+#19	SNOMED T8	14799000
+#20	SNOMED T2	14799000
+#21	SNOMED T14	14799000
+#22	SNOMED T5	4590003
+#23	SNOMED T4	14799000
+#24	SNOMED T1	14799000
+#25	SNOMED T7	14799000
+#26	SNOMED T9	14799000
+#27	SNOMED T10	14799000
+#28	SNOMED T12	14799000

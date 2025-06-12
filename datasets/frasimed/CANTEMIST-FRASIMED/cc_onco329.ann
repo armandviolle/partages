@@ -1,0 +1,60 @@
+T1	morphology-onco 559 568	carcinome
+T2	morphology-onco 647 667	carcinome papillaire
+T3	morphology-onco 717 745	carcinome à cellules claires
+T4	morphology-onco 782 791	néoplasie
+T5	morphology-onco 853 894	carcinome urothélial de la vessie, pT1 G3
+T6	morphology-onco 1124 1142	maladie disséminée
+T7	morphology-onco 1148 1187	récidive dans le pôle inférieur du rein
+T8	morphology-onco 1207 1224	nodule pulmonaire
+T9	morphology-onco 1245 1272	lésion lytique iliopubienne
+T10	morphology-onco 3323 3340	nodule pulmonaire
+T11	morphology-onco 3346 3383	nodule dans le pôle inférieur du rein
+T12	morphology-onco 3391 3407	lésions osseuses
+T13	morphology-onco 3465 3474	métastase
+T14	morphology-onco 3527 3578	Carcinome rénal mixte de stade IV (cellules claires
+T15	morphology-onco 3527 3594	Carcinome rénal mixte de stade IV (cellules claires et papillaires)
+T16	morphology-onco 3630 3638	tumorale
+T17	morphology-onco 4382 4399	lésion pulmonaire
+T18	morphology-onco 4416 4446	lésion au niveau du pôle rénal
+T19	morphology-onco 5248 5257	métastase
+T20	morphology-onco 5956 5970	lésion osseuse
+#1	ICD-O-3.1 T10	8000/6
+#2	ICD-O-3.1 T1	8010/3
+#3	ICD-O-3.1 T3	8310/3
+#4	ICD-O-3.1 T2	8260/3
+#5	ICD-O-3.1 T6	8000/6
+#6	ICD-O-3.1 T12	8000/6
+#7	ICD-O-3.1 T18	8000/6
+#8	ICD-O-3.1 T20	8000/6
+#9	ICD-O-3.1 T13	8000/6
+#10	ICD-O-3.1 T19	8000/6
+#11	ICD-O-3.1 T4	8000/1
+#12	ICD-O-3.1 T8	8000/6
+#13	ICD-O-3.1 T16	8000/1
+#14	ICD-O-3.1 T5	8120/33
+#15	ICD-O-3.1 T9	8000/6
+#16	ICD-O-3.1 T7	8000/6
+#17	ICD-O-3.1 T11	8000/6
+#18	ICD-O-3.1 T15	8050/3
+#19	ICD-O-3.1 T14	8310/3/H
+#20	ICD-O-3.1 T17	8000/6
+#21	SNOMED T10	14799000
+#22	SNOMED T1	1187425009
+#23	SNOMED T3	30546008
+#24	SNOMED T2	4797003
+#25	SNOMED T6	14799000
+#26	SNOMED T12	14799000
+#27	SNOMED T18	14799000
+#28	SNOMED T20	14799000
+#29	SNOMED T13	14799000
+#30	SNOMED T19	14799000
+#31	SNOMED T4	86251006
+#32	SNOMED T8	14799000
+#33	SNOMED T16	86251006
+#34	SNOMED T5	27090000
+#35	SNOMED T9	14799000
+#36	SNOMED T7	14799000
+#37	SNOMED T11	14799000
+#38	SNOMED T15	25910003
+#39	SNOMED T14	30546008
+#40	SNOMED T17	14799000

@@ -1,0 +1,18 @@
+T1	disease 37 53	ancienne fumeuse
+T2	disease 100 112	hypertension
+T3	disease 118 140	polymyalgia rheumatica
+T4	disease 148 166	artérite temporale
+T5	disease 200 212	métrorragies
+T6	disease 218 239	tumeur de l'endomètre
+T7	disease 381 474	adénocarcinome bien différencié (grade I), avec une infiltration du tiers interne du myomètre
+T8	disease 490 525	infiltration des vaisseaux sanguins
+T9	disease 979 1000	néoplasme bronchogène
+T10	disease 1134 1158	LSI avec une atélectasie
+T11	disease 1243 1249	tumeur
+T12	disease 1351 1388	carcinome épidermoïde peu différencié
+T13	disease 1421 1461	carcinome épidermoïde T2 N0 M0 du poumon
+T14	disease 1449 1451	M0
+T15	disease 1869 1883	adénocarcinome
+T16	disease 2181 2207	tumeur pulmonaire primaire
+T17	disease 2251 2295	rechute pulmonaire de sa tumeur endométriale
+T18	disease 2276 2295	tumeur endométriale

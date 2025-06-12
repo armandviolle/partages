@@ -1,0 +1,51 @@
+T1	morphology-onco 721 729	mélanome
+T2	morphology-onco 908 916	mélanome
+T3	morphology-onco 1006 1013	pT4N0M0
+T4	morphology-onco 1327 1344	cellules malignes
+T5	morphology-onco 1559 1565	tumeur
+T6	morphology-onco 1625 1644	nodules pulmonaires
+T7	morphology-onco 1902 1912	métastases
+T8	morphology-onco 1981 2003	implants mésentériques
+T9	morphology-onco 2009 2019	métastases
+T10	morphology-onco 2115 2143	lésion lombaire sous-cutanée
+T11	morphology-onco 2203 2224	métastase de mélanome
+T12	morphology-onco 2395 2405	métastases
+T13	morphology-onco 2461 2469	mélanome
+T14	morphology-onco 3166 3176	métastases
+T15	morphology-onco 3245 3255	métastases
+T16	morphology-onco 3308 3327	lésion sous-cutanée
+T17	morphology-onco 4081 4124	lésions supratentorielles occupant l'espace
+#1	ICD-O-3.1 T4	8001/3
+#2	ICD-O-3.1 T1	8720/3
+#3	ICD-O-3.1 T2	8720/3
+#4	ICD-O-3.1 T13	8720/3
+#5	ICD-O-3.1 T9	8000/6
+#6	ICD-O-3.1 T7	8000/6
+#7	ICD-O-3.1 T12	8000/6
+#8	ICD-O-3.1 T14	8000/6
+#9	ICD-O-3.1 T15	8000/6
+#10	ICD-O-3.1 T11	8720/6
+#11	ICD-O-3.1 T5	8000/1
+#12	ICD-O-3.1 T3	8000/6
+#13	ICD-O-3.1 T8	8000/6
+#14	ICD-O-3.1 T6	8000/6
+#15	ICD-O-3.1 T10	8000/6
+#16	ICD-O-3.1 T16	8000/6
+#17	ICD-O-3.1 T17	8000/6
+#18	SNOMED T4	88400008
+#19	SNOMED T1	1162635006
+#20	SNOMED T2	1162635006
+#21	SNOMED T13	1162635006
+#22	SNOMED T9	14799000
+#23	SNOMED T7	14799000
+#24	SNOMED T12	14799000
+#25	SNOMED T14	14799000
+#26	SNOMED T15	14799000
+#27	SNOMED T11	372158004
+#28	SNOMED T5	86251006
+#29	SNOMED T3	14799000
+#30	SNOMED T8	14799000
+#31	SNOMED T6	14799000
+#32	SNOMED T10	14799000
+#33	SNOMED T16	14799000
+#34	SNOMED T17	14799000

@@ -1,0 +1,24 @@
+T1	morphology-onco 56 75	carcinome canalaire
+T2	morphology-onco 1036 1045	malignité
+T3	morphology-onco 1239 1251	néoformation
+T4	morphology-onco 1828 1856	Angiosarcome peu différencié
+T5	morphology-onco 2270 2279	néoplasie
+T6	morphology-onco 2331 2342	néoplasique
+T7	morphology-onco 3467 3479	angiosarcome
+T8	morphology-onco 4476 4501	implantation de la tumeur
+#1	ICD-O-3.1 T7	9120/3
+#2	ICD-O-3.1 T1	8500/3
+#3	ICD-O-3.1 T8	8000/6
+#4	ICD-O-3.1 T2	8000/3
+#5	ICD-O-3.1 T3	8000/1
+#6	ICD-O-3.1 T5	8000/1
+#7	ICD-O-3.1 T6	8000/1
+#8	ICD-O-3.1 T4	9120/33
+#9	SNOMED T7	39000009
+#10	SNOMED T1	58477004
+#11	SNOMED T8	14799000
+#12	SNOMED T2	1240414004
+#13	SNOMED T3	86251006
+#14	SNOMED T5	86251006
+#15	SNOMED T6	86251006
+#16	SNOMED T4	39000009

@@ -1,0 +1,42 @@
+T1	morphology-onco 781 791	métastases
+T2	morphology-onco 834 857	adénocarcinome mucineux
+T3	morphology-onco 1023 1029	tumeur
+T4	morphology-onco 1127 1134	maligne
+T5	morphology-onco 1189 1195	tumeur
+T6	morphology-onco 1614 1620	tumeur
+T7	morphology-onco 1836 1844	tumorale
+T8	morphology-onco 2008 2022	Adénocarcinome
+T9	morphology-onco 2042 2052	métastases
+T10	morphology-onco 2203 2209	tumeur
+T11	morphology-onco 2364 2395	adénocarcinome intestinal mixte
+T12	morphology-onco 2397 2415	carcinome mucineux
+T13	morphology-onco 2419 2446	cellules en bague de signet
+T14	morphology-onco 2490 2498	tumoraux
+#1	ICD-O-3.1 T8	8140/3
+#2	ICD-O-3.1 T2	8480/3
+#3	ICD-O-3.1 T12	8480/3
+#4	ICD-O-3.1 T13	8490/3
+#5	ICD-O-3.1 T4	8000/3
+#6	ICD-O-3.1 T1	8000/6
+#7	ICD-O-3.1 T9	8000/6
+#8	ICD-O-3.1 T3	8000/1
+#9	ICD-O-3.1 T5	8000/1
+#10	ICD-O-3.1 T6	8000/1
+#11	ICD-O-3.1 T7	8000/1
+#12	ICD-O-3.1 T10	8000/1
+#13	ICD-O-3.1 T14	8000/1
+#14	ICD-O-3.1 T11	8144/3/H
+#15	SNOMED T8	1187332001
+#16	SNOMED T2	72495009
+#17	SNOMED T12	72495009
+#18	SNOMED T13	87737001
+#19	SNOMED T4	1240414004
+#20	SNOMED T1	14799000
+#21	SNOMED T9	14799000
+#22	SNOMED T3	86251006
+#23	SNOMED T5	86251006
+#24	SNOMED T6	86251006
+#25	SNOMED T7	86251006
+#26	SNOMED T10	86251006
+#27	SNOMED T14	86251006
+#28	SNOMED T11	25190001

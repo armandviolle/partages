@@ -1,0 +1,32 @@
+T1	morphology-onco 527 578	cystoadénocarcinome papillaire séreux de haut grade
+T2	morphology-onco 679 689	métastases
+T3	morphology-onco 1362 1385	carcinome inflammatoire
+T4	morphology-onco 1441 1443	M0
+T5	morphology-onco 2227 2233	tumeur
+T6	morphology-onco 2560 2602	carcinome de haut grade de type papillaire
+T7	morphology-onco 2669 2692	métastases du carcinome
+T8	morphology-onco 3016 3032	lésions cutanées
+T9	morphology-onco 3048 3062	carcinomateuse
+T10	morphology-onco 3496 3558	métastatique du sein bilatéral par un carcinome ovarien séreux
+T11	morphology-onco 4483 4493	léthargies
+#1	ICD-O-3.1 T4	8000/6
+#2	ICD-O-3.1 T3	8530/3
+#3	ICD-O-3.1 T9	8010/9
+#4	ICD-O-3.1 T1	8460/34
+#5	ICD-O-3.1 T8	8000/6
+#6	ICD-O-3.1 T11	8000/6
+#7	ICD-O-3.1 T2	8000/6
+#8	ICD-O-3.1 T7	8010/6
+#9	ICD-O-3.1 T5	8000/1
+#10	ICD-O-3.1 T6	8460/34
+#11	ICD-O-3.1 T10	8441/6
+#12	SNOMED T4	14799000
+#13	SNOMED T3	32968003
+#14	SNOMED T9	307593001
+#15	SNOMED T1	703561001
+#16	SNOMED T8	14799000
+#17	SNOMED T11	14799000
+#18	SNOMED T2	14799000
+#19	SNOMED T7	79282002
+#20	SNOMED T5	86251006
+#21	SNOMED T6	703561001

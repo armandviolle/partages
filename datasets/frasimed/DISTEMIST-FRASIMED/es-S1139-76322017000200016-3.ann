@@ -1,0 +1,8 @@
+T1	disease 60 123	lésion érythémateuse circinée, à bords surélevés, érythémateuse
+T2	disease 167 219	lésion, mesurant environ 10 cm, située sur la cuisse
+T3	disease 344 409	lésions similaires de plus petite taille dispersées sur le thorax
+T4	disease 647 662	eczéma atopique
+#1	SNOMED T1	70819003
+#2	SNOMED T2	128135006
+#3	SNOMED T4	24079001
+#4	SNOMED T3	118946009+118939000+128135006

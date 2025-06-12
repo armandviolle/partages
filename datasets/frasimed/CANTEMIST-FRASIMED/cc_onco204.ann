@@ -1,0 +1,51 @@
+T1	morphology-onco 387 401	mélanome malin
+T2	morphology-onco 402 409	pT2N0M0
+T3	morphology-onco 572 578	tumeur
+T4	morphology-onco 1033 1044	néoplasique
+T5	morphology-onco 1072 1096	micronodules pulmonaires
+T6	morphology-onco 1227 1241	mélanome malin
+T7	morphology-onco 1820 1829	métastase
+T8	morphology-onco 1861 1880	nodules pulmonaires
+T9	morphology-onco 1903 1921	implant péritonéal
+T10	morphology-onco 2862 2901	progression locorégionale et à distance
+T11	morphology-onco 2947 2957	métastases
+T12	morphology-onco 3919 3939	nodules sous-cutanés
+T13	morphology-onco 4869 4887	maladie à distance
+T14	morphology-onco 4969 4989	implants péritonéaux
+T15	morphology-onco 5001 5011	métastases
+T16	morphology-onco 5071 5081	métastases
+T17	morphology-onco 5990 6007	maladie hépatique
+#1	ICD-O-3.1 T13	8000/6
+#2	ICD-O-3.1 T9	8000/6
+#3	ICD-O-3.1 T14	8000/6
+#4	ICD-O-3.1 T1	8720/3
+#5	ICD-O-3.1 T6	8720/3
+#6	ICD-O-3.1 T7	8000/6
+#7	ICD-O-3.1 T11	8000/6
+#8	ICD-O-3.1 T15	8000/6
+#9	ICD-O-3.1 T16	8000/6
+#10	ICD-O-3.1 T4	8000/1
+#11	ICD-O-3.1 T8	8000/6
+#12	ICD-O-3.1 T2	8000/6
+#13	ICD-O-3.1 T3	8000/1
+#14	ICD-O-3.1 T10	8000/6
+#15	ICD-O-3.1 T5	8000/6
+#16	ICD-O-3.1 T12	8000/6
+#17	ICD-O-3.1 T17	8000/6
+#18	SNOMED T13	14799000
+#19	SNOMED T9	14799000
+#20	SNOMED T14	14799000
+#21	SNOMED T1	1162635006
+#22	SNOMED T6	1162635006
+#23	SNOMED T7	14799000
+#24	SNOMED T11	14799000
+#25	SNOMED T15	14799000
+#26	SNOMED T16	14799000
+#27	SNOMED T4	86251006
+#28	SNOMED T8	14799000
+#29	SNOMED T2	14799000
+#30	SNOMED T3	86251006
+#31	SNOMED T10	14799000
+#32	SNOMED T5	14799000
+#33	SNOMED T12	14799000
+#34	SNOMED T17	14799000

@@ -1,0 +1,8 @@
+T1	disease 122 135	vision double
+T2	disease 150 169	ptose des paupières
+T3	disease 509 515	ptosis
+T4	disease 1040 1071	occlusion de l'artère temporale
+#1	SNOMED T1	24982008
+#2	SNOMED T2	11934000
+#3	SNOMED T3	11934000
+#4	SNOMED T4	2929001

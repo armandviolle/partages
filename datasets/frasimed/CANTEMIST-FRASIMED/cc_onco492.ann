@@ -1,0 +1,15 @@
+T1	morphology-onco 1040 1046	tumeur
+T2	morphology-onco 1047 1079	carcinoïde à cellules gobétiques
+T3	morphology-onco 1694 1705	néoplasique
+T4	morphology-onco 2018 2024	tumeur
+T5	morphology-onco 2124 2138	adénocarcinome
+#1	ICD-O-3.1 T5	8140/3
+#2	ICD-O-3.1 T2	8243/3
+#3	ICD-O-3.1 T3	8000/1
+#4	ICD-O-3.1 T1	8000/1
+#5	ICD-O-3.1 T4	8000/1
+#6	SNOMED T5	1187332001
+#7	SNOMED T2	31396002
+#8	SNOMED T3	86251006
+#9	SNOMED T1	86251006
+#10	SNOMED T4	86251006

@@ -1,0 +1,30 @@
+T1	morphology-onco 110 117	tumeurs
+T2	morphology-onco 132 171	cancer du poumon non à petites cellules
+T3	morphology-onco 173 178	CPNPC
+T4	morphology-onco 475 514	cancer du poumon non à petites cellules
+T5	morphology-onco 745 784	carcinome adénosquameux peu différencié
+T6	morphology-onco 800 813	sarcomatoïdes
+T7	morphology-onco 1594 1603	malignité
+T8	morphology-onco 2683 2722	progression thoracique et surrénalienne
+T9	morphology-onco 3868 3882	tumeur maligne
+T10	morphology-onco 4896 4935	cancer du poumon non à petites cellules
+#1	ICD-O-3.1 T3	8046/3
+#2	ICD-O-3.1 T10	8046/3
+#3	ICD-O-3.1 T2	8046/3
+#4	ICD-O-3.1 T4	8046/3
+#5	ICD-O-3.1 T7	8000/3
+#6	ICD-O-3.1 T9	8000/3
+#7	ICD-O-3.1 T6	8033/3
+#8	ICD-O-3.1 T1	8000/1
+#9	ICD-O-3.1 T5	8560/33
+#10	ICD-O-3.1 T8	8000/6
+#11	SNOMED T3	128632008
+#12	SNOMED T10	128632008
+#13	SNOMED T2	128632008
+#14	SNOMED T4	128632008
+#15	SNOMED T7	1240414004
+#16	SNOMED T9	1240414004
+#17	SNOMED T6	23109009
+#18	SNOMED T1	86251006
+#19	SNOMED T5	59367005
+#20	SNOMED T8	14799000

@@ -1,0 +1,16 @@
+T1	disease 192 204	rectorragies
+T2	disease 368 373	RS3PE
+T3	disease 1511 1525	lésion érosive
+T4	disease 1872 1924	bronchiectasie cylindrique à paroi mince dans le LII
+T5	disease 1999 2069	vessie avec épaississement du plancher vésical, diverticules multiples
+T6	disease 2071 2095	hypertrophie prostatique
+T7	disease 2228 2297	diverticules et des plaques d'anthracose dans tout l'arbre bronchique
+T8	disease 3218 3235	maladie de Poncet
+#1	SNOMED T1	12063002
+#2	SNOMED T2	445345005
+#3	SNOMED T5	197866008
+#4	SNOMED T6	266569009
+#5	SNOMED T7	29422001
+#6	SNOMED T4	83457000
+#7	SNOMED T8	63712002
+#8	SNOMED T3	15498001

@@ -1,0 +1,14 @@
+T1	disease 43 66	diabète sucré de type 2
+T2	disease 70 104	hypertension artérielle systémique
+T3	disease 110 123	hypothyroïdie
+T4	disease 198 227	insuffisance rénale chronique
+T5	disease 558 625	lésion violacée s'est ajoutée sur la face dorsale du gland du pénis
+T6	disease 1449 1455	abcédé
+T7	disease 1472 1499	artériosclérose oblitérante
+#1	SNOMED T1	44054006
+#2	SNOMED T2	38341003
+#3	SNOMED T7	361133006
+#4	SNOMED T3	40930008
+#5	SNOMED T4	90688005
+#6	SNOMED T5	33958003
+#7	SNOMED T6	128477000

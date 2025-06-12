@@ -1,0 +1,15 @@
+T1	disease 139 179	lésion au niveau de l'angle mandibulaire
+T2	disease 350 374	antécédents de tabagisme
+T3	disease 350 388	antécédents de tabagisme, d'alcoolisme
+T4	disease 350 406	antécédents de tabagisme, d'alcoolisme et de toxicomanie
+T5	disease 467 476	allergies
+T6	disease 1417 1423	lésion
+T7	disease 1956 1982	odontome complexe immature
+T8	disease 1987 2015	fibroodontome améloblastique
+T9	disease 2021 2062	tumeur odontogène épithéliale calcifiante
+T10	disease 2069 2107	kyste odontogène épithélial calcifiant
+T11	disease 2760 2766	lésion
+T12	disease 2786 2855	odontome en formation avec la présence de changements améloblastiques
+T13	disease 3529 3550	fracture pathologique
+T14	disease 3762 3790	fibroodontome améloblastique
+T15	disease 3850 3856	lésion

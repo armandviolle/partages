@@ -1,0 +1,25 @@
+T1	disease 271 296	insuffisance respiratoire
+T2	disease 408 430	pneumothorax bilatéral
+T3	disease 436 451	pneumomédiastin
+T4	disease 878 891	grippe A et B
+T5	disease 1049 1069	infection par le VIH
+T6	disease 1126 1156	pneumonie communautaire sévère
+T7	disease 1731 1744	histoplasmose
+T8	disease 2058 2102	pneumonie ou d'une vascularite organisatrice
+T9	disease 2077 2088	vascularite
+T10	disease 2166 2180	IR progressive
+T11	disease 2194 2207	choc septique
+T12	disease 2216 2230	néphrotoxicité
+T13	disease 2510 2544	syndrome rénopulmonaire auto-immun
+T14	disease 3070 3137	pneumonie à adénovirus avec syndrome de détresse respiratoire aiguë
+T15	disease 3098 3137	syndrome de détresse respiratoire aiguë
+T16	disease 3200 3208	IR aiguë
+T17	disease 4249 4255	anémie
+T18	disease 4283 4312	saignements intra-alvéolaires
+T19	disease 4337 4422	hématotoxicité peut avoir été renforcée par un traitement antérieur par le linézolide
+T20	disease 4600 4626	insuffisance rénale sévère
+T21	disease 5474 5488	néphrotoxicité
+T22	disease 6299 6315	infection virale
+T23	disease 6459 6552	insuffisance respiratoire réfractaire secondaire à un syndrome de détresse respiratoire aiguë
+T24	disease 6513 6552	syndrome de détresse respiratoire aiguë
+T25	disease 6690 6738	fibrose croissante dans le parenchyme pulmonaire

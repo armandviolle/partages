@@ -1,0 +1,14 @@
+T1	disease 71 140	lithiase rénale gauche, lithiase pyélocalicielle urétérale inférieure
+T2	disease 197 210	hydronéphrose
+T3	disease 275 287	hypertension
+T4	disease 317 325	hématome
+T5	disease 502 526	hématome sous-capsulaire
+T6	disease 618 626	hématome
+T7	disease 736 744	hématome
+#1	SNOMED T1	95570007
+#2	SNOMED T2	43064006
+#3	SNOMED T3	38341003
+#4	SNOMED T4	385494008
+#5	SNOMED T6	385494008
+#6	SNOMED T7	385494008
+#7	SNOMED T5	385494008

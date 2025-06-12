@@ -1,0 +1,6 @@
+T1	disease 696 725	calcifications dans la tumeur
+T2	disease 1324 1337	Neuroblastome
+T3	disease 2066 2080	myofibromatose
+#1	SNOMED T2	432328008
+#2	SNOMED T3	253043004
+#3	SNOMED T1	108369006

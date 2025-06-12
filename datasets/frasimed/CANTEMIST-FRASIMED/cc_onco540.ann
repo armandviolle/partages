@@ -1,0 +1,17 @@
+T1	morphology-onco 221 235	adénocarcinome
+T2	morphology-onco 450 506	carcinome canalaire infiltrant de grade 3 du sein gauche
+T3	morphology-onco 680 689	métastase
+T4	morphology-onco 2744 2814	Carcinome canalaire infiltrant du sein de stade IV dû à des métastases
+T5	morphology-onco 3824 3902	adénocarcinome du côlon de stade IV a été diagnostiqué en raison de métastases
+T6	morphology-onco 4133 4145	métastatique
+#1	ICD-O-3.1 T1	8140/3
+#2	ICD-O-3.1 T6	8000/6
+#3	ICD-O-3.1 T3	8000/6
+#4	ICD-O-3.1 T2	8500/33
+#5	ICD-O-3.1 T4	8500/6
+#6	ICD-O-3.1 T5	8140/6
+#7	SNOMED T1	1187332001
+#8	SNOMED T6	14799000
+#9	SNOMED T3	14799000
+#10	SNOMED T2	58477004
+#11	SNOMED T5	4590003

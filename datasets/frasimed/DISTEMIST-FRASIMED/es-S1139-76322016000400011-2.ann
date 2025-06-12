@@ -1,0 +1,6 @@
+T1	disease 196 210	déshydratation
+T2	disease 522 537	pneumomédiastin
+T3	disease 543 628	emphysème sous-cutané dans la région du cou et de la partie supérieure de la poitrine
+#1	SNOMED T2	16838000
+#2	SNOMED T3	3830001
+#3	SNOMED T1	34095006

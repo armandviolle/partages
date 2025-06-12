@@ -1,0 +1,36 @@
+T1	disease 328 351	diabète sucré de type 2
+T2	disease 400 420	hypercholestérolémie
+T3	disease 467 490	hypertension artérielle
+T4	disease 565 586	accidents vasculaires
+T5	disease 642 677	sténose sévère de la valve aortique
+T6	disease 691 720	insuffisance aortique modérée
+T7	disease 1063 1074	endocardite
+T8	disease 1080 1118	altérations valvulaires fonctionnelles
+T9	disease 1701 1712	endocardite
+T10	disease 2441 2454	splénomégalie
+T11	disease 2730 2746	lymphadénopathie
+T12	disease 3357 3384	hypoplasie du sinus frontal
+T13	disease 3454 3465	endocardite
+T14	disease 3469 3474	abcès
+T15	disease 3481 3489	fistules
+T16	disease 4583 4594	endocardite
+T17	disease 4616 4623	lésions
+T18	disease 4866 4891	complications valvulaires
+#1	SNOMED T16	56819008
+#2	SNOMED T1	44054006
+#3	SNOMED T2	13644009
+#4	SNOMED T7	56819008
+#5	SNOMED T8	40445007
+#6	SNOMED T3	38341003
+#7	SNOMED T5	60573004
+#8	SNOMED T6	60234000
+#9	SNOMED T13	56819008
+#10	SNOMED T11	30746006
+#11	SNOMED T9	56819008
+#12	SNOMED T14	128477000
+#13	SNOMED T15	428794004
+#14	SNOMED T17	157670007
+#15	SNOMED T4	230690007
+#16	SNOMED T10	16294009
+#17	SNOMED T12	860820000
+#18	SNOMED T18	368009

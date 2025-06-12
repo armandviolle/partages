@@ -1,0 +1,21 @@
+T1	morphology-onco 1363 1416	carcinome indifférencié infiltrant à petites cellules
+T2	morphology-onco 1958 2001	carcinome neuroendocrine à petites cellules
+T3	morphology-onco 2062 2064	M0
+T4	morphology-onco 2123 2141	maladie à distance
+T5	morphology-onco 2346 2389	carcinome neuroendocrine à petites cellules
+T6	morphology-onco 2675 2684	métastase
+T7	morphology-onco 2746 2789	carcinome neuroendocrine à petites cellules
+#1	ICD-O-3.1 T3	8000/6
+#2	ICD-O-3.1 T4	8000/6
+#3	ICD-O-3.1 T6	8000/6
+#4	ICD-O-3.1 T1	8041/34/H
+#5	ICD-O-3.1 T2	8041/3
+#6	ICD-O-3.1 T5	8041/3
+#7	ICD-O-3.1 T7	8041/3
+#8	SNOMED T3	14799000
+#9	SNOMED T4	14799000
+#10	SNOMED T6	14799000
+#11	SNOMED T1	11010461000119101
+#12	SNOMED T2	11010461000119101
+#13	SNOMED T5	11010461000119101
+#14	SNOMED T7	11010461000119101

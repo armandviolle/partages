@@ -1,0 +1,49 @@
+T1	morphology-onco 428 434	tumeur
+T2	morphology-onco 448 454	Tumeur
+T3	morphology-onco 688 722	tumeur stromale gastro-intestinale
+T4	morphology-onco 774 778	GANT
+T5	morphology-onco 1061 1081	implants péritonéaux
+T6	morphology-onco 1124 1137	carcinomatose
+T7	morphology-onco 1167 1201	tumeur stromale gastro-intestinale
+T8	morphology-onco 1397 1417	implants péritonéaux
+T9	morphology-onco 1661 1670	métastase
+T10	morphology-onco 1902 1922	implants péritonéaux
+T11	morphology-onco 1989 2007	métastases de GIST
+T12	morphology-onco 2294 2341	rechute a été constatée au niveau périhépatique
+T13	morphology-onco 2579 2615	masse possible dans la fosse iliaque
+T14	morphology-onco 2694 2712	lésions pelviennes
+T15	morphology-onco 3414 3437	rechute au niveau sacré
+T16	morphology-onco 3490 3504	métastase GIST
+T17	morphology-onco 3650 3659	malignité
+#1	ICD-O-3.1 T4	8936/3
+#2	ICD-O-3.1 T7	8936/3
+#3	ICD-O-3.1 T2	8000/1
+#4	ICD-O-3.1 T6	8010/9
+#5	ICD-O-3.1 T5	8000/6
+#6	ICD-O-3.1 T8	8000/6
+#7	ICD-O-3.1 T10	8000/6
+#8	ICD-O-3.1 T17	8000/3
+#9	ICD-O-3.1 T9	8000/6
+#10	ICD-O-3.1 T1	8000/1
+#11	ICD-O-3.1 T3	8936/3
+#12	ICD-O-3.1 T11	8936/6
+#13	ICD-O-3.1 T12	8000/6
+#14	ICD-O-3.1 T14	8000/6
+#15	ICD-O-3.1 T15	8000/6
+#16	ICD-O-3.1 T16	8936/6
+#17	ICD-O-3.1 T13	8000/6
+#18	SNOMED T4	128756002
+#19	SNOMED T7	128756002
+#20	SNOMED T2	86251006
+#21	SNOMED T6	307593001
+#22	SNOMED T5	14799000
+#23	SNOMED T8	14799000
+#24	SNOMED T10	14799000
+#25	SNOMED T17	1240414004
+#26	SNOMED T9	14799000
+#27	SNOMED T1	86251006
+#28	SNOMED T3	128756002
+#29	SNOMED T12	14799000
+#30	SNOMED T14	14799000
+#31	SNOMED T15	14799000
+#32	SNOMED T13	14799000

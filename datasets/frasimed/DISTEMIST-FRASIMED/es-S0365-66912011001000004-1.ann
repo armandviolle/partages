@@ -1,0 +1,15 @@
+T1	disease 132 151	strabisme divergent
+T2	disease 487 522	décollement de la rétine inférieure
+T3	disease 536 595	voile vitré avec une traction rétinienne jusqu'à la papille
+T4	disease 606 629	modification rétinienne
+T5	disease 857 920	origine traumatique a été attribuée au décollement de la rétine
+T6	disease 986 1010	décollement de la rétine
+T7	disease 1159 1207	altération au niveau de l'épithélium pigmentaire
+T8	disease 1245 1312	brides vitrées ont été observées dans l'arcade temporale inférieure
+T9	disease 1366 1392	rétinoschisis périphérique
+T10	disease 1366 1434	rétinoschisis périphérique comme origine du décollement de la rétine
+T11	disease 1410 1434	décollement de la rétine
+T12	disease 1793 1816	rétinoschisis lié à l'X
+T13	disease 2184 2240	rétinoschisis périphérique temporal inférieur dans l'œil
+T14	disease 2263 2314	fibrose résiduelle de l'arcade temporale inférieure
+T15	disease 2331 2345	schisis fovéal

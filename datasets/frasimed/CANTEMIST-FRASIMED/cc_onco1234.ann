@@ -1,0 +1,15 @@
+T1	morphology-onco 414 444	carcinome canalaire infiltrant
+T2	morphology-onco 766 783	cellules malignes
+T3	morphology-onco 792 806	adénocarcinome
+T4	morphology-onco 885 910	récidive au niveau osseux
+T5	morphology-onco 1142 1156	adénocarcinome
+#1	ICD-O-3.1 T3	8140/3
+#2	ICD-O-3.1 T5	8140/3
+#3	ICD-O-3.1 T1	8500/3
+#4	ICD-O-3.1 T2	8001/3
+#5	ICD-O-3.1 T4	8000/6
+#6	SNOMED T3	1187332001
+#7	SNOMED T5	1187332001
+#8	SNOMED T1	58477004
+#9	SNOMED T2	88400008
+#10	SNOMED T4	14799000

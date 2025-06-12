@@ -1,0 +1,26 @@
+T1	morphology-onco 1498 1516	cellules tumorales
+T2	morphology-onco 2021 2048	syndrome lymphoprolifératif
+T3	morphology-onco 2447 2456	néoplasie
+T4	morphology-onco 2657 2677	implants péritonéaux
+T5	morphology-onco 2824 2833	malignité
+T6	morphology-onco 3026 3041	néoplasme malin
+T7	morphology-onco 3055 3102	tumeur desmoplastique à petites cellules rondes
+T8	morphology-onco 3104 3109	DCRCT
+T9	morphology-onco 3500 3567	CRPSD intra-abdominal de stade IV en raison d'une atteinte pleurale
+#1	ICD-O-3.1 T1	8001/1
+#2	ICD-O-3.1 T4	8000/6
+#3	ICD-O-3.1 T5	8000/3
+#4	ICD-O-3.1 T3	8000/1
+#5	ICD-O-3.1 T6	8000/3
+#6	ICD-O-3.1 T7	8806/3
+#7	ICD-O-3.1 T8	8806/3
+#8	ICD-O-3.1 T9	8806/6
+#9	ICD-O-3.1 T2	9970/1
+#10	SNOMED T1	39577004
+#11	SNOMED T4	14799000
+#12	SNOMED T5	1240414004
+#13	SNOMED T3	86251006
+#14	SNOMED T6	1240414004
+#15	SNOMED T7	1156420003
+#16	SNOMED T8	1156420003
+#17	SNOMED T2	277466009

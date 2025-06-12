@@ -1,0 +1,8 @@
+T1	disease 345 396	lésion nodulaire solide dans la tête de l'épididyme
+T2	disease 458 492	tumeur adénomatoïde de l'épididyme
+T3	disease 607 650	tumeur nodulaire dans la queue épididymaire
+T4	disease 1236 1270	tumeur adénomatoïde de l'épididyme
+#1	SNOMED T1	118657002
+#2	SNOMED T2	449052009
+#3	SNOMED T4	449052009
+#4	SNOMED T3	87860000

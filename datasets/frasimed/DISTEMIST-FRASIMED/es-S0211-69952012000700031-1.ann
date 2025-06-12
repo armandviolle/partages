@@ -1,0 +1,20 @@
+T1	disease 97 132	maladie inflammatoire de l'intestin
+T2	disease 273 305	septicémie d'origine intestinale
+T3	disease 311 343	défaillance de plusieurs organes
+T4	disease 489 523	néphropathie tubulo-interstitielle
+T5	disease 579 721	lésions cutanées érythémateuses, sur des zones indurées, prurigineuses et douloureuses sur le dos du pied droit et la face interne des cuisses
+T6	disease 829 838	cellulite
+T7	disease 901 911	ulcération
+T8	disease 975 988	cryptococcose
+T9	disease 1986 1993	lésions
+T10	disease 2036 2047	ulcérations
+#1	SNOMED T1	24526004
+#2	SNOMED T2	128070006
+#3	SNOMED T3	57653000
+#4	SNOMED T4	28689008
+#5	SNOMED T5	95324001+118932009+128135006
+#6	SNOMED T6	128045006
+#7	SNOMED T8	42386007
+#8	SNOMED T10	429040005
+#9	SNOMED T7	429040005
+#10	SNOMED T9	157670007

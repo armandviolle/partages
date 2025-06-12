@@ -1,0 +1,12 @@
+T1	morphology-onco 321 342	carcinome épidermoïde
+T2	morphology-onco 1540 1550	métastases
+T3	morphology-onco 2076 2097	carcinome épidermoïde
+T4	morphology-onco 2153 2174	CARCINOME ÉPIDERMOÏDE
+#1	ICD-O-3.1 T4	8070/3
+#2	ICD-O-3.1 T1	8070/3
+#3	ICD-O-3.1 T3	8070/3
+#4	ICD-O-3.1 T2	8000/6
+#5	SNOMED T4	1162767002
+#6	SNOMED T1	1162767002
+#7	SNOMED T3	1162767002
+#8	SNOMED T2	14799000

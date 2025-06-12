@@ -1,0 +1,6 @@
+T1	disease 70 83	mucoviscidose
+T2	disease 1084 1098	hypomagnésémie
+T3	disease 2658 2691	effets indésirables du médicament
+#1	SNOMED T1	190905008
+#2	SNOMED T3	62014003
+#3	SNOMED T2	190855004

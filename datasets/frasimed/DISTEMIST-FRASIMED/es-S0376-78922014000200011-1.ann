@@ -1,0 +1,10 @@
+T1	disease 382 417	neuropathie du nerf sciatique droit
+T2	disease 647 676	neuropathie du nerf sciatique
+T3	disease 1387 1393	lipome
+T4	disease 1441 1465	liposarcome de bas grade
+T5	disease 1516 1584	compression du nerf sciatique au niveau du tiers distal de la cuisse
+#1	SNOMED T5	230638003
+#2	SNOMED T2	52585001
+#3	SNOMED T1	291931000119102
+#4	SNOMED T3	93163002
+#5	SNOMED T4	254828009

@@ -1,0 +1,20 @@
+T1	disease 186 247	paralysie périphérique de la branche cervicale du nerf facial
+T2	disease 253 287	déviation de la commissure labiale
+T3	disease 462 510	lymphatiques palpables significatifs dans le cou
+T4	disease 641 658	paralysie faciale
+T5	disease 843 887	ganglions de rang adénomégalique dans le cou
+T6	disease 1296 1343	tumeur laxative, rouge vin, d'aspect vasculaire
+T7	disease 1528 1534	lésion
+T8	disease 1555 1580	tumeur vasculaire bénigne
+T9	disease 1782 1799	paralysie faciale
+T10	disease 1924 1956	hémangiome capillaire parotidien
+#1	SNOMED T6	55342001
+#2	SNOMED T4	280816001
+#3	SNOMED T5	274744005
+#4	SNOMED T1	449916008
+#5	SNOMED T2	118940003
+#6	SNOMED T8	92017000
+#7	SNOMED T3	127086001
+#8	SNOMED T9	280816001
+#9	SNOMED T10	402867006
+#10	SNOMED T7	417163006

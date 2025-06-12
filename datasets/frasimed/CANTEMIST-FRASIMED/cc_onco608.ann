@@ -1,0 +1,18 @@
+T1	morphology-onco 200 209	néoplasie
+T2	morphology-onco 222 245	glioblastome multiforme
+T3	morphology-onco 1027 1045	carcinome thymique
+T4	morphology-onco 1076 1094	carcinome thymique
+T5	morphology-onco 2853 2871	Carcinome thymique
+T6	morphology-onco 5495 5513	carcinome thymique
+#1	ICD-O-3.1 T5	8586/3
+#2	ICD-O-3.1 T3	8586/3
+#3	ICD-O-3.1 T4	8586/3
+#4	ICD-O-3.1 T6	8586/3
+#5	ICD-O-3.1 T2	9440/3
+#6	ICD-O-3.1 T1	8000/1
+#7	SNOMED T5	444374006
+#8	SNOMED T3	444374006
+#9	SNOMED T4	444374006
+#10	SNOMED T6	444374006
+#11	SNOMED T2	1163375002
+#12	SNOMED T1	86251006

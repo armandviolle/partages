@@ -1,0 +1,26 @@
+T1	disease 45 67	tuberculose pulmonaire
+T2	disease 83 105	carcinome de la vessie
+T3	disease 193 206	diabète sucré
+T4	disease 210 233	hypertension artérielle
+T5	disease 239 252	hyperuricémie
+T6	disease 382 399	crises de dyspnée
+T7	disease 419 435	éruption cutanée
+T8	disease 614 617	NET
+T9	disease 634 687	éruption érythémateuse maculopapulaire et vésiculaire
+T10	disease 757 782	insuffisance respiratoire
+T11	disease 798 824	légère insuffisance rénale
+T12	disease 845 856	hypotension
+T13	disease 969 985	lésions cutanées
+#1	SNOMED T8	768962006
+#2	SNOMED T1	154283005
+#3	SNOMED T9	823996003+247471006
+#4	SNOMED T2	255108000
+#5	SNOMED T10	409623005
+#6	SNOMED T3	73211009
+#7	SNOMED T11	723188008
+#8	SNOMED T4	38341003
+#9	SNOMED T5	35885006
+#10	SNOMED T12	45007003
+#11	SNOMED T6	267036007
+#12	SNOMED T7	271807003
+#13	SNOMED T13	95324001

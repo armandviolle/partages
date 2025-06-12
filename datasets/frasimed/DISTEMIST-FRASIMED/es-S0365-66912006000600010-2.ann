@@ -1,0 +1,10 @@
+T1	disease 61 87	perte de vision bilatérale
+T2	disease 267 276	épilepsie
+T3	disease 424 449	scotome central bilatéral
+T4	disease 480 503	maculopathie bilatérale
+T5	disease 640 655	perte de vision
+#1	SNOMED T1	105597003
+#2	SNOMED T2	84757009
+#3	SNOMED T3	346991000119107
+#4	SNOMED T4	15998351000119102
+#5	SNOMED T5	267631003

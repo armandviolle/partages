@@ -1,0 +1,8 @@
+T1	morphology-onco 54 129	carcinome canalaire infiltrant de stade IV du sein gauche (atteinte osseuse
+T2	morphology-onco 1066 1076	métastases
+T3	morphology-onco 1149 1159	métastases
+#1	ICD-O-3.1 T2	8000/6
+#2	ICD-O-3.1 T3	8000/6
+#3	ICD-O-3.1 T1	8500/6
+#4	SNOMED T2	14799000
+#5	SNOMED T3	14799000

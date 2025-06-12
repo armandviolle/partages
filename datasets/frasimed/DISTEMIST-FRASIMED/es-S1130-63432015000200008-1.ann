@@ -1,0 +1,17 @@
+T1	disease 33 42	ex-fumeur
+T2	disease 81 93	hypertension
+T3	disease 98 110	dyslipidémie
+T4	disease 117 140	cardiopathie ischémique
+T5	disease 150 176	infarctus aigu du myocarde
+T6	disease 255 273	néoplasie du côlon
+T7	disease 268 330	côlon avec le résultat anatomopathologique d'un adénocarcinome
+T8	disease 867 912	infection des voies respiratoires inférieures
+T9	disease 1454 1486	insuffisance respiratoire sévère
+T10	disease 1672 1687	pneumonie grave
+T11	disease 1833 1858	thromboembolie pulmonaire
+T12	disease 2063 2136	insuffisance respiratoire sévère secondaire à une pneumonie communautaire
+T13	disease 2113 2122	pneumonie
+T14	disease 2157 2200	toxicité pulmonaire due à des cytostatiques
+T15	disease 2215 2260	syndrome de détresse respiratoire de l'adulte
+T16	disease 2537 2569	pneumonie interstitielle diffuse
+T17	disease 2760 2797	toxicité pulmonaire aux cytostatiques

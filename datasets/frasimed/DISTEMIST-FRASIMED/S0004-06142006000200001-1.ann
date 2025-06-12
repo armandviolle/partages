@@ -1,0 +1,14 @@
+T1	disease 34 48	hernie hiatale
+T2	disease 1017 1029	endométriose
+T3	disease 1272 1301	foyer endométriotique pelvien
+T4	disease 1312 1392	adhésion aux parois pelviennes et à la vessie en solidarité avec le corps utérin
+T5	disease 1642 1680	pathologie dans les organes abdominaux
+T6	disease 1864 1876	endométriose
+T7	disease 2582 2594	endométriose
+#1	SNOMED T1	84089009
+#2	SNOMED T2	129103003
+#3	SNOMED T4	62394006
+#4	SNOMED T5	118948005
+#5	SNOMED T6	129103003
+#6	SNOMED T7	129103003
+#7	SNOMED T3	26681001

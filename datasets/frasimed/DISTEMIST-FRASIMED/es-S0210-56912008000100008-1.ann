@@ -1,0 +1,10 @@
+T1	disease 415 428	IAM inférieur
+T2	disease 820 822	SB
+T3	disease 1388 1412	arythmies ventriculaires
+T4	disease 1590 1643	sténose proximale (95 %) de l'artère coronaire droite
+T5	disease 1861 1863	SB
+#1	SNOMED T1	73795002
+#2	SNOMED T2	418818005
+#3	SNOMED T3	44103008
+#4	SNOMED T5	418818005
+#5	SNOMED T4	876856005

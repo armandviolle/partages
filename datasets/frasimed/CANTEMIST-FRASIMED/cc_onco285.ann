@@ -1,0 +1,38 @@
+T1	morphology-onco 1298 1314	tumeur primitive
+T2	morphology-onco 1316 1328	angiosarcome
+T3	morphology-onco 1748 1757	malignité
+T4	morphology-onco 5586 5596	métastases
+T5	morphology-onco 5618 5637	lâchages de ballons
+T6	morphology-onco 5725 5735	métastases
+T7	morphology-onco 5891 5901	métastases
+T8	morphology-onco 6193 6200	tumoral
+T9	morphology-onco 6432 6451	lésions pulmonaires
+T10	morphology-onco 6626 6646	tumeur de haut grade
+T11	morphology-onco 6714 6724	métastases
+T12	morphology-onco 7132 7141	néoplasme
+T13	morphology-onco 7218 7255	ANGIOSARCOME CARDIQUE AVEC METASTASIS
+#1	ICD-O-3.1 T2	9120/3
+#2	ICD-O-3.1 T9	8000/6
+#3	ICD-O-3.1 T3	8000/3
+#4	ICD-O-3.1 T4	8000/6
+#5	ICD-O-3.1 T6	8000/6
+#6	ICD-O-3.1 T7	8000/6
+#7	ICD-O-3.1 T11	8000/6
+#8	ICD-O-3.1 T12	8000/1
+#9	ICD-O-3.1 T5	8000/6
+#10	ICD-O-3.1 T1	8000/1/H
+#11	ICD-O-3.1 T8	8000/1
+#12	ICD-O-3.1 T10	8000/14
+#13	ICD-O-3.1 T13	9120/6
+#14	SNOMED T2	39000009
+#15	SNOMED T9	14799000
+#16	SNOMED T3	1240414004
+#17	SNOMED T4	14799000
+#18	SNOMED T6	14799000
+#19	SNOMED T7	14799000
+#20	SNOMED T11	14799000
+#21	SNOMED T12	86251006
+#22	SNOMED T5	14799000
+#23	SNOMED T1	86251006
+#24	SNOMED T8	86251006
+#25	SNOMED T10	86251006

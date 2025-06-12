@@ -1,0 +1,20 @@
+T1	disease 44 67	hypertension artérielle
+T2	disease 72 96	diabète sucré de type 2,
+T3	disease 99 110	ostéoporose
+T4	disease 117 147	coliques néphrétiques répétées
+T5	disease 979 997	hyperbilirubinémie
+T6	disease 1726 1749	rupture du disque L4-L5
+T7	disease 1820 1866	abcès dans les muscles paravertébraux et psoas
+T8	disease 1909 1949	abcès épiduraux situés à L4-L5 et D12-L4
+T9	disease 2057 2069	œdème osseux
+T10	disease 2090 2100	spondylite
+T11	disease 2117 2132	spondylodiscite
+T12	disease 2308 2342	processus inflammatoire-infectieux
+T13	disease 2512 2537	infection des tissus mous
+T14	disease 2478 2493	spondylodiscite
+T15	disease 3138 3196	fibrillation auriculaire avec réponse ventriculaire rapide
+T16	disease 3203 3227	arrêt cardiorespiratoire
+T17	disease 3295 3323	infection urinaire à E. coli
+T18	disease 3341 3374	arthrite septique polyarticulaire
+T19	disease 3382 3397	spondylodiscite
+T20	disease 3401 3454	abcès épiduraux, des muscles psoas et dorso-lombaires

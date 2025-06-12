@@ -1,0 +1,26 @@
+T1	disease 77 143	insuffisance rénale chronique secondaire à une néphroangiosclérose
+T2	disease 323 327	BPCO
+T3	disease 333 345	hypertension
+T4	disease 352 367	ulcère duodénal
+T5	disease 373 390	sténose du pylore
+T6	disease 498 609	lésion infiltrante impliquant les 2/3 supérieurs du rein gauche avec une implication de l'espace péricapsulaire
+T7	disease 683 719	gammapathie monoclonale avec des IgM
+T8	disease 917 933	lésions lytiques
+T9	disease 994 1021	gammapathie monoclonale IgM
+T10	disease 1052 1063	myélome IgM
+T11	disease 1170 1208	lymphome B primaire rénal de type MALT
+T12	disease 1210 1243	mucosa-associated lymphoid tumour
+T13	disease 1752 1774	lésions inflammatoires
+#1	SNOMED T11	445269007
+#2	SNOMED T9	285426000
+#3	SNOMED T2	13645005
+#4	SNOMED T3	38341003
+#5	SNOMED T4	51868009
+#6	SNOMED T5	367403001
+#7	SNOMED T6	126880001
+#8	SNOMED T12	277622004
+#9	SNOMED T1	49220004
+#10	SNOMED T10	109989006
+#11	SNOMED T7	285426000
+#12	SNOMED T8	43944003
+#13	SNOMED T13	708039003

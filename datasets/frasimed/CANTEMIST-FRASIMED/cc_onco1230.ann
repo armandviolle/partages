@@ -1,0 +1,53 @@
+T1	morphology-onco 247 271	carcinome neuroendocrine
+T2	morphology-onco 759 771	néoformation
+T3	morphology-onco 913 927	neuroendocrine
+T4	morphology-onco 1170 1188	lésions hépatiques
+T5	morphology-onco 1279 1289	métastases
+T6	morphology-onco 1342 1366	carcinome neuroendocrine
+T7	morphology-onco 2554 2572	lésions hépatiques
+T8	morphology-onco 2808 2832	néoplasie neuroendocrine
+T9	morphology-onco 3035 3045	métastases
+T10	morphology-onco 3371 3389	lésions hépatiques
+T11	morphology-onco 3518 3525	tumeurs
+T12	morphology-onco 3681 3697	lésion hépatique
+T13	morphology-onco 4081 4132	métastase d'un carcinome neuroendocrine de grade II
+T14	morphology-onco 4187 4234	carcinome neuroendocrine modérément différencié
+T15	morphology-onco 4403 4450	carcinome neuroendocrine modérément différencié
+T16	morphology-onco 5117 5171	lésions ont été observées dans le parenchyme hépatique
+T17	morphology-onco 5936 5954	lésions hépatiques
+T18	morphology-onco 6289 6297	tumorale
+#1	ICD-O-3.1 T1	8246/3
+#2	ICD-O-3.1 T6	8246/3
+#3	ICD-O-3.1 T4	8000/6
+#4	ICD-O-3.1 T7	8000/6
+#5	ICD-O-3.1 T10	8000/6
+#6	ICD-O-3.1 T17	8000/6
+#7	ICD-O-3.1 T12	8000/6
+#8	ICD-O-3.1 T5	8000/6
+#9	ICD-O-3.1 T9	8000/6
+#10	ICD-O-3.1 T2	8000/1
+#11	ICD-O-3.1 T3	8240/3
+#12	ICD-O-3.1 T18	8000/1
+#13	ICD-O-3.1 T11	8000/1
+#14	ICD-O-3.1 T8	8240/3
+#15	ICD-O-3.1 T13	8249/6
+#16	ICD-O-3.1 T15	8249/3
+#17	ICD-O-3.1 T14	8249/3
+#18	ICD-O-3.1 T16	8000/6
+#19	SNOMED T1	55937004
+#20	SNOMED T6	55937004
+#21	SNOMED T4	14799000
+#22	SNOMED T7	14799000
+#23	SNOMED T10	14799000
+#24	SNOMED T17	14799000
+#25	SNOMED T12	14799000
+#26	SNOMED T5	14799000
+#27	SNOMED T9	14799000
+#28	SNOMED T2	86251006
+#29	SNOMED T3	189607006
+#30	SNOMED T18	86251006
+#31	SNOMED T11	86251006
+#32	SNOMED T8	189607006
+#33	SNOMED T15	1157139005
+#34	SNOMED T14	1157139005
+#35	SNOMED T16	14799000

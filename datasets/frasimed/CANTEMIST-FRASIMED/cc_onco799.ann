@@ -1,0 +1,17 @@
+T1	morphology-onco 2442 2475	carcinome pulmonaire microcytaire
+T2	morphology-onco 2636 2654	lésions hépatiques
+T3	morphology-onco 2701 2723	foyers ostéoblastiques
+T4	morphology-onco 2797 2807	métastases
+T5	morphology-onco 2864 2916	carcinome microcytaire de stade IV (maladie étendue)
+T6	morphology-onco 3591 3619	carcinome à petites cellules
+#1	ICD-O-3.1 T6	8041/3
+#2	ICD-O-3.1 T1	8041/3
+#3	ICD-O-3.1 T4	8000/6
+#4	ICD-O-3.1 T2	8000/6
+#5	ICD-O-3.1 T3	8000/6
+#6	ICD-O-3.1 T5	8041/6
+#7	SNOMED T6	11010461000119101
+#8	SNOMED T1	11010461000119101
+#9	SNOMED T4	14799000
+#10	SNOMED T2	14799000
+#11	SNOMED T3	14799000

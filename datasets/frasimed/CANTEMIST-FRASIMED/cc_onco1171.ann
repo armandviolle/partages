@@ -1,0 +1,30 @@
+T1	morphology-onco 62 98	carcinome à cellules de la granulosa
+T2	morphology-onco 216 269	carcinome ovarien à cellules de la granulosa E.IIA G1
+T3	morphology-onco 471 477	tumeur
+T4	morphology-onco 557 624	métastases d'une tumeur à cellules de la granulosa peu différenciée
+T5	morphology-onco 1236 1242	tumeur
+T6	morphology-onco 1499 1508	malignité
+T7	morphology-onco 1749 1820	rechute tumorale abdominale due à une tumeur à cellules de la granulosa
+T8	morphology-onco 2170 2241	métastase due à un carcinome à cellules de la granulosa peu différencié
+T9	morphology-onco 2328 2361	tumeur à cellules de la granulosa
+T10	morphology-onco 2675 2715	lésion hépatique occupant l'espace (LOE)
+T11	morphology-onco 2945 2962	maladie hépatique
+#1	ICD-O-3.1 T11	8000/6
+#2	ICD-O-3.1 T6	8000/3
+#3	ICD-O-3.1 T9	8620/1
+#4	ICD-O-3.1 T3	8000/1
+#5	ICD-O-3.1 T5	8000/1
+#6	ICD-O-3.1 T1	8620/3
+#7	ICD-O-3.1 T2	8620/31
+#8	ICD-O-3.1 T4	8620/63
+#9	ICD-O-3.1 T8	8620/63
+#10	ICD-O-3.1 T10	8000/6
+#11	ICD-O-3.1 T7	8620/63
+#12	SNOMED T11	14799000
+#13	SNOMED T6	1240414004
+#14	SNOMED T9	46585005
+#15	SNOMED T3	86251006
+#16	SNOMED T5	86251006
+#17	SNOMED T1	18861007
+#18	SNOMED T2	18861007
+#19	SNOMED T10	14799000

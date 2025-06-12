@@ -1,0 +1,12 @@
+T1	morphology-onco 248 260	néoformation
+T2	morphology-onco 935 944	carcinome
+T3	morphology-onco 1143 1173	adénocarcinome peu différencié
+T4	morphology-onco 2548 2569	progression hépatique
+#1	ICD-O-3.1 T2	8010/3
+#2	ICD-O-3.1 T1	8000/1
+#3	ICD-O-3.1 T3	8140/33
+#4	ICD-O-3.1 T4	8000/6
+#5	SNOMED T2	1187425009
+#6	SNOMED T1	86251006
+#7	SNOMED T3	1187332001
+#8	SNOMED T4	14799000

@@ -1,0 +1,32 @@
+T1	disease 68 119	dermatite sur le visage, le tronc et les extrémités
+T2	disease 192 216	DM avec atteinte cutanée
+T3	disease 472 481	néoplasie
+T4	disease 843 852	dysphagie
+T5	disease 939 975	DM avec l'apparition d'une myopathie
+T6	disease 1091 1156	myopathie inflammatoire dans les muscles proximaux des extrémités
+T7	disease 1301 1376	MD avec une atteinte musculaire et digestive, ainsi qu'une atteinte cutanée
+T8	disease 1620 1629	myopathie
+T9	disease 2088 2102	hépatotoxicité
+T10	disease 2132 2149	effet indésirable
+T11	disease 2609 2618	dysphagie
+T12	disease 2628 2637	dermatite
+T13	disease 3005 3024	effets indésirables
+T14	disease 3208 3241	plaque érythémateuse prurigineuse
+T15	disease 3413 3421	alopécie
+T16	disease 3772 3781	dermatite
+#1	SNOMED T5	396230008
+#2	SNOMED T1	703938007+118930001+400106006+128605003
+#3	SNOMED T8	129565002
+#4	SNOMED T12	703938007
+#5	SNOMED T6	26889001
+#6	SNOMED T2	724876003
+#7	SNOMED T7	396230008+129565002+53619000+95320005
+#8	SNOMED T3	55342001
+#9	SNOMED T13	281647001
+#10	SNOMED T9	427399008
+#11	SNOMED T10	281647001
+#12	SNOMED T14	64144002
+#13	SNOMED T15	56317004
+#14	SNOMED T16	703938007
+#15	SNOMED T4	288939007
+#16	SNOMED T11	288939007

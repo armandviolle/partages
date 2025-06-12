@@ -1,0 +1,10 @@
+T1	disease 71 95	adénocarcinome gastrique
+T2	disease 274 311	allergie à la vitamine B (Neuromade®)
+T3	disease 359 397	fistule de l'anastomose gastrojéjunale
+T4	disease 710 730	nystagmus horizontal
+T5	disease 738 753	ophtalmoparésie
+#1	SNOMED T1	408647009
+#2	SNOMED T2	416098002
+#3	SNOMED T3	235673004
+#4	SNOMED T4	81756001
+#5	SNOMED T5	35158001

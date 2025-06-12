@@ -1,0 +1,18 @@
+T1	disease 145 224	ulcère nécrotique de 4-5 cm de diamètre dans le pilier amygdalien et l'amygdale
+T2	disease 274 295	carcinome épidermoïde
+T3	disease 321 415	adénopathies latéro-cervicales ipsilatérales, à la fois sous-maxillaires et jugulodigastriques
+T4	disease 490 545	carcinome épidermoïde localement avancé de l'oropharynx
+T5	disease 554 556	M0
+T6	disease 1137 1147	hématémèse
+T7	disease 1428 1449	carcinome épidermoïde
+T8	disease 1470 1502	métastase d'un carcinome laryngé
+T9	disease 2025 2051	dissémination métastatique
+#1	SNOMED T1	16485001
+#2	SNOMED T6	8765009
+#3	SNOMED T2	402815007
+#4	SNOMED T3	127087005+127082004
+#5	SNOMED T7	402815007
+#6	SNOMED T8	276975007
+#7	SNOMED T9	128462008
+#8	SNOMED T4	423464009
+#9	SNOMED T5	89474008

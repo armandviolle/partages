@@ -1,0 +1,24 @@
+T1	morphology-onco 90 103	neuroblastome
+T2	morphology-onco 961 981	masse paravertébrale
+T3	morphology-onco 1308 1338	neuroblastome bien différencié
+T4	morphology-onco 2390 2409	lésions vertébrales
+T5	morphology-onco 2447 2456	métastase
+T6	morphology-onco 2548 2587	lésion infiltrante intertrochantérienne
+T7	morphology-onco 2660 2669	métastase
+T8	morphology-onco 2689 2717	progression au niveau osseux
+#1	ICD-O-3.1 T2	8000/6
+#2	ICD-O-3.1 T5	8000/6
+#3	ICD-O-3.1 T7	8000/6
+#4	ICD-O-3.1 T1	9500/3
+#5	ICD-O-3.1 T8	8000/6
+#6	ICD-O-3.1 T3	9500/31
+#7	ICD-O-3.1 T4	8000/6
+#8	ICD-O-3.1 T6	8000/6
+#9	SNOMED T2	14799000
+#10	SNOMED T5	14799000
+#11	SNOMED T7	14799000
+#12	SNOMED T1	432328008
+#13	SNOMED T8	14799000
+#14	SNOMED T3	432328008
+#15	SNOMED T4	14799000
+#16	SNOMED T6	14799000

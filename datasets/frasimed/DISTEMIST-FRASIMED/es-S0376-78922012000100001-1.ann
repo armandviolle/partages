@@ -1,0 +1,14 @@
+T1	disease 49 105	carcinome canalaire infiltrant multifocal du sein gauche
+T2	disease 890 899	carcinome
+T3	disease 928 962	ganglions axillaires métastatiques
+T4	disease 1125 1146	radiodermatite sévère
+T5	disease 1153 1159	sérome
+T6	disease 1584 1613	séquelles de la radiothérapie
+T7	disease 2132 2167	infection pulmonaire postopératoire
+T8	disease 2341 2351	cicatrices
+T9	disease 2497 2509	radiodermite
+T10	disease 2513 2553	adhérences cutanées à la cage thoracique
+T11	disease 3371 3394	radiodermite thoracique
+T12	disease 3850 3891	radiodermite antérieure dans l'hémithorax
+T13	disease 5312 5334	contracture capsulaire
+T14	disease 5417 5497	lambeau du sein qui avait précédemment subi une radiothérapie a subi une nécrose

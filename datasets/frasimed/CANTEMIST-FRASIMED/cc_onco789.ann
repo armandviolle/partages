@@ -1,0 +1,38 @@
+T1	morphology-onco 72 123	adénocarcinome endométrioïde modérément différencié
+T2	morphology-onco 216 225	pT1b1N0M0
+T3	morphology-onco 339 345	tumeur
+T4	morphology-onco 641 685	implant de 6 x 5 cm dans la paroi abdominale
+T5	morphology-onco 1215 1247	adénocarcinome tubulo-papillaire
+T6	morphology-onco 1215 1276	adénocarcinome tubulo-papillaire avec métaplasie malpighienne
+T7	morphology-onco 1766 1774	tumorale
+T8	morphology-onco 2308 2315	maligne
+T9	morphology-onco 3107 3115	tumorale
+T10	morphology-onco 3166 3233	adénocarcinome endométrioïde dans des implants tumoraux intestinaux
+T11	morphology-onco 3819 3828	carcinome
+T12	morphology-onco 3889 3906	implants tumoraux
+T13	morphology-onco 4543 4551	tumorale
+#1	ICD-O-3.1 T11	8010/3
+#2	ICD-O-3.1 T12	8000/6
+#3	ICD-O-3.1 T8	8000/3
+#4	ICD-O-3.1 T3	8000/1
+#5	ICD-O-3.1 T7	8000/1
+#6	ICD-O-3.1 T9	8000/1
+#7	ICD-O-3.1 T13	8000/1
+#8	ICD-O-3.1 T1	8380/32
+#9	ICD-O-3.1 T2	8000/6
+#10	ICD-O-3.1 T4	8000/6
+#11	ICD-O-3.1 T10	8380/6
+#12	ICD-O-3.1 T5	8263/3
+#13	ICD-O-3.1 T6	8570/3
+#14	SNOMED T11	1187425009
+#15	SNOMED T12	14799000
+#16	SNOMED T8	1240414004
+#17	SNOMED T3	86251006
+#18	SNOMED T7	86251006
+#19	SNOMED T9	86251006
+#20	SNOMED T13	86251006
+#21	SNOMED T1	30289006
+#22	SNOMED T2	14799000
+#23	SNOMED T4	14799000
+#24	SNOMED T5	5658009
+#25	SNOMED T6	15176003

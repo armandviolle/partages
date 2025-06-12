@@ -1,0 +1,16 @@
+T1	disease 81 106	hypothyroïdie subclinique
+T2	disease 385 392	lésions
+T3	disease 957 971	sclérodactylie
+T4	disease 980 989	cicatrice
+T5	disease 1048 1060	sclérodermie
+T6	disease 1592 1617	hypothyroïdie subclinique
+T7	disease 1716 1724	syphilis
+T8	disease 2033 2098	sclérodactylie et des cicatrices ponctuées sur le bout des doigts
+#1	SNOMED T1	54823002
+#2	SNOMED T3	201051000
+#3	SNOMED T5	89155008
+#4	SNOMED T6	54823002
+#5	SNOMED T8	201051000+128618006
+#6	SNOMED T2	157670007
+#7	SNOMED T7	76272004
+#8	SNOMED T4	275322007

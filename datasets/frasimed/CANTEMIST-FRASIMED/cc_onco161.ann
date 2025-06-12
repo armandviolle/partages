@@ -1,0 +1,45 @@
+T1	morphology-onco 1368 1374	tumeur
+T2	morphology-onco 1438 1457	carcinome colloïdal
+T3	morphology-onco 1551 1565	adénocarcinome
+T4	morphology-onco 1580 1587	cT2N0M0
+T5	morphology-onco 1707 1713	tumeur
+T6	morphology-onco 1851 1858	cT3N0M0
+T7	morphology-onco 3226 3304	tumeur épithéliale infiltrante constituée d'un matériel colloïde très abondant
+T8	morphology-onco 3453 3471	cellules tumorales
+T9	morphology-onco 3714 3722	tumorale
+T10	morphology-onco 3811 3820	tumorales
+T11	morphology-onco 3858 3876	Carcinome colloïde
+T12	morphology-onco 3905 3919	pT3aN1(1/16)M0
+T13	morphology-onco 4918 4974	carcinome rénal à cellules claires, grade 1-2 de Fürhman
+T14	morphology-onco 5014 5021	tumoral
+T15	morphology-onco 5160 5169	carcinome
+#1	ICD-O-3.1 T11	8480/3
+#2	ICD-O-3.1 T3	8140/3
+#3	ICD-O-3.1 T4	8000/6
+#4	ICD-O-3.1 T6	8000/6
+#5	ICD-O-3.1 T15	8010/3
+#6	ICD-O-3.1 T2	8480/3
+#7	ICD-O-3.1 T8	8001/1
+#8	ICD-O-3.1 T1	8000/1
+#9	ICD-O-3.1 T5	8000/1
+#10	ICD-O-3.1 T9	8000/1
+#11	ICD-O-3.1 T14	8000/1
+#12	ICD-O-3.1 T10	8000/1
+#13	ICD-O-3.1 T7	8480/3
+#14	ICD-O-3.1 T12	8000/6
+#15	ICD-O-3.1 T13	8310/32
+#16	SNOMED T11	72495009
+#17	SNOMED T3	1187332001
+#18	SNOMED T4	14799000
+#19	SNOMED T6	14799000
+#20	SNOMED T15	1187425009
+#21	SNOMED T2	72495009
+#22	SNOMED T8	39577004
+#23	SNOMED T1	86251006
+#24	SNOMED T5	86251006
+#25	SNOMED T9	86251006
+#26	SNOMED T14	86251006
+#27	SNOMED T10	86251006
+#28	SNOMED T7	72495009
+#29	SNOMED T12	14799000
+#30	SNOMED T13	30546008

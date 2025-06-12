@@ -1,0 +1,17 @@
+T1	morphology-onco 1393 1432	tumeur maligne de croissance biphasique
+T2	morphology-onco 1773 1822	Sarcome synovial cardiaque primaire de haut grade
+T3	morphology-onco 2349 2361	métastase SS
+T4	morphology-onco 2629 2659	nodules pulmonaires bilatéraux
+T5	morphology-onco 2673 2683	métastases
+T6	morphology-onco 3551 3599	lésion de 5 cm entre l'œsophage et le ventricule
+#1	ICD-O-3.1 T5	8000/6
+#2	ICD-O-3.1 T1	8000/3/H
+#3	ICD-O-3.1 T3	9040/6
+#4	ICD-O-3.1 T2	9040/34
+#5	ICD-O-3.1 T4	8000/6
+#6	ICD-O-3.1 T6	8000/6
+#7	SNOMED T5	14799000
+#8	SNOMED T1	1240414004
+#9	SNOMED T2	302851001
+#10	SNOMED T4	14799000
+#11	SNOMED T6	14799000

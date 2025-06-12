@@ -1,0 +1,39 @@
+T1	morphology-onco 154 162	lymphome
+T2	morphology-onco 440 448	fibromes
+T3	morphology-onco 596 602	lipome
+T4	morphology-onco 1165 1175	métastases
+T5	morphology-onco 1461 1471	métastases
+T6	morphology-onco 1754 1830	tumeur neuroendocrine pancréatique (PNET) non résécable de stade IV, grade 3
+T7	morphology-onco 1790 1794	PNET
+T8	morphology-onco 1870 1880	métastases
+T9	morphology-onco 2016 2020	PNET
+T10	morphology-onco 2506 2527	progression hépatique
+T11	morphology-onco 2879 2885	tumeur
+T12	morphology-onco 3992 4010	lésions hépatiques
+T13	morphology-onco 4417 4421	PNET
+#1	ICD-O-3.1 T1	9590/3
+#2	ICD-O-3.1 T3	8850/0
+#3	ICD-O-3.1 T4	8000/6
+#4	ICD-O-3.1 T5	8000/6
+#5	ICD-O-3.1 T8	8000/6
+#6	ICD-O-3.1 T2	8895/0
+#7	ICD-O-3.1 T11	8000/1
+#8	ICD-O-3.1 T6	8240/33
+#9	ICD-O-3.1 T7	8240/3
+#10	ICD-O-3.1 T9	8240/3
+#11	ICD-O-3.1 T13	8240/3
+#12	ICD-O-3.1 T12	8000/6
+#13	ICD-O-3.1 T10	8000/6
+#14	SNOMED T1	1163043007
+#15	SNOMED T3	93163002
+#16	SNOMED T4	14799000
+#17	SNOMED T5	14799000
+#18	SNOMED T8	14799000
+#19	SNOMED T2	1156875002
+#20	SNOMED T11	86251006
+#21	SNOMED T6	189607006
+#22	SNOMED T7	189607006
+#23	SNOMED T9	189607006
+#24	SNOMED T13	189607006
+#25	SNOMED T12	14799000
+#26	SNOMED T10	14799000

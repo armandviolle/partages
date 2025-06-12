@@ -1,0 +1,39 @@
+T1	morphology-onco 512 518	tumeur
+T2	morphology-onco 695 730	carcinome papillaire de la thyroïde
+T3	morphology-onco 740 750	métastases
+T4	morphology-onco 784 794	métastases
+T5	morphology-onco 1000 1053	carcinome papillaire classique modérément différencié
+T6	morphology-onco 1289 1299	métastases
+T7	morphology-onco 1361 1369	pT2N1bM1
+T8	morphology-onco 1871 1881	métastases
+T9	morphology-onco 1912 1929	implants pleuraux
+T10	morphology-onco 1942 1952	métastases
+T11	morphology-onco 2596 2602	tumeur
+T12	morphology-onco 3490 3514	maladie dans les poumons
+T13	morphology-onco 6867 6902	carcinome papillaire de la thyroïde
+#1	ICD-O-3.1 T2	8260/3
+#2	ICD-O-3.1 T13	8260/3
+#3	ICD-O-3.1 T12	8000/6
+#4	ICD-O-3.1 T9	8000/6
+#5	ICD-O-3.1 T4	8000/6
+#6	ICD-O-3.1 T3	8000/6
+#7	ICD-O-3.1 T6	8000/6
+#8	ICD-O-3.1 T8	8000/6
+#9	ICD-O-3.1 T10	8000/6
+#10	ICD-O-3.1 T11	8000/1
+#11	ICD-O-3.1 T1	8000/1
+#12	ICD-O-3.1 T5	8260/32
+#13	ICD-O-3.1 T7	8000/6
+#14	SNOMED T2	4797003
+#15	SNOMED T13	4797003
+#16	SNOMED T12	14799000
+#17	SNOMED T9	14799000
+#18	SNOMED T4	14799000
+#19	SNOMED T3	14799000
+#20	SNOMED T6	14799000
+#21	SNOMED T8	14799000
+#22	SNOMED T10	14799000
+#23	SNOMED T11	86251006
+#24	SNOMED T1	86251006
+#25	SNOMED T5	4797003
+#26	SNOMED T7	14799000

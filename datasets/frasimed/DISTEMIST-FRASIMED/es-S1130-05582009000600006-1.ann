@@ -1,0 +1,10 @@
+T1	disease 648 654	lésion
+T2	disease 1304 1329	lésion à cellules géantes
+T3	disease 1444 1470	saignements peropératoires
+T4	disease 1705 1708	MAV
+T5	disease 2405 2434	malformation artério-veineuse
+#1	SNOMED T2	443790001
+#2	SNOMED T4	234141001
+#3	SNOMED T5	234141001
+#4	SNOMED T3	213261000
+#5	SNOMED T1	417163006

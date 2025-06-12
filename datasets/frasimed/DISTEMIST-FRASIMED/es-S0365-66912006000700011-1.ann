@@ -1,0 +1,12 @@
+T1	disease 3 12	ex-fumeur
+T2	disease 46 60	hyperlipidémie
+T3	disease 203 226	angine à l'effort léger
+T4	disease 327 432	coronaropathie à trois vaisseaux avec une obstruction non revascularisable du pont saphène à la marginale
+T5	disease 533 560	insuffisance rénale modérée
+T6	disease 920 987	insuffisance rénale aiguë due à un CES après cathétérisme cardiaque
+T7	disease 1177 1194	livid reticularis
+T8	disease 1502 1607	œil droit (OD), on a observé une microhémorragie au-dessus de la papille et quatre emboles de cholestérol
+T9	disease 1626 1705	œil gauche (OI), deux autres emboles situés dans la branche temporale et nasale
+T10	disease 1747 1769	insuffisance cardiaque
+T11	disease 1811 1838	ischémie périphérique aiguë
+T12	disease 1998 2123	emboles de cholestérol dans les structures vasculaires de la thyroïde, du pancréas, du cœur, de la rate, du foie et des reins

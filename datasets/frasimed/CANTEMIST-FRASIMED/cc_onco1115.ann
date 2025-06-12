@@ -1,0 +1,36 @@
+T1	morphology-onco 65 96	polypose adénomateuse familiale
+T2	morphology-onco 98 101	PAF
+T3	morphology-onco 343 374	polypose adénomateuse familiale
+T4	morphology-onco 432 447	tumeur desmoïde
+T5	morphology-onco 1394 1405	fibromatose
+T6	morphology-onco 1528 1537	malignité
+T7	morphology-onco 2001 2010	malignité
+T8	morphology-onco 2063 2074	fibromatose
+T9	morphology-onco 2488 2496	tumorale
+T10	morphology-onco 2705 2713	tumorale
+T11	morphology-onco 3228 3236	tumorale
+T12	morphology-onco 3775 3781	tumeur
+#1	ICD-O-3.1 T2	8220/0
+#2	ICD-O-3.1 T3	8220/0
+#3	ICD-O-3.1 T5	8000/0
+#4	ICD-O-3.1 T8	8000/0
+#5	ICD-O-3.1 T6	8000/3
+#6	ICD-O-3.1 T7	8000/3
+#7	ICD-O-3.1 T1	8220/0
+#8	ICD-O-3.1 T4	8821/1
+#9	ICD-O-3.1 T9	8000/1
+#10	ICD-O-3.1 T10	8000/1
+#11	ICD-O-3.1 T11	8000/1
+#12	ICD-O-3.1 T12	8000/1
+#13	SNOMED T2	72900001
+#14	SNOMED T3	72900001
+#15	SNOMED T5	3898006
+#16	SNOMED T8	3898006
+#17	SNOMED T6	1240414004
+#18	SNOMED T7	1240414004
+#19	SNOMED T1	72900001
+#20	SNOMED T4	47284001
+#21	SNOMED T9	86251006
+#22	SNOMED T10	86251006
+#23	SNOMED T11	86251006
+#24	SNOMED T12	86251006

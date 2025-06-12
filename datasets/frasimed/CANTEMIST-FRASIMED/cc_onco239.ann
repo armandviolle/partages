@@ -1,0 +1,42 @@
+T1	morphology-onco 2471 2502	maladie métastatique secondaire
+T2	morphology-onco 2479 2491	métastatique
+T3	morphology-onco 2564 2589	métastatique d'une tumeur
+T4	morphology-onco 2564 2607	métastatique d'une tumeur primaire inconnue
+T5	morphology-onco 3303 3321	maladie secondaire
+T6	morphology-onco 3529 3566	néoplasie pulmonaire en LSI T4 N2 M1b
+T7	morphology-onco 4546 4563	cellules malignes
+T8	morphology-onco 4584 4612	carcinome à petites cellules
+T9	morphology-onco 4614 4617	CPC
+T10	morphology-onco 5166 5172	tumeur
+T11	morphology-onco 5250 5290	CARCINOMIE PULMONAIRE À PETITES CELLULES
+T12	morphology-onco 6956 6966	métastases
+T13	morphology-onco 7613 7631	lésions hépatiques
+T14	morphology-onco 7668 7683	maladie osseuse
+#1	ICD-O-3.1 T8	8041/3
+#2	ICD-O-3.1 T2	8000/6
+#3	ICD-O-3.1 T12	8000/6
+#4	ICD-O-3.1 T10	8000/1
+#5	ICD-O-3.1 T7	8001/3
+#6	ICD-O-3.1 T9	8041/3
+#7	ICD-O-3.1 T11	8041/3
+#8	ICD-O-3.1 T6	8000/6
+#9	ICD-O-3.1 T3	8000/6
+#10	ICD-O-3.1 T1	8000/6
+#11	ICD-O-3.1 T5	8000/6
+#12	ICD-O-3.1 T14	8000/6
+#13	ICD-O-3.1 T13	8000/6
+#14	ICD-O-3.1 T4	8000/9
+#15	SNOMED T8	11010461000119101
+#16	SNOMED T2	14799000
+#17	SNOMED T12	14799000
+#18	SNOMED T10	86251006
+#19	SNOMED T7	88400008
+#20	SNOMED T9	11010461000119101
+#21	SNOMED T11	11010461000119101
+#22	SNOMED T6	14799000
+#23	SNOMED T3	14799000
+#24	SNOMED T1	14799000
+#25	SNOMED T5	14799000
+#26	SNOMED T14	14799000
+#27	SNOMED T13	14799000
+#28	SNOMED T4	6219000

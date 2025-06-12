@@ -1,0 +1,37 @@
+T1	morphology-onco 480 498	lésions hépatiques
+T2	morphology-onco 636 654	Lésions hépatiques
+T3	morphology-onco 689 699	métastases
+T4	morphology-onco 721 762	carcinome neuroendocrine bien différencié
+T5	morphology-onco 877 895	lésions hépatiques
+T6	morphology-onco 972 1036	Carcinome neuroendocrine de bas grade de l'iléon avec métastases
+T7	morphology-onco 1232 1297	tumeur neuroendocrine de bas grade de l'iléon avec des métastases
+T8	morphology-onco 1471 1512	carcinome neuroendocrine bien différencié
+T9	morphology-onco 1532 1551	nodule mésentérique
+T10	morphology-onco 1598 1610	métastatique
+T11	morphology-onco 1615 1621	tumeur
+T12	morphology-onco 1928 1970	maladie stable a été observée dans le foie
+T13	morphology-onco 1998 2019	progression hépatique
+#1	ICD-O-3.1 T4	8246/31
+#2	ICD-O-3.1 T8	8246/31
+#3	ICD-O-3.1 T12	8000/6
+#4	ICD-O-3.1 T1	8000/6
+#5	ICD-O-3.1 T2	8000/6
+#6	ICD-O-3.1 T5	8000/6
+#7	ICD-O-3.1 T10	8000/6
+#8	ICD-O-3.1 T3	8000/6
+#9	ICD-O-3.1 T9	8000/6
+#10	ICD-O-3.1 T13	8000/6
+#11	ICD-O-3.1 T11	8000/1
+#12	ICD-O-3.1 T6	8246/61
+#13	ICD-O-3.1 T7	8240/6
+#14	SNOMED T4	55937004
+#15	SNOMED T8	55937004
+#16	SNOMED T12	14799000
+#17	SNOMED T1	14799000
+#18	SNOMED T2	14799000
+#19	SNOMED T5	14799000
+#20	SNOMED T10	14799000
+#21	SNOMED T3	14799000
+#22	SNOMED T9	14799000
+#23	SNOMED T13	14799000
+#24	SNOMED T11	86251006

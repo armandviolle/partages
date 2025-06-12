@@ -1,0 +1,22 @@
+T1	disease 55 77	tuberculose pulmonaire
+T2	disease 82 112	coliques néphrétiques répétées
+T3	disease 261 292	urétérohydronéphrose bilatérale
+T4	disease 583 610	tuberculose génito-urinaire
+T5	disease 1565 1576	rein mastic
+T6	disease 1589 1634	sténose des derniers centimètres de l'uretère
+T7	disease 1765 1795	uretère gauche a été désinséré
+T8	disease 2322 2354	rétraction complète de la vessie
+T9	disease 2730 2746	utérus myomateux
+T10	disease 3251 3273	reflux vésico-urétéral
+T11	disease 3643 3664	incontinence nocturne
+#1	SNOMED T4	4445009
+#2	SNOMED T1	154283005
+#3	SNOMED T2	7093002
+#4	SNOMED T11	8009008
+#5	SNOMED T5	44323002
+#6	SNOMED T6	25341005
+#7	SNOMED T10	197811007
+#8	SNOMED T8	89310008
+#9	SNOMED T9	95315005
+#10	SNOMED T7	128073008
+#11	SNOMED T3	95576001+95581005

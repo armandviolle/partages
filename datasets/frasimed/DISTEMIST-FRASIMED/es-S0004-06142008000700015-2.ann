@@ -1,0 +1,8 @@
+T1	disease 20 26	fumeur
+T2	disease 297 323	lymphadénopathie inguinale
+T3	disease 464 528	thrombose segmentaire de la veine dorsale superficielle du pénis
+T4	disease 595 612	maladie de Mondor
+#1	SNOMED T4	69954004
+#2	SNOMED T2	127199000
+#3	SNOMED T3	76598006
+#4	SNOMED T1	77176002

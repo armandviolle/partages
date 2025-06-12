@@ -1,0 +1,57 @@
+T1	morphology-onco 432 438	tumeur
+T2	morphology-onco 518 524	tumeur
+T3	morphology-onco 834 843	malignité
+T4	morphology-onco 1217 1254	adénocarcinome avec un motif mucineux
+T5	morphology-onco 1217 1304	adénocarcinome avec un motif mucineux, avec la présence de cellules en anneau de signet
+T6	morphology-onco 1364 1397	carcinome urothélial de bas grade
+T7	morphology-onco 1545 1559	adénocarcinome
+T8	morphology-onco 2194 2203	néoplasie
+T9	morphology-onco 2693 2716	adénocarcinome mucineux
+T10	morphology-onco 2994 3001	tumoral
+T11	morphology-onco 3232 3235	cM0
+T12	morphology-onco 3421 3435	adénocarcinome
+T13	morphology-onco 3681 3708	atteinte colique secondaire
+T14	morphology-onco 4338 4351	carcinomatose
+T15	morphology-onco 4598 4617	atteinte à distance
+T16	morphology-onco 5143 5163	atteinte péritonéale
+T17	morphology-onco 5220 5243	adénocarcinome mucineux
+T18	morphology-onco 5220 5306	adénocarcinome mucineux (colloïde) avec un composant cellulaire en forme de chevalière
+T19	morphology-onco 5338 5412	adénocarcinome urachalien de stade IV à la suite d'une rechute péritonéale
+#1	ICD-O-3.1 T7	8140/3
+#2	ICD-O-3.1 T12	8140/3
+#3	ICD-O-3.1 T19	8140/6
+#4	ICD-O-3.1 T9	8480/3
+#5	ICD-O-3.1 T17	8480/3
+#6	ICD-O-3.1 T13	8000/6
+#7	ICD-O-3.1 T14	8010/9
+#8	ICD-O-3.1 T3	8000/3
+#9	ICD-O-3.1 T8	8000/1
+#10	ICD-O-3.1 T1	8000/1
+#11	ICD-O-3.1 T2	8000/1
+#12	ICD-O-3.1 T10	8000/1
+#13	ICD-O-3.1 T4	8480/3
+#14	ICD-O-3.1 T6	8120/31
+#15	ICD-O-3.1 T11	8000/6
+#16	ICD-O-3.1 T15	8000/6
+#17	ICD-O-3.1 T5	8490/3
+#18	ICD-O-3.1 T18	8490/3
+#19	ICD-O-3.1 T16	8000/6
+#20	SNOMED T7	1187332001
+#21	SNOMED T12	1187332001
+#22	SNOMED T19	4590003
+#23	SNOMED T9	72495009
+#24	SNOMED T17	72495009
+#25	SNOMED T13	14799000
+#26	SNOMED T14	307593001
+#27	SNOMED T3	1240414004
+#28	SNOMED T8	86251006
+#29	SNOMED T1	86251006
+#30	SNOMED T2	86251006
+#31	SNOMED T10	86251006
+#32	SNOMED T4	72495009
+#33	SNOMED T6	27090000
+#34	SNOMED T11	14799000
+#35	SNOMED T15	14799000
+#36	SNOMED T5	87737001
+#37	SNOMED T18	87737001
+#38	SNOMED T16	14799000

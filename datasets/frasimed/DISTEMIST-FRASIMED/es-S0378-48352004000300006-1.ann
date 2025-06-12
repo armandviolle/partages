@@ -1,0 +1,26 @@
+T1	disease 21 31	toxicomane
+T2	disease 153 166	granulomatose
+T3	disease 564 580	tumeur ovarienne
+T4	disease 1607 1613	tumeur
+T5	disease 1790 1809	tumeur de la cuisse
+T6	disease 1905 1921	tumeur ovarienne
+T7	disease 1943 1959	nodules tumoraux
+T8	disease 2075 2102	mélanome malin métastatique
+T9	disease 2120 2154	tumeur primaire d'origine inconnue
+T10	disease 2200 2206	lésion
+T11	disease 2495 2517	métastases abdominales
+T12	disease 2573 2603	adénopathies rétropéritonéales
+T13	disease 2620 2644	métastases sous-cutanées
+#1	SNOMED T3	123843001
+#2	SNOMED T2	443138004
+#3	SNOMED T11	94348003
+#4	SNOMED T12	127154008
+#5	SNOMED T13	94579000
+#6	SNOMED T5	126657007
+#7	SNOMED T6	123843001
+#8	SNOMED T8	443493003
+#9	SNOMED T9	255051004
+#10	SNOMED T1	105547002
+#11	SNOMED T10	417163006
+#12	SNOMED T7	108369006
+#13	SNOMED T4	55342001

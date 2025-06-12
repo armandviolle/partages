@@ -1,0 +1,45 @@
+T1	morphology-onco 267 273	myomes
+T2	morphology-onco 367 442	macroadénome hypophysaire sécrétant de la prolactine (PRL) (2,5x2,0x2,3 cm)
+T3	morphology-onco 543 563	adénome hypophysaire
+T4	morphology-onco 1061 1068	tumoral
+T5	morphology-onco 1114 1134	adénome hypophysaire
+T6	morphology-onco 1910 1918	tumorale
+T7	morphology-onco 1964 1970	tumeur
+T8	morphology-onco 2236 2248	prolactinome
+T9	morphology-onco 2924 2930	tumeur
+T10	morphology-onco 2966 2972	tumeur
+T11	morphology-onco 3048 3061	intratumorale
+T12	morphology-onco 3299 3306	tumeurs
+T13	morphology-onco 4300 4307	tumoral
+T14	morphology-onco 4391 4408	Macroprolactinome
+T15	morphology-onco 5367 5373	tumeur
+#1	ICD-O-3.1 T11	8000/1
+#2	ICD-O-3.1 T1	8895/0
+#3	ICD-O-3.1 T6	8000/1
+#4	ICD-O-3.1 T9	8000/1
+#5	ICD-O-3.1 T15	8000/1
+#6	ICD-O-3.1 T10	8000/1
+#7	ICD-O-3.1 T4	8000/1
+#8	ICD-O-3.1 T7	8000/1
+#9	ICD-O-3.1 T13	8000/1
+#10	ICD-O-3.1 T12	8000/1
+#11	ICD-O-3.1 T8	8271/0
+#12	ICD-O-3.1 T2	8271/0
+#13	ICD-O-3.1 T14	8271/0
+#14	ICD-O-3.1 T3	8272/0
+#15	ICD-O-3.1 T5	8272/0
+#16	SNOMED T11	86251006
+#17	SNOMED T1	1156875002
+#18	SNOMED T6	86251006
+#19	SNOMED T9	86251006
+#20	SNOMED T15	86251006
+#21	SNOMED T10	86251006
+#22	SNOMED T4	86251006
+#23	SNOMED T7	86251006
+#24	SNOMED T13	86251006
+#25	SNOMED T12	86251006
+#26	SNOMED T8	34337008
+#27	SNOMED T2	34337008
+#28	SNOMED T14	34337008
+#29	SNOMED T3	254956000
+#30	SNOMED T5	254956000

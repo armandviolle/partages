@@ -1,0 +1,22 @@
+T1	disease 82 95	vision double
+T2	disease 258 266	diplopie
+T3	disease 356 362	grippe
+T4	disease 737 757	diplopie horizontale
+T5	disease 849 874	syndrome de Miller Fisher
+T6	disease 1424 1441	paralysie faciale
+T7	disease 1443 1452	dysphonie
+T8	disease 1456 1465	dysphagie
+T9	disease 1657 1688	lésion d'occupation de l'espace
+T10	disease 1696 1711	démyélinisation
+T11	disease 2105 2113	diplopie
+#1	SNOMED T5	1767005
+#2	SNOMED T3	6142004
+#3	SNOMED T10	6118003
+#4	SNOMED T9	56002005
+#5	SNOMED T2	24982008
+#6	SNOMED T11	24982008
+#7	SNOMED T8	288939007
+#8	SNOMED T7	16617009
+#9	SNOMED T6	280816001
+#10	SNOMED T1	24982008
+#11	SNOMED T4	24982008

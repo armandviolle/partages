@@ -1,0 +1,22 @@
+T1	disease 133 163	rhinite allergique saisonnière
+T2	disease 168 174	fumeur
+T3	disease 207 213	buveur
+T4	disease 503 531	extrasystoles ventriculaires
+T5	disease 1013 1057	dilatation significative du ventricule droit
+T6	disease 1111 1141	légère insuffisance tricuspide
+T7	disease 1194 1276	stimulation auriculaire migratoire avec de fréquentes extrasystoles ventriculaires
+T8	disease 1289 1312	triplets ventriculaires
+T9	disease 1340 1385	ventricule droit élargi avec une hypertrophie
+T10	disease 1649 1653	ARVC
+T11	disease 1869 1889	symptômes de syncope
+#1	SNOMED T10	281170005
+#2	SNOMED T2	77176002
+#3	SNOMED T6	111287006
+#4	SNOMED T7	271983002
+#5	SNOMED T8	44103008
+#6	SNOMED T4	17338001
+#7	SNOMED T11	271594007
+#8	SNOMED T1	70369002
+#9	SNOMED T3	7200002
+#10	SNOMED T5	253522006
+#11	SNOMED T9	89792004

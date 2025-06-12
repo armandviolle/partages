@@ -1,0 +1,15 @@
+T1	morphology-onco 2992 3002	métastases
+T2	morphology-onco 3092 3100	malignes
+T3	morphology-onco 3331 3341	métastases
+T4	morphology-onco 3545 3565	carcinome infiltrant
+T5	morphology-onco 3918 3937	métastase du cancer
+#1	ICD-O-3.1 T4	8010/3/H
+#2	ICD-O-3.1 T2	8000/3
+#3	ICD-O-3.1 T1	8000/6
+#4	ICD-O-3.1 T3	8000/6
+#5	ICD-O-3.1 T5	8000/6
+#6	SNOMED T4	1187425009
+#7	SNOMED T2	1240414004
+#8	SNOMED T1	14799000
+#9	SNOMED T3	14799000
+#10	SNOMED T5	14799000

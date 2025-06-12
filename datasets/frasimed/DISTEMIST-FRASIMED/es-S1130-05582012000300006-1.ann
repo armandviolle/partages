@@ -1,0 +1,16 @@
+T1	disease 514 525	adénopathie
+T2	disease 685 755	édenté partiel dû à l'absence de la canine et des molaires inférieures
+T3	disease 707 755	absence de la canine et des molaires inférieures
+T4	disease 1038 1044	lésion
+T5	disease 1308 1314	lésion
+T6	disease 1767 1773	lésion
+T7	disease 1861 1867	lésion
+T8	disease 2515 2521	tumeur
+#1	SNOMED T2	444818007
+#2	SNOMED T3	109673006
+#3	SNOMED T1	30746006
+#4	SNOMED T8	55342001
+#5	SNOMED T4	417163006
+#6	SNOMED T5	417163006
+#7	SNOMED T6	417163006
+#8	SNOMED T7	417163006

@@ -1,0 +1,18 @@
+T1	disease 114 135	avortements spontanés
+T2	disease 201 210	stérilité
+T3	disease 300 329	facteur V Leiden hétérozygote
+T4	disease 438 478	trouble héréditaire d'hypercoagulabilité
+T5	disease 533 560	variant du facteur V Leiden
+T6	disease 971 984	fausse couche
+T7	disease 1654 1717	altération immunologique associée à un échec de la reproduction
+T8	disease 1874 1898	échec de la reproduction
+T9	disease 2068 2086	perte de grossesse
+#1	SNOMED T1	17369002
+#2	SNOMED T3	307116001
+#3	SNOMED T4	439698008
+#4	SNOMED T7	131145007
+#5	SNOMED T8	15296000
+#6	SNOMED T6	17369002
+#7	SNOMED T9	363681007
+#8	SNOMED T2	15296000
+#9	SNOMED T5	307091009

@@ -1,0 +1,18 @@
+T1	disease 43 55	hypertension
+T2	disease 60 83	diabète sucré de type 2
+T3	disease 87 107	arthrose généralisée
+T4	disease 111 144	insuffisance cardiaque congestive
+T5	disease 177 211	fibrillation auriculaire chronique
+T6	disease 707 717	hypotendue
+T7	disease 742 746	coma
+T8	disease 1375 1398	méningite à pneumocoque
+T9	disease 1660 1664	coma
+#1	SNOMED T7	371632003
+#2	SNOMED T2	44054006
+#3	SNOMED T3	201819000
+#4	SNOMED T4	42343007
+#5	SNOMED T5	426749004
+#6	SNOMED T8	51169003
+#7	SNOMED T9	371632003
+#8	SNOMED T1	38341003
+#9	SNOMED T6	45007003

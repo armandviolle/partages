@@ -1,0 +1,13 @@
+T1	disease 191 211	crise réno-urétérale
+T2	disease 271 284	hyperuricémie
+T3	disease 544 635	thrombus tumoral s'étendant à travers la veine rénale jusqu'à la veine cave rétro-hépatique
+T4	disease 1220 1252	infiltration vasculaire tumorale
+T5	disease 1284 1320	extension rétrohépatique du thrombus
+T6	disease 1344 1367	infiltration vasculaire
+T7	disease 1373 1384	adénopathie
+T8	disease 1957 1980	veine rénale thrombosée
+T9	disease 2267 2309	dissémination au poumon de petits thrombus
+T10	disease 2734 2754	adénocarcinome rénal
+T11	disease 2859 2882	infiltrer la veine cave
+T12	disease 2902 2943	thrombus d'origine exclusivement tumorale
+T13	disease 3068 3138	lésion lytique soit trouvée dans la lame postérieure de la vertèbre L2

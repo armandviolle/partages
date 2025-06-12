@@ -1,0 +1,12 @@
+T1	morphology-onco 742 751	malignité
+T2	morphology-onco 1073 1087	adénocarcinome
+T3	morphology-onco 1073 1111	adénocarcinome de type micropapillaire
+T4	morphology-onco 1318 1353	adénocarcinome pulmonaire cT2aN3M1c
+#1	ICD-O-3.1 T2	8140/3
+#2	ICD-O-3.1 T1	8000/3
+#3	ICD-O-3.1 T3	8265/3
+#4	ICD-O-3.1 T4	8140/6
+#5	SNOMED T2	1187332001
+#6	SNOMED T1	1240414004
+#7	SNOMED T3	450895005
+#8	SNOMED T4	4590003

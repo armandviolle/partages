@@ -1,0 +1,76 @@
+T1	morphology-onco 1038 1049	néoformatif
+T2	morphology-onco 1208 1214	tumeur
+T3	morphology-onco 1424 1438	adénocarcinome
+T4	morphology-onco 1529 1543	Adénocarcinome
+T5	morphology-onco 1597 1603	T3N0M0
+T6	morphology-onco 1643 1657	adénocarcinome
+T7	morphology-onco 1726 1728	M0
+T8	morphology-onco 2048 2054	tumeur
+T9	morphology-onco 2271 2293	lésion frontopariétale
+T10	morphology-onco 2375 2397	lésion frontopariétale
+T11	morphology-onco 2487 2499	métastatique
+T12	morphology-onco 2559 2565	tumeur
+T13	morphology-onco 2680 2696	lésion cérébrale
+T14	morphology-onco 2697 2709	métastatique
+T15	morphology-onco 2857 2882	adénocarcinome intestinal
+T16	morphology-onco 3090 3098	tumorale
+T17	morphology-onco 3274 3314	métastase d'un adénocarcinome intestinal
+T18	morphology-onco 3584 3597	LOE cérébrale
+T19	morphology-onco 4035 4044	métastase
+T20	morphology-onco 4070 4076	tumeur
+T21	morphology-onco 4202 4208	tumeur
+T22	morphology-onco 4267 4283	lésion pariétale
+T23	morphology-onco 4347 4422	métastase due à un adénocarcinome modérément différencié de type intestinal
+T24	morphology-onco 4460 4474	adénocarcinome
+T25	morphology-onco 4530 4536	T3N0M1
+T26	morphology-onco 4544 4554	métastases
+#1	ICD-O-3.1 T7	8000/6
+#2	ICD-O-3.1 T3	8140/3
+#3	ICD-O-3.1 T6	8140/3
+#4	ICD-O-3.1 T24	8140/3
+#5	ICD-O-3.1 T15	8144/3
+#6	ICD-O-3.1 T26	8000/6
+#7	ICD-O-3.1 T11	8000/6
+#8	ICD-O-3.1 T14	8000/6
+#9	ICD-O-3.1 T1	8000/1
+#10	ICD-O-3.1 T8	8000/1
+#11	ICD-O-3.1 T12	8000/1
+#12	ICD-O-3.1 T20	8000/1
+#13	ICD-O-3.1 T2	8000/1
+#14	ICD-O-3.1 T21	8000/1
+#15	ICD-O-3.1 T16	8000/1
+#16	ICD-O-3.1 T4	8140/3
+#17	ICD-O-3.1 T5	8000/6
+#18	ICD-O-3.1 T9	8000/6
+#19	ICD-O-3.1 T10	8000/6
+#20	ICD-O-3.1 T17	8144/6
+#21	ICD-O-3.1 T18	8000/6
+#22	ICD-O-3.1 T19	8000/6
+#23	ICD-O-3.1 T22	8000/6
+#24	ICD-O-3.1 T23	8144/62
+#25	ICD-O-3.1 T25	8000/6
+#26	ICD-O-3.1 T13	8000/6
+#27	SNOMED T7	14799000
+#28	SNOMED T3	1187332001
+#29	SNOMED T6	1187332001
+#30	SNOMED T24	1187332001
+#31	SNOMED T15	25190001
+#32	SNOMED T26	14799000
+#33	SNOMED T11	14799000
+#34	SNOMED T14	14799000
+#35	SNOMED T1	86251006
+#36	SNOMED T8	86251006
+#37	SNOMED T12	86251006
+#38	SNOMED T20	86251006
+#39	SNOMED T2	86251006
+#40	SNOMED T21	86251006
+#41	SNOMED T16	86251006
+#42	SNOMED T4	1187332001
+#43	SNOMED T5	14799000
+#44	SNOMED T9	14799000
+#45	SNOMED T10	14799000
+#46	SNOMED T18	14799000
+#47	SNOMED T19	14799000
+#48	SNOMED T22	14799000
+#49	SNOMED T25	14799000
+#50	SNOMED T13	14799000

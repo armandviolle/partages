@@ -1,0 +1,59 @@
+T1	morphology-onco 612 630	maladie à distance
+T2	morphology-onco 661 667	Tumeur
+T3	morphology-onco 701 709	CT1AN0M0
+T4	morphology-onco 761 767	tumeur
+T5	morphology-onco 886 914	carcinome à cellules claires
+T6	morphology-onco 962 971	néoplasme
+T7	morphology-onco 1094 1103	pT1aN0cM0
+T8	morphology-onco 1402 1410	tumorale
+T9	morphology-onco 1512 1579	carcinome à cellules claires de 1,2 cm de diamètre, de grade II-III
+T10	morphology-onco 1688 1706	maladie à distance
+T11	morphology-onco 1793 1801	tumorale
+T12	morphology-onco 1943 1994	carcinome à cellules claires de grade II de Fuhrman
+T13	morphology-onco 2075 2081	tumeur
+T14	morphology-onco 2099 2117	maladie à distance
+T15	morphology-onco 2201 2229	carcinome à cellules claires
+T16	morphology-onco 2309 2317	tumorale
+T17	morphology-onco 2732 2742	métastases
+T18	morphology-onco 3003 3031	carcinome à cellules claires
+T19	morphology-onco 3051 3115	rechute pleurale et pulmonaire d'un carcinome à cellules claires
+T20	morphology-onco 3975 3985	métastases
+#1	ICD-O-3.1 T2	8000/1
+#2	ICD-O-3.1 T5	8310/3
+#3	ICD-O-3.1 T15	8310/3
+#4	ICD-O-3.1 T18	8310/3
+#5	ICD-O-3.1 T1	8000/6
+#6	ICD-O-3.1 T10	8000/6
+#7	ICD-O-3.1 T14	8000/6
+#8	ICD-O-3.1 T17	8000/6
+#9	ICD-O-3.1 T20	8000/6
+#10	ICD-O-3.1 T6	8000/1
+#11	ICD-O-3.1 T4	8000/1
+#12	ICD-O-3.1 T13	8000/1
+#13	ICD-O-3.1 T8	8000/1
+#14	ICD-O-3.1 T11	8000/1
+#15	ICD-O-3.1 T16	8000/1
+#16	ICD-O-3.1 T3	8000/6
+#17	ICD-O-3.1 T7	8000/6
+#18	ICD-O-3.1 T9	8310/33
+#19	ICD-O-3.1 T12	8310/32
+#20	ICD-O-3.1 T19	8310/6
+#21	SNOMED T2	86251006
+#22	SNOMED T5	30546008
+#23	SNOMED T15	30546008
+#24	SNOMED T18	30546008
+#25	SNOMED T1	14799000
+#26	SNOMED T10	14799000
+#27	SNOMED T14	14799000
+#28	SNOMED T17	14799000
+#29	SNOMED T20	14799000
+#30	SNOMED T6	86251006
+#31	SNOMED T4	86251006
+#32	SNOMED T13	86251006
+#33	SNOMED T8	86251006
+#34	SNOMED T11	86251006
+#35	SNOMED T16	86251006
+#36	SNOMED T3	14799000
+#37	SNOMED T7	14799000
+#38	SNOMED T9	30546008
+#39	SNOMED T12	30546008

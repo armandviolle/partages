@@ -1,0 +1,33 @@
+T1	morphology-onco 288 327	adénocarcinome rénal à cellules claires
+T2	morphology-onco 536 569	adénocarcinome à cellules claires
+T3	morphology-onco 603 610	pT3NxMx
+T4	morphology-onco 678 686	tumorale
+T5	morphology-onco 819 826	tumoral
+T6	morphology-onco 1011 1022	néoplasique
+T7	morphology-onco 1140 1149	malignité
+T8	morphology-onco 1489 1499	métastases
+T9	morphology-onco 1674 1686	métastatique
+T10	morphology-onco 3773 3786	Hypernéphrome
+T11	morphology-onco 3895 3903	tumorale
+#1	ICD-O-3.1 T10	8312/3
+#2	ICD-O-3.1 T2	8310/3
+#3	ICD-O-3.1 T1	8310/3
+#4	ICD-O-3.1 T7	8000/3
+#5	ICD-O-3.1 T9	8000/6
+#6	ICD-O-3.1 T8	8000/6
+#7	ICD-O-3.1 T6	8000/1
+#8	ICD-O-3.1 T4	8000/1
+#9	ICD-O-3.1 T5	8000/1
+#10	ICD-O-3.1 T11	8000/1
+#11	ICD-O-3.1 T3	8000/6
+#12	SNOMED T10	41607009
+#13	SNOMED T2	30546008
+#14	SNOMED T1	30546008
+#15	SNOMED T7	1240414004
+#16	SNOMED T9	14799000
+#17	SNOMED T8	14799000
+#18	SNOMED T6	86251006
+#19	SNOMED T4	86251006
+#20	SNOMED T5	86251006
+#21	SNOMED T11	86251006
+#22	SNOMED T3	14799000

@@ -1,0 +1,19 @@
+T1	disease 52 63	asthmatique
+T2	disease 374 382	diplopie
+T3	disease 447 483	ophtalmoplégie internucléaire droite
+T4	disease 639 645	lésion
+T5	disease 1004 1059	méningite chimique due à la rupture d'un kyste dermoïde
+T6	disease 1045 1059	kyste dermoïde
+T7	disease 1289 1341	kyste dans la région médiane du pôle temporal gauche
+T8	disease 1432 1491	dissémination de la graisse dans l'espace sous-arachnoïdien
+T9	disease 1725 1745	infarctus ischémique
+T10	disease 1879 1943	particules de graisse dispersées dans l'espace sous-arachnoïdien
+T11	disease 1948 2005	accumulation de graisse dans la citerne interpédonculaire
+T12	disease 2857 2865	arythmie
+T13	disease 2470 2473	AVC
+T14	disease 3038 3053	ophtalmoparésie
+T15	disease 3173 3219	infarctus mésencéphalique antéro-interne isolé
+T16	disease 3250 3301	vasospasme des artères perforantes mésencéphaliques
+T17	disease 3335 3424	dissémination sous-arachnoïdienne du contenu graisseux d'un kyste dermoïde temporal rompu
+T18	disease 3395 3424	kyste dermoïde temporal rompu
+T19	disease 3649 3669	compression tumorale

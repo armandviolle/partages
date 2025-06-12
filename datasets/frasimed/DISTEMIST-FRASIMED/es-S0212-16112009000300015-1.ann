@@ -1,0 +1,14 @@
+T1	disease 60 94	fibrillation auriculaire chronique
+T2	disease 116 144	ischémie intestinale massive
+T3	disease 462 482	maladie de Parkinson
+T4	disease 682 718	pneumonie acquise dans la communauté
+T5	disease 793 827	infections associées aux cathéters
+T6	disease 836 845	infection
+T7	disease 1015 1040	stéatose hépatique légère
+#1	SNOMED T1	426749004
+#2	SNOMED T2	82196007
+#3	SNOMED T3	49049000
+#4	SNOMED T4	385093006
+#5	SNOMED T5	440653007
+#6	SNOMED T7	197321007
+#7	SNOMED T6	40733004

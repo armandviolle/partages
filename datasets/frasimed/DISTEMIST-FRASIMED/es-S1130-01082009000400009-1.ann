@@ -1,0 +1,32 @@
+T1	disease 49 103	maladie de Crohn avec une atteinte iléale et périanale
+T2	disease 614 623	hypotendu
+T3	disease 786 817	orifice fistuleux dans la fesse
+T4	disease 933 939	anémie
+T5	disease 969 988	insuffisance rénale
+T6	disease 1113 1123	septicémie
+T7	disease 1129 1165	insuffisance rénale multifactorielle
+T8	disease 1178 1192	déshydratation
+T9	disease 1761 1780	insuffisance rénale
+T10	disease 2428 2437	néoplasme
+T11	disease 2464 2528	adénopathies dans les chaînes mésentérique, iliaque et inguinale
+T12	disease 2571 2588	lésion péridurale
+T13	disease 2635 2640	abcès
+T14	disease 2647 2664	fistule périanale
+T15	disease 2824 2841	maladie périanale
+T16	disease 3121 3328	plasmocytome plasmoblastique avec une prédominance de chaînes légères de type lamda infiltrant l'iléon terminal et le cæcum, la racine du mésentère, les ganglions lymphatiques abdominaux et la moelle osseuse
+#1	SNOMED T1	235796008+38106008
+#2	SNOMED T3	446513005
+#3	SNOMED T16	415112005+94346004+94217008+30746006
+#4	SNOMED T4	271737000
+#5	SNOMED T5	723188008
+#6	SNOMED T6	91302008
+#7	SNOMED T7	723188008
+#8	SNOMED T8	34095006
+#9	SNOMED T9	236423003
+#10	SNOMED T10	55342001
+#11	SNOMED T11	127144009+127159003+127199000
+#12	SNOMED T12	5964004
+#13	SNOMED T13	128477000
+#14	SNOMED T14	58103005
+#15	SNOMED T15	397174009
+#16	SNOMED T2	45007003

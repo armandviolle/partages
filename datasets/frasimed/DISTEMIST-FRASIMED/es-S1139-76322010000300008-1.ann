@@ -1,0 +1,10 @@
+T1	disease 143 169	lésion sur sa jambe gauche
+T2	disease 259 270	traumatisme
+T3	disease 540 548	hématome
+T4	disease 779 793	lésion osseuse
+T5	disease 1086 1100	ostéochondrome
+#1	SNOMED T4	76069003
+#2	SNOMED T1	128137003
+#3	SNOMED T5	443093007
+#4	SNOMED T2	417746004
+#5	SNOMED T3	385494008

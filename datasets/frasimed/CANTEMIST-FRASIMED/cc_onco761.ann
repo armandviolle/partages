@@ -1,0 +1,63 @@
+T1	morphology-onco 97 103	cancer
+T2	morphology-onco 1666 1696	dissémination intrapéritonéale
+T3	morphology-onco 1698 1712	gâteau omental
+T4	morphology-onco 2440 2457	tératome immature
+T5	morphology-onco 2795 2823	tumeur du sinus endodermique
+T6	morphology-onco 2831 2866	variantes endométrioïdes hépatoïdes
+T7	morphology-onco 2841 2855	endométrioïdes
+T8	morphology-onco 3185 3193	tumorale
+T9	morphology-onco 4541 4549	tératome
+T10	morphology-onco 4892 4900	tumorale
+T11	morphology-onco 5216 5222	tumeur
+T12	morphology-onco 5326 5369	Implants dans les coupoles diaphragmatiques
+T13	morphology-onco 5422 5448	implants subcentimétriques
+T14	morphology-onco 5547 5597	tératome de caractéristiques histologiques matures
+T15	morphology-onco 5730 5745	tératome mature
+T16	morphology-onco 5775 5795	Implants péritonéaux
+T17	morphology-onco 5849 5864	tératome mature
+T18	morphology-onco 5934 5953	néoplasiques malins
+T19	morphology-onco 6282 6308	implants subcentimétriques
+T20	morphology-onco 6654 6674	implants péritonéaux
+T21	morphology-onco 6741 6756	tératome mature
+#1	ICD-O-3.1 T16	8000/6
+#2	ICD-O-3.1 T1	8000/3
+#3	ICD-O-3.1 T20	8000/6
+#4	ICD-O-3.1 T9	9080/1
+#5	ICD-O-3.1 T21	9080/0
+#6	ICD-O-3.1 T11	8000/1
+#7	ICD-O-3.1 T5	9071/3
+#8	ICD-O-3.1 T8	8000/1
+#9	ICD-O-3.1 T10	8000/1
+#10	ICD-O-3.1 T2	8000/6
+#11	ICD-O-3.1 T4	9080/3
+#12	ICD-O-3.1 T6	9071/3
+#13	ICD-O-3.1 T7	8380/0
+#14	ICD-O-3.1 T12	8000/6
+#15	ICD-O-3.1 T13	8000/6
+#16	ICD-O-3.1 T14	9080/0
+#17	ICD-O-3.1 T15	9080/0
+#18	ICD-O-3.1 T17	9080/0
+#19	ICD-O-3.1 T18	8000/3
+#20	ICD-O-3.1 T19	8000/6
+#21	ICD-O-3.1 T3	8000/6
+#22	SNOMED T16	14799000
+#23	SNOMED T1	1240414004
+#24	SNOMED T20	14799000
+#25	SNOMED T9	1187393008
+#26	SNOMED T21	42717009
+#27	SNOMED T11	86251006
+#28	SNOMED T5	74409009
+#29	SNOMED T8	86251006
+#30	SNOMED T10	86251006
+#31	SNOMED T2	14799000
+#32	SNOMED T4	1157239001
+#33	SNOMED T6	74409009
+#34	SNOMED T7	71106006
+#35	SNOMED T12	14799000
+#36	SNOMED T13	14799000
+#37	SNOMED T14	42717009
+#38	SNOMED T15	42717009
+#39	SNOMED T17	42717009
+#40	SNOMED T18	1240414004
+#41	SNOMED T19	14799000
+#42	SNOMED T3	14799000

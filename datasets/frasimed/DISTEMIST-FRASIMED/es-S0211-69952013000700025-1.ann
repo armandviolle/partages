@@ -1,0 +1,6 @@
+T2	disease 750 789	glomérulosclérose focale et segmentaire
+T3	disease 1290 1312	myopathie stéroïdienne
+T4	disease 2203 2247	hyperplasie glandulaire liée aux médicaments
+#2	SNOMED T2	236403004
+#3	SNOMED T3	26715006
+#4	SNOMED T4	23290009

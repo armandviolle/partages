@@ -1,0 +1,35 @@
+T1	morphology-onco 1426 1434	tumorale
+T2	morphology-onco 1570 1578	lymphome
+T3	morphology-onco 1582 1588	gliome
+T4	morphology-onco 1869 1877	lymphome
+T5	morphology-onco 1986 2027	cellules granuleuses d'aspect néoplasique
+T6	morphology-onco 2016 2027	néoplasique
+T7	morphology-onco 2314 2336	astrocytome granulaire
+T8	morphology-onco 2314 2348	astrocytome granulaire de grade II
+T9	morphology-onco 2408 2430	Astrocytome granulaire
+T10	morphology-onco 2408 2442	Astrocytome granulaire de grade II
+T11	morphology-onco 2546 2552	tumeur
+T12	morphology-onco 3165 3188	glioblastome multiforme
+#1	ICD-O-3.1 T12	9440/3
+#2	ICD-O-3.1 T3	9380/3
+#3	ICD-O-3.1 T2	9590/3
+#4	ICD-O-3.1 T4	9590/3
+#5	ICD-O-3.1 T6	8000/1
+#6	ICD-O-3.1 T1	8000/1
+#7	ICD-O-3.1 T11	8000/1
+#8	ICD-O-3.1 T8	9400/32
+#9	ICD-O-3.1 T7	9580/3
+#10	ICD-O-3.1 T9	9580/3
+#11	ICD-O-3.1 T10	9400/32
+#12	ICD-O-3.1 T5	9580/1
+#13	SNOMED T12	1163375002
+#14	SNOMED T3	74532006
+#15	SNOMED T2	1163043007
+#16	SNOMED T4	1163043007
+#17	SNOMED T6	86251006
+#18	SNOMED T1	86251006
+#19	SNOMED T11	86251006
+#20	SNOMED T8	1157043006
+#21	SNOMED T7	13238004
+#22	SNOMED T9	13238004
+#23	SNOMED T10	1157043006

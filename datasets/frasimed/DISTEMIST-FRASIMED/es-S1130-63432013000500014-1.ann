@@ -1,0 +1,14 @@
+T1	disease 50 53	LLC
+T2	disease 578 599	réaction urticarienne
+T3	disease 615 638	érythrodermie squameuse
+T4	disease 806 843	réaction allergique à ce cytostatique
+T5	disease 1072 1121	réaction cutanée a été associée à la bendamustine
+T6	disease 1126 1138	toxicodermie
+T7	disease 1429 1441	toxicodermie
+#1	SNOMED T1	92814006
+#2	SNOMED T5	292202006
+#3	SNOMED T6	95326004
+#4	SNOMED T7	95326004
+#5	SNOMED T2	64305001
+#6	SNOMED T3	7297005
+#7	SNOMED T4	57302007

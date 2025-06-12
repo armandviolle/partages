@@ -1,0 +1,18 @@
+T1	disease 292 313	synovite de la hanche
+T2	disease 737 818	lésions cutanées sont apparues, l'une sur la fesse et l'autre sur le cuir chevelu
+T3	disease 1406 1416	pédiculose
+T4	disease 1424 1490	lésion nodulaire et inflammatoire, toutes deux sur le cuir chevelu
+T5	disease 2472 2493	maladies infectieuses
+T6	disease 2829 2843	abcès du psoas
+T7	disease 2932 2958	abcès dans le muscle psoas
+T8	disease 2972 3006	ostéomyélite du corps vertébral L4
+T9	disease 3059 3080	abcès du cuir chevelu
+#1	SNOMED T6	266463007
+#2	SNOMED T7	266463007
+#3	SNOMED T1	202926002
+#4	SNOMED T8	203241002
+#5	SNOMED T3	20848007
+#6	SNOMED T9	31399009
+#7	SNOMED T2	95324001
+#8	SNOMED T5	394807007
+#9	SNOMED T4	871000119100

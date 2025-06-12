@@ -1,0 +1,6 @@
+T1	disease 87 100	cryptorchidie
+T2	disease 213 251	inflammation bilatérale de la parotide
+T3	disease 731 765	tumeur latéro-cervicale bilatérale
+#1	SNOMED T1	204878001
+#2	SNOMED T2	274106005
+#3	SNOMED T3	126635000

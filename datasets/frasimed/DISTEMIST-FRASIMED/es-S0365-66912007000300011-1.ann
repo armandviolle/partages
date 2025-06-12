@@ -1,0 +1,35 @@
+T1	disease 117 152	légère ventriculomégalie bilatérale
+T2	disease 589 619	caractéristiques dysmorphiques
+T3	disease 622 644	aponévroses grossières
+T4	disease 646 660	hypertélorisme
+T5	disease 662 681	narines antéversées
+T6	disease 683 700	microrétrognathie
+T7	disease 704 722	asymétrie frontale
+T8	disease 841 872	épisodes convulsifs généralisés
+T9	disease 1057 1086	ventriculomégalie asymétrique
+T10	disease 1128 1151	asymétrie hémisphérique
+T11	disease 1303 1362	dysplasie corticale avec des foyers d'hétérotopie nodulaire
+T12	disease 1393 1403	infectieux
+T13	disease 1507 1516	ésotropie
+T14	disease 1590 1630	nystagmus d'abduction dans les deux yeux
+T15	disease 1635 1675	rétine présentait un aspect dystrophique
+T16	disease 1716 1750	anomalies pigmentaires rétiniennes
+T17	disease 1752 1778	Hypoplasie du nerf optique
+T18	disease 1781 1787	Myopie
+T19	disease 2114 2140	hypertrophie hémicrânienne
+T20	disease 2297 2316	retard psychomoteur
+T21	disease 2332 2357	hypertonie des extrémités
+T22	disease 2365 2389	hypotonie cervico-axiale
+T23	disease 2675 2721	élargissement progressif de l'hémicorps gauche
+T24	disease 2727 2741	plagiocéphalie
+T25	disease 2748 2771	abaissement de l'orbite
+T26	disease 2812 2824	déformations
+T27	disease 2827 2837	tibia vara
+T28	disease 2839 2849	coxa valga
+T29	disease 2853 2884	amincissement fémoral bilatéral
+T30	disease 2904 2916	macrocéphale
+T31	disease 2922 2954	atteinte du massif cranio-facial
+T32	disease 2956 2974	Naevus épidermique
+T33	disease 2978 2995	hémangiomes épars
+T34	disease 3134 3155	laryngotrachéomalacie
+T35	disease 3218 3227	pneumonie

@@ -1,0 +1,19 @@
+T1	disease 92 104	hypertension
+T2	disease 81 88	obésité
+T3	disease 109 121	fibromyalgie
+T4	disease 128 148	hernie discale D3-D4
+T5	disease 275 289	lombosciatique
+T6	disease 375 384	dysphagie
+T7	disease 804 856	lésions vertébrales multiples (en D7 et de D9 à D12)
+T8	disease 877 912	écrasement vertébral ostéoporotique
+T9	disease 987 1001	lombosciatique
+T10	disease 1021 1089	lésions vertébrales d'origine ostéoporotique dans la colonne dorsale
+T11	disease 1310 1319	dysphagie
+T12	disease 1453 1466	hépatomégalie
+T13	disease 1650 1692	lésion située à 18 cm de l'arcade dentaire
+T14	disease 1789 1800	adénopathie
+T15	disease 1859 1907	métastases hépatiques dans les segments IV et II
+T16	disease 2096 2110	masse tumorale
+T17	disease 2159 2181	implants mésentériques
+T18	disease 2186 2284	multiples métastases hépatiques et des métastases osseuses dans le squelette axial et périphérique
+T19	disease 2312 2326	mélanome malin

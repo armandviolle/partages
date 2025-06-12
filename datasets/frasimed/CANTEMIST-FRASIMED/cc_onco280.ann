@@ -1,0 +1,35 @@
+T1	morphology-onco 553 612	adénopathies aux niveaux cervical tardif, supraclaviculaire
+T2	morphology-onco 1638 1716	adénopathique supra- et infradiaphragmatique, principalement supraclaviculaire
+T3	morphology-onco 1870 1895	lésions osseuses lytiques
+T4	morphology-onco 1966 1993	syndrome lymphoprolifératif
+T5	morphology-onco 2126 2141	néoplasme malin
+T6	morphology-onco 2259 2306	sarcome des cellules dendritiques folliculaires
+T7	morphology-onco 2362 2374	myélofibrose
+T8	morphology-onco 2403 2414	néoplasique
+T9	morphology-onco 2457 2577	sarcome à cellules dendritiques folliculaires de stade IV (en raison de l'infiltration de la MO et des lésions osseuses)
+T10	morphology-onco 2937 2960	lymphome non hodgkinien
+T11	morphology-onco 3321 3339	maladie de Hodgkin
+T12	morphology-onco 3925 3981	lymphome de Hodgkin classique de type sclérose nodulaire
+#1	ICD-O-3.1 T11	9650/3
+#2	ICD-O-3.1 T5	8000/3
+#3	ICD-O-3.1 T10	9591/3
+#4	ICD-O-3.1 T7	9961/3
+#5	ICD-O-3.1 T8	8000/1
+#6	ICD-O-3.1 T4	9970/1
+#7	ICD-O-3.1 T6	9758/3
+#8	ICD-O-3.1 T9	9758/6
+#9	ICD-O-3.1 T12	9663/3
+#10	ICD-O-3.1 T3	8000/6
+#11	ICD-O-3.1 T1	8000/6
+#12	ICD-O-3.1 T2	8000/6
+#13	SNOMED T11	1163005009
+#14	SNOMED T5	1240414004
+#15	SNOMED T10	1172592001
+#16	SNOMED T7	52967002
+#17	SNOMED T8	86251006
+#18	SNOMED T4	277466009
+#19	SNOMED T6	128816008
+#20	SNOMED T12	118608000
+#21	SNOMED T3	14799000
+#22	SNOMED T1	14799000
+#23	SNOMED T2	14799000

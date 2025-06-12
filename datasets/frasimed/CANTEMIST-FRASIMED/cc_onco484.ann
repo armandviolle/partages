@@ -1,0 +1,66 @@
+T1	morphology-onco 597 609	néoformation
+T2	morphology-onco 620 643	glioblastome multiforme
+T3	morphology-onco 1748 1757	néoplasme
+T4	morphology-onco 1878 1889	astrocytome
+T5	morphology-onco 2038 2053	solide kystique
+T6	morphology-onco 2406 2418	néoformation
+T7	morphology-onco 2445 2468	glioblastome multiforme
+T8	morphology-onco 2518 2530	métastatique
+T9	morphology-onco 2559 2579	gliome de haut grade
+T10	morphology-onco 2599 2638	gliosarcome (GS) de grade IV (OMS 2007)
+T11	morphology-onco 2612 2614	GS
+T12	morphology-onco 2838 2859	tumeur gliale maligne
+T13	morphology-onco 2885 2895	métastases
+T14	morphology-onco 2913 2933	gliome de haut grade
+T15	morphology-onco 2953 2992	gliosarcome (GS) de grade IV (OMS 2007)
+T16	morphology-onco 2966 2968	GS
+T17	morphology-onco 3452 3472	gliome de haut grade
+T18	morphology-onco 3895 3903	tumorale
+T19	morphology-onco 6497 6505	tumoraux
+T20	morphology-onco 6873 6879	tumeur
+T21	morphology-onco 7082 7088	tumeur
+T22	morphology-onco 7362 7368	tumeur
+#1	ICD-O-3.1 T4	9400/3
+#2	ICD-O-3.1 T2	9440/3
+#3	ICD-O-3.1 T7	9440/3
+#4	ICD-O-3.1 T9	9380/34
+#5	ICD-O-3.1 T14	9380/34
+#6	ICD-O-3.1 T17	9380/34
+#7	ICD-O-3.1 T8	8000/6
+#8	ICD-O-3.1 T13	8000/6
+#9	ICD-O-3.1 T1	8000/1
+#10	ICD-O-3.1 T6	8000/1
+#11	ICD-O-3.1 T3	8000/1
+#12	ICD-O-3.1 T21	8000/1
+#13	ICD-O-3.1 T18	8000/1
+#14	ICD-O-3.1 T20	8000/1
+#15	ICD-O-3.1 T19	8000/1
+#16	ICD-O-3.1 T22	8000/1
+#17	ICD-O-3.1 T5	8452/1
+#18	ICD-O-3.1 T10	9442/34
+#19	ICD-O-3.1 T11	9442/3
+#20	ICD-O-3.1 T12	9380/3
+#21	ICD-O-3.1 T15	9442/34
+#22	ICD-O-3.1 T16	9442/3
+#23	SNOMED T4	1157043006
+#24	SNOMED T2	1163375002
+#25	SNOMED T7	1163375002
+#26	SNOMED T9	74532006
+#27	SNOMED T14	74532006
+#28	SNOMED T17	74532006
+#29	SNOMED T8	14799000
+#30	SNOMED T13	14799000
+#31	SNOMED T1	86251006
+#32	SNOMED T6	86251006
+#33	SNOMED T3	86251006
+#34	SNOMED T21	86251006
+#35	SNOMED T18	86251006
+#36	SNOMED T20	86251006
+#37	SNOMED T19	86251006
+#38	SNOMED T22	86251006
+#39	SNOMED T5	27078002
+#40	SNOMED T10	35262004
+#41	SNOMED T11	35262004
+#42	SNOMED T12	74532006
+#43	SNOMED T15	35262004
+#44	SNOMED T16	35262004

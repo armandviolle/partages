@@ -1,0 +1,39 @@
+T1	morphology-onco 341 355	adénocarcinome
+T2	morphology-onco 414 423	carcinome
+T3	morphology-onco 492 497	masse
+T4	morphology-onco 931 940	malignité
+T5	morphology-onco 1334 1343	néoplasie
+T6	morphology-onco 1782 1788	tumeur
+T7	morphology-onco 2459 2470	néoplasique
+T8	morphology-onco 2609 2625	maladie de Paget
+T9	morphology-onco 3567 3575	tumorale
+T10	morphology-onco 3689 3691	M1
+T11	morphology-onco 3812 3852	carcinome canalaire infiltrant, grade II
+T12	morphology-onco 4166 4175	carcinome
+T13	morphology-onco 4274 4328	carcinome canalaire infiltrant du sein droit, grade II
+#1	ICD-O-3.1 T10	8000/6
+#2	ICD-O-3.1 T1	8140/3
+#3	ICD-O-3.1 T2	8010/3
+#4	ICD-O-3.1 T12	8010/3
+#5	ICD-O-3.1 T4	8000/3
+#6	ICD-O-3.1 T5	8000/1
+#7	ICD-O-3.1 T7	8000/1
+#8	ICD-O-3.1 T3	8000/1
+#9	ICD-O-3.1 T6	8000/1
+#10	ICD-O-3.1 T9	8000/1
+#11	ICD-O-3.1 T8	8540/3
+#12	ICD-O-3.1 T11	8500/32
+#13	ICD-O-3.1 T13	8500/32
+#14	SNOMED T10	14799000
+#15	SNOMED T1	1187332001
+#16	SNOMED T2	1187425009
+#17	SNOMED T12	1187425009
+#18	SNOMED T4	1240414004
+#19	SNOMED T5	86251006
+#20	SNOMED T7	86251006
+#21	SNOMED T3	86251006
+#22	SNOMED T6	86251006
+#23	SNOMED T9	86251006
+#24	SNOMED T8	2985005
+#25	SNOMED T11	58477004
+#26	SNOMED T13	58477004

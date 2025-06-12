@@ -1,0 +1,140 @@
+T1	morphology-onco 2211 2219	tumorale
+T2	morphology-onco 2355 2382	dissémination leptoméningée
+T3	morphology-onco 2510 2518	Séminome
+T4	morphology-onco 2571 2590	atteinte à distance
+T5	morphology-onco 2650 2681	tumeurs des cellules germinales
+T6	morphology-onco 2745 2751	tumeur
+T7	morphology-onco 3158 3176	tumeurs germinales
+T8	morphology-onco 3204 3211	tumeurs
+T9	morphology-onco 3366 3373	tumeurs
+T10	morphology-onco 3433 3440	tumeurs
+T11	morphology-onco 3469 3500	tumeurs des cellules germinales
+T12	morphology-onco 3502 3505	TCG
+T13	morphology-onco 3508 3518	germinomes
+T14	morphology-onco 3528 3551	TCG non germinomateuses
+T15	morphology-onco 3553 3557	TCNG
+T16	morphology-onco 3572 3594	carcinome embryonnaire
+T17	morphology-onco 3599 3627	tumeur du sinus endodermique
+T18	morphology-onco 3632 3647	choriocarcinome
+T19	morphology-onco 3652 3667	tératome mature
+T20	morphology-onco 3652 3679	tératome mature et immature
+T21	morphology-onco 3686 3700	tumeurs mixtes
+T22	morphology-onco 3734 3742	séminome
+T23	morphology-onco 3749 3758	germinome
+T24	morphology-onco 3849 3854	NGGCT
+T25	morphology-onco 3872 3881	séminomes
+T26	morphology-onco 4002 4005	GCT
+T27	morphology-onco 4101 4128	dissémination leptoméningée
+T28	morphology-onco 4592 4602	germinomes
+T29	morphology-onco 4913 4931	tumeurs germinales
+T30	morphology-onco 5041 5049	séminome
+T31	morphology-onco 5053 5068	tératome mature
+T32	morphology-onco 5129 5144	choriocarcinome
+T33	morphology-onco 5146 5168	tumeur du sac vitellin
+T34	morphology-onco 5170 5192	carcinome embryonnaire
+T35	morphology-onco 5203 5223	germinomateuse mixte
+T36	morphology-onco 5388 5396	tumoraux
+T37	morphology-onco 5700 5708	séminome
+T38	morphology-onco 5767 5793	infiltration leptoméningée
+T39	morphology-onco 5817 5871	tumeurs germinales intracrâniennes non germinomateuses
+T40	morphology-onco 5873 5877	TGCN
+T41	morphology-onco 6024 6047	tumeurs germinomateuses
+T42	morphology-onco 6146 6152	tumeur
+T43	morphology-onco 6296 6302	tumeur
+T44	morphology-onco 6952 6974	germinomes multifocaux
+T45	morphology-onco 6952 6991	germinomes multifocaux ou métastatiques
+T46	morphology-onco 7077 7084	tumeurs
+T47	morphology-onco 8438 8445	tumeurs
+#1	ICD-O-3.1 T3	9061/3
+#2	ICD-O-3.1 T4	8000/6
+#3	ICD-O-3.1 T16	9070/3
+#4	ICD-O-3.1 T34	9070/3
+#5	ICD-O-3.1 T18	9100/3
+#6	ICD-O-3.1 T32	9100/3
+#7	ICD-O-3.1 T2	8000/6
+#8	ICD-O-3.1 T27	8000/6
+#9	ICD-O-3.1 T23	9064/3
+#10	ICD-O-3.1 T38	8000/6
+#11	ICD-O-3.1 T22	9061/3
+#12	ICD-O-3.1 T30	9061/3
+#13	ICD-O-3.1 T37	9061/3
+#14	ICD-O-3.1 T19	9080/0
+#15	ICD-O-3.1 T31	9080/0
+#16	ICD-O-3.1 T6	8000/1
+#17	ICD-O-3.1 T42	8000/1
+#18	ICD-O-3.1 T43	8000/1
+#19	ICD-O-3.1 T1	8000/1
+#20	ICD-O-3.1 T36	8000/1
+#21	ICD-O-3.1 T9	8000/1
+#22	ICD-O-3.1 T8	8000/1
+#23	ICD-O-3.1 T10	8000/1
+#24	ICD-O-3.1 T46	8000/1
+#25	ICD-O-3.1 T47	8000/1
+#26	ICD-O-3.1 T5	9064/3
+#27	ICD-O-3.1 T7	9064/3
+#28	ICD-O-3.1 T11	9064/3
+#29	ICD-O-3.1 T12	9064/3
+#30	ICD-O-3.1 T13	9064/3
+#31	ICD-O-3.1 T14	9065/3
+#32	ICD-O-3.1 T15	9065/3
+#33	ICD-O-3.1 T17	9071/3
+#34	ICD-O-3.1 T20	9080/3
+#35	ICD-O-3.1 T21	8000/1/H
+#36	ICD-O-3.1 T24	9065/3
+#37	ICD-O-3.1 T25	9061/3
+#38	ICD-O-3.1 T26	9064/3
+#39	ICD-O-3.1 T28	9064/3
+#40	ICD-O-3.1 T29	9064/3
+#41	ICD-O-3.1 T33	9071/3
+#42	ICD-O-3.1 T35	9064/3/H
+#43	ICD-O-3.1 T39	9065/3
+#44	ICD-O-3.1 T40	9065/3
+#45	ICD-O-3.1 T41	9064/3
+#46	ICD-O-3.1 T44	9064/3/H
+#47	ICD-O-3.1 T45	9064/6
+#48	SNOMED T3	1162765005
+#49	SNOMED T4	14799000
+#50	SNOMED T16	28047004
+#51	SNOMED T34	28047004
+#52	SNOMED T18	1156971005
+#53	SNOMED T32	1156971005
+#54	SNOMED T2	14799000
+#55	SNOMED T27	14799000
+#56	SNOMED T23	28307001
+#57	SNOMED T38	14799000
+#58	SNOMED T22	1162765005
+#59	SNOMED T30	1162765005
+#60	SNOMED T37	1162765005
+#61	SNOMED T19	42717009
+#62	SNOMED T31	42717009
+#63	SNOMED T6	86251006
+#64	SNOMED T42	86251006
+#65	SNOMED T43	86251006
+#66	SNOMED T1	86251006
+#67	SNOMED T36	86251006
+#68	SNOMED T9	86251006
+#69	SNOMED T8	86251006
+#70	SNOMED T10	86251006
+#71	SNOMED T46	86251006
+#72	SNOMED T47	86251006
+#73	SNOMED T5	28307001
+#74	SNOMED T7	28307001
+#75	SNOMED T11	28307001
+#76	SNOMED T12	28307001
+#77	SNOMED T13	28307001
+#78	SNOMED T14	128766005
+#79	SNOMED T15	128766005
+#80	SNOMED T17	74409009
+#81	SNOMED T20	1157239001
+#82	SNOMED T21	86251006
+#83	SNOMED T24	128766005
+#84	SNOMED T25	1162765005
+#85	SNOMED T26	28307001
+#86	SNOMED T28	28307001
+#87	SNOMED T29	28307001
+#88	SNOMED T33	74409009
+#89	SNOMED T35	28307001
+#90	SNOMED T39	128766005
+#91	SNOMED T40	128766005
+#92	SNOMED T41	28307001
+#93	SNOMED T44	28307001

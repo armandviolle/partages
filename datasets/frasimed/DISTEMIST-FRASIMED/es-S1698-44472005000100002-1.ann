@@ -1,0 +1,8 @@
+T1	disease 181 197	macule pigmentée
+T2	disease 277 337	lésion était située sur la muqueuse antérieure du palais dur
+T3	disease 715 724	candidose
+T4	disease 1506 1521	mélanoacanthose
+#1	SNOMED T4	394727000
+#2	SNOMED T3	78048006
+#3	SNOMED T2	126806005
+#4	SNOMED T1	271756005

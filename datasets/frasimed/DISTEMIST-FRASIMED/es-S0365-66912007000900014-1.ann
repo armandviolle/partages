@@ -1,0 +1,22 @@
+T1	disease 43 52	varicelle
+T2	disease 616 623	vitrite
+T3	disease 650 658	rétinite
+T4	disease 924 1005	rétinite nécrosante dans la région temporale associé à une vascularite rétinienne
+T5	disease 983 1005	vascularite rétinienne
+T6	disease 1341 1359	nécrose rétinienne
+T7	disease 1448 1456	rétinien
+T8	disease 1616 1623	vitrite
+T9	disease 1636 1644	rétinien
+T10	disease 2171 2203	guérison des lésions rétiniennes
+T11	disease 2305 2350	infection récente par le virus varicelle-zona
+#1	SNOMED T11	309465005
+#2	SNOMED T1	38907003
+#3	SNOMED T2	95802009
+#4	SNOMED T7	399463004
+#5	SNOMED T3	399463004
+#6	SNOMED T10	66485003
+#7	SNOMED T4	399463004+77628002
+#8	SNOMED T8	95802009
+#9	SNOMED T5	77628002
+#10	SNOMED T9	399463004
+#11	SNOMED T6	29555009

@@ -1,0 +1,18 @@
+T1	disease 44 63	troubles dépressifs
+T2	disease 86 100	automutilation
+T3	disease 116 131	polytraumatisme
+T4	disease 137 177	fracture du sacrum, branche iliopubienne
+T5	disease 230 263	infections urinaires à répétition
+T6	disease 414 423	cystocèle
+T7	disease 710 733	ectasie pyélo-urétérale
+T8	disease 889 906	ectasie urétérale
+T9	disease 915 923	Fécalome
+#1	SNOMED T1	35489007
+#2	SNOMED T8	128073008
+#3	SNOMED T9	40515007
+#4	SNOMED T6	252005008
+#5	SNOMED T3	417746004
+#6	SNOMED T4	13695006
+#7	SNOMED T5	197927001
+#8	SNOMED T7	32004001+25322007
+#9	SNOMED T2	248061004

@@ -1,0 +1,21 @@
+T1	morphology-onco 93 128	cancer du sein canalaire infiltrant
+T2	morphology-onco 158 165	cT2N0M0
+T3	morphology-onco 271 277	cancer
+T4	morphology-onco 653 659	cancer
+T5	morphology-onco 1181 1187	cancer
+T6	morphology-onco 1212 1217	SCHMO
+T7	morphology-onco 1730 1735	SCHMO
+#1	ICD-O-3.1 T2	8000/6
+#2	ICD-O-3.1 T3	8000/3
+#3	ICD-O-3.1 T4	8000/3
+#4	ICD-O-3.1 T5	8000/3
+#5	ICD-O-3.1 T1	8500/3
+#6	ICD-O-3.1 T6	8000/3
+#7	ICD-O-3.1 T7	8000/3
+#8	SNOMED T2	14799000
+#9	SNOMED T3	1240414004
+#10	SNOMED T4	1240414004
+#11	SNOMED T5	1240414004
+#12	SNOMED T1	58477004
+#13	SNOMED T6	1240414004
+#14	SNOMED T7	1240414004

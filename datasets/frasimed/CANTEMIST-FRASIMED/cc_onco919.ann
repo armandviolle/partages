@@ -1,0 +1,39 @@
+T1	morphology-onco 375 389	adénocarcinome
+T2	morphology-onco 391 394	ADC
+T3	morphology-onco 568 606	ADC de la prostate pT3b, Gleason 3 + 4
+T4	morphology-onco 2311 2314	ADC
+T5	morphology-onco 2329 2332	ADC
+T6	morphology-onco 2769 2772	ADC
+T7	morphology-onco 2813 2837	dissémination à distance
+T8	morphology-onco 3022 3028	tumeur
+T9	morphology-onco 3377 3390	métastase ADC
+T10	morphology-onco 4107 4114	maligne
+T11	morphology-onco 4188 4191	ADC
+T12	morphology-onco 4294 4325	métastase d'ADC peu différencié
+T13	morphology-onco 4544 4556	métastatique
+#1	ICD-O-3.1 T1	8140/3
+#2	ICD-O-3.1 T10	8000/3
+#3	ICD-O-3.1 T13	8000/6
+#4	ICD-O-3.1 T8	8000/1
+#5	ICD-O-3.1 T2	8140/3
+#6	ICD-O-3.1 T3	8140/32
+#7	ICD-O-3.1 T4	8140/3
+#8	ICD-O-3.1 T5	8140/3
+#9	ICD-O-3.1 T6	8140/3
+#10	ICD-O-3.1 T7	8000/6
+#11	ICD-O-3.1 T9	8140/6
+#12	ICD-O-3.1 T11	8140/3
+#13	ICD-O-3.1 T12	8140/33
+#14	SNOMED T1	1187332001
+#15	SNOMED T10	1240414004
+#16	SNOMED T13	14799000
+#17	SNOMED T8	86251006
+#18	SNOMED T2	1187332001
+#19	SNOMED T3	1187332001
+#20	SNOMED T4	1187332001
+#21	SNOMED T5	1187332001
+#22	SNOMED T6	1187332001
+#23	SNOMED T7	14799000
+#24	SNOMED T9	4590003
+#25	SNOMED T11	1187332001
+#26	SNOMED T12	1187332001

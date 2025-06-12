@@ -1,0 +1,33 @@
+T1	morphology-onco 132 138	tumeur
+T2	morphology-onco 1982 1992	métastases
+T3	morphology-onco 2179 2189	métastases
+T4	morphology-onco 2289 2296	maligne
+T5	morphology-onco 2395 2409	adénocarcinome
+T6	morphology-onco 2616 2638	implants péricardiques
+T7	morphology-onco 2787 2843	masse de 35 mm a été visualisée dans la glande surrénale
+T8	morphology-onco 2865 2874	métastase
+T9	morphology-onco 2921 2966	adénocarcinome du poumon, stade IV (cT4N2M1b)
+T10	morphology-onco 3799 3822	maladie dans le cerveau
+T11	morphology-onco 3946 3954	tumorale
+#1	ICD-O-3.1 T5	8140/3
+#2	ICD-O-3.1 T2	8000/6
+#3	ICD-O-3.1 T3	8000/6
+#4	ICD-O-3.1 T8	8000/6
+#5	ICD-O-3.1 T1	8000/1
+#6	ICD-O-3.1 T11	8000/1
+#7	ICD-O-3.1 T4	8000/3
+#8	ICD-O-3.1 T6	8000/6
+#9	ICD-O-3.1 T9	8140/6
+#10	ICD-O-3.1 T7	8000/6
+#11	ICD-O-3.1 T10	8000/6
+#12	SNOMED T5	1187332001
+#13	SNOMED T2	14799000
+#14	SNOMED T3	14799000
+#15	SNOMED T8	14799000
+#16	SNOMED T1	86251006
+#17	SNOMED T11	86251006
+#18	SNOMED T4	1240414004
+#19	SNOMED T6	14799000
+#20	SNOMED T9	4590003
+#21	SNOMED T7	14799000
+#22	SNOMED T10	14799000

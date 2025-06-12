@@ -1,0 +1,45 @@
+T1	morphology-onco 12 40	carcinome à cellules rénales
+T2	morphology-onco 42 45	CCR
+T3	morphology-onco 177 187	métastases
+T4	morphology-onco 314 317	CCR
+T5	morphology-onco 325 331	tumeur
+T6	morphology-onco 381 390	métastase
+T7	morphology-onco 444 454	métastases
+T8	morphology-onco 599 612	hypernéphrome
+T9	morphology-onco 1006 1012	tumeur
+T10	morphology-onco 1424 1430	tumeur
+T11	morphology-onco 1592 1620	carcinome à cellules claires
+T12	morphology-onco 2007 2010	CCR
+T13	morphology-onco 2090 2106	CCR métastatique
+T14	morphology-onco 2353 2369	CCR métastatique
+T15	morphology-onco 2736 2745	métastase
+T16	morphology-onco 2872 2907	métastase nasale de l'hypernéphrome
+#1	ICD-O-3.1 T2	8312/3
+#2	ICD-O-3.1 T4	8312/3
+#3	ICD-O-3.1 T12	8312/3
+#4	ICD-O-3.1 T11	8310/3
+#5	ICD-O-3.1 T1	8312/3
+#6	ICD-O-3.1 T8	8312/3
+#7	ICD-O-3.1 T6	8000/6
+#8	ICD-O-3.1 T3	8000/6
+#9	ICD-O-3.1 T7	8000/6
+#10	ICD-O-3.1 T15	8000/6
+#11	ICD-O-3.1 T5	8000/1
+#12	ICD-O-3.1 T10	8000/1
+#13	ICD-O-3.1 T9	8000/1
+#14	ICD-O-3.1 T13	8312/6
+#15	ICD-O-3.1 T14	8312/6
+#16	ICD-O-3.1 T16	8312/6
+#17	SNOMED T2	41607009
+#18	SNOMED T4	41607009
+#19	SNOMED T12	41607009
+#20	SNOMED T11	30546008
+#21	SNOMED T1	41607009
+#22	SNOMED T8	41607009
+#23	SNOMED T6	14799000
+#24	SNOMED T3	14799000
+#25	SNOMED T7	14799000
+#26	SNOMED T15	14799000
+#27	SNOMED T5	86251006
+#28	SNOMED T10	86251006
+#29	SNOMED T9	86251006

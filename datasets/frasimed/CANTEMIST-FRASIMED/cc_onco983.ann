@@ -1,0 +1,44 @@
+T1	morphology-onco 363 379	atteinte osseuse
+T2	morphology-onco 380 392	métastatique
+T3	morphology-onco 693 696	PTC
+T4	morphology-onco 730 777	PTC de stade IV en raison de l'atteinte osseuse
+T5	morphology-onco 1084 1103	progression osseuse
+T6	morphology-onco 1438 1453	maladie osseuse
+T7	morphology-onco 1893 1912	progression osseuse
+T8	morphology-onco 3133 3143	métastases
+T9	morphology-onco 3167 3192	syndrome myélodysplasique
+T10	morphology-onco 3504 3529	syndrome myélodysplasique
+T11	morphology-onco 4044 4053	néoplasme
+T12	morphology-onco 4095 4120	syndrome myélodysplasique
+T13	morphology-onco 4534 4559	syndrome myélodysplasique
+T14	morphology-onco 5092 5106	adénocarcinome
+T15	morphology-onco 5312 5337	syndrome myélodysplasique
+#1	ICD-O-3.1 T14	8140/3
+#2	ICD-O-3.1 T1	8000/6
+#3	ICD-O-3.1 T2	8000/6
+#4	ICD-O-3.1 T8	8000/6
+#5	ICD-O-3.1 T11	8000/1
+#6	ICD-O-3.1 T3	8260/3
+#7	ICD-O-3.1 T4	8260/6
+#8	ICD-O-3.1 T5	8000/6
+#9	ICD-O-3.1 T6	8000/6
+#10	ICD-O-3.1 T7	8000/6
+#11	ICD-O-3.1 T9	9989/3
+#12	ICD-O-3.1 T10	9989/3
+#13	ICD-O-3.1 T12	9989/3
+#14	ICD-O-3.1 T13	9989/3
+#15	ICD-O-3.1 T15	9989/3
+#16	SNOMED T14	1187332001
+#17	SNOMED T1	14799000
+#18	SNOMED T2	14799000
+#19	SNOMED T8	14799000
+#20	SNOMED T11	86251006
+#21	SNOMED T3	4797003
+#22	SNOMED T5	14799000
+#23	SNOMED T6	14799000
+#24	SNOMED T7	14799000
+#25	SNOMED T9	109995007
+#26	SNOMED T10	109995007
+#27	SNOMED T12	109995007
+#28	SNOMED T13	109995007
+#29	SNOMED T15	109995007

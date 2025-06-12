@@ -1,0 +1,12 @@
+T1	disease 88 104	hernies discales
+T2	disease 125 167	lithiase coralliforme dans le bassin rénal
+T3	disease 206 232	dilatation pyélocalicielle
+T4	disease 1191 1228	sténose urétérale lombaire et iliaque
+T5	disease 1530 1547	sténose urétérale
+T6	disease 2288 2305	sténose urétérale
+#1	SNOMED T1	84857004
+#2	SNOMED T2	236710009
+#3	SNOMED T4	95574003+312496009
+#4	SNOMED T6	95574003
+#5	SNOMED T5	95574003
+#6	SNOMED T3	197820003

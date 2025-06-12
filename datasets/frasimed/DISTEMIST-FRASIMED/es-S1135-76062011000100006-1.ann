@@ -1,0 +1,18 @@
+T1	disease 30 49	balle dans le crâne
+T2	disease 177 198	blessure encéphalique
+T3	disease 225 272	trous dans le cuir chevelu (frontal et pariétal
+T4	disease 293 337	blessure d'entrée osseuse dans l'os pariétal
+T5	disease 381 403	plaie d'entrée cutanée
+T6	disease 692 700	fracture
+T7	disease 705 768	fragment de projectile a été retrouvé dans la région occipitale
+T8	disease 893 941	plaie de sortie cutanée dans la région pariétale
+T9	disease 1043 1059	orifices cutanés
+#1	SNOMED T1	38354005
+#2	SNOMED T2	81308009
+#3	SNOMED T3	210323002
+#4	SNOMED T4	83385002
+#5	SNOMED T5	425055008
+#6	SNOMED T6	72704001
+#7	SNOMED T7	262598006
+#8	SNOMED T8	424867003
+#9	SNOMED T9	262526004

@@ -1,0 +1,34 @@
+T1	morphology-onco 13 20	tumeurs
+T2	morphology-onco 152 160	malignes
+T3	morphology-onco 178 216	angiosarcomes cardiaques métastatiques
+T4	morphology-onco 324 336	angiosarcome
+T5	morphology-onco 1134 1188	lésions lytiques dans les corps vertébraux médullaires
+T6	morphology-onco 1214 1226	angiosarcome
+T7	morphology-onco 1253 1319	Angiosarcome de l'oreillette droite, stade IV, dû à des métastases
+T8	morphology-onco 1416 1422	tumeur
+T9	morphology-onco 1560 1566	tumeur
+T10	morphology-onco 1593 1599	tumeur
+T11	morphology-onco 2335 2345	métastases
+T12	morphology-onco 2686 2707	progression hépatique
+#1	ICD-O-3.1 T4	9120/3
+#2	ICD-O-3.1 T6	9120/3
+#3	ICD-O-3.1 T2	8000/3
+#4	ICD-O-3.1 T11	8000/6
+#5	ICD-O-3.1 T12	8000/6
+#6	ICD-O-3.1 T8	8000/1
+#7	ICD-O-3.1 T9	8000/1
+#8	ICD-O-3.1 T10	8000/1
+#9	ICD-O-3.1 T1	8000/1
+#10	ICD-O-3.1 T3	9120/6
+#11	ICD-O-3.1 T5	8000/6
+#12	ICD-O-3.1 T7	9120/6
+#13	SNOMED T4	39000009
+#14	SNOMED T6	39000009
+#15	SNOMED T2	1240414004
+#16	SNOMED T11	14799000
+#17	SNOMED T12	14799000
+#18	SNOMED T8	86251006
+#19	SNOMED T9	86251006
+#20	SNOMED T10	86251006
+#21	SNOMED T1	86251006
+#22	SNOMED T5	14799000

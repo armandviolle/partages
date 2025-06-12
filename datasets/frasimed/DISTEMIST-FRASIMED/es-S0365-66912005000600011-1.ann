@@ -1,0 +1,8 @@
+T1	disease 263 317	pemphigus vulgaire muqueux de la gorge et de la bouche
+T2	disease 443 463	hypercholestérolémie
+T3	disease 643 699	ampoule dans le secteur nasal de la conjonctive bulbaire
+T4	disease 1327 1345	pemphigus vulgaire
+#1	SNOMED T1	361212009
+#2	SNOMED T2	13644009
+#3	SNOMED T4	49420001
+#4	SNOMED T3	112401000119106

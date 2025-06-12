@@ -1,0 +1,16 @@
+T1	disease 613 632	utérus hypoplasique
+T2	disease 900 937	infiltration des organes de voisinage
+T3	disease 941 947	ascite
+T4	disease 953 965	adénomégalie
+T5	disease 1047 1070	mucocèle appendiculaire
+T6	disease 1114 1140	implants dans le péritoine
+T7	disease 1476 1533	mucocèle secondaire à une tumeur mucineuse appendiculaire
+T8	disease 1754 1763	néoplasie
+#1	SNOMED T7	53773002
+#2	SNOMED T8	55342001
+#3	SNOMED T1	35850006
+#4	SNOMED T3	389026000
+#5	SNOMED T4	30746006
+#6	SNOMED T5	53773002
+#7	SNOMED T6	94627008
+#8	SNOMED T2	128462008

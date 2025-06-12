@@ -1,0 +1,18 @@
+T1	disease 75 85	varicocèle
+T2	disease 709 719	varicocèle
+T3	disease 1136 1155	métastases osseuses
+T4	disease 1631 1645	masse tumorale
+T5	disease 1781 1807	sarcome fibromyxoïde rénal
+T6	disease 2156 2257	récidive locale étendue a été détectée au scanner thoraco-abdominal, une masse dans la cellule rénale
+T7	disease 2463 2550	infiltrant la rate, la queue du pancréas, la grande courbure gastrique et le diaphragme
+T8	disease 2849 2915	récidive abdominale et rétropéritonéale d'un sarcome de haut grade
+T9	disease 2936 2948	fibrosarcome
+#1	SNOMED T2	51070004
+#2	SNOMED T3	94222008
+#3	SNOMED T8	2424003
+#4	SNOMED T1	51070004
+#5	SNOMED T6	314967004
+#6	SNOMED T5	6250003+64033007
+#7	SNOMED T7	94603006+94459006+94606003+94272005
+#8	SNOMED T9	443250000
+#9	SNOMED T4	55342001

@@ -1,0 +1,8 @@
+T1	disease 696 715	tumeur de bas grade
+T2	disease 1884 1893	carcinome
+T3	disease 2915 2945	carcinome à cellules acineuses
+T4	disease 3297 3313	lésion nodulaire
+T5	disease 3638 3664	néoformation microkystique
+T6	disease 4264 4273	néoplasme
+T7	disease 4335 4370	infiltration vasculaire ou nerveuse
+T8	disease 4409 4452	carcinome à cellules acineuses de bas grade

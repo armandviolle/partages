@@ -1,0 +1,9 @@
+T1	morphology-onco 744 787	adénopathies cervicales, supraclaviculaires
+T2	morphology-onco 1106 1114	tumorale
+T3	morphology-onco 1431 1444	métastase ADC
+#1	ICD-O-3.1 T2	8000/1
+#2	ICD-O-3.1 T1	8000/6
+#3	ICD-O-3.1 T3	8140/6
+#4	SNOMED T2	86251006
+#5	SNOMED T1	14799000
+#6	SNOMED T3	4590003

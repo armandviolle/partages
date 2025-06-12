@@ -1,0 +1,36 @@
+T1	disease 15 21	fumeur
+T2	disease 72 91	œsophagite peptique
+T3	disease 96 110	hernie hiatale
+T4	disease 116 133	asthme bronchique
+T5	disease 138 148	allergique
+T6	disease 155 165	diabétique
+T7	disease 400 422	gastro-entérite aiguë.
+T8	disease 999 1018	colique néphrétique
+T9	disease 1380 1399	légère hyponatrémie
+T10	disease 1550 1581	tumeur dans la glande surrénale
+T11	disease 1768 1784	phéochromocytome
+T12	disease 1791 1812	carcinome surrénalien
+T13	disease 1977 1993	phéochromocytome
+T14	disease 2213 2228	masse surrénale
+T15	disease 2323 2339	phéochromocytome
+T16	disease 2367 2383	phéochromocytome
+T17	disease 2599 2621	phéochromocytome malin
+T18	disease 2788 2819	thrombus tumoral dans une veine
+#1	SNOMED T1	77176002
+#2	SNOMED T2	16761005
+#3	SNOMED T3	84089009
+#4	SNOMED T4	195967001
+#5	SNOMED T10	237783006
+#6	SNOMED T13	302835009
+#7	SNOMED T7	69776003
+#8	SNOMED T11	302835009
+#9	SNOMED T14	237783006
+#10	SNOMED T12	255035007
+#11	SNOMED T8	7093002
+#12	SNOMED T15	302835009
+#13	SNOMED T16	302835009
+#14	SNOMED T17	21851000119103
+#15	SNOMED T18	448128007
+#16	SNOMED T6	73211009
+#17	SNOMED T5	106190000
+#18	SNOMED T9	89627008

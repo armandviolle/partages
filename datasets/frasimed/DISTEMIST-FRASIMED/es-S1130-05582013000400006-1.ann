@@ -1,0 +1,16 @@
+T1	disease 184 195	traumatisme
+T2	disease 219 225	lésion
+T3	disease 387 446	lésion malaire expansive, polylobée, avec une calcification
+T4	disease 533 550	lésion médullaire
+T5	disease 736 763	lésion ostéolytique malaire
+T6	disease 970 987	lésion vasculaire
+T7	disease 1768 1791	hémangiome intra-osseux
+T8	disease 1962 1997	malformation veineuse intra-osseuse
+#1	SNOMED T6	699605009
+#2	SNOMED T8	764100007
+#3	SNOMED T4	146251000146109
+#4	SNOMED T7	685021000119103
+#5	SNOMED T1	417746004
+#6	SNOMED T2	417163006
+#7	SNOMED T3	126546006
+#8	SNOMED T5	128227001

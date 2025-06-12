@@ -1,0 +1,57 @@
+T1	morphology-onco 764 770	tumeur
+T2	morphology-onco 1019 1026	maligne
+T3	morphology-onco 1268 1285	nodule pulmonaire
+T4	morphology-onco 1408 1436	nodule de 2,3 cm dans le LSD
+T5	morphology-onco 1580 1589	malignité
+T6	morphology-onco 1594 1603	malignité
+T7	morphology-onco 1821 1853	carcinome non à petites cellules
+T8	morphology-onco 2151 2191	métastase pulmonaire d'un adénocarcinome
+T9	morphology-onco 2668 2677	malignité
+T10	morphology-onco 2823 2867	adénocarcinome compatible avec une métastase
+T11	morphology-onco 4288 4305	lésion pulmonaire
+T12	morphology-onco 4336 4357	lésion intratrachéale
+T13	morphology-onco 4772 4786	adénocarcinome
+T14	morphology-onco 5076 5120	Métastase intratrachéale d'un adénocarcinome
+T15	morphology-onco 5650 5656	tumeur
+T16	morphology-onco 5729 5755	métastase d'adénocarcinome
+T17	morphology-onco 6649 6671	progression pulmonaire
+T18	morphology-onco 6677 6687	métastases
+T19	morphology-onco 7006 7022	lésion trachéale
+#1	ICD-O-3.1 T13	8140/3
+#2	ICD-O-3.1 T2	8000/3
+#3	ICD-O-3.1 T5	8000/3
+#4	ICD-O-3.1 T6	8000/3
+#5	ICD-O-3.1 T9	8000/3
+#6	ICD-O-3.1 T18	8000/6
+#7	ICD-O-3.1 T16	8140/6
+#8	ICD-O-3.1 T3	8000/6
+#9	ICD-O-3.1 T17	8000/6
+#10	ICD-O-3.1 T1	8000/1
+#11	ICD-O-3.1 T15	8000/1
+#12	ICD-O-3.1 T7	8046/3
+#13	ICD-O-3.1 T8	8140/6
+#14	ICD-O-3.1 T10	8140/6
+#15	ICD-O-3.1 T14	8140/6
+#16	ICD-O-3.1 T4	8000/6
+#17	ICD-O-3.1 T12	8000/6
+#18	ICD-O-3.1 T11	8000/6
+#19	ICD-O-3.1 T19	8000/6
+#20	SNOMED T13	1187332001
+#21	SNOMED T2	1240414004
+#22	SNOMED T5	1240414004
+#23	SNOMED T6	1240414004
+#24	SNOMED T9	1240414004
+#25	SNOMED T18	14799000
+#26	SNOMED T16	4590003
+#27	SNOMED T3	14799000
+#28	SNOMED T17	14799000
+#29	SNOMED T1	86251006
+#30	SNOMED T15	86251006
+#31	SNOMED T7	128632008
+#32	SNOMED T8	4590003
+#33	SNOMED T10	4590003
+#34	SNOMED T14	4590003
+#35	SNOMED T4	14799000
+#36	SNOMED T12	14799000
+#37	SNOMED T11	14799000
+#38	SNOMED T19	14799000

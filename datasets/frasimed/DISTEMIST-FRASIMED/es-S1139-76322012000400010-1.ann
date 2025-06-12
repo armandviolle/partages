@@ -1,0 +1,8 @@
+T1	disease 303 322	maladie infectieuse
+T2	disease 721 748	fracture-avulsion de l'EIAI
+T3	disease 1040 1048	blessure
+T4	disease 1171 1179	blessure
+#1	SNOMED T2	426679004
+#2	SNOMED T1	394807007
+#3	SNOMED T3	417163006
+#4	SNOMED T4	417163006

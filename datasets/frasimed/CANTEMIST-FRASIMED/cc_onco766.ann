@@ -1,0 +1,12 @@
+T1	morphology-onco 1293 1305	néoplasiques
+T2	morphology-onco 2055 2067	métastatique
+T3	morphology-onco 4353 4373	lésion surrénalienne
+T4	morphology-onco 4374 4386	métastatique
+#1	ICD-O-3.1 T4	8000/6
+#2	ICD-O-3.1 T2	8000/6
+#3	ICD-O-3.1 T1	8000/1
+#4	ICD-O-3.1 T3	8000/6
+#5	SNOMED T4	14799000
+#6	SNOMED T2	14799000
+#7	SNOMED T1	86251006
+#8	SNOMED T3	14799000

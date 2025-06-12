@@ -1,0 +1,24 @@
+T1	disease 66 75	strabisme
+T2	disease 95 105	endotropie
+T3	disease 132 143	hypertropie
+T4	disease 580 589	varicelle
+T5	disease 580 610	varicelle pendant sa grossesse
+T6	disease 674 691	syndrome d'Alport
+T7	disease 823 859	lésions ovales dans les deux macules
+T8	disease 915 940	ancienne rétinochoroïdite
+T9	disease 1150 1183	atrophie parapapillaire temporale
+T10	disease 1207 1232	atrophie choriorétinienne
+T11	disease 1395 1411	ectasie sclérale
+T12	disease 1448 1457	nystagmus
+T13	disease 1471 1488	lésions oculaires
+T14	disease 1565 1597	infection oculaire intra-utérine
+T15	disease 1637 1644	Rubella
+T16	disease 1677 1685	syphilis
+T17	disease 1704 1733	chorioméningite lymphocytaire
+T18	disease 2277 2285	Syphilis
+T19	disease 2315 2322	Rubéole
+T20	disease 2424 2453	chorioméningite lymphocytaire
+T21	disease 2689 2726	colobome maculaire atypique bilatéral
+T22	disease 2921 2935	hypercalciurie
+T23	disease 2945 2959	hypomagnésémie
+T24	disease 3462 3470	colobome

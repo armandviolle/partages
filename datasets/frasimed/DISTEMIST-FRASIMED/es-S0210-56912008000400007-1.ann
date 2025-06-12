@@ -1,0 +1,10 @@
+T1	disease 39 54	polytraumatisme
+T2	disease 253 305	pseudo-anévrisme de l'aorte thoracique dans l'isthme
+T3	disease 312 334	hématome péri-aortique
+T4	disease 377 384	lésions
+T5	disease 599 614	lésion aortique
+#1	SNOMED T1	417746004
+#2	SNOMED T5	47040006
+#3	SNOMED T2	443089001
+#4	SNOMED T3	56494006+385494008
+#5	SNOMED T4	157670007

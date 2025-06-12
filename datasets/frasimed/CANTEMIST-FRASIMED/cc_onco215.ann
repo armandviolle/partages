@@ -1,0 +1,63 @@
+T1	morphology-onco 162 167	nævus
+T2	morphology-onco 237 246	néoplasie
+T3	morphology-onco 292 301	néoplasie
+T4	morphology-onco 716 740	dissémination à distance
+T5	morphology-onco 852 870	mélanome nodulaire
+T6	morphology-onco 1064 1072	tumorale
+T7	morphology-onco 1337 1359	métastases de mélanome
+T8	morphology-onco 1531 1541	métastases
+T9	morphology-onco 1749 1767	mélanome nodulaire
+T10	morphology-onco 1768 1778	pT3bpN2bM0
+T11	morphology-onco 2397 2428	métastases cutanées de mélanome
+T12	morphology-onco 2496 2540	adénopathique dans le creux sus-claviculaire
+T13	morphology-onco 2813 2837	maladie au niveau cutané
+T14	morphology-onco 2925 2950	adénopathique dans le FSC
+T15	morphology-onco 3161 3168	maligne
+T16	morphology-onco 3397 3429	multiples métastases de mélanome
+T17	morphology-onco 3762 3770	tumorale
+T18	morphology-onco 3988 4001	métastatiques
+T19	morphology-onco 4296 4308	métastatique
+T20	morphology-onco 5024 5033	malignité
+T21	morphology-onco 5054 5076	régression du mélanome
+#1	ICD-O-3.1 T4	8000/6
+#2	ICD-O-3.1 T15	8000/3
+#3	ICD-O-3.1 T20	8000/3
+#4	ICD-O-3.1 T21	8723/3
+#5	ICD-O-3.1 T5	8721/3
+#6	ICD-O-3.1 T9	8721/3
+#7	ICD-O-3.1 T19	8000/6
+#8	ICD-O-3.1 T18	8000/6
+#9	ICD-O-3.1 T8	8000/6
+#10	ICD-O-3.1 T11	8720/6
+#11	ICD-O-3.1 T7	8720/6
+#12	ICD-O-3.1 T2	8000/1
+#13	ICD-O-3.1 T3	8000/1
+#14	ICD-O-3.1 T1	8720/0
+#15	ICD-O-3.1 T6	8000/1
+#16	ICD-O-3.1 T17	8000/1
+#17	ICD-O-3.1 T10	8000/6
+#18	ICD-O-3.1 T12	8000/6
+#19	ICD-O-3.1 T13	8000/6
+#20	ICD-O-3.1 T14	8000/6
+#21	ICD-O-3.1 T16	8720/6
+#22	SNOMED T4	14799000
+#23	SNOMED T15	1240414004
+#24	SNOMED T20	1240414004
+#25	SNOMED T21	39896009
+#26	SNOMED T5	2142002
+#27	SNOMED T9	2142002
+#28	SNOMED T19	14799000
+#29	SNOMED T18	14799000
+#30	SNOMED T8	14799000
+#31	SNOMED T11	372158004
+#32	SNOMED T7	372158004
+#33	SNOMED T2	86251006
+#34	SNOMED T3	86251006
+#35	SNOMED T1	400010006
+#36	SNOMED T6	86251006
+#37	SNOMED T17	86251006
+#38	SNOMED T10	14799000
+#39	SNOMED T12	14799000
+#40	SNOMED T13	14799000
+#41	SNOMED T14	14799000
+#42	SNOMED T16	372158004

@@ -1,0 +1,22 @@
+T1	disease 119 138	traumatisme au bras
+T2	disease 197 254	fracture ouverte transversale du tiers moyen de l'humérus
+T3	disease 358 397	lésion vasculaire de l'artère brachiale
+T4	disease 1095 1140	plaie linéaire sur la face antérieure du bras
+T5	disease 1148 1183	section complète du biceps brachial
+T6	disease 1324 1377	fracture exposée du tiers moyen de l'humérus déplacée
+T7	disease 2189 2207	syndrome des loges
+T8	disease 2495 2516	fracture de l'humérus
+T9	disease 2744 2752	fracture
+T10	disease 5205 5228	insuffisance artérielle
+T11	disease 5282 5299	fracture humérale
+#1	SNOMED T10	195374003
+#2	SNOMED T7	111245009
+#3	SNOMED T4	125595000
+#4	SNOMED T1	125595000
+#5	SNOMED T5	724921009
+#6	SNOMED T9	72704001
+#7	SNOMED T11	66308002
+#8	SNOMED T2	89294002
+#9	SNOMED T6	89294002
+#10	SNOMED T3	285711003
+#11	SNOMED T8	66308002

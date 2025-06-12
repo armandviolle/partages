@@ -1,0 +1,42 @@
+T1	morphology-onco 166 180	tumeur bénigne
+T2	morphology-onco 215 224	cavernome
+T3	morphology-onco 284 290	naevus
+T4	morphology-onco 891 899	mélanome
+T5	morphology-onco 948 1002	Tumeur de mélanocytes épithélioïdes avec pléomorphisme
+T6	morphology-onco 1138 1147	néoplasie
+T7	morphology-onco 1265 1276	néoplasique
+T8	morphology-onco 1448 1456	Mélanome
+T9	morphology-onco 1502 1510	mélanome
+T10	morphology-onco 1757 1767	métastases
+T11	morphology-onco 1944 1963	nodules pulmonaires
+T12	morphology-onco 1995 2004	malignité
+T13	morphology-onco 2342 2363	mélanome métastatique
+T14	morphology-onco 2381 2400	atteinte pulmonaire
+#1	ICD-O-3.1 T2	9121/0
+#2	ICD-O-3.1 T12	8000/3
+#3	ICD-O-3.1 T4	8720/3
+#4	ICD-O-3.1 T9	8720/3
+#5	ICD-O-3.1 T10	8000/6
+#6	ICD-O-3.1 T6	8000/1
+#7	ICD-O-3.1 T3	8720/0
+#8	ICD-O-3.1 T1	8000/0
+#9	ICD-O-3.1 T5	8771/3/H
+#10	ICD-O-3.1 T7	8000/1
+#11	ICD-O-3.1 T8	8720/3
+#12	ICD-O-3.1 T13	8720/6
+#13	ICD-O-3.1 T11	8000/6
+#14	ICD-O-3.1 T14	8000/6
+#15	SNOMED T2	33377007
+#16	SNOMED T12	1240414004
+#17	SNOMED T4	1162635006
+#18	SNOMED T9	1162635006
+#19	SNOMED T10	14799000
+#20	SNOMED T6	86251006
+#21	SNOMED T3	400010006
+#22	SNOMED T1	3898006
+#23	SNOMED T5	37138001
+#24	SNOMED T7	86251006
+#25	SNOMED T8	1162635006
+#26	SNOMED T13	372158004
+#27	SNOMED T11	14799000
+#28	SNOMED T14	14799000

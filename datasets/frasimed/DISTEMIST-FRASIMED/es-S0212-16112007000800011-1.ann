@@ -1,0 +1,18 @@
+T1	disease 34 50	maladie de Crohn
+T2	disease 605 628	perforation iléo-cæcale
+T3	disease 688 707	abcès dans la fesse
+T4	disease 669 682	fistule anale
+T5	disease 777 812	infection périanale polymicrobienne
+T6	disease 1100 1133	crise tonico-clonique généralisée
+T7	disease 1677 1710	crise tonico-clonique généralisée
+T8	disease 2153 2167	déshydratation
+T9	disease 2174 2186	malnutrition
+T10	disease 2566 2585	épisodes convulsifs
+T11	disease 3106 3125	malnutrition sévère
+T12	disease 3149 3187	légère déshydratation cutanéo-muqueuse
+T13	disease 3290 3334	malnutrition mixte énergie-protéines modérée
+T14	disease 3501 3513	hypocalcémie
+T15	disease 3519 3533	hypomagnésémie
+T16	disease 3971 3985	déshydratation
+T17	disease 4025 4052	débit élevé de l'iléostomie
+T18	disease 5024 5040	épisode de crise

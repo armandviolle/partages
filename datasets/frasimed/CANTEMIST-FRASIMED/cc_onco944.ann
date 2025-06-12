@@ -1,0 +1,9 @@
+T1	morphology-onco 44 75	lymphome de Burkitt de type IIB
+T2	morphology-onco 985 1015	maladie de Paget extramammaire
+T3	morphology-onco 2206 2225	atteinte à distance
+#1	ICD-O-3.1 T3	8000/6
+#2	ICD-O-3.1 T1	9687/3/H
+#3	ICD-O-3.1 T2	8542/3
+#4	SNOMED T3	14799000
+#5	SNOMED T1	118617000
+#6	SNOMED T2	232336001

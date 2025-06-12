@@ -1,0 +1,35 @@
+T1	morphology-onco 202 258	Tumeur osseuse à cellules géantes de grade 3 de Sanerkin
+T2	morphology-onco 338 348	Métastases
+T3	morphology-onco 2109 2126	implants tumoraux
+T4	morphology-onco 2354 2360	tumeur
+T5	morphology-onco 2597 2609	métastatique
+T6	morphology-onco 2647 2665	masse médiastinale
+T7	morphology-onco 2977 3056	Métastases pulmonaires et médiastinales d'une tumeur osseuse à cellules géantes
+T8	morphology-onco 3065 3083	Masse médiastinale
+T9	morphology-onco 3512 3521	néoplasie
+T10	morphology-onco 3753 3782	maladie au niveau médiastinal
+T11	morphology-onco 4112 4138	infiltration de l'œsophage
+T12	morphology-onco 4479 4504	tumeur à cellules géantes
+#1	ICD-O-3.1 T2	8000/6
+#2	ICD-O-3.1 T3	8000/6
+#3	ICD-O-3.1 T5	8000/6
+#4	ICD-O-3.1 T9	8000/1
+#5	ICD-O-3.1 T4	8000/1
+#6	ICD-O-3.1 T1	9250/33
+#7	ICD-O-3.1 T7	9250/6
+#8	ICD-O-3.1 T11	8000/6
+#9	ICD-O-3.1 T12	8003/3
+#10	ICD-O-3.1 T6	8000/6
+#11	ICD-O-3.1 T8	8000/6
+#12	ICD-O-3.1 T10	8000/6
+#13	SNOMED T2	14799000
+#14	SNOMED T3	14799000
+#15	SNOMED T5	14799000
+#16	SNOMED T9	86251006
+#17	SNOMED T4	86251006
+#18	SNOMED T1	10069009
+#19	SNOMED T11	14799000
+#20	SNOMED T12	83950009
+#21	SNOMED T6	14799000
+#22	SNOMED T8	14799000
+#23	SNOMED T10	14799000

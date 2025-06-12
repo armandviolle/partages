@@ -1,0 +1,45 @@
+T1	morphology-onco 149 163	adénocarcinome
+T2	morphology-onco 506 524	maladie à distance
+T3	morphology-onco 662 668	tumeur
+T4	morphology-onco 970 976	tumeur
+T5	morphology-onco 1007 1092	adénocarcinome du côlon avec des cellules en anneau de signet, grade histologique III
+T6	morphology-onco 1270 1284	adénocarcinome
+T7	morphology-onco 1312 1321	pT3pN2bM0
+T8	morphology-onco 2131 2150	nodules pulmonaires
+T9	morphology-onco 3192 3251	dissémination métastatique bronchovasculaire et lymphatique
+T10	morphology-onco 3206 3218	métastatique
+T11	morphology-onco 3317 3369	dissémination lymphatique unique de l'adénocarcinome
+T12	morphology-onco 4592 4606	adénocarcinome
+T13	morphology-onco 4642 4684	Progression pulmonaire d'un adénocarcinome
+T14	morphology-onco 4777 4803	lymphangite carcinomateuse
+T15	morphology-onco 5716 5742	lymphangite carcinomateuse
+#1	ICD-O-3.1 T1	8140/3
+#2	ICD-O-3.1 T6	8140/3
+#3	ICD-O-3.1 T11	8140/6
+#4	ICD-O-3.1 T12	8140/3
+#5	ICD-O-3.1 T2	8000/6
+#6	ICD-O-3.1 T14	8000/3
+#7	ICD-O-3.1 T15	8000/3
+#8	ICD-O-3.1 T10	8000/6
+#9	ICD-O-3.1 T8	8000/6
+#10	ICD-O-3.1 T3	8000/1
+#11	ICD-O-3.1 T4	8000/1
+#12	ICD-O-3.1 T5	8490/33
+#13	ICD-O-3.1 T7	8000/6
+#14	ICD-O-3.1 T9	8000/6
+#15	ICD-O-3.1 T13	8140/6
+#16	SNOMED T1	1187332001
+#17	SNOMED T6	1187332001
+#18	SNOMED T11	4590003
+#19	SNOMED T12	1187332001
+#20	SNOMED T2	14799000
+#21	SNOMED T14	1240414004
+#22	SNOMED T15	1240414004
+#23	SNOMED T10	14799000
+#24	SNOMED T8	14799000
+#25	SNOMED T3	86251006
+#26	SNOMED T4	86251006
+#27	SNOMED T5	87737001
+#28	SNOMED T7	14799000
+#29	SNOMED T9	14799000
+#30	SNOMED T13	4590003

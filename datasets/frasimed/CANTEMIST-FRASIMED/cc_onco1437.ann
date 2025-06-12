@@ -1,0 +1,24 @@
+T1	morphology-onco 65 95	carcinome canalaire infiltrant
+T2	morphology-onco 1037 1047	métastases
+T3	morphology-onco 1696 1759	métastases cérébelleuses chez une patiente atteinte d'un cancer
+T4	morphology-onco 1926 1947	lésions cérébelleuses
+T5	morphology-onco 2201 2211	métastases
+T6	morphology-onco 2738 2756	lésions cérébrales
+T7	morphology-onco 2911 2925	LOES cérébrale
+T8	morphology-onco 2951 2977	métastase d'adénocarcinome
+#1	ICD-O-3.1 T1	8500/3
+#2	ICD-O-3.1 T6	8000/6
+#3	ICD-O-3.1 T2	8000/6
+#4	ICD-O-3.1 T5	8000/6
+#5	ICD-O-3.1 T8	8140/6
+#6	ICD-O-3.1 T3	8000/6
+#7	ICD-O-3.1 T4	8000/6
+#8	ICD-O-3.1 T7	8000/6
+#9	SNOMED T1	58477004
+#10	SNOMED T6	14799000
+#11	SNOMED T2	14799000
+#12	SNOMED T5	14799000
+#13	SNOMED T8	4590003
+#14	SNOMED T3	14799000
+#15	SNOMED T4	14799000
+#16	SNOMED T7	14799000

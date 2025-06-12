@@ -1,0 +1,12 @@
+T1	disease 38 70	syndrome obstructif infravésical
+T2	disease 256 283	hernie inguinale réductible
+T3	disease 578 593	hernie vésicale
+T4	disease 658 700	hernie vésicale massive dans l'hémiscrotum
+T5	disease 778 805	partie herniée de la vessie
+T6	disease 855 871	hernie inguinale
+#1	SNOMED T1	416991005
+#2	SNOMED T2	396232000
+#3	SNOMED T3	410070006
+#4	SNOMED T4	410070006
+#5	SNOMED T6	396232000
+#6	SNOMED T5	410070006

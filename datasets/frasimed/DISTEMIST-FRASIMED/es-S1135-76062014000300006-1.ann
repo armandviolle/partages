@@ -1,0 +1,25 @@
+T1	disease 74 86	endométriose
+T2	disease 596 607	hypotension
+T3	disease 1140 1159	acidose métabolique
+T4	disease 1545 1549	choc
+T5	disease 1554 1559	décès
+T6	disease 1636 1664	éruption cutanée généralisée
+T7	disease 1756 1828	pétéchies sur les conjonctives tardiennes des deux paupières inférieures
+T8	disease 1890 1919	Congestion pulmonaire modérée
+T9	disease 1925 1951	œdème pulmonaire important
+T10	disease 2029 2048	Épanchement pleural
+T11	disease 2059 2089	léger épanchement péricardique
+T12	disease 2186 2211	Foie d'aspect stéatosique
+T13	disease 2320 2372	cerveau présentait un aspect congestif et oedémateux
+T14	disease 2418 2452	kyste dans le lobe pariétal gauche
+T15	disease 2587 2607	liquide péricardique
+T16	disease 2657 2676	épanchement pleural
+T17	disease 3343 3390	cerveau comprenaient une congestion et un œdème
+T18	disease 3419 3456	méningiome transitionnel-psammomateux
+T19	disease 3467 3514	surrénales présentaient des hémorragies sévères
+T20	disease 3563 3567	choc
+T21	disease 3644 3648	CIVD
+T22	disease 3664 3677	splénomégalie
+T23	disease 3694 3716	myocardite neutrophile
+T24	disease 3934 4040	défaillance multi-organique due à une septicémie méningococcique fulminante (N. meningitidis sérogroupe C)
+T25	disease 4047 4082	syndrome de Waterhouse-Friderichsen

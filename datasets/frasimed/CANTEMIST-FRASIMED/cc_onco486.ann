@@ -1,0 +1,11 @@
+T1	morphology-onco 2298 2338	lésions lytiques de la première vertèbre
+T2	morphology-onco 2546 2584	néoplasie testiculaire germinale mixte
+T3	morphology-onco 2824 2832	séminome
+T4	morphology-onco 2889 2942	séminome testiculaire droit de stade IIIC (métastases
+#1	ICD-O-3.1 T3	9061/3
+#2	ICD-O-3.1 T2	9085/3
+#3	ICD-O-3.1 T4	9061/6
+#4	ICD-O-3.1 T1	8000/6
+#5	SNOMED T3	1162765005
+#6	SNOMED T2	32844007
+#7	SNOMED T1	14799000

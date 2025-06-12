@@ -1,0 +1,51 @@
+T1	morphology-onco 1977 1991	Carcinosarcome
+T2	morphology-onco 2019 2026	pT4N0M0
+T3	morphology-onco 2119 2125	tumeur
+T4	morphology-onco 2445 2477	tumeur macroscopique infiltrante
+T5	morphology-onco 2609 2640	néoplasme malin peu différencié
+T6	morphology-onco 2844 2853	néoplasme
+T7	morphology-onco 2991 3000	néoplasme
+T8	morphology-onco 3028 3042	carcinosarcome
+T9	morphology-onco 3396 3405	malignité
+T10	morphology-onco 4159 4167	tumorale
+T11	morphology-onco 4272 4292	implants péritonéaux
+T12	morphology-onco 4293 4306	métastatiques
+T13	morphology-onco 4372 4382	métastases
+T14	morphology-onco 4474 4482	tumorale
+T15	morphology-onco 5289 5307	lésions hépatiques
+T16	morphology-onco 5313 5333	implants péritonéaux
+T17	morphology-onco 5377 5387	métastases
+#1	ICD-O-3.1 T1	8980/3
+#2	ICD-O-3.1 T8	8980/3
+#3	ICD-O-3.1 T11	8000/6
+#4	ICD-O-3.1 T16	8000/6
+#5	ICD-O-3.1 T15	8000/6
+#6	ICD-O-3.1 T9	8000/3
+#7	ICD-O-3.1 T12	8000/6
+#8	ICD-O-3.1 T13	8000/6
+#9	ICD-O-3.1 T17	8000/6
+#10	ICD-O-3.1 T6	8000/1
+#11	ICD-O-3.1 T7	8000/1
+#12	ICD-O-3.1 T2	8000/6
+#13	ICD-O-3.1 T3	8000/1
+#14	ICD-O-3.1 T10	8000/1
+#15	ICD-O-3.1 T14	8000/1
+#16	ICD-O-3.1 T4	8000/1/H
+#17	ICD-O-3.1 T5	8000/33
+#18	SNOMED T1	63264007
+#19	SNOMED T8	63264007
+#20	SNOMED T11	14799000
+#21	SNOMED T16	14799000
+#22	SNOMED T15	14799000
+#23	SNOMED T9	1240414004
+#24	SNOMED T12	14799000
+#25	SNOMED T13	14799000
+#26	SNOMED T17	14799000
+#27	SNOMED T6	86251006
+#28	SNOMED T7	86251006
+#29	SNOMED T2	14799000
+#30	SNOMED T3	86251006
+#31	SNOMED T10	86251006
+#32	SNOMED T14	86251006
+#33	SNOMED T4	86251006
+#34	SNOMED T5	1240414004

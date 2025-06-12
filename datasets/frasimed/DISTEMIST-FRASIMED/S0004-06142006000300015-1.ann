@@ -1,0 +1,18 @@
+T1	disease 46 72	lithiase rénale récurrente
+T2	disease 93 113	hématurie récurrente
+T3	disease 288 294	lésion
+T4	disease 488 552	lésion brunâtre irrégulière et hétérogène dans le bassinet rénal
+T5	disease 681 687	lésion
+T6	disease 1121 1128	tumoral
+T7	disease 1841 1865	urothéliale du néoplasme
+T8	disease 1919 2024	carcinome à cellules transitionnelles de bas grade avec différenciation mucineuse intense du bassin rénal
+T9	disease 2026 2045	carcinome colloïdal
+#1	SNOMED T1	386103008
+#2	SNOMED T2	281860005
+#3	SNOMED T7	118287003
+#4	SNOMED T8	408642003
+#5	SNOMED T9	72495009
+#6	SNOMED T3	417163006
+#7	SNOMED T4	79131000119100
+#8	SNOMED T5	417163006
+#9	SNOMED T6	417163006

@@ -1,0 +1,22 @@
+T1	disease 59 130	méningiome transitionnel parasagittal frontal gauche (grade I de l'OMS)
+T2	disease 189 223	infection de la plaie chirurgicale
+T3	disease 707 737	collection épidurale purulente
+T4	disease 1191 1224	crise tonico-clonique généralisée
+T5	disease 1459 1477	plaie chirurgicale
+T6	disease 1506 1515	infection
+T7	disease 1609 1631	collection sous-durale
+T8	disease 1970 1988	empyème sous-dural
+T9	disease 2049 2089	collection sous-durale d'aspect purulent
+T10	disease 2318 2327	infection
+T11	disease 3036 3111	récidive d'empyème sous-dural post-chirurgical dû à Propionibacterium acnes
+#1	SNOMED T1	302820008
+#2	SNOMED T4	65155005
+#3	SNOMED T8	312682007
+#4	SNOMED T2	58126003
+#5	SNOMED T9	37660004
+#6	SNOMED T6	40733004
+#7	SNOMED T7	15758002
+#8	SNOMED T11	39473003+312682007
+#9	SNOMED T3	61974008
+#10	SNOMED T5	112633009
+#11	SNOMED T10	40733004

@@ -1,0 +1,57 @@
+T1	disease 98 121	hypertension artérielle
+T2	disease 479 497	thrombose veineuse
+T3	disease 512 539	adénopathies para-aortiques
+T4	disease 605 618	tumeur rénale
+T5	disease 732 762	anémie microcytaire ferriprive
+T6	disease 770 783	hyperuricémie
+T7	disease 1313 1329	atteinte osseuse
+T8	disease 1459 1523	carcinome des cellules rénales avec adénopathie rétropéritonéale
+T9	disease 1495 1523	adénopathie rétropéritonéale
+T10	disease 1817 1853	infiltration du mésocôlon transverse
+T11	disease 1817 1880	infiltration du mésocôlon transverse et de la queue du pancréas
+T12	disease 1992 2019	Tumeur rénale par collision
+T13	disease 2021 2035	Leiomyosarcoma
+T14	disease 2052 2086	carcinome rénal de type papillaire
+T15	disease 2319 2340	infiltration tumorale
+T16	disease 2415 2436	infiltration tumorale
+T17	disease 2708 2761	chaîne para-aortique, 16 adénopathies ont été isolées
+T18	disease 2804 2814	métastases
+T19	disease 2854 2863	carcinome
+T20	disease 2878 2915	métastases mixtes (sarcome+carcinome)
+T21	disease 2905 2914	carcinome
+T22	disease 2897 2904	sarcome
+T23	disease 2921 2933	adénopathies
+T24	disease 3036 3059	métastases de carcinome
+T25	disease 3102 3116	léiomyosarcome
+T26	disease 3126 3186	tissu adipeux périsuprarénal, 4 adénopathies ont été isolées
+T27	disease 3200 3222	métastase du carcinome
+T28	disease 3241 3276	métastase mixte (carcinome+sarcome)
+T29	disease 3258 3267	carcinome
+T30	disease 3268 3275	sarcome
+T31	disease 3431 3459	tumeur collisionnelle rénale
+T32	disease 3474 3507	cancer du rein de type papillaire
+T33	disease 3567 3587	léiomyosarcome rénal
+T34	disease 3686 3705	métastases osseuses
+T35	disease 4046 4082	composante sarcomateuse de la tumeur
+T36	disease 4792 4826	métastases pulmonaires bilatérales
+T37	disease 4888 4937	métastases pulmonaires millimétriques bilatérales
+T38	disease 4974 4984	métastases
+T39	disease 5149 5230	métastase d'un carcinome peu différencié avec une composante épithéliale (rénale)
+T40	disease 5500 5515	carcinome rénal
+T41	disease 5885 5910	thromboembolie pulmonaire
+T42	disease 6116 6122	anémie
+T43	disease 6197 6219	métastases pulmonaires
+T44	disease 6254 6289	métastases hépatiques et spléniques
+T45	disease 6669 6681	vomissements
+T46	disease 6644 6650	anémie
+T47	disease 6988 6998	métastases
+T48	disease 7303 7309	tumeur
+T49	disease 7385 7400	carcinome rénal
+T50	disease 7493 7529	composante sarcomateuse de la tumeur
+T51	disease 7668 7686	choc hypovolémique
+T52	disease 7692 7711	acidose métabolique
+T53	disease 7715 7773	insuffisance rénale pré-rénale secondaire à une hyperémèse
+T54	disease 7763 7773	hyperémèse
+T55	disease 7804 7810	anémie
+T56	disease 7922 7941	vomissements fécaux
+T57	disease 8121 8148	défaillance multi-organique

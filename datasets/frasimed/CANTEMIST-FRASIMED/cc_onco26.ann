@@ -1,0 +1,80 @@
+T1	morphology-onco 194 203	carcinome
+T2	morphology-onco 601 629	adénopathie sus-claviculaire
+T3	morphology-onco 803 831	adénopathie sus-claviculaire
+T4	morphology-onco 1928 1941	métastatiques
+T5	morphology-onco 2061 2089	adénopathie sus-claviculaire
+T6	morphology-onco 2149 2199	métastase d'une tumeur germinale non séminomateuse
+T7	morphology-onco 2223 2238	choriocarcinome
+T8	morphology-onco 2223 2280	choriocarcinome et probablement un carcinome embryonnaire
+T9	morphology-onco 2258 2280	carcinome embryonnaire
+T10	morphology-onco 2440 2468	adénopathie sus-claviculaire
+T11	morphology-onco 2508 2555	tumeur testiculaire germinale non séminomateuse
+T12	morphology-onco 2580 2595	choriocarcinome
+T13	morphology-onco 2580 2637	choriocarcinome et probablement de carcinome embryonnaire
+T14	morphology-onco 2615 2637	carcinome embryonnaire
+T15	morphology-onco 2700 2729	tumeur germinale métastatique
+T16	morphology-onco 2947 2953	tumeur
+T17	morphology-onco 2983 3001	maladie à distance
+T18	morphology-onco 3015 3027	métastatique
+T19	morphology-onco 3157 3191	tumeur germinale non séminomateuse
+T20	morphology-onco 3834 3840	tumeur
+T21	morphology-onco 4046 4054	tumorale
+T22	morphology-onco 4146 4153	tumoral
+T23	morphology-onco 4377 4400	nodule apical du poumon
+T24	morphology-onco 4673 4723	métastase d'une tumeur germinale non séminomateuse
+T25	morphology-onco 4821 4855	adénopathie tumorale paratrachéale
+T26	morphology-onco 5003 5059	rechute tardive d'une tumeur germinale non séminomateuse
+T27	morphology-onco 5653 5670	nodule pulmonaire
+T28	morphology-onco 6222 6241	masse paratrachéale
+#1	ICD-O-3.1 T2	8000/6
+#2	ICD-O-3.1 T3	8000/6
+#3	ICD-O-3.1 T5	8000/6
+#4	ICD-O-3.1 T10	8000/6
+#5	ICD-O-3.1 T1	8010/3
+#6	ICD-O-3.1 T9	9070/3
+#7	ICD-O-3.1 T14	9070/3
+#8	ICD-O-3.1 T7	9100/3
+#9	ICD-O-3.1 T12	9100/3
+#10	ICD-O-3.1 T17	8000/6
+#11	ICD-O-3.1 T18	8000/6
+#12	ICD-O-3.1 T4	8000/6
+#13	ICD-O-3.1 T27	8000/6
+#14	ICD-O-3.1 T16	8000/1
+#15	ICD-O-3.1 T20	8000/1
+#16	ICD-O-3.1 T19	9065/3
+#17	ICD-O-3.1 T26	9065/6
+#18	ICD-O-3.1 T21	8000/1
+#19	ICD-O-3.1 T22	8000/1
+#20	ICD-O-3.1 T6	9065/6
+#21	ICD-O-3.1 T11	9065/3
+#22	ICD-O-3.1 T8	9101/3
+#23	ICD-O-3.1 T13	9101/3
+#24	ICD-O-3.1 T15	9064/6
+#25	ICD-O-3.1 T24	9065/6
+#26	ICD-O-3.1 T25	8000/6
+#27	ICD-O-3.1 T28	8000/6
+#28	ICD-O-3.1 T23	8000/6
+#29	SNOMED T2	14799000
+#30	SNOMED T3	14799000
+#31	SNOMED T5	14799000
+#32	SNOMED T10	14799000
+#33	SNOMED T1	1187425009
+#34	SNOMED T9	28047004
+#35	SNOMED T14	28047004
+#36	SNOMED T7	1156971005
+#37	SNOMED T12	1156971005
+#38	SNOMED T17	14799000
+#39	SNOMED T18	14799000
+#40	SNOMED T4	14799000
+#41	SNOMED T27	14799000
+#42	SNOMED T16	86251006
+#43	SNOMED T20	86251006
+#44	SNOMED T19	128766005
+#45	SNOMED T21	86251006
+#46	SNOMED T22	86251006
+#47	SNOMED T11	128766005
+#48	SNOMED T8	8734000
+#49	SNOMED T13	8734000
+#50	SNOMED T25	14799000
+#51	SNOMED T28	14799000
+#52	SNOMED T23	14799000

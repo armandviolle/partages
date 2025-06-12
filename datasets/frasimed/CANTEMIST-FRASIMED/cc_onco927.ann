@@ -1,0 +1,21 @@
+T1	morphology-onco 180 185	myome
+T2	morphology-onco 487 493	cancer
+T3	morphology-onco 589 595	cancer
+T4	morphology-onco 2212 2276	carcinome rénal à cellules claires, grade nucléaire de Furhman 3
+T5	morphology-onco 2401 2448	tumeur a donc été classée au stade IV, pT3aN0M1
+T6	morphology-onco 4708 4724	masse vertébrale
+T7	morphology-onco 5490 5511	cellules néoplasiques
+#1	ICD-O-3.1 T2	8000/3
+#2	ICD-O-3.1 T3	8000/3
+#3	ICD-O-3.1 T7	8001/1
+#4	ICD-O-3.1 T1	8895/0
+#5	ICD-O-3.1 T4	8310/33
+#6	ICD-O-3.1 T5	8000/6
+#7	ICD-O-3.1 T6	8000/6
+#8	SNOMED T2	1240414004
+#9	SNOMED T3	1240414004
+#10	SNOMED T7	39577004
+#11	SNOMED T1	1156875002
+#12	SNOMED T4	30546008
+#13	SNOMED T5	14799000
+#14	SNOMED T6	14799000

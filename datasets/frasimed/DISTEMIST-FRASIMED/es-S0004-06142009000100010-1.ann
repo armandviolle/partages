@@ -1,0 +1,24 @@
+T1	disease 112 135	hématurie macroscopique
+T2	disease 211 266	hémihypertrophie faciale due à un torticolis congénital
+T3	disease 268 277	varicelle
+T4	disease 279 303	mononucléose infectieuse
+T5	disease 347 356	pneumonie
+T6	disease 369 390	traumatisme du coccyx
+T7	disease 737 760	hématurie macroscopique
+T8	disease 1305 1354	adénomégalie inter-cavo-aortique ou péri-aortique
+T9	disease 1406 1421	tumeur de Wilms
+T10	disease 1428 1442	adénocarcinome
+T11	disease 1581 1612	néphrome mésoblastique kystique
+T12	disease 1614 1640	kyste rénal multiloculaire
+#1	SNOMED T7	197941005
+#2	SNOMED T9	302849000
+#3	SNOMED T11	307604008
+#4	SNOMED T10	443961001
+#5	SNOMED T12	86463003
+#6	SNOMED T2	205838004+268240006
+#7	SNOMED T3	38907003
+#8	SNOMED T4	271558008
+#9	SNOMED T5	233604007
+#10	SNOMED T6	282764008
+#11	SNOMED T8	127140000
+#12	SNOMED T1	197941005

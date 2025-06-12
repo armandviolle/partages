@@ -1,0 +1,38 @@
+T1	morphology-onco 483 511	léiomyosarcome de haut grade
+T2	morphology-onco 875 901	récidive pulmonaire unique
+T3	morphology-onco 2680 2706	lésions hépatiques focales
+T4	morphology-onco 2759 2769	métastases
+T5	morphology-onco 2786 2838	nodules subcentimétriques dans la cavité péritonéale
+T6	morphology-onco 2853 2873	implants péritonéaux
+T7	morphology-onco 2874 2882	tumoraux
+T8	morphology-onco 3321 3332	néoplasique
+T9	morphology-onco 3464 3473	malignité
+T10	morphology-onco 3546 3597	muqueuse bronchique infiltrée par un léiomyosarcome
+T11	morphology-onco 3768 3782	Léiomyosarcome
+T12	morphology-onco 3824 3834	Métastases
+T13	morphology-onco 4521 4529	tumorale
+#1	ICD-O-3.1 T11	8890/3
+#2	ICD-O-3.1 T12	8000/6
+#3	ICD-O-3.1 T6	8000/6
+#4	ICD-O-3.1 T1	8890/34
+#5	ICD-O-3.1 T3	8000/6
+#6	ICD-O-3.1 T9	8000/3
+#7	ICD-O-3.1 T4	8000/6
+#8	ICD-O-3.1 T8	8000/1
+#9	ICD-O-3.1 T13	8000/1
+#10	ICD-O-3.1 T7	8000/1
+#11	ICD-O-3.1 T2	8000/6
+#12	ICD-O-3.1 T5	8000/6
+#13	ICD-O-3.1 T10	8890/6
+#14	SNOMED T11	1163022006
+#15	SNOMED T12	14799000
+#16	SNOMED T6	14799000
+#17	SNOMED T1	1163022006
+#18	SNOMED T3	14799000
+#19	SNOMED T9	1240414004
+#20	SNOMED T4	14799000
+#21	SNOMED T8	86251006
+#22	SNOMED T13	86251006
+#23	SNOMED T7	86251006
+#24	SNOMED T2	14799000
+#25	SNOMED T5	14799000

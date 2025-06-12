@@ -1,0 +1,18 @@
+T1	disease 45 68	allergie médicamenteuse
+T2	disease 144 180	fractures des vertèbres et des côtes
+T3	disease 198 218	maladie de Dupuytren
+T4	disease 272 296	diabète sucré de type II
+T5	disease 298 318	hypercholestérolémie
+T6	disease 322 335	hyperuricémie
+T7	disease 338 354	alcoolisme actif
+T8	disease 356 362	fumeur
+T9	disease 454 494	hématurie macroscopique postmictionnelle
+T10	disease 725 747	adénome de la prostate
+T11	disease 1170 1219	changements dégénératifs dans la colonne lombaire
+T12	disease 1227 1285	calcifications vasculaires dans l'hypochondre et le pelvis
+T13	disease 1336 1373	kystes corticaux simples dans le rein
+T14	disease 1520 1582	calcifications sur la silhouette rénale droite et des uretères
+T15	disease 1678 1707	pseudodiverticulose urétérale
+T16	disease 1806 1822	vessie de stress
+T17	disease 1905 1925	tumeurs de la vessie
+T18	disease 2016 2061	carcinome urothélial superficiel de la vessie

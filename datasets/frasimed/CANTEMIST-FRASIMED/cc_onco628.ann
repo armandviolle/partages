@@ -1,0 +1,66 @@
+T1	morphology-onco 429 439	hémangiome
+T2	morphology-onco 1479 1524	carcinome urothélial papillaire de haut grade
+T3	morphology-onco 1526 1529	PTC
+T4	morphology-onco 1966 1976	hémangiome
+T5	morphology-onco 2113 2127	tumeur maligne
+T6	morphology-onco 2307 2314	tumeurs
+T7	morphology-onco 2367 2401	carcinome urothélial de haut grade
+T8	morphology-onco 2419 2439	Carcinome urothélial
+T9	morphology-onco 2440 2449	pT1cN0cM0
+T10	morphology-onco 2506 2526	carcinome urothélial
+T11	morphology-onco 2538 2547	pT1cN0cM0
+T12	morphology-onco 2842 2874	cancer de l'urètre de haut grade
+T13	morphology-onco 2969 3026	carcinome urothélial papillaire non invasif de haut grade
+T14	morphology-onco 3044 3061	carcinome in situ
+T15	morphology-onco 3077 3081	pTis
+T16	morphology-onco 3101 3132	carcinome urothélial infiltrant
+T17	morphology-onco 3170 3215	carcinome urothélial papillaire de haut grade
+T18	morphology-onco 3252 3269	carcinome in situ
+T19	morphology-onco 3285 3289	pTis
+T20	morphology-onco 3332 3366	adénocarcinome acineux prostatique
+T21	morphology-onco 3613 3664	progression unique au niveau du foie et des poumons
+T22	morphology-onco 4540 4557	oligométastatique
+#1	ICD-O-3.1 T8	8120/3
+#2	ICD-O-3.1 T14	8010/2
+#3	ICD-O-3.1 T18	8010/2
+#4	ICD-O-3.1 T10	8120/3
+#5	ICD-O-3.1 T1	9120/0
+#6	ICD-O-3.1 T4	9120/0
+#7	ICD-O-3.1 T5	8000/3
+#8	ICD-O-3.1 T6	8000/1
+#9	ICD-O-3.1 T2	8130/34
+#10	ICD-O-3.1 T3	8130/3
+#11	ICD-O-3.1 T7	8120/34
+#12	ICD-O-3.1 T9	8000/6
+#13	ICD-O-3.1 T11	8000/6
+#14	ICD-O-3.1 T12	8120/34
+#15	ICD-O-3.1 T13	8130/24
+#16	ICD-O-3.1 T17	8130/34
+#17	ICD-O-3.1 T16	8120/3/H
+#18	ICD-O-3.1 T20	8550/3
+#19	ICD-O-3.1 T22	8000/6
+#20	ICD-O-3.1 T21	8000/6
+#21	ICD-O-3.1 T15	8010/2
+#22	ICD-O-3.1 T19	8010/2
+#23	SNOMED T8	27090000
+#24	SNOMED T14	1187138006
+#25	SNOMED T18	1187138006
+#26	SNOMED T10	27090000
+#27	SNOMED T1	253053003
+#28	SNOMED T4	253053003
+#29	SNOMED T5	1240414004
+#30	SNOMED T6	86251006
+#31	SNOMED T2	12400006
+#32	SNOMED T3	12400006
+#33	SNOMED T7	27090000
+#34	SNOMED T9	14799000
+#35	SNOMED T11	14799000
+#36	SNOMED T12	27090000
+#37	SNOMED T13	128877008
+#38	SNOMED T17	12400006
+#39	SNOMED T16	27090000
+#40	SNOMED T20	45410002
+#41	SNOMED T22	14799000
+#42	SNOMED T21	14799000
+#43	SNOMED T15	1187138006
+#44	SNOMED T19	1187138006

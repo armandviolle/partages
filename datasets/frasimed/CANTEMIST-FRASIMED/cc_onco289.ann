@@ -1,0 +1,17 @@
+T1	morphology-onco 1707 1747	multiples nodules pulmonaires bilatéraux
+T2	morphology-onco 2066 2087	carcinome épidermoïde
+T3	morphology-onco 2227 2286	carcinome squameux du poumon non à petites cellules (CBNPC)
+T4	morphology-onco 2227 2307	carcinome squameux du poumon non à petites cellules (CBNPC) de stade IV (T4N3M1)
+T5	morphology-onco 2280 2285	CBNPC
+T6	morphology-onco 2836 2866	nodules pulmonaires bilatéraux
+#1	ICD-O-3.1 T2	8070/3
+#2	ICD-O-3.1 T4	8046/6
+#3	ICD-O-3.1 T5	8046/3
+#4	ICD-O-3.1 T3	8070/3
+#5	ICD-O-3.1 T1	8000/6
+#6	ICD-O-3.1 T6	8000/6
+#7	SNOMED T2	1162767002
+#8	SNOMED T5	128632008
+#9	SNOMED T3	1162767002
+#10	SNOMED T1	14799000
+#11	SNOMED T6	14799000

@@ -1,0 +1,22 @@
+T1	disease 69 94	insuffisance rénale aiguë
+T2	disease 211 234	hypertension artérielle
+T3	disease 241 248	diabète
+T4	disease 334 348	déshydratation
+T5	disease 1198 1221	liquide abdominal libre
+T6	disease 1242 1259	pancréatite aiguë
+T7	disease 1284 1295	pancréatite
+T8	disease 1327 1347	hypertriglycéridémie
+T9	disease 1353 1366	hypercalcémie
+T10	disease 1370 1380	alcoolisme
+T11	disease 1386 1403	lithiase biliaire
+#1	SNOMED T1	236424009
+#2	SNOMED T2	38341003
+#3	SNOMED T3	73211009
+#4	SNOMED T6	197456007
+#5	SNOMED T7	75694006
+#6	SNOMED T8	302870006
+#7	SNOMED T9	66931009
+#8	SNOMED T10	7200002
+#9	SNOMED T11	266474003
+#10	SNOMED T5	389026000
+#11	SNOMED T4	34095006

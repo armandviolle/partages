@@ -1,0 +1,21 @@
+T1	morphology-onco 1849 1855	tumeur
+T2	morphology-onco 2224 2230	tumeur
+T3	morphology-onco 2323 2329	tumeur
+T4	morphology-onco 2465 2473	malignes
+T5	morphology-onco 3301 3310	malignité
+T6	morphology-onco 3595 3606	fibromatose
+T7	morphology-onco 3620 3631	Fibromatose
+#1	ICD-O-3.1 T4	8000/3
+#2	ICD-O-3.1 T5	8000/3
+#3	ICD-O-3.1 T2	8000/1
+#4	ICD-O-3.1 T3	8000/1
+#5	ICD-O-3.1 T1	8000/1
+#6	ICD-O-3.1 T6	8000/0
+#7	ICD-O-3.1 T7	8000/0
+#8	SNOMED T4	1240414004
+#9	SNOMED T5	1240414004
+#10	SNOMED T2	86251006
+#11	SNOMED T3	86251006
+#12	SNOMED T1	86251006
+#13	SNOMED T6	3898006
+#14	SNOMED T7	3898006

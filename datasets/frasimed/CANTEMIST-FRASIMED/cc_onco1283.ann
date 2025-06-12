@@ -1,0 +1,57 @@
+T1	morphology-onco 78 129	adénocarcinome de la prostate (pT2bN0M0), Gleason 7
+T2	morphology-onco 109 117	pT2bN0M0
+T3	morphology-onco 369 379	métastases
+T4	morphology-onco 1729 1754	lésions supratentorielles
+T5	morphology-onco 1854 1863	métastase
+T6	morphology-onco 2033 2042	métastase
+T7	morphology-onco 2097 2148	Métastases cérébrales multiples d'un adénocarcinome
+T8	morphology-onco 2460 2507	lésions disséminées dans le parenchyme cérébral
+T9	morphology-onco 3039 3045	cancer
+T10	morphology-onco 3077 3083	cancer
+T11	morphology-onco 3249 3259	métastases
+T12	morphology-onco 3320 3341	cellules néoplasiques
+T13	morphology-onco 3537 3565	le cerveau peut être atteint
+T14	morphology-onco 3574 3584	métastases
+T15	morphology-onco 3621 3639	lésions cérébrales
+T16	morphology-onco 3698 3708	métastases
+T17	morphology-onco 3901 3911	métastases
+T18	morphology-onco 4039 4060	cellules néoplasiques
+T19	morphology-onco 4437 4447	néoplasmes
+#1	ICD-O-3.1 T13	8000/6
+#2	ICD-O-3.1 T10	8000/3
+#3	ICD-O-3.1 T9	8000/3
+#4	ICD-O-3.1 T12	8001/1
+#5	ICD-O-3.1 T18	8001/1
+#6	ICD-O-3.1 T15	8000/6
+#7	ICD-O-3.1 T4	8000/6
+#8	ICD-O-3.1 T3	8000/6
+#9	ICD-O-3.1 T5	8000/6
+#10	ICD-O-3.1 T6	8000/6
+#11	ICD-O-3.1 T11	8000/6
+#12	ICD-O-3.1 T14	8000/6
+#13	ICD-O-3.1 T16	8000/6
+#14	ICD-O-3.1 T17	8000/6
+#15	ICD-O-3.1 T19	8000/1
+#16	ICD-O-3.1 T1	8140/32
+#17	ICD-O-3.1 T2	8000/6
+#18	ICD-O-3.1 T7	8140/6
+#19	ICD-O-3.1 T8	8000/6
+#20	SNOMED T13	14799000
+#21	SNOMED T10	1240414004
+#22	SNOMED T9	1240414004
+#23	SNOMED T12	39577004
+#24	SNOMED T18	39577004
+#25	SNOMED T15	14799000
+#26	SNOMED T4	14799000
+#27	SNOMED T3	14799000
+#28	SNOMED T5	14799000
+#29	SNOMED T6	14799000
+#30	SNOMED T11	14799000
+#31	SNOMED T14	14799000
+#32	SNOMED T16	14799000
+#33	SNOMED T17	14799000
+#34	SNOMED T19	86251006
+#35	SNOMED T1	1187332001
+#36	SNOMED T2	14799000
+#37	SNOMED T7	4590003
+#38	SNOMED T8	14799000

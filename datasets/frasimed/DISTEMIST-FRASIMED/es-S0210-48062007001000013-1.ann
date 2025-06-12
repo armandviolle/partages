@@ -1,0 +1,26 @@
+T1	disease 298 317	hépatosplénomégalie
+T2	disease 1068 1078	métastases
+T3	disease 1119 1151	multiples métastases pulmonaires
+T4	disease 1166 1185	épanchement pleural
+T5	disease 1342 1363	atteinte métastatique
+T6	disease 1373 1413	multiples nodules pulmonaires bilatéraux
+T7	disease 1418 1437	épanchement pleural
+T8	disease 1449 1498	lymphadénopathie médiastinale et rétropéritonéale
+T9	disease 1504 1556	hépatomégalie avec une atteinte métastatique massive
+T10	disease 1580 1618	métastases spléniques et pancréatiques
+T11	disease 1640 1669	liquide libre intrapéritonéal
+T12	disease 1909 1927	choc hypovolémique
+T13	disease 2172 2261	atteinte métastatique étendue a été trouvée dans la queue du pancréas, la rate et le foie
+T14	disease 2267 2314	rupture des métastases spléniques et hépatiques
+T15	disease 2318 2331	hémopéritoine
+T16	disease 2372 2397	hématome hépatique diffus
+T17	disease 2983 3035	testicule a montré un néoplasme malin germinal mixte
+T18	disease 3054 3076	carcinome embryonnaire
+T19	disease 3081 3109	tumeur du sinus endodermique
+T20	disease 3114 3129	choriocarcinome
+T21	disease 3136 3144	tératome
+T22	disease 3332 3399	lésions spléniques étaient des métastases du néoplasme testiculaire
+T23	disease 3481 3499	choc hypovolémique
+T24	disease 3527 3554	hémorragie intra-abdominale
+T25	disease 3637 3657	éclatement hépatique
+T26	disease 3702 3724	hémorragie incoercible

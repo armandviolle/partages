@@ -1,0 +1,24 @@
+T1	morphology-onco 1208 1216	tumorale
+T2	morphology-onco 1291 1299	tumorale
+T3	morphology-onco 1313 1340	Médulloblastome de grade IV
+T4	morphology-onco 1496 1523	médulloblastome de grade IV
+T5	morphology-onco 2408 2417	néoplasie
+T6	morphology-onco 2638 2655	captation osseuse
+T7	morphology-onco 2881 2889	tumorale
+T8	morphology-onco 2987 3006	récidive à distance
+#1	ICD-O-3.1 T6	8000/6
+#2	ICD-O-3.1 T5	8000/1
+#3	ICD-O-3.1 T1	8000/1
+#4	ICD-O-3.1 T2	8000/1
+#5	ICD-O-3.1 T7	8000/1
+#6	ICD-O-3.1 T3	9470/34
+#7	ICD-O-3.1 T4	9470/34
+#8	ICD-O-3.1 T8	8000/6
+#9	SNOMED T6	14799000
+#10	SNOMED T5	86251006
+#11	SNOMED T1	86251006
+#12	SNOMED T2	86251006
+#13	SNOMED T7	86251006
+#14	SNOMED T3	1156923005
+#15	SNOMED T4	1156923005
+#16	SNOMED T8	14799000

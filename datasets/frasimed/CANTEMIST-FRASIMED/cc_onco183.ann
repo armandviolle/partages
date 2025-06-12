@@ -1,0 +1,99 @@
+T1	morphology-onco 634 640	tumeur
+T2	morphology-onco 784 821	cystoadénocarcinome papillaire séreux
+T3	morphology-onco 1038 1057	masse surrénalienne
+T4	morphology-onco 1085 1094	métastase
+T5	morphology-onco 1215 1221	tumeur
+T6	morphology-onco 1451 1487	carcinome infiltrant peu différencié
+T7	morphology-onco 1540 1554	adénocarcinome
+T8	morphology-onco 1854 1872	cystadénocarcinome
+T9	morphology-onco 1891 1905	adénocarcinome
+T10	morphology-onco 2110 2180	métastase cutanée d'un carcinome neuroendocrine modérément différencié
+T11	morphology-onco 2542 2562	carcinome médullaire
+T12	morphology-onco 2594 2616	atteinte surrénalienne
+T13	morphology-onco 2638 2654	phéochromocytome
+T14	morphology-onco 2848 2896	Carcinome médullaire de la thyroïde métastatique
+T15	morphology-onco 2910 2926	phéochromocytome
+T16	morphology-onco 2968 2986	Cystadénocarcinome
+T17	morphology-onco 3263 3283	nodules sous-cutanés
+T18	morphology-onco 3661 3691	adénopathies sus-claviculaires
+T19	morphology-onco 3762 3781	masse surrénalienne
+T20	morphology-onco 3809 3828	masse surrénalienne
+T21	morphology-onco 3854 3881	masse au niveau de l'ovaire
+T22	morphology-onco 4363 4393	adénopathies sus-claviculaires
+T23	morphology-onco 4466 4485	masse surrénalienne
+T24	morphology-onco 4527 4543	masse annexielle
+T25	morphology-onco 4575 4585	métastases
+T26	morphology-onco 4615 4667	tumeur présente des caractéristiques neuroendocrines
+T27	morphology-onco 4920 4950	adénopathies sus-claviculaires
+T28	morphology-onco 4971 4981	métastases
+T29	morphology-onco 5043 5064	masses surrénaliennes
+T30	morphology-onco 5154 5170	masse annexielle
+T31	morphology-onco 5262 5272	métastases
+T32	morphology-onco 5355 5403	carcinome médullaire de la thyroïde métastatique
+T33	morphology-onco 5409 5431	atteinte surrénalienne
+T34	morphology-onco 5783 5801	progression du SNC
+#1	ICD-O-3.1 T16	8440/3
+#2	ICD-O-3.1 T7	8140/3
+#3	ICD-O-3.1 T9	8140/3
+#4	ICD-O-3.1 T11	8510/3
+#5	ICD-O-3.1 T13	8700/0
+#6	ICD-O-3.1 T15	8700/0
+#7	ICD-O-3.1 T4	8000/6
+#8	ICD-O-3.1 T25	8000/6
+#9	ICD-O-3.1 T31	8000/6
+#10	ICD-O-3.1 T1	8000/1
+#11	ICD-O-3.1 T5	8000/1
+#12	ICD-O-3.1 T2	8460/3
+#13	ICD-O-3.1 T6	8010/33/H
+#14	ICD-O-3.1 T8	8440/3
+#15	ICD-O-3.1 T10	8246/62
+#16	ICD-O-3.1 T14	8510/6
+#17	ICD-O-3.1 T18	8000/6
+#18	ICD-O-3.1 T22	8000/6
+#19	ICD-O-3.1 T26	8240/3
+#20	ICD-O-3.1 T27	8000/6
+#21	ICD-O-3.1 T28	8000/6
+#22	ICD-O-3.1 T32	8510/6
+#23	ICD-O-3.1 T33	8000/6
+#24	ICD-O-3.1 T34	8000/6
+#25	ICD-O-3.1 T12	8000/6
+#26	ICD-O-3.1 T3	8000/6
+#27	ICD-O-3.1 T19	8000/6
+#28	ICD-O-3.1 T20	8000/6
+#29	ICD-O-3.1 T17	8000/6
+#30	ICD-O-3.1 T21	8000/6
+#31	ICD-O-3.1 T23	8000/6
+#32	ICD-O-3.1 T24	8000/6
+#33	ICD-O-3.1 T29	8000/6
+#34	ICD-O-3.1 T30	8000/6
+#35	SNOMED T16	21008007
+#36	SNOMED T7	1187332001
+#37	SNOMED T9	1187332001
+#38	SNOMED T11	32913002
+#39	SNOMED T13	302835009
+#40	SNOMED T15	302835009
+#41	SNOMED T4	14799000
+#42	SNOMED T25	14799000
+#43	SNOMED T31	14799000
+#44	SNOMED T1	86251006
+#45	SNOMED T5	86251006
+#46	SNOMED T2	703561001
+#47	SNOMED T6	1187425009
+#48	SNOMED T8	21008007
+#49	SNOMED T18	14799000
+#50	SNOMED T22	14799000
+#51	SNOMED T26	189607006
+#52	SNOMED T27	14799000
+#53	SNOMED T28	14799000
+#54	SNOMED T33	14799000
+#55	SNOMED T34	14799000
+#56	SNOMED T12	14799000
+#57	SNOMED T3	14799000
+#58	SNOMED T19	14799000
+#59	SNOMED T20	14799000
+#60	SNOMED T17	14799000
+#61	SNOMED T21	14799000
+#62	SNOMED T23	14799000
+#63	SNOMED T24	14799000
+#64	SNOMED T29	14799000
+#65	SNOMED T30	14799000

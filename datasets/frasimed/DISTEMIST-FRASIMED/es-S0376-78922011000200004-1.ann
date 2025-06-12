@@ -1,0 +1,20 @@
+T1	disease 52 81	insuffisance rénale chronique
+T2	disease 353 388	lésions érythémateuses sur le flanc
+T3	disease 443 453	phlyctènes
+T4	disease 460 477	nécroses cutanées
+T5	disease 547 554	lésions
+T6	disease 644 663	fasciite nécrosante
+T7	disease 1611 1620	infection
+T8	disease 2058 2066	hématome
+T9	disease 2074 2083	infection
+T10	disease 3004 3009	plaie
+#1	SNOMED T6	52486002
+#2	SNOMED T7	40733004
+#3	SNOMED T1	90688005
+#4	SNOMED T3	247464001
+#5	SNOMED T8	385494008
+#6	SNOMED T9	40733004
+#7	SNOMED T4	95347000
+#8	SNOMED T10	416462003
+#9	SNOMED T2	70819003
+#10	SNOMED T5	157670007

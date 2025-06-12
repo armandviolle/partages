@@ -1,0 +1,4 @@
+T1	disease 1396 1422	hypertrophie ventriculaire
+T2	disease 1524 1541	péricardite aiguë
+#1	SNOMED T1	266249003
+#2	SNOMED T2	15555002

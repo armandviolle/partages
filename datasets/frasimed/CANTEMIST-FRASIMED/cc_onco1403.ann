@@ -1,0 +1,36 @@
+T1	morphology-onco 667 676	néoplasie
+T2	morphology-onco 868 874	tumeur
+T3	morphology-onco 1036 1103	métastase d'un adénocarcinome avec des cellules en anneau de signet
+T4	morphology-onco 1145 1165	tumeur de Krukenberg
+T5	morphology-onco 1557 1577	tumeur de Krukenberg
+T6	morphology-onco 1625 1639	adénocarcinome
+T7	morphology-onco 1663 1683	tumeur de Krukenberg
+T8	morphology-onco 1730 1746	atteinte osseuse
+T9	morphology-onco 2419 2438	progression osseuse
+T10	morphology-onco 2486 2505	lésion ostéolytique
+T11	morphology-onco 2592 2614	progression pulmonaire
+T12	morphology-onco 3001 3027	lymphangite carcinomateuse
+#1	ICD-O-3.1 T6	8140/3
+#2	ICD-O-3.1 T8	8000/6
+#3	ICD-O-3.1 T10	8000/6
+#4	ICD-O-3.1 T12	8000/3
+#5	ICD-O-3.1 T1	8000/1
+#6	ICD-O-3.1 T11	8000/6
+#7	ICD-O-3.1 T9	8000/6
+#8	ICD-O-3.1 T2	8000/1
+#9	ICD-O-3.1 T3	8490/6
+#10	ICD-O-3.1 T4	8490/6
+#11	ICD-O-3.1 T5	8490/6
+#12	ICD-O-3.1 T7	8490/6
+#13	SNOMED T6	1187332001
+#14	SNOMED T8	14799000
+#15	SNOMED T10	14799000
+#16	SNOMED T12	1240414004
+#17	SNOMED T1	86251006
+#18	SNOMED T11	14799000
+#19	SNOMED T9	14799000
+#20	SNOMED T2	86251006
+#21	SNOMED T3	4305004
+#22	SNOMED T4	4305004
+#23	SNOMED T5	4305004
+#24	SNOMED T7	4305004

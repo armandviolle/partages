@@ -1,0 +1,12 @@
+T1	morphology-onco 1357 1366	néoplasme
+T2	morphology-onco 2893 2907	adénocarcinome
+T3	morphology-onco 3296 3310	adénocarcinome
+T4	morphology-onco 4747 4756	néoplasie
+#1	ICD-O-3.1 T2	8140/3
+#2	ICD-O-3.1 T3	8140/3
+#3	ICD-O-3.1 T1	8000/1
+#4	ICD-O-3.1 T4	8000/1
+#5	SNOMED T2	1187332001
+#6	SNOMED T3	1187332001
+#7	SNOMED T1	86251006
+#8	SNOMED T4	86251006

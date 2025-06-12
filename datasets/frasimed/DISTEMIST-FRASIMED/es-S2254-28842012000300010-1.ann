@@ -1,0 +1,27 @@
+T1	disease 74 156	insuffisance rénale secondaire à une néphrectomie bilatérale pour néoplasie rénale
+T2	disease 140 156	néoplasie rénale
+T3	disease 187 210	hypertension artérielle
+T4	disease 301 320	blessure de la rate
+T5	disease 360 456	Thrombose veineuse du membre inférieur droit due à une canulation fémorale (cathéter de dialyse)
+T6	disease 458 475	Colite ischémique
+T7	disease 477 494	polypose du côlon
+T8	disease 498 536	saignement gastro-intestinal inférieur
+T9	disease 584 649	hémorragie gastro-intestinale inférieure due à une angiodysplasie
+T10	disease 635 649	angiodysplasie
+T11	disease 681 712	sténose aortique modérée-sévère
+T12	disease 857 875	thrombose veineuse
+T13	disease 996 1018	dilatation anévrismale
+T14	disease 1035 1054	thrombose partielle
+T15	disease 1297 1306	thrombose
+T16	disease 1360 1369	infection
+T17	disease 1426 1433	fistule
+T18	disease 1618 1627	infection
+T19	disease 2159 2168	thrombose
+T20	disease 2341 2366	bactériémie due à E. coli
+T21	disease 2734 2824	hémorragie gastro-intestinale basse, due à une colite ischémique et à des polypes du côlon
+T22	disease 2781 2798	colite ischémique
+T23	disease 2808 2824	polypes du côlon
+T24	disease 3119 3165	thrombose complète de la veine cave supérieure
+T25	disease 3731 3752	infection du cathéter
+T26	disease 4478 4513	choc cardiogénique post-chirurgical
+T27	disease 4543 4585	sténose valvulaire aortique modérée-sévère

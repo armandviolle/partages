@@ -1,0 +1,62 @@
+T1	disease 108 137	infections urinaires répétées
+T2	disease 243 262	diverticule urétral
+T3	disease 376 406	incontinence urinaire d'effort
+T4	disease 697 719	cancer génito-urinaire
+T5	disease 941 964	Hypertension artérielle
+T6	disease 968 974	asthme
+T7	disease 1201 1210	allergies
+T8	disease 1227 1234	diabète
+T9	disease 1255 1260	fumer
+T10	disease 1267 1272	boire
+T11	disease 1292 1307	Obésité morbide
+T12	disease 1462 1467	obèse
+T13	disease 1491 1510	hépatosplénomégalie
+T14	disease 1563 1600	introitus vaginal relativement étroit
+T15	disease 1751 1770	diverticule urétral
+T16	disease 1819 1840	incontinence d'effort
+T17	disease 2481 2500	diverticule urétral
+T18	disease 2592 2623	kyste de la glande de Bartholin
+T19	disease 2692 2711	diverticule urétral
+T20	disease 2869 2915	deux ostia ont été trouvés dans l'urètre moyen
+T21	disease 3352 3371	diverticule urétral
+T22	disease 3386 3450	deux ostia à 7 heures du temps cystoscopique dans l'urètre moyen
+T23	disease 3587 3610	fistule urétro-vaginale
+T24	disease 3618 3634	sténose urétrale
+T25	disease 4735 4754	diverticule urétral
+T26	disease 4840 4851	diverticule
+T27	disease 4886 4897	diverticule
+T28	disease 5428 5439	diverticule
+T29	disease 5695 5706	diverticule
+T30	disease 5861 5872	diverticule
+T31	disease 6022 6083	diverticule urétral complexe, avec une inflammation chronique
+#1	SNOMED T11	238136002
+#2	SNOMED T5	38341003
+#3	SNOMED T6	195967001
+#4	SNOMED T19	90531003
+#5	SNOMED T1	197927001
+#6	SNOMED T23	50477003
+#7	SNOMED T24	236647003
+#8	SNOMED T13	36760000
+#9	SNOMED T2	90531003
+#10	SNOMED T8	73211009
+#11	SNOMED T15	90531003
+#12	SNOMED T21	90531003
+#13	SNOMED T17	90531003
+#14	SNOMED T4	271468000
+#15	SNOMED T18	299692008
+#16	SNOMED T25	90531003
+#17	SNOMED T31	90531003
+#18	SNOMED T12	414916001
+#19	SNOMED T7	106190000
+#20	SNOMED T16	22220005
+#21	SNOMED T3	22220005
+#22	SNOMED T9	77176002
+#23	SNOMED T10	288855004
+#24	SNOMED T14	248874006
+#25	SNOMED T20	4985009
+#26	SNOMED T22	4985009
+#27	SNOMED T26	397881000
+#28	SNOMED T27	397881000
+#29	SNOMED T28	397881000
+#30	SNOMED T29	397881000
+#31	SNOMED T30	397881000

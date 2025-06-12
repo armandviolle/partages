@@ -1,0 +1,45 @@
+T1	morphology-onco 408 413	Masse
+T2	morphology-onco 1337 1346	métastase
+T3	morphology-onco 1463 1479	tumeur germinale
+T4	morphology-onco 1482 1490	séminome
+T5	morphology-onco 1570 1588	cellules tumorales
+T6	morphology-onco 2838 2888	Tumeur germinale extragonadique médiastinale mixte
+T7	morphology-onco 2969 2991	tumeur germinale mixte
+T8	morphology-onco 3314 3322	tumorale
+T9	morphology-onco 3667 3675	tumorale
+T10	morphology-onco 4060 4066	tumeur
+T11	morphology-onco 4256 4289	masse au niveau supraclaviculaire
+T12	morphology-onco 4355 4361	tumeur
+T13	morphology-onco 4489 4503	tératome malin
+T14	morphology-onco 4609 4623	carcinomateuse
+T15	morphology-onco 5038 5054	tumeur germinale
+#1	ICD-O-3.1 T1	8000/1
+#2	ICD-O-3.1 T14	8010/9
+#3	ICD-O-3.1 T5	8001/1
+#4	ICD-O-3.1 T2	8000/6
+#5	ICD-O-3.1 T4	9061/3
+#6	ICD-O-3.1 T10	8000/1
+#7	ICD-O-3.1 T12	8000/1
+#8	ICD-O-3.1 T3	9064/3
+#9	ICD-O-3.1 T15	9064/3
+#10	ICD-O-3.1 T8	8000/1
+#11	ICD-O-3.1 T9	8000/1
+#12	ICD-O-3.1 T6	9085/3
+#13	ICD-O-3.1 T7	9085/3
+#14	ICD-O-3.1 T11	8000/6
+#15	ICD-O-3.1 T13	9080/3
+#16	SNOMED T1	86251006
+#17	SNOMED T14	307593001
+#18	SNOMED T5	39577004
+#19	SNOMED T2	14799000
+#20	SNOMED T4	1162765005
+#21	SNOMED T10	86251006
+#22	SNOMED T12	86251006
+#23	SNOMED T3	28307001
+#24	SNOMED T15	28307001
+#25	SNOMED T8	86251006
+#26	SNOMED T9	86251006
+#27	SNOMED T6	32844007
+#28	SNOMED T7	32844007
+#29	SNOMED T11	14799000
+#30	SNOMED T13	1157239001

@@ -1,0 +1,6 @@
+T1	morphology-onco 166 218	adénocarcinome pulmonaire indifférencié, cT3cN3 cM1c
+T2	morphology-onco 235 245	métastases
+#1	ICD-O-3.1 T2	8000/6
+#2	ICD-O-3.1 T1	8140/64
+#3	SNOMED T2	14799000
+#4	SNOMED T1	4590003

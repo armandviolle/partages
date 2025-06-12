@@ -1,0 +1,36 @@
+T1	morphology-onco 757 763	tumeur
+T2	morphology-onco 992 998	tumeur
+T3	morphology-onco 1288 1303	néoplasme malin
+T4	morphology-onco 1862 1909	Tumeur desmoplastique à petites cellules rondes
+T5	morphology-onco 1936 1943	cT4N1M0
+T6	morphology-onco 1987 2034	tumeur desmoplastique à petites cellules rondes
+T7	morphology-onco 3365 3412	tumeur desmoplastique à petites cellules rondes
+T8	morphology-onco 3908 3930	progression pulmonaire
+T9	morphology-onco 3976 3982	tumeur
+T10	morphology-onco 4361 4383	progression pulmonaire
+T11	morphology-onco 4654 4676	progression pulmonaire
+T12	morphology-onco 5316 5324	tumorale
+#1	ICD-O-3.1 T4	8806/3
+#2	ICD-O-3.1 T5	8000/6
+#3	ICD-O-3.1 T3	8000/3
+#4	ICD-O-3.1 T8	8000/6
+#5	ICD-O-3.1 T10	8000/6
+#6	ICD-O-3.1 T11	8000/6
+#7	ICD-O-3.1 T9	8000/1
+#8	ICD-O-3.1 T6	8806/3
+#9	ICD-O-3.1 T7	8806/3
+#10	ICD-O-3.1 T1	8000/1
+#11	ICD-O-3.1 T2	8000/1
+#12	ICD-O-3.1 T12	8000/1
+#13	SNOMED T4	1156420003
+#14	SNOMED T5	14799000
+#15	SNOMED T3	1240414004
+#16	SNOMED T8	14799000
+#17	SNOMED T10	14799000
+#18	SNOMED T11	14799000
+#19	SNOMED T9	86251006
+#20	SNOMED T6	1156420003
+#21	SNOMED T7	1156420003
+#22	SNOMED T1	86251006
+#23	SNOMED T2	86251006
+#24	SNOMED T12	86251006

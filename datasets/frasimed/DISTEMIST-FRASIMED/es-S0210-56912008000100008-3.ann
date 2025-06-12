@@ -1,0 +1,10 @@
+T1	disease 121 147	lésionnel sous-épicardique
+T2	disease 167 180	IAM inférieur
+T3	disease 419 460	tachycardie ventriculaire extrasystolique
+T4	disease 907 928	akinésie inferobasale
+T5	disease 1196 1199	SRP
+#1	SNOMED T2	73795002
+#2	SNOMED T3	25569003
+#3	SNOMED T5	428417006
+#4	SNOMED T4	195675009
+#5	SNOMED T1	56265001

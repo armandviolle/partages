@@ -1,0 +1,54 @@
+T1	morphology-onco 265 292	cancer canalaire infiltrant
+T2	morphology-onco 362 370	cT4bN1M0
+T3	morphology-onco 650 656	cancer
+T4	morphology-onco 1340 1427	carcinome canalaire infiltrant résiduel multifocal, grade 2 de Bloom-Richardson modifié
+T5	morphology-onco 1469 1477	tumorale
+T6	morphology-onco 1545 1555	métastases
+T7	morphology-onco 2178 2187	léthargie
+T8	morphology-onco 2229 2251	métastase de carcinome
+T9	morphology-onco 2587 2593	tumeur
+T10	morphology-onco 2757 2769	métastatique
+T11	morphology-onco 6225 6244	lésion de l'oreille
+T12	morphology-onco 6296 6321	carcinome peu différencié
+T13	morphology-onco 6376 6399	métastases de carcinome
+T14	morphology-onco 6619 6661	cancer du sein avancé due à des métastases
+T15	morphology-onco 6665 6674	carcinome
+T16	morphology-onco 7257 7269	métastatique
+T17	morphology-onco 7788 7795	lésions
+T18	morphology-onco 8262 8281	lésion de l'oreille
+#1	ICD-O-3.1 T15	8010/3
+#2	ICD-O-3.1 T12	8010/33
+#3	ICD-O-3.1 T3	8000/3
+#4	ICD-O-3.1 T7	8000/6
+#5	ICD-O-3.1 T17	8000/6
+#6	ICD-O-3.1 T10	8000/6
+#7	ICD-O-3.1 T16	8000/6
+#8	ICD-O-3.1 T6	8000/6
+#9	ICD-O-3.1 T8	8010/6
+#10	ICD-O-3.1 T13	8010/6
+#11	ICD-O-3.1 T9	8000/1
+#12	ICD-O-3.1 T5	8000/1
+#13	ICD-O-3.1 T1	8500/3
+#14	ICD-O-3.1 T2	8000/6
+#15	ICD-O-3.1 T4	8500/32/H
+#16	ICD-O-3.1 T11	8000/6
+#17	ICD-O-3.1 T14	8000/6
+#18	ICD-O-3.1 T18	8000/6
+#19	SNOMED T15	1187425009
+#20	SNOMED T12	1187425009
+#21	SNOMED T3	1240414004
+#22	SNOMED T7	14799000
+#23	SNOMED T17	14799000
+#24	SNOMED T10	14799000
+#25	SNOMED T16	14799000
+#26	SNOMED T6	14799000
+#27	SNOMED T8	79282002
+#28	SNOMED T13	79282002
+#29	SNOMED T9	86251006
+#30	SNOMED T5	86251006
+#31	SNOMED T1	58477004
+#32	SNOMED T2	14799000
+#33	SNOMED T4	58477004
+#34	SNOMED T11	14799000
+#35	SNOMED T14	14799000
+#36	SNOMED T18	14799000

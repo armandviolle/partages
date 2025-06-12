@@ -1,0 +1,18 @@
+T1	morphology-onco 245 254	néoplasie
+T2	morphology-onco 532 575	adénocarcinome ovarien séreux de haut grade
+T3	morphology-onco 3512 3521	carcinome
+T4	morphology-onco 5415 5421	cancer
+T5	morphology-onco 5860 5866	cancer
+T6	morphology-onco 5893 5902	létalités
+#1	ICD-O-3.1 T3	8010/3
+#2	ICD-O-3.1 T4	8000/3
+#3	ICD-O-3.1 T5	8000/3
+#4	ICD-O-3.1 T1	8000/1
+#5	ICD-O-3.1 T2	8441/34
+#6	ICD-O-3.1 T6	8000/6
+#7	SNOMED T3	1187425009
+#8	SNOMED T4	1240414004
+#9	SNOMED T5	1240414004
+#10	SNOMED T1	86251006
+#11	SNOMED T2	90725004
+#12	SNOMED T6	14799000

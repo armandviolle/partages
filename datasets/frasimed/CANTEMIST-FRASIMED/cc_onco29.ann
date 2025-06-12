@@ -1,0 +1,47 @@
+T1	morphology-onco 761 768	tumoral
+T2	morphology-onco 1378 1390	péritumorale
+T3	morphology-onco 1604 1613	carcinome
+T4	morphology-onco 1658 1665	Adénome
+T5	morphology-onco 1705 1715	Hémangiome
+T6	morphology-onco 1939 1946	tumoral
+T7	morphology-onco 2152 2174	métastase de carcinome
+T8	morphology-onco 2270 2314	Carcinome rénal à cellules claires, pT3bN0M1
+T9	morphology-onco 2405 2422	lésion pulmonaire
+T10	morphology-onco 2497 2519	métastase de carcinome
+T11	morphology-onco 2588 2611	métastases du carcinome
+T12	morphology-onco 2833 2878	carcinome rénal à cellules claires, Fuhrman 3
+T13	morphology-onco 3061 3072	néoplasique
+T14	morphology-onco 3944 3961	nodule pulmonaire
+T15	morphology-onco 4093 4110	nodule pulmonaire
+T16	morphology-onco 4270 4289	lésions pulmonaires
+#1	ICD-O-3.1 T4	8140/0
+#2	ICD-O-3.1 T5	9120/0
+#3	ICD-O-3.1 T3	8010/3
+#4	ICD-O-3.1 T16	8000/6
+#5	ICD-O-3.1 T9	8000/6
+#6	ICD-O-3.1 T7	8010/6
+#7	ICD-O-3.1 T10	8010/6
+#8	ICD-O-3.1 T11	8010/6
+#9	ICD-O-3.1 T13	8000/1
+#10	ICD-O-3.1 T14	8000/6
+#11	ICD-O-3.1 T15	8000/6
+#12	ICD-O-3.1 T2	8000/1
+#13	ICD-O-3.1 T1	8000/1
+#14	ICD-O-3.1 T6	8000/1
+#15	ICD-O-3.1 T8	8310/6
+#16	ICD-O-3.1 T12	8310/33
+#17	SNOMED T4	1187379001
+#18	SNOMED T5	253053003
+#19	SNOMED T3	1187425009
+#20	SNOMED T16	14799000
+#21	SNOMED T9	14799000
+#22	SNOMED T7	79282002
+#23	SNOMED T10	79282002
+#24	SNOMED T11	79282002
+#25	SNOMED T13	86251006
+#26	SNOMED T14	14799000
+#27	SNOMED T15	14799000
+#28	SNOMED T2	86251006
+#29	SNOMED T1	86251006
+#30	SNOMED T6	86251006
+#31	SNOMED T12	30546008

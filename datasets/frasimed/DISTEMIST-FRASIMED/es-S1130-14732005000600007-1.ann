@@ -1,0 +1,18 @@
+T1	disease 220 240	strabisme convergent
+T2	disease 266 274	diplopie
+T3	disease 378 398	strabisme convergent
+T4	disease 458 478	nystagmus horizontal
+T5	disease 1103 1144	prolifération méningothéliale néoplasique
+T6	disease 1217 1223	tumeur
+T7	disease 1233 1252	méningiome atypique
+T8	disease 1568 1574	tumeur
+T9	disease 1733 1753	strabisme convergent
+#1	SNOMED T9	16596007
+#2	SNOMED T7	128914005
+#3	SNOMED T1	16596007
+#4	SNOMED T3	16596007
+#5	SNOMED T4	81756001
+#6	SNOMED T6	55342001
+#7	SNOMED T8	55342001
+#8	SNOMED T2	24982008
+#9	SNOMED T5	68944005

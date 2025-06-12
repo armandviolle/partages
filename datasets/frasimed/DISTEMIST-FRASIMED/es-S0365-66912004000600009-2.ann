@@ -1,0 +1,14 @@
+T1	disease 8 15	aphaque
+T2	disease 50 59	cataracte
+T3	disease 88 128	rupture capsulaire et une fuite vitreuse
+T4	disease 316 329	œdème cornéen
+T5	disease 648 651	LBM
+T6	disease 667 720	décollement et une rupture de la membrane de Descemet
+T7	disease 911 935	œdème maculaire kystique
+#1	SNOMED T1	24010005
+#2	SNOMED T2	193570009
+#3	SNOMED T3	784306000+3044008
+#4	SNOMED T6	95738005+42312000
+#5	SNOMED T7	193387007
+#6	SNOMED T5	419325003
+#7	SNOMED T4	27194006

@@ -1,0 +1,36 @@
+T1	morphology-onco 189 195	tumeur
+T2	morphology-onco 528 538	carcinoïde
+T3	morphology-onco 636 643	pT3N0M0
+T4	morphology-onco 1088 1106	nodules hépatiques
+T5	morphology-onco 1113 1129	lésions osseuses
+T6	morphology-onco 1151 1161	métastases
+T7	morphology-onco 1684 1711	osseuse et hépatique uptake
+T8	morphology-onco 2056 2062	tumeur
+T9	morphology-onco 2591 2620	lésions hépatiques nodulaires
+T10	morphology-onco 2708 2752	lésions blastiques dans les corps vertébraux
+T11	morphology-onco 2855 2887	tumeur pulmonaire neuroendocrine
+T12	morphology-onco 3793 3801	tumorale
+#1	ICD-O-3.1 T2	8240/3
+#2	ICD-O-3.1 T6	8000/6
+#3	ICD-O-3.1 T1	8000/1
+#4	ICD-O-3.1 T11	8240/3
+#5	ICD-O-3.1 T8	8000/1
+#6	ICD-O-3.1 T12	8000/1
+#7	ICD-O-3.1 T3	8000/6
+#8	ICD-O-3.1 T4	8000/6
+#9	ICD-O-3.1 T5	8000/6
+#10	ICD-O-3.1 T7	8000/6
+#11	ICD-O-3.1 T9	8000/6
+#12	ICD-O-3.1 T10	8000/6
+#13	SNOMED T2	189607006
+#14	SNOMED T6	14799000
+#15	SNOMED T1	86251006
+#16	SNOMED T11	189607006
+#17	SNOMED T8	86251006
+#18	SNOMED T12	86251006
+#19	SNOMED T3	14799000
+#20	SNOMED T4	14799000
+#21	SNOMED T5	14799000
+#22	SNOMED T7	14799000
+#23	SNOMED T9	14799000
+#24	SNOMED T10	14799000

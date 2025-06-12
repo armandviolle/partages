@@ -1,0 +1,11 @@
+T1	disease 34 43	agression
+T2	disease 142 208	blessures incisées au visage, au cou, au cuir chevelu et à la main
+T3	disease 317 343	acidose métabolique sévère
+T4	disease 345 357	hypokaliémie
+T5	disease 361 386	insuffisance rénale aiguë
+T6	disease 522 528	plaies
+T7	disease 802 854	cicatrice chirurgicale de l'une des plaies du visage
+T8	disease 1240 1282	fistule artério-veineuse intraparotidienne
+T9	disease 1840 1857	lésion vasculaire
+T10	disease 2536 2576	occlusion de l'artère maxillaire interne
+T11	disease 2595 2627	thrombose de la poche fistuleuse

@@ -1,0 +1,12 @@
+T1	morphology-onco 477 484	maligne
+T2	morphology-onco 876 898	tumeur germinale mixte
+T3	morphology-onco 969 977	pT2cN0M0
+T4	morphology-onco 1998 2035	histiocytose à cellules de Langerhans
+#1	ICD-O-3.1 T4	9751/3
+#2	ICD-O-3.1 T2	9085/3
+#3	ICD-O-3.1 T3	8000/6
+#4	ICD-O-3.1 T1	8000/3
+#5	SNOMED T4	65399007
+#6	SNOMED T2	32844007
+#7	SNOMED T3	14799000
+#8	SNOMED T1	1240414004

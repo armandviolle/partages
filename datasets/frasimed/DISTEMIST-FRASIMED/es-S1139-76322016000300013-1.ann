@@ -1,0 +1,6 @@
+T1	disease 512 521	infection
+T2	disease 1098 1123	immunodéficience humorale
+T3	disease 1138 1155	maladie de Bruton
+#1	SNOMED T1	40733004
+#2	SNOMED T2	363265005
+#3	SNOMED T3	65880007

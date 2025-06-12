@@ -1,0 +1,39 @@
+T1	morphology-onco 310 316	tumeur
+T2	morphology-onco 895 925	carcinome canalaire infiltrant
+T3	morphology-onco 1593 1615	métastase de carcinome
+T4	morphology-onco 1704 1722	maladie à distance
+T5	morphology-onco 1753 1783	carcinome canalaire infiltrant
+T6	morphology-onco 1845 1852	cT3N1M0
+T7	morphology-onco 1940 1946	tumeur
+T8	morphology-onco 3003 3033	carcinome canalaire infiltrant
+T9	morphology-onco 3143 3146	cM0
+T10	morphology-onco 3823 3829	tumeur
+T11	morphology-onco 4809 4827	lésions hépatiques
+T12	morphology-onco 4871 4896	métastases d'un carcinome
+T13	morphology-onco 5154 5166	métastatique
+#1	ICD-O-3.1 T9	8000/6
+#2	ICD-O-3.1 T2	8500/3
+#3	ICD-O-3.1 T5	8500/3
+#4	ICD-O-3.1 T8	8500/3
+#5	ICD-O-3.1 T4	8000/6
+#6	ICD-O-3.1 T11	8000/6
+#7	ICD-O-3.1 T13	8000/6
+#8	ICD-O-3.1 T3	8010/6
+#9	ICD-O-3.1 T12	8010/6
+#10	ICD-O-3.1 T10	8000/1
+#11	ICD-O-3.1 T1	8000/1
+#12	ICD-O-3.1 T7	8000/1
+#13	ICD-O-3.1 T6	8000/6
+#14	SNOMED T9	14799000
+#15	SNOMED T2	58477004
+#16	SNOMED T5	58477004
+#17	SNOMED T8	58477004
+#18	SNOMED T4	14799000
+#19	SNOMED T11	14799000
+#20	SNOMED T13	14799000
+#21	SNOMED T3	79282002
+#22	SNOMED T12	79282002
+#23	SNOMED T10	86251006
+#24	SNOMED T1	86251006
+#25	SNOMED T7	86251006
+#26	SNOMED T6	14799000

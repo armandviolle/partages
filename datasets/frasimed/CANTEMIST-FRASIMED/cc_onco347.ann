@@ -1,0 +1,49 @@
+T1	morphology-onco 512 518	tumeur
+T2	morphology-onco 689 696	tumoral
+T3	morphology-onco 855 885	carcinome canalaire infiltrant
+T4	morphology-onco 1030 1064	métastase d'un carcinome canalaire
+T5	morphology-onco 1114 1126	métastatique
+T6	morphology-onco 1421 1428	tumoral
+T7	morphology-onco 1488 1506	cellules tumorales
+T8	morphology-onco 1519 1534	micrométastases
+T9	morphology-onco 1630 1638	tumorale
+T10	morphology-onco 1682 1719	prolifération épithéliale néoplasique
+T11	morphology-onco 2196 2225	carcinome mammaire infiltrant
+T12	morphology-onco 2241 2245	ypM0
+T13	morphology-onco 2597 2620	progression des poumons
+T14	morphology-onco 2791 2808	maladie hépatique
+T15	morphology-onco 2856 2908	Progression de la maladie ganglionnaire et hépatique
+T16	morphology-onco 2983 3000	maladie cérébrale
+T17	morphology-onco 5355 5367	métastatique
+#1	ICD-O-3.1 T3	8500/3
+#2	ICD-O-3.1 T7	8001/1
+#3	ICD-O-3.1 T17	8000/6
+#4	ICD-O-3.1 T8	8000/6
+#5	ICD-O-3.1 T1	8000/1
+#6	ICD-O-3.1 T2	8000/1
+#7	ICD-O-3.1 T6	8000/1
+#8	ICD-O-3.1 T9	8000/1
+#9	ICD-O-3.1 T4	8500/6
+#10	ICD-O-3.1 T5	8000/6
+#11	ICD-O-3.1 T10	8010/1
+#12	ICD-O-3.1 T11	8010/3/H
+#13	ICD-O-3.1 T12	8000/6
+#14	ICD-O-3.1 T13	8000/6
+#15	ICD-O-3.1 T15	8000/6
+#16	ICD-O-3.1 T14	8000/6
+#17	ICD-O-3.1 T16	8000/6
+#18	SNOMED T3	58477004
+#19	SNOMED T7	39577004
+#20	SNOMED T17	14799000
+#21	SNOMED T8	14799000
+#22	SNOMED T1	86251006
+#23	SNOMED T2	86251006
+#24	SNOMED T6	86251006
+#25	SNOMED T9	86251006
+#26	SNOMED T5	14799000
+#27	SNOMED T11	1187425009
+#28	SNOMED T12	14799000
+#29	SNOMED T13	14799000
+#30	SNOMED T15	14799000
+#31	SNOMED T14	14799000
+#32	SNOMED T16	14799000

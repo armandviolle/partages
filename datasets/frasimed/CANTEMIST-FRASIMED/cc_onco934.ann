@@ -1,0 +1,51 @@
+T1	morphology-onco 294 300	cancer
+T2	morphology-onco 415 423	leucémie
+T3	morphology-onco 458 464	cancer
+T4	morphology-onco 573 620	adénocarcinome pulmonaire de stade IV (cT2N2M1)
+T5	morphology-onco 720 732	métastatique
+T6	morphology-onco 1414 1440	EP pulmonaire et hépatique
+T7	morphology-onco 3592 3604	métastatique
+T8	morphology-onco 3879 3894	lésion frontale
+T9	morphology-onco 3924 3939	lésion frontale
+T10	morphology-onco 4367 4424	lésions cortico-sous-corticales focales supratentorielles
+T11	morphology-onco 4527 4565	métastases cérébrales de son néoplasme
+T12	morphology-onco 4747 4768	progression cérébrale
+T13	morphology-onco 4936 4996	EP dans le système nerveux central (SNC) d'un adénocarcinome
+T14	morphology-onco 4982 5029	adénocarcinome pulmonaire de stade IV (cT2N2M1)
+T15	morphology-onco 6117 6130	métastatiques
+T16	morphology-onco 6350 6371	progression cérébrale
+T17	morphology-onco 6688 6702	EP dans le SNC
+#1	ICD-O-3.1 T1	8000/3
+#2	ICD-O-3.1 T3	8000/3
+#3	ICD-O-3.1 T8	8000/6
+#4	ICD-O-3.1 T9	8000/6
+#5	ICD-O-3.1 T2	9800/3
+#6	ICD-O-3.1 T5	8000/6
+#7	ICD-O-3.1 T15	8000/6
+#8	ICD-O-3.1 T12	8000/6
+#9	ICD-O-3.1 T16	8000/6
+#10	ICD-O-3.1 T4	8140/6
+#11	ICD-O-3.1 T6	8000/6
+#12	ICD-O-3.1 T7	8000/6
+#13	ICD-O-3.1 T10	8000/6
+#14	ICD-O-3.1 T11	8000/6
+#15	ICD-O-3.1 T14	8140/6
+#16	ICD-O-3.1 T13	8140/6
+#17	ICD-O-3.1 T17	8000/6
+#18	SNOMED T1	1240414004
+#19	SNOMED T3	1240414004
+#20	SNOMED T8	14799000
+#21	SNOMED T9	14799000
+#22	SNOMED T2	1162768007
+#23	SNOMED T5	14799000
+#24	SNOMED T15	14799000
+#25	SNOMED T12	14799000
+#26	SNOMED T16	14799000
+#27	SNOMED T4	4590003
+#28	SNOMED T6	14799000
+#29	SNOMED T7	14799000
+#30	SNOMED T10	14799000
+#31	SNOMED T11	14799000
+#32	SNOMED T14	4590003
+#33	SNOMED T13	4590003
+#34	SNOMED T17	14799000

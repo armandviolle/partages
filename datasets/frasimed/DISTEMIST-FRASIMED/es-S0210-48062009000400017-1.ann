@@ -1,0 +1,16 @@
+T1	disease 81 155	néoplasie vésicale superficielle de haut grade à cellules transitionnelles
+T2	disease 237 243	fumeur
+T3	disease 270 273	AHT
+T4	disease 275 286	COPD sévère
+T5	disease 290 313	cardiomyopathie dilatée
+T6	disease 339 357	néoplasie vésicale
+T7	disease 472 519	lésion nodulaire hétérogène à contenu graisseux
+T8	disease 771 808	lésion hyperéchogène rétropéritonéale
+T9	disease 1167 1194	liposarcome rétropéritonéal
+T10	disease 1289 1319	contenu graisseux de la lésion
+T11	disease 1783 1789	lésion
+T12	disease 2173 2184	liposarcome
+T13	disease 2504 2510	lésion
+T14	disease 2961 2994	myélolipome prévertébral lombaire
+T15	disease 3145 3188	syndrome myélodysplasique-myéloprolifératif
+T16	disease 3296 3341	myélolipome extra-surrénalien rétropéritonéal

@@ -1,0 +1,20 @@
+T1	disease 45 60	ulcère duodénal
+T2	disease 67 79	constipation
+T3	disease 157 177	crise réno-urétérale
+T4	disease 199 213	néphrolithiase
+T5	disease 217 226	hématurie
+T6	disease 232 261	infection des voies urinaires
+T7	disease 360 390	ectasie pyélocalicielle rénale
+T8	disease 578 615	sténose à la jonction pyélo-urétérale
+T9	disease 997 1024	sténose des voies urinaires
+T10	disease 1009 1057	voies urinaires a révélé un hémangiome caverneux
+#1	SNOMED T1	51868009
+#2	SNOMED T2	14760008
+#3	SNOMED T3	7093002
+#4	SNOMED T4	95570007
+#5	SNOMED T5	34436003
+#6	SNOMED T6	68566005
+#7	SNOMED T7	197820003
+#8	SNOMED T8	36388008
+#9	SNOMED T9	41368006
+#10	SNOMED T10	416824008

@@ -1,0 +1,28 @@
+T1	disease 45 68	diabète sucré de type 2
+T2	disease 93 113	ulcération cornéenne
+T3	disease 277 332	inflammation oculaire associée à une dermatite frontale
+T4	disease 353 357	zona
+T5	disease 520 540	cataracte bilatérale
+T6	disease 675 695	ulcération cornéenne
+T7	disease 1172 1189	kératite fongique
+T8	disease 1306 1314	kératite
+T9	disease 1352 1373	perforation cornéenne
+T10	disease 1578 1586	hypopion
+T11	disease 1596 1617	hypertension oculaire
+T12	disease 2395 2409	vision trouble
+T13	disease 2669 2690	cicatrices cornéennes
+T14	disease 2704 2720	leucome adhérent
+#1	SNOMED T1	44054006
+#2	SNOMED T2	193759000
+#3	SNOMED T4	4740000
+#4	SNOMED T5	95722004
+#5	SNOMED T11	4210003
+#6	SNOMED T14	30337003
+#7	SNOMED T9	74895004
+#8	SNOMED T7	314558005
+#9	SNOMED T8	5888003
+#10	SNOMED T10	87807004
+#11	SNOMED T6	193759000
+#12	SNOMED T13	95726001
+#13	SNOMED T3	128473001+703938007
+#14	SNOMED T12	246636008

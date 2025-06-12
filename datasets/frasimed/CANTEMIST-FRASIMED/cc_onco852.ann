@@ -1,0 +1,45 @@
+T1	morphology-onco 1458 1464	tumeur
+T2	morphology-onco 2508 2518	métastases
+T3	morphology-onco 2626 2633	tumeurs
+T4	morphology-onco 2781 2796	choriocarcinome
+T5	morphology-onco 2866 2878	métastatique
+T6	morphology-onco 3298 3308	métastases
+T7	morphology-onco 5403 5413	métastases
+T8	morphology-onco 5640 5649	métastase
+T9	morphology-onco 5675 5694	lésions pulmonaires
+T10	morphology-onco 5895 5911	lésion hépatique
+T11	morphology-onco 5947 5957	métastases
+T12	morphology-onco 6106 6114	tumorale
+T13	morphology-onco 6133 6139	tumeur
+T14	morphology-onco 6222 6241	lésions pulmonaires
+T15	morphology-onco 6459 6478	lésions pulmonaires
+#1	ICD-O-3.1 T4	9100/3
+#2	ICD-O-3.1 T2	8000/6
+#3	ICD-O-3.1 T6	8000/6
+#4	ICD-O-3.1 T7	8000/6
+#5	ICD-O-3.1 T8	8000/6
+#6	ICD-O-3.1 T11	8000/6
+#7	ICD-O-3.1 T13	8000/1
+#8	ICD-O-3.1 T1	8000/1
+#9	ICD-O-3.1 T12	8000/1
+#10	ICD-O-3.1 T3	8000/1
+#11	ICD-O-3.1 T5	8000/6
+#12	ICD-O-3.1 T9	8000/6
+#13	ICD-O-3.1 T14	8000/6
+#14	ICD-O-3.1 T15	8000/6
+#15	ICD-O-3.1 T10	8000/6
+#16	SNOMED T4	1156971005
+#17	SNOMED T2	14799000
+#18	SNOMED T6	14799000
+#19	SNOMED T7	14799000
+#20	SNOMED T8	14799000
+#21	SNOMED T11	14799000
+#22	SNOMED T13	86251006
+#23	SNOMED T1	86251006
+#24	SNOMED T12	86251006
+#25	SNOMED T3	86251006
+#26	SNOMED T5	14799000
+#27	SNOMED T9	14799000
+#28	SNOMED T14	14799000
+#29	SNOMED T15	14799000
+#30	SNOMED T10	14799000

@@ -1,0 +1,14 @@
+T1	disease 183 227	exfoliation des quatre incisives supérieures
+T2	disease 621 630	mésiodens
+T3	disease 798 819	diastème interincisif
+T4	disease 942 961	dents surnuméraires
+T5	disease 1117 1126	mésiodens
+T6	disease 1259 1268	mésiodens
+T7	disease 1418 1427	mésiodens
+#1	SNOMED T2	17802000
+#2	SNOMED T6	17802000
+#3	SNOMED T5	17802000
+#4	SNOMED T7	17802000
+#5	SNOMED T1	110338002
+#6	SNOMED T3	734009000
+#7	SNOMED T4	367534004

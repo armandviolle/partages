@@ -1,0 +1,20 @@
+T1	disease 224 227	SMR
+T2	disease 548 569	GCS associée à un SMD
+T3	disease 815 824	épilepsie
+T4	disease 853 872	léger retard mental
+T5	disease 878 891	hypothyroïdie
+T6	disease 897 920	résistance à l'insuline
+T7	disease 928 945	allergie à l'iode
+T8	disease 1236 1253	langue dépapillée
+T9	disease 1340 1355	langue fissurée
+T10	disease 1379 1391	macroglossie
+#1	SNOMED T3	84757009
+#2	SNOMED T4	86765009
+#3	SNOMED T5	40930008
+#4	SNOMED T6	763325000
+#5	SNOMED T7	294913003
+#6	SNOMED T2	215617000
+#7	SNOMED T9	52368004
+#8	SNOMED T10	25273001
+#9	SNOMED T1	37770007
+#10	SNOMED T8	59032001

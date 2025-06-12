@@ -1,0 +1,24 @@
+T1	morphology-onco 118 124	cancer
+T2	morphology-onco 464 501	tumeur stromale à cellules fusiformes
+T3	morphology-onco 464 544	tumeur stromale à cellules fusiformes de grade histologique intermédiaire/faible
+T4	morphology-onco 682 715	tumeur de Phyllodes de haut grade
+T5	morphology-onco 1877 1883	tumeur
+T6	morphology-onco 2693 2742	tumeur dans la région inféro-latérale de l'orbite
+T7	morphology-onco 2929 2941	métastatique
+T8	morphology-onco 2955 3007	Métastase orbitale d'une tumeur du sein de Phyllodes
+T9	morphology-onco 3194 3243	métastase d'une tumeur de Phyllodes de haut grade
+#1	ICD-O-3.1 T1	8000/3
+#2	ICD-O-3.1 T7	8000/6
+#3	ICD-O-3.1 T5	8000/1
+#4	ICD-O-3.1 T3	8935/12
+#5	ICD-O-3.1 T2	8004/1
+#6	ICD-O-3.1 T4	9020/34
+#7	ICD-O-3.1 T8	9020/6
+#8	ICD-O-3.1 T9	9020/64
+#9	ICD-O-3.1 T6	8000/6
+#10	SNOMED T1	1240414004
+#11	SNOMED T7	14799000
+#12	SNOMED T5	86251006
+#13	SNOMED T3	128752000
+#14	SNOMED T4	87913009
+#15	SNOMED T6	14799000

@@ -1,0 +1,21 @@
+T1	morphology-onco 2040 2049	métastase
+T2	morphology-onco 2430 2439	métastase
+T3	morphology-onco 2487 2526	carcinome mammaire canalaire infiltrant
+T4	morphology-onco 2758 2767	métastase
+T5	morphology-onco 3820 3832	métastatique
+T6	morphology-onco 3877 3899	atteinte leptoméningée
+T7	morphology-onco 3961 3973	métastatique
+#1	ICD-O-3.1 T5	8000/6
+#2	ICD-O-3.1 T3	8500/3
+#3	ICD-O-3.1 T6	8000/6
+#4	ICD-O-3.1 T7	8000/6
+#5	ICD-O-3.1 T1	8000/6
+#6	ICD-O-3.1 T2	8000/6
+#7	ICD-O-3.1 T4	8000/6
+#8	SNOMED T5	14799000
+#9	SNOMED T3	58477004
+#10	SNOMED T6	14799000
+#11	SNOMED T7	14799000
+#12	SNOMED T1	14799000
+#13	SNOMED T2	14799000
+#14	SNOMED T4	14799000

@@ -1,0 +1,47 @@
+T1	morphology-onco 1657 1663	tumeur
+T2	morphology-onco 1742 1748	tumeur
+T3	morphology-onco 1770 1788	masse médiastinale
+T4	morphology-onco 1985 2004	Nodules pulmonaires
+T5	morphology-onco 2734 2740	tumeur
+T6	morphology-onco 2892 2898	tumeur
+T7	morphology-onco 3309 3318	malignité
+T8	morphology-onco 3430 3438	séminome
+T9	morphology-onco 3787 3825	Séminome testiculaire droit cT3-4N3M1a
+T10	morphology-onco 4609 4625	masse pulmonaire
+T11	morphology-onco 4842 4848	tumeur
+T12	morphology-onco 4922 4929	tumoral
+T13	morphology-onco 5449 5467	Masse médiastinale
+T14	morphology-onco 6186 6208	progression pulmonaire
+T15	morphology-onco 6734 6752	masse médiastinale
+T16	morphology-onco 6789 6808	lésions pulmonaires
+#1	ICD-O-3.1 T13	8000/6
+#2	ICD-O-3.1 T16	8000/6
+#3	ICD-O-3.1 T7	8000/3
+#4	ICD-O-3.1 T3	8000/6
+#5	ICD-O-3.1 T15	8000/6
+#6	ICD-O-3.1 T10	8000/6
+#7	ICD-O-3.1 T14	8000/6
+#8	ICD-O-3.1 T8	9061/3
+#9	ICD-O-3.1 T1	8000/1
+#10	ICD-O-3.1 T5	8000/1
+#11	ICD-O-3.1 T6	8000/1
+#12	ICD-O-3.1 T11	8000/1
+#13	ICD-O-3.1 T2	8000/1
+#14	ICD-O-3.1 T12	8000/1
+#15	ICD-O-3.1 T9	9061/6
+#16	ICD-O-3.1 T4	8000/6
+#17	SNOMED T13	14799000
+#18	SNOMED T16	14799000
+#19	SNOMED T7	1240414004
+#20	SNOMED T3	14799000
+#21	SNOMED T15	14799000
+#22	SNOMED T10	14799000
+#23	SNOMED T14	14799000
+#24	SNOMED T8	1162765005
+#25	SNOMED T1	86251006
+#26	SNOMED T5	86251006
+#27	SNOMED T6	86251006
+#28	SNOMED T11	86251006
+#29	SNOMED T2	86251006
+#30	SNOMED T12	86251006
+#31	SNOMED T4	14799000

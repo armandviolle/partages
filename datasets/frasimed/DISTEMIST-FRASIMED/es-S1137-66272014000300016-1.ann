@@ -1,0 +1,24 @@
+T1	disease 133 193	septicémie et une méningite dues à un méningocoque de type B
+T2	disease 411 421	septicémie
+T3	disease 951 960	infection
+T4	disease 971 1008	pétéchies dans les membres inférieurs
+T5	disease 1366 1381	hépatite B et C
+T6	disease 2199 2206	lésions
+T7	disease 2475 2494	œdème périlésionnel
+T8	disease 2551 2609	abcès cérébraux multiples secondaires à la méningococcémie
+T9	disease 2594 2609	méningococcémie
+T10	disease 3081 3099	lésions cérébrales
+T11	disease 3186 3216	foyer infectieux/inflammatoire
+T12	disease 3455 3470	abcès cérébraux
+#1	SNOMED T11	40733004+128139000
+#2	SNOMED T6	157670007
+#3	SNOMED T1	127311000119106+192644005
+#4	SNOMED T3	40733004
+#5	SNOMED T12	60404007
+#6	SNOMED T2	91302008
+#7	SNOMED T8	230208003+4089001
+#8	SNOMED T9	4089001
+#9	SNOMED T10	81308009
+#10	SNOMED T5	442374005
+#11	SNOMED T4	271813007
+#12	SNOMED T7	79654002

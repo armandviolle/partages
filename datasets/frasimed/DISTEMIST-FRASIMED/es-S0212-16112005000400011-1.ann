@@ -1,0 +1,16 @@
+T1	disease 36 45	allergies
+T2	disease 76 100	adénocarcinome gastrique
+T3	disease 1189 1221	éruption prurigineuse disséminée
+T4	disease 1602 1636	abcès avec une collection biliaire
+T5	disease 1802 1842	éruption cutanée prurigineuse disséminée
+T6	disease 2081 2091	cholangite
+T7	disease 2241 2257	hypersensibilité
+T8	disease 2724 2755	processus néoformatif gastrique
+#1	SNOMED T2	408647009
+#2	SNOMED T6	82403002
+#3	SNOMED T8	126824007
+#4	SNOMED T3	64144002
+#5	SNOMED T4	405590003
+#6	SNOMED T5	64144002
+#7	SNOMED T7	421961002
+#8	SNOMED T1	106190000

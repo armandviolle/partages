@@ -1,0 +1,33 @@
+T1	morphology-onco 477 489	néoformation
+T2	morphology-onco 555 592	adénocarcinome modérément différencié
+T3	morphology-onco 708 714	tumeur
+T4	morphology-onco 919 925	tumeur
+T5	morphology-onco 1295 1331	progression ganglionnaire pulmonaire
+T6	morphology-onco 1391 1397	tumeur
+T7	morphology-onco 1922 1931	métastase
+T8	morphology-onco 2212 2220	tumorale
+T9	morphology-onco 4594 4608	Adénocarcinome
+T10	morphology-onco 4664 4682	Rechute pulmonaire
+T11	morphology-onco 4743 4764	Progression cérébrale
+#1	ICD-O-3.1 T9	8140/3
+#2	ICD-O-3.1 T10	8000/6
+#3	ICD-O-3.1 T2	8140/32
+#4	ICD-O-3.1 T7	8000/6
+#5	ICD-O-3.1 T1	8000/1
+#6	ICD-O-3.1 T5	8000/6
+#7	ICD-O-3.1 T3	8000/1
+#8	ICD-O-3.1 T4	8000/1
+#9	ICD-O-3.1 T6	8000/1
+#10	ICD-O-3.1 T8	8000/1
+#11	ICD-O-3.1 T11	8000/6
+#12	SNOMED T9	1187332001
+#13	SNOMED T10	14799000
+#14	SNOMED T2	1187332001
+#15	SNOMED T7	14799000
+#16	SNOMED T1	86251006
+#17	SNOMED T5	14799000
+#18	SNOMED T3	86251006
+#19	SNOMED T4	86251006
+#20	SNOMED T6	86251006
+#21	SNOMED T8	86251006
+#22	SNOMED T11	14799000

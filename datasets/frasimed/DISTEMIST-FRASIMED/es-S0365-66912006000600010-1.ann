@@ -1,0 +1,6 @@
+T1	disease 398 416	crises d'épilepsie
+T2	disease 886 928	hémianopsie homonyme gauche non congruente
+T3	disease 1191 1223	phénomène toxique lié au Topamax
+#1	SNOMED T1	84757009
+#2	SNOMED T3	62014003
+#3	SNOMED T2	55634009

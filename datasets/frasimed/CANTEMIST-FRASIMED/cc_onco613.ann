@@ -1,0 +1,15 @@
+T1	morphology-onco 291 312	carcinome épidermoïde
+T2	morphology-onco 377 407	invasion des 4e à 6e vertèbres
+T3	morphology-onco 478 487	malignité
+T4	morphology-onco 870 878	tumorale
+T5	morphology-onco 4351 4368	cellules malignes
+#1	ICD-O-3.1 T1	8070/3
+#2	ICD-O-3.1 T5	8001/3
+#3	ICD-O-3.1 T3	8000/3
+#4	ICD-O-3.1 T4	8000/1
+#5	ICD-O-3.1 T2	8000/6
+#6	SNOMED T1	1162767002
+#7	SNOMED T5	88400008
+#8	SNOMED T3	1240414004
+#9	SNOMED T4	86251006
+#10	SNOMED T2	14799000

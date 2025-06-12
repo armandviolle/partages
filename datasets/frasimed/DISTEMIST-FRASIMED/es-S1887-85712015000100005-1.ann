@@ -1,0 +1,32 @@
+T1	disease 175 181	fumeur
+T2	disease 213 219	buveur
+T3	disease 369 386	maladie hépatique
+T4	disease 486 495	porphyrie
+T5	disease 1012 1024	malnutrition
+T6	disease 1140 1162	insuffisance cardiaque
+T7	disease 1182 1254	hyperpigmentation frappante sur le front, les régions malaires et le nez
+T8	disease 1293 1306	hypertrichose
+T9	disease 1338 1352	lésion cutanée
+T10	disease 1898 1932	pneumonie interstitielle due à PNJ
+T11	disease 2079 2100	érythrodermie faciale
+T12	disease 2242 2246	PCT2
+T13	disease 2278 2286	hépatite
+T14	disease 2679 2699	infection par le VIH
+T15	disease 2704 2732	pneumonie interstitielle NPC
+T16	disease 2740 2743	PCT
+#1	SNOMED T1	77176002
+#2	SNOMED T2	7200002
+#3	SNOMED T3	235856003
+#4	SNOMED T6	84114007
+#5	SNOMED T14	86406008
+#6	SNOMED T15	415125002
+#7	SNOMED T4	418470004
+#8	SNOMED T16	61860000
+#9	SNOMED T8	29966009
+#10	SNOMED T9	95324001
+#11	SNOMED T10	415125002
+#12	SNOMED T11	399992009
+#13	SNOMED T12	61860000
+#14	SNOMED T13	128241005
+#15	SNOMED T5	47563007
+#16	SNOMED T7	118930001

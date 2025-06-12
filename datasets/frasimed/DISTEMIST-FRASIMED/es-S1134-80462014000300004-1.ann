@@ -1,0 +1,4 @@
+T1	disease 51 73	entorse de la cheville
+T2	disease 165 195	CRPS de la cheville et du pied
+#1	SNOMED T1	44465007
+#2	SNOMED T2	734986006

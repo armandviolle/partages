@@ -1,0 +1,26 @@
+T1	disease 116 138	hyperemesis gravidarum
+T2	disease 239 256	proptose oculaire
+T3	disease 423 434	traumatisme
+T4	disease 485 496	exophtalmie
+T5	disease 502 514	hypophtalmie
+T6	disease 651 659	diplopie
+T7	disease 665 676	myodésopsie
+T8	disease 837 900	anomalie vasculaire n'a été observé au niveau de la conjonctive
+T9	disease 1072 1106	hématome intraorbitaire extraconal
+T10	disease 1458 1466	hématome
+T11	disease 1811 1830	hématome extraconal
+T12	disease 1886 1894	hématome
+T13	disease 2028 2050	hyperemesis gravidarum
+#1	SNOMED T4	18265008
+#2	SNOMED T5	231849002
+#3	SNOMED T1	90325002
+#4	SNOMED T9	371405004
+#5	SNOMED T2	18265008
+#6	SNOMED T8	74100001
+#7	SNOMED T11	371405004
+#8	SNOMED T13	90325002
+#9	SNOMED T6	24982008
+#10	SNOMED T10	385494008
+#11	SNOMED T12	385494008
+#12	SNOMED T3	417746004
+#13	SNOMED T7	15013002

@@ -1,0 +1,33 @@
+T1	morphology-onco 77 112	adénocarcinome bronchioloalvéolaire
+T2	morphology-onco 77 121	adénocarcinome bronchioloalvéolaire mucineux
+T3	morphology-onco 122 128	T3N0M0
+T4	morphology-onco 443 457	adénocarcinome
+T5	morphology-onco 1072 1081	métastase
+T6	morphology-onco 1259 1266	maligne
+T7	morphology-onco 1632 1689	adénocarcinome de la prostate, score de Gleason combiné 7
+T8	morphology-onco 1809 1816	tumeurs
+T9	morphology-onco 1991 2005	adénocarcinome
+T10	morphology-onco 2293 2300	tumeurs
+T11	morphology-onco 2409 2418	métastase
+#1	ICD-O-3.1 T3	8000/6
+#2	ICD-O-3.1 T4	8140/3
+#3	ICD-O-3.1 T9	8140/3
+#4	ICD-O-3.1 T6	8000/3
+#5	ICD-O-3.1 T5	8000/6
+#6	ICD-O-3.1 T11	8000/6
+#7	ICD-O-3.1 T8	8000/1
+#8	ICD-O-3.1 T10	8000/1
+#9	ICD-O-3.1 T2	8253/3
+#10	ICD-O-3.1 T1	8250/3
+#11	ICD-O-3.1 T7	8140/32
+#12	SNOMED T3	14799000
+#13	SNOMED T4	1187332001
+#14	SNOMED T9	1187332001
+#15	SNOMED T6	1240414004
+#16	SNOMED T5	14799000
+#17	SNOMED T11	14799000
+#18	SNOMED T8	86251006
+#19	SNOMED T10	86251006
+#20	SNOMED T2	128660005
+#21	SNOMED T1	36310008
+#22	SNOMED T7	1187332001

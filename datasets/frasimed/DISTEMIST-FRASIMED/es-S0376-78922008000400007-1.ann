@@ -1,0 +1,18 @@
+T1	disease 51 65	cancer du sein
+T2	disease 119 144	fibroadénome dans le sein
+T3	disease 327 333	cancer
+T4	disease 936 978	déhiscence de la plaie dans les deux seins
+T5	disease 1187 1193	plaies
+T6	disease 1677 1682	plaie
+T7	disease 3343 3362	rupture prothétique
+T8	disease 3384 3406	contracture capsulaire
+T9	disease 3448 3470	contracture capsulaire
+#1	SNOMED T9	271989003
+#2	SNOMED T1	254837009
+#3	SNOMED T2	254845004
+#4	SNOMED T7	271543000
+#5	SNOMED T8	271989003
+#6	SNOMED T3	363346000
+#7	SNOMED T4	410723003+76752008
+#8	SNOMED T5	416462003
+#9	SNOMED T6	416462003

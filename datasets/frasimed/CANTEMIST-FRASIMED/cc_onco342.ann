@@ -1,0 +1,57 @@
+T1	morphology-onco 116 125	carcinome
+T2	morphology-onco 1243 1294	ganglion lymphatique axillaire ou supraclaviculaire
+T3	morphology-onco 1906 1915	néoplasie
+T4	morphology-onco 2484 2557	carcinome lobulaire infiltrant du sein gauche, grade histologique (GH) II
+T5	morphology-onco 2837 2867	carcinome lobulaire infiltrant
+T6	morphology-onco 3178 3196	maladie à distance
+T7	morphology-onco 3385 3415	carcinome lobulaire infiltrant
+T8	morphology-onco 3440 3442	M0
+T9	morphology-onco 4930 4993	carcinome infiltrant mixte (lobulaire et sans type particulier)
+T10	morphology-onco 5006 5008	M0
+T11	morphology-onco 5482 5490	malignes
+T12	morphology-onco 6762 6832	zone blastique et lytique a été identifiée dans la lame iliaque droite
+T13	morphology-onco 6956 6968	métastatique
+T14	morphology-onco 7237 7246	métastase
+T15	morphology-onco 7313 7338	lésion de la lame iliaque
+T16	morphology-onco 7411 7425	lésion osseuse
+T17	morphology-onco 7829 7851	métastase de carcinome
+T18	morphology-onco 8119 8143	maladie au niveau osseux
+T19	morphology-onco 8887 8901	lésion osseuse
+#1	ICD-O-3.1 T5	8520/3
+#2	ICD-O-3.1 T7	8520/3
+#3	ICD-O-3.1 T8	8000/6
+#4	ICD-O-3.1 T10	8000/6
+#5	ICD-O-3.1 T17	8010/6
+#6	ICD-O-3.1 T1	8010/3
+#7	ICD-O-3.1 T6	8000/6
+#8	ICD-O-3.1 T18	8000/6
+#9	ICD-O-3.1 T16	8000/6
+#10	ICD-O-3.1 T19	8000/6
+#11	ICD-O-3.1 T11	8000/3
+#12	ICD-O-3.1 T13	8000/6
+#13	ICD-O-3.1 T14	8000/6
+#14	ICD-O-3.1 T3	8000/1
+#15	ICD-O-3.1 T2	8000/6
+#16	ICD-O-3.1 T4	8520/32
+#17	ICD-O-3.1 T9	8524/3
+#18	ICD-O-3.1 T12	8000/6
+#19	ICD-O-3.1 T15	8000/6
+#20	SNOMED T5	278054005
+#21	SNOMED T7	278054005
+#22	SNOMED T8	14799000
+#23	SNOMED T10	14799000
+#24	SNOMED T17	79282002
+#25	SNOMED T1	1187425009
+#26	SNOMED T6	14799000
+#27	SNOMED T18	14799000
+#28	SNOMED T16	14799000
+#29	SNOMED T19	14799000
+#30	SNOMED T11	1240414004
+#31	SNOMED T13	14799000
+#32	SNOMED T14	14799000
+#33	SNOMED T3	86251006
+#34	SNOMED T2	14799000
+#35	SNOMED T4	278054005
+#36	SNOMED T9	128701002
+#37	SNOMED T12	14799000
+#38	SNOMED T15	14799000

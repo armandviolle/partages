@@ -1,0 +1,20 @@
+T1	disease 66 89	diabète sucré de type 2
+T2	disease 95 115	hypercholestérolémie
+T3	disease 446 458	rectorragies
+T4	disease 594 608	viscéromégalie
+T5	disease 1125 1172	lésion occupant l'espace dans le lobe hépatique
+T6	disease 1446 1459	abcès du foie
+T7	disease 2162 2210	lésion exophytique proche de la valve iléocæcale
+T8	disease 2291 2314	adénocarcinome du cæcum
+T9	disease 2354 2380	dissémination métastatique
+T10	disease 2393 2413	lésions dans le foie
+#1	SNOMED T1	44054006
+#2	SNOMED T2	13644009
+#3	SNOMED T3	12063002
+#4	SNOMED T4	28543008
+#5	SNOMED T5	235856003
+#6	SNOMED T6	27916005
+#7	SNOMED T7	18526009
+#8	SNOMED T8	413446001
+#9	SNOMED T9	128462008
+#10	SNOMED T10	235856003

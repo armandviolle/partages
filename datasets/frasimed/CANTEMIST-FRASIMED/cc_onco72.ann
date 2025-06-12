@@ -1,0 +1,63 @@
+T1	morphology-onco 292 298	tumeur
+T2	morphology-onco 1287 1306	nodules pulmonaires
+T3	morphology-onco 1407 1416	métastase
+T4	morphology-onco 1636 1643	maligne
+T5	morphology-onco 1867 1877	métastases
+T6	morphology-onco 1933 1963	néoplasme stromal fibromyxoïde
+T7	morphology-onco 2228 2267	hémangioendothéliome épithélioïde malin
+T8	morphology-onco 2278 2281	HEE
+T9	morphology-onco 2347 2409	tumeurs malignes ou de malignité intermédiaire des tissus mous
+T10	morphology-onco 2370 2379	malignité
+T11	morphology-onco 2429 2432	HEE
+T12	morphology-onco 2461 2523	tumeurs vasculaires de malignité intermédiaire des tissus mous
+T13	morphology-onco 2484 2493	malignité
+T14	morphology-onco 2580 2592	métastatique
+T15	morphology-onco 3803 3840	nodules subcentimétriques pulmonaires
+T16	morphology-onco 3955 3994	hémangioendothéliome épithélioïde malin
+T17	morphology-onco 4005 4008	HEE
+T18	morphology-onco 4168 4175	sarcome
+T19	morphology-onco 4429 4435	tumeur
+T20	morphology-onco 6022 6035	LOE hépatique
+T21	morphology-onco 6385 6403	lésions hépatiques
+#1	ICD-O-3.1 T21	8000/6
+#2	ICD-O-3.1 T4	8000/3
+#3	ICD-O-3.1 T10	8000/3
+#4	ICD-O-3.1 T13	8000/3
+#5	ICD-O-3.1 T14	8000/6
+#6	ICD-O-3.1 T3	8000/6
+#7	ICD-O-3.1 T5	8000/6
+#8	ICD-O-3.1 T18	8800/3
+#9	ICD-O-3.1 T1	8000/1
+#10	ICD-O-3.1 T19	8000/1
+#11	ICD-O-3.1 T6	8811/0
+#12	ICD-O-3.1 T7	9133/3
+#13	ICD-O-3.1 T8	9133/1
+#14	ICD-O-3.1 T9	8800/3
+#15	ICD-O-3.1 T11	9133/1
+#16	ICD-O-3.1 T12	8800/3
+#17	ICD-O-3.1 T15	8000/6
+#18	ICD-O-3.1 T2	8000/6
+#19	ICD-O-3.1 T16	9133/3
+#20	ICD-O-3.1 T17	9133/1
+#21	ICD-O-3.1 T20	8000/6
+#22	SNOMED T21	14799000
+#23	SNOMED T4	1240414004
+#24	SNOMED T10	1240414004
+#25	SNOMED T13	1240414004
+#26	SNOMED T14	14799000
+#27	SNOMED T3	14799000
+#28	SNOMED T5	14799000
+#29	SNOMED T18	1187396000
+#30	SNOMED T1	86251006
+#31	SNOMED T19	86251006
+#32	SNOMED T6	8664001
+#33	SNOMED T7	54124005
+#34	SNOMED T8	54124005
+#35	SNOMED T9	1187396000
+#36	SNOMED T11	54124005
+#37	SNOMED T12	1187396000
+#38	SNOMED T15	14799000
+#39	SNOMED T2	14799000
+#40	SNOMED T16	54124005
+#41	SNOMED T17	54124005
+#42	SNOMED T20	14799000

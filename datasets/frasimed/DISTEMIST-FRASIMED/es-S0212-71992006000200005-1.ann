@@ -1,0 +1,14 @@
+T1	disease 350 356	fumeur
+T2	disease 1252 1281	lésions pulmonaires kystiques
+T3	disease 1398 1471	lésion lytique a également été observée au niveau du quatrième arc costal
+T4	disease 2316 2320	LCPH
+T5	disease 2354 2370	arrêter de fumer
+T6	disease 2468 2485	lésions kystiques
+T7	disease 2754 2768	lésion osseuse
+#1	SNOMED T2	275504005
+#2	SNOMED T3	203522001
+#3	SNOMED T4	417152008
+#4	SNOMED T7	76069003
+#5	SNOMED T1	77176002
+#6	SNOMED T5	89765005
+#7	SNOMED T6	441457006

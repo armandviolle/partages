@@ -1,0 +1,32 @@
+T1	disease 54 74	alcoolisme chronique
+T2	disease 92 113	pancréatite chronique
+T3	disease 122 153	diabète sucré insulinodépendant
+T4	disease 273 294	pancréatite chronique
+T5	disease 361 386	pseudo-kyste pancréatique
+T6	disease 534 591	cholécystite emphysémateuse avec un abcès périvésiculaire
+T7	disease 1401 1433	kératite ulcérative périphérique
+T8	disease 1526 1548	ulcère cornéen central
+T9	disease 1574 1581	hyphéma
+T10	disease 1940 1989	malnutrition calorique sévère et protéique légère
+T11	disease 2274 2289	hypoprotéinémie
+T12	disease 2416 2456	déficit sévère en vitamines liposolubles
+T13	disease 2803 2823	malabsorption légère
+T14	disease 3138 3149	diabétiques
+T15	disease 3559 3565	anémie
+T16	disease 3648 3664	ulcères cornéens
+#1	SNOMED T1	284591009
+#2	SNOMED T2	235494005
+#3	SNOMED T14	73211009
+#4	SNOMED T3	46635009
+#5	SNOMED T15	271737000
+#6	SNOMED T16	91514001
+#7	SNOMED T4	235494005
+#8	SNOMED T7	416473005
+#9	SNOMED T5	111374002
+#10	SNOMED T8	7426009
+#11	SNOMED T6	95558008+32038009
+#12	SNOMED T10	190606006
+#13	SNOMED T11	8900005
+#14	SNOMED T12	85670002
+#15	SNOMED T13	32230006
+#16	SNOMED T9	75229002

@@ -1,0 +1,8 @@
+T1	disease 20 50	allergique aux bêta-lactamines
+T2	disease 86 108	BPCO corticodépendante
+T3	disease 745 758	hépatomégalie
+T4	disease 1889 1900	hypotension
+#1	SNOMED T1	419885006
+#2	SNOMED T2	95919007+13645005
+#3	SNOMED T3	80515008
+#4	SNOMED T4	45007003

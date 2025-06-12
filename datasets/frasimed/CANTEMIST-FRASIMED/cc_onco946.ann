@@ -1,0 +1,51 @@
+T1	morphology-onco 652 667	lésion vulvaire
+T2	morphology-onco 1536 1570	lésion ulcérée sur le grand labium
+T3	morphology-onco 1722 1731	néoplasie
+T4	morphology-onco 1820 1835	lésion vulvaire
+T5	morphology-onco 2190 2199	malignité
+T6	morphology-onco 2264 2279	lésion vulvaire
+T7	morphology-onco 2363 2389	métastase d'adénocarcinome
+T8	morphology-onco 2421 2430	néoplasme
+T9	morphology-onco 2684 2698	adénocarcinome
+T10	morphology-onco 2758 2772	adénocarcinome
+T11	morphology-onco 3047 3056	malignité
+T12	morphology-onco 3121 3139	masse de tissu mou
+T13	morphology-onco 3694 3712	cellules tumorales
+T14	morphology-onco 3817 3835	cellules tumorales
+T15	morphology-onco 3935 3949	adénocarcinome
+T16	morphology-onco 4909 4935	lymphangite carcinomateuse
+T17	morphology-onco 5866 5884	cellules tumorales
+#1	ICD-O-3.1 T9	8140/3
+#2	ICD-O-3.1 T10	8140/3
+#3	ICD-O-3.1 T15	8140/3
+#4	ICD-O-3.1 T13	8001/1
+#5	ICD-O-3.1 T14	8001/1
+#6	ICD-O-3.1 T17	8001/1
+#7	ICD-O-3.1 T16	8000/3
+#8	ICD-O-3.1 T5	8000/3
+#9	ICD-O-3.1 T11	8000/3
+#10	ICD-O-3.1 T3	8000/1
+#11	ICD-O-3.1 T8	8000/1
+#12	ICD-O-3.1 T7	8140/6
+#13	ICD-O-3.1 T1	8000/6
+#14	ICD-O-3.1 T2	8000/6
+#15	ICD-O-3.1 T4	8000/6
+#16	ICD-O-3.1 T6	8000/6
+#17	ICD-O-3.1 T12	8000/6
+#18	SNOMED T9	1187332001
+#19	SNOMED T10	1187332001
+#20	SNOMED T15	1187332001
+#21	SNOMED T13	39577004
+#22	SNOMED T14	39577004
+#23	SNOMED T17	39577004
+#24	SNOMED T16	1240414004
+#25	SNOMED T5	1240414004
+#26	SNOMED T11	1240414004
+#27	SNOMED T3	86251006
+#28	SNOMED T8	86251006
+#29	SNOMED T7	4590003
+#30	SNOMED T1	14799000
+#31	SNOMED T2	14799000
+#32	SNOMED T4	14799000
+#33	SNOMED T6	14799000
+#34	SNOMED T12	14799000

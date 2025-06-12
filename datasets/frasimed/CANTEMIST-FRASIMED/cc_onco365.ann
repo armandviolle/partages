@@ -1,0 +1,11 @@
+T1	morphology-onco 1154 1172	séminome classique
+T2	morphology-onco 1240 1256	séminome in situ
+T3	morphology-onco 1270 1293	Tumeur droite classique
+T4	morphology-onco 1294 1301	pT1N0M0
+#1	ICD-O-3.1 T3	9061/3
+#2	ICD-O-3.1 T4	8000/6
+#3	ICD-O-3.1 T1	9061/3
+#4	ICD-O-3.1 T2	9061/2
+#5	SNOMED T3	1162765005
+#6	SNOMED T4	14799000
+#7	SNOMED T1	1162765005

@@ -1,0 +1,42 @@
+T1	morphology-onco 334 348	adénocarcinome
+T2	morphology-onco 407 421	adénocarcinome
+T3	morphology-onco 760 791	adénocarcinome bien différencié
+T4	morphology-onco 853 872	nodules pulmonaires
+T5	morphology-onco 973 982	néoplasme
+T6	morphology-onco 1493 1507	Adénocarcinome
+T7	morphology-onco 1524 1534	Métastases
+T8	morphology-onco 1657 1663	tumeur
+T9	morphology-onco 1705 1726	atteintes pulmonaires
+T10	morphology-onco 2035 2044	métastase
+T11	morphology-onco 2054 2060	tumeur
+T12	morphology-onco 2337 2343	tumeur
+T13	morphology-onco 2870 2877	tumoral
+T14	morphology-onco 3386 3398	métastatique
+#1	ICD-O-3.1 T6	8140/3
+#2	ICD-O-3.1 T7	8000/6
+#3	ICD-O-3.1 T1	8140/3
+#4	ICD-O-3.1 T2	8140/3
+#5	ICD-O-3.1 T3	8140/32
+#6	ICD-O-3.1 T9	8000/6
+#7	ICD-O-3.1 T14	8000/6
+#8	ICD-O-3.1 T10	8000/6
+#9	ICD-O-3.1 T5	8000/1
+#10	ICD-O-3.1 T4	8000/6
+#11	ICD-O-3.1 T8	8000/1
+#12	ICD-O-3.1 T11	8000/1
+#13	ICD-O-3.1 T12	8000/1
+#14	ICD-O-3.1 T13	8000/1
+#15	SNOMED T6	1187332001
+#16	SNOMED T7	14799000
+#17	SNOMED T1	1187332001
+#18	SNOMED T2	1187332001
+#19	SNOMED T3	1187332001
+#20	SNOMED T9	14799000
+#21	SNOMED T14	14799000
+#22	SNOMED T10	14799000
+#23	SNOMED T5	86251006
+#24	SNOMED T4	14799000
+#25	SNOMED T8	86251006
+#26	SNOMED T11	86251006
+#27	SNOMED T12	86251006
+#28	SNOMED T13	86251006
