@@ -12,18 +12,18 @@ datasets:
     source_split: "train"
     commercial_use: True
     comment: ""
-  # - source: DEFT2021
-  #   path: "DrBenchmark/DEFT2021"
-  #   subset:
-  #   source_split: ["train", "validation", "test"]
-  #   commercial_use: True
-  #   comment: ""
-  # - source: FRENCHMEDMCQA
-  #   path: "qanastek/frenchmedmcqa"
-  #   subset:
-  #   source_split: ["train", "validation", "test"]
-  #   commercial_use: True
-  #   comment: ""
+  - source: DEFT2021
+    path: "DrBenchmark/DEFT2021"
+    subset:
+    source_split: ["train", "validation", "test"]
+    commercial_use: True
+    comment: ""
+  - source: FRENCHMEDMCQA
+    path: "qanastek/frenchmedmcqa"
+    subset:
+    source_split: ["train", "validation", "test"]
+    commercial_use: True
+    comment: ""
   # From NACHOS
   - source: HAL
     path: "datasets/NACHOS/HAL"
