@@ -3,6 +3,7 @@ from typing import Union
 from pathlib import Path
 from datasets import Dataset
 from argparse import ArgumentParser
+from preprocessing.text_cleaning import cleaner
 
 
 def str2bool(v):
@@ -103,3 +104,7 @@ def get_nb_words(dataset: Dataset) -> int:
         raise ValueError("Dataset does not contain a 'text' column.")
 
     return sum(len(text.split()) for text in dataset['text'])
+
+def clean_example(example, lower, rm_new_lines):
+    example["text"] = cleaner(example["text"], do_lower=lower, rm_new_lines=rm_new_lines)
+    return example
