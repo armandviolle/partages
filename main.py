@@ -89,7 +89,5 @@ def main():
     # déduplication simple
     # merged = deduplicate(merged, key_column="text") # TODO : deduplicate AF
 
-    # TODO : pretaitement ++
-
 if __name__ == "__main__":
     main()
