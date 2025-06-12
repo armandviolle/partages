@@ -1,0 +1,32 @@
+T1	disease 526 578	arythmie complète due à une fibrillation auriculaire
+T2	disease 554 578	fibrillation auriculaire
+T3	disease 797 826	masse kystique multiloculaire
+T4	disease 912 925	tumeur rénale
+T5	disease 1177 1191	masse tumorale
+T6	disease 2574 2580	tumeur
+T7	disease 2804 2810	tumeur
+T8	disease 3226 3251	prolifération néoplasique
+T9	disease 3586 3602	myxofibrosarcome
+T10	disease 3607 3650	variante myxoïde du fibrohistiocytome malin
+T11	disease 3688 3694	tumeur
+T12	disease 3776 3791	myxoliposarcome
+T13	disease 3801 3816	tumeur adipeuse
+T14	disease 3973 4050	myxoliposarcome périlésionnel avec indifférenciation vers un myxofibrosarcome
+T15	disease 4034 4050	myxofibrosarcome
+T16	disease 4055 4098	variante myxoïde du fibrohistiocytome malin
+#1	SNOMED T1	49436004+698247007
+#2	SNOMED T2	49436004
+#3	SNOMED T3	86463003
+#4	SNOMED T4	126880001
+#5	SNOMED T6	55342001
+#6	SNOMED T11	55342001
+#7	SNOMED T13	254831005
+#8	SNOMED T14	27849002
+#9	SNOMED T10	254749001
+#10	SNOMED T16	254749001
+#11	SNOMED T5	55342001
+#12	SNOMED T9	723076008
+#13	SNOMED T15	723076008
+#14	SNOMED T8	1495041000004108
+#15	SNOMED T7	55342001
+#16	SNOMED T12	27849002

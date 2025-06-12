@@ -1,0 +1,18 @@
+T1	morphology-onco 306 312	cancer
+T2	morphology-onco 2072 2081	néoplasie
+T3	morphology-onco 2302 2341	carcinome pulmonaire à petites cellules
+T4	morphology-onco 2506 2508	Mx
+T5	morphology-onco 2559 2577	maladie à distance
+T6	morphology-onco 3922 3928	tumeur
+#1	ICD-O-3.1 T3	8041/3
+#2	ICD-O-3.1 T1	8000/3
+#3	ICD-O-3.1 T5	8000/6
+#4	ICD-O-3.1 T2	8000/1
+#5	ICD-O-3.1 T6	8000/1
+#6	ICD-O-3.1 T4	8000/6
+#7	SNOMED T3	11010461000119101
+#8	SNOMED T1	1240414004
+#9	SNOMED T5	14799000
+#10	SNOMED T2	86251006
+#11	SNOMED T6	86251006
+#12	SNOMED T4	14799000

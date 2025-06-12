@@ -1,0 +1,16 @@
+T1	disease 34 53	maladie d'Alzheimer
+T2	disease 73 101	diabétique insulinodépendant
+T3	disease 330 356	lésion ulcéreuse cornéenne
+T4	disease 387 421	pore endothélial central perforant
+T5	disease 443 480	processus infectieux ou inflammatoire
+T6	disease 572 617	perforation cornéenne stérile non traumatique
+T7	disease 822 832	ulcération
+T8	disease 1389 1415	pore endothélial perforant
+#1	SNOMED T6	74895004
+#2	SNOMED T2	46635009
+#3	SNOMED T3	91514001
+#4	SNOMED T4	231794000
+#5	SNOMED T7	429040005
+#6	SNOMED T8	231794000
+#7	SNOMED T5	257552002
+#8	SNOMED T1	26929004

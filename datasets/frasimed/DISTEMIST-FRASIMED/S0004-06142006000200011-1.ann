@@ -1,0 +1,8 @@
+T1	disease 68 102	fume régulièrement de la marijuana
+T2	disease 1293 1299	lésion
+T3	disease 2067 2073	lésion
+T4	disease 2354 2402	tumeur fibreuse solitaire de la tunique vaginale
+#1	SNOMED T1	428823006
+#2	SNOMED T4	128736003
+#3	SNOMED T2	417163006
+#4	SNOMED T3	417163006

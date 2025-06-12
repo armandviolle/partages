@@ -1,0 +1,26 @@
+T1	disease 287 307	éruption généralisée
+T2	disease 420 429	allergies
+T3	disease 444 455	traumatisme
+T4	disease 526 535	varicelle
+T5	disease 930 941	traumatisme
+T6	disease 1081 1100	ataxie cérébelleuse
+T7	disease 1726 1735	Varicella
+T8	disease 2421 2431	opsoclonie
+T9	disease 2470 2476	tumeur
+T10	disease 2752 2755	NCT
+T11	disease 2798 2818	ganglioneuroblastome
+T12	disease 2988 2998	opsoclonie
+T13	disease 3408 3425	récidive tumorale
+#1	SNOMED T12	194177006
+#2	SNOMED T1	271807003
+#3	SNOMED T13	25173007
+#4	SNOMED T4	38907003
+#5	SNOMED T8	194177006
+#6	SNOMED T11	116381000119105
+#7	SNOMED T2	106190000
+#8	SNOMED T9	55342001
+#9	SNOMED T7	38907003
+#10	SNOMED T3	417746004
+#11	SNOMED T5	417746004
+#12	SNOMED T6	85102008
+#13	SNOMED T10	115241005

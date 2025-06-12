@@ -1,0 +1,54 @@
+T1	morphology-onco 531 568	adénocarcinome modérément différencié
+T2	morphology-onco 626 628	M0
+T3	morphology-onco 746 784	progression locorégionale et hépatique
+T4	morphology-onco 1740 1754	adénocarcinome
+T5	morphology-onco 2000 2009	néoplasme
+T6	morphology-onco 2033 2064	adénocarcinome bien différencié
+T7	morphology-onco 2114 2116	M0
+T8	morphology-onco 3842 3850	tumorale
+T9	morphology-onco 4013 4022	métastase
+T10	morphology-onco 4149 4159	hémangiome
+T11	morphology-onco 4392 4409	cellules malignes
+T12	morphology-onco 4453 4480	cellules tumorales malignes
+T13	morphology-onco 4494 4508	adénocarcinome
+T14	morphology-onco 4737 4743	tumeur
+T15	morphology-onco 5375 5424	adénopathies hypermétaboliques supraclaviculaires
+T16	morphology-onco 5992 6003	néoplasique
+T17	morphology-onco 6433 6508	adénocarcinome pulmonaire, avec la présence de cellules en anneau de signet
+T18	morphology-onco 7552 7566	adénocarcinome
+#1	ICD-O-3.1 T2	8000/6
+#2	ICD-O-3.1 T7	8000/6
+#3	ICD-O-3.1 T4	8140/3
+#4	ICD-O-3.1 T13	8140/3
+#5	ICD-O-3.1 T18	8140/3
+#6	ICD-O-3.1 T1	8140/32
+#7	ICD-O-3.1 T11	8001/3
+#8	ICD-O-3.1 T12	8001/3
+#9	ICD-O-3.1 T10	9120/0
+#10	ICD-O-3.1 T9	8000/6
+#11	ICD-O-3.1 T5	8000/1
+#12	ICD-O-3.1 T16	8000/1
+#13	ICD-O-3.1 T8	8000/1
+#14	ICD-O-3.1 T14	8000/1
+#15	ICD-O-3.1 T3	8000/6
+#16	ICD-O-3.1 T6	8140/32
+#17	ICD-O-3.1 T15	8000/6
+#18	ICD-O-3.1 T17	8490/3
+#19	SNOMED T2	14799000
+#20	SNOMED T7	14799000
+#21	SNOMED T4	1187332001
+#22	SNOMED T13	1187332001
+#23	SNOMED T18	1187332001
+#24	SNOMED T1	1187332001
+#25	SNOMED T11	88400008
+#26	SNOMED T12	88400008
+#27	SNOMED T10	253053003
+#28	SNOMED T9	14799000
+#29	SNOMED T5	86251006
+#30	SNOMED T16	86251006
+#31	SNOMED T8	86251006
+#32	SNOMED T14	86251006
+#33	SNOMED T3	14799000
+#34	SNOMED T6	1187332001
+#35	SNOMED T15	14799000
+#36	SNOMED T17	87737001

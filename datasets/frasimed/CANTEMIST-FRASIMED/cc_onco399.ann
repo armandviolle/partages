@@ -1,0 +1,48 @@
+T1	morphology-onco 504 510	cancer
+T2	morphology-onco 708 717	néoplasme
+T3	morphology-onco 778 781	M1b
+T4	morphology-onco 783 792	métastase
+T5	morphology-onco 837 851	adénocarcinome
+T6	morphology-onco 1405 1414	métastase
+T7	morphology-onco 1486 1503	oligométastatique
+T8	morphology-onco 1902 1921	masse surrénalienne
+T9	morphology-onco 2553 2583	nodules pulmonaires bilatéraux
+T10	morphology-onco 2641 2653	métastatique
+T11	morphology-onco 3582 3591	Métastase
+T12	morphology-onco 3817 3830	métastatiques
+T13	morphology-onco 5061 5074	métastatiques
+T14	morphology-onco 5095 5114	masse surrénalienne
+T15	morphology-onco 5220 5228	tumorale
+T16	morphology-onco 5372 5380	tumorale
+#1	ICD-O-3.1 T3	8000/6
+#2	ICD-O-3.1 T11	8000/6
+#3	ICD-O-3.1 T5	8140/3
+#4	ICD-O-3.1 T1	8000/3
+#5	ICD-O-3.1 T8	8000/6
+#6	ICD-O-3.1 T14	8000/6
+#7	ICD-O-3.1 T12	8000/6
+#8	ICD-O-3.1 T10	8000/6
+#9	ICD-O-3.1 T13	8000/6
+#10	ICD-O-3.1 T4	8000/6
+#11	ICD-O-3.1 T6	8000/6
+#12	ICD-O-3.1 T2	8000/1
+#13	ICD-O-3.1 T9	8000/6
+#14	ICD-O-3.1 T7	8000/6
+#15	ICD-O-3.1 T15	8000/1
+#16	ICD-O-3.1 T16	8000/1
+#17	SNOMED T3	14799000
+#18	SNOMED T11	14799000
+#19	SNOMED T5	1187332001
+#20	SNOMED T1	1240414004
+#21	SNOMED T8	14799000
+#22	SNOMED T14	14799000
+#23	SNOMED T12	14799000
+#24	SNOMED T10	14799000
+#25	SNOMED T13	14799000
+#26	SNOMED T4	14799000
+#27	SNOMED T6	14799000
+#28	SNOMED T2	86251006
+#29	SNOMED T9	14799000
+#30	SNOMED T7	14799000
+#31	SNOMED T15	86251006
+#32	SNOMED T16	86251006

@@ -1,0 +1,48 @@
+T1	morphology-onco 237 246	néoplasie
+T2	morphology-onco 388 397	carcinome
+T3	morphology-onco 581 614	cancer du sein droit de grade III
+T4	morphology-onco 672 706	cancer du sein gauche de grade III
+T5	morphology-onco 1217 1236	atteinte à distance
+T6	morphology-onco 1250 1277	CDI du sein droit grade III
+T7	morphology-onco 1332 1360	CDI du sein gauche grade III
+T8	morphology-onco 1990 1996	cancer
+T9	morphology-onco 2021 2027	cancer
+T10	morphology-onco 2240 2246	tumeur
+T11	morphology-onco 2291 2305	léiomyosarcome
+T12	morphology-onco 2691 2741	cystadénocarcinome papillaire séreux de haut grade
+T13	morphology-onco 2912 2921	carcinome
+T14	morphology-onco 2947 2978	adénocarcinome pulmonaire mixte
+T15	morphology-onco 3223 3230	tumeurs
+T16	morphology-onco 3686 3692	tumeur
+#1	ICD-O-3.1 T2	8010/3
+#2	ICD-O-3.1 T13	8010/3
+#3	ICD-O-3.1 T8	8000/3
+#4	ICD-O-3.1 T9	8000/3
+#5	ICD-O-3.1 T11	8890/3
+#6	ICD-O-3.1 T1	8000/1
+#7	ICD-O-3.1 T10	8000/1
+#8	ICD-O-3.1 T16	8000/1
+#9	ICD-O-3.1 T15	8000/1
+#10	ICD-O-3.1 T3	8500/33
+#11	ICD-O-3.1 T4	8500/33
+#12	ICD-O-3.1 T5	8000/6
+#13	ICD-O-3.1 T6	8500/33
+#14	ICD-O-3.1 T7	8500/33
+#15	ICD-O-3.1 T12	8460/34
+#16	ICD-O-3.1 T14	8323/3
+#17	SNOMED T2	1187425009
+#18	SNOMED T13	1187425009
+#19	SNOMED T8	1240414004
+#20	SNOMED T9	1240414004
+#21	SNOMED T11	1163022006
+#22	SNOMED T1	86251006
+#23	SNOMED T10	86251006
+#24	SNOMED T16	86251006
+#25	SNOMED T15	86251006
+#26	SNOMED T3	58477004
+#27	SNOMED T4	58477004
+#28	SNOMED T5	14799000
+#29	SNOMED T6	58477004
+#30	SNOMED T7	58477004
+#31	SNOMED T12	703561001
+#32	SNOMED T14	38958001

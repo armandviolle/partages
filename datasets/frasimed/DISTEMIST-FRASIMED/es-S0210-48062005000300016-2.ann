@@ -1,0 +1,46 @@
+T1	disease 261 284	hématurie macroscopique
+T2	disease 359 371	Hypertension
+T3	disease 448 478	attaque ischémique transitoire
+T4	disease 548 566	arythmie cardiaque
+T5	disease 586 596	valvulaire
+T6	disease 610 634	épisode thromboembolique
+T7	disease 674 691	lithiase urinaire
+T8	disease 749 764	abus de cocaïne
+T9	disease 786 801	hépatite B ou C
+T10	disease 1398 1428	dilatation des voies urinaires
+T11	disease 1691 1717	ischémie myocardique aiguë
+T12	disease 1923 1931	ischémie
+T13	disease 2029 2048	dilatation aortique
+T14	disease 2054 2082	anévrisme de l'artère rénale
+T15	disease 2406 2425	épisodes emboliques
+T16	disease 2602 2647	pathologie de l'appareil valvulaire cardiaque
+T17	disease 2666 2689	végétations valvulaires
+T18	disease 2711 2733	dyskinésie myocardique
+T19	disease 2953 3037	macro/microanévrismes ou des altérations de l'artère rénale principale ou de l'aorte
+T20	disease 3085 3122	maladie prothrombotique et vasculaire
+T21	disease 3417 3424	embolie
+T22	disease 3445 3463	maladie systémique
+T23	disease 3529 3541	hypertension
+#1	SNOMED T10	128606002
+#2	SNOMED T16	368009
+#3	SNOMED T1	197941005
+#4	SNOMED T11	413444003
+#5	SNOMED T3	266257000
+#6	SNOMED T4	698247007
+#7	SNOMED T5	368009
+#8	SNOMED T6	371039008
+#9	SNOMED T7	95566004
+#10	SNOMED T13	26660001
+#11	SNOMED T14	36184004
+#12	SNOMED T8	78267003
+#13	SNOMED T9	442374005
+#14	SNOMED T15	414086009
+#15	SNOMED T2	38341003
+#16	SNOMED T21	414086009
+#17	SNOMED T22	56019007
+#18	SNOMED T23	38341003
+#19	SNOMED T17	459055004
+#20	SNOMED T12	52674009
+#21	SNOMED T18	25437005
+#22	SNOMED T19	67362008+36184004
+#23	SNOMED T20	76612001

@@ -1,0 +1,87 @@
+T1	morphology-onco 198 205	tumeurs
+T2	morphology-onco 388 404	hémangioblastome
+T3	morphology-onco 449 465	hémangioblastome
+T4	morphology-onco 601 618	hémangioblastomes
+T5	morphology-onco 701 718	hémangioblastomes
+T6	morphology-onco 857 906	carcinome rénal multicentrique à cellules claires
+T7	morphology-onco 946 953	adénome
+T8	morphology-onco 1291 1300	malignité
+T9	morphology-onco 1505 1526	tumeur neuroendocrine
+T10	morphology-onco 1541 1545	PNET
+T11	morphology-onco 1672 1678	tumeur
+T12	morphology-onco 1777 1792	angiomyolipomes
+T13	morphology-onco 1829 1835	cancer
+T14	morphology-onco 2033 2039	tumeur
+T15	morphology-onco 2259 2276	hémangioblastomes
+T16	morphology-onco 2404 2410	tumeur
+T17	morphology-onco 2467 2519	Tumeur neuroendocrine pancréatique bien différenciée
+T18	morphology-onco 2688 2703	angiomyolipomes
+T19	morphology-onco 2729 2735	cancer
+T20	morphology-onco 2874 2878	PNET
+T21	morphology-onco 2886 2901	adénocarcinomes
+T22	morphology-onco 3009 3013	PNET
+T23	morphology-onco 3022 3036	adénocarcinome
+T24	morphology-onco 3432 3438	tumeur
+T25	morphology-onco 3619 3625	tumeur
+T26	morphology-onco 3865 3869	PNET
+T27	morphology-onco 3877 3884	tumeurs
+T28	morphology-onco 4511 4517	tumeur
+T29	morphology-onco 4570 4580	métastases
+#1	ICD-O-3.1 T10	8240/3
+#2	ICD-O-3.1 T20	8240/3
+#3	ICD-O-3.1 T22	8240/3
+#4	ICD-O-3.1 T26	8240/3
+#5	ICD-O-3.1 T21	8140/3
+#6	ICD-O-3.1 T23	8140/3
+#7	ICD-O-3.1 T7	8140/0
+#8	ICD-O-3.1 T13	8000/3
+#9	ICD-O-3.1 T19	8000/3
+#10	ICD-O-3.1 T2	9161/1
+#11	ICD-O-3.1 T4	9161/1
+#12	ICD-O-3.1 T3	9161/1
+#13	ICD-O-3.1 T5	9161/1
+#14	ICD-O-3.1 T15	9161/1
+#15	ICD-O-3.1 T8	8000/3
+#16	ICD-O-3.1 T29	8000/6
+#17	ICD-O-3.1 T11	8000/1
+#18	ICD-O-3.1 T14	8000/1
+#19	ICD-O-3.1 T24	8000/1
+#20	ICD-O-3.1 T9	8240/3
+#21	ICD-O-3.1 T16	8000/1
+#22	ICD-O-3.1 T25	8000/1
+#23	ICD-O-3.1 T28	8000/1
+#24	ICD-O-3.1 T1	8000/1
+#25	ICD-O-3.1 T27	8000/1
+#26	ICD-O-3.1 T6	8310/3/H
+#27	ICD-O-3.1 T12	8860/0
+#28	ICD-O-3.1 T17	8240/3
+#29	ICD-O-3.1 T18	8860/0
+#30	SNOMED T10	189607006
+#31	SNOMED T20	189607006
+#32	SNOMED T22	189607006
+#33	SNOMED T26	189607006
+#34	SNOMED T21	1187332001
+#35	SNOMED T23	1187332001
+#36	SNOMED T7	1187379001
+#37	SNOMED T13	1240414004
+#38	SNOMED T19	1240414004
+#39	SNOMED T2	1156474009
+#40	SNOMED T4	1156474009
+#41	SNOMED T3	1156474009
+#42	SNOMED T5	1156474009
+#43	SNOMED T15	1156474009
+#44	SNOMED T8	1240414004
+#45	SNOMED T29	14799000
+#46	SNOMED T11	86251006
+#47	SNOMED T14	86251006
+#48	SNOMED T24	86251006
+#49	SNOMED T9	189607006
+#50	SNOMED T16	86251006
+#51	SNOMED T25	86251006
+#52	SNOMED T28	86251006
+#53	SNOMED T1	86251006
+#54	SNOMED T27	86251006
+#55	SNOMED T6	30546008
+#56	SNOMED T12	19929002
+#57	SNOMED T17	189607006
+#58	SNOMED T18	19929002

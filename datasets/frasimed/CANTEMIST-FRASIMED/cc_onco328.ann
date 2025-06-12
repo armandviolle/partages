@@ -1,0 +1,9 @@
+T1	morphology-onco 289 294	myome
+T2	morphology-onco 452 466	adénocarcinome
+T3	morphology-onco 583 598	pT3N2b(+9/23)M0
+#1	ICD-O-3.1 T2	8140/3
+#2	ICD-O-3.1 T1	8895/0
+#3	ICD-O-3.1 T3	8000/6
+#4	SNOMED T2	1187332001
+#5	SNOMED T1	1156875002
+#6	SNOMED T3	14799000

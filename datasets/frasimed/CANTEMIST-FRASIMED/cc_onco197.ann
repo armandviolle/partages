@@ -1,0 +1,12 @@
+T1	morphology-onco 640 654	adénocarcinome
+T2	morphology-onco 704 711	T1N2M1a
+T3	morphology-onco 741 758	atteinte pleurale
+T4	morphology-onco 4335 4343	tumorale
+#1	ICD-O-3.1 T1	8140/3
+#2	ICD-O-3.1 T3	8000/6
+#3	ICD-O-3.1 T4	8000/1
+#4	ICD-O-3.1 T2	8000/6
+#5	SNOMED T1	1187332001
+#6	SNOMED T3	14799000
+#7	SNOMED T4	86251006
+#8	SNOMED T2	14799000

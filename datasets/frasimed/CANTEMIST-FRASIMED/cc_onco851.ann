@@ -1,0 +1,15 @@
+T1	morphology-onco 1312 1329	cellules malignes
+T2	morphology-onco 1692 1748	adénopathies hilaires, médiastinales, supraclaviculaires
+T3	morphology-onco 3391 3448	infiltration par un adénocarcinome modérément différencié
+T4	morphology-onco 3513 3520	TxN3M1a
+T5	morphology-onco 3588 3602	Adénocarcinome
+#1	ICD-O-3.1 T5	8140/3
+#2	ICD-O-3.1 T3	8140/62
+#3	ICD-O-3.1 T1	8001/3
+#4	ICD-O-3.1 T2	8000/6
+#5	ICD-O-3.1 T4	8000/6
+#6	SNOMED T5	1187332001
+#7	SNOMED T3	4590003
+#8	SNOMED T1	88400008
+#9	SNOMED T2	14799000
+#10	SNOMED T4	14799000

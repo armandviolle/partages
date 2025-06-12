@@ -1,0 +1,28 @@
+T1	disease 59 92	infections respiratoires répétées
+T2	disease 125 133	allergie
+T3	disease 137 153	habitude toxique
+T4	disease 166 177	hypertendue
+T5	disease 222 235	hypothyroïdie
+T6	disease 395 419	infections respiratoires
+T7	disease 1111 1124	cyphoscoliose
+T8	disease 1178 1227	emphysème et de bronchectasie dans les deux bases
+T9	disease 1194 1227	bronchectasie dans les deux bases
+T10	disease 1304 1318	déficit en AAT
+T11	disease 1489 1495	asthme
+T12	disease 1499 1504	D-AAT
+T13	disease 1525 1531	asthme
+T14	disease 1634 1639	D-AAT
+#1	SNOMED T1	275498002
+#2	SNOMED T4	38341003
+#3	SNOMED T5	40930008
+#4	SNOMED T6	275498002
+#5	SNOMED T7	405773007
+#6	SNOMED T8	12295008+49158009
+#7	SNOMED T9	12295008
+#8	SNOMED T10	30188007
+#9	SNOMED T11	195967001
+#10	SNOMED T12	30188007
+#11	SNOMED T13	195967001
+#12	SNOMED T14	30188007
+#13	SNOMED T3	228272008
+#14	SNOMED T2	106190000

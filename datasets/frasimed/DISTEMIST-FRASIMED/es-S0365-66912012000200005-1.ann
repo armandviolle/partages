@@ -1,0 +1,24 @@
+T1	disease 130 161	hypofonctionnement hypophysaire
+T2	disease 839 878	dilatation du ventricule latéral gauche
+T3	disease 1053 1063	granulomes
+T4	disease 1204 1357	ganglions lymphatiques ont été observés au niveau cervical, supraclaviculaire bilatéral, axillaire bilatéral et également au niveau thoracique et pelvien
+T5	disease 1363 1393	adénopathie axillaire profonde
+T6	disease 1445 1455	sarcoïdose
+T7	disease 1503 1638	sarcoïdose systémique avec atteinte du système nerveux central, atteinte du chiasma, du nerf optique, de l'axe hypothalamo-hypophysaire
+T8	disease 1644 1663	panhypopituitarisme
+T9	disease 1665 1678	hypogonadisme
+T10	disease 1680 1694	hypocorticisme
+T11	disease 2164 2187	atrophie péripapillaire
+T12	disease 2222 2255	atrophie péripapillaire temporale
+#1	SNOMED T7	111936002
+#2	SNOMED T4	127086001+127088000+127189005+127097001+127158006
+#3	SNOMED T8	32390006
+#4	SNOMED T9	48130008
+#5	SNOMED T10	237785004
+#6	SNOMED T5	127189005
+#7	SNOMED T3	128561003
+#8	SNOMED T6	31541009
+#9	SNOMED T11	420535003
+#10	SNOMED T12	420535003
+#11	SNOMED T1	74728003
+#12	SNOMED T2	253541009

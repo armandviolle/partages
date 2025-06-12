@@ -1,0 +1,6 @@
+T1	disease 122 193	atteinte herpétique de la branche ophtalmique du cinquième nerf crânien
+T2	disease 341 381	épisodes répétés de kératite et d'uvéite
+T3	disease 937 1026	névralgie herpétique post-kératosique de la branche ophtalmique du cinquième nerf crânien
+#1	SNOMED T2	5888003+128473001
+#2	SNOMED T1	87513003
+#3	SNOMED T3	371409005

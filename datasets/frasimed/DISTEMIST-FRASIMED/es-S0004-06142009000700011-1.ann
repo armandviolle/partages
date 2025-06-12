@@ -1,0 +1,22 @@
+T1	disease 68 97	adénocarcinome de la prostate
+T2	disease 709 744	masse kystique au niveau du scrotum
+T3	disease 836 866	kyste dépendant de l'épididyme
+T4	disease 909 920	cystadénome
+T5	disease 1294 1347	cavité kystique comprimant le parenchyme testiculaire
+T6	disease 1439 1444	kyste
+T7	disease 1460 1495	teste, a révélé une lésion kystique
+T8	disease 1544 1554	ulcération
+T9	disease 1597 1674	parenchyme testiculaire présentait des signes intenses d'atrophie, de fibrose
+T10	disease 1832 1856	kyste testiculaire bénin
+T11	disease 1877 1911	dilatation kystique du rete testis
+#1	SNOMED T10	767754009
+#2	SNOMED T1	399490008
+#3	SNOMED T11	109862002
+#4	SNOMED T5	767754009
+#5	SNOMED T6	441457006
+#6	SNOMED T9	60524008
+#7	SNOMED T3	43077002
+#8	SNOMED T4	20376005
+#9	SNOMED T8	429040005
+#10	SNOMED T7	767754009
+#11	SNOMED T2	49701002

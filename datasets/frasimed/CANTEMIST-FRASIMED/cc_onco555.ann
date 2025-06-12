@@ -1,0 +1,73 @@
+T1	morphology-onco 102 105	IDC
+T2	morphology-onco 503 506	CDI
+T3	morphology-onco 737 743	tumeur
+T4	morphology-onco 771 774	CDI
+T5	morphology-onco 780 790	métastases
+T6	morphology-onco 873 889	schéma lobulaire
+T7	morphology-onco 873 896	schéma lobulaire diffus
+T8	morphology-onco 1500 1509	malignité
+T9	morphology-onco 3069 3116	néoplasme gastrique avec une maladie à distance
+T10	morphology-onco 3236 3246	métastases
+T11	morphology-onco 3592 3621	adénomégalie sus-claviculaire
+T12	morphology-onco 3703 3712	métastase
+T13	morphology-onco 3799 3820	adénocarcinome diffus
+T14	morphology-onco 3845 3851	tumeur
+T15	morphology-onco 3918 3930	métastatique
+T16	morphology-onco 4385 4409	maladie au niveau des os
+T17	morphology-onco 4771 4781	métastases
+T18	morphology-onco 4848 4860	métastatique
+T19	morphology-onco 5013 5029	lésion gastrique
+T20	morphology-onco 5068 5071	MCC
+T21	morphology-onco 5201 5241	carcinome à cellules en anneau de signet
+T22	morphology-onco 5277 5311	métastase d'un carcinome lobulaire
+T23	morphology-onco 5380 5434	moelle osseuse fourni (qui semble massivement infiltré
+T24	morphology-onco 5585 5591	tumeur
+T25	morphology-onco 5756 5772	ILC métastatique
+#1	ICD-O-3.1 T1	8500/3
+#2	ICD-O-3.1 T2	8500/3
+#3	ICD-O-3.1 T4	8500/3
+#4	ICD-O-3.1 T20	8000/3
+#5	ICD-O-3.1 T16	8000/6
+#6	ICD-O-3.1 T8	8000/3
+#7	ICD-O-3.1 T15	8000/6
+#8	ICD-O-3.1 T18	8000/6
+#9	ICD-O-3.1 T5	8000/6
+#10	ICD-O-3.1 T10	8000/6
+#11	ICD-O-3.1 T12	8000/6
+#12	ICD-O-3.1 T17	8000/6
+#13	ICD-O-3.1 T22	8520/6
+#14	ICD-O-3.1 T3	8000/1
+#15	ICD-O-3.1 T14	8000/1
+#16	ICD-O-3.1 T24	8000/1
+#17	ICD-O-3.1 T6	8520/3
+#18	ICD-O-3.1 T9	8000/6
+#19	ICD-O-3.1 T11	8000/6
+#20	ICD-O-3.1 T13	8145/3
+#21	ICD-O-3.1 T7	8145/3
+#22	ICD-O-3.1 T21	8490/3
+#23	ICD-O-3.1 T23	8000/6
+#24	ICD-O-3.1 T25	8520/6
+#25	ICD-O-3.1 T19	8000/6
+#26	SNOMED T1	58477004
+#27	SNOMED T2	58477004
+#28	SNOMED T4	58477004
+#29	SNOMED T20	1240414004
+#30	SNOMED T16	14799000
+#31	SNOMED T8	1240414004
+#32	SNOMED T15	14799000
+#33	SNOMED T18	14799000
+#34	SNOMED T5	14799000
+#35	SNOMED T10	14799000
+#36	SNOMED T12	14799000
+#37	SNOMED T17	14799000
+#38	SNOMED T3	86251006
+#39	SNOMED T14	86251006
+#40	SNOMED T24	86251006
+#41	SNOMED T6	278054005
+#42	SNOMED T9	14799000
+#43	SNOMED T11	14799000
+#44	SNOMED T13	24505004
+#45	SNOMED T7	24505004
+#46	SNOMED T21	87737001
+#47	SNOMED T23	14799000
+#48	SNOMED T19	14799000

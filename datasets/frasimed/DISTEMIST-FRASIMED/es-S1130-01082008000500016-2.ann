@@ -1,0 +1,22 @@
+T1	disease 17 29	fumeur actif
+T2	disease 84 101	maladie ulcéreuse
+T3	disease 107 140	hépatopathie chronique due au VHC
+T4	disease 187 229	hémorragie digestive sous forme de melaena
+T5	disease 552 565	hépatomégalie
+T6	disease 682 688	anémie
+T7	disease 874 877	CHC
+T8	disease 1226 1248	lésion du col du fémur
+T9	disease 1277 1293	métastase du CHC
+T10	disease 1324 1339	tumeur primaire
+T11	disease 1549 1589	fracture subtrochantérienne pathologique
+#1	SNOMED T1	77176002
+#2	SNOMED T2	429040005
+#3	SNOMED T3	128302006
+#4	SNOMED T4	414663001
+#5	SNOMED T5	80515008
+#6	SNOMED T6	271737000
+#7	SNOMED T7	109841003
+#8	SNOMED T9	315000005
+#9	SNOMED T10	372087000
+#10	SNOMED T11	409667007
+#11	SNOMED T8	94300004

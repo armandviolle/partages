@@ -1,0 +1,52 @@
+T1	morphology-onco 227 236	néoplasie
+T2	morphology-onco 283 293	métastases
+T3	morphology-onco 518 552	carcinome rénal à cellules claires
+T4	morphology-onco 553 561	pT3aNxMx
+T5	morphology-onco 593 601	tumorale
+T6	morphology-onco 653 659	tumeur
+T7	morphology-onco 881 890	métastase
+T8	morphology-onco 3029 3042	œdème frontal
+T9	morphology-onco 3236 3255	nodules pulmonaires
+T10	morphology-onco 3496 3506	métastases
+T11	morphology-onco 4220 4229	métastase
+T12	morphology-onco 4532 4574	carcinome à cellules claires de haut grade
+T13	morphology-onco 4596 4661	métastase d'un carcinome rénal conventionnel (à cellules claires)
+T14	morphology-onco 4675 4696	cellules néoplasiques
+T15	morphology-onco 4897 4952	Carcinome rénal gauche à cellules claires, stade IV (M1
+T16	morphology-onco 4975 4997	progression pulmonaire
+T17	morphology-onco 5736 5742	tumeur
+T18	morphology-onco 5873 5895	métastase de carcinome
+#1	ICD-O-3.1 T3	8310/3
+#2	ICD-O-3.1 T14	8001/1
+#3	ICD-O-3.1 T8	8000/6
+#4	ICD-O-3.1 T2	8000/6
+#5	ICD-O-3.1 T7	8000/6
+#6	ICD-O-3.1 T10	8000/6
+#7	ICD-O-3.1 T11	8000/6
+#8	ICD-O-3.1 T18	8010/6
+#9	ICD-O-3.1 T1	8000/1
+#10	ICD-O-3.1 T16	8000/6
+#11	ICD-O-3.1 T5	8000/1
+#12	ICD-O-3.1 T6	8000/1
+#13	ICD-O-3.1 T17	8000/1
+#14	ICD-O-3.1 T4	8000/6
+#15	ICD-O-3.1 T9	8000/6
+#16	ICD-O-3.1 T12	8310/34
+#17	ICD-O-3.1 T13	8310/6
+#18	ICD-O-3.1 T15	8310/6
+#19	SNOMED T3	30546008
+#20	SNOMED T14	39577004
+#21	SNOMED T8	14799000
+#22	SNOMED T2	14799000
+#23	SNOMED T7	14799000
+#24	SNOMED T10	14799000
+#25	SNOMED T11	14799000
+#26	SNOMED T18	79282002
+#27	SNOMED T1	86251006
+#28	SNOMED T16	14799000
+#29	SNOMED T5	86251006
+#30	SNOMED T6	86251006
+#31	SNOMED T17	86251006
+#32	SNOMED T4	14799000
+#33	SNOMED T9	14799000
+#34	SNOMED T12	30546008

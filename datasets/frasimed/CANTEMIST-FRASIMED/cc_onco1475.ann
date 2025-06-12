@@ -1,0 +1,18 @@
+T1	morphology-onco 2505 2562	signes prolifératifs folliculaires de cellules de Hürthle
+T2	morphology-onco 2708 2750	lymphome de la zone marginale de type MALT
+T3	morphology-onco 2708 2801	lymphome de la zone marginale de type MALT avec une différenciation plasmocytaire proéminente
+T4	morphology-onco 2746 2750	MALT
+T5	morphology-onco 2840 2882	Lymphome de la zone marginale de type MALT
+T6	morphology-onco 2878 2882	MALT
+#1	ICD-O-3.1 T4	9699/3
+#2	ICD-O-3.1 T6	9699/3
+#3	ICD-O-3.1 T1	8290/0
+#4	ICD-O-3.1 T3	9671/3
+#5	ICD-O-3.1 T5	9699/3
+#6	ICD-O-3.1 T2	9699/3
+#7	SNOMED T4	447100004
+#8	SNOMED T6	447100004
+#9	SNOMED T1	89439007
+#10	SNOMED T3	307623001
+#11	SNOMED T5	447100004
+#12	SNOMED T2	447100004

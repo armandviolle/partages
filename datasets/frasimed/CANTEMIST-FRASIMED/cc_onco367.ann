@@ -1,0 +1,36 @@
+T1	morphology-onco 1342 1350	mélanome
+T2	morphology-onco 1459 1495	mélanome à propagation superficielle
+T3	morphology-onco 1755 1764	néoplasie
+T4	morphology-onco 1873 1875	M0
+T5	morphology-onco 2781 2787	tumeur
+T6	morphology-onco 2799 2825	mélanome superficiel étalé
+T7	morphology-onco 2990 3002	péritumorale
+T8	morphology-onco 3041 3049	tumorale
+T9	morphology-onco 3155 3176	métastase de mélanome
+T10	morphology-onco 3464 3483	atteinte à distance
+T11	morphology-onco 4193 4201	Mélanome
+T12	morphology-onco 4202 4217	pT3bpN1b(2/8)M0
+#1	ICD-O-3.1 T4	8000/6
+#2	ICD-O-3.1 T11	8720/3
+#3	ICD-O-3.1 T2	8743/3
+#4	ICD-O-3.1 T6	8743/3
+#5	ICD-O-3.1 T10	8000/6
+#6	ICD-O-3.1 T1	8720/3
+#7	ICD-O-3.1 T9	8720/6
+#8	ICD-O-3.1 T3	8000/1
+#9	ICD-O-3.1 T7	8000/1
+#10	ICD-O-3.1 T5	8000/1
+#11	ICD-O-3.1 T8	8000/1
+#12	ICD-O-3.1 T12	8000/6
+#13	SNOMED T4	14799000
+#14	SNOMED T11	1162635006
+#15	SNOMED T2	55320002
+#16	SNOMED T6	55320002
+#17	SNOMED T10	14799000
+#18	SNOMED T1	1162635006
+#19	SNOMED T9	372158004
+#20	SNOMED T3	86251006
+#21	SNOMED T7	86251006
+#22	SNOMED T5	86251006
+#23	SNOMED T8	86251006
+#24	SNOMED T12	14799000

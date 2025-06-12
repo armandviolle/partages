@@ -1,0 +1,14 @@
+T1	disease 79 105	problème complexe de valve
+T2	disease 308 350	symptômes septiques provenant du médiastin
+T3	disease 355 373	plaie chirurgicale
+T4	disease 801 828	polyneuropathie généralisée
+T5	disease 923 950	hernie d'un lobe pulmonaire
+T6	disease 1160 1177	hernie pulmonaire
+T7	disease 1523 1532	pneumonie
+#1	SNOMED T2	312157006
+#2	SNOMED T4	42345000
+#3	SNOMED T5	19829001
+#4	SNOMED T6	19829001
+#5	SNOMED T7	233604007
+#6	SNOMED T3	112633009
+#7	SNOMED T1	368009

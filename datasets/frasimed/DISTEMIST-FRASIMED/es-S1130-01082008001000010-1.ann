@@ -1,0 +1,21 @@
+T1	disease 218 229	tuberculose
+T2	disease 243 263	hypercholestérolémie
+T3	disease 297 312	léger tabagisme
+T4	disease 525 547	hypergammaglobulinémie
+T5	disease 845 854	parotidis
+T6	disease 997 1051	dilatation du canal biliaire intra- et extra-hépatique
+T7	disease 1090 1128	pancréas élargi avec une lésion focale
+T8	disease 1165 1216	légère dilatation postérieure du canal pancréatique
+T9	disease 1628 1651	pancréatite auto-immune
+T10	disease 1657 1681	fibrose rétropéritonéale
+T11	disease 1836 1885	lésion sténosante dans le canal cholédoque distal
+T12	disease 1899 1921	néoplasie pancréatique
+T13	disease 2194 2203	néoplasie
+T14	disease 2232 2255	pancréatite auto-immune
+T15	disease 2348 2386	dilatation du canal biliaire principal
+T16	disease 2362 2436	canal biliaire principal avec une sténose régulière dans sa partie distale
+T17	disease 2683 2686	PAI
+T18	disease 2902 2909	lésions
+T19	disease 3021 3045	fibrose rétropéritonéale
+T20	disease 3275 3298	pancréatite auto-immune
+T21	disease 3305 3329	fibrose rétropéritonéale

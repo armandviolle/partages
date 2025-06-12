@@ -1,0 +1,16 @@
+T1	disease 138 175	lésion au pôle supérieur du testicule
+T2	disease 384 393	néoplasme
+T3	disease 470 489	tumeur testiculaire
+T4	disease 989 995	lésion
+T5	disease 1371 1398	kyste dermoïde testiculaire
+T6	disease 1371 1462	kyste dermoïde testiculaire (tératome testiculaire mature), variante de pseudopilomatrixome
+T7	disease 1400 1428	tératome testiculaire mature
+T8	disease 1443 1462	pseudopilomatrixome
+#1	SNOMED T2	55342001
+#2	SNOMED T3	236778008
+#3	SNOMED T6	767754009
+#4	SNOMED T7	36591000119102
+#5	SNOMED T8	419952004
+#6	SNOMED T1	300492006
+#7	SNOMED T4	417163006
+#8	SNOMED T5	767754009

@@ -1,0 +1,57 @@
+T1	morphology-onco 319 333	adénocarcinome
+T2	morphology-onco 643 651	mélanome
+T3	morphology-onco 816 824	mélanome
+T4	morphology-onco 832 840	pT2aN0M0
+T5	morphology-onco 978 984	tumeur
+T6	morphology-onco 1056 1077	mélanome métastatique
+T7	morphology-onco 1095 1113	maladie à distance
+T8	morphology-onco 1337 1351	mélanome malin
+T9	morphology-onco 1846 1868	progression musculaire
+T10	morphology-onco 1911 1925	Mélanome malin
+T11	morphology-onco 3356 3376	implants musculaires
+T12	morphology-onco 3463 3482	nodules pulmonaires
+T13	morphology-onco 4132 4139	maligne
+T14	morphology-onco 4243 4252	métastase
+T15	morphology-onco 4537 4539	M1
+T16	morphology-onco 4549 4558	métastase
+T17	morphology-onco 7499 7518	nodules pulmonaires
+T18	morphology-onco 7602 7608	tumeur
+T19	morphology-onco 7718 7724	tumeur
+#1	ICD-O-3.1 T15	8000/6
+#2	ICD-O-3.1 T10	8720/3
+#3	ICD-O-3.1 T1	8140/3
+#4	ICD-O-3.1 T7	8000/6
+#5	ICD-O-3.1 T11	8000/6
+#6	ICD-O-3.1 T13	8000/3
+#7	ICD-O-3.1 T2	8720/3
+#8	ICD-O-3.1 T3	8720/3
+#9	ICD-O-3.1 T8	8720/3
+#10	ICD-O-3.1 T6	8720/6
+#11	ICD-O-3.1 T14	8000/6
+#12	ICD-O-3.1 T16	8000/6
+#13	ICD-O-3.1 T17	8000/6
+#14	ICD-O-3.1 T4	8000/6
+#15	ICD-O-3.1 T5	8000/1
+#16	ICD-O-3.1 T18	8000/1
+#17	ICD-O-3.1 T19	8000/1
+#18	ICD-O-3.1 T9	8000/6
+#19	ICD-O-3.1 T12	8000/6
+#20	SNOMED T15	14799000
+#21	SNOMED T10	1162635006
+#22	SNOMED T1	1187332001
+#23	SNOMED T7	14799000
+#24	SNOMED T11	14799000
+#25	SNOMED T13	1240414004
+#26	SNOMED T2	1162635006
+#27	SNOMED T3	1162635006
+#28	SNOMED T8	1162635006
+#29	SNOMED T6	372158004
+#30	SNOMED T14	14799000
+#31	SNOMED T16	14799000
+#32	SNOMED T17	14799000
+#33	SNOMED T4	14799000
+#34	SNOMED T5	86251006
+#35	SNOMED T18	86251006
+#36	SNOMED T19	86251006
+#37	SNOMED T9	14799000
+#38	SNOMED T12	14799000

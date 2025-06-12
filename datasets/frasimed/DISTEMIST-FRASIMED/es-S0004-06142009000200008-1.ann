@@ -1,0 +1,14 @@
+T1	disease 223 254	hyperfonctionnement surrénalien
+T2	disease 570 579	métastase
+T3	disease 922 942	infiltration du foie
+T4	disease 1186 1192	tumeur
+T5	disease 1263 1284	adénopathies hilaires
+T6	disease 1481 1598	tumeur a infiltré la capsule et la graisse périlésionnelle de tout le pôle supérieur du rein gauche ainsi que la rate
+T7	disease 1648 1680	carcinome de la glande surrénale
+#1	SNOMED T2	128462008
+#2	SNOMED T6	363518003+94603006
+#3	SNOMED T1	237744009
+#4	SNOMED T7	127021009
+#5	SNOMED T5	87500009
+#6	SNOMED T3	94381002
+#7	SNOMED T4	55342001

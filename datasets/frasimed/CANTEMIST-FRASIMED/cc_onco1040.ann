@@ -1,0 +1,51 @@
+T1	morphology-onco 90 96	tumeur
+T2	morphology-onco 165 177	métastatique
+T3	morphology-onco 1695 1724	lésion au niveau hypophysaire
+T4	morphology-onco 1817 1858	nodules dans la musculature extraoculaire
+T5	morphology-onco 1904 1933	lésion au niveau hypophysaire
+T6	morphology-onco 2055 2067	métastatique
+T7	morphology-onco 2307 2337	carcinome canalaire infiltrant
+T8	morphology-onco 2398 2428	Carcinome canalaire infiltrant
+T9	morphology-onco 2479 2489	métastases
+T10	morphology-onco 2618 2648	carcinome canalaire infiltrant
+T11	morphology-onco 2738 2740	M1
+T12	morphology-onco 2766 2783	oligométastatique
+T13	morphology-onco 3369 3399	carcinome canalaire infiltrant
+T14	morphology-onco 3886 3905	progression osseuse
+T15	morphology-onco 4551 4584	infiltration de la moelle osseuse
+T16	morphology-onco 4667 4697	carcinome canalaire infiltrant
+T17	morphology-onco 5206 5234	progression au niveau osseux
+#1	ICD-O-3.1 T8	8500/3
+#2	ICD-O-3.1 T11	8000/6
+#3	ICD-O-3.1 T7	8500/3
+#4	ICD-O-3.1 T10	8500/3
+#5	ICD-O-3.1 T13	8500/3
+#6	ICD-O-3.1 T16	8500/3
+#7	ICD-O-3.1 T15	8000/6
+#8	ICD-O-3.1 T2	8000/6
+#9	ICD-O-3.1 T6	8000/6
+#10	ICD-O-3.1 T9	8000/6
+#11	ICD-O-3.1 T12	8000/6
+#12	ICD-O-3.1 T17	8000/6
+#13	ICD-O-3.1 T14	8000/6
+#14	ICD-O-3.1 T1	8000/1
+#15	ICD-O-3.1 T3	8000/6
+#16	ICD-O-3.1 T5	8000/6
+#17	ICD-O-3.1 T4	8000/6
+#18	SNOMED T8	58477004
+#19	SNOMED T11	14799000
+#20	SNOMED T7	58477004
+#21	SNOMED T10	58477004
+#22	SNOMED T13	58477004
+#23	SNOMED T16	58477004
+#24	SNOMED T15	14799000
+#25	SNOMED T2	14799000
+#26	SNOMED T6	14799000
+#27	SNOMED T9	14799000
+#28	SNOMED T12	14799000
+#29	SNOMED T17	14799000
+#30	SNOMED T14	14799000
+#31	SNOMED T1	86251006
+#32	SNOMED T3	14799000
+#33	SNOMED T5	14799000
+#34	SNOMED T4	14799000

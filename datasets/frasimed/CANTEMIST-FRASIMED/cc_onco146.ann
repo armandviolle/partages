@@ -1,0 +1,42 @@
+T1	morphology-onco 567 573	tumeur
+T2	morphology-onco 963 969	tumeur
+T3	morphology-onco 1760 1790	tumeur odontogène sarcomateuse
+T4	morphology-onco 1815 1821	tumeur
+T5	morphology-onco 2581 2593	ostéosarcome
+T6	morphology-onco 2731 2743	ostéosarcome
+T7	morphology-onco 2938 2950	ostéosarcome
+T8	morphology-onco 3389 3399	métastases
+T9	morphology-onco 3567 3585	cellules tumorales
+T10	morphology-onco 3692 3704	métastatique
+T11	morphology-onco 3714 3726	ostéosarcome
+T12	morphology-onco 4492 4504	ostéosarcome
+T13	morphology-onco 4560 4565	malin
+T14	morphology-onco 5423 5435	ostéosarcome
+#1	ICD-O-3.1 T9	8001/1
+#2	ICD-O-3.1 T13	8000/3
+#3	ICD-O-3.1 T10	8000/6
+#4	ICD-O-3.1 T8	8000/6
+#5	ICD-O-3.1 T5	9180/3
+#6	ICD-O-3.1 T6	9180/3
+#7	ICD-O-3.1 T7	9180/3
+#8	ICD-O-3.1 T11	9180/3
+#9	ICD-O-3.1 T12	9180/3
+#10	ICD-O-3.1 T14	9180/3
+#11	ICD-O-3.1 T1	8000/1
+#12	ICD-O-3.1 T2	8000/1
+#13	ICD-O-3.1 T4	8000/1
+#14	ICD-O-3.1 T3	9270/1
+#15	SNOMED T9	39577004
+#16	SNOMED T13	1240414004
+#17	SNOMED T10	14799000
+#18	SNOMED T8	14799000
+#19	SNOMED T5	1163405004
+#20	SNOMED T6	1163405004
+#21	SNOMED T7	1163405004
+#22	SNOMED T11	1163405004
+#23	SNOMED T12	1163405004
+#24	SNOMED T14	1163405004
+#25	SNOMED T1	86251006
+#26	SNOMED T2	86251006
+#27	SNOMED T4	86251006
+#28	SNOMED T3	127578009

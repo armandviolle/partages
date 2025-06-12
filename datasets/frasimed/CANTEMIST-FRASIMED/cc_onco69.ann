@@ -1,0 +1,42 @@
+T1	morphology-onco 1752 1760	tumorale
+T2	morphology-onco 1923 1940	implants pleuraux
+T3	morphology-onco 2075 2123	lymphome médiastinal diffus à grandes cellules B
+T4	morphology-onco 2131 2136	LBDCG
+T5	morphology-onco 2221 2238	implants pleuraux
+T6	morphology-onco 2270 2275	DLBCL
+T7	morphology-onco 2283 2291	lymphome
+T8	morphology-onco 2339 2362	lymphome non hodgkinien
+T9	morphology-onco 2364 2367	LNH
+T10	morphology-onco 4432 4437	DLBCL
+T11	morphology-onco 4493 4512	atteinte pulmonaire
+T12	morphology-onco 5568 5573	DLBCL
+T13	morphology-onco 5975 5980	LBDCG
+T14	morphology-onco 6506 6511	LBDCG
+#1	ICD-O-3.1 T4	9680/3
+#2	ICD-O-3.1 T6	9680/3
+#3	ICD-O-3.1 T10	9680/3
+#4	ICD-O-3.1 T12	9680/3
+#5	ICD-O-3.1 T13	9680/3
+#6	ICD-O-3.1 T14	9680/3
+#7	ICD-O-3.1 T9	9591/3
+#8	ICD-O-3.1 T11	8000/6
+#9	ICD-O-3.1 T2	8000/6
+#10	ICD-O-3.1 T5	8000/6
+#11	ICD-O-3.1 T7	9590/3
+#12	ICD-O-3.1 T8	9591/3
+#13	ICD-O-3.1 T1	8000/1
+#14	ICD-O-3.1 T3	9680/3
+#15	SNOMED T4	1172695008
+#16	SNOMED T6	1172695008
+#17	SNOMED T10	1172695008
+#18	SNOMED T12	1172695008
+#19	SNOMED T13	1172695008
+#20	SNOMED T14	1172695008
+#21	SNOMED T9	1172592001
+#22	SNOMED T11	14799000
+#23	SNOMED T2	14799000
+#24	SNOMED T5	14799000
+#25	SNOMED T7	1163043007
+#26	SNOMED T8	1172592001
+#27	SNOMED T1	86251006
+#28	SNOMED T3	1172695008

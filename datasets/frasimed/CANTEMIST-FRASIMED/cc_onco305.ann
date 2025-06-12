@@ -1,0 +1,69 @@
+T1	morphology-onco 454 488	(LOE) dans le parenchyme hépatique
+T2	morphology-onco 637 644	sarcome
+T3	morphology-onco 1186 1228	tumeur du pancréas avec des LOE hépatiques
+T4	morphology-onco 1262 1269	sarcome
+T5	morphology-onco 1342 1348	tumeur
+T6	morphology-onco 1439 1455	nodule hépatique
+T7	morphology-onco 1509 1583	léiomyosarcome pléomorphe, d'une taille de 12 cm, avec un nodule hépatique
+T8	morphology-onco 1600 1614	léiomyosarcome
+T9	morphology-onco 1755 1779	ANGIOMYOLIPOMA MALIGNANT
+T10	morphology-onco 1781 1784	MLA
+T11	morphology-onco 1838 1844	tumeur
+T12	morphology-onco 1861 1871	métastases
+T13	morphology-onco 2274 2284	métastases
+T14	morphology-onco 2955 2968	métastatiques
+T15	morphology-onco 3087 3103	lésion hépatique
+T16	morphology-onco 3142 3148	tumeur
+T17	morphology-onco 3318 3330	métastatique
+T18	morphology-onco 3382 3394	métastatique
+T19	morphology-onco 3558 3568	métastases
+T20	morphology-onco 3830 3836	PECome
+T21	morphology-onco 3923 3929	PECome
+T22	morphology-onco 4219 4255	lésions situées dans le dôme du foie
+T23	morphology-onco 4425 4437	métastatique
+T24	morphology-onco 4520 4561	atteinte du reste du parenchyme hépatique
+#1	ICD-O-3.1 T10	8860/0
+#2	ICD-O-3.1 T8	8890/3
+#3	ICD-O-3.1 T20	8011/1/H
+#4	ICD-O-3.1 T21	8011/1/H
+#5	ICD-O-3.1 T2	8800/3
+#6	ICD-O-3.1 T15	8000/6
+#7	ICD-O-3.1 T14	8000/6
+#8	ICD-O-3.1 T12	8000/6
+#9	ICD-O-3.1 T13	8000/6
+#10	ICD-O-3.1 T19	8000/6
+#11	ICD-O-3.1 T6	8000/6
+#12	ICD-O-3.1 T4	8800/3
+#13	ICD-O-3.1 T5	8000/1
+#14	ICD-O-3.1 T11	8000/1
+#15	ICD-O-3.1 T16	8000/1
+#16	ICD-O-3.1 T3	8000/6
+#17	ICD-O-3.1 T1	8000/6
+#18	ICD-O-3.1 T7	8890/6/H
+#19	ICD-O-3.1 T9	8860/3
+#20	ICD-O-3.1 T17	8000/6
+#21	ICD-O-3.1 T18	8000/6
+#22	ICD-O-3.1 T23	8000/6
+#23	ICD-O-3.1 T24	8000/6
+#24	ICD-O-3.1 T22	8000/6
+#25	SNOMED T10	19929002
+#26	SNOMED T8	1163022006
+#27	SNOMED T2	1187396000
+#28	SNOMED T15	14799000
+#29	SNOMED T14	14799000
+#30	SNOMED T12	14799000
+#31	SNOMED T13	14799000
+#32	SNOMED T19	14799000
+#33	SNOMED T6	14799000
+#34	SNOMED T4	1187396000
+#35	SNOMED T5	86251006
+#36	SNOMED T11	86251006
+#37	SNOMED T16	86251006
+#38	SNOMED T3	14799000
+#39	SNOMED T1	14799000
+#40	SNOMED T9	110457005
+#41	SNOMED T17	14799000
+#42	SNOMED T18	14799000
+#43	SNOMED T23	14799000
+#44	SNOMED T24	14799000
+#45	SNOMED T22	14799000

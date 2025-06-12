@@ -1,0 +1,24 @@
+T1	morphology-onco 243 294	adénocarcinome pulmonaire droit de stade IV (plèvre
+T2	morphology-onco 1573 1591	lésions cérébrales
+T3	morphology-onco 1648 1658	métastases
+T4	morphology-onco 1666 1688	atteinte leptoméningée
+T5	morphology-onco 1827 1854	dissémination leptoméningée
+T6	morphology-onco 1878 1924	adénocarcinome du poumon droit avec métastases
+T7	morphology-onco 1997 2010	carcinomatose
+T8	morphology-onco 2080 2093	Carcinomatose
+#1	ICD-O-3.1 T7	8010/9
+#2	ICD-O-3.1 T8	8010/9
+#3	ICD-O-3.1 T4	8000/6
+#4	ICD-O-3.1 T5	8000/6
+#5	ICD-O-3.1 T2	8000/6
+#6	ICD-O-3.1 T3	8000/6
+#7	ICD-O-3.1 T1	8140/6
+#8	ICD-O-3.1 T6	8140/6
+#9	SNOMED T7	307593001
+#10	SNOMED T8	307593001
+#11	SNOMED T4	14799000
+#12	SNOMED T5	14799000
+#13	SNOMED T2	14799000
+#14	SNOMED T3	14799000
+#15	SNOMED T1	4590003
+#16	SNOMED T6	4590003

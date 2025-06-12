@@ -1,0 +1,78 @@
+T1	morphology-onco 86 94	fibromes
+T2	morphology-onco 237 243	tumeur
+T3	morphology-onco 439 445	tumeur
+T4	morphology-onco 786 837	léiomyosarcome de grade 2 (système de grade FNCLCC)
+T5	morphology-onco 889 908	lésion ostéolytique
+T6	morphology-onco 1167 1182	néoplasme malin
+T7	morphology-onco 1218 1243	léiomyosarcome de grade 2
+T8	morphology-onco 1672 1681	métastase
+T9	morphology-onco 1782 1792	métastases
+T10	morphology-onco 2055 2069	Leiomyosarcome
+T11	morphology-onco 2299 2307	tumorale
+T12	morphology-onco 2721 2727	myomes
+T13	morphology-onco 3841 3847	tumeur
+T14	morphology-onco 4650 4664	léiomyosarcome
+T15	morphology-onco 5000 5009	métastase
+T16	morphology-onco 5183 5193	Métastases
+T17	morphology-onco 5582 5592	métastases
+T18	morphology-onco 5659 5668	malignité
+T19	morphology-onco 5670 5680	Métastases
+T20	morphology-onco 5783 5821	lésion lytique dans le corps vertébral
+T21	morphology-onco 5844 5853	métastase
+T22	morphology-onco 6164 6176	métastatique
+T23	morphology-onco 6774 6787	métastatiques
+T24	morphology-onco 6868 6878	métastases
+T25	morphology-onco 6931 6940	métastase
+T26	morphology-onco 7048 7058	métastases
+#1	ICD-O-3.1 T10	8890/3
+#2	ICD-O-3.1 T20	8000/6
+#3	ICD-O-3.1 T16	8000/6
+#4	ICD-O-3.1 T19	8000/6
+#5	ICD-O-3.1 T26	8000/6
+#6	ICD-O-3.1 T14	8890/3
+#7	ICD-O-3.1 T5	8000/6
+#8	ICD-O-3.1 T18	8000/3
+#9	ICD-O-3.1 T22	8000/6
+#10	ICD-O-3.1 T23	8000/6
+#11	ICD-O-3.1 T8	8000/6
+#12	ICD-O-3.1 T9	8000/6
+#13	ICD-O-3.1 T15	8000/6
+#14	ICD-O-3.1 T17	8000/6
+#15	ICD-O-3.1 T21	8000/6
+#16	ICD-O-3.1 T24	8000/6
+#17	ICD-O-3.1 T25	8000/6
+#18	ICD-O-3.1 T1	8895/0
+#19	ICD-O-3.1 T12	8895/0
+#20	ICD-O-3.1 T6	8000/3
+#21	ICD-O-3.1 T13	8000/1
+#22	ICD-O-3.1 T2	8000/1
+#23	ICD-O-3.1 T3	8000/1
+#24	ICD-O-3.1 T11	8000/1
+#25	ICD-O-3.1 T4	8890/32
+#26	ICD-O-3.1 T7	8890/32
+#27	SNOMED T10	1163022006
+#28	SNOMED T20	14799000
+#29	SNOMED T16	14799000
+#30	SNOMED T19	14799000
+#31	SNOMED T26	14799000
+#32	SNOMED T14	1163022006
+#33	SNOMED T5	14799000
+#34	SNOMED T18	1240414004
+#35	SNOMED T22	14799000
+#36	SNOMED T23	14799000
+#37	SNOMED T8	14799000
+#38	SNOMED T9	14799000
+#39	SNOMED T15	14799000
+#40	SNOMED T17	14799000
+#41	SNOMED T21	14799000
+#42	SNOMED T24	14799000
+#43	SNOMED T25	14799000
+#44	SNOMED T1	1156875002
+#45	SNOMED T12	1156875002
+#46	SNOMED T6	1240414004
+#47	SNOMED T13	86251006
+#48	SNOMED T2	86251006
+#49	SNOMED T3	86251006
+#50	SNOMED T11	86251006
+#51	SNOMED T4	1163022006
+#52	SNOMED T7	1163022006

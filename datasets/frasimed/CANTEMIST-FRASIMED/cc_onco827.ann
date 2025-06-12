@@ -1,0 +1,21 @@
+T1	morphology-onco 74 92	syndrome de Gorlin
+T2	morphology-onco 134 160	carcinomes basocellulaires
+T3	morphology-onco 334 360	carcinomes basocellulaires
+T4	morphology-onco 539 548	desmoïdes
+T5	morphology-onco 770 796	carcinomes basocellulaires
+T6	morphology-onco 7663 7680	maladie de Gorlin
+T7	morphology-onco 7796 7822	carcinomes basocellulaires
+#1	ICD-O-3.1 T2	8090/3
+#2	ICD-O-3.1 T3	8090/3
+#3	ICD-O-3.1 T5	8090/3
+#4	ICD-O-3.1 T7	8090/3
+#5	ICD-O-3.1 T1	8090/3
+#6	ICD-O-3.1 T4	8821/1
+#7	ICD-O-3.1 T6	8090/3
+#8	SNOMED T2	1338007
+#9	SNOMED T3	1338007
+#10	SNOMED T5	1338007
+#11	SNOMED T7	1338007
+#12	SNOMED T1	1338007
+#13	SNOMED T4	47284001
+#14	SNOMED T6	1338007

@@ -1,0 +1,13 @@
+T1	disease 68 85	contusion à l'œil
+T2	disease 251 275	décollement de la rétine
+T3	disease 516 530	hyphéma modéré
+T4	disease 536 564	importante dialyse de l'iris
+T5	disease 624 659	hypotonie extrême du globe oculaire
+T6	disease 807 818	hémovitreux
+T7	disease 902 930	lésion pénétrante antérieure
+T8	disease 949 977	rupture sclérale postérieure
+T9	disease 1191 1219	hémorragie suprachoroïdienne
+T10	disease 1435 1456	ophtalmie sympathique
+T11	disease 1867 1884	tissu hémovitreux
+T12	disease 1895 1942	rupture importante de la cicatrice choroïdienne
+T13	disease 2107 2126	éclatement oculaire

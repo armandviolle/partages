@@ -1,0 +1,23 @@
+T1	morphology-onco 604 665	adénocarcinome des voies biliaires avec atteinte pancréatique
+T2	morphology-onco 703 719	atteinte osseuse
+T3	morphology-onco 829 841	métastatique
+T4	morphology-onco 1928 1934	tumeur
+T5	morphology-onco 2155 2161	tumeur
+T6	morphology-onco 2412 2445	cancer avancé des voies biliaires
+T7	morphology-onco 3414 3422	tumorale
+T8	morphology-onco 9164 9170	tumeur
+#1	ICD-O-3.1 T2	8000/6
+#2	ICD-O-3.1 T3	8000/6
+#3	ICD-O-3.1 T4	8000/1
+#4	ICD-O-3.1 T5	8000/1
+#5	ICD-O-3.1 T7	8000/1
+#6	ICD-O-3.1 T8	8000/1
+#7	ICD-O-3.1 T1	8160/6
+#8	ICD-O-3.1 T6	8160/3
+#9	SNOMED T2	14799000
+#10	SNOMED T3	14799000
+#11	SNOMED T4	86251006
+#12	SNOMED T5	86251006
+#13	SNOMED T7	86251006
+#14	SNOMED T8	86251006
+#15	SNOMED T6	312104005

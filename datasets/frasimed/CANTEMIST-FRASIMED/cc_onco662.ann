@@ -1,0 +1,59 @@
+T1	morphology-onco 1146 1154	tumorale
+T2	morphology-onco 1353 1359	tumeur
+T3	morphology-onco 1410 1423	intratumorale
+T4	morphology-onco 1631 1657	néoplasme malin pléomorphe
+T5	morphology-onco 1841 1850	carcinome
+T6	morphology-onco 2259 2273	adénocarcinome
+T7	morphology-onco 2286 2295	cT4cN0cM0
+T8	morphology-onco 3165 3185	cellularité tumorale
+T9	morphology-onco 3309 3317	tumorale
+T10	morphology-onco 3822 3830	tumorale
+T11	morphology-onco 4043 4051	tumorale
+T12	morphology-onco 4108 4132	néoplasme mésenchymateux
+T13	morphology-onco 4138 4153	adénocarcinomes
+T14	morphology-onco 4228 4252	dissémination systémique
+T15	morphology-onco 4329 4366	agressive sans progression systémique
+T16	morphology-onco 4616 4624	tumorale
+T17	morphology-onco 4809 4843	sarcome (grade histologique élevé)
+T18	morphology-onco 5195 5201	tumeur
+T19	morphology-onco 5386 5393	sarcome
+T20	morphology-onco 5629 5635	tumeur
+#1	ICD-O-3.1 T6	8140/3
+#2	ICD-O-3.1 T5	8010/3
+#3	ICD-O-3.1 T3	8000/1
+#4	ICD-O-3.1 T19	8800/3
+#5	ICD-O-3.1 T18	8000/1
+#6	ICD-O-3.1 T2	8000/1
+#7	ICD-O-3.1 T1	8000/1
+#8	ICD-O-3.1 T9	8000/1
+#9	ICD-O-3.1 T10	8000/1
+#10	ICD-O-3.1 T11	8000/1
+#11	ICD-O-3.1 T16	8000/1
+#12	ICD-O-3.1 T20	8000/1
+#13	ICD-O-3.1 T4	8000/3/H
+#14	ICD-O-3.1 T7	8000/6
+#15	ICD-O-3.1 T8	8001/1
+#16	ICD-O-3.1 T12	8800/1
+#17	ICD-O-3.1 T13	8140/3
+#18	ICD-O-3.1 T14	8000/6
+#19	ICD-O-3.1 T15	8000/6
+#20	ICD-O-3.1 T17	8800/34
+#21	SNOMED T6	1187332001
+#22	SNOMED T5	1187425009
+#23	SNOMED T3	86251006
+#24	SNOMED T19	1187396000
+#25	SNOMED T18	86251006
+#26	SNOMED T2	86251006
+#27	SNOMED T1	86251006
+#28	SNOMED T9	86251006
+#29	SNOMED T10	86251006
+#30	SNOMED T11	86251006
+#31	SNOMED T16	86251006
+#32	SNOMED T20	86251006
+#33	SNOMED T4	1240414004
+#34	SNOMED T7	14799000
+#35	SNOMED T8	39577004
+#36	SNOMED T13	1187332001
+#37	SNOMED T14	14799000
+#38	SNOMED T15	14799000
+#39	SNOMED T17	1187396000

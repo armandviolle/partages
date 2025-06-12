@@ -1,0 +1,36 @@
+T1	morphology-onco 957 966	malignité
+T2	morphology-onco 1106 1129	lymphome B de type MALT
+T3	morphology-onco 1179 1202	Lymphome gastrique MALT
+T4	morphology-onco 1280 1296	lymphome du MALT
+T5	morphology-onco 1590 1606	lymphome du MALT
+T6	morphology-onco 2809 2832	lymphome B de bas grade
+T7	morphology-onco 3725 3733	lymphome
+T8	morphology-onco 4330 4338	malignes
+T9	morphology-onco 4376 4384	lymphome
+T10	morphology-onco 4744 4757	lymphome MALT
+T11	morphology-onco 4850 4866	lymphome du MALT
+T12	morphology-onco 5397 5405	lymphome
+#1	ICD-O-3.1 T7	9590/3
+#2	ICD-O-3.1 T9	9590/3
+#3	ICD-O-3.1 T12	9590/3
+#4	ICD-O-3.1 T1	8000/3
+#5	ICD-O-3.1 T8	8000/3
+#6	ICD-O-3.1 T2	9699/3
+#7	ICD-O-3.1 T3	9699/3
+#8	ICD-O-3.1 T4	9699/3
+#9	ICD-O-3.1 T5	9699/3
+#10	ICD-O-3.1 T6	9591/31
+#11	ICD-O-3.1 T10	9699/3
+#12	ICD-O-3.1 T11	9699/3
+#13	SNOMED T7	1163043007
+#14	SNOMED T9	1163043007
+#15	SNOMED T12	1163043007
+#16	SNOMED T1	1240414004
+#17	SNOMED T8	1240414004
+#18	SNOMED T2	447100004
+#19	SNOMED T3	447100004
+#20	SNOMED T4	447100004
+#21	SNOMED T5	447100004
+#22	SNOMED T6	1172592001
+#23	SNOMED T10	447100004
+#24	SNOMED T11	447100004

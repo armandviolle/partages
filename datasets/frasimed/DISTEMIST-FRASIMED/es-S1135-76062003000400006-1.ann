@@ -1,0 +1,36 @@
+T1	disease 357 376	infarctus inférieur
+T2	disease 943 962	dissection aortique
+T3	disease 995 1002	embolie
+T4	disease 1107 1149	pathologie au niveau de l'aorte thoracique
+T5	disease 1205 1243	occlusion bilatérale au niveau poplité
+T6	disease 1592 1611	insuffisance rénale
+T7	disease 1618 1622	choc
+T8	disease 2198 2211	cardiomégalie
+T9	disease 2235 2273	ventricule gauche était hypertrophique
+T10	disease 2378 2411	cardiopathie ischémique chronique
+T11	disease 2421 2430	infarctus
+T12	disease 2535 2672	aorte thoracique présente une grande plaque athérosclérotique rompue avec une hémorragie intraplaque et du matériel thrombotique adhérant
+T13	disease 2690 2768	endothélium de l'aorte abdominale est occupé par du matériel hématique coagulé
+T14	disease 2783 2820	foie présentait un aspect stéatosique
+T15	disease 2897 2905	stéatose
+T16	disease 2911 2927	œdème pulmonaire
+T17	disease 2939 3061	artérioles alimentant les muscles squelettiques des jambes, il y avait de nombreux emboles provenant de plaques d'athérome
+T18	disease 3154 3308	reins présentent une nécrose tubulaire aiguë, un pigment de myoglobine dans les tubules et des emboles dans les artérioles provenant de plaques d'athérome
+#1	SNOMED T12	312601003
+#2	SNOMED T17	425527003
+#3	SNOMED T18	90493000+35455006+48165008
+#4	SNOMED T8	8186001
+#5	SNOMED T4	312601003
+#6	SNOMED T9	55827005
+#7	SNOMED T6	723188008
+#8	SNOMED T7	27942005
+#9	SNOMED T5	314189001
+#10	SNOMED T13	448722002
+#11	SNOMED T10	413838009
+#12	SNOMED T14	197321007
+#13	SNOMED T2	308546005
+#14	SNOMED T11	55641003
+#15	SNOMED T3	414086009
+#16	SNOMED T1	73795002
+#17	SNOMED T15	29185008
+#18	SNOMED T16	19242006

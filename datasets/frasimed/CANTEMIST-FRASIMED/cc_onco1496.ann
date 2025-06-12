@@ -1,0 +1,44 @@
+T1	morphology-onco 986 992	tumeur
+T2	morphology-onco 1705 1714	Carcinome
+T3	morphology-onco 1745 1757	métastatique
+T4	morphology-onco 1968 1987	Tumeur métastatique
+T5	morphology-onco 1997 2006	Métastase
+T6	morphology-onco 2109 2119	métastases
+T7	morphology-onco 2275 2284	néoplasie
+T8	morphology-onco 2699 2732	tumeur maligne à petites cellules
+T9	morphology-onco 2753 2787	tumeur neuroectodermique primitive
+T10	morphology-onco 2836 2854	cellules tumorales
+T11	morphology-onco 3095 3132	tumeurs neuroectodermiques primitives
+T12	morphology-onco 3640 3648	tumorale
+T13	morphology-onco 4564 4597	Tumeur maligne à petites cellules
+T14	morphology-onco 4618 4693	tumeur neuroectodermique primitive du col de l'utérus, stade IV (métastases
+T15	morphology-onco 5112 5120	tumorale
+#1	ICD-O-3.1 T2	8010/3
+#2	ICD-O-3.1 T5	8000/6
+#3	ICD-O-3.1 T13	8002/3
+#4	ICD-O-3.1 T10	8001/1
+#5	ICD-O-3.1 T3	8000/6
+#6	ICD-O-3.1 T6	8000/6
+#7	ICD-O-3.1 T7	8000/1
+#8	ICD-O-3.1 T8	8002/3
+#9	ICD-O-3.1 T9	9473/3
+#10	ICD-O-3.1 T1	8000/1
+#11	ICD-O-3.1 T12	8000/1
+#12	ICD-O-3.1 T15	8000/1
+#13	ICD-O-3.1 T4	8000/6
+#14	ICD-O-3.1 T11	9473/3
+#15	ICD-O-3.1 T14	9473/6
+#16	SNOMED T2	1187425009
+#17	SNOMED T5	14799000
+#18	SNOMED T13	82267002
+#19	SNOMED T10	39577004
+#20	SNOMED T3	14799000
+#21	SNOMED T6	14799000
+#22	SNOMED T7	86251006
+#23	SNOMED T8	82267002
+#24	SNOMED T9	55045006
+#25	SNOMED T1	86251006
+#26	SNOMED T12	86251006
+#27	SNOMED T15	86251006
+#28	SNOMED T4	14799000
+#29	SNOMED T11	55045006

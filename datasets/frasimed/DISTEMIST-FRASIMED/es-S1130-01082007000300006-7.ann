@@ -1,0 +1,8 @@
+T1	disease 126 136	Non-buveur
+T2	disease 140 150	non-fumeur
+T3	disease 152 170	Amygdalite répétée
+T4	disease 402 469	duodénale a montré une atrophie modérée des villosités intestinales
+#1	SNOMED T1	219006
+#2	SNOMED T2	77176002
+#3	SNOMED T3	195677001
+#4	SNOMED T4	75581001

@@ -1,0 +1,30 @@
+T1	morphology-onco 1530 1538	lymphome
+T2	morphology-onco 2973 2985	néoformation
+T3	morphology-onco 3294 3305	néoplasique
+T4	morphology-onco 3830 3845	néoplasme malin
+T5	morphology-onco 3929 3947	sarcome pléomorphe
+T6	morphology-onco 4530 4546	rhabdomyosarcome
+T7	morphology-onco 4632 4650	sarcome pléomorphe
+T8	morphology-onco 4688 4715	rhabdomyosarcome pléomorphe
+T9	morphology-onco 4729 4756	Rhabdomyosarcome pléomorphe
+T10	morphology-onco 5725 5752	rhabdomyosarcome pléomorphe
+#1	ICD-O-3.1 T9	8901/3
+#2	ICD-O-3.1 T1	9590/3
+#3	ICD-O-3.1 T2	8000/1
+#4	ICD-O-3.1 T4	8000/3
+#5	ICD-O-3.1 T3	8000/1
+#6	ICD-O-3.1 T8	8901/3
+#7	ICD-O-3.1 T10	8901/3
+#8	ICD-O-3.1 T5	8802/3
+#9	ICD-O-3.1 T7	8802/3
+#10	ICD-O-3.1 T6	8900/3
+#11	SNOMED T9	77455004
+#12	SNOMED T1	1163043007
+#13	SNOMED T2	86251006
+#14	SNOMED T4	1240414004
+#15	SNOMED T3	86251006
+#16	SNOMED T8	77455004
+#17	SNOMED T10	77455004
+#18	SNOMED T5	302840001
+#19	SNOMED T7	302840001
+#20	SNOMED T6	30924005

@@ -1,0 +1,20 @@
+T1	disease 45 68	polyarthrite rhumatoïde
+T2	disease 126 144	diarrhée chronique
+T3	disease 273 314	perforation iatrogène du côlon descendant
+T4	disease 401 424	perforation intestinale
+T5	disease 1185 1191	anémie
+T6	disease 2412 2454	pathologie des voies urinaires supérieures
+T7	disease 2694 2701	tumoral
+T8	disease 2854 2873	tumeur de la vessie
+T9	disease 2941 2947	lésion
+T10	disease 3594 3624	amyloïdose vésicale secondaire
+#1	SNOMED T1	69896004
+#2	SNOMED T2	236071009
+#3	SNOMED T3	50257008
+#4	SNOMED T8	126885006
+#5	SNOMED T4	56905009
+#6	SNOMED T5	271737000
+#7	SNOMED T10	281034005
+#8	SNOMED T6	41368006
+#9	SNOMED T7	417163006
+#10	SNOMED T9	417163006

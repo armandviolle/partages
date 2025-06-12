@@ -1,0 +1,39 @@
+T1	morphology-onco 305 323	mélanome nodulaire
+T2	morphology-onco 495 508	intratumorale
+T3	morphology-onco 603 611	tumorale
+T4	morphology-onco 1173 1191	maladie à distance
+T5	morphology-onco 1205 1223	Mélanome nodulaire
+T6	morphology-onco 1256 1270	pT2 pN0[0/2]M0
+T7	morphology-onco 2211 2258	nodulaires millimétriques dans les deux poumons
+T8	morphology-onco 2273 2283	métastases
+T9	morphology-onco 2444 2463	masse surrénalienne
+T10	morphology-onco 2846 2856	métastases
+T11	morphology-onco 2887 2893	tumeur
+T12	morphology-onco 4373 4399	lymphangite carcinomateuse
+T13	morphology-onco 4781 4809	métastases de mélanome malin
+#1	ICD-O-3.1 T5	8721/3
+#2	ICD-O-3.1 T4	8000/6
+#3	ICD-O-3.1 T2	8000/1
+#4	ICD-O-3.1 T12	8000/3
+#5	ICD-O-3.1 T9	8000/6
+#6	ICD-O-3.1 T1	8721/3
+#7	ICD-O-3.1 T8	8000/6
+#8	ICD-O-3.1 T10	8000/6
+#9	ICD-O-3.1 T13	8720/6
+#10	ICD-O-3.1 T11	8000/1
+#11	ICD-O-3.1 T3	8000/1
+#12	ICD-O-3.1 T6	8000/6
+#13	ICD-O-3.1 T7	8000/6
+#14	SNOMED T5	2142002
+#15	SNOMED T4	14799000
+#16	SNOMED T2	86251006
+#17	SNOMED T12	1240414004
+#18	SNOMED T9	14799000
+#19	SNOMED T1	2142002
+#20	SNOMED T8	14799000
+#21	SNOMED T10	14799000
+#22	SNOMED T13	372158004
+#23	SNOMED T11	86251006
+#24	SNOMED T3	86251006
+#25	SNOMED T6	14799000
+#26	SNOMED T7	14799000

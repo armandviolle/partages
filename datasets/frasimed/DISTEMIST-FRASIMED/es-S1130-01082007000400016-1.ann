@@ -1,0 +1,20 @@
+T1	disease 171 184	hépatomégalie
+T2	disease 450 472	insuffisance hépatique
+T3	disease 595 599	coma
+T4	disease 724 783	lésions hépatiques solides, hypodenses et occupant l'espace
+T5	disease 867 870	SMT
+T6	disease 988 1006	lésions cérébrales
+T7	disease 1162 1178	hépatites aiguës
+T8	disease 1294 1316	insuffisance hépatique
+T9	disease 1681 1708	défaillance multi-organique
+T10	disease 1753 1771	lésions hépatiques
+T11	disease 1920 1933	MTS hépatique
+T12	disease 1946 1961	tumeur primaire
+T13	disease 1971 1992	adénocarcinome caecal
+T14	disease 2082 2131	infiltration graisseuse séreuse et périvasculaire
+T15	disease 2139 2175	infiltration lymphatique et veineuse
+T16	disease 2177 2234	MTS dans les ganglions lymphatiques infradiaphragmatiques
+T17	disease 2177 2276	MTS dans les ganglions lymphatiques infradiaphragmatiques locorégionaux et le parenchyme pulmonaire
+T18	disease 2302 2321	hépatite ischémique
+T19	disease 2328 2341	cholangiolite
+T20	disease 2359 2400	autolyse pancréatique et péripancréatique

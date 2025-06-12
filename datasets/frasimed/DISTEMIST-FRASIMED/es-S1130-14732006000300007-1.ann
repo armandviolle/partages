@@ -1,0 +1,23 @@
+T1	disease 118 166	polytraumatisme avec fracture du 6ème arc costal
+T2	disease 170 190	contusion pulmonaire
+T3	disease 199 216	lacération rénale
+T4	disease 210 260	rénale avec hématome sous-capsulaire et suprarénal
+T5	disease 268 299	hématome de la paroi abdominale
+T6	disease 301 318	luxation du coude
+T7	disease 328 356	lésion ligamentaire du genou
+T8	disease 371 430	lésions avec perte de substance des deux membres inférieurs
+T9	disease 450 453	TBI
+T10	disease 550 575	insuffisance respiratoire
+T11	disease 630 642	anémie aiguë
+T12	disease 1023 1040	traumatisme rénal
+T13	disease 1584 1639	déplacement antérieur du corps vertébral de T11 sur T12
+T14	disease 1659 1693	luxation des facettes articulaires
+T15	disease 1714 1787	fracture minime de la partie la plus antérieure du corps vertébral de T12
+T16	disease 1859 1868	hématomes
+T17	disease 1959 1990	contusion de la moelle épinière
+T18	disease 1995 2058	sang a également été observé au niveau du ligament interépineux
+T19	disease 2150 2161	paraparésie
+T20	disease 2403 2432	anormale des facettes T11-T12
+T21	disease 2425 2455	T11-T12, avec sténose du canal
+T22	disease 2577 2663	luxation et le blocage des facettes articulaires au niveau T11-T12 de façon bilatérale
+T23	disease 2834 2874	T12, et réduction ouverte de la luxation

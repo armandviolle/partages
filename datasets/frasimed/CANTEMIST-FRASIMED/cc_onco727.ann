@@ -1,0 +1,6 @@
+T1	morphology-onco 4904 4925	mélanome métastatique
+T2	morphology-onco 4963 5000	infiltration de la MO par le mélanome
+#1	ICD-O-3.1 T1	8720/6
+#2	ICD-O-3.1 T2	8720/6
+#3	SNOMED T1	372158004
+#4	SNOMED T2	372158004

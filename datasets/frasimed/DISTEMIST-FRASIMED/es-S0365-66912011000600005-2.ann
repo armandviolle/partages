@@ -1,0 +1,10 @@
+T1	disease 20 60	ancien toxicomane par voie intraveineuse
+T2	disease 90 124	hépatite C chronique de génotype 4
+T3	disease 360 374	vision trouble
+T4	disease 382 411	"taches" dans le champ visuel
+T5	disease 601 621	rétinopathie à l'IFN
+#1	SNOMED T1	228388006
+#2	SNOMED T2	768126006
+#3	SNOMED T5	232032008
+#4	SNOMED T3	246636008
+#5	SNOMED T4	15013002

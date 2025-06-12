@@ -1,0 +1,20 @@
+T1	disease 109 134	lésion sur la joue droite
+T2	disease 487 499	adénomégalie
+T3	disease 556 594	kératose pilaire sur la peau des joues
+T4	disease 637 641	FAPF
+T5	disease 1209 1225	lésion nodulaire
+T6	disease 1231 1258	télangiectasies résiduelles
+T7	disease 1589 1605	rosacée oculaire
+T8	disease 1639 1649	blépharite
+T9	disease 1651 1660	chalazion
+T10	disease 1675 1698	perte d'acuité visuelle
+#1	SNOMED T4	61137005
+#2	SNOMED T2	30746006
+#3	SNOMED T3	5132005
+#4	SNOMED T5	27925004
+#5	SNOMED T6	247479008
+#6	SNOMED T7	200933006
+#7	SNOMED T8	41446000
+#8	SNOMED T9	1482004
+#9	SNOMED T1	282757006
+#10	SNOMED T10	170728008

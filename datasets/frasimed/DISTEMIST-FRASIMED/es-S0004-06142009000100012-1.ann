@@ -1,0 +1,17 @@
+T1	disease 83 117	hyperplasie bénigne de la prostate
+T2	disease 192 206	adénocarcinome
+T3	disease 547 578	hernie inguinale directe droite
+T4	disease 641 650	hydrocèle
+T5	disease 988 1004	lymphadénopathie
+T6	disease 1046 1060	léiomyosarcome
+T7	disease 1311 1317	lésion
+T8	disease 1370 1399	cicatrice de l'herniorrhaphie
+T9	disease 1434 1460	récidive de léiomyosarcome
+T10	disease 1595 1624	lésion nodulaire sur le flanc
+T11	disease 1958 1972	léiomyosarcome
+T12	disease 2154 2169	récidive locale
+T13	disease 2291 2331	récidive de léiomyosarcome de haut grade
+T14	disease 2382 2411	masse inguinale adénopathique
+T15	disease 2421 2454	lymphadénopathie rétropéritonéale
+T16	disease 2744 2766	métastases pulmonaires
+T17	disease 3022 3064	lésion excroissante dans la paroi vésicale

@@ -1,0 +1,21 @@
+T1	disease 46 65	sclérose en plaques
+T2	disease 103 111	boulimie
+T3	disease 326 352	tentative d'automutilation
+T4	disease 574 597	comportements purgatifs
+T5	disease 724 743	trouble alimentaire
+T6	disease 1967 1975	pré-choc
+T7	disease 2273 2292	acidose métabolique
+T8	disease 2445 2465	dilatation gastrique
+T9	disease 2554 2574	compression aortique
+T10	disease 2586 2606	dilatation gastrique
+T11	disease 3544 3571	défaillance multi-organique
+T12	disease 3745 3766	ischémie pancréatique
+T13	disease 3581 3618	hypoperfusion des viscères abdominaux
+T14	disease 3665 3692	hépatite toxique-ischémique
+T15	disease 3702 3737	encéphalopathie toxique-métabolique
+T16	disease 3873 3898	insuffisance rénale aiguë
+T17	disease 3908 3939	insuffisance respiratoire aiguë
+T18	disease 3774 3794	ischémie intestinale
+T19	disease 3825 3865	syndrome d'ischémie-perfusion abdominale
+T20	disease 3626 3654	insuffisance hépatique aiguë
+T21	disease 3801 3818	choc circulatoire

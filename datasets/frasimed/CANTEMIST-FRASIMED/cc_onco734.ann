@@ -1,0 +1,6 @@
+T1	morphology-onco 2297 2322	infiltration des méninges
+T2	morphology-onco 2992 3005	carcinomatose
+#1	ICD-O-3.1 T2	8010/9
+#2	ICD-O-3.1 T1	8000/6
+#3	SNOMED T2	307593001
+#4	SNOMED T1	14799000

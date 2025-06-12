@@ -1,0 +1,14 @@
+T1	disease 251 260	infection
+T2	disease 293 368	adénopathie palpable n'a été trouvée dans les chaînes ganglionnaires du cou
+T3	disease 417 423	tumeur
+T4	disease 641 698	tumeur touchait le lobe superficiel de la glande parotide
+T5	disease 838 875	tumeur bénigne des glandes salivaires
+T6	disease 939 945	tumeur
+T7	disease 1112 1132	myoépithéliome bénin
+#1	SNOMED T7	69291002
+#2	SNOMED T4	126788000
+#3	SNOMED T5	255154009
+#4	SNOMED T2	127086001
+#5	SNOMED T1	40733004
+#6	SNOMED T3	55342001
+#7	SNOMED T6	55342001

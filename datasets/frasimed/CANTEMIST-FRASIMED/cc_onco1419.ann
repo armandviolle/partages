@@ -1,0 +1,36 @@
+T1	morphology-onco 71 121	carcinome canalaire infiltrant du sein gauche GIII
+T2	morphology-onco 1188 1197	néoplasie
+T3	morphology-onco 1257 1268	néoplasique
+T4	morphology-onco 1448 1454	tumeur
+T5	morphology-onco 1642 1652	métastases
+T6	morphology-onco 1654 1696	Adénocarcinome ulcéré très peu différencié
+T7	morphology-onco 1708 1713	malin
+T8	morphology-onco 1757 1766	rhabdoïde
+T9	morphology-onco 1914 1923	rhabdoïde
+T10	morphology-onco 2103 2112	Carcinome
+T11	morphology-onco 2103 2122	Carcinome rhabdoïde
+T12	morphology-onco 2722 2730	tumorale
+#1	ICD-O-3.1 T10	8010/3
+#2	ICD-O-3.1 T7	8000/3
+#3	ICD-O-3.1 T5	8000/6
+#4	ICD-O-3.1 T2	8000/1
+#5	ICD-O-3.1 T3	8000/1
+#6	ICD-O-3.1 T8	8963/3
+#7	ICD-O-3.1 T9	8963/3
+#8	ICD-O-3.1 T4	8000/1
+#9	ICD-O-3.1 T12	8000/1
+#10	ICD-O-3.1 T1	8500/33
+#11	ICD-O-3.1 T6	8140/33
+#12	ICD-O-3.1 T11	8963/3
+#13	SNOMED T10	1187425009
+#14	SNOMED T7	1240414004
+#15	SNOMED T5	14799000
+#16	SNOMED T2	86251006
+#17	SNOMED T3	86251006
+#18	SNOMED T8	1156418001
+#19	SNOMED T9	1156418001
+#20	SNOMED T4	86251006
+#21	SNOMED T12	86251006
+#22	SNOMED T1	58477004
+#23	SNOMED T6	1187332001
+#24	SNOMED T11	1156418001

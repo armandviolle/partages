@@ -1,0 +1,21 @@
+T1	disease 58 76	syndrome dépressif
+T2	disease 83 94	prostatisme
+T3	disease 137 166	carcinome descendant du côlon
+T4	disease 378 424	adénocarcinome du côlon modérément différencié
+T5	disease 475 497	atteinte ganglionnaire
+T6	disease 542 544	Mo
+T7	disease 591 621	abcès dans la paroi abdominale
+T8	disease 1023 1041	carcinome du côlon
+T9	disease 1054 1084	adénopathies rétropéritonéales
+T10	disease 1157 1212	lésions fibrocicatricielles chroniques dans la poitrine
+T11	disease 1400 1487	lésion hétérogène, avec des zones solides et kystiques, au niveau du corps épididymaire
+T12	disease 1774 1781	lésions
+T13	disease 2050 2087	épididyme droit, une lésion nodulaire
+T14	disease 2340 2399	cordon spermatique droit, nous avons palpé une autre lésion
+T15	disease 2557 2571	adénocarcinome
+T16	disease 3031 3099	néoformations épithéliales malignes avec des structures glandulaires
+T17	disease 3120 3149	métastase d'un adénocarcinome
+T18	disease 3731 3761	adénopathies rétropéritonéales
+T19	disease 3790 3809	nodules pulmonaires
+T20	disease 4088 4124	implants mésentériques et hépatiques
+T21	disease 4175 4194	nodules pulmonaires

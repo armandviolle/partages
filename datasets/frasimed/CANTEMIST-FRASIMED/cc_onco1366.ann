@@ -1,0 +1,21 @@
+T1	morphology-onco 728 734	tumeur
+T2	morphology-onco 793 821	Carcinome corticosurrénalien
+T3	morphology-onco 921 949	carcinome corticosurrénalien
+T4	morphology-onco 1411 1425	adénocarcinome
+T5	morphology-onco 1986 2014	carcinome corticosurrénalien
+T6	morphology-onco 2022 2026	GIST
+T7	morphology-onco 3158 3175	cellules malignes
+#1	ICD-O-3.1 T6	8936/3
+#2	ICD-O-3.1 T4	8140/3
+#3	ICD-O-3.1 T7	8001/3
+#4	ICD-O-3.1 T1	8000/1
+#5	ICD-O-3.1 T2	8370/3
+#6	ICD-O-3.1 T3	8370/3
+#7	ICD-O-3.1 T5	8370/3
+#8	SNOMED T6	128756002
+#9	SNOMED T4	1187332001
+#10	SNOMED T7	88400008
+#11	SNOMED T1	86251006
+#12	SNOMED T2	2227007
+#13	SNOMED T3	2227007
+#14	SNOMED T5	2227007

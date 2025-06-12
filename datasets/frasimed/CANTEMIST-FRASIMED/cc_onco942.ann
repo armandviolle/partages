@@ -1,0 +1,48 @@
+T1	morphology-onco 383 389	tumeur
+T2	morphology-onco 629 668	métastase ovarienne d'un adénocarcinome
+T3	morphology-onco 915 925	léiomyomes
+T4	morphology-onco 1002 1067	adénocarcinome intestinal ulcéro-végétatif modérément différencié
+T5	morphology-onco 1423 1440	cytologie maligne
+T6	morphology-onco 1453 1467	adénocarcinome
+T7	morphology-onco 1603 1652	métastase dans l'ovaire droit d'un adénocarcinome
+T8	morphology-onco 1705 1760	adénocarcinome du côlon sigmoïde de stade IV (métastase
+T9	morphology-onco 1908 1932	rechute dans les poumons
+T10	morphology-onco 1953 1963	métastases
+T11	morphology-onco 2153 2162	métastase
+T12	morphology-onco 2318 2333	rechute osseuse
+T13	morphology-onco 2731 2741	métastases
+T14	morphology-onco 3023 3045	progression pulmonaire
+T15	morphology-onco 3146 3168	progression pulmonaire
+T16	morphology-onco 3423 3445	progression pulmonaire
+#1	ICD-O-3.1 T6	8140/3
+#2	ICD-O-3.1 T3	8890/0
+#3	ICD-O-3.1 T10	8000/6
+#4	ICD-O-3.1 T11	8000/6
+#5	ICD-O-3.1 T13	8000/6
+#6	ICD-O-3.1 T1	8000/1
+#7	ICD-O-3.1 T2	8140/6
+#8	ICD-O-3.1 T4	8140/32
+#9	ICD-O-3.1 T5	8001/3
+#10	ICD-O-3.1 T7	8140/6
+#11	ICD-O-3.1 T8	8140/6
+#12	ICD-O-3.1 T9	8000/6
+#13	ICD-O-3.1 T12	8000/6
+#14	ICD-O-3.1 T14	8000/6
+#15	ICD-O-3.1 T15	8000/6
+#16	ICD-O-3.1 T16	8000/6
+#17	SNOMED T6	1187332001
+#18	SNOMED T3	1187125003
+#19	SNOMED T10	14799000
+#20	SNOMED T11	14799000
+#21	SNOMED T13	14799000
+#22	SNOMED T1	86251006
+#23	SNOMED T2	4590003
+#24	SNOMED T4	1187332001
+#25	SNOMED T5	88400008
+#26	SNOMED T7	4590003
+#27	SNOMED T8	4590003
+#28	SNOMED T9	14799000
+#29	SNOMED T12	14799000
+#30	SNOMED T14	14799000
+#31	SNOMED T15	14799000
+#32	SNOMED T16	14799000

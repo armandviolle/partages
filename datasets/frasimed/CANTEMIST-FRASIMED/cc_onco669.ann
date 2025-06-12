@@ -1,0 +1,45 @@
+T1	morphology-onco 107 137	leucémie lymphoïde chronique B
+T2	morphology-onco 221 235	adénocarcinome
+T3	morphology-onco 354 394	adénocarcinome de grade 1 du côlon droit
+T4	morphology-onco 409 411	M0
+T5	morphology-onco 590 606	masse pulmonaire
+T6	morphology-onco 766 785	récidive pulmonaire
+T7	morphology-onco 894 910	masse pulmonaire
+T8	morphology-onco 987 1013	métastase d'adénocarcinome
+T9	morphology-onco 1276 1290	Adénocarcinome
+T10	morphology-onco 1310 1312	M0
+T11	morphology-onco 1331 1349	Rechute pulmonaire
+T12	morphology-onco 1616 1634	masses pulmonaires
+T13	morphology-onco 1942 1950	tumorale
+T14	morphology-onco 1972 1989	nodule pulmonaire
+T15	morphology-onco 2287 2304	nodule pulmonaire
+#1	ICD-O-3.1 T9	8140/3
+#2	ICD-O-3.1 T4	8000/6
+#3	ICD-O-3.1 T10	8000/6
+#4	ICD-O-3.1 T11	8000/6
+#5	ICD-O-3.1 T2	8140/3
+#6	ICD-O-3.1 T5	8000/6
+#7	ICD-O-3.1 T7	8000/6
+#8	ICD-O-3.1 T12	8000/6
+#9	ICD-O-3.1 T8	8140/6
+#10	ICD-O-3.1 T14	8000/6
+#11	ICD-O-3.1 T13	8000/1
+#12	ICD-O-3.1 T1	9823/3
+#13	ICD-O-3.1 T3	8140/31
+#14	ICD-O-3.1 T6	8000/6
+#15	ICD-O-3.1 T15	8000/6
+#16	SNOMED T9	1187332001
+#17	SNOMED T4	14799000
+#18	SNOMED T10	14799000
+#19	SNOMED T11	14799000
+#20	SNOMED T2	1187332001
+#21	SNOMED T5	14799000
+#22	SNOMED T7	14799000
+#23	SNOMED T12	14799000
+#24	SNOMED T8	4590003
+#25	SNOMED T14	14799000
+#26	SNOMED T13	86251006
+#27	SNOMED T1	51092000
+#28	SNOMED T3	1187332001
+#29	SNOMED T6	14799000
+#30	SNOMED T15	14799000

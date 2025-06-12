@@ -1,0 +1,10 @@
+T1	disease 118 168	lésion au niveau du processus uncinate du pancréas
+T2	disease 453 495	dilatation du canal pancréatique principal
+T3	disease 590 616	invasion du canal biliaire
+T4	disease 789 803	adénocarcinome
+T5	disease 1098 1120	kyste lymphoépithélial
+#1	SNOMED T4	443961001
+#2	SNOMED T3	94185003
+#3	SNOMED T1	3855007
+#4	SNOMED T2	235969000
+#5	SNOMED T5	419893006

@@ -1,0 +1,10 @@
+T1	disease 36 58	entorse de la cheville
+T2	disease 90 120	CRPS de la cheville et du pied
+T3	disease 239 250	traumatisme
+T4	disease 311 390	cheville et le pied droits, qui ont également été diagnostiquées comme des CRPS
+T5	disease 386 390	CRPS
+#1	SNOMED T1	44465007
+#2	SNOMED T2	734987002
+#3	SNOMED T4	734987002
+#4	SNOMED T3	417746004
+#5	SNOMED T5	128200000

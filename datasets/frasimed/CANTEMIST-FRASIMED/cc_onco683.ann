@@ -1,0 +1,81 @@
+T1	morphology-onco 104 109	nævus
+T2	morphology-onco 293 301	mélanome
+T3	morphology-onco 692 703	néoplasique
+T4	morphology-onco 3783 3808	incidentalome surrénalien
+T5	morphology-onco 4342 4353	néoplasique
+T6	morphology-onco 4502 4510	tératome
+T7	morphology-onco 4535 4548	carcinomatose
+T8	morphology-onco 5015 5026	néoplasique
+T9	morphology-onco 5086 5098	métastatique
+T10	morphology-onco 5105 5125	lésion surrénalienne
+T11	morphology-onco 5374 5396	métastases de mélanome
+T12	morphology-onco 5493 5515	métastases de mélanome
+T13	morphology-onco 5816 5840	tératome kystique mature
+T14	morphology-onco 5853 5892	Mélanome récurrent métastatique TxN1M1c
+T15	morphology-onco 5902 5912	métastases
+T16	morphology-onco 6770 6790	lésion surrénalienne
+T17	morphology-onco 6800 6820	masse dans le poumon
+T18	morphology-onco 6967 6984	lésion pulmonaire
+T19	morphology-onco 7354 7371	lésion pulmonaire
+T20	morphology-onco 7411 7422	néoplasique
+T21	morphology-onco 7571 7587	masse pulmonaire
+T22	morphology-onco 8210 8227	lésion pulmonaire
+T23	morphology-onco 8289 8309	lésion surrénalienne
+T24	morphology-onco 8667 8698	lésion dans la glande surrénale
+T25	morphology-onco 9188 9208	lésion surrénalienne
+T26	morphology-onco 9252 9263	néoplasique
+T27	morphology-onco 9501 9512	néoplasique
+#1	ICD-O-3.1 T7	8010/9
+#2	ICD-O-3.1 T18	8000/6
+#3	ICD-O-3.1 T19	8000/6
+#4	ICD-O-3.1 T22	8000/6
+#5	ICD-O-3.1 T10	8000/6
+#6	ICD-O-3.1 T17	8000/6
+#7	ICD-O-3.1 T23	8000/6
+#8	ICD-O-3.1 T25	8000/6
+#9	ICD-O-3.1 T21	8000/6
+#10	ICD-O-3.1 T2	8720/3
+#11	ICD-O-3.1 T9	8000/6
+#12	ICD-O-3.1 T15	8000/6
+#13	ICD-O-3.1 T11	8720/6
+#14	ICD-O-3.1 T12	8720/6
+#15	ICD-O-3.1 T3	8000/1
+#16	ICD-O-3.1 T8	8000/1
+#17	ICD-O-3.1 T20	8000/1
+#18	ICD-O-3.1 T26	8000/1
+#19	ICD-O-3.1 T27	8000/1
+#20	ICD-O-3.1 T5	8000/1
+#21	ICD-O-3.1 T1	8720/0
+#22	ICD-O-3.1 T6	9080/1
+#23	ICD-O-3.1 T13	9080/0
+#24	ICD-O-3.1 T4	8000/1
+#25	ICD-O-3.1 T14	8720/6
+#26	ICD-O-3.1 T16	8000/6
+#27	ICD-O-3.1 T24	8000/6
+#28	SNOMED T7	307593001
+#29	SNOMED T18	14799000
+#30	SNOMED T19	14799000
+#31	SNOMED T22	14799000
+#32	SNOMED T10	14799000
+#33	SNOMED T17	14799000
+#34	SNOMED T23	14799000
+#35	SNOMED T25	14799000
+#36	SNOMED T21	14799000
+#37	SNOMED T2	1162635006
+#38	SNOMED T9	14799000
+#39	SNOMED T15	14799000
+#40	SNOMED T11	372158004
+#41	SNOMED T12	372158004
+#42	SNOMED T3	86251006
+#43	SNOMED T8	86251006
+#44	SNOMED T20	86251006
+#45	SNOMED T26	86251006
+#46	SNOMED T27	86251006
+#47	SNOMED T5	86251006
+#48	SNOMED T1	400010006
+#49	SNOMED T6	1187393008
+#50	SNOMED T13	42717009
+#51	SNOMED T4	86251006
+#52	SNOMED T14	372158004
+#53	SNOMED T16	14799000
+#54	SNOMED T24	14799000

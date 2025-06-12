@@ -1,0 +1,14 @@
+T1	disease 22 47	allergies médicamenteuses
+T2	disease 82 91	ex-fumeur
+T3	disease 117 140	diabète sucré de type 2
+T4	disease 142 162	hypercholestérolémie
+T5	disease 178 217	anticorps antiphospholipides circulants
+T6	disease 245 275	thromboses veineuses profondes
+T7	disease 1599 1635	micro-infarctus des petits vaisseaux
+#1	SNOMED T2	8517006
+#2	SNOMED T3	44054006
+#3	SNOMED T4	13644009
+#4	SNOMED T5	259916004
+#5	SNOMED T6	128053003
+#6	SNOMED T7	27550009
+#7	SNOMED T1	416098002

@@ -1,0 +1,27 @@
+T1	morphology-onco 296 334	adénocarcinome pulmonaire métastatique
+T2	morphology-onco 1809 1819	Métastases
+T3	morphology-onco 2019 2029	Métastases
+T4	morphology-onco 2167 2179	métastatique
+T5	morphology-onco 2505 2515	métastases
+T6	morphology-onco 2622 2648	métastase d'adénocarcinome
+T7	morphology-onco 2870 2884	adénocarcinome
+T8	morphology-onco 2955 2965	métastases
+T9	morphology-onco 6792 6805	métastatiques
+#1	ICD-O-3.1 T7	8140/3
+#2	ICD-O-3.1 T2	8000/6
+#3	ICD-O-3.1 T3	8000/6
+#4	ICD-O-3.1 T4	8000/6
+#5	ICD-O-3.1 T9	8000/6
+#6	ICD-O-3.1 T1	8140/6
+#7	ICD-O-3.1 T5	8000/6
+#8	ICD-O-3.1 T6	8140/6
+#9	ICD-O-3.1 T8	8000/6
+#10	SNOMED T7	1187332001
+#11	SNOMED T2	14799000
+#12	SNOMED T3	14799000
+#13	SNOMED T4	14799000
+#14	SNOMED T9	14799000
+#15	SNOMED T1	4590003
+#16	SNOMED T5	14799000
+#17	SNOMED T6	4590003
+#18	SNOMED T8	14799000

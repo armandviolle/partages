@@ -1,0 +1,19 @@
+T1	disease 70 118	lésion nodulaire dans le quadrant dorso-lombaire
+T2	disease 350 363	hépatomégalie
+T3	disease 380 434	dorso-lombaire droite, il y avait une lésion nodulaire
+T4	disease 749 772	élévation du diaphragme
+T5	disease 787 808	élongation de l'aorte
+T6	disease 858 949	cutanée a été réalisée avec un diagnostic anatomopathologique de métastase d'adénocarcinome
+T7	disease 1042 1090	épaississement de la jonction œsophago-gastrique
+T8	disease 1101 1129	adénopathie gastrique gauche
+T9	disease 1157 1175	lésions hépatiques
+T10	disease 1189 1198	métastase
+T11	disease 1229 1235	lésion
+T12	disease 1256 1275	néoplasie du cardia
+T13	disease 1300 1314	adénocarcinome
+T14	disease 1344 1381	adénocarcinome gastrique métastatique
+T15	disease 1663 1669	tumeur
+T16	disease 1742 1778	tumeurs du tractus gastro-intestinal
+T17	disease 1830 1852	toxicité hématologique
+T18	disease 1862 1881	neutropénie fébrile
+T19	disease 1901 1914	choc septique

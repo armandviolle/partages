@@ -1,0 +1,22 @@
+T1	disease 107 119	pancytopénie
+T2	disease 169 182	LNH de type B
+T3	disease 459 480	maladie lymphomateuse
+T4	disease 533 547	myélodysplasie
+T5	disease 574 598	infiltration néoplasique
+T6	disease 712 725	splénomégalie
+T7	disease 966 978	pancytopénie
+T8	disease 1133 1139	lésion
+T9	disease 1170 1192	hypertension cérébrale
+T10	disease 1887 1906	métaplasie myéloïde
+T11	disease 2407 2420	coma cérébral
+#1	SNOMED T1	127034005
+#2	SNOMED T2	109979007
+#3	SNOMED T3	414628006
+#4	SNOMED T4	109995007
+#5	SNOMED T7	127034005
+#6	SNOMED T9	50490005
+#7	SNOMED T10	443230004
+#8	SNOMED T11	371632003
+#9	SNOMED T5	128462008
+#10	SNOMED T6	16294009
+#11	SNOMED T8	157670007

@@ -1,0 +1,23 @@
+T1	morphology-onco 697 705	tumorale
+T2	morphology-onco 964 970	tumeur
+T3	morphology-onco 1024 1034	métastases
+T4	morphology-onco 1236 1275	tumeur neuroendocrine bien différenciée
+T5	morphology-onco 1311 1328	tumeur carcinoïde
+T6	morphology-onco 1561 1571	carcinoïde
+T7	morphology-onco 1589 1656	tumeur carcinoïde fonctionnelle de l'intestin grêle avec métastases
+T8	morphology-onco 2336 2375	tumeur neuroendocrine bien différenciée
+#1	ICD-O-3.1 T6	8240/3
+#2	ICD-O-3.1 T3	8000/6
+#3	ICD-O-3.1 T2	8000/1
+#4	ICD-O-3.1 T5	8240/3
+#5	ICD-O-3.1 T4	8240/3
+#6	ICD-O-3.1 T8	8240/3
+#7	ICD-O-3.1 T1	8000/1
+#8	ICD-O-3.1 T7	8240/6
+#9	SNOMED T6	189607006
+#10	SNOMED T3	14799000
+#11	SNOMED T2	86251006
+#12	SNOMED T5	189607006
+#13	SNOMED T4	189607006
+#14	SNOMED T8	189607006
+#15	SNOMED T1	86251006

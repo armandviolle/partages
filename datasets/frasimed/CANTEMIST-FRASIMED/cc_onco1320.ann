@@ -1,0 +1,12 @@
+T1	morphology-onco 85 100	médulloblastome
+T2	morphology-onco 426 434	tumorale
+T3	morphology-onco 540 555	foyer satellite
+T4	morphology-onco 812 827	Médulloblastome
+#1	ICD-O-3.1 T2	8000/1
+#2	ICD-O-3.1 T1	9470/3
+#3	ICD-O-3.1 T3	8000/6
+#4	ICD-O-3.1 T4	9470/3
+#5	SNOMED T2	86251006
+#6	SNOMED T1	1156923005
+#7	SNOMED T3	14799000
+#8	SNOMED T4	1156923005

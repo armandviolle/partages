@@ -1,0 +1,14 @@
+T1	disease 197 228	traumatisme cranio-encéphalique
+T2	disease 327 331	coma
+T3	disease 548 568	hémiplégie proximale
+T4	disease 1050 1120	infarctus aigu dans le territoire de l'artère cérébrale moyenne gauche
+T5	disease 1222 1267	diminution diffuse du calibre de l'ACI gauche
+T6	disease 1277 1362	sténose sévère du segment supraclinoïde C6-C7, secondaire à une dissection artérielle
+T7	disease 1672 1780	hémiparésie proximale 3/5 du membre supérieur droit et une hémiparésie distale 0/5 du membre inférieur droit
+#1	SNOMED T3	278284007
+#2	SNOMED T7	278286009
+#3	SNOMED T1	82271004
+#4	SNOMED T4	432504007
+#5	SNOMED T5	838275008
+#6	SNOMED T6	870637009
+#7	SNOMED T2	371632003

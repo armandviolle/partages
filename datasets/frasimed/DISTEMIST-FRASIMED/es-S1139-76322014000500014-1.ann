@@ -1,0 +1,12 @@
+T1	disease 93 137	déformation crânienne frontopariétotemporale
+T2	disease 578 591	macrocéphalie
+T3	disease 696 717	cyphoplastie frontale
+T4	disease 1193 1234	QA dans la fosse crânienne moyenne droite
+T5	disease 1811 1848	hypertension intracrânienne chronique
+T6	disease 1933 1935	QA
+#1	SNOMED T4	253162003
+#2	SNOMED T3	33595009
+#3	SNOMED T5	50490005
+#4	SNOMED T2	19410003
+#5	SNOMED T1	253979005
+#6	SNOMED T6	785284009

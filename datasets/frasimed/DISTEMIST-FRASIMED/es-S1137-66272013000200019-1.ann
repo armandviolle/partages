@@ -1,0 +1,24 @@
+T1	disease 40 61	oreilles proéminentes
+T2	disease 108 172	chéloïde s'est progressivement développée dans les deux oreilles
+T3	disease 213 222	chéloïdes
+T4	disease 565 572	lésions
+T5	disease 811 819	chéloïde
+T6	disease 1064 1072	chéloïde
+T7	disease 1293 1310	nodules chéloïdes
+T8	disease 1349 1380	atrophie des appendices cutanés
+T9	disease 1636 1646	cicatrices
+T10	disease 1841 1898	oreille droite présentait une petite déhiscence de suture
+T11	disease 2157 2202	oreille droite, une récidive s'est développée
+T12	disease 2240 2248	chéloïde
+#1	SNOMED T1	275478007
+#2	SNOMED T10	22247000
+#3	SNOMED T2	33659008
+#4	SNOMED T3	33659008
+#5	SNOMED T11	25906001
+#6	SNOMED T7	33659008
+#7	SNOMED T8	238714008
+#8	SNOMED T9	275322007
+#9	SNOMED T4	157670007
+#10	SNOMED T12	33659008
+#11	SNOMED T5	33659008
+#12	SNOMED T6	33659008

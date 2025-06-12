@@ -1,0 +1,12 @@
+T1	disease 57 75	habitudes toxiques
+T2	disease 85 94	allergies
+T3	disease 753 784	chéilite de la lèvre inférieure
+T4	disease 790 804	aphtes buccaux
+T5	disease 976 1035	lésions érythémateuses squameuses sur le visage et les bras
+T6	disease 1472 1501	lésions érythémato-squameuses
+#1	SNOMED T1	228272008
+#2	SNOMED T3	7847004
+#3	SNOMED T4	26284000
+#4	SNOMED T2	106190000
+#5	SNOMED T5	247440002
+#6	SNOMED T6	247441003

@@ -1,0 +1,30 @@
+T1	disease 44 54	dépression
+T2	disease 60 70	alcoolisme
+T3	disease 130 150	ingestion volontaire
+T4	disease 409 434	acidose métabolique aiguë
+T5	disease 573 585	hypokaliémie
+T6	disease 2140 2167	tachycardies ventriculaires
+T7	disease 2217 2220	MAP
+T8	disease 2330 2355	insuffisance rénale aiguë
+T9	disease 3534 3563	hypotension artérielle sévère
+T10	disease 3574 3659	pneumonie causée par Staphylococcus aureus, Klebsiella oxytoca et Serratia marcescens
+T11	disease 3774 3796	nécrose rénale massive
+T12	disease 3801 3837	nécrose centrolobulillaire hépatique
+T13	disease 3875 3901	infarctus aigu du myocarde
+T14	disease 3906 3925	thrombose coronaire
+T15	disease 3951 3961	myocardite
+#1	SNOMED T1	394924000
+#2	SNOMED T2	7200002
+#3	SNOMED T3	219123000
+#4	SNOMED T4	59455009
+#5	SNOMED T5	43339004
+#6	SNOMED T6	25569003
+#7	SNOMED T8	236424009
+#8	SNOMED T10	441658007+430395005
+#9	SNOMED T11	79131000119100
+#10	SNOMED T12	13923006
+#11	SNOMED T13	57054005
+#12	SNOMED T14	398274000
+#13	SNOMED T15	50920009
+#14	SNOMED T9	45007003
+#15	SNOMED T7	31722008

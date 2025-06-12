@@ -1,0 +1,6 @@
+T1	disease 54 101	petite lésion sur la paupière supérieure droite
+T2	disease 382 436	insecte rougeâtre de 2 mm attaché au bord libre du PSD
+T3	disease 1109 1143	zoonoses transmises par les tiques
+#1	SNOMED T1	301913002
+#2	SNOMED T2	246812007
+#3	SNOMED T3	414018003

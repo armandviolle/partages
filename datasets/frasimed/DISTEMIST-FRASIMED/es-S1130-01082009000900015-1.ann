@@ -1,0 +1,22 @@
+T1	disease 34 74	épisodes récurrents de pancréatite aiguë
+T2	disease 110 124	hyperlipidémie
+T3	disease 219 251	pancréatite aiguë modérée-sévère
+T4	disease 396 413	pancréatite aiguë
+T5	disease 529 550	pancréatite chronique
+T6	disease 555 571	pancréas divisum
+T7	disease 579 611	atrophie du parenchyme hépatique
+T8	disease 658 679	pancréatite chronique
+T9	disease 686 702	pancréas divisum
+T10	disease 827 881	tumeur a été trouvée sur la paroi gastrique antérieure
+T11	disease 935 939	GIST
+#1	SNOMED T1	197458008
+#2	SNOMED T3	197456007
+#3	SNOMED T5	235494005
+#4	SNOMED T2	55822004
+#5	SNOMED T10	126824007
+#6	SNOMED T6	54554009
+#7	SNOMED T7	89835009
+#8	SNOMED T11	420120006
+#9	SNOMED T4	197456007
+#10	SNOMED T8	235494005
+#11	SNOMED T9	54554009

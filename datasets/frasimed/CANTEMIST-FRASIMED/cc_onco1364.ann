@@ -1,0 +1,26 @@
+T1	morphology-onco 77 91	adénocarcinome
+T2	morphology-onco 117 124	cT3N2M0
+T3	morphology-onco 285 291	tumeur
+T4	morphology-onco 1535 1556	progression hépatique
+T5	morphology-onco 2163 2247	métastase d'un carcinome à petites cellules (carcinome neuroendocrine de haut grade)
+T6	morphology-onco 2369 2451	adénocarcinome pulmonaire de stade IV en raison d'une atteinte pleuro-péricardique
+T7	morphology-onco 2528 2556	carcinome à petites cellules
+T8	morphology-onco 2622 2643	progression hépatique
+T9	morphology-onco 2737 2754	cellules d'avoine
+#1	ICD-O-3.1 T1	8140/3
+#2	ICD-O-3.1 T2	8000/6
+#3	ICD-O-3.1 T7	8041/3
+#4	ICD-O-3.1 T4	8000/6
+#5	ICD-O-3.1 T8	8000/6
+#6	ICD-O-3.1 T3	8000/1
+#7	ICD-O-3.1 T5	8041/64
+#8	ICD-O-3.1 T6	8140/6
+#9	ICD-O-3.1 T9	8002/3
+#10	SNOMED T1	1187332001
+#11	SNOMED T2	14799000
+#12	SNOMED T7	11010461000119101
+#13	SNOMED T4	14799000
+#14	SNOMED T8	14799000
+#15	SNOMED T3	86251006
+#16	SNOMED T6	4590003
+#17	SNOMED T9	82267002

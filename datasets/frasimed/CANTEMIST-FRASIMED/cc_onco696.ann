@@ -1,0 +1,71 @@
+T1	morphology-onco 751 769	lésions hépatiques
+T2	morphology-onco 770 783	métastatiques
+T3	morphology-onco 879 885	cancer
+T4	morphology-onco 2181 2188	tumoral
+T5	morphology-onco 2361 2390	métastatique par un carcinome
+T6	morphology-onco 2481 2511	carcinome lobulaire infiltrant
+T7	morphology-onco 2528 2531	CLI
+T8	morphology-onco 3717 3749	atteinte métastatique à distance
+T9	morphology-onco 3726 3738	métastatique
+T10	morphology-onco 4289 4336	adénopathies dans les régions sus-claviculaires
+T11	morphology-onco 4516 4535	tumorale à distance
+T12	morphology-onco 4626 4642	lésion orbitaire
+T13	morphology-onco 4689 4752	Carcinome lobulaire infiltrant de stade IV (atteinte orbitaire)
+T14	morphology-onco 4941 4947	cancer
+T15	morphology-onco 5298 5304	tumeur
+T16	morphology-onco 5434 5440	tumeur
+T17	morphology-onco 5454 5463	carcinome
+T18	morphology-onco 5579 5586	tumoral
+T19	morphology-onco 5609 5615	tumeur
+T20	morphology-onco 5657 5682	cancer d'origine inconnue
+T21	morphology-onco 5778 5784	tumeur
+T22	morphology-onco 6007 6016	carcinome
+T23	morphology-onco 6115 6121	tumeur
+T24	morphology-onco 6151 6170	carcinome lobulaire
+#1	ICD-O-3.1 T8	8000/6
+#2	ICD-O-3.1 T17	8010/3
+#3	ICD-O-3.1 T22	8010/3
+#4	ICD-O-3.1 T24	8520/3
+#5	ICD-O-3.1 T6	8520/3
+#6	ICD-O-3.1 T3	8000/3
+#7	ICD-O-3.1 T14	8000/3
+#8	ICD-O-3.1 T1	8000/6
+#9	ICD-O-3.1 T9	8000/6
+#10	ICD-O-3.1 T2	8000/6
+#11	ICD-O-3.1 T15	8000/1
+#12	ICD-O-3.1 T16	8000/1
+#13	ICD-O-3.1 T19	8000/1
+#14	ICD-O-3.1 T21	8000/1
+#15	ICD-O-3.1 T23	8000/1
+#16	ICD-O-3.1 T4	8000/1
+#17	ICD-O-3.1 T18	8000/1
+#18	ICD-O-3.1 T11	8000/6
+#19	ICD-O-3.1 T5	8010/6
+#20	ICD-O-3.1 T7	8520/3
+#21	ICD-O-3.1 T10	8000/6
+#22	ICD-O-3.1 T12	8000/6
+#23	ICD-O-3.1 T13	8520/6
+#24	ICD-O-3.1 T20	8000/9
+#25	SNOMED T8	14799000
+#26	SNOMED T17	1187425009
+#27	SNOMED T22	1187425009
+#28	SNOMED T24	278054005
+#29	SNOMED T6	278054005
+#30	SNOMED T3	1240414004
+#31	SNOMED T14	1240414004
+#32	SNOMED T1	14799000
+#33	SNOMED T9	14799000
+#34	SNOMED T2	14799000
+#35	SNOMED T15	86251006
+#36	SNOMED T16	86251006
+#37	SNOMED T19	86251006
+#38	SNOMED T21	86251006
+#39	SNOMED T23	86251006
+#40	SNOMED T4	86251006
+#41	SNOMED T18	86251006
+#42	SNOMED T11	14799000
+#43	SNOMED T5	79282002
+#44	SNOMED T7	278054005
+#45	SNOMED T10	14799000
+#46	SNOMED T12	14799000
+#47	SNOMED T20	6219000

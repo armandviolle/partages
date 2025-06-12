@@ -1,0 +1,18 @@
+T1	disease 32 83	allergique aux tétracyclines et aux bêta-lactamines
+T2	disease 108 131	hypertension artérielle
+T3	disease 255 306	spondyloarthrosique avec une composante myofasciale
+T4	disease 932 951	ptose des paupières
+T5	disease 1020 1025	ptose
+T6	disease 1215 1231	ptose palpébrale
+T7	disease 1246 1254	diplopie
+T8	disease 1391 1407	myasthénie grave
+T9	disease 1409 1411	MG
+#1	SNOMED T1	294592000+419885006
+#2	SNOMED T2	38341003
+#3	SNOMED T3	53332000
+#4	SNOMED T4	11934000
+#5	SNOMED T5	11934000
+#6	SNOMED T6	11934000
+#7	SNOMED T8	91637004
+#8	SNOMED T7	24982008
+#9	SNOMED T9	91637004

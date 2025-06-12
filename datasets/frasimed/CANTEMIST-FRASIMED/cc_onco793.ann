@@ -1,0 +1,15 @@
+T1	morphology-onco 1013 1075	néoplasme sans signe de différenciation, d'origine épithéliale
+T2	morphology-onco 1762 1770	tumorale
+T3	morphology-onco 1833 1877	mésothéliome malin diffus de type épithélial
+T4	morphology-onco 3881 3899	Mésothéliome malin
+T5	morphology-onco 4354 4372	mésothéliome malin
+#1	ICD-O-3.1 T2	8000/1
+#2	ICD-O-3.1 T1	8000/1/H
+#3	ICD-O-3.1 T3	9052/3/H
+#4	ICD-O-3.1 T4	9050/3/H
+#5	ICD-O-3.1 T5	9050/3/H
+#6	SNOMED T2	86251006
+#7	SNOMED T1	86251006
+#8	SNOMED T3	65278006
+#9	SNOMED T4	109378008
+#10	SNOMED T5	109378008

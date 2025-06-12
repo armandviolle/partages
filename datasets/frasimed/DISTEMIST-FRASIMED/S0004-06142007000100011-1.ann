@@ -1,0 +1,28 @@
+T1	disease 59 95	lésions aphteuses orales récurrentes
+T2	disease 102 123	troubles de la vision
+T3	disease 117 143	vision (perte progressive)
+T4	disease 164 239	lésions ulcératives douloureuses dans la région génitale (pénis et scrotum)
+T5	disease 417 451	maladie sexuellement transmissible
+T6	disease 570 577	lésions
+T7	disease 739 754	lésion tumorale
+T8	disease 817 842	perte totale de la vision
+T9	disease 974 998	Aphtose orale récurrente
+T10	disease 1011 1017	uvéite
+T11	disease 1019 1037	perte de la vision
+T12	disease 1042 1058	Ulcères génitaux
+T13	disease 1282 1316	pustule sur une base érythémateuse
+T14	disease 1372 1389	maladie de Behçet
+#1	SNOMED T2	95677002
+#2	SNOMED T5	8098009
+#3	SNOMED T9	723177002
+#4	SNOMED T10	128473001
+#5	SNOMED T14	41225007
+#6	SNOMED T1	398870000
+#7	SNOMED T4	95589007
+#8	SNOMED T6	157670007
+#9	SNOMED T7	55342001
+#10	SNOMED T12	724386005
+#11	SNOMED T3	105597003
+#12	SNOMED T8	193699007
+#13	SNOMED T11	267631003
+#14	SNOMED T13	271760008

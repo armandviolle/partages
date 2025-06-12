@@ -1,0 +1,14 @@
+T1	disease 256 294	lésions osseuses lytiques généralisées
+T2	disease 368 387	néoplasie viscérale
+T3	disease 703 712	néoplasme
+T4	disease 1574 1632	métastase osseuse d'un carcinome médullaire de la thyroïde
+T5	disease 2129 2152	pathologie thyroïdienne
+T6	disease 2552 2571	métastases osseuses
+T7	disease 2594 2616	métastases pulmonaires
+#1	SNOMED T5	14304000
+#2	SNOMED T2	372287009
+#3	SNOMED T6	94222008
+#4	SNOMED T7	94391008
+#5	SNOMED T4	424887002
+#6	SNOMED T3	55342001
+#7	SNOMED T1	203522001

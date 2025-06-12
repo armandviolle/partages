@@ -1,0 +1,42 @@
+T1	morphology-onco 409 415	tumeur
+T2	morphology-onco 549 555	tumeur
+T3	morphology-onco 732 769	adénocarcinome modérément différencié
+T4	morphology-onco 964 970	tumeur
+T5	morphology-onco 1143 1162	carcinome canalaire
+T6	morphology-onco 2561 2608	adénocarcinome canalaire modérément différencié
+T7	morphology-onco 2744 2800	Infiltration du péritoine pariétal par un adénocarcinome
+T8	morphology-onco 2965 3000	nodulaires présentes dans le poumon
+T9	morphology-onco 3021 3030	métastase
+T10	morphology-onco 3245 3289	cancer du pancréas avec extension abdominale
+T11	morphology-onco 3340 3359	atteinte pulmonaire
+T12	morphology-onco 3373 3407	Métastases pulmonaires d'un cancer
+T13	morphology-onco 3425 3445	extension abdominale
+T14	morphology-onco 3640 3650	métastases
+#1	ICD-O-3.1 T3	8140/32
+#2	ICD-O-3.1 T11	8000/6
+#3	ICD-O-3.1 T5	8500/3
+#4	ICD-O-3.1 T9	8000/6
+#5	ICD-O-3.1 T14	8000/6
+#6	ICD-O-3.1 T1	8000/1
+#7	ICD-O-3.1 T2	8000/1
+#8	ICD-O-3.1 T4	8000/1
+#9	ICD-O-3.1 T6	8500/32
+#10	ICD-O-3.1 T8	8000/6
+#11	ICD-O-3.1 T10	8000/6
+#12	ICD-O-3.1 T7	8140/6
+#13	ICD-O-3.1 T12	8000/6
+#14	ICD-O-3.1 T13	8000/6
+#15	SNOMED T3	1187332001
+#16	SNOMED T11	14799000
+#17	SNOMED T5	58477004
+#18	SNOMED T9	14799000
+#19	SNOMED T14	14799000
+#20	SNOMED T1	86251006
+#21	SNOMED T2	86251006
+#22	SNOMED T4	86251006
+#23	SNOMED T6	58477004
+#24	SNOMED T8	14799000
+#25	SNOMED T10	14799000
+#26	SNOMED T7	4590003
+#27	SNOMED T12	14799000
+#28	SNOMED T13	14799000

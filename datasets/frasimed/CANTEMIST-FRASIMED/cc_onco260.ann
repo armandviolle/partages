@@ -1,0 +1,26 @@
+T1	morphology-onco 143 155	néoplasiques
+T2	morphology-onco 976 1010	lymphadénopathie supraclaviculaire
+T3	morphology-onco 1919 1929	métastases
+T4	morphology-onco 2152 2181	cancer du poumon microcytaire
+T5	morphology-onco 2411 2429	lésions hépatiques
+T6	morphology-onco 2537 2601	cancer du poumon à petites cellules avec extension de la maladie
+T7	morphology-onco 2627 2637	métastases
+T8	morphology-onco 4334 4344	métastases
+T9	morphology-onco 5042 5054	métastatique
+#1	ICD-O-3.1 T2	8000/6
+#2	ICD-O-3.1 T4	8041/3
+#3	ICD-O-3.1 T6	8041/6
+#4	ICD-O-3.1 T5	8000/6
+#5	ICD-O-3.1 T3	8000/6
+#6	ICD-O-3.1 T7	8000/6
+#7	ICD-O-3.1 T8	8000/6
+#8	ICD-O-3.1 T1	8000/1
+#9	ICD-O-3.1 T9	8000/6
+#10	SNOMED T2	14799000
+#11	SNOMED T4	11010461000119101
+#12	SNOMED T5	14799000
+#13	SNOMED T3	14799000
+#14	SNOMED T7	14799000
+#15	SNOMED T8	14799000
+#16	SNOMED T1	86251006
+#17	SNOMED T9	14799000

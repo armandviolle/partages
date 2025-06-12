@@ -1,0 +1,15 @@
+T1	morphology-onco 499 522	carcinome de haut grade
+T2	morphology-onco 879 899	implants péritonéaux
+T3	morphology-onco 926 934	tumorale
+T4	morphology-onco 1718 1769	carcinome séreux peu différencié de l'ovaire gauche
+T5	morphology-onco 2329 2369	progression tumorale au niveau hépatique
+#1	ICD-O-3.1 T2	8000/6
+#2	ICD-O-3.1 T5	8000/6
+#3	ICD-O-3.1 T3	8000/1
+#4	ICD-O-3.1 T1	8010/34
+#5	ICD-O-3.1 T4	8441/33
+#6	SNOMED T2	14799000
+#7	SNOMED T5	14799000
+#8	SNOMED T3	86251006
+#9	SNOMED T1	1187425009
+#10	SNOMED T4	90725004

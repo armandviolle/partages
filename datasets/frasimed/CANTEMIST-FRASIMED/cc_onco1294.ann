@@ -1,0 +1,27 @@
+T1	morphology-onco 115 134	carcinome lobulaire
+T2	morphology-onco 435 474	adénocarcinome endométrioïde de grade 3
+T3	morphology-onco 1287 1296	métastase
+T4	morphology-onco 1627 1635	tumorale
+T5	morphology-onco 2054 2063	Métastase
+T6	morphology-onco 2129 2148	carcinome lobulaire
+T7	morphology-onco 2162 2176	adénocarcinome
+T8	morphology-onco 2220 2230	métastases
+T9	morphology-onco 2631 2652	lésion péripapillaire
+#1	ICD-O-3.1 T7	8140/3
+#2	ICD-O-3.1 T1	8520/3
+#3	ICD-O-3.1 T6	8520/3
+#4	ICD-O-3.1 T3	8000/6
+#5	ICD-O-3.1 T5	8000/6
+#6	ICD-O-3.1 T8	8000/6
+#7	ICD-O-3.1 T4	8000/1
+#8	ICD-O-3.1 T2	8380/33
+#9	ICD-O-3.1 T9	8000/6
+#10	SNOMED T7	1187332001
+#11	SNOMED T1	278054005
+#12	SNOMED T6	278054005
+#13	SNOMED T3	14799000
+#14	SNOMED T5	14799000
+#15	SNOMED T8	14799000
+#16	SNOMED T4	86251006
+#17	SNOMED T2	30289006
+#18	SNOMED T9	14799000

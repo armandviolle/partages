@@ -1,0 +1,32 @@
+T1	disease 110 128	cholédocholithiase
+T2	disease 454 483	cholédocholithiase résiduelle
+T3	disease 855 873	hyperbilirubinémie
+T4	disease 1214 1246	lésions d'occupation de l'espace
+T5	disease 1260 1276	abcès hépatiques
+T6	disease 1391 1439	lésions multiples dans les deux lobes hépatiques
+T7	disease 1713 1729	abcès hépatiques
+T8	disease 1758 1796	dilatation du canal biliaire principal
+T9	disease 2333 2351	lésions hépatiques
+T10	disease 2546 2564	cholédocholithiase
+T11	disease 2617 2636	microcalcifications
+T12	disease 2939 2945	lésion
+T13	disease 3357 3420	pseudo-tumeur inflammatoire du foie de type lymphoplasmocytaire
+T14	disease 3446 3478	maladie systémique liée aux IgG4
+T16	disease 3494 3520	dommages au canal biliaire
+T17	disease 3718 3730	surinfection
+#1	SNOMED T17	40733004
+#2	SNOMED T5	27916005
+#3	SNOMED T1	307132003
+#4	SNOMED T6	235856003
+#5	SNOMED T2	307132003
+#6	SNOMED T7	27916005
+#7	SNOMED T9	235856003
+#8	SNOMED T10	307132003
+#9	SNOMED T11	66058000
+#10	SNOMED T13	717329009
+#11	SNOMED T14	10743271000119103
+#12	SNOMED T4	56002005
+#13	SNOMED T12	417163006
+#15	SNOMED T8	123608004
+#16	SNOMED T16	300339003
+#17	SNOMED T3	14783006

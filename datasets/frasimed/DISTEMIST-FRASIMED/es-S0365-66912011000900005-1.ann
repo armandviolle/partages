@@ -1,0 +1,24 @@
+T1	disease 125 134	nystagmus
+T2	disease 256 264	glaucome
+T3	disease 338 359	syndactylie des mains
+T4	disease 399 412	micro-cornées
+T5	disease 447 467	nystagmus horizontal
+T6	disease 613 636	pyramide nasale étroite
+T7	disease 646 662	narines étroites
+T8	disease 670 689	ailes nasales fines
+T9	disease 695 714	micrognathie légère
+T10	disease 722 782	syndactylie des quatrième et cinquième doigts des deux mains
+T11	disease 932 987	œdème épithélial et une opacité cornéenne superficielle
+T12	disease 1338 1364	yeux, des cloques diffuses
+#1	SNOMED T2	23986001
+#2	SNOMED T4	26098002
+#3	SNOMED T9	32958008
+#4	SNOMED T10	715725001
+#5	SNOMED T11	373428006+72494008
+#6	SNOMED T3	34048007
+#7	SNOMED T12	11131000119108
+#8	SNOMED T5	81756001
+#9	SNOMED T1	307699005
+#10	SNOMED T6	249322008
+#11	SNOMED T7	249339005
+#12	SNOMED T8	128274005

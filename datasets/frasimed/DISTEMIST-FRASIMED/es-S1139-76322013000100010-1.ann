@@ -1,0 +1,12 @@
+T1	disease 152 194	adénopathies sous-maxillaires douloureuses
+T2	disease 288 398	exanthème micropapuleux en relief en " chair de poule " affectant le tronc et les plis inguinaux et axillaires
+T3	disease 501 511	scarlatine
+T4	disease 777 786	exanthème
+T5	disease 835 845	scarlatine
+T6	disease 1232 1248	éruption cutanée
+#1	SNOMED T1	127085002
+#2	SNOMED T2	271807003
+#3	SNOMED T3	30242009
+#4	SNOMED T5	30242009
+#5	SNOMED T4	271807003
+#6	SNOMED T6	271807003

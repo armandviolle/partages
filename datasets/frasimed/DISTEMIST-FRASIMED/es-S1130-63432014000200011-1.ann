@@ -1,0 +1,24 @@
+T1	disease 56 58	SS
+T2	disease 56 122	SS de stade III-B/IV-A1 (T4N0M0) avec une atteinte cutanée étendue
+T3	disease 179 185	fumeur
+T4	disease 213 236	diabète sucré de type 2
+T5	disease 238 250	hypertension
+T6	disease 252 276	fibrillation auriculaire
+T7	disease 280 314	hyperplasie bénigne de la prostate
+T8	disease 365 376	lichen plan
+T9	disease 560 562	SS
+T10	disease 897 905	insomnie
+T11	disease 912 922	dépression
+T12	disease 3297 3317	lésions vésiculaires
+#1	SNOMED T8	4776004
+#2	SNOMED T2	255101006
+#3	SNOMED T12	275871006
+#4	SNOMED T10	193462001
+#5	SNOMED T11	394924000
+#6	SNOMED T3	77176002
+#7	SNOMED T4	44054006
+#8	SNOMED T5	38341003
+#9	SNOMED T6	49436004
+#10	SNOMED T7	266569009
+#11	SNOMED T9	118611004
+#12	SNOMED T1	118611004

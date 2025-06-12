@@ -1,0 +1,149 @@
+T1	morphology-onco 64 73	néoplasme
+T2	morphology-onco 241 249	mélanome
+T3	morphology-onco 1636 1646	métastases
+T4	morphology-onco 1683 1692	néoplasie
+T5	morphology-onco 3466 3495	tumeur maligne indifférenciée
+T6	morphology-onco 3466 3531	tumeur maligne indifférenciée, avec un certain schéma épithéloïde
+T7	morphology-onco 3571 3575	GIST
+T8	morphology-onco 3591 3599	lymphome
+T9	morphology-onco 3601 3638	carcinome microcytaire et épidermoïde
+T10	morphology-onco 3686 3707	sarcome indifférencié
+T11	morphology-onco 3686 3717	sarcome indifférencié (synovial
+T12	morphology-onco 3719 3724	Ewing
+T13	morphology-onco 3743 3766	carcinome indifférencié
+T14	morphology-onco 3743 3793	carcinome indifférencié avec un motif sarcomatoïde
+T15	morphology-onco 3892 3908	sarcome synovial
+T16	morphology-onco 3912 3917	Ewing
+T17	morphology-onco 4094 4101	maligne
+T18	morphology-onco 4632 4646	tumeur maligne
+T19	morphology-onco 4902 4922	lymphome anaplasique
+T20	morphology-onco 4957 4982	néoplasmes indifférenciés
+T21	morphology-onco 5006 5016	carcinomes
+T22	morphology-onco 5127 5152	leucémies granulocytaires
+T23	morphology-onco 5173 5191	cellules tumorales
+T24	morphology-onco 5264 5271	sarcome
+T25	morphology-onco 5278 5286	mélanome
+T26	morphology-onco 5328 5336	sarcomes
+T27	morphology-onco 5368 5372	GIST
+T28	morphology-onco 5640 5648	mélanome
+T29	morphology-onco 5770 5778	mélanome
+T30	morphology-onco 5824 5846	tumeurs mélanomateuses
+T31	morphology-onco 6076 6092	sarcome synovial
+T32	morphology-onco 6109 6114	Ewing
+T33	morphology-onco 6176 6184	mélanome
+T34	morphology-onco 6250 6256	tumeur
+T35	morphology-onco 6660 6668	tumorale
+T36	morphology-onco 6789 6796	tumoral
+T37	morphology-onco 7121 7127	tumeur
+T38	morphology-onco 7257 7263	tumeur
+T39	morphology-onco 7688 7694	tumeur
+T40	morphology-onco 7824 7832	mélanome
+T41	morphology-onco 8487 8493	tumeur
+T42	morphology-onco 8655 8700	lésions hépatiques solides hypodenses focales
+T43	morphology-onco 8777 8794	maladie hépatique
+T44	morphology-onco 8831 8848	maladie hépatique
+T45	morphology-onco 11097 11103	tumeur
+T46	morphology-onco 11370 11380	métastases
+T47	morphology-onco 11417 11426	néoplasie
+T48	morphology-onco 11705 11711	tumeur
+T49	morphology-onco 12434 12442	tumorale
+T50	morphology-onco 12490 12565	Mélanome primaire de la muqueuse de l'œsophage, maladie avancée (métastases
+#1	ICD-O-3.1 T16	9260/3
+#2	ICD-O-3.1 T12	9260/3
+#3	ICD-O-3.1 T32	9260/3
+#4	ICD-O-3.1 T7	8936/3
+#5	ICD-O-3.1 T27	8936/3
+#6	ICD-O-3.1 T25	8720/3
+#7	ICD-O-3.1 T9	8070/3
+#8	ICD-O-3.1 T13	8020/3
+#9	ICD-O-3.1 T21	8010/3
+#10	ICD-O-3.1 T23	8001/1
+#11	ICD-O-3.1 T42	8000/6
+#12	ICD-O-3.1 T8	9590/3
+#13	ICD-O-3.1 T17	8000/3
+#14	ICD-O-3.1 T2	8720/3
+#15	ICD-O-3.1 T28	8720/3
+#16	ICD-O-3.1 T33	8720/3
+#17	ICD-O-3.1 T40	8720/3
+#18	ICD-O-3.1 T3	8000/6
+#19	ICD-O-3.1 T46	8000/6
+#20	ICD-O-3.1 T1	8000/1
+#21	ICD-O-3.1 T4	8000/1
+#22	ICD-O-3.1 T47	8000/1
+#23	ICD-O-3.1 T24	8800/3
+#24	ICD-O-3.1 T15	9040/3
+#25	ICD-O-3.1 T31	9040/3
+#26	ICD-O-3.1 T26	8800/3
+#27	ICD-O-3.1 T38	8000/1
+#28	ICD-O-3.1 T39	8000/1
+#29	ICD-O-3.1 T18	8000/3
+#30	ICD-O-3.1 T34	8000/1
+#31	ICD-O-3.1 T37	8000/1
+#32	ICD-O-3.1 T41	8000/1
+#33	ICD-O-3.1 T45	8000/1
+#34	ICD-O-3.1 T48	8000/1
+#35	ICD-O-3.1 T35	8000/1
+#36	ICD-O-3.1 T36	8000/1
+#37	ICD-O-3.1 T49	8000/1
+#38	ICD-O-3.1 T5	8000/34
+#39	ICD-O-3.1 T6	8011/34
+#40	ICD-O-3.1 T10	8805/3
+#41	ICD-O-3.1 T11	9040/34
+#42	ICD-O-3.1 T14	8033/3
+#43	ICD-O-3.1 T19	9590/34
+#44	ICD-O-3.1 T20	8000/34
+#45	ICD-O-3.1 T22	9860/3
+#46	ICD-O-3.1 T29	8720/3
+#47	ICD-O-3.1 T30	8720/1
+#48	ICD-O-3.1 T43	8000/6
+#49	ICD-O-3.1 T44	8000/6
+#50	ICD-O-3.1 T50	8720/6
+#51	SNOMED T16	76909002
+#52	SNOMED T12	76909002
+#53	SNOMED T32	76909002
+#54	SNOMED T7	128756002
+#55	SNOMED T27	128756002
+#56	SNOMED T25	1162635006
+#57	SNOMED T9	1162767002
+#58	SNOMED T13	38549000
+#59	SNOMED T21	1187425009
+#60	SNOMED T23	39577004
+#61	SNOMED T42	14799000
+#62	SNOMED T8	1163043007
+#63	SNOMED T17	1240414004
+#64	SNOMED T2	1162635006
+#65	SNOMED T28	1162635006
+#66	SNOMED T33	1162635006
+#67	SNOMED T40	1162635006
+#68	SNOMED T3	14799000
+#69	SNOMED T46	14799000
+#70	SNOMED T1	86251006
+#71	SNOMED T4	86251006
+#72	SNOMED T47	86251006
+#73	SNOMED T24	1187396000
+#74	SNOMED T15	302851001
+#75	SNOMED T31	302851001
+#76	SNOMED T26	1187396000
+#77	SNOMED T38	86251006
+#78	SNOMED T39	86251006
+#79	SNOMED T18	1240414004
+#80	SNOMED T34	86251006
+#81	SNOMED T37	86251006
+#82	SNOMED T41	86251006
+#83	SNOMED T45	86251006
+#84	SNOMED T48	86251006
+#85	SNOMED T35	86251006
+#86	SNOMED T36	86251006
+#87	SNOMED T49	86251006
+#88	SNOMED T5	1240414004
+#89	SNOMED T6	71298006
+#90	SNOMED T10	128734000
+#91	SNOMED T11	302851001
+#92	SNOMED T14	23109009
+#93	SNOMED T19	1163043007
+#94	SNOMED T20	1240414004
+#95	SNOMED T22	1163439000
+#96	SNOMED T29	1162635006
+#97	SNOMED T43	14799000
+#98	SNOMED T44	14799000
+#99	SNOMED T50	372158004

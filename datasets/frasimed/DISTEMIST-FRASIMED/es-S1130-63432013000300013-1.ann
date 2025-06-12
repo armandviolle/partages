@@ -1,0 +1,14 @@
+T1	disease 43 49	fumeur
+T2	disease 102 140	hépatite C chronique de génotype 1a/1c
+T3	disease 194 201	fibrose
+T4	disease 327 337	hépatite C
+T5	disease 896 907	hémorroïdes
+T6	disease 948 955	anxiété
+T7	disease 1990 2007	pancréatite aiguë
+#1	SNOMED T1	77176002
+#2	SNOMED T2	768289009
+#3	SNOMED T7	197456007
+#4	SNOMED T3	263756000
+#5	SNOMED T5	70153002
+#6	SNOMED T4	50711007
+#7	SNOMED T6	197480006

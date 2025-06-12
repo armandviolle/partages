@@ -1,0 +1,8 @@
+T1	disease 80 101	adénopathie axillaire
+T2	disease 158 179	éraflures sur la main
+T3	disease 440 457	lymphadénopathies
+T4	disease 462 489	maladie des griffes du chat
+#1	SNOMED T1	127189005
+#2	SNOMED T2	283083003
+#3	SNOMED T3	30746006
+#4	SNOMED T4	79974007

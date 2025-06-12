@@ -1,0 +1,4 @@
+T1	disease 254 283	rhinoconjonctivite allergique
+T2	disease 396 416	allergie saisonnière
+#1	SNOMED T1	473460002
+#2	SNOMED T2	444316004

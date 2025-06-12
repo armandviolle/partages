@@ -1,0 +1,48 @@
+T1	morphology-onco 395 404	néoplasie
+T2	morphology-onco 905 932	adénocarcinome de Gleason 7
+T3	morphology-onco 984 1011	adénocarcinome de Gleason 7
+T4	morphology-onco 1096 1105	néoplasme
+T5	morphology-onco 1132 1171	T3bN0 avec un bilan d'extension négatif
+T6	morphology-onco 1855 1882	adénocarcinome de Gleason 8
+T7	morphology-onco 1934 1961	adénocarcinome de Gleason 8
+T8	morphology-onco 2126 2144	maladie à distance
+T9	morphology-onco 2325 2343	maladie à distance
+T10	morphology-onco 2707 2717	métastases
+T11	morphology-onco 3907 3950	lésion invasive à la base de l'os occipital
+T12	morphology-onco 3978 3987	métastase
+T13	morphology-onco 4221 4237	lésions osseuses
+T14	morphology-onco 4383 4417	cancer de la prostate métastatique
+T15	morphology-onco 4445 4449	CPMR
+T16	morphology-onco 4460 4479	progression osseuse
+#1	ICD-O-3.1 T8	8000/6
+#2	ICD-O-3.1 T9	8000/6
+#3	ICD-O-3.1 T10	8000/6
+#4	ICD-O-3.1 T12	8000/6
+#5	ICD-O-3.1 T1	8000/1
+#6	ICD-O-3.1 T4	8000/1
+#7	ICD-O-3.1 T2	8140/32
+#8	ICD-O-3.1 T3	8140/32
+#9	ICD-O-3.1 T5	8000/6
+#10	ICD-O-3.1 T7	8140/33
+#11	ICD-O-3.1 T6	8140/33
+#12	ICD-O-3.1 T14	8000/6
+#13	ICD-O-3.1 T15	8000/6
+#14	ICD-O-3.1 T13	8000/6
+#15	ICD-O-3.1 T16	8000/6
+#16	ICD-O-3.1 T11	8000/6
+#17	SNOMED T8	14799000
+#18	SNOMED T9	14799000
+#19	SNOMED T10	14799000
+#20	SNOMED T12	14799000
+#21	SNOMED T1	86251006
+#22	SNOMED T4	86251006
+#23	SNOMED T2	1187332001
+#24	SNOMED T3	1187332001
+#25	SNOMED T5	14799000
+#26	SNOMED T7	1187332001
+#27	SNOMED T6	1187332001
+#28	SNOMED T14	14799000
+#29	SNOMED T15	14799000
+#30	SNOMED T13	14799000
+#31	SNOMED T16	14799000
+#32	SNOMED T11	14799000

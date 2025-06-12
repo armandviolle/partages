@@ -1,0 +1,30 @@
+T1	morphology-onco 777 786	carcinome
+T2	morphology-onco 805 823	maladie à distance
+T3	morphology-onco 882 888	T1N0M0
+T4	morphology-onco 1012 1046	carcinome rénal à cellules claires
+T5	morphology-onco 1012 1106	carcinome rénal à cellules claires, stade pathologique pT1b, grade nucléaire de Fuhrman III/IV
+T6	morphology-onco 1271 1279	tumorale
+T7	morphology-onco 1365 1384	nodules pulmonaires
+T8	morphology-onco 1451 1485	carcinome rénal à cellules claires
+T9	morphology-onco 2157 2201	maladie pulmonaire et hépatique radiologique
+T10	morphology-onco 2831 2863	progression au niveau pulmonaire
+#1	ICD-O-3.1 T3	8000/6
+#2	ICD-O-3.1 T1	8010/3
+#3	ICD-O-3.1 T4	8310/3
+#4	ICD-O-3.1 T8	8310/3
+#5	ICD-O-3.1 T2	8000/6
+#6	ICD-O-3.1 T7	8000/6
+#7	ICD-O-3.1 T6	8000/1
+#8	ICD-O-3.1 T5	8312/34
+#9	ICD-O-3.1 T10	8000/6
+#10	ICD-O-3.1 T9	8000/6
+#11	SNOMED T3	14799000
+#12	SNOMED T1	1187425009
+#13	SNOMED T4	30546008
+#14	SNOMED T8	30546008
+#15	SNOMED T2	14799000
+#16	SNOMED T7	14799000
+#17	SNOMED T6	86251006
+#18	SNOMED T5	41607009
+#19	SNOMED T10	14799000
+#20	SNOMED T9	14799000

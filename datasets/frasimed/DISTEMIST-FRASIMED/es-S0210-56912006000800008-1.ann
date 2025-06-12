@@ -1,0 +1,24 @@
+T1	disease 20 26	buveur
+T2	disease 341 359	ictère muco-cutané
+T3	disease 371 386	encéphalopathie
+T4	disease 405 411	ascite
+T5	disease 1081 1094	splénomégalie
+T6	disease 1100 1106	ascite
+T7	disease 1239 1294	hépatite alcoolique aiguë sur maladie chronique du foie
+T8	disease 1269 1294	maladie chronique du foie
+T9	disease 1579 1604	encéphalopathie hépatique
+T10	disease 1625 1650	insuffisance rénale aiguë
+T11	disease 1670 1690	syndrome hépatorénal
+T12	disease 2086 2089	SHR
+#1	SNOMED T1	7200002
+#2	SNOMED T7	307757001
+#3	SNOMED T8	328383001
+#4	SNOMED T9	13920009
+#5	SNOMED T2	18165001
+#6	SNOMED T10	14669001
+#7	SNOMED T3	81308009
+#8	SNOMED T4	389026000
+#9	SNOMED T11	51292008
+#10	SNOMED T6	389026000
+#11	SNOMED T12	51292008
+#12	SNOMED T5	16294009

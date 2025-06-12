@@ -1,0 +1,47 @@
+T1	morphology-onco 612 626	adénocarcinome
+T2	morphology-onco 642 649	cTxNxM0
+T3	morphology-onco 878 886	tumorale
+T4	morphology-onco 975 1013	adénocarcinome moyennement différencié
+T5	morphology-onco 1015 1024	ypT3N0/M0
+T6	morphology-onco 1230 1246	lésion hépatique
+T7	morphology-onco 1703 1770	adénocarcinome intestinal compatible avec une atteinte métastatique
+T8	morphology-onco 2517 2531	adénocarcinome
+T9	morphology-onco 3032 3041	métastase
+T10	morphology-onco 3399 3411	métastatique
+T11	morphology-onco 3445 3463	cholangiocarcinome
+T12	morphology-onco 3849 3857	tumorale
+T13	morphology-onco 4495 4507	métastatique
+T14	morphology-onco 4624 4646	récidive paracardiaque
+T15	morphology-onco 4711 4725	adénocarcinome
+T16	morphology-onco 5265 5290	progression paracardiaque
+#1	ICD-O-3.1 T1	8140/3
+#2	ICD-O-3.1 T8	8140/3
+#3	ICD-O-3.1 T15	8140/3
+#4	ICD-O-3.1 T11	8160/3
+#5	ICD-O-3.1 T10	8000/6
+#6	ICD-O-3.1 T13	8000/6
+#7	ICD-O-3.1 T9	8000/6
+#8	ICD-O-3.1 T3	8000/1
+#9	ICD-O-3.1 T12	8000/1
+#10	ICD-O-3.1 T2	8000/6
+#11	ICD-O-3.1 T4	8140/32
+#12	ICD-O-3.1 T5	8000/6
+#13	ICD-O-3.1 T7	8144/6
+#14	ICD-O-3.1 T6	8000/6
+#15	ICD-O-3.1 T14	8000/6
+#16	ICD-O-3.1 T16	8000/6
+#17	SNOMED T1	1187332001
+#18	SNOMED T8	1187332001
+#19	SNOMED T15	1187332001
+#20	SNOMED T11	312104005
+#21	SNOMED T10	14799000
+#22	SNOMED T13	14799000
+#23	SNOMED T9	14799000
+#24	SNOMED T3	86251006
+#25	SNOMED T12	86251006
+#26	SNOMED T2	14799000
+#27	SNOMED T4	1187332001
+#28	SNOMED T5	14799000
+#29	SNOMED T6	14799000
+#30	SNOMED T14	14799000
+#31	SNOMED T16	14799000

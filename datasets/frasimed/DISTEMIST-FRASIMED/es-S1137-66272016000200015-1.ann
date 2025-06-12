@@ -1,0 +1,18 @@
+T1	disease 53 70	anémie ferriprive
+T2	disease 719 725	méléna
+T3	disease 947 964	selles méléniques
+T4	disease 1106 1135	hémorragie gastro-intestinale
+T5	disease 1445 1480	hémorragie gastro-intestinale haute
+T6	disease 1683 1734	lésion gastrique d'origine sous-muqueuse et ulcérée
+T7	disease 1891 1911	maladie métastatique
+T8	disease 1978 2012	origine sous-muqueuse de la lésion
+T9	disease 2014 2028	GIST gastrique
+#1	SNOMED T1	87522002
+#2	SNOMED T2	2901004
+#3	SNOMED T3	2901004
+#4	SNOMED T4	74474003
+#5	SNOMED T5	37372002
+#6	SNOMED T6	397825006
+#7	SNOMED T7	128462008
+#8	SNOMED T8	276320009
+#9	SNOMED T9	420120006

@@ -1,0 +1,46 @@
+T1	morphology-onco 162 192	carcinome canalaire infiltrant
+T2	morphology-onco 510 522	ostéosarcome
+T3	morphology-onco 570 588	lésions à distance
+T4	morphology-onco 934 973	ostéosarcome ostéoblastique de grade IV
+T5	morphology-onco 1029 1038	pT1pN0cM0
+T6	morphology-onco 1569 1601	progression au niveau pulmonaire
+T7	morphology-onco 3463 3473	métastases
+T8	morphology-onco 3761 3791	Carcinome canalaire infiltrant
+T9	morphology-onco 3875 3945	Ostéoïde ostéoblastique ostéosarcome avec rechute locale et pulmonaire
+T10	morphology-onco 3996 4039	Lésion calcifiée occupant l'espace cérébral
+T11	morphology-onco 4096 4126	carcinome canalaire infiltrant
+T12	morphology-onco 4143 4155	ostéosarcome
+T13	morphology-onco 4336 4346	néoplasmes
+T14	morphology-onco 4407 4423	lésion cérébrale
+T15	morphology-onco 4462 4486	métastase d'ostéosarcome
+T16	morphology-onco 4564 4572	tumoraux
+#1	ICD-O-3.1 T8	8500/3
+#2	ICD-O-3.1 T1	8500/3
+#3	ICD-O-3.1 T11	8500/3
+#4	ICD-O-3.1 T7	8000/6
+#5	ICD-O-3.1 T13	8000/1
+#6	ICD-O-3.1 T16	8000/1
+#7	ICD-O-3.1 T2	9180/3
+#8	ICD-O-3.1 T3	8000/6
+#9	ICD-O-3.1 T4	9180/34
+#10	ICD-O-3.1 T5	8000/6
+#11	ICD-O-3.1 T9	9180/6
+#12	ICD-O-3.1 T12	9180/3
+#13	ICD-O-3.1 T15	9180/6
+#14	ICD-O-3.1 T14	8000/6
+#15	ICD-O-3.1 T6	8000/6
+#16	ICD-O-3.1 T10	8000/6
+#17	SNOMED T8	58477004
+#18	SNOMED T1	58477004
+#19	SNOMED T11	58477004
+#20	SNOMED T7	14799000
+#21	SNOMED T13	86251006
+#22	SNOMED T16	86251006
+#23	SNOMED T2	1163405004
+#24	SNOMED T3	14799000
+#25	SNOMED T4	1163405004
+#26	SNOMED T5	14799000
+#27	SNOMED T12	1163405004
+#28	SNOMED T14	14799000
+#29	SNOMED T6	14799000
+#30	SNOMED T10	14799000

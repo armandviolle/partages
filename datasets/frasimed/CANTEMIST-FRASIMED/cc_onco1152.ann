@@ -1,0 +1,15 @@
+T1	morphology-onco 212 254	adénocarcinome cæcal à cellules annulaires
+T2	morphology-onco 255 262	T4aN2M0
+T3	morphology-onco 4217 4223	tumeur
+T4	morphology-onco 5805 5831	métastase d'adénocarcinome
+T5	morphology-onco 6021 6050	métastatique de son néoplasme
+#1	ICD-O-3.1 T1	8490/3
+#2	ICD-O-3.1 T4	8140/6
+#3	ICD-O-3.1 T3	8000/1
+#4	ICD-O-3.1 T2	8000/6
+#5	ICD-O-3.1 T5	8000/6
+#6	SNOMED T1	87737001
+#7	SNOMED T4	4590003
+#8	SNOMED T3	86251006
+#9	SNOMED T2	14799000
+#10	SNOMED T5	14799000

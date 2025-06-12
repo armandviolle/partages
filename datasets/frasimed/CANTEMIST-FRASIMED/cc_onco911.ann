@@ -1,0 +1,57 @@
+T1	morphology-onco 58 76	cholangiocarcinome
+T2	morphology-onco 93 99	cancer
+T3	morphology-onco 457 496	adénocarcinome gastrique de type diffus
+T4	morphology-onco 457 542	adénocarcinome gastrique de type diffus antral, avec des cellules en anneau de signet
+T5	morphology-onco 563 565	M0
+T6	morphology-onco 864 895	adénocarcinome gastrique diffus
+T7	morphology-onco 864 933	adénocarcinome gastrique diffus avec des cellules en anneau de signet
+T8	morphology-onco 934 943	etpT3N0M0
+T9	morphology-onco 1428 1436	ypT4N0M0
+T10	morphology-onco 1609 1625	masse annexielle
+T11	morphology-onco 1760 1809	récidive ovarienne bilatérale d'un adénocarcinome
+T12	morphology-onco 2948 2962	leucémie aiguë
+T13	morphology-onco 5934 5944	métastases
+T14	morphology-onco 6014 6124	infiltration massive de la moelle osseuse par un adénocarcinome gastrique avec des cellules en anneau de Signe
+T15	morphology-onco 6282 6288	cancer
+T16	morphology-onco 6613 6661	progression des ganglions lymphatiques et des os
+T17	morphology-onco 6742 6775	infiltration de la moelle osseuse
+T18	morphology-onco 6867 6976	infiltration diffuse massive de la moelle osseuse par un adénocarcinome avec des cellules en anneau de signet
+T19	morphology-onco 7183 7277	infiltration massive de la moelle osseuse par un adénocarcinome à cellules en anneau de signet
+#1	ICD-O-3.1 T1	8160/3
+#2	ICD-O-3.1 T2	8000/3
+#3	ICD-O-3.1 T15	8000/3
+#4	ICD-O-3.1 T17	8000/6
+#5	ICD-O-3.1 T12	9801/3
+#6	ICD-O-3.1 T10	8000/6
+#7	ICD-O-3.1 T13	8000/6
+#8	ICD-O-3.1 T5	8000/6
+#9	ICD-O-3.1 T3	8145/3
+#10	ICD-O-3.1 T4	8490/3
+#11	ICD-O-3.1 T7	8490/3
+#12	ICD-O-3.1 T6	8145/3
+#13	ICD-O-3.1 T8	8000/6
+#14	ICD-O-3.1 T9	8000/6
+#15	ICD-O-3.1 T11	8140/6
+#16	ICD-O-3.1 T14	8490/6
+#17	ICD-O-3.1 T16	8000/6
+#18	ICD-O-3.1 T18	8490/6
+#19	ICD-O-3.1 T19	8490/6
+#20	SNOMED T1	312104005
+#21	SNOMED T2	1240414004
+#22	SNOMED T15	1240414004
+#23	SNOMED T17	14799000
+#24	SNOMED T12	24072005
+#25	SNOMED T10	14799000
+#26	SNOMED T13	14799000
+#27	SNOMED T5	14799000
+#28	SNOMED T3	24505004
+#29	SNOMED T4	87737001
+#30	SNOMED T7	87737001
+#31	SNOMED T6	24505004
+#32	SNOMED T8	14799000
+#33	SNOMED T9	14799000
+#34	SNOMED T11	4590003
+#35	SNOMED T14	4305004
+#36	SNOMED T16	14799000
+#37	SNOMED T18	4305004
+#38	SNOMED T19	4305004

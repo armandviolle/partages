@@ -1,0 +1,18 @@
+T1	disease 114 121	obésité
+T2	disease 170 198	lésion de la moelle épinière
+T3	disease 210 229	accident du travail
+T4	disease 244 293	fracture vertébrale et paraplégie incomplète à L1
+T5	disease 295 304	Il fumait
+T6	disease 354 377	hypertension artérielle
+T7	disease 456 476	hypertriglycéridémie
+T8	disease 1370 1413	complication dans la période postopératoire
+T9	disease 1746 1765	carence vitaminique
+#1	SNOMED T1	414916001
+#2	SNOMED T2	146251000146109
+#3	SNOMED T4	721494003+290411000119106
+#4	SNOMED T6	38341003
+#5	SNOMED T9	85670002
+#6	SNOMED T7	302870006
+#7	SNOMED T3	65339005
+#8	SNOMED T5	77176002
+#9	SNOMED T8	385486001

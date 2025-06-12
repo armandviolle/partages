@@ -1,0 +1,35 @@
+T1	morphology-onco 2040 2046	tumeur
+T2	morphology-onco 2062 2070	lymphome
+T3	morphology-onco 2078 2115	tumeurs stromales gastro-intestinales
+T4	morphology-onco 2117 2121	GIST
+T5	morphology-onco 2419 2453	tumeur stromale gastro-intestinale
+T6	morphology-onco 2556 2562	tumeur
+T7	morphology-onco 2678 2688	métastases
+T8	morphology-onco 2778 2818	tumeur solide, de lignée mésenchymateuse
+T9	morphology-onco 3182 3203	cellules néoplasiques
+T10	morphology-onco 3332 3353	cellules néoplasiques
+T11	morphology-onco 3499 3544	léiomyosarcome jéjunal non GIST de haut grade
+T12	morphology-onco 3526 3530	GIST
+#1	ICD-O-3.1 T4	8936/3
+#2	ICD-O-3.1 T5	8936/3
+#3	ICD-O-3.1 T12	8936/3
+#4	ICD-O-3.1 T9	8001/1
+#5	ICD-O-3.1 T10	8001/1
+#6	ICD-O-3.1 T2	9590/3
+#7	ICD-O-3.1 T7	8000/6
+#8	ICD-O-3.1 T1	8000/1
+#9	ICD-O-3.1 T6	8000/1
+#10	ICD-O-3.1 T3	8936/3
+#11	ICD-O-3.1 T8	8800/1
+#12	ICD-O-3.1 T11	8890/34
+#13	SNOMED T4	128756002
+#14	SNOMED T5	128756002
+#15	SNOMED T12	128756002
+#16	SNOMED T9	39577004
+#17	SNOMED T10	39577004
+#18	SNOMED T2	1163043007
+#19	SNOMED T7	14799000
+#20	SNOMED T1	86251006
+#21	SNOMED T6	86251006
+#22	SNOMED T3	128756002
+#23	SNOMED T11	1163022006

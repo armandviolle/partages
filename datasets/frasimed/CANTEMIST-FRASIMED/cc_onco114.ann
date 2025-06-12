@@ -1,0 +1,18 @@
+T1	morphology-onco 106 120	adénocarcinome
+T2	morphology-onco 250 268	maladie à distance
+T3	morphology-onco 590 641	adénocarcinome endométrioïde modérément différencié
+T4	morphology-onco 790 800	métastases
+T5	morphology-onco 2597 2614	cellules malignes
+T6	morphology-onco 2704 2718	Adénocarcinome
+#1	ICD-O-3.1 T6	8140/3
+#2	ICD-O-3.1 T1	8140/3
+#3	ICD-O-3.1 T5	8001/3
+#4	ICD-O-3.1 T2	8000/6
+#5	ICD-O-3.1 T4	8000/6
+#6	ICD-O-3.1 T3	8380/32
+#7	SNOMED T6	1187332001
+#8	SNOMED T1	1187332001
+#9	SNOMED T5	88400008
+#10	SNOMED T2	14799000
+#11	SNOMED T4	14799000
+#12	SNOMED T3	30289006

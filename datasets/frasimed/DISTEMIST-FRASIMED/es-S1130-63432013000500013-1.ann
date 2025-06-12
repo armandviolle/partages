@@ -1,0 +1,14 @@
+T1	disease 16 49	infecté par le VHC de génotype 1a
+T2	disease 16 91	infecté par le VHC de génotype 1a et le virus de l'immunodéficience humaine
+T3	disease 114 131	fibrose hépatique
+T4	disease 145 153	cirrhose
+T5	disease 386 389	CHC
+T6	disease 458 461	CHC
+T7	disease 1051 1054	CHC
+#1	SNOMED T1	50711007
+#2	SNOMED T3	62484002
+#3	SNOMED T4	19943007
+#4	SNOMED T5	128302006
+#5	SNOMED T6	128302006
+#6	SNOMED T7	128302006
+#7	SNOMED T2	50711007

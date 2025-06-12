@@ -1,0 +1,31 @@
+T1	morphology-onco 39 58	lymphome de Hodgkin
+T2	morphology-onco 214 220	tumeur
+T3	morphology-onco 794 807	paragangliome
+T4	morphology-onco 811 837	tumeur de la gaine neurale
+T5	morphology-onco 946 977	paragangliome extra-surrénalien
+T6	morphology-onco 1215 1273	Tumeur épithéloïde maligne des tissus mous périvasculaires
+T7	morphology-onco 1276 1282	PEComa
+T8	morphology-onco 1821 1829	tumorale
+T9	morphology-onco 2100 2120	Infiltration osseuse
+T10	morphology-onco 2365 2373	tumorale
+T11	morphology-onco 2618 2624	PECome
+#1	ICD-O-3.1 T9	8000/6
+#2	ICD-O-3.1 T7	8011/1/H
+#3	ICD-O-3.1 T11	8011/1/H
+#4	ICD-O-3.1 T3	8680/1
+#5	ICD-O-3.1 T2	8000/1
+#6	ICD-O-3.1 T8	8000/1
+#7	ICD-O-3.1 T10	8000/1
+#8	ICD-O-3.1 T1	9650/3
+#9	ICD-O-3.1 T4	8000/1/H
+#10	ICD-O-3.1 T5	8693/1
+#11	ICD-O-3.1 T6	8804/3/H
+#12	SNOMED T9	14799000
+#13	SNOMED T3	302833002
+#14	SNOMED T2	86251006
+#15	SNOMED T8	86251006
+#16	SNOMED T10	86251006
+#17	SNOMED T1	1163005009
+#18	SNOMED T4	86251006
+#19	SNOMED T5	51747000
+#20	SNOMED T6	59238007

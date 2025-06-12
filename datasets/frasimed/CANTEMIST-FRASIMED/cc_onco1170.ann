@@ -1,0 +1,36 @@
+T1	morphology-onco 683 704	carcinome épidermoïde
+T2	morphology-onco 1024 1052	adénopathie sus-claviculaire
+T3	morphology-onco 1889 1895	tumeur
+T4	morphology-onco 2804 2812	tumorale
+T5	morphology-onco 2940 2946	tumeur
+T6	morphology-onco 3015 3030	néoplasme malin
+T7	morphology-onco 3649 3658	néoplasie
+T8	morphology-onco 3778 3799	Carcinome épidermoïde
+T9	morphology-onco 4171 4192	carcinome épidermoïde
+T10	morphology-onco 4937 4945	tumorale
+T11	morphology-onco 5123 5130	tumoral
+T12	morphology-onco 5697 5706	carcinome
+#1	ICD-O-3.1 T8	8070/3
+#2	ICD-O-3.1 T2	8000/6
+#3	ICD-O-3.1 T12	8010/3
+#4	ICD-O-3.1 T1	8070/3
+#5	ICD-O-3.1 T9	8070/3
+#6	ICD-O-3.1 T7	8000/1
+#7	ICD-O-3.1 T6	8000/3
+#8	ICD-O-3.1 T3	8000/1
+#9	ICD-O-3.1 T5	8000/1
+#10	ICD-O-3.1 T4	8000/1
+#11	ICD-O-3.1 T10	8000/1
+#12	ICD-O-3.1 T11	8000/1
+#13	SNOMED T8	1162767002
+#14	SNOMED T2	14799000
+#15	SNOMED T12	1187425009
+#16	SNOMED T1	1162767002
+#17	SNOMED T9	1162767002
+#18	SNOMED T7	86251006
+#19	SNOMED T6	1240414004
+#20	SNOMED T3	86251006
+#21	SNOMED T5	86251006
+#22	SNOMED T4	86251006
+#23	SNOMED T10	86251006
+#24	SNOMED T11	86251006

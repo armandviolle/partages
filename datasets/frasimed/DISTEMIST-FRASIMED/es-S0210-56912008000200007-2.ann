@@ -1,0 +1,6 @@
+T1	disease 102 115	choc septique
+T2	disease 187 191	CIVD
+T3	disease 1526 1537	péritonites
+#1	SNOMED T1	76571007
+#2	SNOMED T2	67406007
+#3	SNOMED T3	48661000

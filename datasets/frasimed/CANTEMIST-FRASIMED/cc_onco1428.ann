@@ -1,0 +1,33 @@
+T1	morphology-onco 676 692	masse annexielle
+T2	morphology-onco 836 842	tumeur
+T3	morphology-onco 951 984	adénocarcinome de type intestinal
+T4	morphology-onco 1223 1240	cellules malignes
+T5	morphology-onco 1447 1464	cellules malignes
+T6	morphology-onco 1786 1806	implants péritonéaux
+T7	morphology-onco 1857 1902	adénocarcinome du haut rectum avec métastases
+T8	morphology-onco 1927 1935	pT3pN2M1
+T9	morphology-onco 2197 2219	progression pulmonaire
+T10	morphology-onco 2365 2387	progression pulmonaire
+T11	morphology-onco 3344 3377	progressions au niveau pulmonaire
+#1	ICD-O-3.1 T3	8144/3
+#2	ICD-O-3.1 T4	8001/3
+#3	ICD-O-3.1 T5	8001/3
+#4	ICD-O-3.1 T6	8000/6
+#5	ICD-O-3.1 T1	8000/6
+#6	ICD-O-3.1 T11	8000/6
+#7	ICD-O-3.1 T9	8000/6
+#8	ICD-O-3.1 T10	8000/6
+#9	ICD-O-3.1 T2	8000/1
+#10	ICD-O-3.1 T7	8140/6
+#11	ICD-O-3.1 T8	8000/6
+#12	SNOMED T3	25190001
+#13	SNOMED T4	88400008
+#14	SNOMED T5	88400008
+#15	SNOMED T6	14799000
+#16	SNOMED T1	14799000
+#17	SNOMED T11	14799000
+#18	SNOMED T9	14799000
+#19	SNOMED T10	14799000
+#20	SNOMED T2	86251006
+#21	SNOMED T7	4590003
+#22	SNOMED T8	14799000

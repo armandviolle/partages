@@ -1,0 +1,14 @@
+T1	disease 23 29	fumeur
+T2	disease 52 66	Cancer du sein
+T3	disease 100 102	M0
+T4	disease 193 239	progression métastatique du carcinome mammaire
+T5	disease 616 705	lésion ulcéreuse très douloureuse de 5 mm de diamètre sur le bord latéral de l'hémilangue
+T6	disease 732 781	molaire associée à la lésion de décubitus lingual
+T7	disease 1439 1454	lésion linguale
+#1	SNOMED T1	77176002
+#2	SNOMED T6	300246005
+#3	SNOMED T2	254837009
+#4	SNOMED T3	89474008
+#5	SNOMED T4	254838004
+#6	SNOMED T5	66123000
+#7	SNOMED T7	300246005

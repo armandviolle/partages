@@ -1,0 +1,108 @@
+T1	morphology-onco 631 637	cancer
+T2	morphology-onco 684 716	Carcinome mammaire indifférencié
+T3	morphology-onco 768 777	métastase
+T4	morphology-onco 903 957	infiltration dermique par un carcinome peu différencié
+T5	morphology-onco 1064 1088	métastase d'un carcinome
+T6	morphology-onco 1546 1576	Carcinome lobulaire infiltrant
+T7	morphology-onco 1578 1581	CLI
+T8	morphology-onco 1875 1884	malignité
+T9	morphology-onco 2040 2088	carcinome lobulaire infiltrant, bien différencié
+T10	morphology-onco 2118 2145	carcinome lobulaire in situ
+T11	morphology-onco 2442 2452	hémangiome
+T12	morphology-onco 2602 2605	CLI
+T13	morphology-onco 2638 2645	T1cN0M0
+T14	morphology-onco 2900 2922	CLI de 1,8 cm, grade 1
+T15	morphology-onco 2975 2990	macrométastases
+T16	morphology-onco 3140 3143	ILC
+T17	morphology-onco 3172 3181	pT1cpN1M0
+T18	morphology-onco 3820 3835	rechute cutanée
+T19	morphology-onco 3987 3996	métastase
+T20	morphology-onco 4244 4255	angiomateux
+T21	morphology-onco 4269 4278	métastase
+T22	morphology-onco 4343 4358	rechute cutanée
+T23	morphology-onco 4377 4386	métastase
+T24	morphology-onco 4402 4412	hémangiome
+T25	morphology-onco 4525 4538	lésion sur D7
+T26	morphology-onco 4586 4600	lésion dorsale
+T27	morphology-onco 4663 4672	carcinome
+T28	morphology-onco 4798 4820	métastase de carcinome
+T29	morphology-onco 5113 5123	hémangiome
+T30	morphology-onco 5556 5565	métastase
+T31	morphology-onco 6125 6141	Lésions lytiques
+T32	morphology-onco 6243 6283	métastase d'un carcinome peu différencié
+T33	morphology-onco 6774 6840	carcinome du sein, peu différencié, stade IV en raison des lésions
+T34	morphology-onco 6954 6964	métastases
+T35	morphology-onco 6989 7019	Carcinome lobulaire infiltrant
+T36	morphology-onco 7098 7123	métastases d'un carcinome
+#1	ICD-O-3.1 T7	8520/3
+#2	ICD-O-3.1 T12	8520/3
+#3	ICD-O-3.1 T16	8520/3
+#4	ICD-O-3.1 T2	8020/3
+#5	ICD-O-3.1 T6	8520/3
+#6	ICD-O-3.1 T35	8520/3
+#7	ICD-O-3.1 T31	8000/6
+#8	ICD-O-3.1 T27	8010/3
+#9	ICD-O-3.1 T4	8010/63
+#10	ICD-O-3.1 T1	8000/3
+#11	ICD-O-3.1 T11	9120/0
+#12	ICD-O-3.1 T24	9120/0
+#13	ICD-O-3.1 T29	9120/0
+#14	ICD-O-3.1 T15	8000/6
+#15	ICD-O-3.1 T8	8000/3
+#16	ICD-O-3.1 T3	8000/6
+#17	ICD-O-3.1 T19	8000/6
+#18	ICD-O-3.1 T21	8000/6
+#19	ICD-O-3.1 T23	8000/6
+#20	ICD-O-3.1 T30	8000/6
+#21	ICD-O-3.1 T34	8000/6
+#22	ICD-O-3.1 T28	8010/6
+#23	ICD-O-3.1 T36	8010/6
+#24	ICD-O-3.1 T5	8010/6
+#25	ICD-O-3.1 T9	8520/31
+#26	ICD-O-3.1 T10	8520/2
+#27	ICD-O-3.1 T13	8000/6
+#28	ICD-O-3.1 T14	8520/31
+#29	ICD-O-3.1 T17	8000/6
+#30	ICD-O-3.1 T20	9120/0
+#31	ICD-O-3.1 T25	8000/6
+#32	ICD-O-3.1 T26	8000/6
+#33	ICD-O-3.1 T32	8010/63
+#34	ICD-O-3.1 T33	8010/63
+#35	ICD-O-3.1 T18	8000/6
+#36	ICD-O-3.1 T22	8000/6
+#37	SNOMED T7	278054005
+#38	SNOMED T12	278054005
+#39	SNOMED T16	278054005
+#40	SNOMED T2	38549000
+#41	SNOMED T6	278054005
+#42	SNOMED T35	278054005
+#43	SNOMED T31	14799000
+#44	SNOMED T27	1187425009
+#45	SNOMED T4	79282002
+#46	SNOMED T1	1240414004
+#47	SNOMED T11	253053003
+#48	SNOMED T24	253053003
+#49	SNOMED T29	253053003
+#50	SNOMED T15	14799000
+#51	SNOMED T8	1240414004
+#52	SNOMED T3	14799000
+#53	SNOMED T19	14799000
+#54	SNOMED T21	14799000
+#55	SNOMED T23	14799000
+#56	SNOMED T30	14799000
+#57	SNOMED T34	14799000
+#58	SNOMED T28	79282002
+#59	SNOMED T36	79282002
+#60	SNOMED T5	79282002
+#61	SNOMED T9	278054005
+#62	SNOMED T10	109888004
+#63	SNOMED T13	14799000
+#64	SNOMED T14	278054005
+#65	SNOMED T17	14799000
+#66	SNOMED T20	253053003
+#67	SNOMED T25	14799000
+#68	SNOMED T26	14799000
+#69	SNOMED T32	79282002
+#70	SNOMED T33	79282002
+#71	SNOMED T18	14799000
+#72	SNOMED T22	14799000

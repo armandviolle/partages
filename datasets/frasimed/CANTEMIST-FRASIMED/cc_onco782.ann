@@ -1,0 +1,57 @@
+T1	morphology-onco 1496 1505	néoplasie
+T2	morphology-onco 2678 2712	métastase de carcinome épidermoïde
+T3	morphology-onco 2726 2747	Carcinome épidermoïde
+T4	morphology-onco 2782 2784	M0
+T5	morphology-onco 4498 4510	métastatique
+T6	morphology-onco 4701 4729	tumeur primaire métastatique
+T7	morphology-onco 4878 4942	adénocarcinome de la prostate, de grade de Gleason combiné 3 + 4
+T8	morphology-onco 4991 5001	métastases
+T9	morphology-onco 5125 5137	métastatique
+T10	morphology-onco 5221 5242	carcinome épidermoïde
+T11	morphology-onco 5320 5332	métastatique
+T12	morphology-onco 5767 5788	carcinome épidermoïde
+T13	morphology-onco 6395 6404	néoplasme
+T14	morphology-onco 7265 7273	malignes
+T15	morphology-onco 7442 7448	tumeur
+T16	morphology-onco 7533 7547	adénocarcinome
+T17	morphology-onco 7626 7634	cT1bN0M0
+T18	morphology-onco 7692 7713	carcinome épidermoïde
+T19	morphology-onco 7746 7788	adénocarcinome métastatique de la prostate
+#1	ICD-O-3.1 T3	8070/3
+#2	ICD-O-3.1 T4	8000/6
+#3	ICD-O-3.1 T16	8140/3
+#4	ICD-O-3.1 T17	8000/6
+#5	ICD-O-3.1 T10	8070/3
+#6	ICD-O-3.1 T12	8070/3
+#7	ICD-O-3.1 T18	8070/3
+#8	ICD-O-3.1 T14	8000/3
+#9	ICD-O-3.1 T9	8000/6
+#10	ICD-O-3.1 T11	8000/6
+#11	ICD-O-3.1 T8	8000/6
+#12	ICD-O-3.1 T2	8070/6
+#13	ICD-O-3.1 T1	8000/1
+#14	ICD-O-3.1 T13	8000/1
+#15	ICD-O-3.1 T15	8000/1
+#16	ICD-O-3.1 T5	8000/6
+#17	ICD-O-3.1 T6	8000/6
+#18	ICD-O-3.1 T7	8140/32
+#19	ICD-O-3.1 T19	8140/6
+#20	SNOMED T3	1162767002
+#21	SNOMED T4	14799000
+#22	SNOMED T16	1187332001
+#23	SNOMED T17	14799000
+#24	SNOMED T10	1162767002
+#25	SNOMED T12	1162767002
+#26	SNOMED T18	1162767002
+#27	SNOMED T14	1240414004
+#28	SNOMED T9	14799000
+#29	SNOMED T11	14799000
+#30	SNOMED T8	14799000
+#31	SNOMED T2	403906006
+#32	SNOMED T1	86251006
+#33	SNOMED T13	86251006
+#34	SNOMED T15	86251006
+#35	SNOMED T5	14799000
+#36	SNOMED T6	14799000
+#37	SNOMED T7	1187332001
+#38	SNOMED T19	4590003

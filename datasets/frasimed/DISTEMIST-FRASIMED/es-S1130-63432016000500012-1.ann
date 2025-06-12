@@ -1,0 +1,12 @@
+T1	disease 41 56	cirrhose du VHC
+T2	disease 124 137	splénomégalie
+T3	disease 139 159	hypertension portale
+T4	disease 163 184	leucothrombocytopénie
+T5	disease 201 226	toxicomanie par injection
+T6	disease 736 752	lésions cutanées
+#1	SNOMED T1	831000119103
+#2	SNOMED T2	16294009
+#3	SNOMED T3	34742003
+#4	SNOMED T4	84828003+302215000
+#5	SNOMED T5	191816009
+#6	SNOMED T6	95324001

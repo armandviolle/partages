@@ -1,0 +1,27 @@
+T1	morphology-onco 524 542	adénome pléomorphe
+T2	morphology-onco 1278 1287	carcinome
+T3	morphology-onco 1760 1769	Carcinome
+T4	morphology-onco 1773 1791	adénome pléomorphe
+T5	morphology-onco 1792 1800	T4bN2bM0
+T6	morphology-onco 2451 2470	nodules pulmonaires
+T7	morphology-onco 2496 2506	métastases
+T8	morphology-onco 2623 2645	progression pulmonaire
+T9	morphology-onco 2953 2972	nodules pulmonaires
+#1	ICD-O-3.1 T3	8010/3
+#2	ICD-O-3.1 T2	8010/3
+#3	ICD-O-3.1 T7	8000/6
+#4	ICD-O-3.1 T6	8000/6
+#5	ICD-O-3.1 T8	8000/6
+#6	ICD-O-3.1 T1	8940/0
+#7	ICD-O-3.1 T4	8940/0
+#8	ICD-O-3.1 T5	8000/6
+#9	ICD-O-3.1 T9	8000/6
+#10	SNOMED T3	1187425009
+#11	SNOMED T2	1187425009
+#12	SNOMED T7	14799000
+#13	SNOMED T6	14799000
+#14	SNOMED T8	14799000
+#15	SNOMED T1	8360001
+#16	SNOMED T4	8360001
+#17	SNOMED T5	14799000
+#18	SNOMED T9	14799000

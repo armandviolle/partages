@@ -1,0 +1,63 @@
+T1	morphology-onco 2847 2874	dissémination leptoméningée
+T2	morphology-onco 3069 3080	néoplasique
+T3	morphology-onco 4171 4195	néoplasie indifférenciée
+T4	morphology-onco 4468 4477	carcinome
+T5	morphology-onco 4556 4564	lymphome
+T6	morphology-onco 4584 4592	mélanome
+T7	morphology-onco 4615 4631	rhabdomyosarcome
+T8	morphology-onco 5119 5127	sarcomes
+T9	morphology-onco 5141 5198	Infiltration leptoméningée par un néoplasme indifférencié
+T10	morphology-onco 5342 5351	néoplasme
+T11	morphology-onco 5371 5381	type Ewing
+T12	morphology-onco 5385 5406	sarcome de type Ewing
+T13	morphology-onco 5422 5456	métastases de carcinome épithélial
+T14	morphology-onco 5462 5492	différenciation neuroendocrine
+T15	morphology-onco 5497 5505	lymphome
+T16	morphology-onco 5510 5518	mélanome
+T17	morphology-onco 5525 5541	rhabdomyosarcome
+T18	morphology-onco 7874 7884	métastases
+T19	morphology-onco 10084 10094	métastases
+T20	morphology-onco 10132 10156	implantation péritonéale
+T21	morphology-onco 10549 10610	infiltration leptoméningée due à une néoplasie indifférenciée
+#1	ICD-O-3.1 T4	8010/3
+#2	ICD-O-3.1 T14	8574/3
+#3	ICD-O-3.1 T1	8000/6
+#4	ICD-O-3.1 T20	8000/6
+#5	ICD-O-3.1 T5	9590/3
+#6	ICD-O-3.1 T15	9590/3
+#7	ICD-O-3.1 T6	8720/3
+#8	ICD-O-3.1 T16	8720/3
+#9	ICD-O-3.1 T18	8000/6
+#10	ICD-O-3.1 T19	8000/6
+#11	ICD-O-3.1 T2	8000/1
+#12	ICD-O-3.1 T10	8000/1
+#13	ICD-O-3.1 T7	8900/3
+#14	ICD-O-3.1 T17	8900/3
+#15	ICD-O-3.1 T8	8800/3
+#16	ICD-O-3.1 T3	8000/14
+#17	ICD-O-3.1 T9	8000/64
+#18	ICD-O-3.1 T12	9260/3
+#19	ICD-O-3.1 T11	8800/3/H
+#20	ICD-O-3.1 T13	8070/6
+#21	ICD-O-3.1 T21	8000/64
+#22	SNOMED T4	1187425009
+#23	SNOMED T14	128704005
+#24	SNOMED T1	14799000
+#25	SNOMED T20	14799000
+#26	SNOMED T5	1163043007
+#27	SNOMED T15	1163043007
+#28	SNOMED T6	1162635006
+#29	SNOMED T16	1162635006
+#30	SNOMED T18	14799000
+#31	SNOMED T19	14799000
+#32	SNOMED T2	86251006
+#33	SNOMED T10	86251006
+#34	SNOMED T7	30924005
+#35	SNOMED T17	30924005
+#36	SNOMED T8	1187396000
+#37	SNOMED T3	86251006
+#38	SNOMED T9	14799000
+#39	SNOMED T12	76909002
+#40	SNOMED T11	1187396000
+#41	SNOMED T13	403906006
+#42	SNOMED T21	14799000

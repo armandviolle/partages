@@ -1,0 +1,36 @@
+T1	morphology-onco 146 155	néoplasie
+T2	morphology-onco 193 199	cancer
+T3	morphology-onco 1672 1687	hépatocarcinome
+T4	morphology-onco 1689 1692	CHC
+T5	morphology-onco 2017 2043	CHC modérément différencié
+T6	morphology-onco 3086 3089	CHC
+T7	morphology-onco 3643 3646	CHC
+T8	morphology-onco 4913 4924	néoplasique
+T9	morphology-onco 5595 5610	hépatocarcinome
+T10	morphology-onco 5666 5677	néoplasique
+T11	morphology-onco 5910 5925	hépatocarcinome
+T12	morphology-onco 6207 6222	hépatocarcinome
+#1	ICD-O-3.1 T4	8170/3
+#2	ICD-O-3.1 T6	8170/3
+#3	ICD-O-3.1 T7	8170/3
+#4	ICD-O-3.1 T2	8000/3
+#5	ICD-O-3.1 T3	8170/3
+#6	ICD-O-3.1 T9	8170/3
+#7	ICD-O-3.1 T11	8170/3
+#8	ICD-O-3.1 T12	8170/3
+#9	ICD-O-3.1 T1	8000/1
+#10	ICD-O-3.1 T8	8000/1
+#11	ICD-O-3.1 T5	8170/32
+#12	ICD-O-3.1 T10	8000/1
+#13	SNOMED T4	1186630006
+#14	SNOMED T6	1186630006
+#15	SNOMED T7	1186630006
+#16	SNOMED T2	1240414004
+#17	SNOMED T3	1186630006
+#18	SNOMED T9	1186630006
+#19	SNOMED T11	1186630006
+#20	SNOMED T12	1186630006
+#21	SNOMED T1	86251006
+#22	SNOMED T8	86251006
+#23	SNOMED T5	1186630006
+#24	SNOMED T10	86251006

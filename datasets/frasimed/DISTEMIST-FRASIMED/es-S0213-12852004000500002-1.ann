@@ -1,0 +1,6 @@
+T1	disease 231 237	lésion
+T2	disease 284 291	ulcérée
+T3	disease 958 972	masse tumorale
+#1	SNOMED T2	429040005
+#2	SNOMED T1	417163006
+#3	SNOMED T3	55342001

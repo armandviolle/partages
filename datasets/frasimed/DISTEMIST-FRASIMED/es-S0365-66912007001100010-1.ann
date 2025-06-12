@@ -1,0 +1,14 @@
+T1	disease 159 185	épilepsie post-traumatique
+T2	disease 202 225	hypertension artérielle
+T3	disease 232 256	diabète sucré de type II
+T4	disease 345 356	traumatisme
+T5	disease 567 609	membrane épirétinienne maculaire dans l'OD
+T6	disease 882 913	neuropathie optique héréditaire
+T7	disease 1113 1148	rétinotoxicité due à la vigabatrine
+#1	SNOMED T7	290964009
+#2	SNOMED T1	75023009
+#3	SNOMED T5	333971000119101
+#4	SNOMED T6	312942003
+#5	SNOMED T2	38341003
+#6	SNOMED T3	44054006
+#7	SNOMED T4	417746004

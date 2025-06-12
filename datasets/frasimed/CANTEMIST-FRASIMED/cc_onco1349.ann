@@ -1,0 +1,9 @@
+T1	morphology-onco 1380 1391	néoplasique
+T2	morphology-onco 1776 1783	maligne
+T3	morphology-onco 2107 2135	Histiocytose langerhansienne
+#1	ICD-O-3.1 T3	9751/3
+#2	ICD-O-3.1 T2	8000/3
+#3	ICD-O-3.1 T1	8000/1
+#4	SNOMED T3	65399007
+#5	SNOMED T2	1240414004
+#6	SNOMED T1	86251006

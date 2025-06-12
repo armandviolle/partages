@@ -1,0 +1,20 @@
+T1	morphology-onco 757 773	phéochromocytome
+T2	morphology-onco 866 882	phéochromocytome
+T3	morphology-onco 1235 1245	métastases
+T4	morphology-onco 1571 1609	phéochromocytome malin avec métastases
+T5	morphology-onco 2038 2054	phéochromocytome
+T6	morphology-onco 2413 2429	lésions osseuses
+T7	morphology-onco 2698 2708	métastases
+#1	ICD-O-3.1 T1	8700/3
+#2	ICD-O-3.1 T2	8700/3
+#3	ICD-O-3.1 T5	8700/3
+#4	ICD-O-3.1 T6	8000/6
+#5	ICD-O-3.1 T3	8000/6
+#6	ICD-O-3.1 T7	8000/6
+#7	ICD-O-3.1 T4	8700/6
+#8	SNOMED T1	29370006
+#9	SNOMED T2	29370006
+#10	SNOMED T5	29370006
+#11	SNOMED T6	14799000
+#12	SNOMED T3	14799000
+#13	SNOMED T7	14799000

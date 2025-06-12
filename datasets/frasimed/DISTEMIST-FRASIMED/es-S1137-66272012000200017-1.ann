@@ -1,0 +1,8 @@
+T1	disease 300 380	sténose d'environ 3 cm de long a été observée dans le tiers moyen de l'oesophage
+T2	disease 1424 1433	dysphagie
+T3	disease 1450 1474	reflux gastro-œsophagien
+T4	disease 1616 1636	léiomyome œsophagien
+#1	SNOMED T4	276805005
+#2	SNOMED T1	63305008
+#3	SNOMED T3	235595009
+#4	SNOMED T2	288939007

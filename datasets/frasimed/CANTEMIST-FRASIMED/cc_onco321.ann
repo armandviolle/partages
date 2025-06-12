@@ -1,0 +1,51 @@
+T1	morphology-onco 221 227	cancer
+T2	morphology-onco 604 613	malignité
+T3	morphology-onco 621 696	ganglion lymphatique axillaire, supraclaviculaire ou latérocervical suspect
+T4	morphology-onco 1149 1158	malignité
+T5	morphology-onco 1210 1230	carcinome infiltrant
+T6	morphology-onco 1629 1636	maligne
+T7	morphology-onco 1755 1762	maligne
+T8	morphology-onco 1877 1884	maligne
+T9	morphology-onco 1998 2016	lésions hépatiques
+T10	morphology-onco 2116 2136	Carcinome infiltrant
+T11	morphology-onco 2174 2177	cM1
+T12	morphology-onco 2211 2231	atteintes hépatiques
+T13	morphology-onco 2770 2788	lésions hépatiques
+T14	morphology-onco 3113 3131	lésions hépatiques
+T15	morphology-onco 3700 3708	tumorale
+T16	morphology-onco 3937 3943	tumeur
+T17	morphology-onco 4404 4423	lésion métastatique
+#1	ICD-O-3.1 T10	8010/3/H
+#2	ICD-O-3.1 T12	8000/6
+#3	ICD-O-3.1 T11	8000/6
+#4	ICD-O-3.1 T5	8010/3/H
+#5	ICD-O-3.1 T1	8000/3
+#6	ICD-O-3.1 T9	8000/6
+#7	ICD-O-3.1 T13	8000/6
+#8	ICD-O-3.1 T14	8000/6
+#9	ICD-O-3.1 T2	8000/3
+#10	ICD-O-3.1 T4	8000/3
+#11	ICD-O-3.1 T6	8000/3
+#12	ICD-O-3.1 T7	8000/3
+#13	ICD-O-3.1 T8	8000/3
+#14	ICD-O-3.1 T17	8000/6
+#15	ICD-O-3.1 T15	8000/1
+#16	ICD-O-3.1 T16	8000/1
+#17	ICD-O-3.1 T3	8000/6
+#18	SNOMED T10	1187425009
+#19	SNOMED T12	14799000
+#20	SNOMED T11	14799000
+#21	SNOMED T5	1187425009
+#22	SNOMED T1	1240414004
+#23	SNOMED T9	14799000
+#24	SNOMED T13	14799000
+#25	SNOMED T14	14799000
+#26	SNOMED T2	1240414004
+#27	SNOMED T4	1240414004
+#28	SNOMED T6	1240414004
+#29	SNOMED T7	1240414004
+#30	SNOMED T8	1240414004
+#31	SNOMED T17	14799000
+#32	SNOMED T15	86251006
+#33	SNOMED T16	86251006
+#34	SNOMED T3	14799000

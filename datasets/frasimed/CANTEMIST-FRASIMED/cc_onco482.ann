@@ -1,0 +1,15 @@
+T1	morphology-onco 2087 2100	carcinomatose
+T2	morphology-onco 2268 2280	métastatique
+T3	morphology-onco 2359 2373	tumeur maligne
+T4	morphology-onco 3214 3248	tumeur stromale gastro-intestinale
+T5	morphology-onco 3250 3254	GIST
+#1	ICD-O-3.1 T5	8936/3
+#2	ICD-O-3.1 T1	8010/9
+#3	ICD-O-3.1 T2	8000/6
+#4	ICD-O-3.1 T4	8936/3
+#5	ICD-O-3.1 T3	8000/3
+#6	SNOMED T5	128756002
+#7	SNOMED T1	307593001
+#8	SNOMED T2	14799000
+#9	SNOMED T4	128756002
+#10	SNOMED T3	1240414004

@@ -1,0 +1,66 @@
+T1	morphology-onco 737 743	cancer
+T2	morphology-onco 765 771	cancer
+T3	morphology-onco 852 858	cancer
+T4	morphology-onco 912 918	cancer
+T5	morphology-onco 974 980	cancer
+T6	morphology-onco 2478 2496	lésion néoplasique
+T7	morphology-onco 2566 2580	chondrosarcome
+T8	morphology-onco 2607 2619	ostéosarcome
+T9	morphology-onco 3273 3291	maladie à distance
+T10	morphology-onco 3366 3372	Tumeur
+T11	morphology-onco 3761 3767	tumeur
+T12	morphology-onco 3925 3931	tumeur
+T13	morphology-onco 4024 4037	intratumorale
+T14	morphology-onco 4256 4262	tumeur
+T15	morphology-onco 4390 4415	tumeur à cellules géantes
+T16	morphology-onco 4669 4694	tumeur à cellules géantes
+T17	morphology-onco 4708 4733	Tumeur à cellules géantes
+T18	morphology-onco 4708 4757	Tumeur à cellules géantes dans le condyle fémoral
+T19	morphology-onco 5699 5705	Tumeur
+T20	morphology-onco 5838 5854	cellules géantes
+T21	morphology-onco 6023 6029	tumeur
+T22	morphology-onco 6579 6585	tumeur
+#1	ICD-O-3.1 T17	8003/3
+#2	ICD-O-3.1 T10	8000/1
+#3	ICD-O-3.1 T19	8000/1
+#4	ICD-O-3.1 T7	9220/3
+#5	ICD-O-3.1 T1	8000/3
+#6	ICD-O-3.1 T2	8000/3
+#7	ICD-O-3.1 T3	8000/3
+#8	ICD-O-3.1 T4	8000/3
+#9	ICD-O-3.1 T5	8000/3
+#10	ICD-O-3.1 T9	8000/6
+#11	ICD-O-3.1 T13	8000/1
+#12	ICD-O-3.1 T6	8000/1
+#13	ICD-O-3.1 T8	9180/3
+#14	ICD-O-3.1 T15	8003/3
+#15	ICD-O-3.1 T16	8003/3
+#16	ICD-O-3.1 T20	8003/3
+#17	ICD-O-3.1 T11	8000/1
+#18	ICD-O-3.1 T12	8000/1
+#19	ICD-O-3.1 T14	8000/1
+#20	ICD-O-3.1 T21	8000/1
+#21	ICD-O-3.1 T22	8000/1
+#22	ICD-O-3.1 T18	9250/3
+#23	SNOMED T17	83950009
+#24	SNOMED T10	86251006
+#25	SNOMED T19	86251006
+#26	SNOMED T7	1163016002
+#27	SNOMED T1	1240414004
+#28	SNOMED T2	1240414004
+#29	SNOMED T3	1240414004
+#30	SNOMED T4	1240414004
+#31	SNOMED T5	1240414004
+#32	SNOMED T9	14799000
+#33	SNOMED T13	86251006
+#34	SNOMED T6	86251006
+#35	SNOMED T8	1163405004
+#36	SNOMED T15	83950009
+#37	SNOMED T16	83950009
+#38	SNOMED T20	83950009
+#39	SNOMED T11	86251006
+#40	SNOMED T12	86251006
+#41	SNOMED T14	86251006
+#42	SNOMED T21	86251006
+#43	SNOMED T22	86251006
+#44	SNOMED T18	10069009

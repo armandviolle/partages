@@ -1,0 +1,69 @@
+T1	morphology-onco 518 524	tumeur
+T2	morphology-onco 720 726	tumeur
+T3	morphology-onco 787 795	mélanome
+T4	morphology-onco 1283 1289	tumeur
+T5	morphology-onco 1511 1519	mélanome
+T6	morphology-onco 1749 1759	méningiome
+T7	morphology-onco 1898 1907	métastase
+T8	morphology-onco 1908 1914	tumeur
+T9	morphology-onco 2496 2531	adénocarcinome papillaire du poumon
+T10	morphology-onco 2557 2559	M0
+T11	morphology-onco 2641 2661	carcinome papillaire
+T12	morphology-onco 2641 2668	carcinome papillaire solide
+T13	morphology-onco 2717 2757	carcinome canalaire in situ de bas grade
+T14	morphology-onco 2811 2813	M0
+T15	morphology-onco 2944 2952	mélanome
+T16	morphology-onco 3206 3242	adénocarcinome pulmonaire papillaire
+T17	morphology-onco 3244 3252	pT2aN0M0
+T18	morphology-onco 3408 3451	carcinome canalaire infiltrant de grade III
+T19	morphology-onco 3662 3664	M0
+T20	morphology-onco 4153 4171	implant péritonéal
+T21	morphology-onco 4526 4533	tumoral
+T22	morphology-onco 4926 4943	nodule péritonéal
+T23	morphology-onco 5072 5091	nodule mésentérique
+#1	ICD-O-3.1 T10	8000/6
+#2	ICD-O-3.1 T14	8000/6
+#3	ICD-O-3.1 T19	8000/6
+#4	ICD-O-3.1 T15	8720/3
+#5	ICD-O-3.1 T6	9530/0
+#6	ICD-O-3.1 T7	8000/6
+#7	ICD-O-3.1 T1	8000/1
+#8	ICD-O-3.1 T2	8000/1
+#9	ICD-O-3.1 T4	8000/1
+#10	ICD-O-3.1 T8	8000/1
+#11	ICD-O-3.1 T21	8000/1
+#12	ICD-O-3.1 T3	8720/3
+#13	ICD-O-3.1 T5	8720/3
+#14	ICD-O-3.1 T9	8260/3
+#15	ICD-O-3.1 T11	8050/3
+#16	ICD-O-3.1 T13	8500/21
+#17	ICD-O-3.1 T16	8260/3
+#18	ICD-O-3.1 T17	8000/6
+#19	ICD-O-3.1 T18	8500/33
+#20	ICD-O-3.1 T20	8000/6
+#21	ICD-O-3.1 T12	8230/3
+#22	ICD-O-3.1 T22	8000/6
+#23	ICD-O-3.1 T23	8000/6
+#24	SNOMED T10	14799000
+#25	SNOMED T14	14799000
+#26	SNOMED T19	14799000
+#27	SNOMED T15	1162635006
+#28	SNOMED T6	1157019008
+#29	SNOMED T7	14799000
+#30	SNOMED T1	86251006
+#31	SNOMED T2	86251006
+#32	SNOMED T4	86251006
+#33	SNOMED T8	86251006
+#34	SNOMED T21	86251006
+#35	SNOMED T3	1162635006
+#36	SNOMED T5	1162635006
+#37	SNOMED T9	4797003
+#38	SNOMED T11	25910003
+#39	SNOMED T13	1162814007
+#40	SNOMED T16	4797003
+#41	SNOMED T17	14799000
+#42	SNOMED T18	58477004
+#43	SNOMED T20	14799000
+#44	SNOMED T12	81920005
+#45	SNOMED T22	14799000
+#46	SNOMED T23	14799000

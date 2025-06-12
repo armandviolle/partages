@@ -1,0 +1,39 @@
+T1	morphology-onco 166 200	mélanome d'extension superficielle
+T2	morphology-onco 333 336	cM0
+T3	morphology-onco 430 439	malignité
+T4	morphology-onco 468 476	tumorale
+T5	morphology-onco 677 690	fibroadénomes
+T6	morphology-onco 1500 1517	cellules malignes
+T7	morphology-onco 1654 1662	mélanome
+T8	morphology-onco 1988 2007	nodules pulmonaires
+T9	morphology-onco 2667 2689	nodules dans le poumon
+T10	morphology-onco 2801 2823	métastases de mélanome
+T11	morphology-onco 2854 2872	maladie pulmonaire
+T12	morphology-onco 3001 3036	mélanome avancé dû à des métastases
+T13	morphology-onco 4835 4843	mélanome
+#1	ICD-O-3.1 T2	8000/6
+#2	ICD-O-3.1 T6	8001/3
+#3	ICD-O-3.1 T3	8000/3
+#4	ICD-O-3.1 T7	8720/3
+#5	ICD-O-3.1 T13	8720/3
+#6	ICD-O-3.1 T10	8720/6
+#7	ICD-O-3.1 T4	8000/1
+#8	ICD-O-3.1 T1	8743/3
+#9	ICD-O-3.1 T5	9010/0
+#10	ICD-O-3.1 T11	8000/6
+#11	ICD-O-3.1 T12	8720/6
+#12	ICD-O-3.1 T9	8000/6
+#13	ICD-O-3.1 T8	8000/6
+#14	SNOMED T2	14799000
+#15	SNOMED T6	88400008
+#16	SNOMED T3	1240414004
+#17	SNOMED T7	1162635006
+#18	SNOMED T13	1162635006
+#19	SNOMED T10	372158004
+#20	SNOMED T4	86251006
+#21	SNOMED T1	55320002
+#22	SNOMED T5	1156873009
+#23	SNOMED T11	14799000
+#24	SNOMED T12	372158004
+#25	SNOMED T9	14799000
+#26	SNOMED T8	14799000

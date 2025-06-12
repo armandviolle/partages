@@ -1,0 +1,28 @@
+T1	disease 33 36	HTA
+T2	disease 205 217	hypokaliémie
+T3	disease 234 257	hypertension secondaire
+T4	disease 837 849	hypertension
+T5	disease 1013 1025	hypokaliémie
+T6	disease 1284 1298	angiomyolipome
+T7	disease 1497 1514	avortement manqué
+T8	disease 1948 1960	hypokaliémie
+T9	disease 2457 2491	HTN secondaire à une tumeur rénale
+T10	disease 2584 2587	HTN
+T11	disease 2824 2830	tumeur
+T12	disease 2935 2950	lésion tumorale
+T13	disease 3986 4024	tumeur des cellules juxtaglomérulaires
+T14	disease 4026 4029	JCT
+#1	SNOMED T1	38341003
+#2	SNOMED T9	367821000119106
+#3	SNOMED T4	38341003
+#4	SNOMED T10	38341003
+#5	SNOMED T2	43339004
+#6	SNOMED T3	31992008
+#7	SNOMED T5	43339004
+#8	SNOMED T8	43339004
+#9	SNOMED T7	371374003
+#10	SNOMED T13	307618001
+#11	SNOMED T6	19929002
+#12	SNOMED T14	307618001
+#13	SNOMED T12	55342001
+#14	SNOMED T11	55342001

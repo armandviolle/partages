@@ -1,0 +1,14 @@
+T1	disease 186 213	lésions cutanées papuleuses
+T2	disease 186 313	lésions cutanées papuleuses et de plaques nummulaires croûteuses ayant tendance à coalescer sur la face antérieure de la cuisse
+T3	disease 220 250	plaques nummulaires croûteuses
+T4	disease 432 502	lésions similaires sur le tronc, la racine des extrémités et le visage
+T5	disease 564 571	lésions
+T6	disease 682 714	lésion isolée sur le dos du pied
+T7	disease 919 943	pityrasis rose de Gibert
+#1	SNOMED T6	118932009
+#2	SNOMED T1	70831001
+#3	SNOMED T7	77252004
+#4	SNOMED T4	400106006+128605003+121000119106
+#5	SNOMED T5	157670007
+#6	SNOMED T3	81418003
+#7	SNOMED T2	128135006

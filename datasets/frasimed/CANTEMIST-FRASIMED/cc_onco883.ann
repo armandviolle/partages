@@ -1,0 +1,40 @@
+T1	morphology-onco 1334 1343	néoplasie
+T2	morphology-onco 1738 1817	GCT mixte (90 % de séminome et 10 % de tératome à différenciation malpighienne)
+T3	morphology-onco 1968 1971	M1a
+T4	morphology-onco 2072 2081	métastase
+T5	morphology-onco 2387 2446	tumeur mixte du testicule gauche de stade IIIA (pT3N2M1aS0)
+T6	morphology-onco 2482 2488	tumeur
+T7	morphology-onco 5109 5119	néoplasmes
+T8	morphology-onco 5176 5192	tumeur germinale
+T9	morphology-onco 5219 5239	GCT mixte pT3 N2 M1a
+T10	morphology-onco 5998 6022	EP pulmonaire, hépatique
+T11	morphology-onco 7108 7117	néoplasme
+T12	morphology-onco 8423 8466	EP a été observée au niveau rétropéritonéal
+T13	morphology-onco 8815 8818	GCT
+T14	morphology-onco 9475 9487	métastatique
+#1	ICD-O-3.1 T4	8000/6
+#2	ICD-O-3.1 T1	8000/1
+#3	ICD-O-3.1 T11	8000/1
+#4	ICD-O-3.1 T7	8000/1
+#5	ICD-O-3.1 T6	8000/1
+#6	ICD-O-3.1 T8	9064/3
+#7	ICD-O-3.1 T13	9064/3
+#8	ICD-O-3.1 T5	9085/6
+#9	ICD-O-3.1 T9	9085/6
+#10	ICD-O-3.1 T14	8000/6
+#11	ICD-O-3.1 T3	8000/6
+#12	ICD-O-3.1 T2	9085/3/H
+#13	ICD-O-3.1 T10	8000/6
+#14	ICD-O-3.1 T12	8000/6
+#15	SNOMED T4	14799000
+#16	SNOMED T1	86251006
+#17	SNOMED T11	86251006
+#18	SNOMED T7	86251006
+#19	SNOMED T6	86251006
+#20	SNOMED T8	28307001
+#21	SNOMED T13	28307001
+#22	SNOMED T14	14799000
+#23	SNOMED T3	14799000
+#24	SNOMED T2	32844007
+#25	SNOMED T10	14799000
+#26	SNOMED T12	14799000

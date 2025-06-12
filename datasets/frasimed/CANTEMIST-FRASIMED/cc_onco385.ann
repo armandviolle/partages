@@ -1,0 +1,32 @@
+T1	morphology-onco 554 613	carcinome urothélial superficiel de haut grade de la vessie
+T2	morphology-onco 833 870	carcinome transitionnel de haut grade
+T3	morphology-onco 1072 1122	adénocarcinome multifocal de la prostate gleason 6
+T4	morphology-onco 1145 1185	carcinome transitionnel de la vessie, G3
+T5	morphology-onco 1278 1296	maladie à distance
+T6	morphology-onco 1334 1344	métastases
+T7	morphology-onco 1539 1573	métastases de carcinome urothélial
+T8	morphology-onco 4430 4440	métastases
+T9	morphology-onco 4541 4549	tumorale
+T10	morphology-onco 4565 4581	lésions osseuses
+T11	morphology-onco 6308 6329	lésions métastatiques
+#1	ICD-O-3.1 T5	8000/6
+#2	ICD-O-3.1 T6	8000/6
+#3	ICD-O-3.1 T8	8000/6
+#4	ICD-O-3.1 T9	8000/1
+#5	ICD-O-3.1 T1	8120/34
+#6	ICD-O-3.1 T2	8120/34
+#7	ICD-O-3.1 T3	8140/31
+#8	ICD-O-3.1 T4	8120/33
+#9	ICD-O-3.1 T7	8120/6
+#10	ICD-O-3.1 T11	8000/6
+#11	ICD-O-3.1 T10	8000/6
+#12	SNOMED T5	14799000
+#13	SNOMED T6	14799000
+#14	SNOMED T8	14799000
+#15	SNOMED T9	86251006
+#16	SNOMED T1	27090000
+#17	SNOMED T2	27090000
+#18	SNOMED T3	1187332001
+#19	SNOMED T4	27090000
+#20	SNOMED T11	14799000
+#21	SNOMED T10	14799000

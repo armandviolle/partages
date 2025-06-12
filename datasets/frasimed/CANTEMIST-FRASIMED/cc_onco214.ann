@@ -1,0 +1,27 @@
+T1	morphology-onco 1361 1376	néoprolifératif
+T2	morphology-onco 1536 1549	métastatiques
+T3	morphology-onco 1772 1800	adénopathie sus-claviculaire
+T4	morphology-onco 1889 1919	rhabdomyosarcome indifférencié
+T5	morphology-onco 2061 2111	lésions satellites dans la musculature paraspinale
+T6	morphology-onco 2348 2378	Rhabdomyosarcome indifférencié
+T7	morphology-onco 3282 3290	tumorale
+T8	morphology-onco 3334 3347	métastatiques
+T9	morphology-onco 3592 3600	tumorale
+#1	ICD-O-3.1 T3	8000/6
+#2	ICD-O-3.1 T2	8000/6
+#3	ICD-O-3.1 T8	8000/6
+#4	ICD-O-3.1 T1	8000/1
+#5	ICD-O-3.1 T7	8000/1
+#6	ICD-O-3.1 T9	8000/1
+#7	ICD-O-3.1 T4	8900/34
+#8	ICD-O-3.1 T6	8900/34
+#9	ICD-O-3.1 T5	8000/6
+#10	SNOMED T3	14799000
+#11	SNOMED T2	14799000
+#12	SNOMED T8	14799000
+#13	SNOMED T1	86251006
+#14	SNOMED T7	86251006
+#15	SNOMED T9	86251006
+#16	SNOMED T4	30924005
+#17	SNOMED T6	30924005
+#18	SNOMED T5	14799000

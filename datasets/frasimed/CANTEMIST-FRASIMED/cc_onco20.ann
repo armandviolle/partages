@@ -1,0 +1,18 @@
+T1	morphology-onco 387 437	Lésion malpighienne intra-épithéliale de bas grade
+T2	morphology-onco 439 444	CIN I
+T3	morphology-onco 600 615	hépatocarcinome
+T4	morphology-onco 3404 3413	carcinome
+T5	morphology-onco 5626 5635	malignité
+T6	morphology-onco 5835 5843	tumorale
+#1	ICD-O-3.1 T4	8010/3
+#2	ICD-O-3.1 T3	8170/3
+#3	ICD-O-3.1 T5	8000/3
+#4	ICD-O-3.1 T6	8000/1
+#5	ICD-O-3.1 T1	8077/0
+#6	ICD-O-3.1 T2	8077/0
+#7	SNOMED T4	1187425009
+#8	SNOMED T3	1186630006
+#9	SNOMED T5	1240414004
+#10	SNOMED T6	86251006
+#11	SNOMED T1	400002005
+#12	SNOMED T2	400002005

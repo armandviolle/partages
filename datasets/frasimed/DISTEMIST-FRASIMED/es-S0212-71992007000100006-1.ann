@@ -1,0 +1,32 @@
+T1	disease 86 99	thalassémie B
+T2	disease 159 165	Fumeur
+T3	disease 190 203	buveur modéré
+T4	disease 205 231	Allergique aux pyrazolones
+T5	disease 335 363	infection dentaire chronique
+T6	disease 467 484	paralysie faciale
+T7	disease 642 671	angiome sur le front et l'œil
+T8	disease 770 811	paralysie faciale périphérique bilatérale
+T9	disease 1922 1929	rubéole
+T10	disease 1931 1936	lupus
+T11	disease 1958 1967	Varicella
+T12	disease 1976 1984	rougeole
+T13	disease 1988 1997	oreillons
+T14	disease 2547 2600	polyneuropathie sensitivo-motrice dans les extrémités
+T15	disease 3237 3254	paralysie faciale
+T16	disease 3362 3379	paralysie faciale
+#1	SNOMED T1	65959000
+#2	SNOMED T4	293582004
+#3	SNOMED T5	427898007
+#4	SNOMED T6	280816001
+#5	SNOMED T7	400210000
+#6	SNOMED T8	449916008
+#7	SNOMED T11	38907003
+#8	SNOMED T14	3900008
+#9	SNOMED T9	36653000
+#10	SNOMED T12	14189004
+#11	SNOMED T13	36989005
+#12	SNOMED T2	77176002
+#13	SNOMED T3	7200002
+#14	SNOMED T15	280816001
+#15	SNOMED T16	280816001
+#16	SNOMED T10	76272004

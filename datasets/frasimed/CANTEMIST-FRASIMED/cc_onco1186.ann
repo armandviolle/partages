@@ -1,0 +1,19 @@
+T1	morphology-onco 186 246	cancer du poumon microcytaire avec des preuves de métastases
+T2	morphology-onco 342 352	métastases
+T3	morphology-onco 440 448	tumorale
+T4	morphology-onco 1232 1244	métastatique
+T5	morphology-onco 1490 1539	Carcinome microcytaire du poumon, maladie étendue
+T6	morphology-onco 1798 1810	métastatique
+T7	morphology-onco 2074 2084	métastases
+#1	ICD-O-3.1 T5	8041/6
+#2	ICD-O-3.1 T4	8000/6
+#3	ICD-O-3.1 T6	8000/6
+#4	ICD-O-3.1 T2	8000/6
+#5	ICD-O-3.1 T7	8000/6
+#6	ICD-O-3.1 T3	8000/1
+#7	ICD-O-3.1 T1	8041/6
+#8	SNOMED T4	14799000
+#9	SNOMED T6	14799000
+#10	SNOMED T2	14799000
+#11	SNOMED T7	14799000
+#12	SNOMED T3	86251006

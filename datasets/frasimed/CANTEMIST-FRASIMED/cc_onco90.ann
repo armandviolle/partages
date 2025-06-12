@@ -1,0 +1,27 @@
+T1	morphology-onco 417 435	lésions hépatiques
+T2	morphology-onco 510 540	métastases d'un adénocarcinome
+T3	morphology-onco 609 615	tumeur
+T4	morphology-onco 665 675	métastases
+T5	morphology-onco 1406 1461	Adénocarcinome pancréatique de stade IV avec métastases
+T6	morphology-onco 1531 1537	tumeur
+T7	morphology-onco 2331 2341	métastases
+T8	morphology-onco 2672 2690	lésions hépatiques
+T9	morphology-onco 2713 2749	lésion dans l'hémisphère cérébelleux
+#1	ICD-O-3.1 T4	8000/6
+#2	ICD-O-3.1 T7	8000/6
+#3	ICD-O-3.1 T2	8140/6
+#4	ICD-O-3.1 T3	8000/1
+#5	ICD-O-3.1 T6	8000/1
+#6	ICD-O-3.1 T5	8140/6
+#7	ICD-O-3.1 T8	8000/6
+#8	ICD-O-3.1 T9	8000/6
+#9	ICD-O-3.1 T1	8000/6
+#10	SNOMED T4	14799000
+#11	SNOMED T7	14799000
+#12	SNOMED T2	4590003
+#13	SNOMED T3	86251006
+#14	SNOMED T6	86251006
+#15	SNOMED T5	4590003
+#16	SNOMED T8	14799000
+#17	SNOMED T9	14799000
+#18	SNOMED T1	14799000

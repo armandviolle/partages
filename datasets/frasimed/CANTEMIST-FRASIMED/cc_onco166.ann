@@ -1,0 +1,36 @@
+T1	morphology-onco 283 346	carcinome à cellules claires de grade 2 du rein droit (Fuhrman)
+T2	morphology-onco 382 391	métastase
+T3	morphology-onco 616 625	carcinome
+T4	morphology-onco 846 905	carcinome à cellules claires de stade IV, grade 2 (Fuhrman)
+T5	morphology-onco 1359 1376	nodule pulmonaire
+T6	morphology-onco 1483 1492	néoplasme
+T7	morphology-onco 1795 1814	nodules dans le LSI
+T8	morphology-onco 2006 2020	lésion osseuse
+T9	morphology-onco 2169 2188	progression osseuse
+T10	morphology-onco 2194 2204	métastases
+T11	morphology-onco 6536 6562	nodule de 8 mm dans le LSI
+T12	morphology-onco 7143 7162	nodules pulmonaires
+#1	ICD-O-3.1 T3	8010/3
+#2	ICD-O-3.1 T8	8000/6
+#3	ICD-O-3.1 T10	8000/6
+#4	ICD-O-3.1 T6	8000/1
+#5	ICD-O-3.1 T5	8000/6
+#6	ICD-O-3.1 T12	8000/6
+#7	ICD-O-3.1 T9	8000/6
+#8	ICD-O-3.1 T1	8310/32
+#9	ICD-O-3.1 T2	8000/6
+#10	ICD-O-3.1 T4	8310/32
+#11	ICD-O-3.1 T7	8000/6
+#12	ICD-O-3.1 T11	8000/6
+#13	SNOMED T3	1187425009
+#14	SNOMED T8	14799000
+#15	SNOMED T10	14799000
+#16	SNOMED T6	86251006
+#17	SNOMED T5	14799000
+#18	SNOMED T12	14799000
+#19	SNOMED T9	14799000
+#20	SNOMED T1	30546008
+#21	SNOMED T2	14799000
+#22	SNOMED T4	30546008
+#23	SNOMED T7	14799000
+#24	SNOMED T11	14799000

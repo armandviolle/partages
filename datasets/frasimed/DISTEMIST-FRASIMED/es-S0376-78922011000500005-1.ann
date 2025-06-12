@@ -1,0 +1,18 @@
+T1	disease 68 81	ex-alcoolique
+T2	disease 83 92	ex-fumeur
+T3	disease 94 135	bronchopneumopathie chronique obstructive
+T4	disease 137 141	BPCO
+T5	disease 154 198	invalidité respiratoire mixte modérée-sévère
+T6	disease 208 217	hépatique
+T7	disease 219 231	polyarthrose
+T8	disease 233 257	polymyalgie rhumatismale
+T9	disease 261 279	œsophage de Barret
+T10	disease 349 384	écrasement vertébral ostéoporotique
+T11	disease 588 633	syndrome de lésion médullaire transversale D4
+T12	disease 770 787	lésion vertébrale
+T13	disease 964 1045	plaie ouverte, infectée et sphacélée dans la région vertébrale dorsale supérieure
+T14	disease 1159 1176	lésion vertébrale
+T15	disease 1247 1252	plaie
+T16	disease 1719 1763	iatrogène une congestion veineuse du lambeau
+T17	disease 2176 2181	plaie
+T18	disease 2246 2255	infection

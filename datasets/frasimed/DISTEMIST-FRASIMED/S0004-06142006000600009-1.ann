@@ -1,0 +1,20 @@
+T1	disease 438 444	lésion
+T2	disease 976 985	néoplasme
+T3	disease 1225 1252	ostéo- et le chondrosarcome
+T4	disease 1724 1757	tumeur a touché la capsule rénale
+T5	disease 1776 1852	envahissant les structures vasculaires du hile et le tissu adipeux du bassin
+T6	disease 1968 1996	carcinome à cellules claires
+T7	disease 2046 2055	néoplasme
+T8	disease 2291 2319	carcinome sarcomatoïde rénal
+T9	disease 2390 2414	ostéo- et chondrosarcome
+T10	disease 2470 2538	carcinome à cellules claires et de zones à différenciation squameuse
+#1	SNOMED T2	55342001
+#2	SNOMED T3	21708004
+#3	SNOMED T4	126880001
+#4	SNOMED T6	254915003
+#5	SNOMED T7	55342001
+#6	SNOMED T8	128668003
+#7	SNOMED T9	21708004
+#8	SNOMED T10	722688002
+#9	SNOMED T1	417163006
+#10	SNOMED T5	94480000

@@ -1,0 +1,27 @@
+T1	morphology-onco 78 86	leucémie
+T2	morphology-onco 115 150	carcinome papillaire de la thyroïde
+T3	morphology-onco 421 459	carcinome épidermoïde non kératinisant
+T4	morphology-onco 1222 1241	lésion métastatique
+T5	morphology-onco 1998 2010	métastatique
+T6	morphology-onco 4017 4023	tumeur
+T7	morphology-onco 4277 4288	néoplasique
+T8	morphology-onco 4901 4909	tumorale
+T9	morphology-onco 4951 4960	Carcinome
+#1	ICD-O-3.1 T9	8010/3
+#2	ICD-O-3.1 T3	8072/3
+#3	ICD-O-3.1 T2	8260/3
+#4	ICD-O-3.1 T1	9800/3
+#5	ICD-O-3.1 T4	8000/6
+#6	ICD-O-3.1 T5	8000/6
+#7	ICD-O-3.1 T7	8000/1
+#8	ICD-O-3.1 T6	8000/1
+#9	ICD-O-3.1 T8	8000/1
+#10	SNOMED T9	1187425009
+#11	SNOMED T3	45490001
+#12	SNOMED T2	4797003
+#13	SNOMED T1	1162768007
+#14	SNOMED T4	14799000
+#15	SNOMED T5	14799000
+#16	SNOMED T7	86251006
+#17	SNOMED T6	86251006
+#18	SNOMED T8	86251006

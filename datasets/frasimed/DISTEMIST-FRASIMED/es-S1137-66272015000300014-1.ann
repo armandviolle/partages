@@ -1,0 +1,24 @@
+T1	disease 110 139	adénocarcinome de l'endomètre
+T2	disease 152 183	dystrophie myotonique de type I
+T3	disease 185 197	DM de type I
+T4	disease 202 221	maladie de Steinert
+T5	disease 254 266	AVB complète
+T6	disease 268 298	maladie pulmonaire restrictive
+T7	disease 366 404	maladie hépatique chronique non virale
+T8	disease 464 477	hypothyroïdie
+T9	disease 507 530	hypertension artérielle
+T10	disease 648 684	chirurgie bilatérale de la cataracte
+T11	disease 778 808	Bloc de branche gauche complet
+T12	disease 861 880	épanchement pleural
+#1	SNOMED T12	60046008
+#2	SNOMED T11	6180003
+#3	SNOMED T1	123845008
+#4	SNOMED T3	46635009
+#5	SNOMED T4	77956009
+#6	SNOMED T5	27885002
+#7	SNOMED T6	36485005
+#8	SNOMED T7	328383001
+#9	SNOMED T8	40930008
+#10	SNOMED T9	38341003
+#11	SNOMED T10	95722004
+#12	SNOMED T2	77956009

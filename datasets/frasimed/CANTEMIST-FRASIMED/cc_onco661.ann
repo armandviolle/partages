@@ -1,0 +1,21 @@
+T1	morphology-onco 1428 1434	tumeur
+T2	morphology-onco 1888 1965	lymphome diffus à grandes cellules B, avec immunophénotype de centre germinal
+T3	morphology-onco 2171 2179	lymphome
+T4	morphology-onco 2313 2321	Lymphome
+T5	morphology-onco 2342 2378	lymphome diffus à grandes cellules B
+T6	morphology-onco 4592 4598	tumeur
+T7	morphology-onco 5220 5226	tumeur
+#1	ICD-O-3.1 T4	9590/3
+#2	ICD-O-3.1 T3	9590/3
+#3	ICD-O-3.1 T7	8000/1
+#4	ICD-O-3.1 T1	8000/1
+#5	ICD-O-3.1 T6	8000/1
+#6	ICD-O-3.1 T2	9680/3/H
+#7	ICD-O-3.1 T5	9680/3
+#8	SNOMED T4	1163043007
+#9	SNOMED T3	1163043007
+#10	SNOMED T7	86251006
+#11	SNOMED T1	86251006
+#12	SNOMED T6	86251006
+#13	SNOMED T2	1172695008
+#14	SNOMED T5	1172695008

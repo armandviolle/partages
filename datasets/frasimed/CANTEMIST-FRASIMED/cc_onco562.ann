@@ -1,0 +1,80 @@
+T1	morphology-onco 243 252	myomateux
+T2	morphology-onco 443 452	malignité
+T3	morphology-onco 568 632	carcinome rénal à cellules claires, stade II (pT2) G1 de Fuhrman
+T4	morphology-onco 869 912	nodule hypoéchogène dans le lobe thyroïdien
+T5	morphology-onco 1240 1258	métastases de CCRc
+T6	morphology-onco 1343 1400	nodules hétérogènes dans le corps et la queue du pancréas
+T7	morphology-onco 1449 1476	(LOE) de 15 mm dans le foie
+T8	morphology-onco 1492 1501	métastase
+T9	morphology-onco 1810 1844	métastase thyroïdienne due au CCRc
+T10	morphology-onco 1938 1967	LOE dans le segment hépatique
+T11	morphology-onco 2180 2194	LOE hépatiques
+T12	morphology-onco 2934 2977	nodule hypoéchogène dans le lobe thyroïdien
+T13	morphology-onco 3011 3068	nodules hétérogènes dans le corps et la queue du pancréas
+T14	morphology-onco 3092 3117	LOE de 15 mm dans le foie
+T15	morphology-onco 3132 3141	métastase
+T16	morphology-onco 3405 3412	tumeurs
+T17	morphology-onco 3709 3716	tumeurs
+T18	morphology-onco 3947 3968	implantation tumorale
+T19	morphology-onco 4013 4028	nodule mammaire
+T20	morphology-onco 4310 4377	Carcinome rénal à cellules claires, Fuhrman 2, stade IV (métastases
+T21	morphology-onco 4699 4716	nodule thyroïdien
+T22	morphology-onco 5135 5163	rechute locale et à distance
+T23	morphology-onco 5785 5798	LOE hépatique
+T24	morphology-onco 6429 6444	nodule mammaire
+T25	morphology-onco 6802 6830	carcinome à cellules claires
+T26	morphology-onco 6874 6877	CCR
+T27	morphology-onco 7029 7087	métastase due à un carcinome à cellules claires, Fuhrman 2
+T28	morphology-onco 7203 7209	tumeur
+#1	ICD-O-3.1 T25	8310/3
+#2	ICD-O-3.1 T18	8000/6
+#3	ICD-O-3.1 T2	8000/3
+#4	ICD-O-3.1 T8	8000/6
+#5	ICD-O-3.1 T15	8000/6
+#6	ICD-O-3.1 T1	8895/0
+#7	ICD-O-3.1 T28	8000/1
+#8	ICD-O-3.1 T16	8000/1
+#9	ICD-O-3.1 T17	8000/1
+#10	ICD-O-3.1 T3	8310/31
+#11	ICD-O-3.1 T9	8310/6
+#12	ICD-O-3.1 T20	8310/62
+#13	ICD-O-3.1 T5	8310/6
+#14	ICD-O-3.1 T21	8000/6
+#15	ICD-O-3.1 T26	8310/3
+#16	ICD-O-3.1 T27	8310/62
+#17	ICD-O-3.1 T4	8000/6
+#18	ICD-O-3.1 T7	8000/6
+#19	ICD-O-3.1 T10	8000/6
+#20	ICD-O-3.1 T11	8000/6
+#21	ICD-O-3.1 T12	8000/6
+#22	ICD-O-3.1 T14	8000/6
+#23	ICD-O-3.1 T13	8000/6
+#24	ICD-O-3.1 T19	8000/6
+#25	ICD-O-3.1 T6	8000/6
+#26	ICD-O-3.1 T22	8000/6
+#27	ICD-O-3.1 T23	8000/6
+#28	ICD-O-3.1 T24	8000/6
+#29	SNOMED T25	30546008
+#30	SNOMED T18	14799000
+#31	SNOMED T2	1240414004
+#32	SNOMED T8	14799000
+#33	SNOMED T15	14799000
+#34	SNOMED T1	1156875002
+#35	SNOMED T28	86251006
+#36	SNOMED T16	86251006
+#37	SNOMED T17	86251006
+#38	SNOMED T3	30546008
+#39	SNOMED T21	14799000
+#40	SNOMED T26	30546008
+#41	SNOMED T4	14799000
+#42	SNOMED T7	14799000
+#43	SNOMED T10	14799000
+#44	SNOMED T11	14799000
+#45	SNOMED T12	14799000
+#46	SNOMED T14	14799000
+#47	SNOMED T13	14799000
+#48	SNOMED T19	14799000
+#49	SNOMED T6	14799000
+#50	SNOMED T22	14799000
+#51	SNOMED T23	14799000
+#52	SNOMED T24	14799000

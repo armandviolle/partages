@@ -1,0 +1,19 @@
+T1	disease 451 465	pré-excitation
+T2	disease 715 723	arythmie
+T3	disease 780 805	rythme sinusal pré-excité
+T4	disease 827 853	voie antéro-septale droite
+T5	disease 861 886	cardiopathie structurelle
+T6	disease 969 994	pré-excitation permanente
+T7	disease 1005 1013	arythmie
+T8	disease 1109 1118	arythmies
+T9	disease 1134 1137	WPW
+T10	disease 1337 1350	voie anormale
+T11	disease 1566 1591	tachycardie orthodromique
+T12	disease 1655 1715	voie accessoire auriculo-ventriculaire (AV) bidirectionnelle
+T13	disease 1738 1752	pré-excitation
+T14	disease 1837 1858	bloc de branche droit
+T15	disease 1860 1864	RBBB
+T16	disease 1973 1986	voie anormale
+T17	disease 2137 2149	tachycardies
+T18	disease 2228 2231	WPW
+T19	disease 2238 2249	tachycardie

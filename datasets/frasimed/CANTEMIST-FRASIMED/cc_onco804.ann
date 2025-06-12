@@ -1,0 +1,41 @@
+T1	morphology-onco 1979 2001	métastase de carcinome
+T2	morphology-onco 2008 2038	différenciation neuroendocrine
+T3	morphology-onco 2270 2304	métastase d'un carcinome hépatoïde
+T4	morphology-onco 2366 2381	hépatocarcinome
+T5	morphology-onco 2389 2457	variante hépatoïde de la tumeur germinale de type sinus endodermique
+T6	morphology-onco 3013 3020	tumoral
+T7	morphology-onco 3210 3218	tératome
+T8	morphology-onco 3377 3396	Carcinome hépatoïde
+T9	morphology-onco 3450 3459	métastase
+T10	morphology-onco 3747 3766	carcinome hépatoïde
+T11	morphology-onco 3773 3811	tumeur du sinus endodermique hépatoïde
+T12	morphology-onco 3860 3866	tumeur
+T13	morphology-onco 4242 4260	maladie disséminée
+T14	morphology-onco 5240 5255	Tératome mature
+#1	ICD-O-3.1 T14	9080/0
+#2	ICD-O-3.1 T4	8170/3
+#3	ICD-O-3.1 T9	8000/6
+#4	ICD-O-3.1 T1	8010/6
+#5	ICD-O-3.1 T12	8000/1
+#6	ICD-O-3.1 T6	8000/1
+#7	ICD-O-3.1 T2	8574/3
+#8	ICD-O-3.1 T3	8576/6
+#9	ICD-O-3.1 T5	9071/3
+#10	ICD-O-3.1 T8	8576/3
+#11	ICD-O-3.1 T10	8576/3
+#12	ICD-O-3.1 T11	9071/3
+#13	ICD-O-3.1 T13	8000/6
+#14	ICD-O-3.1 T7	9080/1
+#15	SNOMED T14	42717009
+#16	SNOMED T4	1186630006
+#17	SNOMED T9	14799000
+#18	SNOMED T1	79282002
+#19	SNOMED T12	86251006
+#20	SNOMED T6	86251006
+#21	SNOMED T2	128704005
+#22	SNOMED T5	74409009
+#23	SNOMED T8	128706007
+#24	SNOMED T10	128706007
+#25	SNOMED T11	74409009
+#26	SNOMED T13	14799000
+#27	SNOMED T7	1187393008

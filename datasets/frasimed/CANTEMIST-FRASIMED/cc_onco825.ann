@@ -1,0 +1,83 @@
+T1	morphology-onco 2125 2131	tumeur
+T2	morphology-onco 2382 2391	néoplasie
+T3	morphology-onco 2447 2455	lymphome
+T4	morphology-onco 2600 2609	néoplasme
+T5	morphology-onco 3219 3229	métastases
+T6	morphology-onco 3251 3260	néoplasie
+T7	morphology-onco 3282 3290	lymphome
+T8	morphology-onco 3473 3485	métastatique
+T9	morphology-onco 3524 3542	séminome classique
+T10	morphology-onco 3725 3731	tumeur
+T11	morphology-onco 3790 3799	néoplasie
+T12	morphology-onco 3830 3838	séminome
+T13	morphology-onco 3914 3922	séminome
+T14	morphology-onco 3993 4011	tumeurs germinales
+T15	morphology-onco 4767 4779	métastatique
+T16	morphology-onco 5668 5677	séminomes
+T17	morphology-onco 5884 5902	cellules tumorales
+T18	morphology-onco 5989 6010	carcinome épidermoïde
+T19	morphology-onco 6044 6050	tumeur
+T20	morphology-onco 6113 6145	métastases supposées du séminome
+T21	morphology-onco 6207 6215	séminome
+T22	morphology-onco 6237 6258	Carcinome épidermoïde
+T23	morphology-onco 6376 6397	carcinome épidermoïde
+T24	morphology-onco 6961 6967	tumeur
+T25	morphology-onco 7012 7018	tumeur
+T26	morphology-onco 7123 7129	cancer
+T27	morphology-onco 7650 7658	tumorale
+T28	morphology-onco 7846 7854	séminome
+#1	ICD-O-3.1 T22	8070/3
+#2	ICD-O-3.1 T18	8070/3
+#3	ICD-O-3.1 T17	8001/1
+#4	ICD-O-3.1 T3	9590/3
+#5	ICD-O-3.1 T7	9590/3
+#6	ICD-O-3.1 T8	8000/6
+#7	ICD-O-3.1 T15	8000/6
+#8	ICD-O-3.1 T5	8000/6
+#9	ICD-O-3.1 T2	8000/1
+#10	ICD-O-3.1 T4	8000/1
+#11	ICD-O-3.1 T6	8000/1
+#12	ICD-O-3.1 T11	8000/1
+#13	ICD-O-3.1 T12	9061/3
+#14	ICD-O-3.1 T13	9061/3
+#15	ICD-O-3.1 T21	9061/3
+#16	ICD-O-3.1 T28	9061/3
+#17	ICD-O-3.1 T9	9061/3
+#18	ICD-O-3.1 T10	8000/1
+#19	ICD-O-3.1 T19	8000/1
+#20	ICD-O-3.1 T26	8000/1
+#21	ICD-O-3.1 T1	8000/1
+#22	ICD-O-3.1 T24	8000/1
+#23	ICD-O-3.1 T27	8000/1
+#24	ICD-O-3.1 T14	9064/3
+#25	ICD-O-3.1 T16	9061/3
+#26	ICD-O-3.1 T20	9061/6
+#27	ICD-O-3.1 T23	8070/3
+#28	ICD-O-3.1 T25	8000/3
+#29	SNOMED T22	1162767002
+#30	SNOMED T18	1162767002
+#31	SNOMED T17	39577004
+#32	SNOMED T3	1163043007
+#33	SNOMED T7	1163043007
+#34	SNOMED T8	14799000
+#35	SNOMED T15	14799000
+#36	SNOMED T5	14799000
+#37	SNOMED T2	86251006
+#38	SNOMED T4	86251006
+#39	SNOMED T6	86251006
+#40	SNOMED T11	86251006
+#41	SNOMED T12	1162765005
+#42	SNOMED T13	1162765005
+#43	SNOMED T21	1162765005
+#44	SNOMED T28	1162765005
+#45	SNOMED T9	1162765005
+#46	SNOMED T10	86251006
+#47	SNOMED T19	86251006
+#48	SNOMED T26	86251006
+#49	SNOMED T1	86251006
+#50	SNOMED T24	86251006
+#51	SNOMED T27	86251006
+#52	SNOMED T14	28307001
+#53	SNOMED T16	1162765005
+#54	SNOMED T23	1162767002
+#55	SNOMED T25	1240414004

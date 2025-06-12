@@ -1,0 +1,8 @@
+T1	disease 31 41	varicocèle
+T2	disease 104 137	infections urinaires à répétition
+T3	disease 143 162	pathologie sexuelle
+T4	disease 261 290	duplicité urétrale incomplète
+#1	SNOMED T1	51070004
+#2	SNOMED T2	197927001
+#3	SNOMED T3	231532002
+#4	SNOMED T4	717757004

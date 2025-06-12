@@ -1,0 +1,33 @@
+T1	morphology-onco 140 148	mélanome
+T2	morphology-onco 281 293	métastatique
+T3	morphology-onco 386 392	tumeur
+T4	morphology-onco 1314 1337	mélanome desmoplastique
+T5	morphology-onco 1314 1366	mélanome desmoplastique ulcéré à cellules fusiformes
+T6	morphology-onco 1561 1573	métastatique
+T7	morphology-onco 1860 1887	mélanome non desmoplastique
+T8	morphology-onco 1966 1976	métastases
+T9	morphology-onco 2603 2627	Mélanome avec métastases
+T10	morphology-onco 2661 2664	M1c
+T11	morphology-onco 3504 3535	lésions cutanées et pulmonaires
+#1	ICD-O-3.1 T1	8720/3
+#2	ICD-O-3.1 T2	8000/6
+#3	ICD-O-3.1 T6	8000/6
+#4	ICD-O-3.1 T8	8000/6
+#5	ICD-O-3.1 T3	8000/1
+#6	ICD-O-3.1 T4	8745/3
+#7	ICD-O-3.1 T5	8772/3
+#8	ICD-O-3.1 T7	8720/3/H
+#9	ICD-O-3.1 T9	8720/6
+#10	ICD-O-3.1 T10	8000/6
+#11	ICD-O-3.1 T11	8000/6
+#12	SNOMED T1	1162635006
+#13	SNOMED T2	14799000
+#14	SNOMED T6	14799000
+#15	SNOMED T8	14799000
+#16	SNOMED T3	86251006
+#17	SNOMED T4	51757004
+#18	SNOMED T5	68827007
+#19	SNOMED T7	1162635006
+#20	SNOMED T9	372158004
+#21	SNOMED T10	14799000
+#22	SNOMED T11	14799000

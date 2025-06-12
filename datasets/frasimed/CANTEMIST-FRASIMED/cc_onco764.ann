@@ -1,0 +1,36 @@
+T1	morphology-onco 252 260	mélanome
+T2	morphology-onco 569 577	mélanome
+T3	morphology-onco 770 782	métastatique
+T4	morphology-onco 961 970	métastase
+T5	morphology-onco 983 1013	lésions dans le lobe hépatique
+T6	morphology-onco 1305 1337	infiltration diffuse de mélanome
+T7	morphology-onco 1465 1483	lésions hépatiques
+T8	morphology-onco 1762 1779	maladie hépatique
+T9	morphology-onco 2752 2770	maladie secondaire
+T10	morphology-onco 2859 2867	Mélanome
+T11	morphology-onco 3775 3793	lésions hépatiques
+T12	morphology-onco 4036 4045	malignité
+#1	ICD-O-3.1 T10	8720/3
+#2	ICD-O-3.1 T8	8000/6
+#3	ICD-O-3.1 T9	8000/6
+#4	ICD-O-3.1 T7	8000/6
+#5	ICD-O-3.1 T11	8000/6
+#6	ICD-O-3.1 T12	8000/3
+#7	ICD-O-3.1 T1	8720/3
+#8	ICD-O-3.1 T2	8720/3
+#9	ICD-O-3.1 T3	8000/6
+#10	ICD-O-3.1 T4	8000/6
+#11	ICD-O-3.1 T5	8000/6
+#12	ICD-O-3.1 T6	8720/6
+#13	SNOMED T10	1162635006
+#14	SNOMED T8	14799000
+#15	SNOMED T9	14799000
+#16	SNOMED T7	14799000
+#17	SNOMED T11	14799000
+#18	SNOMED T12	1240414004
+#19	SNOMED T1	1162635006
+#20	SNOMED T2	1162635006
+#21	SNOMED T3	14799000
+#22	SNOMED T4	14799000
+#23	SNOMED T5	14799000
+#24	SNOMED T6	372158004

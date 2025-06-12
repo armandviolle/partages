@@ -1,0 +1,26 @@
+T1	disease 69 86	asymétrie faciale
+T2	disease 401 438	édenté complet supérieur et inférieur
+T3	disease 615 630	télangiectasies
+T4	disease 707 763	cortex vestibulaire et une perforation du cortex lingual
+T5	disease 832 869	atteinte du nerf alvéolaire inférieur
+T6	disease 927 933	lésion
+T7	disease 1100 1106	lésion
+T8	disease 1368 1371	LCG
+T9	disease 1669 1675	lésion
+T10	disease 1944 1950	lésion
+T11	disease 2007 2013	lésion
+T12	disease 2092 2095	LCG
+T13	disease 2231 2237	lésion
+#1	SNOMED T3	276328002
+#2	SNOMED T4	128233005
+#3	SNOMED T8	443790001
+#4	SNOMED T12	443790001
+#5	SNOMED T6	417163006
+#6	SNOMED T7	417163006
+#7	SNOMED T9	417163006
+#8	SNOMED T10	417163006
+#9	SNOMED T11	417163006
+#10	SNOMED T13	417163006
+#11	SNOMED T1	301311009
+#12	SNOMED T2	278650002
+#13	SNOMED T5	106155008

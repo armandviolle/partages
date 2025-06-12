@@ -52,7 +52,7 @@ def main():
                 merged.push_to_hub(
                     repo_id="LIMICS/PARTAGES", 
                     config_name=cfg["source"], 
-                    commit_message=f"Pushed dataset {cfg["source"]} on {datetime.date.today().isoformat()}"
+                    commit_message=f"Pushed dataset {cfg['source']} on {datetime.date.today().isoformat()}"
                 )
         else:
             print("Not pushing to hub\n")

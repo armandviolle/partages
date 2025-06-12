@@ -1,0 +1,14 @@
+T1	morphology-onco 238 244	tumeur
+T2	morphology-onco 717 735	séminome classique
+T3	morphology-onco 1556 1574	Séminome classique
+T4	morphology-onco 2959 2981	métastases du séminome
+T5	morphology-onco 3055 3076	carcinome épidermoïde
+#1	ICD-O-3.1 T3	9061/3
+#2	ICD-O-3.1 T5	8070/3
+#3	ICD-O-3.1 T2	9061/3
+#4	ICD-O-3.1 T1	8000/1
+#5	ICD-O-3.1 T4	9061/6
+#6	SNOMED T3	1162765005
+#7	SNOMED T5	1162767002
+#8	SNOMED T2	1162765005
+#9	SNOMED T1	86251006

@@ -1,0 +1,27 @@
+T1	morphology-onco 12 25	thymome malin
+T2	morphology-onco 781 798	implants pleuraux
+T3	morphology-onco 989 996	tumoral
+T4	morphology-onco 1114 1142	maladie au niveau pulmonaire
+T5	morphology-onco 2565 2574	métastase
+T6	morphology-onco 3173 3190	cellules malignes
+T7	morphology-onco 5244 5270	maladie au niveau cérébral
+T8	morphology-onco 5287 5296	métastase
+T9	morphology-onco 5336 5363	lésions au niveau vertébral
+#1	ICD-O-3.1 T6	8001/3
+#2	ICD-O-3.1 T7	8000/6
+#3	ICD-O-3.1 T4	8000/6
+#4	ICD-O-3.1 T2	8000/6
+#5	ICD-O-3.1 T5	8000/6
+#6	ICD-O-3.1 T8	8000/6
+#7	ICD-O-3.1 T3	8000/1
+#8	ICD-O-3.1 T1	8580/3
+#9	ICD-O-3.1 T9	8000/6
+#10	SNOMED T6	88400008
+#11	SNOMED T7	14799000
+#12	SNOMED T4	14799000
+#13	SNOMED T2	14799000
+#14	SNOMED T5	14799000
+#15	SNOMED T8	14799000
+#16	SNOMED T3	86251006
+#17	SNOMED T1	444596001
+#18	SNOMED T9	14799000

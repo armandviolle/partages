@@ -1,0 +1,18 @@
+T1	morphology-onco 2348 2367	carcinome lobulaire
+T2	morphology-onco 2449 2466	cellules malignes
+T3	morphology-onco 2862 2892	carcinome lobulaire infiltrant
+T4	morphology-onco 3083 3093	métastases
+T5	morphology-onco 3278 3297	carcinome lobulaire
+T6	morphology-onco 3351 3391	néoplasie mammaire luminale métastatique
+#1	ICD-O-3.1 T1	8520/3
+#2	ICD-O-3.1 T5	8520/3
+#3	ICD-O-3.1 T2	8001/3
+#4	ICD-O-3.1 T4	8000/6
+#5	ICD-O-3.1 T3	8520/3
+#6	ICD-O-3.1 T6	8000/6
+#7	SNOMED T1	278054005
+#8	SNOMED T5	278054005
+#9	SNOMED T2	88400008
+#10	SNOMED T4	14799000
+#11	SNOMED T3	278054005
+#12	SNOMED T6	14799000

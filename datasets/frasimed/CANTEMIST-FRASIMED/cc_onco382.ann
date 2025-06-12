@@ -1,0 +1,21 @@
+T1	morphology-onco 198 218	carcinome malpighien
+T2	morphology-onco 262 279	atteinte pleurale
+T3	morphology-onco 852 899	lésion intraépithéliale squameuse de haut grade
+T4	morphology-onco 901 905	SHIL
+T5	morphology-onco 923 932	papillome
+T6	morphology-onco 1052 1072	progression pleurale
+T7	morphology-onco 3059 3076	cellules malignes
+#1	ICD-O-3.1 T1	8070/3
+#2	ICD-O-3.1 T7	8001/3
+#3	ICD-O-3.1 T5	8050/0
+#4	ICD-O-3.1 T3	8077/2
+#5	ICD-O-3.1 T4	8077/2
+#6	ICD-O-3.1 T2	8000/6
+#7	ICD-O-3.1 T6	8000/6
+#8	SNOMED T1	1162767002
+#9	SNOMED T7	88400008
+#10	SNOMED T5	711329002
+#11	SNOMED T3	22725004
+#12	SNOMED T4	22725004
+#13	SNOMED T2	14799000
+#14	SNOMED T6	14799000

@@ -1,0 +1,20 @@
+T1	disease 43 53	dépression
+T2	disease 96 103	varices
+T3	disease 251 295	kyste mixte (solide et liquide) dans le rein
+T4	disease 359 374	kyste hydatique
+T5	disease 514 523	hydatique
+T6	disease 818 823	kyste
+T7	disease 842 863	adénopathie régionale
+T8	disease 904 919	tumeur kystique
+T9	disease 1069 1087	formation kystique
+T10	disease 1198 1220	néphrome multikystique
+#1	SNOMED T1	394924000
+#2	SNOMED T9	441457006
+#3	SNOMED T2	128060009
+#4	SNOMED T5	74942003
+#5	SNOMED T3	722223000
+#6	SNOMED T4	74942003
+#7	SNOMED T10	92165001
+#8	SNOMED T6	441457006
+#9	SNOMED T7	30746006
+#10	SNOMED T8	441457006

@@ -1,0 +1,15 @@
+T1	disease 54 98	LAM M1 (myéloblastique sans différenciation)
+T2	disease 62 76	myéloblastique
+T3	disease 207 210	LAM
+T4	disease 256 290	symptômes respiratoires catarrhaux
+T5	disease 387 420	papules érythémateuses sur le dos
+T6	disease 426 477	adénopathies supraclaviculaires et sous-maxillaires
+T7	disease 813 897	lésion charnue surélevée de couleur saumon sur le tarse supérieur et inférieur en DO
+T8	disease 906 983	IO, une lésion similaire a été trouvée dans la conjonctive tarsale inférieure
+T9	disease 1067 1104	atteinte leucémique de la conjonctive
+T10	disease 1508 1530	sarcome granulocytaire
+T11	disease 1678 1736	SM affectant la conjonctive, la peau et la muqueuse nasale
+T12	disease 1993 2041	récidive extramédullaire sous forme de SM de LAM
+T13	disease 2142 2149	lésions
+T14	disease 2233 2235	SM
+T15	disease 2253 2280	défaillance multi-organique

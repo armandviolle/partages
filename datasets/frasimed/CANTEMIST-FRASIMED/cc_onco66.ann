@@ -1,0 +1,60 @@
+T1	morphology-onco 144 173	cancer du poumon microcytaire
+T2	morphology-onco 206 212	cancer
+T3	morphology-onco 528 536	lymphome
+T4	morphology-onco 544 559	tumeur desmoïde
+T5	morphology-onco 623 636	neuroblastome
+T6	morphology-onco 855 868	neuroblastome
+T7	morphology-onco 1161 1168	tumoral
+T8	morphology-onco 1858 1870	métastatique
+T9	morphology-onco 1953 1972	masse prévertébrale
+T10	morphology-onco 2156 2192	métastases osseuses de neuroblastome
+T11	morphology-onco 3126 3190	Atteinte métastatique de la moelle osseuse des vertèbres sacrées
+T12	morphology-onco 3135 3147	métastatique
+T13	morphology-onco 3247 3265	Masse de tissu mou
+T14	morphology-onco 3624 3658	métastase osseuse de neuroblastome
+T15	morphology-onco 3707 3725	cellules tumorales
+T16	morphology-onco 3755 3797	rechute du neuroblastome, au niveau des os
+T17	morphology-onco 4081 4094	neuroblastome
+T18	morphology-onco 4414 4420	tumeur
+T19	morphology-onco 5410 5429	masse prévertébrale
+T20	morphology-onco 6223 6245	atteinte adénopathique
+T21	morphology-onco 6263 6284	masse des tissus mous
+#1	ICD-O-3.1 T13	8000/6
+#2	ICD-O-3.1 T20	8000/6
+#3	ICD-O-3.1 T2	8000/3
+#4	ICD-O-3.1 T1	8041/3
+#5	ICD-O-3.1 T15	8001/1
+#6	ICD-O-3.1 T3	9590/3
+#7	ICD-O-3.1 T9	8000/6
+#8	ICD-O-3.1 T21	8000/6
+#9	ICD-O-3.1 T19	8000/6
+#10	ICD-O-3.1 T8	8000/6
+#11	ICD-O-3.1 T12	8000/6
+#12	ICD-O-3.1 T5	9500/3
+#13	ICD-O-3.1 T6	9500/3
+#14	ICD-O-3.1 T17	9500/3
+#15	ICD-O-3.1 T18	8000/1
+#16	ICD-O-3.1 T4	8821/1
+#17	ICD-O-3.1 T7	8000/1
+#18	ICD-O-3.1 T10	9500/6
+#19	ICD-O-3.1 T11	8000/6
+#20	ICD-O-3.1 T14	9500/6
+#21	ICD-O-3.1 T16	9500/6
+#22	SNOMED T13	14799000
+#23	SNOMED T20	14799000
+#24	SNOMED T2	1240414004
+#25	SNOMED T1	11010461000119101
+#26	SNOMED T15	39577004
+#27	SNOMED T3	1163043007
+#28	SNOMED T9	14799000
+#29	SNOMED T21	14799000
+#30	SNOMED T19	14799000
+#31	SNOMED T8	14799000
+#32	SNOMED T12	14799000
+#33	SNOMED T5	432328008
+#34	SNOMED T6	432328008
+#35	SNOMED T17	432328008
+#36	SNOMED T18	86251006
+#37	SNOMED T4	47284001
+#38	SNOMED T7	86251006
+#39	SNOMED T11	14799000

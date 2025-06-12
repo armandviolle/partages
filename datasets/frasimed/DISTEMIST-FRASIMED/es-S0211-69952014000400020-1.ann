@@ -1,0 +1,24 @@
+T1	disease 40 51	hypertendue
+T2	disease 53 63	diabétique
+T3	disease 65 70	obèse
+T4	disease 72 86	dyslipidémique
+T5	disease 105 129	maladie rénale chronique
+T6	disease 131 134	MRC
+T7	disease 163 170	diabète
+T8	disease 182 201	néphroangiosclérose
+T9	disease 516 555	infections du site d'entrée du cathéter
+T10	disease 654 665	bactériémie
+T11	disease 748 764	infection au PEC
+T12	disease 935 953	tableau infectieux
+#1	SNOMED T2	73211009
+#2	SNOMED T3	414915002
+#3	SNOMED T4	370992007
+#4	SNOMED T10	5758002
+#5	SNOMED T5	709044004
+#6	SNOMED T6	709044004
+#7	SNOMED T7	73211009
+#8	SNOMED T11	440653007
+#9	SNOMED T8	473392002
+#10	SNOMED T1	38341003
+#11	SNOMED T9	440653007
+#12	SNOMED T12	40733004

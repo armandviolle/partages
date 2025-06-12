@@ -1,0 +1,14 @@
+T1	disease 38 48	dépression
+T2	disease 51 79	diverticulose colique sévère
+T3	disease 82 109	écrasement vertébral D8-D10
+T4	disease 112 133	carence en vitamine D
+T5	disease 136 173	hypertension artérielle et pulmonaire
+T6	disease 176 195	flutter auriculaire
+T7	disease 199 243	insuffisance mitrale, tricuspide et aortique
+T8	disease 909 921	hématochézie
+T9	disease 952 984	pathologie pulmonaire bilatérale
+T10	disease 1112 1159	granulome calcifié dans le lobe moyen du poumon
+T11	disease 1167 1196	lymphadénopathie subcarinaire
+T12	disease 1238 1285	pneumonie communautaire multilobaire bilatérale
+T13	disease 1803 1829	adénopathie interlobulaire
+T14	disease 2435 2455	symptômes dépressifs

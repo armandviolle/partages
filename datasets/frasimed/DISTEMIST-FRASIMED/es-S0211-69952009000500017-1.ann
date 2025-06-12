@@ -1,0 +1,20 @@
+T1	disease 32 49	syndrome d'Alport
+T2	disease 130 152	perte auditive modérée
+T3	disease 154 177	hypertension artérielle
+T4	disease 207 214	obésité
+T5	disease 327 339	dyslipidémie
+T6	disease 343 356	hyperuricémie
+T7	disease 374 383	Ex-fumeur
+T8	disease 539 566	glomérulopathie sclérosante
+T9	disease 982 998	maladie d'Alport
+T10	disease 1031 1067	glomérulonéphrite sclérosante focale
+#1	SNOMED T1	770414008
+#2	SNOMED T2	21451000119101
+#3	SNOMED T3	38341003
+#4	SNOMED T4	414916001
+#5	SNOMED T5	370992007
+#6	SNOMED T6	35885006
+#7	SNOMED T7	8517006
+#8	SNOMED T8	13335004
+#9	SNOMED T9	770414008
+#10	SNOMED T10	13335004

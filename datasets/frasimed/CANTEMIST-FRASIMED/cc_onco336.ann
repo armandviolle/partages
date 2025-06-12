@@ -1,0 +1,38 @@
+T1	morphology-onco 258 266	grosseur
+T2	morphology-onco 378 383	masse
+T3	morphology-onco 458 507	ganglion lymphatique axillaire, supraclaviculaire
+T4	morphology-onco 1068 1104	IDC mammaire, grade histologique III
+T5	morphology-onco 1354 1376	carcinome métastatique
+T6	morphology-onco 1593 1611	lésions à distance
+T7	morphology-onco 1762 1765	ILC
+T8	morphology-onco 1835 1873	ganglion lymphatique supraclaviculaire
+T9	morphology-onco 1887 1889	M1
+T10	morphology-onco 2058 2088	IDC mammaire oligométastatique
+T11	morphology-onco 2516 2522	tumeur
+T12	morphology-onco 3278 3280	M0
+T13	morphology-onco 6385 6402	cellules malignes
+#1	ICD-O-3.1 T7	8500/3
+#2	ICD-O-3.1 T12	8000/6
+#3	ICD-O-3.1 T9	8000/6
+#4	ICD-O-3.1 T13	8001/3
+#5	ICD-O-3.1 T6	8000/6
+#6	ICD-O-3.1 T5	8010/6
+#7	ICD-O-3.1 T1	8000/1
+#8	ICD-O-3.1 T2	8000/1
+#9	ICD-O-3.1 T11	8000/1
+#10	ICD-O-3.1 T3	8000/6
+#11	ICD-O-3.1 T4	8500/33
+#12	ICD-O-3.1 T8	8000/6
+#13	ICD-O-3.1 T10	8500/6
+#14	SNOMED T7	58477004
+#15	SNOMED T12	14799000
+#16	SNOMED T9	14799000
+#17	SNOMED T13	88400008
+#18	SNOMED T6	14799000
+#19	SNOMED T5	79282002
+#20	SNOMED T1	86251006
+#21	SNOMED T2	86251006
+#22	SNOMED T11	86251006
+#23	SNOMED T3	14799000
+#24	SNOMED T4	58477004
+#25	SNOMED T8	14799000

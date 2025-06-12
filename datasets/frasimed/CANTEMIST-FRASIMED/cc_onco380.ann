@@ -1,0 +1,79 @@
+T1	morphology-onco 376 390	adénocarcinome
+T2	morphology-onco 1490 1499	néoplasie
+T3	morphology-onco 1890 1899	métastase
+T4	morphology-onco 1930 1944	adénocarcinome
+T5	morphology-onco 2268 2283	Masse hépatique
+T6	morphology-onco 2315 2344	métastase d'un adénocarcinome
+T7	morphology-onco 2381 2390	carcinome
+T8	morphology-onco 2445 2452	Adénome
+T9	morphology-onco 2996 3005	néoplasie
+T10	morphology-onco 3145 3161	dysplasie sévère
+T11	morphology-onco 3162 3179	carcinome in situ
+T12	morphology-onco 3211 3297	Adénocarcinome modérément différencié de type intestinal compatible avec une métastase
+T13	morphology-onco 3589 3645	néoplasme hypopharyngé de stade cT3N2 avec une métastase
+T14	morphology-onco 3761 3770	métastase
+T15	morphology-onco 4054 4063	néoplasme
+T16	morphology-onco 4138 4147	néoplasme
+T17	morphology-onco 4242 4291	métastase hépatique résécable d'un adénocarcinome
+T18	morphology-onco 5170 5176	tumeur
+T19	morphology-onco 7400 7409	métastase
+T20	morphology-onco 7561 7568	tumoral
+T21	morphology-onco 7588 7635	adénocarcinome de type intestinal, métastatique
+T22	morphology-onco 7810 7818	tumorale
+T23	morphology-onco 7896 7902	tumeur
+T24	morphology-onco 7949 7958	malignité
+T25	morphology-onco 8247 8256	malignité
+T26	morphology-onco 8403 8411	tumorale
+T27	morphology-onco 8819 8827	tumorale
+#1	ICD-O-3.1 T8	8140/0
+#2	ICD-O-3.1 T1	8140/3
+#3	ICD-O-3.1 T4	8140/3
+#4	ICD-O-3.1 T7	8010/3
+#5	ICD-O-3.1 T24	8000/3
+#6	ICD-O-3.1 T25	8000/3
+#7	ICD-O-3.1 T3	8000/6
+#8	ICD-O-3.1 T14	8000/6
+#9	ICD-O-3.1 T19	8000/6
+#10	ICD-O-3.1 T6	8140/6
+#11	ICD-O-3.1 T2	8000/1
+#12	ICD-O-3.1 T15	8000/1
+#13	ICD-O-3.1 T16	8000/1
+#14	ICD-O-3.1 T18	8000/1
+#15	ICD-O-3.1 T23	8000/1
+#16	ICD-O-3.1 T20	8000/1
+#17	ICD-O-3.1 T22	8000/1
+#18	ICD-O-3.1 T26	8000/1
+#19	ICD-O-3.1 T27	8000/1
+#20	ICD-O-3.1 T11	8010/2
+#21	ICD-O-3.1 T10	8077/2
+#22	ICD-O-3.1 T12	8144/62
+#23	ICD-O-3.1 T13	8000/6
+#24	ICD-O-3.1 T17	8140/6
+#25	ICD-O-3.1 T21	8144/6
+#26	ICD-O-3.1 T5	8000/6
+#27	ICD-O-3.1 T9	8000/1
+#28	SNOMED T8	1187379001
+#29	SNOMED T1	1187332001
+#30	SNOMED T4	1187332001
+#31	SNOMED T7	1187425009
+#32	SNOMED T24	1240414004
+#33	SNOMED T25	1240414004
+#34	SNOMED T3	14799000
+#35	SNOMED T14	14799000
+#36	SNOMED T19	14799000
+#37	SNOMED T6	4590003
+#38	SNOMED T2	86251006
+#39	SNOMED T15	86251006
+#40	SNOMED T16	86251006
+#41	SNOMED T18	86251006
+#42	SNOMED T23	86251006
+#43	SNOMED T20	86251006
+#44	SNOMED T22	86251006
+#45	SNOMED T26	86251006
+#46	SNOMED T27	86251006
+#47	SNOMED T11	1187138006
+#48	SNOMED T10	22725004
+#49	SNOMED T13	14799000
+#50	SNOMED T17	4590003
+#51	SNOMED T5	14799000
+#52	SNOMED T9	86251006

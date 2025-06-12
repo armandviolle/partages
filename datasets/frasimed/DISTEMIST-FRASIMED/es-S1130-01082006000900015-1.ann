@@ -1,0 +1,22 @@
+T1	disease 60 76	colite ulcéreuse
+T2	disease 277 283	lésion
+T3	disease 345 349	lues
+T4	disease 572 586	lésion ulcérée
+T5	disease 880 899	hyperplasique polyp
+T6	disease 866 919	adénome mixte hyperplasique polyp-tubulaire du rectum
+T7	disease 1038 1044	lésion
+T8	disease 1256 1262	lésion
+T9	disease 1416 1436	adénome villositaire
+T10	disease 1443 1462	maladie intestinale
+T11	disease 1537 1559	polypose de la calotte
+#1	SNOMED T1	64766004
+#2	SNOMED T9	399432003
+#3	SNOMED T10	24526004
+#4	SNOMED T11	720604008
+#5	SNOMED T5	62047007
+#6	SNOMED T3	76272004
+#7	SNOMED T2	417163006
+#8	SNOMED T4	56208002
+#9	SNOMED T7	417163006
+#10	SNOMED T8	417163006
+#11	SNOMED T6	448428002

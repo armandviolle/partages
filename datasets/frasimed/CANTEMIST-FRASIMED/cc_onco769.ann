@@ -1,0 +1,66 @@
+T1	morphology-onco 467 479	fibroadénome
+T2	morphology-onco 594 620	épithélioma basocellulaire
+T3	morphology-onco 2024 2033	néoplasme
+T4	morphology-onco 2302 2316	adénocarcinome
+T5	morphology-onco 2352 2366	adénocarcinome
+T6	morphology-onco 2443 2462	atteinte à distance
+T7	morphology-onco 2690 2698	tumorale
+T8	morphology-onco 2766 2808	adénocarcinome colorectal bien différencié
+T9	morphology-onco 3137 3149	métastatique
+T10	morphology-onco 3163 3177	Adénocarcinome
+T11	morphology-onco 3280 3288	pT3N1aM0
+T12	morphology-onco 3473 3480	tumoral
+T13	morphology-onco 5185 5193	tumorale
+T14	morphology-onco 5434 5443	malignité
+T15	morphology-onco 6407 6449	carcinome à différenciation neuroendocrine
+T16	morphology-onco 6737 6770	carcinome à morphologie basaloïde
+T17	morphology-onco 6776 6804	différenciation malpighienne
+T18	morphology-onco 6808 6822	neuroendocrine
+T19	morphology-onco 6965 6973	tumoraux
+T20	morphology-onco 7030 7044	adénocarcinome
+T21	morphology-onco 7112 7174	différenciation neuroendocrine de l'épithélioma basocellulaire
+T22	morphology-onco 7148 7174	épithélioma basocellulaire
+#1	ICD-O-3.1 T4	8140/3
+#2	ICD-O-3.1 T5	8140/3
+#3	ICD-O-3.1 T20	8140/3
+#4	ICD-O-3.1 T2	8090/3
+#5	ICD-O-3.1 T22	8090/3
+#6	ICD-O-3.1 T1	9010/0
+#7	ICD-O-3.1 T14	8000/3
+#8	ICD-O-3.1 T9	8000/6
+#9	ICD-O-3.1 T3	8000/1
+#10	ICD-O-3.1 T7	8000/1
+#11	ICD-O-3.1 T12	8000/1
+#12	ICD-O-3.1 T13	8000/1
+#13	ICD-O-3.1 T19	8000/1
+#14	ICD-O-3.1 T6	8000/6
+#15	ICD-O-3.1 T8	8140/31
+#16	ICD-O-3.1 T10	8140/3
+#17	ICD-O-3.1 T11	8000/6
+#18	ICD-O-3.1 T15	8574/3
+#19	ICD-O-3.1 T17	8070/3
+#20	ICD-O-3.1 T18	8574/3
+#21	ICD-O-3.1 T21	8574/3
+#22	ICD-O-3.1 T16	8090/3
+#23	SNOMED T4	1187332001
+#24	SNOMED T5	1187332001
+#25	SNOMED T20	1187332001
+#26	SNOMED T2	1338007
+#27	SNOMED T22	1338007
+#28	SNOMED T1	1156873009
+#29	SNOMED T14	1240414004
+#30	SNOMED T9	14799000
+#31	SNOMED T3	86251006
+#32	SNOMED T7	86251006
+#33	SNOMED T12	86251006
+#34	SNOMED T13	86251006
+#35	SNOMED T19	86251006
+#36	SNOMED T6	14799000
+#37	SNOMED T8	1187332001
+#38	SNOMED T10	1187332001
+#39	SNOMED T11	14799000
+#40	SNOMED T15	128704005
+#41	SNOMED T17	1162767002
+#42	SNOMED T18	128704005
+#43	SNOMED T21	128704005
+#44	SNOMED T16	1338007

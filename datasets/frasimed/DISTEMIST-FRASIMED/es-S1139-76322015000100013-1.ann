@@ -1,0 +1,10 @@
+T1	disease 67 142	lésions vésiculaires-coscosales prurigineuses périorbitaires et palpébrales
+T2	disease 175 189	zona palpébral
+T3	disease 582 621	lésion périorbitaire comme tinea faciei
+T4	disease 862 869	lésions
+T5	disease 932 940	kératose
+#1	SNOMED T2	186544000
+#2	SNOMED T5	254666005
+#3	SNOMED T3	240696004
+#4	SNOMED T1	79893008+731869003
+#5	SNOMED T4	157670007

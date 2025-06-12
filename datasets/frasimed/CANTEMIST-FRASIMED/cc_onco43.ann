@@ -1,0 +1,60 @@
+T1	morphology-onco 241 250	malignité
+T2	morphology-onco 390 418	carcinome urothélial pTa GII
+T3	morphology-onco 504 530	carcinome urothélial mixte
+T4	morphology-onco 539 553	adénocarcinome
+T5	morphology-onco 787 860	carcinome urothélial avec une différenciation glandulaire de bas grade T1
+T6	morphology-onco 1323 1340	tumeur papillaire
+T7	morphology-onco 1507 1544	carcinome urothélial de bas grade OMS
+T8	morphology-onco 1611 1652	variante emboîtée du carcinome urothélial
+T9	morphology-onco 1711 1728	tumeur papillaire
+T10	morphology-onco 2044 2070	carcinome urothélial niché
+T11	morphology-onco 2233 2239	tumeur
+T12	morphology-onco 2277 2287	métastases
+T13	morphology-onco 2386 2438	carcinome urothélial infiltrant niché dans la vessie
+T14	morphology-onco 2552 2558	tumeur
+T15	morphology-onco 2639 2698	carcinome urothélial infiltrant de haut grade de type niché
+T16	morphology-onco 2858 2878	carcinome urothélial
+T17	morphology-onco 3132 3134	M0
+T18	morphology-onco 3288 3341	carcinome urothélial infiltrant de la variante nichée
+T19	morphology-onco 3549 3601	variante histologique nichée du carcinome urothélial
+T20	morphology-onco 3950 3962	métastatique
+#1	ICD-O-3.1 T17	8000/6
+#2	ICD-O-3.1 T4	8140/3
+#3	ICD-O-3.1 T16	8120/3
+#4	ICD-O-3.1 T1	8000/3
+#5	ICD-O-3.1 T20	8000/6
+#6	ICD-O-3.1 T12	8000/6
+#7	ICD-O-3.1 T11	8000/1
+#8	ICD-O-3.1 T14	8000/1
+#9	ICD-O-3.1 T2	8120/32
+#10	ICD-O-3.1 T3	8120/3/H
+#11	ICD-O-3.1 T5	8120/31
+#12	ICD-O-3.1 T7	8120/31
+#13	ICD-O-3.1 T6	8000/1/H
+#14	ICD-O-3.1 T8	8120/3/H
+#15	ICD-O-3.1 T9	8000/1/H
+#16	ICD-O-3.1 T10	8120/3/H
+#17	ICD-O-3.1 T13	8120/3/H
+#18	ICD-O-3.1 T15	8120/34/H
+#19	ICD-O-3.1 T18	8120/3/H
+#20	ICD-O-3.1 T19	8120/3/H
+#21	SNOMED T17	14799000
+#22	SNOMED T4	1187332001
+#23	SNOMED T16	27090000
+#24	SNOMED T1	1240414004
+#25	SNOMED T20	14799000
+#26	SNOMED T12	14799000
+#27	SNOMED T11	86251006
+#28	SNOMED T14	86251006
+#29	SNOMED T2	27090000
+#30	SNOMED T3	27090000
+#31	SNOMED T5	27090000
+#32	SNOMED T7	27090000
+#33	SNOMED T6	86251006
+#34	SNOMED T8	27090000
+#35	SNOMED T9	86251006
+#36	SNOMED T10	27090000
+#37	SNOMED T13	27090000
+#38	SNOMED T15	27090000
+#39	SNOMED T18	27090000
+#40	SNOMED T19	27090000

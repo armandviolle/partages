@@ -1,0 +1,10 @@
+T1	disease 32 63	pathologie lithiasique complexe
+T2	disease 211 228	lithiases rénales
+T3	disease 309 356	dilatation pyélocalicielle et urétérale modérée
+T4	disease 425 443	lithiase urétérale
+T5	disease 575 628	lithiase de 1 cm a été trouvée dans le pôle inférieur
+#1	SNOMED T1	66058000
+#2	SNOMED T2	386103008
+#3	SNOMED T4	386104002
+#4	SNOMED T5	386103008
+#5	SNOMED T3	95576001+371011007

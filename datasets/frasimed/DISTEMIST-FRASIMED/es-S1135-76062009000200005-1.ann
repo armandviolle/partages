@@ -1,0 +1,14 @@
+T1	disease 235 276	rhume des voies respiratoires supérieures
+T2	disease 1122 1147	arrêt cardio-respiratoire
+T3	disease 1310 1317	obésité
+T4	disease 1324 1336	malnutrition
+T5	disease 1575 1600	anomalie de développement
+T6	disease 1654 1720	cavité abdominale a révélé une collection de liquide sérohématique
+T7	disease 1817 1829	marc de café
+T8	disease 2111 2139	iléon est clairement rétréci
+T9	disease 2197 2283	intestin grêle présentant des modifications pariétales, on trouve un contenu hématique
+T10	disease 2378 2426	anomalie dans la fermeture du mésentère du cæcum
+T11	disease 2825 2842	choc hémorragique
+T12	disease 2825 2918	choc hémorragique secondaire à une obstruction mécanique et à une nécrose de l'intestin grêle
+T13	disease 2860 2918	obstruction mécanique et à une nécrose de l'intestin grêle
+T14	disease 2929 3012	hernie transmésocolique avec hernie interne de l'intestin grêle et du gros intestin

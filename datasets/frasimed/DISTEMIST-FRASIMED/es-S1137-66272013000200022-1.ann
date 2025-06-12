@@ -1,0 +1,22 @@
+T1	disease 68 91	maladie de Crohn iléale
+T2	disease 216 233	corticodépendance
+T3	disease 1256 1271	hépatite B et C
+T4	disease 1432 1439	lésions
+T5	disease 1458 1478	Légère splénomégalie
+T6	disease 1817 1824	lésions
+T7	disease 1843 1863	Légère splénomégalie
+T8	disease 1949 1998	œsophage, on a observé 3 petits cordons variqueux
+T9	disease 2373 2385	hémosidérose
+T10	disease 3043 3063	hypertension portale
+T11	disease 3130 3151	varices œsophagiennes
+#1	SNOMED T8	28670008
+#2	SNOMED T10	34742003
+#3	SNOMED T1	38106008
+#4	SNOMED T11	28670008
+#5	SNOMED T5	16294009
+#6	SNOMED T3	442374005
+#7	SNOMED T2	95919007
+#8	SNOMED T7	16294009
+#9	SNOMED T9	39011001
+#10	SNOMED T4	157670007
+#11	SNOMED T6	157670007

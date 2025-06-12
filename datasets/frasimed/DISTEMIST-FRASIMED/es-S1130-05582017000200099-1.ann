@@ -1,0 +1,10 @@
+T1	disease 29 36	fumeuse
+T2	disease 94 119	allergies médicamenteuses
+T3	disease 660 666	lésion
+T4	disease 725 731	lésion
+T5	disease 1360 1378	fasciite nodulaire
+#1	SNOMED T1	77176002
+#2	SNOMED T2	416098002
+#3	SNOMED T5	400138001
+#4	SNOMED T3	417163006
+#5	SNOMED T4	417163006

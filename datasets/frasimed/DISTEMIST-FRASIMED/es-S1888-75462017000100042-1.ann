@@ -1,0 +1,6 @@
+T1	disease 546 608	neuropathie compressive du nerf cubital dans le canal de Guyon
+T2	disease 879 930	pseudarthrose du processus unciforme de l'os crochu
+T3	disease 1096 1109	pseudarthrose
+#1	SNOMED T2	208369005
+#2	SNOMED T1	193134004
+#3	SNOMED T3	410818009

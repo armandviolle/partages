@@ -1,0 +1,10 @@
+T1	disease 787 800	coagulopathie
+T2	disease 990 997	lésions
+T3	disease 1039 1069	infection chronique par le VHB
+T4	disease 1168 1171	CHC
+T5	disease 1201 1221	infection par le VHB
+#1	SNOMED T3	66071002
+#2	SNOMED T4	109841003
+#3	SNOMED T5	66071002
+#4	SNOMED T1	64779008
+#5	SNOMED T2	157670007

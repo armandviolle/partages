@@ -1,0 +1,27 @@
+T1	morphology-onco 994 1001	maligne
+T2	morphology-onco 1129 1136	thymome
+T3	morphology-onco 1150 1168	Carcinome thymique
+T4	morphology-onco 1150 1181	Carcinome thymique sarcomatoïde
+T5	morphology-onco 1331 1346	tumeur thymique
+T6	morphology-onco 1506 1524	carcinome thymique
+T7	morphology-onco 1506 1537	carcinome thymique sarcomatoïde
+T8	morphology-onco 1637 1655	carcinome thymique
+T9	morphology-onco 3292 3322	implants pleuraux médiastinaux
+#1	ICD-O-3.1 T3	8586/3
+#2	ICD-O-3.1 T6	8586/3
+#3	ICD-O-3.1 T8	8586/3
+#4	ICD-O-3.1 T1	8000/3
+#5	ICD-O-3.1 T7	8033/3
+#6	ICD-O-3.1 T2	8580/1
+#7	ICD-O-3.1 T4	8033/3
+#8	ICD-O-3.1 T5	8580/1
+#9	ICD-O-3.1 T9	8000/6
+#10	SNOMED T3	444374006
+#11	SNOMED T6	444374006
+#12	SNOMED T8	444374006
+#13	SNOMED T1	1240414004
+#14	SNOMED T7	23109009
+#15	SNOMED T2	1187428006
+#16	SNOMED T4	23109009
+#17	SNOMED T5	1187428006
+#18	SNOMED T9	14799000

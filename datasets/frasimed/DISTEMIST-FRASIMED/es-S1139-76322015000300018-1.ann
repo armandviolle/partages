@@ -1,0 +1,20 @@
+T1	disease 197 219	éruption érythémateuse
+T2	disease 583 611	infection bactérienne sévère
+T3	disease 982 1002	éruption évanescente
+T4	disease 1480 1501	œdème pulmonaire aigu
+T5	disease 1540 1552	pancytopénie
+T6	disease 1664 1672	grippe A
+T7	disease 1986 2017	infection par le parvovirus B19
+T8	disease 2021 2046	insuffisance respiratoire
+T9	disease 2053 2065	pancytopénie
+T10	disease 2264 2283	érythème infectieux
+#1	SNOMED T2	87628006
+#2	SNOMED T7	34730008
+#3	SNOMED T8	409623005
+#4	SNOMED T9	127034005
+#5	SNOMED T10	34730008
+#6	SNOMED T4	40541001
+#7	SNOMED T5	127034005
+#8	SNOMED T6	6142004
+#9	SNOMED T1	271807003
+#10	SNOMED T3	271807003

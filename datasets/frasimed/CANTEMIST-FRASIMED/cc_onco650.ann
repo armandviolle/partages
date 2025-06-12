@@ -1,0 +1,69 @@
+T1	morphology-onco 413 457	carcinome épidermoïde modérément différencié
+T2	morphology-onco 610 620	métastases
+T3	morphology-onco 856 863	pT4N2M0
+T4	morphology-onco 2099 2137	carcinome hypopharyngé peu différencié
+T5	morphology-onco 2138 2145	pT2N0M0
+T6	morphology-onco 2227 2233	tumeur
+T7	morphology-onco 2313 2319	tumeur
+T8	morphology-onco 3536 3543	tumoral
+T9	morphology-onco 4077 4086	malignité
+T10	morphology-onco 4331 4337	tumeur
+T11	morphology-onco 4396 4402	tumeur
+T12	morphology-onco 4607 4613	tumeur
+T13	morphology-onco 4734 4778	carcinome épidermoïde modérément différencié
+T14	morphology-onco 4957 4978	carcinome épidermoïde
+T15	morphology-onco 6203 6240	carcinome épidermoïde peu différencié
+T16	morphology-onco 8006 8028	progression pulmonaire
+T17	morphology-onco 8850 8887	carcinome épidermoïde peu différencié
+T18	morphology-onco 8985 8991	tumeur
+T19	morphology-onco 9275 9285	cancéreuse
+T20	morphology-onco 9573 9592	nodules pulmonaires
+T21	morphology-onco 9631 9638	tumoral
+T22	morphology-onco 9767 9776	carcinome
+T23	morphology-onco 10049 10058	carcinome
+#1	ICD-O-3.1 T22	8010/3
+#2	ICD-O-3.1 T23	8010/3
+#3	ICD-O-3.1 T14	8070/3
+#4	ICD-O-3.1 T1	8070/32
+#5	ICD-O-3.1 T13	8070/32
+#6	ICD-O-3.1 T4	8010/33
+#7	ICD-O-3.1 T19	8000/3
+#8	ICD-O-3.1 T9	8000/3
+#9	ICD-O-3.1 T2	8000/6
+#10	ICD-O-3.1 T20	8000/6
+#11	ICD-O-3.1 T5	8000/6
+#12	ICD-O-3.1 T16	8000/6
+#13	ICD-O-3.1 T6	8000/1
+#14	ICD-O-3.1 T7	8000/1
+#15	ICD-O-3.1 T10	8000/1
+#16	ICD-O-3.1 T12	8000/1
+#17	ICD-O-3.1 T11	8000/1
+#18	ICD-O-3.1 T18	8000/1
+#19	ICD-O-3.1 T8	8000/1
+#20	ICD-O-3.1 T21	8000/1
+#21	ICD-O-3.1 T3	8000/6
+#22	ICD-O-3.1 T15	8070/33
+#23	ICD-O-3.1 T17	8070/33
+#24	SNOMED T22	1187425009
+#25	SNOMED T23	1187425009
+#26	SNOMED T14	1162767002
+#27	SNOMED T1	1162767002
+#28	SNOMED T13	1162767002
+#29	SNOMED T4	1187425009
+#30	SNOMED T19	1240414004
+#31	SNOMED T9	1240414004
+#32	SNOMED T2	14799000
+#33	SNOMED T20	14799000
+#34	SNOMED T5	14799000
+#35	SNOMED T16	14799000
+#36	SNOMED T6	86251006
+#37	SNOMED T7	86251006
+#38	SNOMED T10	86251006
+#39	SNOMED T12	86251006
+#40	SNOMED T11	86251006
+#41	SNOMED T18	86251006
+#42	SNOMED T8	86251006
+#43	SNOMED T21	86251006
+#44	SNOMED T3	14799000
+#45	SNOMED T15	1162767002
+#46	SNOMED T17	1162767002

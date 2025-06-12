@@ -1,0 +1,18 @@
+T1	disease 79 112	paragangliome du corps carotidien
+T2	disease 193 199	lésion
+T3	disease 447 456	dysphonie
+T4	disease 751 757	lésion
+T5	disease 938 971	paragangliome du corps carotidien
+T6	disease 1011 1017	lésion
+T7	disease 1205 1211	lésion
+T8	disease 1359 1365	lésion
+T9	disease 1824 1857	paragangliome du corps carotidien
+#1	SNOMED T1	302833002
+#2	SNOMED T5	302833002
+#3	SNOMED T9	302833002
+#4	SNOMED T3	16617009
+#5	SNOMED T2	417163006
+#6	SNOMED T4	417163006
+#7	SNOMED T6	417163006
+#8	SNOMED T7	417163006
+#9	SNOMED T8	417163006

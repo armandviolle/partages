@@ -1,0 +1,6 @@
+T1	disease 134 146	urétrorragie
+T2	disease 1002 1041	papillome inversé de l'urètre antérieur
+T3	disease 1191 1203	urétrorragie
+#1	SNOMED T1	249301002
+#2	SNOMED T3	249301002
+#3	SNOMED T2	126883004

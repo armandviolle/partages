@@ -1,0 +1,12 @@
+T1	morphology-onco 1568 1593	syndrome myélodysplasique
+T2	morphology-onco 1750 1776	syndrome myéloprolifératif
+T3	morphology-onco 1777 1810	idiopathique de type myélofibrose
+T4	morphology-onco 4429 4441	myélofibrose
+#1	ICD-O-3.1 T2	9960/3
+#2	ICD-O-3.1 T4	9931/3
+#3	ICD-O-3.1 T1	9989/3
+#4	ICD-O-3.1 T3	9961/3
+#5	SNOMED T2	109993000
+#6	SNOMED T4	109991003
+#7	SNOMED T1	109995007
+#8	SNOMED T3	52967002

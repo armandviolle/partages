@@ -1,0 +1,12 @@
+T1	disease 708 727	diverticulite aiguë
+T2	disease 897 919	diverticulose sigmoïde
+T3	disease 934 947	diverticulite
+T4	disease 1134 1176	appendagite aiguë secondaire à une torsion
+T5	disease 1247 1258	appendagite
+T6	disease 1270 1292	appendagite épiploïque
+#1	SNOMED T5	14720231000119109
+#2	SNOMED T6	14720231000119109
+#3	SNOMED T1	307496006
+#4	SNOMED T2	427910000
+#5	SNOMED T3	307496006
+#6	SNOMED T4	14720231000119109+51877002

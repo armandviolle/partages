@@ -1,0 +1,21 @@
+T1	morphology-onco 174 202	Tumeur de la vessie (PTA G2)
+T2	morphology-onco 1229 1237	tumorale
+T3	morphology-onco 1300 1311	néoplasique
+T4	morphology-onco 2381 2389	tumorale
+T5	morphology-onco 2425 2453	Carcinome à petites cellules
+T6	morphology-onco 2789 2828	Carcinome pulmonaire à petites cellules
+T7	morphology-onco 2857 2863	TxN2M0
+#1	ICD-O-3.1 T5	8041/3
+#2	ICD-O-3.1 T3	8000/1
+#3	ICD-O-3.1 T2	8000/1
+#4	ICD-O-3.1 T4	8000/1
+#5	ICD-O-3.1 T1	8130/2
+#6	ICD-O-3.1 T6	8041/3
+#7	ICD-O-3.1 T7	8000/6
+#8	SNOMED T5	11010461000119101
+#9	SNOMED T3	86251006
+#10	SNOMED T2	86251006
+#11	SNOMED T4	86251006
+#12	SNOMED T1	128877008
+#13	SNOMED T6	11010461000119101
+#14	SNOMED T7	14799000

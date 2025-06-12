@@ -1,0 +1,24 @@
+T1	disease 107 130	hématurie macroscopique
+T2	disease 367 373	anémié
+T3	disease 377 386	hypotendu
+T4	disease 530 577	vessie complètement occupée par un gros caillot
+T5	disease 570 585	caillot vésical
+T6	disease 593 632	urétérohydronéphrose bilatérale modérée
+T7	disease 814 835	lésions endovésicales
+T8	disease 1206 1214	anémique
+T9	disease 1436 1471	problème d'obstruction de la vessie
+T10	disease 2534 2540	lésion
+T11	disease 2683 2720	amylose vésicale secondaire (Type AA)
+T12	disease 2983 3023	atteinte systémique due à une amyloïdose
+#1	SNOMED T1	197941005
+#2	SNOMED T9	428090004+252028009
+#3	SNOMED T12	89449005
+#4	SNOMED T2	271737000
+#5	SNOMED T4	75753009+89837001
+#6	SNOMED T8	271737000
+#7	SNOMED T6	95576001+95581005
+#8	SNOMED T11	278899001
+#9	SNOMED T7	42643001
+#10	SNOMED T10	417163006
+#11	SNOMED T3	45007003
+#12	SNOMED T5	42643001

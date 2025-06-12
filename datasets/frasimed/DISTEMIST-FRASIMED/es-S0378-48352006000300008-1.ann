@@ -1,0 +1,20 @@
+T1	disease 269 319	papules violacées sur les jointures des deux mains
+T2	disease 524 559	processus myopathique inflammatoire
+T3	disease 630 644	dermatomyosite
+T4	disease 663 677	dermatomyosite
+T5	disease 832 861	lésions hépatiques hypodenses
+T6	disease 880 906	hépatique : Adénocarcinome
+T7	disease 984 1000	lésions cutanées
+T8	disease 1063 1089	adénocarcinome pancréatiqu
+T9	disease 1113 1134	métastases hépatiques
+T10	disease 1290 1306	lésions cutanées
+#1	SNOMED T1	70831001
+#2	SNOMED T2	128496001
+#3	SNOMED T3	396230008
+#4	SNOMED T4	396230008
+#5	SNOMED T5	235856003
+#6	SNOMED T6	408646000
+#7	SNOMED T7	95324001
+#8	SNOMED T8	700423003
+#9	SNOMED T9	94381002
+#10	SNOMED T10	95324001

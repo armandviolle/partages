@@ -1,0 +1,24 @@
+T1	morphology-onco 140 163	adénocarcinome mucineux
+T2	morphology-onco 179 186	cT4N2M0
+T3	morphology-onco 1872 1891	lésion métastatique
+T4	morphology-onco 1935 1953	lésions hépatiques
+T5	morphology-onco 2060 2088	lésions des corps vertébraux
+T6	morphology-onco 2197 2226	métastase de l'adénocarcinome
+T7	morphology-onco 3506 3521	maladie osseuse
+T8	morphology-onco 3564 3582	lésions hépatiques
+#1	ICD-O-3.1 T1	8480/3
+#2	ICD-O-3.1 T2	8000/6
+#3	ICD-O-3.1 T7	8000/6
+#4	ICD-O-3.1 T4	8000/6
+#5	ICD-O-3.1 T8	8000/6
+#6	ICD-O-3.1 T3	8000/6
+#7	ICD-O-3.1 T5	8000/6
+#8	ICD-O-3.1 T6	8140/6
+#9	SNOMED T1	72495009
+#10	SNOMED T2	14799000
+#11	SNOMED T7	14799000
+#12	SNOMED T4	14799000
+#13	SNOMED T8	14799000
+#14	SNOMED T3	14799000
+#15	SNOMED T5	14799000
+#16	SNOMED T6	4590003

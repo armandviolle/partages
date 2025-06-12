@@ -1,0 +1,12 @@
+T1	disease 96 112	syndrome de Down
+T2	disease 119 139	retard mental sévère
+T3	disease 470 488	volvulus gastrique
+T4	disease 597 609	dolichocôlon
+T5	disease 1037 1073	dilatation massive du côlon proximal
+T6	disease 1691 1732	volvulus de la flexion splénique du côlon
+#1	SNOMED T1	41040004
+#2	SNOMED T2	40700009
+#3	SNOMED T3	71851009
+#4	SNOMED T4	30468000
+#5	SNOMED T5	86247009
+#6	SNOMED T6	6441003

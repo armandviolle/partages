@@ -1,0 +1,15 @@
+T1	morphology-onco 2709 2715	Tumeur
+T2	morphology-onco 2897 2903	tumeur
+T3	morphology-onco 3235 3270	adénocarcinome mucineux de l'utérus
+T4	morphology-onco 3913 3919	tumeur
+T5	morphology-onco 5734 5742	tumorale
+#1	ICD-O-3.1 T1	8000/1
+#2	ICD-O-3.1 T2	8000/1
+#3	ICD-O-3.1 T4	8000/1
+#4	ICD-O-3.1 T5	8000/1
+#5	ICD-O-3.1 T3	9015/3
+#6	SNOMED T1	86251006
+#7	SNOMED T2	86251006
+#8	SNOMED T4	86251006
+#9	SNOMED T5	86251006
+#10	SNOMED T3	128888002

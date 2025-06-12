@@ -1,0 +1,20 @@
+T1	disease 44 53	chalazion
+T2	disease 61 71	blépharite
+T3	disease 392 400	madarose
+T4	disease 537 563	adénopathie préauriculaire
+T5	disease 610 616	lésion
+T6	disease 683 709	carcinome sébacé palpébral
+T7	disease 856 876	infiltration de l'os
+T8	disease 989 998	métastase
+T9	disease 1090 1102	lymphatiques
+T10	disease 1317 1339	insuffisance cardiaque
+#1	SNOMED T1	1482004
+#2	SNOMED T2	41446000
+#3	SNOMED T8	128462008
+#4	SNOMED T9	30746006
+#5	SNOMED T4	127078001
+#6	SNOMED T10	84114007
+#7	SNOMED T6	1145245004
+#8	SNOMED T3	34887006
+#9	SNOMED T5	417163006
+#10	SNOMED T7	94222008

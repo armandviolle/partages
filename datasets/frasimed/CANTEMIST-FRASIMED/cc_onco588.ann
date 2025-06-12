@@ -1,0 +1,53 @@
+T1	morphology-onco 341 348	tumeurs
+T2	morphology-onco 600 606	cancer
+T3	morphology-onco 862 868	cancer
+T4	morphology-onco 1085 1091	cancer
+T5	morphology-onco 1224 1243	polypes adénomateux
+T6	morphology-onco 1467 1531	adénome tubulaire du gros intestin avec dysplasie modérée-sévère
+T7	morphology-onco 1646 1685	carcinome cellulaire en bague de signet
+T8	morphology-onco 1762 1772	métastases
+T9	morphology-onco 2344 2352	tumorale
+T10	morphology-onco 4230 4241	néoplasique
+T11	morphology-onco 4601 4619	tumeur de Klastkin
+T12	morphology-onco 4803 4812	néoplasie
+T13	morphology-onco 5020 5076	Cholangiocarcinome extrahépatique modérément différencié
+T14	morphology-onco 5909 5950	lésions nodulaires dans le grand épiploon
+T15	morphology-onco 6048 6068	implants péritonéaux
+T16	morphology-onco 6305 6319	adénocarcinome
+T17	morphology-onco 6469 6510	rechute péritonéale de cholangiocarcinome
+T18	morphology-onco 7656 7668	métastatique
+#1	ICD-O-3.1 T16	8140/3
+#2	ICD-O-3.1 T2	8000/3
+#3	ICD-O-3.1 T3	8000/3
+#4	ICD-O-3.1 T4	8000/3
+#5	ICD-O-3.1 T18	8000/6
+#6	ICD-O-3.1 T8	8000/6
+#7	ICD-O-3.1 T12	8000/1
+#8	ICD-O-3.1 T10	8000/1
+#9	ICD-O-3.1 T9	8000/1
+#10	ICD-O-3.1 T1	8000/1
+#11	ICD-O-3.1 T5	8210/0
+#12	ICD-O-3.1 T6	8211/0/H
+#13	ICD-O-3.1 T7	8490/3
+#14	ICD-O-3.1 T11	8160/3
+#15	ICD-O-3.1 T13	8160/32
+#16	ICD-O-3.1 T15	8000/6
+#17	ICD-O-3.1 T17	8160/6
+#18	ICD-O-3.1 T14	8000/6
+#19	SNOMED T16	1187332001
+#20	SNOMED T2	1240414004
+#21	SNOMED T3	1240414004
+#22	SNOMED T4	1240414004
+#23	SNOMED T18	14799000
+#24	SNOMED T8	14799000
+#25	SNOMED T12	86251006
+#26	SNOMED T10	86251006
+#27	SNOMED T9	86251006
+#28	SNOMED T1	86251006
+#29	SNOMED T5	82375006
+#30	SNOMED T6	444408007
+#31	SNOMED T7	87737001
+#32	SNOMED T11	312104005
+#33	SNOMED T13	312104005
+#34	SNOMED T15	14799000
+#35	SNOMED T14	14799000

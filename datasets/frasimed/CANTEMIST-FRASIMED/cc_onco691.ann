@@ -1,0 +1,44 @@
+T1	morphology-onco 1825 1843	tumeur gliomateuse
+T2	morphology-onco 2186 2192	tumeur
+T3	morphology-onco 2365 2408	glioblastome multiforme (grade IV de l'OMS)
+T4	morphology-onco 2897 2903	tumeur
+T5	morphology-onco 3157 3165	tumoraux
+T6	morphology-onco 3204 3210	tumeur
+T7	morphology-onco 3476 3482	tumeur
+T8	morphology-onco 3540 3546	tumeur
+T9	morphology-onco 3671 3677	tumeur
+T10	morphology-onco 3826 3832	tumeur
+T11	morphology-onco 4427 4434	tumoral
+T12	morphology-onco 4530 4538	tumorale
+T13	morphology-onco 5091 5099	tumorale
+T14	morphology-onco 5311 5356	carcinome canalaire infiltrant multicentrique
+T15	morphology-onco 5660 5683	glioblastome multiforme
+#1	ICD-O-3.1 T2	8000/1
+#2	ICD-O-3.1 T5	8000/1
+#3	ICD-O-3.1 T8	8000/1
+#4	ICD-O-3.1 T9	8000/1
+#5	ICD-O-3.1 T11	8000/1
+#6	ICD-O-3.1 T12	8000/1
+#7	ICD-O-3.1 T13	8000/1
+#8	ICD-O-3.1 T4	8000/1
+#9	ICD-O-3.1 T6	8000/1
+#10	ICD-O-3.1 T7	8000/1
+#11	ICD-O-3.1 T10	8000/1
+#12	ICD-O-3.1 T1	9380/1
+#13	ICD-O-3.1 T3	9440/34
+#14	ICD-O-3.1 T14	8500/3/H
+#15	ICD-O-3.1 T15	9440/3
+#16	SNOMED T2	86251006
+#17	SNOMED T5	86251006
+#18	SNOMED T8	86251006
+#19	SNOMED T9	86251006
+#20	SNOMED T11	86251006
+#21	SNOMED T12	86251006
+#22	SNOMED T13	86251006
+#23	SNOMED T4	86251006
+#24	SNOMED T6	86251006
+#25	SNOMED T7	86251006
+#26	SNOMED T10	86251006
+#27	SNOMED T3	1163375002
+#28	SNOMED T14	58477004
+#29	SNOMED T15	1163375002

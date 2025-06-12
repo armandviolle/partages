@@ -1,0 +1,36 @@
+T1	morphology-onco 1380 1400	tumeur inflammatoire
+T2	morphology-onco 1569 1577	tumorale
+T3	morphology-onco 1696 1742	carcinome canalaire infiltrant (CDI), grade II
+T4	morphology-onco 1728 1731	CDI
+T5	morphology-onco 1891 1914	métastases de carcinome
+T6	morphology-onco 2258 2281	Carcinome inflammatoire
+T7	morphology-onco 2316 2323	cT4N1M0
+T8	morphology-onco 2646 2677	néoplasme inflammatoire du sein
+T9	morphology-onco 2710 2716	tumeur
+T10	morphology-onco 4131 4137	tumeur
+T11	morphology-onco 5334 5352	lésions hépatiques
+T12	morphology-onco 5543 5553	métastases
+#1	ICD-O-3.1 T4	8500/3
+#2	ICD-O-3.1 T6	8530/3
+#3	ICD-O-3.1 T7	8000/6
+#4	ICD-O-3.1 T11	8000/6
+#5	ICD-O-3.1 T12	8000/6
+#6	ICD-O-3.1 T5	8010/6
+#7	ICD-O-3.1 T9	8000/1
+#8	ICD-O-3.1 T2	8000/1
+#9	ICD-O-3.1 T10	8000/1
+#10	ICD-O-3.1 T1	8000/1/H
+#11	ICD-O-3.1 T3	8500/32
+#12	ICD-O-3.1 T8	8000/1/H
+#13	SNOMED T4	58477004
+#14	SNOMED T6	32968003
+#15	SNOMED T7	14799000
+#16	SNOMED T11	14799000
+#17	SNOMED T12	14799000
+#18	SNOMED T5	79282002
+#19	SNOMED T9	86251006
+#20	SNOMED T2	86251006
+#21	SNOMED T10	86251006
+#22	SNOMED T1	86251006
+#23	SNOMED T3	58477004
+#24	SNOMED T8	86251006

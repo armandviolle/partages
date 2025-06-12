@@ -1,0 +1,36 @@
+T1	morphology-onco 334 342	fibromes
+T2	morphology-onco 617 631	cérébral (LOE)
+T3	morphology-onco 1158 1183	lésions supratentorielles
+T4	morphology-onco 1750 1762	métastatique
+T5	morphology-onco 1783 1802	atteinte à distance
+T6	morphology-onco 2348 2368	carcinome infiltrant
+T7	morphology-onco 6185 6223	cancer du sein de stade IV (métastases
+T8	morphology-onco 7785 7831	carcinome canalaire infiltrant peu différencié
+T9	morphology-onco 7897 7923	lymphangite carcinomateuse
+T10	morphology-onco 8013 8031	cellules tumorales
+T11	morphology-onco 8061 8071	métastases
+T12	morphology-onco 8252 8260	tumorale
+#1	ICD-O-3.1 T5	8000/6
+#2	ICD-O-3.1 T8	8500/33
+#3	ICD-O-3.1 T6	8010/3/H
+#4	ICD-O-3.1 T10	8001/1
+#5	ICD-O-3.1 T9	8000/3
+#6	ICD-O-3.1 T4	8000/6
+#7	ICD-O-3.1 T11	8000/6
+#8	ICD-O-3.1 T1	8895/0
+#9	ICD-O-3.1 T12	8000/1
+#10	ICD-O-3.1 T2	8000/6
+#11	ICD-O-3.1 T3	8000/6
+#12	ICD-O-3.1 T7	8000/6
+#13	SNOMED T5	14799000
+#14	SNOMED T8	58477004
+#15	SNOMED T6	1187425009
+#16	SNOMED T10	39577004
+#17	SNOMED T9	1240414004
+#18	SNOMED T4	14799000
+#19	SNOMED T11	14799000
+#20	SNOMED T1	1156875002
+#21	SNOMED T12	86251006
+#22	SNOMED T2	14799000
+#23	SNOMED T3	14799000
+#24	SNOMED T7	14799000

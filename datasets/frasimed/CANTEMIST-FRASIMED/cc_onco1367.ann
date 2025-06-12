@@ -1,0 +1,36 @@
+T1	morphology-onco 38 55	syndrome de Lynch
+T2	morphology-onco 62 79	oligodendrogliome
+T3	morphology-onco 1027 1036	néoplasie
+T4	morphology-onco 1160 1179	nodules pulmonaires
+T5	morphology-onco 1201 1211	métastases
+T6	morphology-onco 1339 1350	néoplasique
+T7	morphology-onco 1385 1464	adénocarcinome endocervical indifférencié non résécable de stade IV (métastases
+T8	morphology-onco 1454 1464	métastases
+T9	morphology-onco 1479 1508	Oligodendrogliome anaplasique
+T10	morphology-onco 1619 1636	Syndrome de Lynch
+T11	morphology-onco 2168 2209	adénocarcinome endocervical indifférencié
+T12	morphology-onco 2558 2569	néoplasique
+#1	ICD-O-3.1 T5	8000/6
+#2	ICD-O-3.1 T8	8000/6
+#3	ICD-O-3.1 T3	8000/1
+#4	ICD-O-3.1 T6	8000/1
+#5	ICD-O-3.1 T12	8000/1
+#6	ICD-O-3.1 T4	8000/6
+#7	ICD-O-3.1 T1	8000/3
+#8	ICD-O-3.1 T2	9450/3
+#9	ICD-O-3.1 T7	8140/64
+#10	ICD-O-3.1 T9	9451/3
+#11	ICD-O-3.1 T10	8000/3
+#12	ICD-O-3.1 T11	8140/34
+#13	SNOMED T5	14799000
+#14	SNOMED T8	14799000
+#15	SNOMED T3	86251006
+#16	SNOMED T6	86251006
+#17	SNOMED T12	86251006
+#18	SNOMED T4	14799000
+#19	SNOMED T1	1240414004
+#20	SNOMED T2	1156974002
+#21	SNOMED T7	4590003
+#22	SNOMED T9	3102004
+#23	SNOMED T10	1240414004
+#24	SNOMED T11	1187332001

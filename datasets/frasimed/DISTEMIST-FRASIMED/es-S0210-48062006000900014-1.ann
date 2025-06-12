@@ -1,0 +1,18 @@
+T1	disease 50 75	allergies médicamenteuses
+T2	disease 150 179	blessure abdominale par balle
+T3	disease 372 461	blessure d'entrée de balle dans la fosse iliaque gauche et une sortie par la fesse gauche
+T4	disease 642 654	urétrorragie
+T5	disease 715 738	hématurie macroscopique
+T6	disease 823 829	anémie
+T7	disease 1194 1228	lésion de la vessie par arme à feu
+T8	disease 1475 1542	rupture vésicale extrapéritonéale, latérale-postéro-latérale gauche
+T9	disease 1643 1686	Plaie d'entrée dans la fosse iliaque gauche
+T10	disease 1704 1839	hémorragie dans le mésosigme, la face latérale vésicale gauche, la vésicule séminale gauche et les zones périrectales et ischiorectales
+T11	disease 2048 2072	perforation du mésosigme
+T12	disease 2124 2191	lésion minime a été réparée au niveau de la veine iliaque primitive
+T13	disease 2371 2395	perforation de la vessie
+T14	disease 2714 2775	projectile avait également sectionné le canal déférent gauche
+T15	disease 2814 2834	perforation vésicale
+T16	disease 3664 3675	hypotension
+T17	disease 4308 4321	état septique
+T18	disease 4889 4903	plaie vésicale

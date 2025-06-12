@@ -1,0 +1,54 @@
+T1	morphology-onco 164 172	grosseur
+T2	morphology-onco 371 407	lymphome diffus à grandes cellules B
+T3	morphology-onco 409 414	DLBCL
+T4	morphology-onco 467 472	DLBCL
+T5	morphology-onco 1497 1505	tumorale
+T6	morphology-onco 1602 1607	DLBCL
+T7	morphology-onco 1862 1867	DLBCL
+T8	morphology-onco 2029 2035	tumeur
+T9	morphology-onco 2121 2151	carcinome canalaire infiltrant
+T10	morphology-onco 2503 2512	néoplasie
+T11	morphology-onco 2646 2656	métastases
+T12	morphology-onco 3161 3171	métastases
+T13	morphology-onco 3222 3232	métastases
+T14	morphology-onco 3273 3303	carcinome canalaire infiltrant
+T15	morphology-onco 3423 3476	lymphome diffus à grandes cellules B de sous-type ABC
+T16	morphology-onco 3917 3946	lésion de la paroi thoracique
+T17	morphology-onco 4199 4205	tumeur
+T18	morphology-onco 4418 4424	tumeur
+#1	ICD-O-3.1 T9	8500/3
+#2	ICD-O-3.1 T14	8500/3
+#3	ICD-O-3.1 T11	8000/6
+#4	ICD-O-3.1 T12	8000/6
+#5	ICD-O-3.1 T13	8000/6
+#6	ICD-O-3.1 T10	8000/1
+#7	ICD-O-3.1 T1	8000/1
+#8	ICD-O-3.1 T8	8000/1
+#9	ICD-O-3.1 T5	8000/1
+#10	ICD-O-3.1 T17	8000/1
+#11	ICD-O-3.1 T18	8000/1
+#12	ICD-O-3.1 T2	9680/3
+#13	ICD-O-3.1 T3	9680/3
+#14	ICD-O-3.1 T4	9680/3
+#15	ICD-O-3.1 T6	9680/3
+#16	ICD-O-3.1 T7	9680/3
+#17	ICD-O-3.1 T15	9680/3/H
+#18	ICD-O-3.1 T16	8000/6
+#19	SNOMED T9	58477004
+#20	SNOMED T14	58477004
+#21	SNOMED T11	14799000
+#22	SNOMED T12	14799000
+#23	SNOMED T13	14799000
+#24	SNOMED T10	86251006
+#25	SNOMED T1	86251006
+#26	SNOMED T8	86251006
+#27	SNOMED T5	86251006
+#28	SNOMED T17	86251006
+#29	SNOMED T18	86251006
+#30	SNOMED T2	1172695008
+#31	SNOMED T3	1172695008
+#32	SNOMED T4	1172695008
+#33	SNOMED T6	1172695008
+#34	SNOMED T7	1172695008
+#35	SNOMED T15	1172695008
+#36	SNOMED T16	14799000

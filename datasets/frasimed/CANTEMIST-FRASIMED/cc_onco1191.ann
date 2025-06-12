@@ -1,0 +1,30 @@
+T1	morphology-onco 1029 1135	adénocarcinome pulmonaire de 4 cm, modérément différencié et infiltrant avec un motif bronchioloalvéolaire
+T2	morphology-onco 1029 1147	adénocarcinome pulmonaire de 4 cm, modérément différencié et infiltrant avec un motif bronchioloalvéolaire et acinaire
+T3	morphology-onco 1231 1241	métastases
+T4	morphology-onco 1320 1323	cM0
+T5	morphology-onco 1337 1380	Carcinome bronchique non à petites cellules
+T6	morphology-onco 1337 1422	Carcinome bronchique non à petites cellules (CBNPC) de sous-type bronchioloalvéolaire
+T7	morphology-onco 1382 1387	CBNPC
+T8	morphology-onco 1451 1454	cM0
+T9	morphology-onco 1626 1632	tumeur
+T10	morphology-onco 1914 1920	tumeur
+#1	ICD-O-3.1 T7	8046/3
+#2	ICD-O-3.1 T5	8046/3
+#3	ICD-O-3.1 T4	8000/6
+#4	ICD-O-3.1 T8	8000/6
+#5	ICD-O-3.1 T3	8000/6
+#6	ICD-O-3.1 T10	8000/1
+#7	ICD-O-3.1 T9	8000/1
+#8	ICD-O-3.1 T1	8250/32
+#9	ICD-O-3.1 T2	8550/3
+#10	ICD-O-3.1 T6	8250/3
+#11	SNOMED T7	128632008
+#12	SNOMED T5	128632008
+#13	SNOMED T4	14799000
+#14	SNOMED T8	14799000
+#15	SNOMED T3	14799000
+#16	SNOMED T10	86251006
+#17	SNOMED T9	86251006
+#18	SNOMED T1	36310008
+#19	SNOMED T2	45410002
+#20	SNOMED T6	36310008

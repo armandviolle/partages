@@ -1,0 +1,30 @@
+T1	morphology-onco 516 534	carcinome mammaire
+T2	morphology-onco 1318 1332	tumeur maligne
+T3	morphology-onco 1433 1447	léiomyosarcome
+T4	morphology-onco 1615 1622	adénome
+T5	morphology-onco 1915 1924	malignité
+T6	morphology-onco 2032 2046	léiomyosarcome
+T7	morphology-onco 2097 2105	tumorale
+T8	morphology-onco 2187 2201	léiomyosarcome
+T9	morphology-onco 2227 2229	M0
+T10	morphology-onco 2341 2369	léiomyosarcome de haut grade
+#1	ICD-O-3.1 T9	8000/6
+#2	ICD-O-3.1 T4	8140/0
+#3	ICD-O-3.1 T1	8010/3
+#4	ICD-O-3.1 T3	8890/3
+#5	ICD-O-3.1 T6	8890/3
+#6	ICD-O-3.1 T8	8890/3
+#7	ICD-O-3.1 T5	8000/3
+#8	ICD-O-3.1 T7	8000/1
+#9	ICD-O-3.1 T2	8004/3
+#10	ICD-O-3.1 T10	8890/34
+#11	SNOMED T9	14799000
+#12	SNOMED T4	1187379001
+#13	SNOMED T1	1187425009
+#14	SNOMED T3	1163022006
+#15	SNOMED T6	1163022006
+#16	SNOMED T8	1163022006
+#17	SNOMED T5	1240414004
+#18	SNOMED T7	86251006
+#19	SNOMED T2	88897007
+#20	SNOMED T10	1163022006

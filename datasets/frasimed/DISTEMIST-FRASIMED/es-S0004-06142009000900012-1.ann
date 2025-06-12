@@ -1,0 +1,40 @@
+T1	disease 311 323	hypertension
+T2	disease 330 345	diabète sucré 2
+T3	disease 380 394	cancer du sein
+T4	disease 409 429	maladie coronarienne
+T5	disease 445 462	tumeur au cerveau
+T6	disease 1112 1133	adénopathie inguinale
+T7	disease 1497 1526	infection des voies urinaires
+T8	disease 1764 1777	hyperglycémie
+T9	disease 1971 2003	réponse inflammatoire systémique
+T10	disease 2367 2392	adénopathie locorégionale
+T11	disease 2826 2841	lésion tumorale
+T12	disease 2858 2915	néoplasme malin d'origine mésenchymateuse et sarcomateuse
+T13	disease 3075 3103	liposarcome bien différencié
+T14	disease 3339 3353	chondrosarcome
+T15	disease 3400 3425	liposarcome indifférencié
+T17	disease 3468 3521	liposarcome classique de type lipome bien différencié
+T18	disease 3560 3593	chondrosarcomateuse de haut grade
+T19	disease 3628 3675	liposarcome indifférencié du cordon spermatique
+T20	disease 3966 3997	carcinome thyroïdien papillaire
+T21	disease 4178 4195	récidive tumorale
+#1	SNOMED T1	38341003
+#2	SNOMED T8	80394007
+#3	SNOMED T2	44054006
+#4	SNOMED T7	68566005
+#5	SNOMED T12	2424003
+#6	SNOMED T3	254837009
+#7	SNOMED T4	414545008
+#8	SNOMED T5	254935002
+#9	SNOMED T6	127199000
+#10	SNOMED T9	238149007
+#11	SNOMED T20	255029007
+#12	SNOMED T13	404067008
+#13	SNOMED T10	49991000119104
+#14	SNOMED T21	25173007
+#15	SNOMED T14	443520009
+#16	SNOMED T15	404072004
+#17	SNOMED T17	404067008
+#18	SNOMED T18	443520009
+#19	SNOMED T19	404072004
+#20	SNOMED T11	55342001

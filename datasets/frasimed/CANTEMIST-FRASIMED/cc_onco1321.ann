@@ -1,0 +1,29 @@
+T1	morphology-onco 65 96	polypose adénomateuse familiale
+T2	morphology-onco 1061 1067	tumeur
+T3	morphology-onco 1337 1366	myxofibrosarcome de bas grade
+T4	morphology-onco 1415 1423	sarcomes
+T5	morphology-onco 1991 1997	tumeur
+T6	morphology-onco 2163 2174	sarcomatose
+T7	morphology-onco 2294 2354	tumeur mésenchymateuse de bas grade et d'indice prolifératif
+T8	morphology-onco 2388 2404	myxofibrosarcome
+T9	morphology-onco 2652 2658	tumeur
+T10	morphology-onco 2792 2798	tumeur
+#1	ICD-O-3.1 T8	8811/3
+#2	ICD-O-3.1 T1	8220/0
+#3	ICD-O-3.1 T4	8800/3
+#4	ICD-O-3.1 T2	8000/1
+#5	ICD-O-3.1 T10	8000/1
+#6	ICD-O-3.1 T5	8000/1
+#7	ICD-O-3.1 T9	8000/1
+#8	ICD-O-3.1 T3	8811/31
+#9	ICD-O-3.1 T6	8800/9
+#10	ICD-O-3.1 T7	8800/11
+#11	SNOMED T8	253042009
+#12	SNOMED T1	72900001
+#13	SNOMED T4	1187396000
+#14	SNOMED T2	86251006
+#15	SNOMED T10	86251006
+#16	SNOMED T5	86251006
+#17	SNOMED T9	86251006
+#18	SNOMED T3	253042009
+#19	SNOMED T6	9395006

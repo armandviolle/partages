@@ -1,0 +1,53 @@
+T1	morphology-onco 456 462	tumeur
+T2	morphology-onco 1291 1297	tumeur
+T3	morphology-onco 1310 1333	carcinome indifférencié
+T4	morphology-onco 1434 1442	tumorale
+T5	morphology-onco 1715 1723	tumorale
+T6	morphology-onco 2108 2149	stésioneuroblastome de Hyams de grade III
+T7	morphology-onco 2185 2226	stésioneuroblastome de grade III de Hyams
+T8	morphology-onco 2481 2488	tumoral
+T9	morphology-onco 2950 2956	tumeur
+T10	morphology-onco 3030 3036	tumeur
+T11	morphology-onco 3402 3408	tumeur
+T12	morphology-onco 3546 3552	tumeur
+T13	morphology-onco 3609 3667	métastase d'une tumeur à petites cellules peu différenciée
+T14	morphology-onco 4384 4393	métastase
+T15	morphology-onco 4417 4455	carcinome neuroendocrine de haut grade
+T16	morphology-onco 4527 4548	esthésioneuroblastome
+T17	morphology-onco 4555 4593	carcinome neuroendocrine de haut grade
+T18	morphology-onco 4838 4876	carcinome neuroendocrine de haut grade
+#1	ICD-O-3.1 T3	8020/3
+#2	ICD-O-3.1 T15	8240/34
+#3	ICD-O-3.1 T17	8240/34
+#4	ICD-O-3.1 T18	8240/34
+#5	ICD-O-3.1 T16	9522/3
+#6	ICD-O-3.1 T14	8000/6
+#7	ICD-O-3.1 T1	8000/1
+#8	ICD-O-3.1 T4	8000/1
+#9	ICD-O-3.1 T9	8000/1
+#10	ICD-O-3.1 T10	8000/1
+#11	ICD-O-3.1 T11	8000/1
+#12	ICD-O-3.1 T12	8000/1
+#13	ICD-O-3.1 T2	8000/1
+#14	ICD-O-3.1 T5	8000/1
+#15	ICD-O-3.1 T8	8000/1
+#16	ICD-O-3.1 T6	9522/33
+#17	ICD-O-3.1 T7	9522/33
+#18	ICD-O-3.1 T13	8002/63
+#19	SNOMED T3	38549000
+#20	SNOMED T15	189607006
+#21	SNOMED T17	189607006
+#22	SNOMED T18	189607006
+#23	SNOMED T16	422886007
+#24	SNOMED T14	14799000
+#25	SNOMED T1	86251006
+#26	SNOMED T4	86251006
+#27	SNOMED T9	86251006
+#28	SNOMED T10	86251006
+#29	SNOMED T11	86251006
+#30	SNOMED T12	86251006
+#31	SNOMED T2	86251006
+#32	SNOMED T5	86251006
+#33	SNOMED T8	86251006
+#34	SNOMED T6	422886007
+#35	SNOMED T7	422886007

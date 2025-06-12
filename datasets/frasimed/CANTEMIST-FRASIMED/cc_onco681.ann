@@ -1,0 +1,72 @@
+T1	morphology-onco 90 96	cancer
+T2	morphology-onco 758 797	carcinome pulmonaire à petites cellules
+T3	morphology-onco 940 952	métastatique
+T4	morphology-onco 1033 1059	lymphangite carcinomateuse
+T5	morphology-onco 1095 1129	masse osseuse avec des tissus mous
+T6	morphology-onco 1314 1346	carcinome microcytaire du poumon
+T7	morphology-onco 1762 1790	adénopathie sus-claviculaire
+T8	morphology-onco 1832 1877	carcinome à cellules d'avoine peu différencié
+T9	morphology-onco 2098 2158	adénopathies pathologiques médiastinales, supraclaviculaires
+T10	morphology-onco 2263 2280	implants pleuraux
+T11	morphology-onco 2304 2322	nodules hépatiques
+T12	morphology-onco 2370 2380	métastases
+T13	morphology-onco 2382 2401	Masse surrénalienne
+T14	morphology-onco 2447 2463	Lésions osseuses
+T15	morphology-onco 2869 2917	Carcinome microcytaire du poumon maladie étendue
+T16	morphology-onco 2918 2925	T4N3M1c
+T17	morphology-onco 3862 3872	métastases
+T18	morphology-onco 4238 4278	lésion de 6 mm au niveau mésencéphalique
+T19	morphology-onco 4342 4351	métastase
+T20	morphology-onco 4600 4628	progression pleuropulmonaire
+T21	morphology-onco 5582 5605	maladie dans le cerveau
+T22	morphology-onco 5654 5672	maladie systémique
+T23	morphology-onco 6416 6435	tumeur microcytaire
+T24	morphology-onco 7427 7447	progression pleurale
+T25	morphology-onco 7803 7813	RP osseuse
+#1	ICD-O-3.1 T14	8000/6
+#2	ICD-O-3.1 T13	8000/6
+#3	ICD-O-3.1 T7	8000/6
+#4	ICD-O-3.1 T2	8041/3
+#5	ICD-O-3.1 T1	8000/3
+#6	ICD-O-3.1 T21	8000/6
+#7	ICD-O-3.1 T22	8000/6
+#8	ICD-O-3.1 T10	8000/6
+#9	ICD-O-3.1 T4	8000/3
+#10	ICD-O-3.1 T5	8000/6
+#11	ICD-O-3.1 T3	8000/6
+#12	ICD-O-3.1 T12	8000/6
+#13	ICD-O-3.1 T17	8000/6
+#14	ICD-O-3.1 T19	8000/6
+#15	ICD-O-3.1 T24	8000/6
+#16	ICD-O-3.1 T20	8000/6
+#17	ICD-O-3.1 T6	8041/6
+#18	ICD-O-3.1 T8	8041/33
+#19	ICD-O-3.1 T9	8000/6
+#20	ICD-O-3.1 T11	8000/6
+#21	ICD-O-3.1 T15	8041/6
+#22	ICD-O-3.1 T16	8000/6
+#23	ICD-O-3.1 T18	8000/6
+#24	ICD-O-3.1 T23	8002/1
+#25	ICD-O-3.1 T25	8000/6
+#26	SNOMED T14	14799000
+#27	SNOMED T13	14799000
+#28	SNOMED T7	14799000
+#29	SNOMED T2	11010461000119101
+#30	SNOMED T1	1240414004
+#31	SNOMED T21	14799000
+#32	SNOMED T22	14799000
+#33	SNOMED T10	14799000
+#34	SNOMED T4	1240414004
+#35	SNOMED T5	14799000
+#36	SNOMED T3	14799000
+#37	SNOMED T12	14799000
+#38	SNOMED T17	14799000
+#39	SNOMED T19	14799000
+#40	SNOMED T24	14799000
+#41	SNOMED T20	14799000
+#42	SNOMED T8	11010461000119101
+#43	SNOMED T9	14799000
+#44	SNOMED T11	14799000
+#45	SNOMED T16	14799000
+#46	SNOMED T18	14799000
+#47	SNOMED T25	14799000

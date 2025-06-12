@@ -1,0 +1,30 @@
+T1	morphology-onco 1505 1519	adénocarcinome
+T2	morphology-onco 1908 1968	néoplasme du côlon transverse avec des métastases hépatiques
+T3	morphology-onco 1997 2003	T3N1M1
+T4	morphology-onco 3058 3076	lésions hépatiques
+T5	morphology-onco 3533 3541	tumorale
+T6	morphology-onco 3558 3574	lésion hépatique
+T7	morphology-onco 3893 3899	tumeur
+T8	morphology-onco 3961 3988	adénocarcinome de bas grade
+T9	morphology-onco 4365 4410	tumeur du côlon ypT3ypN0 avec résection de M1
+T10	morphology-onco 5320 5326	tumeur
+#1	ICD-O-3.1 T1	8140/3
+#2	ICD-O-3.1 T8	8140/31
+#3	ICD-O-3.1 T4	8000/6
+#4	ICD-O-3.1 T6	8000/6
+#5	ICD-O-3.1 T7	8000/1
+#6	ICD-O-3.1 T5	8000/1
+#7	ICD-O-3.1 T10	8000/1
+#8	ICD-O-3.1 T2	8000/6
+#9	ICD-O-3.1 T3	8000/6
+#10	ICD-O-3.1 T9	8000/6
+#11	SNOMED T1	1187332001
+#12	SNOMED T8	1187332001
+#13	SNOMED T4	14799000
+#14	SNOMED T6	14799000
+#15	SNOMED T7	86251006
+#16	SNOMED T5	86251006
+#17	SNOMED T10	86251006
+#18	SNOMED T2	14799000
+#19	SNOMED T3	14799000
+#20	SNOMED T9	14799000

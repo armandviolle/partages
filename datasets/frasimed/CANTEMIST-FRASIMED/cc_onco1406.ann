@@ -1,0 +1,5 @@
+T1	morphology-onco 1156 1176	carcinome pulmonaire
+T2	morphology-onco 1213 1328	Carcinome pulmonaire non à petites cellules de stade IV en raison de l'atteinte des ganglions lymphatiques pleuraux
+#1	ICD-O-3.1 T1	8046/3
+#2	ICD-O-3.1 T2	8046/6
+#3	SNOMED T1	128632008

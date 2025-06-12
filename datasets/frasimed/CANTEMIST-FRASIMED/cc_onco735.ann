@@ -1,0 +1,30 @@
+T1	morphology-onco 533 539	cancer
+T2	morphology-onco 822 845	astrocytome de grade II
+T3	morphology-onco 866 895	oligodendrogliome de grade II
+T4	morphology-onco 981 988	tumeurs
+T5	morphology-onco 1071 1094	astrocytome de grade II
+T6	morphology-onco 1589 1597	tumorale
+T7	morphology-onco 2939 2971	astrocytome cérébral de grade II
+T8	morphology-onco 3049 3055	tumeur
+T9	morphology-onco 3398 3404	tumeur
+T10	morphology-onco 5213 5221	tumorale
+#1	ICD-O-3.1 T1	8000/3
+#2	ICD-O-3.1 T6	8000/1
+#3	ICD-O-3.1 T8	8000/1
+#4	ICD-O-3.1 T9	8000/1
+#5	ICD-O-3.1 T10	8000/1
+#6	ICD-O-3.1 T4	8000/1
+#7	ICD-O-3.1 T2	9400/32
+#8	ICD-O-3.1 T3	9450/32
+#9	ICD-O-3.1 T5	9400/32
+#10	ICD-O-3.1 T7	9400/32
+#11	SNOMED T1	1240414004
+#12	SNOMED T6	86251006
+#13	SNOMED T8	86251006
+#14	SNOMED T9	86251006
+#15	SNOMED T10	86251006
+#16	SNOMED T4	86251006
+#17	SNOMED T2	1157043006
+#18	SNOMED T3	1156974002
+#19	SNOMED T5	1157043006
+#20	SNOMED T7	1157043006

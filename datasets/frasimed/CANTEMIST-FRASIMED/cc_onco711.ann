@@ -1,0 +1,47 @@
+T1	morphology-onco 75 82	sarcome
+T2	morphology-onco 1354 1429	tumeur maligne indifférenciée à cellules rondes qui n'a pas pu être classée
+T3	morphology-onco 1522 1528	Tumeur
+T4	morphology-onco 2318 2328	métastases
+T5	morphology-onco 2524 2530	tumeur
+T6	morphology-onco 2612 2633	tumeur neuroendocrine
+T7	morphology-onco 2635 2638	TNE
+T8	morphology-onco 2673 2703	récidive tumorale d'un sarcome
+T9	morphology-onco 2754 2814	Tumeur maligne à cellules rondes indifférenciées inclassable
+T10	morphology-onco 2831 2834	NST
+T11	morphology-onco 2863 2882	récidive de sarcome
+T12	morphology-onco 3266 3306	progression probable au niveau abdominal
+T13	morphology-onco 3421 3428	sarcome
+T14	morphology-onco 4032 4035	TNE
+T15	morphology-onco 4751 4754	NER
+T16	morphology-onco 4757 4784	tumeur corticosurrénalienne
+#1	ICD-O-3.1 T7	8240/3
+#2	ICD-O-3.1 T10	8240/3
+#3	ICD-O-3.1 T14	8240/3
+#4	ICD-O-3.1 T15	8240/3
+#5	ICD-O-3.1 T3	8000/1
+#6	ICD-O-3.1 T4	8000/6
+#7	ICD-O-3.1 T1	8800/3
+#8	ICD-O-3.1 T13	8800/3
+#9	ICD-O-3.1 T5	8000/1
+#10	ICD-O-3.1 T6	8240/3
+#11	ICD-O-3.1 T2	8000/34/H
+#12	ICD-O-3.1 T8	8800/6
+#13	ICD-O-3.1 T9	8000/34/H
+#14	ICD-O-3.1 T11	8800/6
+#15	ICD-O-3.1 T12	8000/6
+#16	ICD-O-3.1 T16	8370/1
+#17	SNOMED T7	189607006
+#18	SNOMED T10	189607006
+#19	SNOMED T14	189607006
+#20	SNOMED T15	189607006
+#21	SNOMED T3	86251006
+#22	SNOMED T4	14799000
+#23	SNOMED T1	1187396000
+#24	SNOMED T13	1187396000
+#25	SNOMED T5	86251006
+#26	SNOMED T6	189607006
+#27	SNOMED T2	1240414004
+#28	SNOMED T8	372152003
+#29	SNOMED T9	1240414004
+#30	SNOMED T11	372152003
+#31	SNOMED T12	14799000

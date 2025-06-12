@@ -1,0 +1,24 @@
+T1	disease 51 125	diabète sucré de type 2 secondaire à une pancréatite calcifiante chronique
+T2	disease 92 125	pancréatite calcifiante chronique
+T3	disease 148 160	hypoglycémie
+T4	disease 236 269	affections infectieuses urinaires
+T5	disease 428 440	malnutrition
+T6	disease 444 473	insuffisance rénale chronique
+T7	disease 477 499	acidocétose diabétique
+T8	disease 508 520	ulcère sacré
+T9	disease 564 570	ulcère
+T10	disease 1171 1177	ulcère
+T11	disease 1350 1389	insuffisance rénale chronique exacerbée
+T12	disease 1398 1417	septicémie urinaire
+#1	SNOMED T1	44054006+301009006
+#2	SNOMED T9	429040005
+#3	SNOMED T11	236433006
+#4	SNOMED T12	721104000
+#5	SNOMED T2	301009006
+#6	SNOMED T5	248325000
+#7	SNOMED T6	90688005
+#8	SNOMED T3	302866003
+#9	SNOMED T7	420422005
+#10	SNOMED T8	225562005
+#11	SNOMED T4	68566005
+#12	SNOMED T10	429040005

@@ -1,0 +1,8 @@
+T1	disease 70 93	hypertension artérielle
+T2	disease 100 123	cardiopathie ischémique
+T3	disease 201 207	anémie
+T4	disease 416 467	perforation intestinale au niveau du côlon sigmoïde
+#1	SNOMED T1	38341003
+#2	SNOMED T2	194828000
+#3	SNOMED T3	271737000
+#4	SNOMED T4	712512004

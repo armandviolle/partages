@@ -1,0 +1,16 @@
+T1	disease 149 174	allergies médicamenteuses
+T2	disease 185 205	allergique au pollen
+T3	disease 971 982	tuberculose
+T4	disease 1111 1123	adénopathies
+T5	disease 1129 1139	acropaties
+T6	disease 1651 1679	lésions cavitaires-kystiques
+T7	disease 2607 2633	histiocytose de Langerhans
+T8	disease 2711 2716	fumer
+#1	SNOMED T8	89765005
+#2	SNOMED T4	30746006
+#3	SNOMED T5	46922002
+#4	SNOMED T7	234439008
+#5	SNOMED T2	300910009
+#6	SNOMED T6	441457006
+#7	SNOMED T3	56717001
+#8	SNOMED T1	416098002

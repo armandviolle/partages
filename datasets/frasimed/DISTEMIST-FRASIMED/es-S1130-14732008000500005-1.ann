@@ -1,0 +1,18 @@
+T1	disease 51 64	diabète sucré
+T2	disease 68 91	hypertension artérielle
+T3	disease 98 122	fibrillation auriculaire
+T4	disease 257 278	incontinence urinaire
+T5	disease 414 446	hydrocéphalie tétraventriculaire
+T6	disease 464 467	CAH
+T7	disease 990 1016	hypotension intracrânienne
+T8	disease 1192 1250	hématome dans le vermis et l'hémisphère cérébelleux gauche
+T9	disease 1261 1353	hémorragie sous-arachnoïdienne à la face supérieure du cervelet et dans le folia cérébelleux
+#1	SNOMED T1	73211009
+#2	SNOMED T2	38341003
+#3	SNOMED T4	165232002
+#4	SNOMED T5	230745008
+#5	SNOMED T6	15139001
+#6	SNOMED T7	433691000124104
+#7	SNOMED T8	301765007
+#8	SNOMED T9	21454007
+#9	SNOMED T3	49436004

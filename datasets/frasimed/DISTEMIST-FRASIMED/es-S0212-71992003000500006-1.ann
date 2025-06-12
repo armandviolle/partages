@@ -1,0 +1,22 @@
+T1	disease 401 461	ganglions lymphatiques dans les deux zones latéro-cervicales
+T2	disease 606 668	ganglions lymphatiques dans les deux chaînes latéro-cervicales
+T3	disease 776 788	adénopathies
+T4	disease 845 851	goitre
+T5	disease 1072 1094	hypergammaglobulinémie
+T6	disease 1258 1266	syphilis
+T7	disease 1701 1713	lymphatiques
+T8	disease 1947 2002	lymphadénite nécrosante histiocytaire non lymphocytaire
+T9	disease 2010 2037	maladie de Kikuchi-Fujimoto
+T10	disease 2338 2404	thyroïdite lymphocytaire subaiguë associée à la maladie de Kikuchi
+T11	disease 2386 2404	maladie de Kikuchi
+#1	SNOMED T7	30746006
+#2	SNOMED T2	127087005
+#3	SNOMED T5	127388009
+#4	SNOMED T3	30746006
+#5	SNOMED T4	3716002
+#6	SNOMED T8	127217009
+#7	SNOMED T10	127217009+38727009
+#8	SNOMED T11	127217009
+#9	SNOMED T9	127217009
+#10	SNOMED T6	76272004
+#11	SNOMED T1	127087005

@@ -1,0 +1,46 @@
+T1	disease 51 76	cardiopathie hypertensive
+T2	disease 80 100	hypercholestérolémie
+T3	disease 105 123	diabète de type II
+T4	disease 146 162	prolapsus utérin
+T5	disease 180 189	cystocèle
+T6	disease 193 215	hypothyroïdie primaire
+T7	disease 220 242	névralgie du trijumeau
+T8	disease 246 263	asthme bronchique
+T9	disease 268 278	dépression
+T10	disease 282 297	artériosclérose
+T11	disease 324 358	adénomyome de la vésicule biliaire
+T12	disease 362 384	insuffisance surrénale
+T13	disease 479 494	hématome abcédé
+T14	disease 826 841	pneumopéritoine
+T15	disease 1407 1422	pneumopéritoine
+T16	disease 1519 1534	pneumopéritoine
+T17	disease 1573 1603	perforation d'un viscère creux
+T18	disease 1899 1920	infection péritonéale
+T19	disease 1936 1945	infection
+T20	disease 2119 2140	infection péritonéale
+T21	disease 2303 2318	pneumopéritoine
+T22	disease 2593 2607	air péritonéal
+T23	disease 2685 2700	pneumopéritoine
+#1	SNOMED T21	17204006
+#2	SNOMED T1	64715009
+#3	SNOMED T23	17204006
+#4	SNOMED T2	13644009
+#5	SNOMED T3	44054006
+#6	SNOMED T18	66579008
+#7	SNOMED T4	24976005
+#8	SNOMED T19	40733004
+#9	SNOMED T5	252005008
+#10	SNOMED T6	111566002
+#11	SNOMED T7	31681005
+#12	SNOMED T8	195967001
+#13	SNOMED T9	394924000
+#14	SNOMED T10	72092001
+#15	SNOMED T11	73479003
+#16	SNOMED T20	66579008
+#17	SNOMED T12	237785004
+#18	SNOMED T15	17204006
+#19	SNOMED T13	128477000
+#20	SNOMED T16	17204006
+#21	SNOMED T17	36191001
+#22	SNOMED T14	17204006
+#23	SNOMED T22	17204006

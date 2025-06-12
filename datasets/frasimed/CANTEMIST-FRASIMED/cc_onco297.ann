@@ -1,0 +1,56 @@
+T1	morphology-onco 1546 1596	carcinome adénoïde kystique de type cylindromateux
+T2	morphology-onco 1612 1614	Mx
+T3	morphology-onco 1629 1781	Carcinome adénoïde kystique de haut grade de la parotide droite, de forme cylindromateuse, avec des adénopathies locorégionales et une extension osseuse
+T4	morphology-onco 2181 2226	carcinome papillaire synchrone de la thyroïde
+T5	morphology-onco 2427 2435	tumoraux
+T6	morphology-onco 2465 2473	malignes
+T7	morphology-onco 2626 2632	tumeur
+T8	morphology-onco 2751 2761	métastases
+T9	morphology-onco 2855 2867	métastatique
+T10	morphology-onco 3254 3273	lésions pulmonaires
+T11	morphology-onco 3290 3298	tumoraux
+T12	morphology-onco 3546 3568	progression pulmonaire
+T13	morphology-onco 3862 3869	tumoral
+T14	morphology-onco 4017 4034	lésion temporelle
+T15	morphology-onco 4302 4324	progression pulmonaire
+T16	morphology-onco 4620 4651	adénopathies supraclaviculaires
+T17	morphology-onco 4794 4820	progressé dans les poumons
+T18	morphology-onco 5022 5041	nodules pulmonaires
+T19	morphology-onco 5301 5323	progression pulmonaire
+#1	ICD-O-3.1 T2	8000/6
+#2	ICD-O-3.1 T16	8000/6
+#3	ICD-O-3.1 T10	8000/6
+#4	ICD-O-3.1 T6	8000/3
+#5	ICD-O-3.1 T9	8000/6
+#6	ICD-O-3.1 T8	8000/6
+#7	ICD-O-3.1 T18	8000/6
+#8	ICD-O-3.1 T12	8000/6
+#9	ICD-O-3.1 T15	8000/6
+#10	ICD-O-3.1 T19	8000/6
+#11	ICD-O-3.1 T5	8000/1
+#12	ICD-O-3.1 T7	8000/1
+#13	ICD-O-3.1 T11	8000/1
+#14	ICD-O-3.1 T13	8000/1
+#15	ICD-O-3.1 T1	8200/3
+#16	ICD-O-3.1 T3	8200/64
+#17	ICD-O-3.1 T4	8260/3
+#18	ICD-O-3.1 T14	8000/6
+#19	ICD-O-3.1 T17	8000/6
+#20	SNOMED T2	14799000
+#21	SNOMED T16	14799000
+#22	SNOMED T10	14799000
+#23	SNOMED T6	1240414004
+#24	SNOMED T9	14799000
+#25	SNOMED T8	14799000
+#26	SNOMED T18	14799000
+#27	SNOMED T12	14799000
+#28	SNOMED T15	14799000
+#29	SNOMED T19	14799000
+#30	SNOMED T5	86251006
+#31	SNOMED T7	86251006
+#32	SNOMED T11	86251006
+#33	SNOMED T13	86251006
+#34	SNOMED T1	302827006
+#35	SNOMED T4	4797003
+#36	SNOMED T14	14799000
+#37	SNOMED T17	14799000

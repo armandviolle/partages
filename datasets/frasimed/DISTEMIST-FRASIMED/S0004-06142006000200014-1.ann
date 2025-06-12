@@ -1,0 +1,14 @@
+T1	disease 316 337	kyste rénal compliqué
+T2	disease 541 578	thrombus tumoral dans la veine rénale
+T3	disease 613 626	hypernéphrome
+T4	disease 909 915	tumeur
+T5	disease 1050 1075	tumeur fibreuse solitaire
+T6	disease 1080 1086	tumeur
+T7	disease 1211 1225	masse tumorale
+#1	SNOMED T1	722223000
+#2	SNOMED T2	15842009
+#3	SNOMED T3	702391001
+#4	SNOMED T4	55342001
+#5	SNOMED T5	128736003
+#6	SNOMED T6	55342001
+#7	SNOMED T7	55342001

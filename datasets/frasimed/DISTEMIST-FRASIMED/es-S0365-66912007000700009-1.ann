@@ -1,0 +1,14 @@
+T1	disease 123 147	décollement de la rétine
+T2	disease 149 151	RD
+T3	disease 292 312	déchirure rétinienne
+T4	disease 404 421	récidive de la RD
+T5	disease 573 598	dégénérescence rétinienne
+T6	disease 828 875	perforation sclérale avec intrusion du cerclage
+T7	disease 966 991	atrophie choriorétinienne
+T8	disease 1053 1078	atrophie choriorétinienne
+T9	disease 1175 1184	cataracte
+T10	disease 1444 1446	HV
+T11	disease 1483 1485	HV
+T12	disease 1500 1502	RD
+T13	disease 1508 1529	intrusion du cerclage
+T14	disease 1567 1569	HV

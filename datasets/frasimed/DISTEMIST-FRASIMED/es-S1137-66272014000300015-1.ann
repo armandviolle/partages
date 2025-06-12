@@ -1,0 +1,16 @@
+T1	disease 61 71	ex-fumeuse
+T2	disease 132 146	cancer du sein
+T3	disease 227 253	lymphadénopathie axillaire
+T4	disease 336 405	carcinome canalaire infiltrant du sein gauche avec atteinte axillaire
+T5	disease 738 768	carcinome canalaire infiltrant
+T6	disease 1024 1068	métastases dans 1/ 19 ganglions lymphatiques
+T7	disease 1127 1144	légère hémorragie
+T8	disease 1349 1369	lymphorrhée chyleuse
+#1	SNOMED T7	50960005
+#2	SNOMED T5	408643008
+#3	SNOMED T1	8517006
+#4	SNOMED T3	127189005
+#5	SNOMED T8	79709007
+#6	SNOMED T4	408643008+94181007
+#7	SNOMED T6	94392001
+#8	SNOMED T2	254837009

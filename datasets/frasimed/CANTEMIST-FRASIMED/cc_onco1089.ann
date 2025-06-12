@@ -1,0 +1,70 @@
+T1	morphology-onco 2272 2281	métastase
+T2	morphology-onco 2778 2835	carcinome de la vésicule biliaire avec invasion hépatique
+T3	morphology-onco 3162 3204	carcinome de la vésicule biliaire T3 N1 M1
+T4	morphology-onco 3329 3336	tumoral
+T5	morphology-onco 3364 3414	tumorale maligne indifférenciée à petites cellules
+T6	morphology-onco 3446 3453	tumeurs
+T7	morphology-onco 3479 3497	cellules tumorales
+T8	morphology-onco 3589 3617	carcinome à petites cellules
+T9	morphology-onco 3779 3785	tumeur
+T10	morphology-onco 3939 3948	néoplasme
+T11	morphology-onco 4020 4032	métastatique
+T12	morphology-onco 4214 4242	néoplasme à petites cellules
+T13	morphology-onco 4324 4352	carcinome à petites cellules
+T14	morphology-onco 4362 4368	tumeur
+T15	morphology-onco 4385 4393	mélanome
+T16	morphology-onco 4632 4673	métastase hépatique due à une tumeur PNET
+T17	morphology-onco 4728 4743	sarcome d'Ewing
+T18	morphology-onco 4768 4783	sarcome d'Ewing
+T19	morphology-onco 4854 4869	sarcome d'Ewing
+T20	morphology-onco 5092 5102	métastases
+T21	morphology-onco 5189 5202	carcinomatose
+T22	morphology-onco 5606 5614	tumorale
+T23	morphology-onco 6121 6127	tumeur
+T24	morphology-onco 6429 6448	nodules pulmonaires
+#1	ICD-O-3.1 T8	8041/3
+#2	ICD-O-3.1 T13	8041/3
+#3	ICD-O-3.1 T21	8010/9
+#4	ICD-O-3.1 T7	8001/1
+#5	ICD-O-3.1 T15	8720/3
+#6	ICD-O-3.1 T11	8000/6
+#7	ICD-O-3.1 T1	8000/6
+#8	ICD-O-3.1 T20	8000/6
+#9	ICD-O-3.1 T10	8000/1
+#10	ICD-O-3.1 T24	8000/6
+#11	ICD-O-3.1 T14	8000/1
+#12	ICD-O-3.1 T23	8000/1
+#13	ICD-O-3.1 T4	8000/1
+#14	ICD-O-3.1 T6	8000/1
+#15	ICD-O-3.1 T22	8000/1
+#16	ICD-O-3.1 T9	8000/1
+#17	ICD-O-3.1 T2	8010/6
+#18	ICD-O-3.1 T3	8010/6
+#19	ICD-O-3.1 T5	8002/34
+#20	ICD-O-3.1 T12	8002/1
+#21	ICD-O-3.1 T16	9473/6
+#22	ICD-O-3.1 T17	9260/3
+#23	ICD-O-3.1 T18	9260/3
+#24	ICD-O-3.1 T19	9260/3
+#25	SNOMED T8	11010461000119101
+#26	SNOMED T13	11010461000119101
+#27	SNOMED T21	307593001
+#28	SNOMED T7	39577004
+#29	SNOMED T15	1162635006
+#30	SNOMED T11	14799000
+#31	SNOMED T1	14799000
+#32	SNOMED T20	14799000
+#33	SNOMED T10	86251006
+#34	SNOMED T24	14799000
+#35	SNOMED T14	86251006
+#36	SNOMED T23	86251006
+#37	SNOMED T4	86251006
+#38	SNOMED T6	86251006
+#39	SNOMED T22	86251006
+#40	SNOMED T9	86251006
+#41	SNOMED T2	79282002
+#42	SNOMED T3	79282002
+#43	SNOMED T5	82267002
+#44	SNOMED T17	76909002
+#45	SNOMED T18	76909002
+#46	SNOMED T19	76909002

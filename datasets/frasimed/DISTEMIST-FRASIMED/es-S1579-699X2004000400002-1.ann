@@ -1,0 +1,44 @@
+T1	disease 766 789	comportements addictifs
+T2	disease 952 959	anxiété
+T3	disease 1048 1071	attaque de type panique
+T4	disease 1064 1071	panique
+T5	disease 1165 1189	épisodes aigus d'anxiété
+T6	disease 1406 1414	déprimée
+T7	disease 1515 1531	trouble affectif
+T8	disease 1549 1556	anxiété
+T9	disease 1592 1603	agoraphobie
+T10	disease 1638 1653	ulcère duodénal
+T11	disease 1769 1780	toxicomanie
+T12	disease 1798 1805	anxiété
+T13	disease 2016 2023	anxiété
+T14	disease 2067 2077	dépression
+T15	disease 2100 2127	abus de substances inhalées
+T16	disease 2170 2201	sevrage de substances volatiles
+T17	disease 2235 2251	troubles mentaux
+T18	disease 2396 2407	agoraphobie
+T19	disease 2842 2849	anxiété
+T20	disease 3706 3713	anxiété
+T21	disease 4079 4097	lésions cérébrales
+T22	disease 4344 4362	atrophie cérébrale
+#1	SNOMED T11	445273005
+#2	SNOMED T12	197480006
+#3	SNOMED T13	197480006
+#4	SNOMED T19	197480006
+#5	SNOMED T14	394924000
+#6	SNOMED T15	70340006
+#7	SNOMED T22	278849000
+#8	SNOMED T16	61104008
+#9	SNOMED T17	74732009
+#10	SNOMED T18	70691001
+#11	SNOMED T20	197480006
+#12	SNOMED T1	32709003
+#13	SNOMED T21	2470005
+#14	SNOMED T2	197480006
+#15	SNOMED T3	225624000
+#16	SNOMED T4	225624000
+#17	SNOMED T5	225624000
+#18	SNOMED T6	394924000
+#19	SNOMED T7	74421008
+#20	SNOMED T8	197480006
+#21	SNOMED T9	70691001
+#22	SNOMED T10	51868009

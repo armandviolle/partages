@@ -1,0 +1,27 @@
+T1	morphology-onco 229 238	carcinome
+T2	morphology-onco 1717 1783	lymphome non hodgkinien centrofolliculaire à cellules B de grade 1
+T3	morphology-onco 1953 2002	processus lymphoprolifératif à petites cellules B
+T4	morphology-onco 2149 2181	lymphome folliculaire de grade 1
+T5	morphology-onco 3876 3918	adénopathies axillaires, sus-claviculaires
+T6	morphology-onco 4362 4403	lymphome B centrofolliculaire de grade 3a
+T7	morphology-onco 7102 7129	maladie lymphoproliférative
+T8	morphology-onco 7599 7620	lymphome folliculaire
+T9	morphology-onco 8393 8420	syndrome lymphoprolifératif
+#1	ICD-O-3.1 T5	8000/6
+#2	ICD-O-3.1 T1	8010/3
+#3	ICD-O-3.1 T7	9970/1
+#4	ICD-O-3.1 T8	9690/3
+#5	ICD-O-3.1 T4	9695/3
+#6	ICD-O-3.1 T2	9695/3
+#7	ICD-O-3.1 T3	9670/3
+#8	ICD-O-3.1 T6	9698/3
+#9	ICD-O-3.1 T9	9970/1
+#10	SNOMED T5	14799000
+#11	SNOMED T1	1187425009
+#12	SNOMED T7	277466009
+#13	SNOMED T8	55150002
+#14	SNOMED T4	46744002
+#15	SNOMED T2	46744002
+#16	SNOMED T3	302841002
+#17	SNOMED T6	40411000
+#18	SNOMED T9	277466009

@@ -1,0 +1,9 @@
+T1	morphology-onco 1129 1172	carcinome pulmonaire non à petites cellules
+T2	morphology-onco 1401 1442	T3 N3 M1a carcinome épidermoïde du poumon
+T3	morphology-onco 4173 4181	tumorale
+#1	ICD-O-3.1 T3	8000/1
+#2	ICD-O-3.1 T1	8046/3
+#3	ICD-O-3.1 T2	8070/6
+#4	SNOMED T3	86251006
+#5	SNOMED T1	128632008
+#6	SNOMED T2	403906006

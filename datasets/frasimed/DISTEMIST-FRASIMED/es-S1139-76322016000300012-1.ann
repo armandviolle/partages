@@ -1,0 +1,18 @@
+T1	disease 160 177	phlegmon dentaire
+T2	disease 215 256	carie dans la deuxième molaire inférieure
+T3	disease 561 569	phlegmon
+T4	disease 575 586	adénopathie
+T5	disease 745 753	phlegmon
+T6	disease 1127 1192	abcès rouge, douloureux et suppuratif sur le bord sous-maxillaire
+T7	disease 1374 1398	lésion cervicale ulcérée
+T8	disease 1791 1797	ulcère
+T9	disease 2001 2010	cicatrice
+#1	SNOMED T8	429040005
+#2	SNOMED T2	80967001
+#3	SNOMED T5	299709002
+#4	SNOMED T6	17133001
+#5	SNOMED T3	299709002
+#6	SNOMED T4	30746006
+#7	SNOMED T1	299709002
+#8	SNOMED T9	275322007
+#9	SNOMED T7	118939000

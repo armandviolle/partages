@@ -1,0 +1,48 @@
+T1	morphology-onco 1038 1090	lésions occupant l'espace dans l'hémisphère cérébral
+T2	morphology-onco 1453 1466	métastatiques
+T3	morphology-onco 1743 1764	carcinome épidermoïde
+T4	morphology-onco 1870 1926	carcinome épidermoïde du poumon de stade IV, cT4 cN0 M1c
+T5	morphology-onco 2281 2293	métastatique
+T6	morphology-onco 2528 2538	métastases
+T7	morphology-onco 2682 2702	maladie dans le foie
+T8	morphology-onco 2754 2764	métastases
+T9	morphology-onco 2894 2906	métastatique
+T10	morphology-onco 3726 3744	lésions cérébrales
+T11	morphology-onco 3776 3806	nodules pulmonaires bilatéraux
+T12	morphology-onco 3830 3840	métastases
+T13	morphology-onco 3943 3951	tumorale
+T14	morphology-onco 4407 4440	lésions pulmonaires et hépatiques
+T15	morphology-onco 4781 4791	métastases
+T16	morphology-onco 4883 4901	lésions cérébrales
+#1	ICD-O-3.1 T3	8070/3
+#2	ICD-O-3.1 T7	8000/6
+#3	ICD-O-3.1 T10	8000/6
+#4	ICD-O-3.1 T16	8000/6
+#5	ICD-O-3.1 T5	8000/6
+#6	ICD-O-3.1 T9	8000/6
+#7	ICD-O-3.1 T2	8000/6
+#8	ICD-O-3.1 T6	8000/6
+#9	ICD-O-3.1 T8	8000/6
+#10	ICD-O-3.1 T12	8000/6
+#11	ICD-O-3.1 T15	8000/6
+#12	ICD-O-3.1 T11	8000/6
+#13	ICD-O-3.1 T13	8000/1
+#14	ICD-O-3.1 T1	8000/6
+#15	ICD-O-3.1 T4	8070/6
+#16	ICD-O-3.1 T14	8000/6
+#17	SNOMED T3	1162767002
+#18	SNOMED T7	14799000
+#19	SNOMED T10	14799000
+#20	SNOMED T16	14799000
+#21	SNOMED T5	14799000
+#22	SNOMED T9	14799000
+#23	SNOMED T2	14799000
+#24	SNOMED T6	14799000
+#25	SNOMED T8	14799000
+#26	SNOMED T12	14799000
+#27	SNOMED T15	14799000
+#28	SNOMED T11	14799000
+#29	SNOMED T13	86251006
+#30	SNOMED T1	14799000
+#31	SNOMED T4	403906006
+#32	SNOMED T14	14799000

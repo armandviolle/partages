@@ -1,0 +1,16 @@
+T1	disease 169 207	molaire semi-incluse inférieure gauche
+T2	disease 430 436	fumeur
+T3	disease 760 777	lésions nerveuses
+T4	disease 1626 1640	péricoronarite
+T5	disease 1688 1693	plaie
+T6	disease 1807 1850	complication infectieuse d'origine pulpaire
+T7	disease 2063 2077	péricoronarite
+T8	disease 3491 3496	plaie
+#1	SNOMED T4	22240003
+#2	SNOMED T7	22240003
+#3	SNOMED T2	77176002
+#4	SNOMED T1	234947003
+#5	SNOMED T6	5494004
+#6	SNOMED T5	416462003
+#7	SNOMED T8	416462003
+#8	SNOMED T3	212349001

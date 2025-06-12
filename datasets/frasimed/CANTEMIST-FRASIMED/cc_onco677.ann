@@ -1,0 +1,30 @@
+T1	morphology-onco 114 137	carcinome micro-invasif
+T2	morphology-onco 1119 1128	carcinome
+T3	morphology-onco 1287 1294	maligne
+T4	morphology-onco 1418 1427	malignité
+T5	morphology-onco 1846 1870	dissémination à distance
+T6	morphology-onco 2143 2187	carcinome épidermoïde modérément différencié
+T7	morphology-onco 2294 2296	M0
+T8	morphology-onco 2492 2500	tumorale
+T9	morphology-onco 2643 2664	carcinome épidermoïde
+T10	morphology-onco 2758 2766	tumorale
+#1	ICD-O-3.1 T7	8000/6
+#2	ICD-O-3.1 T2	8010/3
+#3	ICD-O-3.1 T9	8070/3
+#4	ICD-O-3.1 T3	8000/3
+#5	ICD-O-3.1 T4	8000/3
+#6	ICD-O-3.1 T8	8000/1
+#7	ICD-O-3.1 T10	8000/1
+#8	ICD-O-3.1 T1	8010/3/H
+#9	ICD-O-3.1 T5	8000/6
+#10	ICD-O-3.1 T6	8070/32
+#11	SNOMED T7	14799000
+#12	SNOMED T2	1187425009
+#13	SNOMED T9	1162767002
+#14	SNOMED T3	1240414004
+#15	SNOMED T4	1240414004
+#16	SNOMED T8	86251006
+#17	SNOMED T10	86251006
+#18	SNOMED T1	1187425009
+#19	SNOMED T5	14799000
+#20	SNOMED T6	1162767002

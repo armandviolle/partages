@@ -1,0 +1,16 @@
+T1	disease 99 122	hypertension artérielle
+T2	disease 172 191	sinusite maxillaire
+T3	disease 282 315	perte et déformation de la vision
+T4	disease 642 670	décollement séreux maculaire
+T5	disease 898 913	perte de vision
+T6	disease 982 1053	lésions érythémateuses douloureuses limitées aux extrémités inférieures
+T7	disease 982 1090	lésions érythémateuses douloureuses limitées aux extrémités inférieures, compatibles avec un érythème noueux
+T8	disease 1491 1495	Lyme
+#1	SNOMED T1	38341003
+#2	SNOMED T2	88348008
+#3	SNOMED T4	420030000
+#4	SNOMED T7	32861005
+#5	SNOMED T8	23502006
+#6	SNOMED T6	128137003
+#7	SNOMED T3	42134006+105597003
+#8	SNOMED T5	267631003

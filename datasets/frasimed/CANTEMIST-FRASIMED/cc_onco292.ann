@@ -1,0 +1,39 @@
+T1	morphology-onco 84 93	métastase
+T2	morphology-onco 141 150	carcinome
+T3	morphology-onco 992 998	cancer
+T4	morphology-onco 1035 1042	tumeurs
+T5	morphology-onco 2048 2054	tumeur
+T6	morphology-onco 2266 2288	carcinome métastatique
+T7	morphology-onco 3091 3097	tumeur
+T8	morphology-onco 4157 4166	métastase
+T9	morphology-onco 4925 4934	carcinome
+T10	morphology-onco 5234 5243	carcinome
+T11	morphology-onco 5279 5288	cT0cN2aM0
+T12	morphology-onco 5841 5847	tumeur
+T13	morphology-onco 6957 6971	cTXpN0(0/13)M0
+#1	ICD-O-3.1 T2	8010/3
+#2	ICD-O-3.1 T9	8010/3
+#3	ICD-O-3.1 T10	8010/3
+#4	ICD-O-3.1 T6	8010/6
+#5	ICD-O-3.1 T3	8000/3
+#6	ICD-O-3.1 T1	8000/6
+#7	ICD-O-3.1 T8	8000/6
+#8	ICD-O-3.1 T7	8000/1
+#9	ICD-O-3.1 T12	8000/1
+#10	ICD-O-3.1 T5	8000/1
+#11	ICD-O-3.1 T4	8000/1
+#12	ICD-O-3.1 T11	8000/6
+#13	ICD-O-3.1 T13	8000/6
+#14	SNOMED T2	1187425009
+#15	SNOMED T9	1187425009
+#16	SNOMED T10	1187425009
+#17	SNOMED T6	79282002
+#18	SNOMED T3	1240414004
+#19	SNOMED T1	14799000
+#20	SNOMED T8	14799000
+#21	SNOMED T7	86251006
+#22	SNOMED T12	86251006
+#23	SNOMED T5	86251006
+#24	SNOMED T4	86251006
+#25	SNOMED T11	14799000
+#26	SNOMED T13	14799000

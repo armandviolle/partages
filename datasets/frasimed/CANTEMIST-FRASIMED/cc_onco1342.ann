@@ -1,0 +1,5 @@
+T1	morphology-onco 714 795	adénocarcinome gastrique diffus avec infiltration secondaire de la moelle osseuse
+T2	morphology-onco 2472 2491	atteinte secondaire
+#1	ICD-O-3.1 T2	8000/6
+#2	ICD-O-3.1 T1	8145/6
+#3	SNOMED T2	14799000

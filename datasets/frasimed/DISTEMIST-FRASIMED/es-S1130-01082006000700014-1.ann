@@ -1,0 +1,22 @@
+T1	disease 21 58	infectée par le virus de l'hépatite C
+T2	disease 198 256	lésions cutanées sur le thorax et le visage qui saignaient
+T3	disease 347 360	splénomégalie
+T4	disease 378 424	araignées dans la région nasale et la poitrine
+T5	disease 951 972	varices œsophagiennes
+T6	disease 951 986	varices œsophagiennes ou gastriques
+T7	disease 1006 1043	gastropathie par hypertension portale
+T8	disease 1351 1376	syndrome hépatopulmonaire
+T9	disease 1692 1717	syndrome hépatopulmonaire
+T10	disease 1789 1823	varicosités situées dans le thorax
+T11	disease 2125 2132	lésions
+#1	SNOMED T1	50711007
+#2	SNOMED T8	371067004
+#3	SNOMED T3	16294009
+#4	SNOMED T9	371067004
+#5	SNOMED T5	28670008
+#6	SNOMED T7	303082009
+#7	SNOMED T2	271807003
+#8	SNOMED T4	271589007
+#9	SNOMED T6	91109007+28670008
+#10	SNOMED T10	112641009+258342003
+#11	SNOMED T11	157670007

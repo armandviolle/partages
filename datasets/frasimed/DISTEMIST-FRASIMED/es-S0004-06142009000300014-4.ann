@@ -1,0 +1,12 @@
+T1	disease 338 388	sarcome de type fibrohistiocytome malin pléomorphe
+T2	disease 847 853	lésion
+T3	disease 955 1004	récidive tumorale au niveau du cordon spermatique
+T4	disease 1076 1090	masse kystique
+T5	disease 1354 1388	fibrohistiocytome pléomorphe malin
+T6	disease 1681 1706	récidive intra-abdominale
+#1	SNOMED T3	25173007
+#2	SNOMED T6	25173007
+#3	SNOMED T5	254749001
+#4	SNOMED T1	424413001
+#5	SNOMED T2	417163006
+#6	SNOMED T4	441457006

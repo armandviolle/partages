@@ -1,0 +1,18 @@
+T1	disease 111 130	processus catarrhal
+T2	disease 194 204	coprolalie
+T3	disease 209 239	trouble sélectif de la mémoire
+T4	disease 530 552	modification explosive
+T5	disease 907 916	exanthème
+T6	disease 1052 1066	viscéromégalie
+T7	disease 2270 2289	processus catarrhal
+T8	disease 2378 2388	amygdalite
+T9	disease 2492 2512	processus infectieux
+#1	SNOMED T9	40733004
+#2	SNOMED T1	82272006
+#3	SNOMED T2	13446000
+#4	SNOMED T3	106136008
+#5	SNOMED T7	82272006
+#6	SNOMED T8	90176007
+#7	SNOMED T4	25786006
+#8	SNOMED T6	28543008
+#9	SNOMED T5	112625008

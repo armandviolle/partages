@@ -1,0 +1,8 @@
+T1	disease 116 209	lacération intimale de 7 mm de l'aorte thoracique après la sortie du tronc brachio-céphalique
+T2	disease 297 316	hématome sous-dural
+T3	disease 442 449	lésions
+T4	disease 770 800	rupture traumatique de l'aorte
+#1	SNOMED T1	312601003
+#2	SNOMED T4	126037009
+#3	SNOMED T2	95453001
+#4	SNOMED T3	157670007

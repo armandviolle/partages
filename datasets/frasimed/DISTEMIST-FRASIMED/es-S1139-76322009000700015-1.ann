@@ -1,0 +1,28 @@
+T1	disease 77 106	éruption cutanée prurigineuse
+T2	disease 124 153	lésions papulo-érythémateuses
+T3	disease 272 281	énanthème
+T4	disease 406 419	pneumonie LII
+T5	disease 513 546	infection à Mycoplasma pneumoniae
+T6	disease 548 563	exanthème viral
+T7	disease 582 606	mononucléose infectieuse
+T8	disease 609 649	allergie médicamenteuse à l'amoxicilline
+T9	disease 653 665	toxicodermie
+T10	disease 1253 1277	syndrome de mononucléose
+T11	disease 1517 1535	hépatite A, B et C
+T12	disease 2275 2292	maladie de Wilson
+T13	disease 2459 2474	légère stéatose
+T14	disease 2498 2515	maladie de Wilson
+#1	SNOMED T14	88518009
+#2	SNOMED T12	88518009
+#3	SNOMED T5	406595002
+#4	SNOMED T1	78934009
+#5	SNOMED T10	271558008
+#6	SNOMED T6	49882001
+#7	SNOMED T7	271558008
+#8	SNOMED T8	294505008
+#9	SNOMED T9	95326004
+#10	SNOMED T13	197321007
+#11	SNOMED T4	301000005
+#12	SNOMED T11	442374005+40468003
+#13	SNOMED T2	70831001
+#14	SNOMED T3	5862001

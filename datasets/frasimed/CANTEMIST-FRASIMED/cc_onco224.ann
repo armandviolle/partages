@@ -1,0 +1,31 @@
+T1	morphology-onco 600 608	tumorale
+T2	morphology-onco 810 900	carcinome rénal à cellules claires d'un diamètre maximal de 6 cm, de grade 2 selon Fhurman
+T3	morphology-onco 2127 2141	lésion osseuse
+T4	morphology-onco 2203 2221	masse de tissu mou
+T5	morphology-onco 2553 2601	métastase d'un adénocarcinome à cellules claires
+T6	morphology-onco 3904 3923	lésion ostéolytique
+T7	morphology-onco 4709 4730	masse des tissus mous
+T8	morphology-onco 4990 5002	métastatique
+T9	morphology-onco 5279 5291	métastatique
+T10	morphology-onco 5972 6019	métastase de carcinome rénal à cellules claires
+T11	morphology-onco 6040 6049	tumorales
+#1	ICD-O-3.1 T3	8000/6
+#2	ICD-O-3.1 T4	8000/6
+#3	ICD-O-3.1 T7	8000/6
+#4	ICD-O-3.1 T8	8000/6
+#5	ICD-O-3.1 T9	8000/6
+#6	ICD-O-3.1 T10	8310/6
+#7	ICD-O-3.1 T11	8000/1
+#8	ICD-O-3.1 T1	8000/1
+#9	ICD-O-3.1 T2	8310/32
+#10	ICD-O-3.1 T5	8310/6
+#11	ICD-O-3.1 T6	8000/6
+#12	SNOMED T3	14799000
+#13	SNOMED T4	14799000
+#14	SNOMED T7	14799000
+#15	SNOMED T8	14799000
+#16	SNOMED T9	14799000
+#17	SNOMED T11	86251006
+#18	SNOMED T1	86251006
+#19	SNOMED T2	30546008
+#20	SNOMED T6	14799000

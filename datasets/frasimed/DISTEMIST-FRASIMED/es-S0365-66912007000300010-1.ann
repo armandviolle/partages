@@ -1,0 +1,18 @@
+T1	disease 69 113	coupure saignante au cou causée par la chute
+T2	disease 146 218	traumatisme incisé a été vu dans la région antéro-latérale droite du cou
+T3	disease 473 478	plaie
+T4	disease 514 528	vision trouble
+T5	disease 829 845	ptose palpébrale
+T6	disease 1032 1043	traumatisme
+T7	disease 1100 1108	hématome
+T8	disease 1272 1341	solution de continuité a été observée dans la veine jugulaire externe
+T9	disease 1402 1420	syndrome de Horner
+#1	SNOMED T1	283407006
+#2	SNOMED T2	90460009
+#3	SNOMED T5	11934000
+#4	SNOMED T7	385494008
+#5	SNOMED T8	5166001
+#6	SNOMED T9	271730003
+#7	SNOMED T3	416462003
+#8	SNOMED T6	417746004
+#9	SNOMED T4	246636008

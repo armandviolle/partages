@@ -1,0 +1,10 @@
+T1	disease 132 182	ischémie due à une maladie artérielle périphérique
+T2	disease 445 470	douleur de membre fantôme
+T3	disease 1739 1746	lésions
+T4	disease 2466 2491	douleur du membre fantôme
+T5	disease 2830 2837	déprimé
+#1	SNOMED T4	5771000119106
+#2	SNOMED T1	233958001
+#3	SNOMED T2	59603003
+#4	SNOMED T5	35489007
+#5	SNOMED T3	157670007

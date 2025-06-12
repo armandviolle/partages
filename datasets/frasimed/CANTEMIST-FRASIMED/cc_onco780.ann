@@ -1,0 +1,75 @@
+T1	morphology-onco 249 266	carcinome in situ
+T2	morphology-onco 267 274	CIN III
+T3	morphology-onco 1487 1496	malignité
+T4	morphology-onco 1830 1839	malignité
+T5	morphology-onco 1920 1934	adénocarcinome
+T6	morphology-onco 2051 2060	malignité
+T7	morphology-onco 2074 2088	Adénocarcinome
+T8	morphology-onco 2106 2108	M0
+T9	morphology-onco 2416 2430	adénocarcinome
+T10	morphology-onco 2610 2618	tumorale
+T11	morphology-onco 2703 2711	tumorale
+T12	morphology-onco 2818 2826	tumorale
+T13	morphology-onco 2951 2965	adénocarcinome
+T14	morphology-onco 2986 2988	M0
+T15	morphology-onco 3457 3488	récidive tumorale surrénalienne
+T16	morphology-onco 3528 3542	adénocarcinome
+T17	morphology-onco 3955 3975	lésion surrénalienne
+T18	morphology-onco 4403 4423	lésion surrénalienne
+T19	morphology-onco 4475 4484	malignité
+T20	morphology-onco 4578 4586	tumorale
+T21	morphology-onco 4805 4830	progression surrénalienne
+T22	morphology-onco 5000 5020	lésion surrénalienne
+T23	morphology-onco 5067 5110	carcinome neuroendocrine à petites cellules
+T24	morphology-onco 5289 5322	carcinome pulmonaire microcytaire
+T25	morphology-onco 5728 5748	lésion surrénalienne
+#1	ICD-O-3.1 T7	8140/3
+#2	ICD-O-3.1 T8	8000/6
+#3	ICD-O-3.1 T14	8000/6
+#4	ICD-O-3.1 T5	8140/3
+#5	ICD-O-3.1 T9	8140/3
+#6	ICD-O-3.1 T13	8140/3
+#7	ICD-O-3.1 T16	8140/3
+#8	ICD-O-3.1 T1	8010/2
+#9	ICD-O-3.1 T24	8041/3
+#10	ICD-O-3.1 T23	8041/3
+#11	ICD-O-3.1 T17	8000/6
+#12	ICD-O-3.1 T18	8000/6
+#13	ICD-O-3.1 T22	8000/6
+#14	ICD-O-3.1 T25	8000/6
+#15	ICD-O-3.1 T3	8000/3
+#16	ICD-O-3.1 T4	8000/3
+#17	ICD-O-3.1 T6	8000/3
+#18	ICD-O-3.1 T19	8000/3
+#19	ICD-O-3.1 T10	8000/1
+#20	ICD-O-3.1 T11	8000/1
+#21	ICD-O-3.1 T12	8000/1
+#22	ICD-O-3.1 T20	8000/1
+#23	ICD-O-3.1 T2	8077/2
+#24	ICD-O-3.1 T15	8000/6
+#25	ICD-O-3.1 T21	8000/6
+#26	SNOMED T7	1187332001
+#27	SNOMED T8	14799000
+#28	SNOMED T14	14799000
+#29	SNOMED T5	1187332001
+#30	SNOMED T9	1187332001
+#31	SNOMED T13	1187332001
+#32	SNOMED T16	1187332001
+#33	SNOMED T1	1187138006
+#34	SNOMED T24	11010461000119101
+#35	SNOMED T23	11010461000119101
+#36	SNOMED T17	14799000
+#37	SNOMED T18	14799000
+#38	SNOMED T22	14799000
+#39	SNOMED T25	14799000
+#40	SNOMED T3	1240414004
+#41	SNOMED T4	1240414004
+#42	SNOMED T6	1240414004
+#43	SNOMED T19	1240414004
+#44	SNOMED T10	86251006
+#45	SNOMED T11	86251006
+#46	SNOMED T12	86251006
+#47	SNOMED T20	86251006
+#48	SNOMED T2	22725004
+#49	SNOMED T15	14799000
+#50	SNOMED T21	14799000

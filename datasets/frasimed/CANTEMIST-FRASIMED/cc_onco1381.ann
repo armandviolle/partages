@@ -1,0 +1,33 @@
+T1	morphology-onco 69 78	néoplasie
+T2	morphology-onco 123 129	cancer
+T3	morphology-onco 609 615	tumeur
+T4	morphology-onco 700 709	néoplasie
+T5	morphology-onco 1180 1205	carcinome peu différencié
+T6	morphology-onco 1287 1296	néoplasme
+T7	morphology-onco 1315 1337	métastase de carcinome
+T8	morphology-onco 2020 2082	tumeur ovarienne bilatérale avec composante kystique et solide
+T9	morphology-onco 2096 2111	néoplasme malin
+T10	morphology-onco 2206 2220	Adénocarcimome
+T11	morphology-onco 2962 2974	métastatique
+#1	ICD-O-3.1 T5	8010/33
+#2	ICD-O-3.1 T2	8000/3
+#3	ICD-O-3.1 T11	8000/6
+#4	ICD-O-3.1 T7	8010/6
+#5	ICD-O-3.1 T1	8000/1
+#6	ICD-O-3.1 T6	8000/1
+#7	ICD-O-3.1 T9	8000/3
+#8	ICD-O-3.1 T4	8000/1
+#9	ICD-O-3.1 T3	8000/1
+#10	ICD-O-3.1 T8	8452/1
+#11	ICD-O-3.1 T10	8140/3
+#12	SNOMED T5	1187425009
+#13	SNOMED T2	1240414004
+#14	SNOMED T11	14799000
+#15	SNOMED T7	79282002
+#16	SNOMED T1	86251006
+#17	SNOMED T6	86251006
+#18	SNOMED T9	1240414004
+#19	SNOMED T4	86251006
+#20	SNOMED T3	86251006
+#21	SNOMED T8	27078002
+#22	SNOMED T10	1187332001

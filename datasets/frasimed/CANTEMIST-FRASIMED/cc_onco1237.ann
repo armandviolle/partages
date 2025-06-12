@@ -1,0 +1,51 @@
+T1	morphology-onco 500 508	tumorale
+T2	morphology-onco 577 615	carcinome épidermoïde non kératinisant
+T3	morphology-onco 1326 1335	néoplasie
+T4	morphology-onco 1818 1830	métastatique
+T5	morphology-onco 2344 2382	carcinome épidermoïde non kératinisant
+T6	morphology-onco 2487 2493	tumeur
+T7	morphology-onco 2653 2671	maladie secondaire
+T8	morphology-onco 2765 2783	maladie secondaire
+T9	morphology-onco 3726 3734	tumoraux
+T10	morphology-onco 4454 4515	Carcinome malpighien de l'oropharynx au stade IVc (cT3cN2cM1)
+T11	morphology-onco 4977 4983	tumeur
+T12	morphology-onco 5232 5251	lésions pulmonaires
+T13	morphology-onco 5252 5265	métastatiques
+T14	morphology-onco 5736 5745	malignité
+T15	morphology-onco 6190 6196	tumeur
+T16	morphology-onco 6423 6442	lésions pulmonaires
+T17	morphology-onco 6443 6456	métastatiques
+#1	ICD-O-3.1 T7	8000/6
+#2	ICD-O-3.1 T8	8000/6
+#3	ICD-O-3.1 T12	8000/6
+#4	ICD-O-3.1 T16	8000/6
+#5	ICD-O-3.1 T14	8000/3
+#6	ICD-O-3.1 T4	8000/6
+#7	ICD-O-3.1 T13	8000/6
+#8	ICD-O-3.1 T17	8000/6
+#9	ICD-O-3.1 T3	8000/1
+#10	ICD-O-3.1 T6	8000/1
+#11	ICD-O-3.1 T1	8000/1
+#12	ICD-O-3.1 T9	8000/1
+#13	ICD-O-3.1 T11	8000/1
+#14	ICD-O-3.1 T15	8000/1
+#15	ICD-O-3.1 T2	8072/3
+#16	ICD-O-3.1 T5	8072/3
+#17	ICD-O-3.1 T10	8070/6
+#18	SNOMED T7	14799000
+#19	SNOMED T8	14799000
+#20	SNOMED T12	14799000
+#21	SNOMED T16	14799000
+#22	SNOMED T14	1240414004
+#23	SNOMED T4	14799000
+#24	SNOMED T13	14799000
+#25	SNOMED T17	14799000
+#26	SNOMED T3	86251006
+#27	SNOMED T6	86251006
+#28	SNOMED T1	86251006
+#29	SNOMED T9	86251006
+#30	SNOMED T11	86251006
+#31	SNOMED T15	86251006
+#32	SNOMED T2	45490001
+#33	SNOMED T5	45490001
+#34	SNOMED T10	403906006

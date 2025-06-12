@@ -1,0 +1,15 @@
+T1	disease 90 96	fumeur
+T2	disease 302 383	tumeur était située sur le bord libre droit, s'étendant vers la base de la langue
+T3	disease 399 405	ulcère
+T4	disease 419 464	traumatisme dentaire ou prothétique chronique
+T5	disease 485 497	zone ulcérée
+T6	disease 576 604	carcinome pseudo-sarcomateux
+T7	disease 611 646	sarcome épithélioïde-fusocellulaire
+T8	disease 671 693	métastases pulmonaires
+T9	disease 753 797	ostéolytiques dans la colonne dorso-lombaire
+T10	disease 806 837	nodules sous-cutanés sur le dos
+T11	disease 855 868	nodule dorsal
+T12	disease 1100 1179	prolifération néoplasique épithélioïde et fusocellulaire infiltrante et ulcérée
+T13	disease 1246 1274	carcinome pseudo-sarcomateux
+T14	disease 1281 1327	sarcome à cellules épithélioïdes et fusiformes
+T15	disease 1643 1681	léiomyosarcome infiltrant de la langue

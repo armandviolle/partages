@@ -1,0 +1,24 @@
+T1	morphology-onco 482 532	lésion malpighienne intraépithéliale de haut grade
+T2	morphology-onco 534 547	HSIL, CIN III
+T3	morphology-onco 807 841	carcinome malpighien micro-invasif
+T4	morphology-onco 887 941	lésions intra-épithéliales malpighiennes de haut grade
+T5	morphology-onco 1052 1058	tumeur
+T6	morphology-onco 1848 1860	métastatique
+T7	morphology-onco 2178 2196	maladie à distance
+T8	morphology-onco 2284 2304	carcinome malpighien
+#1	ICD-O-3.1 T8	8070/3
+#2	ICD-O-3.1 T7	8000/6
+#3	ICD-O-3.1 T4	8077/2
+#4	ICD-O-3.1 T6	8000/6
+#5	ICD-O-3.1 T5	8000/1
+#6	ICD-O-3.1 T1	8077/2
+#7	ICD-O-3.1 T2	8077/2
+#8	ICD-O-3.1 T3	8076/3
+#9	SNOMED T8	1162767002
+#10	SNOMED T7	14799000
+#11	SNOMED T4	22725004
+#12	SNOMED T6	14799000
+#13	SNOMED T5	86251006
+#14	SNOMED T1	22725004
+#15	SNOMED T2	22725004
+#16	SNOMED T3	12478003

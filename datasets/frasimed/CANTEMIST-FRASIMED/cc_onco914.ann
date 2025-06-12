@@ -1,0 +1,44 @@
+T1	morphology-onco 485 491	cancer
+T2	morphology-onco 562 568	cancer
+T3	morphology-onco 636 642	cancer
+T4	morphology-onco 1518 1536	lésions hépatiques
+T5	morphology-onco 1608 1617	carcinome
+T6	morphology-onco 1636 1689	sarcome rétropéritonéal primaire, avec des métastases
+T7	morphology-onco 2456 2465	tumorales
+T8	morphology-onco 2573 2642	néoplasme cortical surrénalien avec des caractéristiques oncocytaires
+T9	morphology-onco 2981 2990	carcinome
+T10	morphology-onco 3128 3136	tumorale
+T11	morphology-onco 3161 3168	tumoral
+T12	morphology-onco 3436 3445	métastase
+T13	morphology-onco 3864 3874	métastases
+T14	morphology-onco 4514 4524	métastases
+T15	morphology-onco 4868 4886	maladie à distance
+#1	ICD-O-3.1 T5	8010/3
+#2	ICD-O-3.1 T9	8010/3
+#3	ICD-O-3.1 T3	8000/3
+#4	ICD-O-3.1 T2	8000/3
+#5	ICD-O-3.1 T1	8000/3
+#6	ICD-O-3.1 T15	8000/6
+#7	ICD-O-3.1 T4	8000/6
+#8	ICD-O-3.1 T12	8000/6
+#9	ICD-O-3.1 T13	8000/6
+#10	ICD-O-3.1 T14	8000/6
+#11	ICD-O-3.1 T10	8000/1
+#12	ICD-O-3.1 T11	8000/1
+#13	ICD-O-3.1 T7	8000/1
+#14	ICD-O-3.1 T6	8800/6
+#15	ICD-O-3.1 T8	8370/1
+#16	SNOMED T5	1187425009
+#17	SNOMED T9	1187425009
+#18	SNOMED T3	1240414004
+#19	SNOMED T2	1240414004
+#20	SNOMED T1	1240414004
+#21	SNOMED T15	14799000
+#22	SNOMED T4	14799000
+#23	SNOMED T12	14799000
+#24	SNOMED T13	14799000
+#25	SNOMED T14	14799000
+#26	SNOMED T10	86251006
+#27	SNOMED T11	86251006
+#28	SNOMED T7	86251006
+#29	SNOMED T6	372152003

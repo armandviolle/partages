@@ -1,0 +1,48 @@
+T1	morphology-onco 307 316	néoplasie
+T2	morphology-onco 364 372	leucémie
+T3	morphology-onco 559 565	tumeur
+T4	morphology-onco 1280 1286	tumeur
+T5	morphology-onco 1697 1707	métastases
+T6	morphology-onco 1806 1815	néoplasie
+T7	morphology-onco 2188 2202	adénocarcinome
+T8	morphology-onco 2288 2321	adénocarcinome métastatique (ADK)
+T9	morphology-onco 2317 2320	ADK
+T10	morphology-onco 2388 2391	ADK
+T11	morphology-onco 2738 2741	ADK
+T12	morphology-onco 2921 2930	malignité
+T13	morphology-onco 3139 3201	adénocarcinome d'origine inconnue avec de multiples métastases
+T14	morphology-onco 4307 4315	tumorale
+T15	morphology-onco 4508 4524	atteinte osseuse
+T16	morphology-onco 5245 5287	infiltration tumorale de la moelle osseuse
+#1	ICD-O-3.1 T7	8140/3
+#2	ICD-O-3.1 T12	8000/3
+#3	ICD-O-3.1 T5	8000/6
+#4	ICD-O-3.1 T1	8000/1
+#5	ICD-O-3.1 T6	8000/1
+#6	ICD-O-3.1 T3	8000/1
+#7	ICD-O-3.1 T4	8000/1
+#8	ICD-O-3.1 T14	8000/1
+#9	ICD-O-3.1 T2	9800/3
+#10	ICD-O-3.1 T8	8140/6
+#11	ICD-O-3.1 T9	8140/3
+#12	ICD-O-3.1 T11	8140/3
+#13	ICD-O-3.1 T13	8140/6
+#14	ICD-O-3.1 T15	8000/6
+#15	ICD-O-3.1 T10	8140/3
+#16	ICD-O-3.1 T16	8000/6
+#17	SNOMED T7	1187332001
+#18	SNOMED T12	1240414004
+#19	SNOMED T5	14799000
+#20	SNOMED T1	86251006
+#21	SNOMED T6	86251006
+#22	SNOMED T3	86251006
+#23	SNOMED T4	86251006
+#24	SNOMED T14	86251006
+#25	SNOMED T2	1162768007
+#26	SNOMED T8	4590003
+#27	SNOMED T9	1187332001
+#28	SNOMED T11	1187332001
+#29	SNOMED T13	4590003
+#30	SNOMED T15	14799000
+#31	SNOMED T10	1187332001
+#32	SNOMED T16	14799000

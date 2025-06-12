@@ -1,0 +1,66 @@
+T1	morphology-onco 257 271	adénocarcinome
+T2	morphology-onco 309 311	M0
+T3	morphology-onco 429 435	tumeur
+T4	morphology-onco 593 601	ypT0N0M0
+T5	morphology-onco 978 996	récidive hépatique
+T6	morphology-onco 1248 1258	métastases
+T7	morphology-onco 1368 1407	métastases d'adénocarcinome de grade II
+T8	morphology-onco 1693 1711	récidive hépatique
+T9	morphology-onco 1830 1836	tumeur
+T10	morphology-onco 2048 2066	maladie à distance
+T11	morphology-onco 2266 2292	métastase d'adénocarcinome
+T12	morphology-onco 3011 3020	malignité
+T13	morphology-onco 3993 4014	lésion dans le poumon
+T14	morphology-onco 4041 4050	métastase
+T15	morphology-onco 4431 4448	lésion pulmonaire
+T16	morphology-onco 4592 4609	lésion pulmonaire
+T17	morphology-onco 4738 4755	oligométastatique
+T18	morphology-onco 5017 5034	lésion pulmonaire
+T19	morphology-onco 6681 6689	tumorale
+T20	morphology-onco 6904 6912	malignes
+T21	morphology-onco 7281 7295	adénocarcinome
+T22	morphology-onco 7402 7416	adénocarcinome
+#1	ICD-O-3.1 T2	8000/6
+#2	ICD-O-3.1 T1	8140/3
+#3	ICD-O-3.1 T21	8140/3
+#4	ICD-O-3.1 T22	8140/3
+#5	ICD-O-3.1 T10	8000/6
+#6	ICD-O-3.1 T15	8000/6
+#7	ICD-O-3.1 T16	8000/6
+#8	ICD-O-3.1 T18	8000/6
+#9	ICD-O-3.1 T20	8000/3
+#10	ICD-O-3.1 T12	8000/3
+#11	ICD-O-3.1 T6	8000/6
+#12	ICD-O-3.1 T14	8000/6
+#13	ICD-O-3.1 T11	8140/6
+#14	ICD-O-3.1 T17	8000/6
+#15	ICD-O-3.1 T5	8000/6
+#16	ICD-O-3.1 T8	8000/6
+#17	ICD-O-3.1 T3	8000/1
+#18	ICD-O-3.1 T9	8000/1
+#19	ICD-O-3.1 T19	8000/1
+#20	ICD-O-3.1 T4	8000/6
+#21	ICD-O-3.1 T7	8140/62
+#22	ICD-O-3.1 T13	8000/6
+#23	SNOMED T2	14799000
+#24	SNOMED T1	1187332001
+#25	SNOMED T21	1187332001
+#26	SNOMED T22	1187332001
+#27	SNOMED T10	14799000
+#28	SNOMED T15	14799000
+#29	SNOMED T16	14799000
+#30	SNOMED T18	14799000
+#31	SNOMED T20	1240414004
+#32	SNOMED T12	1240414004
+#33	SNOMED T6	14799000
+#34	SNOMED T14	14799000
+#35	SNOMED T11	4590003
+#36	SNOMED T17	14799000
+#37	SNOMED T5	14799000
+#38	SNOMED T8	14799000
+#39	SNOMED T3	86251006
+#40	SNOMED T9	86251006
+#41	SNOMED T19	86251006
+#42	SNOMED T4	14799000
+#43	SNOMED T7	4590003
+#44	SNOMED T13	14799000

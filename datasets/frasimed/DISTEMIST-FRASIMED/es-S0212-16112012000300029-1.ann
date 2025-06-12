@@ -1,0 +1,24 @@
+T1	disease 47 50	LAM
+T2	disease 75 106	hémopneumothorax droit spontané
+T3	disease 170 180	hémothorax
+T4	disease 200 219	dystrophie bulleuse
+T5	disease 314 329	ascite chyleuse
+T6	disease 342 379	lymphangiome kystique rétropéritonéal
+T7	disease 513 532	épanchement pleural
+T8	disease 601 612	chylothorax
+T9	disease 1642 1696	épanchement pleural a augmenté et est devenu bilatéral
+T10	disease 1981 1996	hypoalbuminémie
+T11	disease 2099 2129	infection associée au cathéter
+T12	disease 2826 2855	épanchement pleural bilatéral
+#1	SNOMED T9	425802001
+#2	SNOMED T1	91861009
+#3	SNOMED T11	440653007
+#4	SNOMED T2	16632002
+#5	SNOMED T7	60046008
+#6	SNOMED T10	119247004
+#7	SNOMED T8	83035003
+#8	SNOMED T4	823996003
+#9	SNOMED T12	425802001
+#10	SNOMED T5	52985009
+#11	SNOMED T6	400178008
+#12	SNOMED T3	31892009

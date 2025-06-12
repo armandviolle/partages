@@ -1,0 +1,18 @@
+T1	morphology-onco 40 46	cancer
+T2	morphology-onco 1278 1290	néoformation
+T3	morphology-onco 1397 1422	adénocarcinome intestinal
+T4	morphology-onco 1485 1499	adénocarcinome
+T5	morphology-onco 1750 1764	adénocarcinome
+T6	morphology-onco 1796 1802	tumeur
+#1	ICD-O-3.1 T5	8140/3
+#2	ICD-O-3.1 T3	8144/3
+#3	ICD-O-3.1 T4	8140/3
+#4	ICD-O-3.1 T1	8000/3
+#5	ICD-O-3.1 T2	8000/1
+#6	ICD-O-3.1 T6	8000/1
+#7	SNOMED T5	1187332001
+#8	SNOMED T3	25190001
+#9	SNOMED T4	1187332001
+#10	SNOMED T1	1240414004
+#11	SNOMED T2	86251006
+#12	SNOMED T6	86251006

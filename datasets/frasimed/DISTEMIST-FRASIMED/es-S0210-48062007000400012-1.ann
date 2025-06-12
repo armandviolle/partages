@@ -1,0 +1,17 @@
+T1	disease 22 32	diabétique
+T2	disease 66 110	hépatite C d'étiologie post-transfusionnelle
+T3	disease 287 309	carcinome de la vessie
+T4	disease 440 484	multiples foyers de carcinome dans la vessie
+T5	disease 514 567	carcinome urothélial envahissant la couche musculaire
+T6	disease 748 820	carcinome urothélial de haut grade avec invasion de la couche musculaire
+T7	disease 824 867	implication d'un des ganglions lymphatiques
+T8	disease 897 906	métastase
+T9	disease 1069 1098	infection des voies urinaires
+T10	disease 1616 1648	hydronéphrose bilatérale modérée
+T11	disease 2230 2234	coma
+T12	disease 2312 2333	hyperglycémie modérée
+T13	disease 2496 2523	encéphalopathie métabolique
+T14	disease 3174 3183	infection
+T15	disease 3546 3579	myélotoxicité post-chimiothérapie
+T16	disease 4059 4078	acidose métabolique
+T17	disease 4245 4278	encéphalopathie hyperammoniémique

@@ -1,0 +1,29 @@
+T1	disease 212 231	kératoconjonctivite
+T2	disease 628 660	pancréatite alcoolique chronique
+T3	disease 665 701	diabète sucré non insulino-dépendant
+T4	disease 706 715	tabagisme
+T5	disease 857 866	ptérygion
+T6	disease 983 994	traumatisme
+T7	disease 1234 1277	kératite ulcérative périphérique supérieure
+T8	disease 1279 1282	PUC
+T9	disease 1313 1335	synéchies postérieures
+T10	disease 1525 1531	pannus
+T11	disease 1543 1552	ptérygion
+T12	disease 1557 1579	ulcère cornéen central
+T13	disease 1615 1688	hyphéma occupant la moitié de la chambre antérieure (CA) et des synéchies
+T14	disease 1648 1688	chambre antérieure (CA) et des synéchies
+T15	disease 2224 2231	hyphéma
+T16	disease 2260 2268	hypopion
+T17	disease 2723 2742	lésions vasculaires
+T18	disease 3003 3024	maladies infectieuses
+T19	disease 3045 3067	maladies rhumatismales
+T20	disease 3074 3083	vasculite
+T21	disease 3223 3256	anémie macrocytaire et hypochrome
+T22	disease 3271 3304	malnutrition lipoprotéique sévère
+T23	disease 3310 3323	hyperglycémie
+T24	disease 3402 3422	légère malabsorption
+T25	disease 3430 3467	diminution des vitamines liposolubles
+T26	disease 3875 3904	implication vitréo-rétinienne
+T27	disease 3931 3993	malnutrition calorique et protéique avec carence en vitamine A
+T28	disease 4290 4305	leucome central
+T29	disease 4336 4388	kératopathie lipidique et des synéchies postérieures

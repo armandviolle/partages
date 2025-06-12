@@ -1,0 +1,45 @@
+T1	morphology-onco 160 169	carcinome
+T2	morphology-onco 189 197	mélanome
+T3	morphology-onco 244 262	mélanome nodulaire
+T4	morphology-onco 272 281	pT4bpN1M0
+T5	morphology-onco 590 607	nodule pulmonaire
+T6	morphology-onco 679 701	métastases de mélanome
+T7	morphology-onco 766 783	lésion pulmonaire
+T8	morphology-onco 817 833	lésion splénique
+T9	morphology-onco 881 893	métastatique
+T10	morphology-onco 1084 1092	tumorale
+T11	morphology-onco 1820 1847	cellules tumorales malignes
+T12	morphology-onco 2755 2764	tumorales
+T13	morphology-onco 3308 3316	tumorale
+T14	morphology-onco 3400 3435	mélanome métastatique non muté BRAF
+T15	morphology-onco 3464 3483	atteinte pulmonaire
+#1	ICD-O-3.1 T15	8000/6
+#2	ICD-O-3.1 T1	8010/3
+#3	ICD-O-3.1 T11	8001/3
+#4	ICD-O-3.1 T8	8000/6
+#5	ICD-O-3.1 T7	8000/6
+#6	ICD-O-3.1 T2	8720/3
+#7	ICD-O-3.1 T3	8721/3
+#8	ICD-O-3.1 T9	8000/6
+#9	ICD-O-3.1 T6	8720/6
+#10	ICD-O-3.1 T5	8000/6
+#11	ICD-O-3.1 T10	8000/1
+#12	ICD-O-3.1 T12	8000/1
+#13	ICD-O-3.1 T13	8000/1
+#14	ICD-O-3.1 T4	8000/6
+#15	ICD-O-3.1 T14	8720/6
+#16	SNOMED T15	14799000
+#17	SNOMED T1	1187425009
+#18	SNOMED T11	88400008
+#19	SNOMED T8	14799000
+#20	SNOMED T7	14799000
+#21	SNOMED T2	1162635006
+#22	SNOMED T3	2142002
+#23	SNOMED T9	14799000
+#24	SNOMED T6	372158004
+#25	SNOMED T5	14799000
+#26	SNOMED T10	86251006
+#27	SNOMED T12	86251006
+#28	SNOMED T13	86251006
+#29	SNOMED T4	14799000
+#30	SNOMED T14	372158004

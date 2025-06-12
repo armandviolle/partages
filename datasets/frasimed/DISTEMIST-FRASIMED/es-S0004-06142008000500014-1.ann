@@ -1,0 +1,8 @@
+T1	disease 757 776	cystite infectieuse
+T2	disease 1710 1733	lithiase dans la vessie
+T3	disease 1889 1934	réalisée, montrant la présence d'une lithiase
+T4	disease 2215 2252	lithiase, située au fond de la vessie
+#1	SNOMED T4	70650003
+#2	SNOMED T3	386102003
+#3	SNOMED T1	236620008
+#4	SNOMED T2	168053004

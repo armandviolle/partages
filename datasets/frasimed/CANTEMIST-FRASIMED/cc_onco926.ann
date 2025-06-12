@@ -1,0 +1,24 @@
+T1	morphology-onco 994 1000	tumeur
+T2	morphology-onco 1168 1175	lipomes
+T3	morphology-onco 2989 3000	néoplasique
+T4	morphology-onco 3196 3229	nodules parenchymateux bilatéraux
+T5	morphology-onco 3512 3544	carcinome non à petites cellules
+T6	morphology-onco 3595 3623	carcinome poreux différencié
+T7	morphology-onco 3628 3634	tumeur
+T8	morphology-onco 3712 3752	métastase d'un carcinome peu différencié
+#1	ICD-O-3.1 T5	8046/3
+#2	ICD-O-3.1 T2	8850/0
+#3	ICD-O-3.1 T3	8000/1
+#4	ICD-O-3.1 T4	8000/6
+#5	ICD-O-3.1 T1	8000/1
+#6	ICD-O-3.1 T6	8010/33
+#7	ICD-O-3.1 T7	8000/1
+#8	ICD-O-3.1 T8	8010/63
+#9	SNOMED T5	128632008
+#10	SNOMED T2	93163002
+#11	SNOMED T3	86251006
+#12	SNOMED T4	14799000
+#13	SNOMED T1	86251006
+#14	SNOMED T6	1187425009
+#15	SNOMED T7	86251006
+#16	SNOMED T8	79282002

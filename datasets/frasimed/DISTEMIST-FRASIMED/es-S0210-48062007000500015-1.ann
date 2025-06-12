@@ -1,0 +1,15 @@
+T1	disease 636 659	pathologie dégénérative
+T2	disease 665 687	sténose du canal L4-L5
+T3	disease 695 711	spondyloarthrose
+T4	disease 1734 1740	lésion
+T5	disease 1801 1823	infiltration hépatique
+T6	disease 1893 1916	adénopathies rétrocaves
+T7	disease 1921 1940	épanchement pleural
+T8	disease 2635 2698	tumeur rénale infiltrant le foie (segment VII) et le diaphragme
+T9	disease 2709 2757	lymphadénopathie pathologique dans le hile rénal
+T10	disease 2803 2823	implants péritonéaux
+T11	disease 3157 3220	cancer des cellules rénales de type conventionnel de haut grade
+T12	disease 3410 3462	métastase dans un ganglion lymphatique du hile rénal
+T13	disease 3838 3863	épanchement pleural droit
+T14	disease 3873 3925	lésions nodulaires pleurales basales et postérieures
+T15	disease 3984 3998	adénocarcinome

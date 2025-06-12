@@ -1,0 +1,120 @@
+T1	morphology-onco 247 259	Mélanocytome
+T2	morphology-onco 1775 1784	tumorales
+T3	morphology-onco 1862 1897	mélanocytome de grade intermédiaire
+T4	morphology-onco 2199 2222	tumoraux affectant l'os
+T5	morphology-onco 2345 2352	tumoral
+T6	morphology-onco 2421 2437	atteinte osseuse
+T7	morphology-onco 2632 2639	tumoral
+T8	morphology-onco 2765 2773	tumoraux
+T9	morphology-onco 3060 3093	lésion dans le creux claviculaire
+T10	morphology-onco 3127 3136	tumorales
+T11	morphology-onco 3318 3326	tumorale
+T12	morphology-onco 5459 5477	maladie à distance
+T13	morphology-onco 5583 5591	tumorale
+T14	morphology-onco 5751 5767	atteinte osseuse
+T15	morphology-onco 5989 5997	tumorale
+T16	morphology-onco 6407 6413	tumeur
+T17	morphology-onco 6667 6675	mélanome
+T18	morphology-onco 6870 6878	mélanome
+T19	morphology-onco 6913 6948	mélanocytome de grade intermédiaire
+T20	morphology-onco 7058 7064	tumeur
+T21	morphology-onco 7311 7319	mélanome
+T22	morphology-onco 7661 7691	schwannome mélanocytaire malin
+T23	morphology-onco 7703 7711	mélanome
+T24	morphology-onco 7821 7832	schwannomes
+T25	morphology-onco 7922 7931	mélanomes
+T26	morphology-onco 7970 7978	mélanome
+T27	morphology-onco 8223 8231	mélanome
+T28	morphology-onco 8523 8531	mélanome
+T29	morphology-onco 8891 8899	mélanome
+T30	morphology-onco 8918 8929	schwannomes
+T31	morphology-onco 9099 9107	mélanome
+T32	morphology-onco 10117 10135	lésions cervicales
+T33	morphology-onco 10336 10342	tumeur
+T34	morphology-onco 10382 10405	envahissement vertébral
+T35	morphology-onco 10424 10449	envahissement médiastinal
+T36	morphology-onco 10503 10533	adénopathies sus-claviculaires
+T37	morphology-onco 10571 10590	nodules pulmonaires
+T38	morphology-onco 10614 10630	atteinte osseuse
+T39	morphology-onco 10680 10690	métastases
+T40	morphology-onco 10932 10940	mélanome
+#1	ICD-O-3.1 T1	8726/0
+#2	ICD-O-3.1 T12	8000/6
+#3	ICD-O-3.1 T17	8720/3
+#4	ICD-O-3.1 T18	8720/3
+#5	ICD-O-3.1 T21	8720/3
+#6	ICD-O-3.1 T23	8720/3
+#7	ICD-O-3.1 T25	8720/3
+#8	ICD-O-3.1 T26	8720/3
+#9	ICD-O-3.1 T27	8720/3
+#10	ICD-O-3.1 T28	8720/3
+#11	ICD-O-3.1 T29	8720/3
+#12	ICD-O-3.1 T31	8720/3
+#13	ICD-O-3.1 T40	8720/3
+#14	ICD-O-3.1 T39	8000/6
+#15	ICD-O-3.1 T16	8000/1
+#16	ICD-O-3.1 T20	8000/1
+#17	ICD-O-3.1 T5	8000/1
+#18	ICD-O-3.1 T7	8000/1
+#19	ICD-O-3.1 T11	8000/1
+#20	ICD-O-3.1 T13	8000/1
+#21	ICD-O-3.1 T15	8000/1
+#22	ICD-O-3.1 T33	8000/1
+#23	ICD-O-3.1 T2	8000/1
+#24	ICD-O-3.1 T8	8000/1
+#25	ICD-O-3.1 T10	8000/1
+#26	ICD-O-3.1 T3	8726/02
+#27	ICD-O-3.1 T4	8000/6
+#28	ICD-O-3.1 T14	8000/6
+#29	ICD-O-3.1 T19	8726/02
+#30	ICD-O-3.1 T22	9560/3
+#31	ICD-O-3.1 T24	9560/0
+#32	ICD-O-3.1 T30	9560/0
+#33	ICD-O-3.1 T38	8000/6
+#34	ICD-O-3.1 T36	8000/6
+#35	ICD-O-3.1 T37	8000/6
+#36	ICD-O-3.1 T6	8000/6
+#37	ICD-O-3.1 T32	8000/6
+#38	ICD-O-3.1 T34	8000/6
+#39	ICD-O-3.1 T35	8000/6
+#40	ICD-O-3.1 T9	8000/6
+#41	SNOMED T1	26325004
+#42	SNOMED T12	14799000
+#43	SNOMED T17	1162635006
+#44	SNOMED T18	1162635006
+#45	SNOMED T21	1162635006
+#46	SNOMED T23	1162635006
+#47	SNOMED T25	1162635006
+#48	SNOMED T26	1162635006
+#49	SNOMED T27	1162635006
+#50	SNOMED T28	1162635006
+#51	SNOMED T29	1162635006
+#52	SNOMED T31	1162635006
+#53	SNOMED T40	1162635006
+#54	SNOMED T39	14799000
+#55	SNOMED T16	86251006
+#56	SNOMED T20	86251006
+#57	SNOMED T5	86251006
+#58	SNOMED T7	86251006
+#59	SNOMED T11	86251006
+#60	SNOMED T13	86251006
+#61	SNOMED T15	86251006
+#62	SNOMED T33	86251006
+#63	SNOMED T2	86251006
+#64	SNOMED T8	86251006
+#65	SNOMED T10	86251006
+#66	SNOMED T3	26325004
+#67	SNOMED T4	14799000
+#68	SNOMED T14	14799000
+#69	SNOMED T19	26325004
+#70	SNOMED T22	77418004
+#71	SNOMED T24	189948006
+#72	SNOMED T30	189948006
+#73	SNOMED T38	14799000
+#74	SNOMED T36	14799000
+#75	SNOMED T37	14799000
+#76	SNOMED T6	14799000
+#77	SNOMED T32	14799000
+#78	SNOMED T34	14799000
+#79	SNOMED T35	14799000
+#80	SNOMED T9	14799000

@@ -1,0 +1,22 @@
+T1	disease 146 160	amylose rénale
+T2	disease 287 297	amylose AA
+T3	disease 385 395	amylose AL
+T4	disease 628 648	syndrome néphrotique
+T5	disease 1227 1234	amylose
+T6	disease 1410 1417	amylose
+T7	disease 2120 2132	amylose Afib
+T8	disease 2527 2547	neuropathie autonome
+T9	disease 2690 2707	amylose familiale
+T10	disease 3142 3159	rupture splénique
+T11	disease 3201 3228	dépôt amyloïde dans la rate
+#1	SNOMED T1	48713002
+#2	SNOMED T4	52254009
+#3	SNOMED T2	274945004
+#4	SNOMED T9	66451004
+#5	SNOMED T3	23132008
+#6	SNOMED T11	234510005
+#7	SNOMED T5	17602002
+#8	SNOMED T6	17602002
+#9	SNOMED T7	42295001
+#10	SNOMED T8	277879009
+#11	SNOMED T10	234506007

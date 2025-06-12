@@ -1,0 +1,22 @@
+T1	disease 153 169	cirrhose du foie
+T2	disease 231 273	HAD secondaire à des varices œsophagiennes
+T3	disease 307 327	hypertension portale
+T4	disease 335 341	ascite
+T5	disease 385 400	hépatocarcinome
+T6	disease 728 738	paraplégie
+T7	disease 809 820	paraparésie
+T8	disease 826 879	amyotrophie due à la désuétude des membres inférieurs
+T9	disease 885 958	hypoesthésie subjective plus importante dans le DID avec un niveau D8-D10
+T10	disease 1308 1357	lésions lacunaires supratentorielles hyperintense
+T11	disease 1729 1760	paraparésie spastique tropicale
+#1	SNOMED T1	19943007
+#2	SNOMED T2	17709002
+#3	SNOMED T3	34742003
+#4	SNOMED T4	389026000
+#5	SNOMED T5	109841003
+#6	SNOMED T6	60389000
+#7	SNOMED T10	1156035006
+#8	SNOMED T11	714279000
+#9	SNOMED T7	1845001
+#10	SNOMED T8	15704361000119102
+#11	SNOMED T9	397974008+32696007

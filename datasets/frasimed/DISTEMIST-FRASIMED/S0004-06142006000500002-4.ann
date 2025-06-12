@@ -1,0 +1,12 @@
+T1	disease 259 271	hypertension
+T2	disease 716 725	hydrocèle
+T3	disease 848 874	orchiépididymite chronique
+T4	disease 1040 1049	hydrocèle
+T5	disease 1479 1543	tumeur à cellules de Leydig présentant des critères de malignité
+T6	disease 2188 2197	métastase
+#1	SNOMED T1	38341003
+#2	SNOMED T2	26614003
+#3	SNOMED T3	10194007+236768005
+#4	SNOMED T4	26614003
+#5	SNOMED T5	77870005
+#6	SNOMED T6	128462008

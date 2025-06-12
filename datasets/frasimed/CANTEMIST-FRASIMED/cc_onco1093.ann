@@ -1,0 +1,27 @@
+T1	morphology-onco 689 728	adénopathie cervicale, sus-claviculaire
+T2	morphology-onco 780 786	tumeur
+T3	morphology-onco 1289 1322	tumeur maligne à petites cellules
+T4	morphology-onco 2518 2561	Carcinome neuroendocrine à petites cellules
+T5	morphology-onco 2572 2581	cT2-3N3M0
+T6	morphology-onco 3577 3583	tumeur
+T7	morphology-onco 3760 3769	malignité
+T8	morphology-onco 3900 3962	récidive a été détectée dans le lobe inférieur droit du poumon
+T9	morphology-onco 5098 5119	lésions métastatiques
+#1	ICD-O-3.1 T4	8041/3
+#2	ICD-O-3.1 T1	8000/6
+#3	ICD-O-3.1 T7	8000/3
+#4	ICD-O-3.1 T9	8000/6
+#5	ICD-O-3.1 T6	8000/1
+#6	ICD-O-3.1 T2	8000/1
+#7	ICD-O-3.1 T3	8002/3
+#8	ICD-O-3.1 T5	8000/6
+#9	ICD-O-3.1 T8	8000/6
+#10	SNOMED T4	11010461000119101
+#11	SNOMED T1	14799000
+#12	SNOMED T7	1240414004
+#13	SNOMED T9	14799000
+#14	SNOMED T6	86251006
+#15	SNOMED T2	86251006
+#16	SNOMED T3	82267002
+#17	SNOMED T5	14799000
+#18	SNOMED T8	14799000

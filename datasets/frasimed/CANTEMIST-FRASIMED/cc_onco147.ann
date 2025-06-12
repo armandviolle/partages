@@ -1,0 +1,60 @@
+T1	morphology-onco 85 94	carcinome
+T2	morphology-onco 721 738	cancer infiltrant
+T3	morphology-onco 1477 1486	malignité
+T4	morphology-onco 1622 1642	carcinome infiltrant
+T5	morphology-onco 1706 1715	carcinome
+T6	morphology-onco 1740 1749	carcinome
+T7	morphology-onco 2180 2199	nodules pulmonaires
+T8	morphology-onco 2508 2535	Cancer du sein métastatique
+T9	morphology-onco 2568 2587	atteinte pulmonaire
+T10	morphology-onco 2996 3013	EP dans le poumon
+T11	morphology-onco 3895 3962	atteinte lymphatique axillaire, mammaire interne, supraclaviculaire
+T12	morphology-onco 3990 4000	métastases
+T13	morphology-onco 4090 4118	maladie au niveau pulmonaire
+T14	morphology-onco 4498 4508	métastases
+T15	morphology-onco 4763 4781	maladie thoracique
+T16	morphology-onco 4988 4998	métastases
+T17	morphology-onco 5320 5329	néoplasme
+T18	morphology-onco 5513 5532	nodules pulmonaires
+T19	morphology-onco 5890 5900	métastases
+T20	morphology-onco 5946 5959	métastatiques
+#1	ICD-O-3.1 T8	8000/6
+#2	ICD-O-3.1 T9	8000/6
+#3	ICD-O-3.1 T1	8010/3
+#4	ICD-O-3.1 T5	8010/3
+#5	ICD-O-3.1 T6	8010/3
+#6	ICD-O-3.1 T4	8010/3/H
+#7	ICD-O-3.1 T3	8000/3
+#8	ICD-O-3.1 T20	8000/6
+#9	ICD-O-3.1 T12	8000/6
+#10	ICD-O-3.1 T14	8000/6
+#11	ICD-O-3.1 T16	8000/6
+#12	ICD-O-3.1 T19	8000/6
+#13	ICD-O-3.1 T17	8000/1
+#14	ICD-O-3.1 T7	8000/6
+#15	ICD-O-3.1 T18	8000/6
+#16	ICD-O-3.1 T2	8000/3/H
+#17	ICD-O-3.1 T10	8000/6
+#18	ICD-O-3.1 T11	8000/6
+#19	ICD-O-3.1 T13	8000/6
+#20	ICD-O-3.1 T15	8000/6
+#21	SNOMED T8	14799000
+#22	SNOMED T9	14799000
+#23	SNOMED T1	1187425009
+#24	SNOMED T5	1187425009
+#25	SNOMED T6	1187425009
+#26	SNOMED T4	1187425009
+#27	SNOMED T3	1240414004
+#28	SNOMED T20	14799000
+#29	SNOMED T12	14799000
+#30	SNOMED T14	14799000
+#31	SNOMED T16	14799000
+#32	SNOMED T19	14799000
+#33	SNOMED T17	86251006
+#34	SNOMED T7	14799000
+#35	SNOMED T18	14799000
+#36	SNOMED T2	1240414004
+#37	SNOMED T10	14799000
+#38	SNOMED T11	14799000
+#39	SNOMED T13	14799000
+#40	SNOMED T15	14799000

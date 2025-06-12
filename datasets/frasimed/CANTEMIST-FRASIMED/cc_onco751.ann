@@ -1,0 +1,45 @@
+T1	morphology-onco 551 557	tumeur
+T2	morphology-onco 712 719	tumoral
+T3	morphology-onco 1127 1198	carcinome urothélial de haut grade avec différenciation trophoblastique
+T4	morphology-onco 1439 1459	carcinome urothélial
+T5	morphology-onco 1503 1505	Mx
+T6	morphology-onco 1591 1652	lésions nodulaires ont été observées dans les deux hémithorax
+T7	morphology-onco 1746 1758	métastatique
+T8	morphology-onco 1775 1792	lâcher de ballons
+T9	morphology-onco 2266 2268	M1
+T10	morphology-onco 2416 2434	tumeurs germinales
+T11	morphology-onco 2834 2853	lésions pulmonaires
+T12	morphology-onco 3413 3456	lésions métastatiques intraparenchymateuses
+T13	morphology-onco 3421 3434	métastatiques
+T14	morphology-onco 3566 3653	Carcinome urothélial de haut grade avec plus de 50 % de différenciation trophoblastique
+T15	morphology-onco 4101 4119	tumeurs germinales
+#1	ICD-O-3.1 T9	8000/6
+#2	ICD-O-3.1 T5	8000/6
+#3	ICD-O-3.1 T4	8120/3
+#4	ICD-O-3.1 T12	8000/6
+#5	ICD-O-3.1 T11	8000/6
+#6	ICD-O-3.1 T7	8000/6
+#7	ICD-O-3.1 T13	8000/6
+#8	ICD-O-3.1 T8	8000/6
+#9	ICD-O-3.1 T1	8000/1
+#10	ICD-O-3.1 T2	8000/1
+#11	ICD-O-3.1 T10	9064/3
+#12	ICD-O-3.1 T15	9064/3
+#13	ICD-O-3.1 T3	8120/34/H
+#14	ICD-O-3.1 T6	8000/6
+#15	ICD-O-3.1 T14	8120/34/H
+#16	SNOMED T9	14799000
+#17	SNOMED T5	14799000
+#18	SNOMED T4	27090000
+#19	SNOMED T12	14799000
+#20	SNOMED T11	14799000
+#21	SNOMED T7	14799000
+#22	SNOMED T13	14799000
+#23	SNOMED T8	14799000
+#24	SNOMED T1	86251006
+#25	SNOMED T2	86251006
+#26	SNOMED T10	28307001
+#27	SNOMED T15	28307001
+#28	SNOMED T3	27090000
+#29	SNOMED T6	14799000
+#30	SNOMED T14	27090000

@@ -1,0 +1,54 @@
+T1	morphology-onco 212 226	adénocarcinome
+T2	morphology-onco 263 270	cT4N0M0
+T3	morphology-onco 727 733	tumeur
+T4	morphology-onco 1151 1188	adénocarcinome modérément différencié
+T5	morphology-onco 1478 1495	nodule pulmonaire
+T6	morphology-onco 1766 1803	adénocarcinome modérément différencié
+T7	morphology-onco 1856 1865	métastase
+T8	morphology-onco 2708 2714	tumeur
+T9	morphology-onco 2858 2867	métastase
+T10	morphology-onco 2886 2895	métastase
+T11	morphology-onco 3014 3031	rechute cérébrale
+T12	morphology-onco 3070 3080	métastases
+T13	morphology-onco 3239 3249	métastases
+T14	morphology-onco 3323 3329	tumeur
+T15	morphology-onco 3435 3465	métastases d'un adénocarcinome
+T16	morphology-onco 3710 3716	tumeur
+T17	morphology-onco 4245 4251	tumeur
+T18	morphology-onco 4560 4584	récidive au niveau dural
+#1	ICD-O-3.1 T1	8140/3
+#2	ICD-O-3.1 T4	8140/32
+#3	ICD-O-3.1 T6	8140/32
+#4	ICD-O-3.1 T7	8000/6
+#5	ICD-O-3.1 T9	8000/6
+#6	ICD-O-3.1 T10	8000/6
+#7	ICD-O-3.1 T12	8000/6
+#8	ICD-O-3.1 T13	8000/6
+#9	ICD-O-3.1 T15	8140/6
+#10	ICD-O-3.1 T5	8000/6
+#11	ICD-O-3.1 T11	8000/6
+#12	ICD-O-3.1 T3	8000/1
+#13	ICD-O-3.1 T8	8000/1
+#14	ICD-O-3.1 T14	8000/1
+#15	ICD-O-3.1 T16	8000/1
+#16	ICD-O-3.1 T17	8000/1
+#17	ICD-O-3.1 T2	8000/6
+#18	ICD-O-3.1 T18	8000/6
+#19	SNOMED T1	1187332001
+#20	SNOMED T4	1187332001
+#21	SNOMED T6	1187332001
+#22	SNOMED T7	14799000
+#23	SNOMED T9	14799000
+#24	SNOMED T10	14799000
+#25	SNOMED T12	14799000
+#26	SNOMED T13	14799000
+#27	SNOMED T15	4590003
+#28	SNOMED T5	14799000
+#29	SNOMED T11	14799000
+#30	SNOMED T3	86251006
+#31	SNOMED T8	86251006
+#32	SNOMED T14	86251006
+#33	SNOMED T16	86251006
+#34	SNOMED T17	86251006
+#35	SNOMED T2	14799000
+#36	SNOMED T18	14799000

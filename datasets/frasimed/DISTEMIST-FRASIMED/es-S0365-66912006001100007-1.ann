@@ -1,0 +1,16 @@
+T1	disease 43 65	endotropie congénitale
+T2	disease 148 158	endotropie
+T3	disease 176 179	DVD
+T4	disease 367 396	lésion conjonctivale kystique
+T5	disease 582 605	abcès sous-conjonctival
+T6	disease 747 753	lésion
+T7	disease 1003 1026	lésion kystique bénigne
+T8	disease 1063 1081	formation kystique
+#1	SNOMED T1	232093001
+#2	SNOMED T2	22066006
+#3	SNOMED T4	193901000
+#4	SNOMED T5	95679004
+#5	SNOMED T8	441457006
+#6	SNOMED T7	441457006
+#7	SNOMED T6	417163006
+#8	SNOMED T3	232108003

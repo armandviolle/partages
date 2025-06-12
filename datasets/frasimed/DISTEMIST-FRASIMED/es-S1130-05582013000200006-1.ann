@@ -1,0 +1,36 @@
+T1	disease 80 111	allergique à la clarithromycine
+T2	disease 128 147	œsophage de Barrett
+T3	disease 152 175	tremblements essentiels
+T4	disease 181 216	anémie chronique par carence en fer
+T5	disease 245 260	carcinome rénal
+T6	disease 293 308	carcinome rénal
+T7	disease 319 321	M1
+T8	disease 367 400	métastases surrénales bilatérales
+T9	disease 406 444	lésions métastatiques dans les poumons
+T10	disease 643 664	lésions métastatiques
+T11	disease 807 837	métastase d'un carcinome rénal
+T12	disease 1174 1222	lésion hypermétabolique au niveau de la parotide
+T13	disease 1250 1272	processus métastatique
+T14	disease 1309 1316	tumeurs
+T15	disease 1409 1447	implication des deux lobes parotidiens
+T16	disease 1571 1620	métastase d'un carcinome rénal à cellules claires
+T17	disease 1965 2006	sérome au niveau de la plaie chirurgicale
+T18	disease 2130 2136	plaies
+#1	SNOMED T6	254915003
+#2	SNOMED T17	429494008
+#3	SNOMED T12	300257000
+#4	SNOMED T1	294471003
+#5	SNOMED T16	702392008
+#6	SNOMED T8	94161006
+#7	SNOMED T2	302914006
+#8	SNOMED T3	609558009
+#9	SNOMED T13	128462008
+#10	SNOMED T11	702392008
+#11	SNOMED T4	87522002
+#12	SNOMED T5	254915003
+#13	SNOMED T10	128462008
+#14	SNOMED T18	416462003
+#15	SNOMED T9	94391008
+#16	SNOMED T14	189542002
+#17	SNOMED T7	14799000
+#18	SNOMED T15	94474008

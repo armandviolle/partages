@@ -1,0 +1,40 @@
+T1	disease 83 106	dilatation stationnaire
+T2	disease 251 272	menace d'accouchement
+T3	disease 324 360	retard de développement psychomoteur
+T4	disease 400 416	crises d'absence
+T5	disease 422 439	crise d'épilepsie
+T6	disease 507 527	retard mental modéré
+T7	disease 533 560	difficultés d'apprentissage
+T8	disease 566 602	altérations comportementales sévères
+T9	disease 611 629	spectre autistique
+T10	disease 634 666	déficit du contrôle sphinctérien
+T11	disease 673 724	trouble d'hyperactivité avec déficit de l'attention
+T12	disease 898 913	anxiété sociale
+T13	disease 920 962	phobies extrêmes aux bruits et aux animaux
+T14	disease 1104 1125	hypotonie généralisée
+T15	disease 1130 1148	laxité articulaire
+T16	disease 1153 1165	pieds valgus
+T17	disease 1233 1251	trouble du sommeil
+T18	disease 1297 1323	altérations cardiologiques
+T19	disease 1349 1380	traits faciaux caractéristiques
+T20	disease 1530 1533	SXF
+#1	SNOMED T20	613003
+#2	SNOMED T2	199049003
+#3	SNOMED T3	1144814003
+#4	SNOMED T4	79631006
+#5	SNOMED T5	84757009
+#6	SNOMED T6	61152003
+#7	SNOMED T8	25786006
+#8	SNOMED T9	408856003
+#9	SNOMED T10	447740001
+#10	SNOMED T11	406506008
+#11	SNOMED T12	247832004
+#12	SNOMED T16	79807003
+#13	SNOMED T17	39898005
+#14	SNOMED T7	1855002
+#15	SNOMED T13	370567003+54307006
+#16	SNOMED T1	7768008
+#17	SNOMED T14	398151007
+#18	SNOMED T15	298203008
+#19	SNOMED T18	129898001
+#20	SNOMED T19	205797000

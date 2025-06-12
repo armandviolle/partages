@@ -1,0 +1,18 @@
+T1	morphology-onco 524 536	métastatique
+T2	morphology-onco 696 769	carcinome rénal papillaire de type 2, 55 x 50 x 45 mm, grade 3 de Führman
+T3	morphology-onco 876 885	carcinome
+T4	morphology-onco 1637 1663	carcinome rénal papillaire
+T5	morphology-onco 2637 2654	cellules malignes
+T6	morphology-onco 2785 2824	progression a été observée dans le foie
+#1	ICD-O-3.1 T3	8010/3
+#2	ICD-O-3.1 T4	8260/3
+#3	ICD-O-3.1 T5	8001/3
+#4	ICD-O-3.1 T1	8000/6
+#5	ICD-O-3.1 T6	8000/6
+#6	ICD-O-3.1 T2	8260/33
+#7	SNOMED T3	1187425009
+#8	SNOMED T4	4797003
+#9	SNOMED T5	88400008
+#10	SNOMED T1	14799000
+#11	SNOMED T6	14799000
+#12	SNOMED T2	4797003

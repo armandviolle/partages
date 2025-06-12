@@ -1,0 +1,54 @@
+T1	morphology-onco 137 152	médulloblastome
+T2	morphology-onco 1392 1398	tumeur
+T3	morphology-onco 1555 1561	Tumeur
+T4	morphology-onco 1646 1674	processus lymphoprolifératif
+T5	morphology-onco 1692 1695	LNH
+T6	morphology-onco 1752 1759	tumeurs
+T7	morphology-onco 1789 1799	métastases
+T8	morphology-onco 1927 1944	cellules malignes
+T9	morphology-onco 1946 1955	Carcinome
+T10	morphology-onco 2011 2036	carcinome peu différencié
+T11	morphology-onco 2055 2061	tumeur
+T12	morphology-onco 2207 2247	métastase d'un carcinome peu différencié
+T13	morphology-onco 2253 2271	cellules tumorales
+T14	morphology-onco 2505 2511	tumeur
+T15	morphology-onco 2547 2555	tumorale
+T16	morphology-onco 2731 2767	carcinome thyroïdien peu différencié
+T17	morphology-onco 2893 2902	métastase
+T18	morphology-onco 3383 3417	carcinome thyroïdien indifférencié
+#1	ICD-O-3.1 T9	8010/3
+#2	ICD-O-3.1 T5	9591/3
+#3	ICD-O-3.1 T3	8000/1
+#4	ICD-O-3.1 T18	8020/3
+#5	ICD-O-3.1 T16	8010/33
+#6	ICD-O-3.1 T10	8010/33
+#7	ICD-O-3.1 T8	8001/3
+#8	ICD-O-3.1 T13	8001/1
+#9	ICD-O-3.1 T7	8000/6
+#10	ICD-O-3.1 T17	8000/6
+#11	ICD-O-3.1 T12	8010/63
+#12	ICD-O-3.1 T4	9970/1
+#13	ICD-O-3.1 T11	8000/1
+#14	ICD-O-3.1 T14	8000/1
+#15	ICD-O-3.1 T6	8000/1
+#16	ICD-O-3.1 T2	8000/1
+#17	ICD-O-3.1 T15	8000/1
+#18	ICD-O-3.1 T1	9470/3
+#19	SNOMED T9	1187425009
+#20	SNOMED T5	1172592001
+#21	SNOMED T3	86251006
+#22	SNOMED T18	38549000
+#23	SNOMED T16	1187425009
+#24	SNOMED T10	1187425009
+#25	SNOMED T8	88400008
+#26	SNOMED T13	39577004
+#27	SNOMED T7	14799000
+#28	SNOMED T17	14799000
+#29	SNOMED T12	79282002
+#30	SNOMED T4	277466009
+#31	SNOMED T11	86251006
+#32	SNOMED T14	86251006
+#33	SNOMED T6	86251006
+#34	SNOMED T2	86251006
+#35	SNOMED T15	86251006
+#36	SNOMED T1	1156923005

@@ -1,0 +1,12 @@
+T1	disease 73 81	silicose
+T2	disease 96 99	FMP
+T3	disease 101 110	Ex-fumeur
+T4	disease 146 168	tuberculose pulmonaire
+T5	disease 596 643	caillot dans la bronche du lobe supérieur droit
+T6	disease 932 974	épaississement pleural nodulaire et diffus
+#1	SNOMED T1	805002
+#2	SNOMED T3	8517006
+#3	SNOMED T4	154283005
+#4	SNOMED T5	371039008
+#5	SNOMED T2	233749003
+#6	SNOMED T6	73725006

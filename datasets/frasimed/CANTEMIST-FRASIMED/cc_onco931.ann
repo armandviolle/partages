@@ -1,0 +1,17 @@
+T1	morphology-onco 1187 1196	néoplasie
+T2	morphology-onco 2894 2980	foyers hypermétaboliques dans différents territoires ganglionnaires (supraclaviculaire
+T3	morphology-onco 3157 3169	métastatique
+T4	morphology-onco 3367 3395	carcinome à petites cellules
+T5	morphology-onco 3438 3497	carcinome pulmonaire microcytaire de stade IV (T4, N3, M1b)
+T6	morphology-onco 6723 6729	tumeur
+#1	ICD-O-3.1 T4	8041/3
+#2	ICD-O-3.1 T3	8000/6
+#3	ICD-O-3.1 T1	8000/1
+#4	ICD-O-3.1 T6	8000/1
+#5	ICD-O-3.1 T5	8041/6
+#6	ICD-O-3.1 T2	8000/6
+#7	SNOMED T4	11010461000119101
+#8	SNOMED T3	14799000
+#9	SNOMED T1	86251006
+#10	SNOMED T6	86251006
+#11	SNOMED T2	14799000

@@ -1,0 +1,16 @@
+T1	disease 59 68	carcinome
+T2	disease 121 130	carcinome
+T3	disease 286 301	n'a jamais fumé
+T4	disease 367 373	fumeur
+T5	disease 495 502	fumeurs
+T6	disease 519 525	fumeur
+T7	disease 607 614	fumeuse
+T8	disease 1323 1365	ectasie dans le groupe du calice supérieur
+T9	disease 1740 1783	dilatation du pyélocaliciel et de l'uretère
+T10	disease 2253 2283	dilatation du calice supérieur
+T11	disease 2288 2294	lésion
+T12	disease 2318 2444	carcinome à cellules transitionnelles dans le système collecteur droit, l'infundibulum supérieur et une partie du bassin rénal
+T13	disease 2604 2659	carcinome à cellules transitionnelles du bassinet rénal
+T14	disease 2680 2719	carcinome mucineux touchant le bassinet
+T15	disease 2881 2917	lésions hépatiques occupant l'espace
+T16	disease 2940 2973	métastases hépatiques et osseuses

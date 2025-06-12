@@ -1,0 +1,66 @@
+T1	morphology-onco 162 171	carcinome
+T2	morphology-onco 230 239	carcinome
+T3	morphology-onco 309 318	carcinome
+T4	morphology-onco 382 391	carcinome
+T5	morphology-onco 439 445	cancer
+T6	morphology-onco 1407 1424	Carcinome in situ
+T7	morphology-onco 2889 2949	lésion occupant l'espace (LOE) dans l'hémisphère cérébelleux
+T8	morphology-onco 3045 3054	métastase
+T9	morphology-onco 3130 3142	métastatique
+T10	morphology-onco 3219 3237	lésions cérébrales
+T11	morphology-onco 3677 3691	tumeur maligne
+T12	morphology-onco 3826 3859	adénocarcinome de type papillaire
+T13	morphology-onco 3873 3925	Adénocarcinome pulmonaire de stade IVB (cT2 CN2 M1c)
+T14	morphology-onco 5919 5925	tumeur
+T15	morphology-onco 5970 5988	lésions cérébrales
+T16	morphology-onco 6539 6557	atteinte cérébrale
+T17	morphology-onco 7492 7542	progression radiologique (pulmonaire et cérébrale)
+T18	morphology-onco 8142 8160	lésions cérébrales
+T19	morphology-onco 8192 8198	tumeur
+T20	morphology-onco 8737 8758	progression cérébrale
+T21	morphology-onco 8848 8901	adénocarcinome pulmonaire avec une atteinte cérébrale
+T22	morphology-onco 9656 9674	atteinte cérébrale
+#1	ICD-O-3.1 T6	8010/2
+#2	ICD-O-3.1 T5	8000/3
+#3	ICD-O-3.1 T9	8000/6
+#4	ICD-O-3.1 T8	8000/6
+#5	ICD-O-3.1 T14	8000/1
+#6	ICD-O-3.1 T19	8000/1
+#7	ICD-O-3.1 T1	8010/3
+#8	ICD-O-3.1 T2	8010/3
+#9	ICD-O-3.1 T3	8010/3
+#10	ICD-O-3.1 T4	8010/3
+#11	ICD-O-3.1 T21	8140/6
+#12	ICD-O-3.1 T13	8140/6
+#13	ICD-O-3.1 T12	8260/3
+#14	ICD-O-3.1 T10	8000/6
+#15	ICD-O-3.1 T15	8000/6
+#16	ICD-O-3.1 T18	8000/6
+#17	ICD-O-3.1 T11	8000/3
+#18	ICD-O-3.1 T20	8000/6
+#19	ICD-O-3.1 T7	8000/6
+#20	ICD-O-3.1 T16	8000/6
+#21	ICD-O-3.1 T17	8000/6
+#22	ICD-O-3.1 T22	8000/6
+#23	SNOMED T6	1187138006
+#24	SNOMED T5	1240414004
+#25	SNOMED T9	14799000
+#26	SNOMED T8	14799000
+#27	SNOMED T14	86251006
+#28	SNOMED T19	86251006
+#29	SNOMED T1	1187425009
+#30	SNOMED T2	1187425009
+#31	SNOMED T3	1187425009
+#32	SNOMED T4	1187425009
+#33	SNOMED T21	4590003
+#34	SNOMED T13	4590003
+#35	SNOMED T12	4797003
+#36	SNOMED T10	14799000
+#37	SNOMED T15	14799000
+#38	SNOMED T18	14799000
+#39	SNOMED T11	1240414004
+#40	SNOMED T20	14799000
+#41	SNOMED T7	14799000
+#42	SNOMED T16	14799000
+#43	SNOMED T17	14799000
+#44	SNOMED T22	14799000

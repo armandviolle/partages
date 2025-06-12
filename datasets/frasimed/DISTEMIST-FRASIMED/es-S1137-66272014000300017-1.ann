@@ -1,0 +1,18 @@
+T1	disease 71 129	éruption érythrotique douloureuse dans la région cervicale
+T2	disease 336 343	prurigo
+T3	disease 471 539	érythème cutané sur le cou, les aisselles, la poitrine et les fesses
+T4	disease 637 690	lésions croûteuses jaunâtres dans la région cervicale
+T5	disease 719 775	érythème et une inflammation palpébrale et conjonctivale
+T6	disease 1077 1081	SPEE
+T7	disease 1294 1301	lésions
+T8	disease 1320 1333	érythrodermie
+T9	disease 1457 1464	lésions
+#1	SNOMED T6	200946001
+#2	SNOMED T1	271807003
+#3	SNOMED T8	399992009
+#4	SNOMED T7	157670007
+#5	SNOMED T9	157670007
+#6	SNOMED T4	271765003
+#7	SNOMED T2	64144002
+#8	SNOMED T3	444827008
+#9	SNOMED T5	9826008+1137447008

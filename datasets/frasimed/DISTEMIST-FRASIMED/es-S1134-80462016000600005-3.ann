@@ -1,0 +1,22 @@
+T1	disease 32 58	névralgie du nerf pudendal
+T2	disease 32 139	névralgie du nerf pudendal secondaire à une lésion directe après une résection transurétrale de la prostate
+T3	disease 76 139	lésion directe après une résection transurétrale de la prostate
+T4	disease 166 265	douleur à caractéristiques neuropathiques (brûlure, paresthésie) dans les organes génitaux externes
+T5	disease 765 775	dépression
+T6	disease 841 851	dépression
+T7	disease 783 797	légère anxiété
+T8	disease 1151 1165	fistule du LCR
+T9	disease 1394 1404	dépression
+T10	disease 1460 1474	légère anxiété
+T11	disease 1488 1499	dépressives
+#1	SNOMED T1	427972000
+#2	SNOMED T3	12456005
+#3	SNOMED T6	394924000
+#4	SNOMED T7	70997004
+#5	SNOMED T8	230744007
+#6	SNOMED T10	70997004
+#7	SNOMED T11	394924000
+#8	SNOMED T5	394924000
+#9	SNOMED T9	394924000
+#10	SNOMED T2	427972000+213267001
+#11	SNOMED T4	247398009+77142006

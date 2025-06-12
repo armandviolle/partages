@@ -1,0 +1,9 @@
+T1	morphology-onco 447 489	adénocarcinome du poumon gauche cT4 N2 M1c
+T2	morphology-onco 491 501	métastases
+T3	morphology-onco 949 955	tumeur
+#1	ICD-O-3.1 T1	8140/6
+#2	ICD-O-3.1 T2	8000/6
+#3	ICD-O-3.1 T3	8000/1
+#4	SNOMED T1	4590003
+#5	SNOMED T2	14799000
+#6	SNOMED T3	86251006

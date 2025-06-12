@@ -1,0 +1,36 @@
+T1	morphology-onco 533 539	cancer
+T2	morphology-onco 1139 1145	tumeur
+T3	morphology-onco 1209 1215	tumeur
+T4	morphology-onco 1475 1485	métastases
+T5	morphology-onco 1591 1598	tumoral
+T6	morphology-onco 1615 1635	implants péritonéaux
+T7	morphology-onco 1720 1738	mésothéliome malin
+T8	morphology-onco 1744 1762	cellules tumorales
+T9	morphology-onco 1984 1990	tumeur
+T10	morphology-onco 3679 3691	mésothéliome
+T11	morphology-onco 4432 4445	carcinomatose
+T12	morphology-onco 4497 4505	tumorale
+#1	ICD-O-3.1 T11	8010/9
+#2	ICD-O-3.1 T1	8000/3
+#3	ICD-O-3.1 T8	8001/1
+#4	ICD-O-3.1 T6	8000/6
+#5	ICD-O-3.1 T10	9050/3
+#6	ICD-O-3.1 T7	9050/3
+#7	ICD-O-3.1 T4	8000/6
+#8	ICD-O-3.1 T3	8000/1
+#9	ICD-O-3.1 T9	8000/1
+#10	ICD-O-3.1 T2	8000/1
+#11	ICD-O-3.1 T5	8000/1
+#12	ICD-O-3.1 T12	8000/1
+#13	SNOMED T11	307593001
+#14	SNOMED T1	1240414004
+#15	SNOMED T8	39577004
+#16	SNOMED T6	14799000
+#17	SNOMED T10	109378008
+#18	SNOMED T7	109378008
+#19	SNOMED T4	14799000
+#20	SNOMED T3	86251006
+#21	SNOMED T9	86251006
+#22	SNOMED T2	86251006
+#23	SNOMED T5	86251006
+#24	SNOMED T12	86251006

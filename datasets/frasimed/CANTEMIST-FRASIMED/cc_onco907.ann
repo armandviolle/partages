@@ -1,0 +1,62 @@
+T1	morphology-onco 65 79	adénocarcinome
+T2	morphology-onco 783 829	adénocarcinome de la prostate de Gleason 2 + 2
+T3	morphology-onco 981 1005	adénomes tubulovillaires
+T4	morphology-onco 2337 2348	néoplasique
+T5	morphology-onco 2687 2696	malignité
+T6	morphology-onco 3462 3476	lésion lytique
+T7	morphology-onco 3489 3498	malignité
+T8	morphology-onco 3833 3843	métastases
+T9	morphology-onco 4383 4414	néoplasie gastrique infiltrante
+T10	morphology-onco 4612 4628	carcinome diffus
+T11	morphology-onco 4612 4653	carcinome diffus à cellules "en couronne"
+T12	morphology-onco 4751 4775	cellularité métastatique
+T13	morphology-onco 4782 4810	processus lymphoprolifératif
+T14	morphology-onco 5918 5928	métastases
+T15	morphology-onco 6073 6082	carcinome
+T16	morphology-onco 6147 6163	atteinte osseuse
+T17	morphology-onco 6878 6894	atteinte osseuse
+T18	morphology-onco 7119 7127	tumorale
+T19	morphology-onco 7375 7393	lésions blastiques
+T20	morphology-onco 7574 7580	tumeur
+T21	morphology-onco 7606 7624	lymphite plastique
+#1	ICD-O-3.1 T1	8140/3
+#2	ICD-O-3.1 T16	8000/6
+#3	ICD-O-3.1 T17	8000/6
+#4	ICD-O-3.1 T15	8010/3
+#5	ICD-O-3.1 T5	8000/3
+#6	ICD-O-3.1 T7	8000/3
+#7	ICD-O-3.1 T8	8000/6
+#8	ICD-O-3.1 T14	8000/6
+#9	ICD-O-3.1 T4	8000/1
+#10	ICD-O-3.1 T13	9970/1
+#11	ICD-O-3.1 T20	8000/1
+#12	ICD-O-3.1 T18	8000/1
+#13	ICD-O-3.1 T2	8140/31
+#14	ICD-O-3.1 T3	8263/0
+#15	ICD-O-3.1 T9	8000/1/H
+#16	ICD-O-3.1 T11	8490/3
+#17	ICD-O-3.1 T10	8145/3
+#18	ICD-O-3.1 T12	8001/6
+#19	ICD-O-3.1 T19	8000/6
+#20	ICD-O-3.1 T21	8142/3
+#21	ICD-O-3.1 T6	8000/6
+#22	SNOMED T1	1187332001
+#23	SNOMED T16	14799000
+#24	SNOMED T17	14799000
+#25	SNOMED T15	1187425009
+#26	SNOMED T5	1240414004
+#27	SNOMED T7	1240414004
+#28	SNOMED T8	14799000
+#29	SNOMED T14	14799000
+#30	SNOMED T4	86251006
+#31	SNOMED T13	277466009
+#32	SNOMED T20	86251006
+#33	SNOMED T18	86251006
+#34	SNOMED T2	1187332001
+#35	SNOMED T3	61722000
+#36	SNOMED T9	86251006
+#37	SNOMED T11	87737001
+#38	SNOMED T10	24505004
+#39	SNOMED T19	14799000
+#40	SNOMED T21	37995004
+#41	SNOMED T6	14799000

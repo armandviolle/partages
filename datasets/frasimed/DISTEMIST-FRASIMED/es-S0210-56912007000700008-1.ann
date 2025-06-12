@@ -1,0 +1,8 @@
+T1	disease 37 43	fumeur
+T2	disease 955 1008	adénopathies dans le hile pulmonaire, en paratrachéal
+T3	disease 1197 1218	protéinose alvéolaire
+T4	disease 1405 1412	hypoxie
+#1	SNOMED T1	77176002
+#2	SNOMED T2	127101005+23794001
+#3	SNOMED T3	10501004
+#4	SNOMED T4	389086002

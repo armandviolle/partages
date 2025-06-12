@@ -1,0 +1,8 @@
+T1	disease 68 85	hernie ombilicale
+T2	disease 91 103	hypertension
+T3	disease 671 677	lésion
+T4	disease 680 701	endométriose du côlon
+#1	SNOMED T1	396347007
+#2	SNOMED T2	38341003
+#3	SNOMED T4	44601009
+#4	SNOMED T3	417163006

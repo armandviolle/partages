@@ -1,0 +1,45 @@
+T1	morphology-onco 271 295	carcinome basocellulaire
+T2	morphology-onco 1223 1251	adénocarcinome indifférencié
+T3	morphology-onco 1344 1350	tumeur
+T4	morphology-onco 1486 1495	métastase
+T5	morphology-onco 1641 1667	adécarcinome indifférencié
+T6	morphology-onco 2051 2099	adénocarcinome diffus de grade 3 peu différencié
+T7	morphology-onco 2051 2137	adénocarcinome diffus de grade 3 peu différencié, avec des cellules en bague de signet
+T8	morphology-onco 2218 2244	lymphangite carcinomateuse
+T9	morphology-onco 2332 2344	métastatique
+T10	morphology-onco 2395 2409	adénocarcinome
+T11	morphology-onco 2819 2860	tumeur une différenciation neuroendocrine
+T12	morphology-onco 2980 2992	tumeur mixte
+T13	morphology-onco 2995 3059	adénocarcinome peu différencié avec cellules en anneau de signet
+T14	morphology-onco 2995 3087	adénocarcinome peu différencié avec cellules en anneau de signet et carcinome neuroendocrine
+T15	morphology-onco 3063 3087	carcinome neuroendocrine
+#1	ICD-O-3.1 T10	8140/3
+#2	ICD-O-3.1 T1	8090/3
+#3	ICD-O-3.1 T15	8246/3
+#4	ICD-O-3.1 T8	8000/3
+#5	ICD-O-3.1 T9	8000/6
+#6	ICD-O-3.1 T4	8000/6
+#7	ICD-O-3.1 T3	8000/1
+#8	ICD-O-3.1 T12	8000/1/H
+#9	ICD-O-3.1 T2	8140/34
+#10	ICD-O-3.1 T5	8140/34
+#11	ICD-O-3.1 T7	8490/33
+#12	ICD-O-3.1 T11	8240/3
+#13	ICD-O-3.1 T13	8490/33
+#14	ICD-O-3.1 T6	8145/33
+#15	ICD-O-3.1 T14	8244/3
+#16	SNOMED T10	1187332001
+#17	SNOMED T1	1338007
+#18	SNOMED T15	55937004
+#19	SNOMED T8	1240414004
+#20	SNOMED T9	14799000
+#21	SNOMED T4	14799000
+#22	SNOMED T3	86251006
+#23	SNOMED T12	86251006
+#24	SNOMED T2	1187332001
+#25	SNOMED T5	1187332001
+#26	SNOMED T7	87737001
+#27	SNOMED T11	189607006
+#28	SNOMED T13	87737001
+#29	SNOMED T6	24505004
+#30	SNOMED T14	51465000

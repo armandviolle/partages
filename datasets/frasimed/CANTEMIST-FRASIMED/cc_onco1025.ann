@@ -1,0 +1,36 @@
+T1	morphology-onco 1356 1368	métastatique
+T2	morphology-onco 1526 1540	tumeur maligne
+T3	morphology-onco 1636 1659	carcinome myoépithélial
+T4	morphology-onco 1636 1675	carcinome myoépithélial des tissus mous
+T5	morphology-onco 1681 1705	métastase d'un carcinome
+T6	morphology-onco 1722 1729	sarcome
+T7	morphology-onco 1873 1938	tumeur maligne indifférenciée d'origine épithélioïde prédominante
+T8	morphology-onco 2741 2747	tumeur
+T9	morphology-onco 2844 2878	tumeur primaire d'origine inconnue
+T10	morphology-onco 3510 3530	implants péritonéaux
+T11	morphology-onco 4459 4488	liposarcome à cellules rondes
+T12	morphology-onco 5230 5250	implants péritonéaux
+#1	ICD-O-3.1 T3	8982/3
+#2	ICD-O-3.1 T10	8000/6
+#3	ICD-O-3.1 T12	8000/6
+#4	ICD-O-3.1 T11	8853/3
+#5	ICD-O-3.1 T1	8000/6
+#6	ICD-O-3.1 T5	8010/6
+#7	ICD-O-3.1 T6	8800/3
+#8	ICD-O-3.1 T8	8000/1
+#9	ICD-O-3.1 T2	8000/3
+#10	ICD-O-3.1 T4	8800/3
+#11	ICD-O-3.1 T7	8000/34/H
+#12	ICD-O-3.1 T9	8000/9
+#13	SNOMED T3	128884000
+#14	SNOMED T10	14799000
+#15	SNOMED T12	14799000
+#16	SNOMED T11	43296007
+#17	SNOMED T1	14799000
+#18	SNOMED T5	79282002
+#19	SNOMED T6	1187396000
+#20	SNOMED T8	86251006
+#21	SNOMED T2	1240414004
+#22	SNOMED T4	1187396000
+#23	SNOMED T7	1240414004
+#24	SNOMED T9	6219000

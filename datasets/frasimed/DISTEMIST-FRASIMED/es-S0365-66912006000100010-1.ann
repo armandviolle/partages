@@ -1,0 +1,19 @@
+T1	disease 36 101	lésion cérébrale traumatique à la suite d'un accident de la route
+T2	disease 154 158	coma
+T3	disease 202 241	grave traumatisme thoracique et pelvien
+T4	disease 341 370	hémorragie intraventriculaire
+T5	disease 385 438	hémorragie sous-arachnoïdienne frontopariétale droite
+T6	disease 456 476	hygromas sous-duraux
+T7	disease 498 530	lésion dans la fosse postérieure
+T8	disease 563 655	fracture multiple du massif facial, y compris le toit et la paroi médiale de l'orbite gauche
+T9	disease 840 861	phacosclérose modérée
+T10	disease 1112 1154	anisocorie avec mydriase dans l'œil gauche
+T11	disease 1193 1264	paralysie complète des deux nerfs abducens et du moteur oculaire commun
+T12	disease 1286 1291	ptose
+T13	disease 1335 1345	torticolis
+T14	disease 1359 1367	diplopie
+T15	disease 1745 1770	pétéchies sous-corticales
+T16	disease 1777 1809	lésions focales du corps calleux
+T17	disease 1852 1874	lésion axonale diffuse
+T18	disease 1883 1941	lésion structurelle n'a été trouvée dans le tronc cérébral
+T19	disease 2000 2018	paralysie combinée

@@ -1,0 +1,14 @@
+T1	disease 283 292	allergies
+T2	disease 346 391	lymphadénopathies arrondies latéro-cervicales
+T3	disease 1100 1109	fractures
+T4	disease 1713 1744	infection à Parainfuenzavirus 3
+T5	disease 1750 1767	hyperphosphatémie
+T6	disease 2234 2284	hyperphosphatémie bénigne transitoire de l'enfance
+T7	disease 2286 2290	HTBI
+#1	SNOMED T4	30270006
+#2	SNOMED T5	166627004
+#3	SNOMED T3	125605004
+#4	SNOMED T6	166627004
+#5	SNOMED T2	127087005
+#6	SNOMED T7	274770006
+#7	SNOMED T1	106190000

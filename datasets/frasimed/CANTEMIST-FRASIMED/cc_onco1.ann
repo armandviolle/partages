@@ -1,0 +1,9 @@
+T1	morphology-onco 2978 3000	Carcinome microcytaire
+T2	morphology-onco 3225 3258	carcinome pulmonaire microcytaire
+T3	morphology-onco 3265 3267	M0
+#1	ICD-O-3.1 T1	8041/3
+#2	ICD-O-3.1 T2	8041/3
+#3	ICD-O-3.1 T3	8000/6
+#4	SNOMED T1	11010461000119101
+#5	SNOMED T2	11010461000119101
+#6	SNOMED T3	14799000

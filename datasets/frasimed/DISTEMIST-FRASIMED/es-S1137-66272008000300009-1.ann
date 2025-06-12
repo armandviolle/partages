@@ -1,0 +1,20 @@
+T1	disease 44 74	goitre diffus normofonctionnel
+T2	disease 79 100	myome utérin calcifié
+T3	disease 599 609	cicatrices
+T4	disease 793 807	viscéromégalie
+T5	disease 1262 1303	calcifications utérines évoquant un myome
+T6	disease 1772 1812	utérus myomateux avec des calcifications
+T7	disease 2437 2463	adénopathies mésentériques
+T8	disease 2494 2510	utérus myomateux
+T9	disease 3192 3199	lésions
+T10	disease 3249 3272	endométriose iléocæcale
+#1	SNOMED T1	237494009
+#2	SNOMED T2	95315005
+#3	SNOMED T7	127144009
+#4	SNOMED T8	95315005
+#5	SNOMED T5	95315005+425556003
+#6	SNOMED T10	8421002
+#7	SNOMED T6	95315005+425556003
+#8	SNOMED T4	28543008
+#9	SNOMED T3	275322007
+#10	SNOMED T9	417163006

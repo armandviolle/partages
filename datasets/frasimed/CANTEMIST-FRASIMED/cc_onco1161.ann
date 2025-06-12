@@ -1,0 +1,54 @@
+T1	morphology-onco 96 112	neurofibromatose
+T2	morphology-onco 141 154	neurofibromes
+T3	morphology-onco 1102 1108	tumeur
+T4	morphology-onco 1292 1298	tumeur
+T5	morphology-onco 1724 1737	neurofibromes
+T6	morphology-onco 3309 3343	tumeur stromale gastro-intestinale
+T7	morphology-onco 3345 3349	GIST
+T8	morphology-onco 3596 3600	GIST
+T9	morphology-onco 3875 3882	tumeurs
+T10	morphology-onco 5493 5530	tumeurs stromales gastro-intestinales
+T11	morphology-onco 5532 5536	GIST
+T12	morphology-onco 5564 5571	tumeurs
+T13	morphology-onco 5588 5595	tumeurs
+T14	morphology-onco 5809 5813	GIST
+T15	morphology-onco 5917 5933	neurofibromatose
+T16	morphology-onco 5945 5948	NF1
+T17	morphology-onco 6113 6117	GIST
+T18	morphology-onco 6133 6136	NF1
+#1	ICD-O-3.1 T7	8936/3
+#2	ICD-O-3.1 T8	8936/3
+#3	ICD-O-3.1 T11	8936/3
+#4	ICD-O-3.1 T14	8936/3
+#5	ICD-O-3.1 T17	8936/3
+#6	ICD-O-3.1 T2	9540/0
+#7	ICD-O-3.1 T5	9540/0
+#8	ICD-O-3.1 T1	9540/1
+#9	ICD-O-3.1 T15	9540/1
+#10	ICD-O-3.1 T6	8936/3
+#11	ICD-O-3.1 T9	8000/1
+#12	ICD-O-3.1 T3	8000/1
+#13	ICD-O-3.1 T4	8000/1
+#14	ICD-O-3.1 T12	8000/1
+#15	ICD-O-3.1 T13	8000/1
+#16	ICD-O-3.1 T10	8936/3
+#17	ICD-O-3.1 T16	9540/1
+#18	ICD-O-3.1 T18	9540/1
+#19	SNOMED T7	128756002
+#20	SNOMED T8	128756002
+#21	SNOMED T11	128756002
+#22	SNOMED T14	128756002
+#23	SNOMED T17	128756002
+#24	SNOMED T2	1156930004
+#25	SNOMED T5	1156930004
+#26	SNOMED T1	19133005
+#27	SNOMED T15	19133005
+#28	SNOMED T6	128756002
+#29	SNOMED T9	86251006
+#30	SNOMED T3	86251006
+#31	SNOMED T4	86251006
+#32	SNOMED T12	86251006
+#33	SNOMED T13	86251006
+#34	SNOMED T10	128756002
+#35	SNOMED T16	19133005
+#36	SNOMED T18	19133005

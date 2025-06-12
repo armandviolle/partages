@@ -1,0 +1,17 @@
+T1	disease 133 156	néoplasie dans le teste
+T2	disease 357 385	élévation du testicule droit
+T3	disease 443 452	méningite
+T4	disease 476 506	déficit neurologique permanent
+T5	disease 514 532	crises résiduelles
+T6	disease 1019 1038	tumeur testiculaire
+T7	disease 1054 1091	microcalcifications dans le testicule
+T8	disease 1153 1164	adénopathie
+T9	disease 1168 1177	métastase
+T10	disease 1294 1312	séminome classique
+T11	disease 1325 1358	infiltré l'albuginée ou le cordon
+T12	disease 1381 1415	invasion vasculaire ou lymphatique
+T13	disease 1439 1457	séminome classique
+T14	disease 1617 1626	néoplasie
+T15	disease 1785 1811	séminome de type classique
+T16	disease 1831 1865	néoplasie germinale intratubulaire
+T17	disease 2548 2604	rechute adénopathique abdominale d'un séminome classique

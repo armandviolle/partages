@@ -1,0 +1,16 @@
+T1	disease 141 162	ponction à l'abbocath
+T2	disease 341 364	maladies transmissibles
+T3	disease 516 524	hépatite
+T4	disease 1128 1143	hépatite A et B
+T5	disease 1341 1351	hépatite A
+T6	disease 1357 1367	hépatite B
+T7	disease 1903 1922	accident du travail
+T8	disease 1926 1949	maladie professionnelle
+#1	SNOMED T7	65339005
+#2	SNOMED T8	115966001
+#3	SNOMED T3	128241005
+#4	SNOMED T1	10850741000119108
+#5	SNOMED T2	190563008
+#6	SNOMED T5	128241005
+#7	SNOMED T6	66071002
+#8	SNOMED T4	40468003+66071002

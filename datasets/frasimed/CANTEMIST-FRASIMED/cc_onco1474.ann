@@ -1,0 +1,26 @@
+T1	morphology-onco 1730 1740	métastases
+T2	morphology-onco 1976 1988	angiosarcome
+T3	morphology-onco 2110 2166	Angiosarcome médiastinal de stade IV dû à des métastases
+T4	morphology-onco 2695 2717	nodulaires pulmonaires
+T5	morphology-onco 2740 2755	maladie osseuse
+T6	morphology-onco 3385 3395	métastases
+T7	morphology-onco 3491 3507	masse pulmonaire
+T8	morphology-onco 3685 3695	métastases
+T9	morphology-onco 3737 3743	tumeur
+#1	ICD-O-3.1 T2	9120/3
+#2	ICD-O-3.1 T5	8000/6
+#3	ICD-O-3.1 T7	8000/6
+#4	ICD-O-3.1 T1	8000/6
+#5	ICD-O-3.1 T6	8000/6
+#6	ICD-O-3.1 T8	8000/6
+#7	ICD-O-3.1 T4	8000/6
+#8	ICD-O-3.1 T9	8000/1
+#9	ICD-O-3.1 T3	9120/6
+#10	SNOMED T2	39000009
+#11	SNOMED T5	14799000
+#12	SNOMED T7	14799000
+#13	SNOMED T1	14799000
+#14	SNOMED T6	14799000
+#15	SNOMED T8	14799000
+#16	SNOMED T4	14799000
+#17	SNOMED T9	86251006

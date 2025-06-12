@@ -1,0 +1,37 @@
+T1	morphology-onco 1398 1458	Adénopathies médiastinales bilatérales et supraclaviculaires
+T2	morphology-onco 1486 1519	Nodule de 31 mm dans la surrénale
+T3	morphology-onco 1547 1556	métastase
+T4	morphology-onco 1579 1608	adénopathie supraclaviculaire
+T5	morphology-onco 1653 1712	métastase d'un carcinome à petites cellules peu différencié
+T6	morphology-onco 1714 1742	carcinome à petites cellules
+T7	morphology-onco 1764 1812	lésion nodulaire au niveau de la tige pituitaire
+T8	morphology-onco 1917 1965	lésion nodulaire au niveau de la tige pituitaire
+T9	morphology-onco 2273 2295	implants leptoméningés
+T10	morphology-onco 2830 2920	Carcinome pulmonaire à petites cellules de stade IV en raison de l'atteinte des surrénales
+T11	morphology-onco 3075 3077	M1
+T12	morphology-onco 3720 3803	carcinome pulmonaire à petites cellules de stade IV dû à une atteinte surrénalienne
+T13	morphology-onco 4513 4539	maladie au niveau cérébral
+#1	ICD-O-3.1 T6	8041/3
+#2	ICD-O-3.1 T3	8000/6
+#3	ICD-O-3.1 T5	8041/33
+#4	ICD-O-3.1 T10	8041/6
+#5	ICD-O-3.1 T12	8041/6
+#6	ICD-O-3.1 T11	8000/6
+#7	ICD-O-3.1 T4	8000/6
+#8	ICD-O-3.1 T1	8000/6
+#9	ICD-O-3.1 T2	8000/6
+#10	ICD-O-3.1 T9	8000/6
+#11	ICD-O-3.1 T7	8000/6
+#12	ICD-O-3.1 T8	8000/6
+#13	ICD-O-3.1 T13	8000/6
+#14	SNOMED T6	11010461000119101
+#15	SNOMED T3	14799000
+#16	SNOMED T5	11010461000119101
+#17	SNOMED T11	14799000
+#18	SNOMED T4	14799000
+#19	SNOMED T1	14799000
+#20	SNOMED T2	14799000
+#21	SNOMED T9	14799000
+#22	SNOMED T7	14799000
+#23	SNOMED T8	14799000
+#24	SNOMED T13	14799000

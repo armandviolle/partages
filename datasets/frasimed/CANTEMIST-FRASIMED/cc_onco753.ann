@@ -1,0 +1,38 @@
+T1	morphology-onco 151 181	carcinome canalaire infiltrant
+T2	morphology-onco 206 208	M0
+T3	morphology-onco 656 689	lymphadénopathie sus-claviculaire
+T4	morphology-onco 797 840	adénopathie dans la région sus-claviculaire
+T5	morphology-onco 1054 1082	adénopathie sus-claviculaire
+T6	morphology-onco 1132 1160	adénopathie sus-claviculaire
+T7	morphology-onco 1181 1203	métastase de carcinome
+T8	morphology-onco 1332 1407	Récidive ganglionnaire sus-claviculaire d'un carcinome canalaire infiltrant
+T9	morphology-onco 1514 1562	rechute du ganglion lymphatique sus-claviculaire
+T10	morphology-onco 2155 2176	progression hépatique
+T11	morphology-onco 2823 2835	métastatique
+T12	morphology-onco 3051 3084	carcinome pulmonaire microcytaire
+T13	morphology-onco 3115 3148	carcinome pulmonaire microcytaire
+#1	ICD-O-3.1 T2	8000/6
+#2	ICD-O-3.1 T3	8000/6
+#3	ICD-O-3.1 T5	8000/6
+#4	ICD-O-3.1 T6	8000/6
+#5	ICD-O-3.1 T1	8500/3
+#6	ICD-O-3.1 T12	8041/3
+#7	ICD-O-3.1 T13	8041/3
+#8	ICD-O-3.1 T11	8000/6
+#9	ICD-O-3.1 T7	8010/6
+#10	ICD-O-3.1 T10	8000/6
+#11	ICD-O-3.1 T4	8000/6
+#12	ICD-O-3.1 T8	8500/6
+#13	ICD-O-3.1 T9	8000/6
+#14	SNOMED T2	14799000
+#15	SNOMED T3	14799000
+#16	SNOMED T5	14799000
+#17	SNOMED T6	14799000
+#18	SNOMED T1	58477004
+#19	SNOMED T12	11010461000119101
+#20	SNOMED T13	11010461000119101
+#21	SNOMED T11	14799000
+#22	SNOMED T7	79282002
+#23	SNOMED T10	14799000
+#24	SNOMED T4	14799000
+#25	SNOMED T9	14799000

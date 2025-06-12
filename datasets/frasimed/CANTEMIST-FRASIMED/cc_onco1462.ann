@@ -1,0 +1,9 @@
+T1	morphology-onco 778 792	histiocytose X
+T2	morphology-onco 794 815	granulome éosinophile
+T3	morphology-onco 952 966	histiocytose X
+#1	ICD-O-3.1 T2	9751/3
+#2	ICD-O-3.1 T1	9751/3
+#3	ICD-O-3.1 T3	9751/3
+#4	SNOMED T2	65399007
+#5	SNOMED T1	65399007
+#6	SNOMED T3	65399007

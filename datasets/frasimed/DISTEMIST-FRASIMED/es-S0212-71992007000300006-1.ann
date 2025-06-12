@@ -1,0 +1,26 @@
+T1	disease 77 99	énolisme modéré-sévère
+T2	disease 103 126	hypertension artérielle
+T3	disease 133 156	cardiopathie ischémique
+T4	disease 263 340	ingéré un OP (Metasystox® : oxydéméton-méthyle) dans une tentative d'autolyse
+T5	disease 495 504	hypotendu
+T6	disease 2371 2390	intoxication par OP
+T7	disease 2400 2421	myoclonie généralisée
+T8	disease 2639 2656	myoclonie faciale
+T9	disease 2985 2987	IS
+T10	disease 3190 3211	intoxiqués par les OP
+T11	disease 3233 3258	insuffisance respiratoire
+T12	disease 3374 3386	intoxication
+T13	disease 3604 3655	trachéobronchiolite nosocomiale due à H. influenzae
+#1	SNOMED T1	713862009
+#2	SNOMED T2	38341003
+#3	SNOMED T3	194828000
+#4	SNOMED T6	8260003
+#5	SNOMED T4	304594002
+#6	SNOMED T11	409623005
+#7	SNOMED T12	75478009
+#8	SNOMED T13	73414003
+#9	SNOMED T9	432991000
+#10	SNOMED T10	77721001
+#11	SNOMED T5	45007003
+#12	SNOMED T7	17450006
+#13	SNOMED T8	17450006

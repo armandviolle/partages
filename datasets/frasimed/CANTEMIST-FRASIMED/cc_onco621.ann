@@ -1,0 +1,99 @@
+T1	morphology-onco 3302 3310	tumorale
+T2	morphology-onco 3312 3324	métastatique
+T3	morphology-onco 3328 3336	lymphome
+T4	morphology-onco 3545 3563	lésions cérébrales
+T5	morphology-onco 4146 4154	lymphome
+T6	morphology-onco 4788 4806	lésions cérébrales
+T7	morphology-onco 5733 5775	dissémination épendymaire et leptoméningée
+T8	morphology-onco 5866 5874	lymphome
+T9	morphology-onco 6285 6316	nodules surrénaliens bilatéraux
+T10	morphology-onco 6338 6348	métastases
+T11	morphology-onco 6722 6729	maligne
+T12	morphology-onco 6863 6909	carcinome peu différencié de type microcytaire
+T13	morphology-onco 7095 7125	tumeur pulmonaire métastatique
+T14	morphology-onco 7670 7678	lymphome
+T15	morphology-onco 7809 7815	tumeur
+T16	morphology-onco 7913 7923	métastases
+T17	morphology-onco 8040 8069	cancer du poumon microcytaire
+T18	morphology-onco 8122 8140	lésions cérébrales
+T19	morphology-onco 8177 8226	métastases de cancer du poumon à petites cellules
+T20	morphology-onco 8373 8391	lésions cérébrales
+T21	morphology-onco 8484 8513	cancer du poumon microcytaire
+T22	morphology-onco 8920 8927	tumeurs
+T23	morphology-onco 8948 8983	cancer du poumon à petites cellules
+T24	morphology-onco 9739 9757	lésions cérébrales
+T25	morphology-onco 9853 9862	métastase
+T26	morphology-onco 9883 9954	Cancer du poumon microcytaire avec maladie étendue (atteinte du cerveau
+T27	morphology-onco 10030 10042	métastatique
+T28	morphology-onco 10127 10139	métastatique
+T29	morphology-onco 10536 10554	atteinte cérébrale
+T30	morphology-onco 10599 10651	cancer du poumon microcytaire étendu avec métastases
+T31	morphology-onco 11051 11069	atteinte cérébrale
+T32	morphology-onco 13161 13169	tumorale
+T33	morphology-onco 13219 13228	tumorales
+T34	morphology-onco 14262 14268	tumeur
+#1	ICD-O-3.1 T29	8000/6
+#2	ICD-O-3.1 T31	8000/6
+#3	ICD-O-3.1 T17	8041/3
+#4	ICD-O-3.1 T21	8041/3
+#5	ICD-O-3.1 T23	8041/3
+#6	ICD-O-3.1 T4	8000/6
+#7	ICD-O-3.1 T6	8000/6
+#8	ICD-O-3.1 T18	8000/6
+#9	ICD-O-3.1 T20	8000/6
+#10	ICD-O-3.1 T24	8000/6
+#11	ICD-O-3.1 T3	9590/3
+#12	ICD-O-3.1 T5	9590/3
+#13	ICD-O-3.1 T8	9590/3
+#14	ICD-O-3.1 T14	9590/3
+#15	ICD-O-3.1 T11	8000/3
+#16	ICD-O-3.1 T2	8000/6
+#17	ICD-O-3.1 T27	8000/6
+#18	ICD-O-3.1 T28	8000/6
+#19	ICD-O-3.1 T10	8000/6
+#20	ICD-O-3.1 T16	8000/6
+#21	ICD-O-3.1 T25	8000/6
+#22	ICD-O-3.1 T34	8000/1
+#23	ICD-O-3.1 T1	8000/1
+#24	ICD-O-3.1 T15	8000/1
+#25	ICD-O-3.1 T32	8000/1
+#26	ICD-O-3.1 T33	8000/1
+#27	ICD-O-3.1 T22	8000/1
+#28	ICD-O-3.1 T7	8000/6
+#29	ICD-O-3.1 T9	8000/6
+#30	ICD-O-3.1 T12	8041/33
+#31	ICD-O-3.1 T13	8000/6
+#32	ICD-O-3.1 T19	8041/6
+#33	ICD-O-3.1 T26	8041/6
+#34	ICD-O-3.1 T30	8041/6
+#35	SNOMED T29	14799000
+#36	SNOMED T31	14799000
+#37	SNOMED T17	11010461000119101
+#38	SNOMED T21	11010461000119101
+#39	SNOMED T23	11010461000119101
+#40	SNOMED T4	14799000
+#41	SNOMED T6	14799000
+#42	SNOMED T18	14799000
+#43	SNOMED T20	14799000
+#44	SNOMED T24	14799000
+#45	SNOMED T3	1163043007
+#46	SNOMED T5	1163043007
+#47	SNOMED T8	1163043007
+#48	SNOMED T14	1163043007
+#49	SNOMED T11	1240414004
+#50	SNOMED T2	14799000
+#51	SNOMED T27	14799000
+#52	SNOMED T28	14799000
+#53	SNOMED T10	14799000
+#54	SNOMED T16	14799000
+#55	SNOMED T25	14799000
+#56	SNOMED T34	86251006
+#57	SNOMED T1	86251006
+#58	SNOMED T15	86251006
+#59	SNOMED T32	86251006
+#60	SNOMED T33	86251006
+#61	SNOMED T22	86251006
+#62	SNOMED T7	14799000
+#63	SNOMED T9	14799000
+#64	SNOMED T12	11010461000119101
+#65	SNOMED T13	14799000

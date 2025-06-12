@@ -1,0 +1,8 @@
+T1	disease 42 82	kératopathie lipoïde bilatérale primaire
+T2	disease 497 575	néovascularisation superficielle et profonde s'étendant au centre de la cornée
+T3	disease 748 757	cataracte
+T4	disease 1128 1165	néovascularisation cornéenne profonde
+#1	SNOMED T4	2102007
+#2	SNOMED T1	231908001
+#3	SNOMED T2	346481000119100
+#4	SNOMED T3	193570009

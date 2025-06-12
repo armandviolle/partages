@@ -1,0 +1,47 @@
+T1	morphology-onco 665 675	carcinoïde
+T2	morphology-onco 973 1025	lésions nodulaires au niveau des segments hépatiques
+T3	morphology-onco 1154 1188	tumeur neuroendocrine pancréatique
+T4	morphology-onco 1190 1196	PNET-P
+T5	morphology-onco 1211 1259	Tumeur carcinoïde pancréatique non fonctionnelle
+T6	morphology-onco 1211 1287	Tumeur carcinoïde pancréatique non fonctionnelle de bas grade E-IV (pT2N0M1)
+T7	morphology-onco 1522 1540	lésions hépatiques
+T8	morphology-onco 1587 1593	tumeur
+T9	morphology-onco 1721 1747	récidive au niveau du foie
+T10	morphology-onco 1844 1850	tumeur
+T11	morphology-onco 2189 2199	métastases
+T12	morphology-onco 2333 2365	maladie a progressé dans le foie
+T13	morphology-onco 2615 2621	tumeur
+T14	morphology-onco 2689 2707	lésions hépatiques
+T15	morphology-onco 2717 2723	tumeur
+T16	morphology-onco 2832 2840	tumorale
+#1	ICD-O-3.1 T1	8240/3
+#2	ICD-O-3.1 T12	8000/6
+#3	ICD-O-3.1 T7	8000/6
+#4	ICD-O-3.1 T14	8000/6
+#5	ICD-O-3.1 T11	8000/6
+#6	ICD-O-3.1 T9	8000/6
+#7	ICD-O-3.1 T8	8000/1
+#8	ICD-O-3.1 T10	8000/1
+#9	ICD-O-3.1 T16	8000/1
+#10	ICD-O-3.1 T13	8000/1
+#11	ICD-O-3.1 T15	8000/1
+#12	ICD-O-3.1 T3	8150/1
+#13	ICD-O-3.1 T4	8150/1
+#14	ICD-O-3.1 T6	8240/6
+#15	ICD-O-3.1 T5	8150/6
+#16	ICD-O-3.1 T2	8000/6
+#17	SNOMED T1	189607006
+#18	SNOMED T12	14799000
+#19	SNOMED T7	14799000
+#20	SNOMED T14	14799000
+#21	SNOMED T11	14799000
+#22	SNOMED T9	14799000
+#23	SNOMED T8	86251006
+#24	SNOMED T10	86251006
+#25	SNOMED T16	86251006
+#26	SNOMED T13	86251006
+#27	SNOMED T15	86251006
+#28	SNOMED T3	126864006
+#29	SNOMED T4	126864006
+#30	SNOMED T5	261713004
+#31	SNOMED T2	14799000

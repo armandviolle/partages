@@ -1,0 +1,9 @@
+T1	morphology-onco 118 178	adénocarcinome de la jonction gastro-œsophagienne uT3uN2 cM1
+T2	morphology-onco 182 196	lésion costale
+T3	morphology-onco 2479 2493	Adénocarcinome
+#1	ICD-O-3.1 T3	8140/3
+#2	ICD-O-3.1 T1	8140/6
+#3	ICD-O-3.1 T2	8000/6
+#4	SNOMED T3	1187332001
+#5	SNOMED T1	4590003
+#6	SNOMED T2	14799000

@@ -1,0 +1,41 @@
+T1	morphology-onco 242 248	cancer
+T2	morphology-onco 955 968	hypernéphrome
+T3	morphology-onco 1388 1397	carcinome
+T4	morphology-onco 1432 1442	métastases
+T5	morphology-onco 1772 1826	Lymphadénopathie pathologique claire supraclaviculaire
+T6	morphology-onco 2663 2676	hypernéphrome
+T7	morphology-onco 2756 2763	tumoral
+T8	morphology-onco 3143 3172	adénopathie supraclaviculaire
+T9	morphology-onco 3182 3189	maligne
+T10	morphology-onco 3211 3235	métastase d'un carcinome
+T11	morphology-onco 3519 3573	Carcinome rénal à cellules claires, stade IV (pT3N2M1)
+T12	morphology-onco 3590 3659	atteinte des ganglions lymphatiques médiastinaux et sus-claviculaires
+T13	morphology-onco 3696 3730	carcinome rénal à cellules claires
+T14	morphology-onco 4272 4327	lésions ganglionnaires thoraciques et sus-claviculaires
+#1	ICD-O-3.1 T8	8000/6
+#2	ICD-O-3.1 T5	8000/6
+#3	ICD-O-3.1 T3	8010/3
+#4	ICD-O-3.1 T13	8310/3
+#5	ICD-O-3.1 T1	8000/3
+#6	ICD-O-3.1 T2	8312/3
+#7	ICD-O-3.1 T6	8312/3
+#8	ICD-O-3.1 T9	8000/3
+#9	ICD-O-3.1 T4	8000/6
+#10	ICD-O-3.1 T10	8010/6
+#11	ICD-O-3.1 T7	8000/1
+#12	ICD-O-3.1 T11	8310/6
+#13	ICD-O-3.1 T12	8000/6
+#14	ICD-O-3.1 T14	8000/6
+#15	SNOMED T8	14799000
+#16	SNOMED T5	14799000
+#17	SNOMED T3	1187425009
+#18	SNOMED T13	30546008
+#19	SNOMED T1	1240414004
+#20	SNOMED T2	41607009
+#21	SNOMED T6	41607009
+#22	SNOMED T9	1240414004
+#23	SNOMED T4	14799000
+#24	SNOMED T10	79282002
+#25	SNOMED T7	86251006
+#26	SNOMED T12	14799000
+#27	SNOMED T14	14799000

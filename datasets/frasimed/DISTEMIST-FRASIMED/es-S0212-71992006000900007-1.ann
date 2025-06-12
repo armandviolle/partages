@@ -1,0 +1,36 @@
+T1	disease 87 176	lésions nodulaires, érythémato-violacées, douloureuses sur les jambes et le dos des pieds
+T2	disease 361 414	pancréatite aiguë secondaire à un éthylisme chronique
+T3	disease 395 414	éthylisme chronique
+T4	disease 526 547	pancréatite chronique
+T5	disease 564 590	pseudokystes pancréatiques
+T6	disease 838 854	lésions cutanées
+T7	disease 1187 1211	panniculite pancréatique
+T8	disease 1302 1342	exacerbation de sa pancréatite chronique
+T9	disease 1360 1376	lésions cutanées
+T10	disease 1855 1885	dilatation du canal de Wirsung
+T11	disease 1891 1938	destruction partielle de la glande pancréatique
+T12	disease 1944 2016	adénopathies péripancréatiques, cœliaques et du ligament gastrohépatique
+T13	disease 2031 2058	thrombose de la veine porte
+T14	disease 2138 2162	panniculite pancréatique
+T15	disease 2217 2240	pathologie pancréatique
+T16	disease 2251 2288	transformation cavernomateuse portale
+T17	disease 2310 2330	petites adénopathies
+T18	disease 2433 2473	exacerbation de sa pancréatite chronique
+#1	SNOMED T1	400202001
+#2	SNOMED T2	445507008
+#3	SNOMED T3	284591009
+#4	SNOMED T4	235494005
+#5	SNOMED T5	111374002
+#6	SNOMED T6	95324001
+#7	SNOMED T7	46626002
+#8	SNOMED T8	721724009
+#9	SNOMED T9	95324001
+#10	SNOMED T10	235969000
+#11	SNOMED T11	21118000
+#12	SNOMED T12	127134007+127117004+127120007
+#13	SNOMED T13	17920008
+#14	SNOMED T14	46626002
+#15	SNOMED T15	3855007
+#16	SNOMED T17	30746006
+#17	SNOMED T18	721724009
+#18	SNOMED T16	307223005

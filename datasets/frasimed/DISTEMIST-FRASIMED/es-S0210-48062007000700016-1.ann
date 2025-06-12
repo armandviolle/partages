@@ -1,0 +1,10 @@
+T1	disease 43 55	hypertension
+T2	disease 62 76	hernie hiatale
+T3	disease 852 858	lésion
+T4	disease 1006 1012	tumeur
+T5	disease 1037 1071	carcinome urothélial de haut grade
+#1	SNOMED T2	84089009
+#2	SNOMED T1	38341003
+#3	SNOMED T5	27090000
+#4	SNOMED T3	417163006
+#5	SNOMED T4	55342001

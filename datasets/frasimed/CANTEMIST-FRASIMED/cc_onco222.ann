@@ -1,0 +1,59 @@
+T1	morphology-onco 807 826	nodules pulmonaires
+T2	morphology-onco 843 852	métastase
+T3	morphology-onco 1047 1066	masse surrénalienne
+T4	morphology-onco 1304 1360	carcinome rénal à cellules claires de grade 3 de Fuhrman
+T5	morphology-onco 1416 1425	métastase
+T6	morphology-onco 3288 3313	macroadénome hypophysaire
+T7	morphology-onco 3332 3341	métastase
+T8	morphology-onco 3748 3761	carcinomatose
+T9	morphology-onco 4345 4354	métastase
+T10	morphology-onco 4417 4426	métastase
+T11	morphology-onco 4443 4468	macroadénome hypophysaire
+T12	morphology-onco 4582 4607	rehaussement leptoméningé
+T13	morphology-onco 4657 4670	carcinomatose
+T14	morphology-onco 4779 4789	métastases
+T15	morphology-onco 4848 4858	métastases
+T16	morphology-onco 4977 5002	macroadénome hypophysaire
+T17	morphology-onco 5014 5023	métastase
+T18	morphology-onco 5053 5087	carcinome rénal à cellules claires
+T19	morphology-onco 6784 6845	métastases cérébrales d'un carcinome rénal à cellules claires
+T20	morphology-onco 7083 7095	métastatique
+#1	ICD-O-3.1 T18	8310/3
+#2	ICD-O-3.1 T8	8010/9
+#3	ICD-O-3.1 T13	8010/9
+#4	ICD-O-3.1 T20	8000/6
+#5	ICD-O-3.1 T2	8000/6
+#6	ICD-O-3.1 T5	8000/6
+#7	ICD-O-3.1 T7	8000/6
+#8	ICD-O-3.1 T9	8000/6
+#9	ICD-O-3.1 T10	8000/6
+#10	ICD-O-3.1 T14	8000/6
+#11	ICD-O-3.1 T15	8000/6
+#12	ICD-O-3.1 T17	8000/6
+#13	ICD-O-3.1 T4	8310/33
+#14	ICD-O-3.1 T6	8272/0
+#15	ICD-O-3.1 T11	8272/0
+#16	ICD-O-3.1 T16	8272/0
+#17	ICD-O-3.1 T19	8310/6
+#18	ICD-O-3.1 T12	8000/6
+#19	ICD-O-3.1 T1	8000/6
+#20	ICD-O-3.1 T3	8000/6
+#21	SNOMED T18	30546008
+#22	SNOMED T8	307593001
+#23	SNOMED T13	307593001
+#24	SNOMED T20	14799000
+#25	SNOMED T2	14799000
+#26	SNOMED T5	14799000
+#27	SNOMED T7	14799000
+#28	SNOMED T9	14799000
+#29	SNOMED T10	14799000
+#30	SNOMED T14	14799000
+#31	SNOMED T15	14799000
+#32	SNOMED T17	14799000
+#33	SNOMED T4	30546008
+#34	SNOMED T6	254956000
+#35	SNOMED T11	254956000
+#36	SNOMED T16	254956000
+#37	SNOMED T12	14799000
+#38	SNOMED T1	14799000
+#39	SNOMED T3	14799000

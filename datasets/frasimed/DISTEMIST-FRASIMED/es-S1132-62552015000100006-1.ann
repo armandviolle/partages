@@ -1,0 +1,18 @@
+T1	disease 638 699	allergie aux acariens, aux graminées et à l'épithélium animal
+T2	disease 701 712	Elle fumait
+T3	disease 956 1001	lésions papuleuses et rosâtres sur ses doigts
+T4	disease 1060 1081	granulomes annulaires
+T5	disease 1355 1375	affection allergique
+T6	disease 3086 3103	habitude de fumer
+T7	disease 3158 3172	Histiocytose X
+T8	disease 4126 4135	emphysème
+T9	disease 4394 4431	histiocytose à cellules de Langerhans
+#1	SNOMED T8	87433001
+#2	SNOMED T5	781474001
+#3	SNOMED T1	232350006+418689008+300911008
+#4	SNOMED T6	89765005
+#5	SNOMED T9	65399007
+#6	SNOMED T2	77176002
+#7	SNOMED T7	65399007
+#8	SNOMED T3	95324001
+#9	SNOMED T4	65508009

@@ -1,0 +1,24 @@
+T1	morphology-onco 943 951	lymphome
+T2	morphology-onco 959 981	tumeur mésenchymateuse
+T3	morphology-onco 1698 1709	néoplasique
+T4	morphology-onco 1752 1762	métastases
+T5	morphology-onco 1823 1846	lymphome non hodgkinien
+T6	morphology-onco 1854 1887	tumeurs d'origine mésenchymateuse
+T7	morphology-onco 1977 2017	tumeur indifférenciée à petites cellules
+T8	morphology-onco 2019 2028	Néoplasme
+T9	morphology-onco 4952 4975	carcinome indifférencié
+#1	ICD-O-3.1 T8	8000/1
+#2	ICD-O-3.1 T9	8020/3
+#3	ICD-O-3.1 T1	9590/3
+#4	ICD-O-3.1 T5	9591/3
+#5	ICD-O-3.1 T4	8000/6
+#6	ICD-O-3.1 T3	8000/1
+#7	ICD-O-3.1 T2	8800/1
+#8	ICD-O-3.1 T6	8800/1
+#9	ICD-O-3.1 T7	8002/14
+#10	SNOMED T8	86251006
+#11	SNOMED T9	38549000
+#12	SNOMED T1	1163043007
+#13	SNOMED T5	1172592001
+#14	SNOMED T4	14799000
+#15	SNOMED T3	86251006

@@ -1,0 +1,13 @@
+T1	disease 20 29	ex-fumeur
+T2	disease 109 123	état convulsif
+T3	disease 494 512	atélectasie basale
+T4	disease 748 797	lésion en hypersignal sur le lobe temporal gauche
+T5	disease 1097 1106	pneumonie
+T6	disease 1495 1513	légère hémiparésie
+T7	disease 1678 1699	syndrome de Korsakoff
+T8	disease 2009 2014	lupus
+T9	disease 2074 2084	néoplasies
+T10	disease 2179 2203	atélectasie/pneumonieILD
+T11	disease 2495 2498	ELP
+T12	disease 2607 2667	au niveau pharyngolaryngé, ainsi que de petites adénopathies
+T13	disease 2823 2863	carcinome épidermoïde du sinus piriforme

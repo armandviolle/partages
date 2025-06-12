@@ -1,0 +1,28 @@
+T1	disease 69 87	dermatite atopique
+T2	disease 207 217	infectieux
+T3	disease 240 249	varicelle
+T4	disease 295 301	lésion
+T5	disease 320 333	herpès labial
+T6	disease 429 458	lésions cutanées vésiculaires
+T7	disease 554 570	impétiginisation
+T8	disease 585 594	cellulite
+T9	disease 600 691	lésions cutanées étaient réparties sur les membres inférieurs et supérieurs et sur le tronc
+T10	disease 860 869	infection
+T11	disease 932 961	rash varicelliforme de Kaposi
+T12	disease 1796 1814	lésions encroûtées
+T13	disease 2036 2052	lésions cutanées
+T14	disease 2074 2092	dermatite atopique
+#1	SNOMED T11	186535001
+#2	SNOMED T1	24079001
+#3	SNOMED T14	24079001
+#4	SNOMED T8	128045006
+#5	SNOMED T2	40733004
+#6	SNOMED T3	38907003
+#7	SNOMED T5	1475003
+#8	SNOMED T10	40733004
+#9	SNOMED T9	400202001+400160003+400106006
+#10	SNOMED T13	95324001
+#11	SNOMED T4	417163006
+#12	SNOMED T6	53788007
+#13	SNOMED T7	48277006
+#14	SNOMED T12	95324001

@@ -1,0 +1,10 @@
+T1	disease 43 75	glaucome primaire à angle ouvert
+T2	disease 239 248	cataracte
+T3	disease 894 918	œdème maculaire kystique
+T4	disease 1141 1158	espaces kystiques
+T5	disease 1722 1728	kystes
+#1	SNOMED T1	77075001
+#2	SNOMED T2	193570009
+#3	SNOMED T3	193387007
+#4	SNOMED T5	441457006
+#5	SNOMED T4	125291005

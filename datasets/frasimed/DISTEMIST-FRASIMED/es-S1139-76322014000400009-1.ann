@@ -1,0 +1,12 @@
+T1	disease 319 328	cardiaque
+T2	disease 360 377	maladie cardiaque
+T3	disease 955 978	tachycardie à QRS large
+T4	disease 1611 1672	tachycardie supraventriculaire (TSV) conduite avec aberration
+T5	disease 1643 1646	TSV
+T6	disease 2306 2348	TVS paroxystique avec conduction aberrante
+#1	SNOMED T3	251156000
+#2	SNOMED T4	6456007
+#3	SNOMED T5	6456007
+#4	SNOMED T6	67198005+251183004
+#5	SNOMED T1	56265001
+#6	SNOMED T2	56265001

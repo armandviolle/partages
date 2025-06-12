@@ -1,0 +1,45 @@
+T1	morphology-onco 885 930	adénocarcinome endométrioïde bien différencié
+T2	morphology-onco 1067 1085	maladie à distance
+T3	morphology-onco 1169 1220	Adénocarcinome de l'endomètre de type endométrioïde
+T4	morphology-onco 1468 1527	adénocarcinome de type endométrioïde modérément différencié
+T5	morphology-onco 1608 1618	métastases
+T6	morphology-onco 1758 1772	adénocarcinome
+T7	morphology-onco 2516 2530	adénocarcinome
+T8	morphology-onco 2617 2649	néoplasme solide peu différencié
+T9	morphology-onco 2705 2748	carcinome neuroendocrine à petites cellules
+T10	morphology-onco 2903 2909	tumeur
+T11	morphology-onco 3133 3142	néoplasme
+T12	morphology-onco 3229 3259	différenciation neuroendocrine
+T13	morphology-onco 3295 3304	néoplasme
+T14	morphology-onco 3433 3442	métastase
+T15	morphology-onco 3456 3474	maladie à distance
+#1	ICD-O-3.1 T6	8140/3
+#2	ICD-O-3.1 T7	8140/3
+#3	ICD-O-3.1 T3	8380/3
+#4	ICD-O-3.1 T9	8041/3
+#5	ICD-O-3.1 T12	8574/3
+#6	ICD-O-3.1 T2	8000/6
+#7	ICD-O-3.1 T15	8000/6
+#8	ICD-O-3.1 T5	8000/6
+#9	ICD-O-3.1 T14	8000/6
+#10	ICD-O-3.1 T11	8000/1
+#11	ICD-O-3.1 T13	8000/1
+#12	ICD-O-3.1 T10	8000/1
+#13	ICD-O-3.1 T1	8380/31
+#14	ICD-O-3.1 T4	8380/32
+#15	ICD-O-3.1 T8	8000/33
+#16	SNOMED T6	1187332001
+#17	SNOMED T7	1187332001
+#18	SNOMED T3	30289006
+#19	SNOMED T9	11010461000119101
+#20	SNOMED T12	128704005
+#21	SNOMED T2	14799000
+#22	SNOMED T15	14799000
+#23	SNOMED T5	14799000
+#24	SNOMED T14	14799000
+#25	SNOMED T11	86251006
+#26	SNOMED T13	86251006
+#27	SNOMED T10	86251006
+#28	SNOMED T1	30289006
+#29	SNOMED T4	30289006
+#30	SNOMED T8	1240414004

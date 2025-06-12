@@ -1,0 +1,48 @@
+T1	morphology-onco 1022 1028	cancer
+T2	morphology-onco 1090 1096	cancer
+T3	morphology-onco 1161 1167	cancer
+T4	morphology-onco 1264 1270	cancer
+T5	morphology-onco 1313 1319	cancer
+T6	morphology-onco 1365 1371	cancer
+T7	morphology-onco 1422 1428	cancer
+T8	morphology-onco 1464 1494	Carcinome canalaire infiltrant
+T9	morphology-onco 2717 2754	syndrome lymphoprolifératif CD 30 (+)
+T10	morphology-onco 2790 2837	lymphome anaplasique à grandes cellules ALK (-)
+T11	morphology-onco 3873 3912	lymphome anaplasique à grandes cellules
+T12	morphology-onco 4137 4146	malignité
+T13	morphology-onco 4182 4189	maligne
+T14	morphology-onco 4538 4558	lymphome anaplasique
+T15	morphology-onco 4686 4713	Lymphome anaplasique ALK(-)
+T16	morphology-onco 4745 4775	Carcinome canalaire infiltrant
+#1	ICD-O-3.1 T8	8500/3
+#2	ICD-O-3.1 T16	8500/3
+#3	ICD-O-3.1 T1	8000/3
+#4	ICD-O-3.1 T2	8000/3
+#5	ICD-O-3.1 T3	8000/3
+#6	ICD-O-3.1 T4	8000/3
+#7	ICD-O-3.1 T6	8000/3
+#8	ICD-O-3.1 T5	8000/3
+#9	ICD-O-3.1 T7	8000/3
+#10	ICD-O-3.1 T13	8000/3
+#11	ICD-O-3.1 T12	8000/3
+#12	ICD-O-3.1 T10	9702/3
+#13	ICD-O-3.1 T9	9718/3
+#14	ICD-O-3.1 T11	9714/3
+#15	ICD-O-3.1 T14	9590/3/H
+#16	ICD-O-3.1 T15	9702/3
+#17	SNOMED T8	58477004
+#18	SNOMED T16	58477004
+#19	SNOMED T1	1240414004
+#20	SNOMED T2	1240414004
+#21	SNOMED T3	1240414004
+#22	SNOMED T4	1240414004
+#23	SNOMED T6	1240414004
+#24	SNOMED T5	1240414004
+#25	SNOMED T7	1240414004
+#26	SNOMED T13	1240414004
+#27	SNOMED T12	1240414004
+#28	SNOMED T10	1163404000
+#29	SNOMED T9	896745008
+#30	SNOMED T11	53237008
+#31	SNOMED T14	1163043007
+#32	SNOMED T15	1163404000

@@ -1,0 +1,14 @@
+T1	disease 466 495	agénésie des canaux déférents
+T2	disease 626 650	absence complète du rein
+T3	disease 694 767	absence de la vésicule séminale gauche, du canal déférent et de l'uretère
+T4	disease 952 972	azoospermie complète
+T5	disease 1013 1035	agénésie déférentielle
+T6	disease 1051 1090	agénésie de la vésicule séminale rénale
+T7	disease 1312 1327	agénésie rénale
+#1	SNOMED T1	5286009
+#2	SNOMED T3	840508009+5286009+77761000
+#3	SNOMED T4	425558002
+#4	SNOMED T5	5286009
+#5	SNOMED T6	204942005+840508009
+#6	SNOMED T7	204942005
+#7	SNOMED T2	204942005

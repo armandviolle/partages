@@ -1,0 +1,50 @@
+T1	morphology-onco 517 526	métastase
+T2	morphology-onco 750 758	cT3aN0Mx
+T3	morphology-onco 958 973	carcinome rénal
+T4	morphology-onco 958 992	carcinome rénal à cellules claires
+T5	morphology-onco 1160 1168	tumorale
+T6	morphology-onco 1299 1333	carcinome rénal à cellules claires
+T7	morphology-onco 1855 1862	angiome
+T8	morphology-onco 1871 1890	nodules pulmonaires
+T9	morphology-onco 2059 2078	nodules pulmonaires
+T10	morphology-onco 2191 2197	tumeur
+T11	morphology-onco 2508 2527	nodules pulmonaires
+T12	morphology-onco 3051 3070	lésions pulmonaires
+T13	morphology-onco 3812 3887	métastase dans le parenchyme testiculaire d'un carcinome à cellules claires
+T14	morphology-onco 4144 4178	progression au niveau testiculaire
+T15	morphology-onco 4403 4424	lésion lytique en D11
+T16	morphology-onco 4489 4498	métastase
+T17	morphology-onco 4525 4544	progression osseuse
+#1	ICD-O-3.1 T7	9120/0
+#2	ICD-O-3.1 T3	8312/3
+#3	ICD-O-3.1 T6	8310/3
+#4	ICD-O-3.1 T12	8000/6
+#5	ICD-O-3.1 T1	8000/6
+#6	ICD-O-3.1 T16	8000/6
+#7	ICD-O-3.1 T8	8000/6
+#8	ICD-O-3.1 T9	8000/6
+#9	ICD-O-3.1 T11	8000/6
+#10	ICD-O-3.1 T17	8000/6
+#11	ICD-O-3.1 T5	8000/1
+#12	ICD-O-3.1 T10	8000/1
+#13	ICD-O-3.1 T2	8000/6
+#14	ICD-O-3.1 T4	8310/3
+#15	ICD-O-3.1 T13	8310/6
+#16	ICD-O-3.1 T14	8000/6
+#17	ICD-O-3.1 T15	8000/6
+#18	SNOMED T7	253053003
+#19	SNOMED T3	41607009
+#20	SNOMED T6	30546008
+#21	SNOMED T12	14799000
+#22	SNOMED T1	14799000
+#23	SNOMED T16	14799000
+#24	SNOMED T8	14799000
+#25	SNOMED T9	14799000
+#26	SNOMED T11	14799000
+#27	SNOMED T17	14799000
+#28	SNOMED T5	86251006
+#29	SNOMED T10	86251006
+#30	SNOMED T2	14799000
+#31	SNOMED T4	30546008
+#32	SNOMED T14	14799000
+#33	SNOMED T15	14799000

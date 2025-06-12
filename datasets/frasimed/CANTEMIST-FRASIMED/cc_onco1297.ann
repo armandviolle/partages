@@ -1,0 +1,38 @@
+T1	morphology-onco 1115 1123	tumorale
+T2	morphology-onco 1339 1351	ostéosarcome
+T3	morphology-onco 1360 1375	sarcome d'Ewing
+T4	morphology-onco 1553 1565	ostéosarcome
+T5	morphology-onco 1596 1640	néoplasme mésodermique à cellules fusiformes
+T6	morphology-onco 1596 1666	néoplasme mésodermique à cellules fusiformes pléomorphes de haut grade
+T7	morphology-onco 1819 1860	Sarcome pléomorphe des os avec métastases
+T8	morphology-onco 1974 2000	ostéosarcome conventionnel
+T9	morphology-onco 2535 2542	tumoral
+T10	morphology-onco 2566 2577	péritumoral
+T11	morphology-onco 2821 2829	tumorale
+T12	morphology-onco 2923 2929	tumeur
+T13	morphology-onco 3312 3323	néoplasique
+#1	ICD-O-3.1 T13	8000/1
+#2	ICD-O-3.1 T2	9180/3
+#3	ICD-O-3.1 T4	9180/3
+#4	ICD-O-3.1 T10	8000/1
+#5	ICD-O-3.1 T11	8000/1
+#6	ICD-O-3.1 T1	8000/1
+#7	ICD-O-3.1 T9	8000/1
+#8	ICD-O-3.1 T12	8000/1
+#9	ICD-O-3.1 T3	9260/3
+#10	ICD-O-3.1 T6	8802/34
+#11	ICD-O-3.1 T7	8802/6
+#12	ICD-O-3.1 T5	8801/3
+#13	ICD-O-3.1 T8	9186/3
+#14	SNOMED T13	86251006
+#15	SNOMED T2	1163405004
+#16	SNOMED T4	1163405004
+#17	SNOMED T10	86251006
+#18	SNOMED T11	86251006
+#19	SNOMED T1	86251006
+#20	SNOMED T9	86251006
+#21	SNOMED T12	86251006
+#22	SNOMED T3	76909002
+#23	SNOMED T6	302840001
+#24	SNOMED T5	9801004
+#25	SNOMED T8	128774006

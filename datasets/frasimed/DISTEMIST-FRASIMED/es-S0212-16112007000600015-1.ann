@@ -1,0 +1,20 @@
+T1	disease 110 124	mort cérébrale
+T2	disease 171 215	blessure par balle au niveau occipital droit
+T3	disease 310 322	malformation
+T4	disease 1340 1366	syndrome de réalimentation
+T5	disease 2316 2331	détresse fœtale
+T6	disease 2525 2549	dyscendance hypertensive
+T7	disease 2575 2598	saignement transvaginal
+T8	disease 2638 2661	décollement placentaire
+T9	disease 2669 2680	mort fœtale
+T10	disease 3030 3042	malformation
+#1	SNOMED T1	230802007
+#2	SNOMED T5	130955003
+#3	SNOMED T2	283545005
+#4	SNOMED T7	399131003
+#5	SNOMED T8	415105001
+#6	SNOMED T9	84122000
+#7	SNOMED T4	427698009
+#8	SNOMED T3	276655000
+#9	SNOMED T10	276655000
+#10	SNOMED T6	170578008

@@ -1,0 +1,27 @@
+T1	morphology-onco 1419 1446	cellules tumorales malignes
+T2	morphology-onco 1448 1451	CTM
+T3	morphology-onco 1731 1745	adénocarcinome
+T4	morphology-onco 1847 1891	adénocarcinome pulmonaire droit métastatique
+T5	morphology-onco 7786 7789	MTC
+T6	morphology-onco 7827 7841	carcinomateuse
+T7	morphology-onco 7908 7922	carcinomateuse
+T8	morphology-onco 7924 7926	MC
+T9	morphology-onco 9535 9537	CM
+#1	ICD-O-3.1 T3	8140/3
+#2	ICD-O-3.1 T6	8010/3
+#3	ICD-O-3.1 T1	8001/3
+#4	ICD-O-3.1 T2	8001/3
+#5	ICD-O-3.1 T4	8140/6
+#6	ICD-O-3.1 T5	8001/3
+#7	ICD-O-3.1 T7	8010/9
+#8	ICD-O-3.1 T8	8010/9
+#9	ICD-O-3.1 T9	8010/9
+#10	SNOMED T3	1187332001
+#11	SNOMED T6	1187425009
+#12	SNOMED T1	88400008
+#13	SNOMED T2	88400008
+#14	SNOMED T4	4590003
+#15	SNOMED T5	88400008
+#16	SNOMED T7	307593001
+#17	SNOMED T8	307593001
+#18	SNOMED T9	307593001

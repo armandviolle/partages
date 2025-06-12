@@ -1,0 +1,51 @@
+T1	morphology-onco 415 454	adénocarcinome prostatique de Gleason 9
+T2	morphology-onco 788 803	maladie osseuse
+T3	morphology-onco 839 853	adénocarcinome
+T4	morphology-onco 1674 1680	tumeur
+T5	morphology-onco 2164 2172	tumorale
+T6	morphology-onco 2391 2405	lésion osseuse
+T7	morphology-onco 2624 2641	CRPC métastatique
+T8	morphology-onco 3286 3294	tumorale
+T9	morphology-onco 3775 3783	tumorale
+T10	morphology-onco 3930 3962	carcinome solide peu différencié
+T11	morphology-onco 4054 4084	différenciation neuroendocrine
+T12	morphology-onco 4469 4484	lésion sternale
+T13	morphology-onco 4541 4550	tumorales
+T14	morphology-onco 4620 4634	lésion osseuse
+T15	morphology-onco 4680 4722	néoplasique de haut grade peu différenciée
+T16	morphology-onco 4930 4960	différenciation neuroendocrine
+T17	morphology-onco 5061 5091	différenciation neuroendocrine
+#1	ICD-O-3.1 T3	8140/3
+#2	ICD-O-3.1 T11	8574/3
+#3	ICD-O-3.1 T16	8574/3
+#4	ICD-O-3.1 T17	8574/3
+#5	ICD-O-3.1 T2	8000/6
+#6	ICD-O-3.1 T6	8000/6
+#7	ICD-O-3.1 T14	8000/6
+#8	ICD-O-3.1 T4	8000/1
+#9	ICD-O-3.1 T5	8000/1
+#10	ICD-O-3.1 T8	8000/1
+#11	ICD-O-3.1 T9	8000/1
+#12	ICD-O-3.1 T13	8000/1
+#13	ICD-O-3.1 T1	8140/33
+#14	ICD-O-3.1 T7	8000/6
+#15	ICD-O-3.1 T10	8230/33
+#16	ICD-O-3.1 T15	8000/13
+#17	ICD-O-3.1 T12	8000/6
+#18	SNOMED T3	1187332001
+#19	SNOMED T11	128704005
+#20	SNOMED T16	128704005
+#21	SNOMED T17	128704005
+#22	SNOMED T2	14799000
+#23	SNOMED T6	14799000
+#24	SNOMED T14	14799000
+#25	SNOMED T4	86251006
+#26	SNOMED T5	86251006
+#27	SNOMED T8	86251006
+#28	SNOMED T9	86251006
+#29	SNOMED T13	86251006
+#30	SNOMED T1	1187332001
+#31	SNOMED T7	14799000
+#32	SNOMED T10	81920005
+#33	SNOMED T15	86251006
+#34	SNOMED T12	14799000

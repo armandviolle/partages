@@ -1,0 +1,42 @@
+T1	morphology-onco 439 452	carcinomatose
+T2	morphology-onco 836 844	tumorale
+T3	morphology-onco 949 979	néoplasme iléal pigmenté malin
+T4	morphology-onco 1048 1062	mélanome malin
+T5	morphology-onco 1290 1305	lésion frontale
+T6	morphology-onco 1503 1524	mélanome métastatique
+T7	morphology-onco 1582 1589	TxNxM1d
+T8	morphology-onco 3709 3717	tumorale
+T9	morphology-onco 4223 4231	tumorale
+T10	morphology-onco 4392 4398	tumeur
+T11	morphology-onco 5077 5083	tumeur
+T12	morphology-onco 6740 6748	tumorale
+T13	morphology-onco 7102 7108	tumeur
+T14	morphology-onco 7118 7131	carcinomatose
+#1	ICD-O-3.1 T1	8010/9
+#2	ICD-O-3.1 T14	8010/9
+#3	ICD-O-3.1 T4	8720/3
+#4	ICD-O-3.1 T6	8720/6
+#5	ICD-O-3.1 T11	8000/1
+#6	ICD-O-3.1 T2	8000/1
+#7	ICD-O-3.1 T8	8000/1
+#8	ICD-O-3.1 T9	8000/1
+#9	ICD-O-3.1 T10	8000/1
+#10	ICD-O-3.1 T12	8000/1
+#11	ICD-O-3.1 T13	8000/1
+#12	ICD-O-3.1 T3	8720/3
+#13	ICD-O-3.1 T5	8000/6
+#14	ICD-O-3.1 T7	8000/6
+#15	SNOMED T1	307593001
+#16	SNOMED T14	307593001
+#17	SNOMED T4	1162635006
+#18	SNOMED T6	372158004
+#19	SNOMED T11	86251006
+#20	SNOMED T2	86251006
+#21	SNOMED T8	86251006
+#22	SNOMED T9	86251006
+#23	SNOMED T10	86251006
+#24	SNOMED T12	86251006
+#25	SNOMED T13	86251006
+#26	SNOMED T3	1162635006
+#27	SNOMED T5	14799000
+#28	SNOMED T7	14799000

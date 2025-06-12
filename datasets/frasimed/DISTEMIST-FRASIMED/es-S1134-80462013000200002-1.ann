@@ -1,0 +1,13 @@
+T1	disease 35 62	dysfonctionnement chronique
+T2	disease 290 313	hématurie macroscopique
+T3	disease 443 467	rétention urinaire aiguë
+T4	disease 545 575	protrusions discales lombaires
+T5	disease 581 592	urolithiase
+T6	disease 651 680	syndrome mictionnel chronique
+T7	disease 720 755	hypertrophie bénigne de la prostate
+T8	disease 1051 1066	vessie en lutte
+T9	disease 1088 1109	uropathie obstructive
+T10	disease 1169 1193	hypertrophie prostatique
+T11	disease 1265 1289	hypertrophie du détrusor
+T12	disease 1399 1421	caillots intravésicaux
+T13	disease 1855 1904	spasme vésical dû à une hyperactivité du détrusor

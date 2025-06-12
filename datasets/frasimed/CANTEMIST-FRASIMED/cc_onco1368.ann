@@ -1,0 +1,36 @@
+T1	morphology-onco 201 207	tumeur
+T2	morphology-onco 322 337	carcinome rénal
+T3	morphology-onco 322 356	carcinome rénal à cellules claires
+T4	morphology-onco 358 371	hypernéphrome
+T5	morphology-onco 1487 1509	masse intramyocardique
+T6	morphology-onco 1737 1746	métastase
+T7	morphology-onco 1773 1779	tumeur
+T8	morphology-onco 1790 1797	sarcome
+T9	morphology-onco 2058 2080	Néoformation cardiaque
+T10	morphology-onco 2122 2131	métastase
+T11	morphology-onco 2448 2473	tumeur intraventriculaire
+T12	morphology-onco 3172 3193	tumeur intracardiaque
+#1	ICD-O-3.1 T3	8310/3
+#2	ICD-O-3.1 T4	8312/3
+#3	ICD-O-3.1 T6	8000/6
+#4	ICD-O-3.1 T10	8000/6
+#5	ICD-O-3.1 T8	8800/3
+#6	ICD-O-3.1 T1	8000/1
+#7	ICD-O-3.1 T7	8000/1
+#8	ICD-O-3.1 T2	8312/3
+#9	ICD-O-3.1 T5	8000/6
+#10	ICD-O-3.1 T9	8000/6
+#11	ICD-O-3.1 T12	8000/6
+#12	ICD-O-3.1 T11	8000/6
+#13	SNOMED T3	30546008
+#14	SNOMED T4	41607009
+#15	SNOMED T6	14799000
+#16	SNOMED T10	14799000
+#17	SNOMED T8	1187396000
+#18	SNOMED T1	86251006
+#19	SNOMED T7	86251006
+#20	SNOMED T2	41607009
+#21	SNOMED T5	14799000
+#22	SNOMED T9	14799000
+#23	SNOMED T12	14799000
+#24	SNOMED T11	14799000

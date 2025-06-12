@@ -1,0 +1,75 @@
+T1	morphology-onco 191 200	carcinome
+T2	morphology-onco 475 501	mélanome lentigineux acral
+T3	morphology-onco 847 856	malignité
+T4	morphology-onco 1085 1093	mélanome
+T5	morphology-onco 1156 1158	M0
+T6	morphology-onco 1975 1989	Mélanome acral
+T7	morphology-onco 1998 2000	M0
+T8	morphology-onco 3003 3022	masse surrénalienne
+T9	morphology-onco 3178 3192	tumeur maligne
+T10	morphology-onco 3565 3574	métastase
+T11	morphology-onco 3692 3701	métastase
+T12	morphology-onco 3750 3771	métastase de mélanome
+T13	morphology-onco 4111 4167	maladie a été observée au niveau de la capsule splénique
+T14	morphology-onco 5406 5451	progression au niveau de la capsule splénique
+T15	morphology-onco 5473 5509	nodule de 35,4 mm dans l'hypochondre
+T16	morphology-onco 5913 5933	lésion périsplénique
+T17	morphology-onco 5957 5980	nodule de l'hypochondre
+T18	morphology-onco 6115 6145	progression dans l'hypochondre
+T19	morphology-onco 6422 6443	mélanome métastatique
+T20	morphology-onco 7009 7018	métastase
+T21	morphology-onco 7082 7088	tumeur
+T22	morphology-onco 7210 7228	cellules tumorales
+T23	morphology-onco 7402 7423	métastase de mélanome
+T24	morphology-onco 7476 7488	métastatique
+T25	morphology-onco 7494 7513	atteinte musculaire
+#1	ICD-O-3.1 T5	8000/6
+#2	ICD-O-3.1 T7	8000/6
+#3	ICD-O-3.1 T1	8010/3
+#4	ICD-O-3.1 T22	8001/1
+#5	ICD-O-3.1 T3	8000/3
+#6	ICD-O-3.1 T9	8000/3
+#7	ICD-O-3.1 T4	8720/3
+#8	ICD-O-3.1 T19	8720/6
+#9	ICD-O-3.1 T24	8000/6
+#10	ICD-O-3.1 T10	8000/6
+#11	ICD-O-3.1 T11	8000/6
+#12	ICD-O-3.1 T20	8000/6
+#13	ICD-O-3.1 T12	8720/6
+#14	ICD-O-3.1 T23	8720/6
+#15	ICD-O-3.1 T21	8000/1
+#16	ICD-O-3.1 T2	8744/3
+#17	ICD-O-3.1 T6	8744/3
+#18	ICD-O-3.1 T8	8000/6
+#19	ICD-O-3.1 T14	8000/6
+#20	ICD-O-3.1 T15	8000/6
+#21	ICD-O-3.1 T16	8000/6
+#22	ICD-O-3.1 T17	8000/6
+#23	ICD-O-3.1 T18	8000/6
+#24	ICD-O-3.1 T25	8000/6
+#25	ICD-O-3.1 T13	8000/6
+#26	SNOMED T5	14799000
+#27	SNOMED T7	14799000
+#28	SNOMED T1	1187425009
+#29	SNOMED T22	39577004
+#30	SNOMED T3	1240414004
+#31	SNOMED T9	1240414004
+#32	SNOMED T4	1162635006
+#33	SNOMED T19	372158004
+#34	SNOMED T24	14799000
+#35	SNOMED T10	14799000
+#36	SNOMED T11	14799000
+#37	SNOMED T20	14799000
+#38	SNOMED T12	372158004
+#39	SNOMED T23	372158004
+#40	SNOMED T21	86251006
+#41	SNOMED T2	254732008
+#42	SNOMED T6	254732008
+#43	SNOMED T8	14799000
+#44	SNOMED T14	14799000
+#45	SNOMED T15	14799000
+#46	SNOMED T16	14799000
+#47	SNOMED T17	14799000
+#48	SNOMED T18	14799000
+#49	SNOMED T25	14799000
+#50	SNOMED T13	14799000

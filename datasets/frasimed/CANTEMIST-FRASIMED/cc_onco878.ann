@@ -1,0 +1,30 @@
+T1	morphology-onco 287 301	adénocarcinome
+T2	morphology-onco 357 363	T3N1M0
+T3	morphology-onco 556 603	adénocarcinome modérément différencié du rectum
+T4	morphology-onco 654 664	métastases
+T5	morphology-onco 947 964	nodule pulmonaire
+T6	morphology-onco 1134 1142	tumorale
+T7	morphology-onco 1253 1259	tumeur
+T8	morphology-onco 1313 1342	métastase d'un adénocarcinome
+T9	morphology-onco 2040 2062	progression pulmonaire
+T10	morphology-onco 3415 3425	métastases
+#1	ICD-O-3.1 T2	8000/6
+#2	ICD-O-3.1 T1	8140/3
+#3	ICD-O-3.1 T4	8000/6
+#4	ICD-O-3.1 T10	8000/6
+#5	ICD-O-3.1 T8	8140/6
+#6	ICD-O-3.1 T5	8000/6
+#7	ICD-O-3.1 T9	8000/6
+#8	ICD-O-3.1 T6	8000/1
+#9	ICD-O-3.1 T7	8000/1
+#10	ICD-O-3.1 T3	8140/6
+#11	SNOMED T2	14799000
+#12	SNOMED T1	1187332001
+#13	SNOMED T4	14799000
+#14	SNOMED T10	14799000
+#15	SNOMED T8	4590003
+#16	SNOMED T5	14799000
+#17	SNOMED T9	14799000
+#18	SNOMED T6	86251006
+#19	SNOMED T7	86251006
+#20	SNOMED T3	4590003

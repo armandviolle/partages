@@ -1,0 +1,54 @@
+T1	morphology-onco 437 443	tumeur
+T2	morphology-onco 514 520	tumeur
+T3	morphology-onco 870 876	tumeur
+T4	morphology-onco 1652 1664	fibroadénome
+T5	morphology-onco 1680 1689	malignité
+T6	morphology-onco 1983 2001	maladie à distance
+T7	morphology-onco 2061 2080	tumeur de Phyllodes
+T8	morphology-onco 2129 2136	cT3N0M0
+T9	morphology-onco 2185 2194	bénignité
+T10	morphology-onco 2309 2315	tumeur
+T11	morphology-onco 2343 2352	malignité
+T12	morphology-onco 2458 2472	tumeur maligne
+T13	morphology-onco 2819 2828	métastase
+T14	morphology-onco 3514 3520	tumeur
+T15	morphology-onco 3792 3811	nodules pulmonaires
+T16	morphology-onco 4908 4915	tumoral
+T17	morphology-onco 5525 5535	métastases
+T18	morphology-onco 5777 5791	lésion lytique
+#1	ICD-O-3.1 T8	8000/6
+#2	ICD-O-3.1 T6	8000/6
+#3	ICD-O-3.1 T4	9010/0
+#4	ICD-O-3.1 T18	8000/6
+#5	ICD-O-3.1 T5	8000/3
+#6	ICD-O-3.1 T11	8000/3
+#7	ICD-O-3.1 T13	8000/6
+#8	ICD-O-3.1 T17	8000/6
+#9	ICD-O-3.1 T15	8000/6
+#10	ICD-O-3.1 T14	8000/1
+#11	ICD-O-3.1 T1	8000/1
+#12	ICD-O-3.1 T2	8000/1
+#13	ICD-O-3.1 T3	8000/1
+#14	ICD-O-3.1 T10	8000/1
+#15	ICD-O-3.1 T16	8000/1
+#16	ICD-O-3.1 T7	9020/1
+#17	ICD-O-3.1 T12	9020/3
+#18	ICD-O-3.1 T9	8000/0
+#19	SNOMED T8	14799000
+#20	SNOMED T6	14799000
+#21	SNOMED T4	1156873009
+#22	SNOMED T18	14799000
+#23	SNOMED T5	1240414004
+#24	SNOMED T11	1240414004
+#25	SNOMED T13	14799000
+#26	SNOMED T17	14799000
+#27	SNOMED T15	14799000
+#28	SNOMED T14	86251006
+#29	SNOMED T1	86251006
+#30	SNOMED T2	86251006
+#31	SNOMED T3	86251006
+#32	SNOMED T10	86251006
+#33	SNOMED T16	86251006
+#34	SNOMED T7	71232009
+#35	SNOMED T12	87913009
+#36	SNOMED T9	3898006

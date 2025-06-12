@@ -1,0 +1,50 @@
+T1	morphology-onco 673 682	malignité
+T2	morphology-onco 1156 1165	carcinome
+T3	morphology-onco 1379 1393	tumeur maligne
+T4	morphology-onco 1458 1490	carcinome non à petites cellules
+T5	morphology-onco 1607 1647	adénocarcinome peu différencié du poumon
+T6	morphology-onco 2019 2038	atteinte secondaire
+T7	morphology-onco 2305 2346	adénocarcinome pulmonaire peu différencié
+T8	morphology-onco 2355 2358	cM0
+T9	morphology-onco 3239 3247	tumorale
+T10	morphology-onco 3702 3730	carcinome à cellules géantes
+T11	morphology-onco 3886 3894	tumorale
+T12	morphology-onco 4065 4071	tumeur
+T13	morphology-onco 4724 4769	adénome tubulaire avec dysplasie de bas grade
+T14	morphology-onco 4858 4892	métastase polypoïde d'un carcinome
+T15	morphology-onco 4973 4979	tumeur
+T16	morphology-onco 4997 5006	métastase
+T17	morphology-onco 5219 5226	maligne
+#1	ICD-O-3.1 T6	8000/6
+#2	ICD-O-3.1 T8	8000/6
+#3	ICD-O-3.1 T2	8010/3
+#4	ICD-O-3.1 T4	8046/3
+#5	ICD-O-3.1 T1	8000/3
+#6	ICD-O-3.1 T17	8000/3
+#7	ICD-O-3.1 T16	8000/6
+#8	ICD-O-3.1 T12	8000/1
+#9	ICD-O-3.1 T15	8000/1
+#10	ICD-O-3.1 T3	8000/3
+#11	ICD-O-3.1 T9	8000/1
+#12	ICD-O-3.1 T11	8000/1
+#13	ICD-O-3.1 T5	8140/33
+#14	ICD-O-3.1 T7	8140/33
+#15	ICD-O-3.1 T10	8031/3
+#16	ICD-O-3.1 T13	8211/0/H
+#17	ICD-O-3.1 T14	8210/6
+#18	SNOMED T6	14799000
+#19	SNOMED T8	14799000
+#20	SNOMED T2	1187425009
+#21	SNOMED T4	128632008
+#22	SNOMED T1	1240414004
+#23	SNOMED T17	1240414004
+#24	SNOMED T16	14799000
+#25	SNOMED T12	86251006
+#26	SNOMED T15	86251006
+#27	SNOMED T3	1240414004
+#28	SNOMED T9	86251006
+#29	SNOMED T11	86251006
+#30	SNOMED T5	1187332001
+#31	SNOMED T7	1187332001
+#32	SNOMED T10	42596004
+#33	SNOMED T13	444408007

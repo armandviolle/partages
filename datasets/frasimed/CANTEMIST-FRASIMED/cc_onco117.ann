@@ -1,0 +1,65 @@
+T1	morphology-onco 558 576	maladie à distance
+T2	morphology-onco 862 887	neuroblastome anaplasique
+T3	morphology-onco 1007 1032	neuroblastome anaplasique
+T4	morphology-onco 1845 1896	implants ont été découverts à la surface de la rate
+T5	morphology-onco 2637 2648	néoplasique
+T6	morphology-onco 2886 2894	tumorale
+T7	morphology-onco 3252 3298	implants de tumeur neuroectodermique primitive
+T8	morphology-onco 3358 3394	implants dans la graisse périhilaire
+T9	morphology-onco 3617 3637	cellularité tumorale
+T10	morphology-onco 4080 4093	sarcome Ewing
+T11	morphology-onco 4094 4098	PNET
+T12	morphology-onco 4100 4137	tumeur neuroectodermique périphérique
+T13	morphology-onco 4193 4218	rechute splénique précoce
+T14	morphology-onco 4250 4289	maladie persistante au niveau abdominal
+T15	morphology-onco 4306 4326	implants péritonéaux
+T16	morphology-onco 4353 4378	neuroblastome anaplasique
+T17	morphology-onco 4634 4662	récidive péritonéale précoce
+T18	morphology-onco 4801 4821	implants péritonéaux
+T19	morphology-onco 4928 4943	sarcome d'Ewing
+T20	morphology-onco 5668 5687	nodules péritonéaux
+T21	morphology-onco 5929 5943	nodule pelvien
+T22	morphology-onco 6183 6209	implants dans le péritoine
+#1	ICD-O-3.1 T11	9364/3
+#2	ICD-O-3.1 T9	8001/1
+#3	ICD-O-3.1 T1	8000/6
+#4	ICD-O-3.1 T22	8000/6
+#5	ICD-O-3.1 T15	8000/6
+#6	ICD-O-3.1 T18	8000/6
+#7	ICD-O-3.1 T5	8000/1
+#8	ICD-O-3.1 T20	8000/6
+#9	ICD-O-3.1 T6	8000/1
+#10	ICD-O-3.1 T2	9500/34
+#11	ICD-O-3.1 T3	9500/34
+#12	ICD-O-3.1 T4	8000/6
+#13	ICD-O-3.1 T7	9473/6
+#14	ICD-O-3.1 T8	8000/6
+#15	ICD-O-3.1 T10	9260/3
+#16	ICD-O-3.1 T12	9364/3
+#17	ICD-O-3.1 T13	8000/6
+#18	ICD-O-3.1 T14	8000/6
+#19	ICD-O-3.1 T16	9500/34
+#20	ICD-O-3.1 T17	8000/6
+#21	ICD-O-3.1 T19	9260/3
+#22	ICD-O-3.1 T21	8000/6
+#23	SNOMED T11	254764001
+#24	SNOMED T9	39577004
+#25	SNOMED T1	14799000
+#26	SNOMED T22	14799000
+#27	SNOMED T15	14799000
+#28	SNOMED T18	14799000
+#29	SNOMED T5	86251006
+#30	SNOMED T20	14799000
+#31	SNOMED T6	86251006
+#32	SNOMED T2	432328008
+#33	SNOMED T3	432328008
+#34	SNOMED T4	14799000
+#35	SNOMED T8	14799000
+#36	SNOMED T10	76909002
+#37	SNOMED T12	254764001
+#38	SNOMED T13	14799000
+#39	SNOMED T14	14799000
+#40	SNOMED T16	432328008
+#41	SNOMED T17	14799000
+#42	SNOMED T19	76909002
+#43	SNOMED T21	14799000

@@ -1,0 +1,44 @@
+T1	morphology-onco 243 252	malignité
+T2	morphology-onco 562 568	cancer
+T3	morphology-onco 722 744	cancer micropapillaire
+T4	morphology-onco 2548 2560	métastatique
+T5	morphology-onco 2835 2860	blastome pleuropulmonaire
+T6	morphology-onco 2835 2889	blastome pleuropulmonaire de type II (solide-kystique)
+T7	morphology-onco 2964 2972	tumorale
+T8	morphology-onco 3053 3078	blastome pleuropulmonaire
+T9	morphology-onco 3053 3089	blastome pleuropulmonaire de type II
+T10	morphology-onco 3613 3658	masse a été détectée dans la région pariétale
+T11	morphology-onco 3729 3745	métastase du PPB
+T12	morphology-onco 3932 3954	rechute intracrânienne
+T13	morphology-onco 4799 4854	récidive a été observée dans le système nerveux central
+T14	morphology-onco 4864 4891	dissémination leptoméningée
+T15	morphology-onco 5676 5682	cancer
+#1	ICD-O-3.1 T2	8000/3
+#2	ICD-O-3.1 T15	8000/3
+#3	ICD-O-3.1 T14	8000/6
+#4	ICD-O-3.1 T1	8000/3
+#5	ICD-O-3.1 T4	8000/6
+#6	ICD-O-3.1 T7	8000/1
+#7	ICD-O-3.1 T3	8265/3
+#8	ICD-O-3.1 T6	8452/1
+#9	ICD-O-3.1 T5	8973/3
+#10	ICD-O-3.1 T8	8973/3
+#11	ICD-O-3.1 T9	8452/1
+#12	ICD-O-3.1 T11	8973/6
+#13	ICD-O-3.1 T10	8000/6
+#14	ICD-O-3.1 T12	8000/6
+#15	ICD-O-3.1 T13	8000/6
+#16	SNOMED T2	1240414004
+#17	SNOMED T15	1240414004
+#18	SNOMED T14	14799000
+#19	SNOMED T1	1240414004
+#20	SNOMED T4	14799000
+#21	SNOMED T7	86251006
+#22	SNOMED T3	450895005
+#23	SNOMED T6	27078002
+#24	SNOMED T5	707670009
+#25	SNOMED T8	707670009
+#26	SNOMED T9	27078002
+#27	SNOMED T10	14799000
+#28	SNOMED T12	14799000
+#29	SNOMED T13	14799000

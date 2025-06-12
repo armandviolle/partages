@@ -1,0 +1,42 @@
+T1	morphology-onco 55 61	cancer
+T2	morphology-onco 473 510	lésion lytique expansive de la hanche
+T3	morphology-onco 536 542	tumeur
+T4	morphology-onco 778 832	lymphadénopathie axillaire gauche et supraclaviculaire
+T5	morphology-onco 1108 1122	lésion cutanée
+T6	morphology-onco 1150 1195	carcinome canalaire infiltrant (CDI), grade 3
+T7	morphology-onco 1182 1185	CDI
+T8	morphology-onco 1263 1288	métastases d'un carcinome
+T9	morphology-onco 1333 1347	lésion cutanée
+T10	morphology-onco 1406 1439	lymphadénopathie sus-claviculaire
+T11	morphology-onco 1681 1728	implants/adénopathies probables dans l'épiploon
+T12	morphology-onco 1734 1762	lésions lytiques dans les os
+T13	morphology-onco 2071 2117	cancer du sein bilatéral synchrone, de grade 3
+T14	morphology-onco 2166 2176	métastases
+#1	ICD-O-3.1 T7	8500/3
+#2	ICD-O-3.1 T10	8000/6
+#3	ICD-O-3.1 T1	8000/3
+#4	ICD-O-3.1 T5	8000/6
+#5	ICD-O-3.1 T9	8000/6
+#6	ICD-O-3.1 T14	8000/6
+#7	ICD-O-3.1 T8	8010/6
+#8	ICD-O-3.1 T3	8000/1
+#9	ICD-O-3.1 T2	8000/6
+#10	ICD-O-3.1 T4	8000/6
+#11	ICD-O-3.1 T6	8500/33
+#12	ICD-O-3.1 T11	8000/6
+#13	ICD-O-3.1 T12	8000/6
+#14	ICD-O-3.1 T13	8500/33
+#15	SNOMED T7	58477004
+#16	SNOMED T10	14799000
+#17	SNOMED T1	1240414004
+#18	SNOMED T5	14799000
+#19	SNOMED T9	14799000
+#20	SNOMED T14	14799000
+#21	SNOMED T8	79282002
+#22	SNOMED T3	86251006
+#23	SNOMED T2	14799000
+#24	SNOMED T4	14799000
+#25	SNOMED T6	58477004
+#26	SNOMED T11	14799000
+#27	SNOMED T12	14799000
+#28	SNOMED T13	58477004

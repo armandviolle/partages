@@ -1,0 +1,66 @@
+T1	morphology-onco 2003 2011	tumorale
+T2	morphology-onco 2111 2120	tumorales
+T3	morphology-onco 2202 2212	métastases
+T4	morphology-onco 2228 2236	tumorale
+T5	morphology-onco 2355 2381	hépatocarcinome multifocal
+T6	morphology-onco 2401 2417	tumeur germinale
+T7	morphology-onco 2450 2460	métastases
+T8	morphology-onco 2486 2496	métastases
+T9	morphology-onco 2540 2548	mélanome
+T10	morphology-onco 2679 2685	tumeur
+T11	morphology-onco 2726 2734	tumorale
+T12	morphology-onco 2930 2936	tumeur
+T13	morphology-onco 3115 3133	cholangiocarcinome
+T14	morphology-onco 3154 3164	métastases
+T15	morphology-onco 3317 3398	néoplasme qui adopte un modèle de croissance infiltrative papillaire et tubulaire
+T16	morphology-onco 4008 4053	tumeur endométrioïde de la vésicule vitelline
+T17	morphology-onco 4088 4126	tumeur germinale du sinus endodermique
+T18	morphology-onco 4143 4165	tumeur du sac vitellin
+T19	morphology-onco 4223 4229	tumeur
+T20	morphology-onco 4284 4290	tumeur
+T21	morphology-onco 5271 5278	maligne
+T22	morphology-onco 5298 5309	néoplasique
+#1	ICD-O-3.1 T13	8160/3
+#2	ICD-O-3.1 T21	8000/3
+#3	ICD-O-3.1 T9	8720/3
+#4	ICD-O-3.1 T3	8000/6
+#5	ICD-O-3.1 T8	8000/6
+#6	ICD-O-3.1 T7	8000/6
+#7	ICD-O-3.1 T14	8000/6
+#8	ICD-O-3.1 T22	8000/1
+#9	ICD-O-3.1 T12	8000/1
+#10	ICD-O-3.1 T11	8000/1
+#11	ICD-O-3.1 T19	8000/1
+#12	ICD-O-3.1 T20	8000/1
+#13	ICD-O-3.1 T6	9064/3
+#14	ICD-O-3.1 T1	8000/1
+#15	ICD-O-3.1 T10	8000/1
+#16	ICD-O-3.1 T2	8000/1
+#17	ICD-O-3.1 T4	8000/1
+#18	ICD-O-3.1 T5	8170/3/H
+#19	ICD-O-3.1 T16	9071/3/H
+#20	ICD-O-3.1 T17	9071/3
+#21	ICD-O-3.1 T18	9071/3
+#22	ICD-O-3.1 T15	8000/3/H
+#23	SNOMED T13	312104005
+#24	SNOMED T21	1240414004
+#25	SNOMED T9	1162635006
+#26	SNOMED T3	14799000
+#27	SNOMED T8	14799000
+#28	SNOMED T7	14799000
+#29	SNOMED T14	14799000
+#30	SNOMED T22	86251006
+#31	SNOMED T12	86251006
+#32	SNOMED T11	86251006
+#33	SNOMED T19	86251006
+#34	SNOMED T20	86251006
+#35	SNOMED T6	28307001
+#36	SNOMED T1	86251006
+#37	SNOMED T10	86251006
+#38	SNOMED T2	86251006
+#39	SNOMED T4	86251006
+#40	SNOMED T5	1186630006
+#41	SNOMED T16	74409009
+#42	SNOMED T17	74409009
+#43	SNOMED T18	74409009
+#44	SNOMED T15	1240414004

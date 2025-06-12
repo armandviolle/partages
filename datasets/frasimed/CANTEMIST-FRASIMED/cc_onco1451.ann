@@ -1,0 +1,39 @@
+T1	morphology-onco 874 883	malignité
+T2	morphology-onco 971 1029	mélanome malin type histologique d'extension superficielle
+T3	morphology-onco 1556 1574	maladie à distance
+T4	morphology-onco 1578 1587	néoplasme
+T5	morphology-onco 1816 1825	néoplasie
+T6	morphology-onco 1940 1954	micrométastase
+T7	morphology-onco 2002 2016	Mélanome malin
+T8	morphology-onco 2034 2036	M0
+T9	morphology-onco 2258 2272	nævus pigmenté
+T10	morphology-onco 2421 2439	naevus jonctionnel
+T11	morphology-onco 2454 2463	malignité
+T12	morphology-onco 2610 2624	mélanome malin
+T13	morphology-onco 3642 3655	métastatiques
+#1	ICD-O-3.1 T8	8000/6
+#2	ICD-O-3.1 T7	8720/3
+#3	ICD-O-3.1 T3	8000/6
+#4	ICD-O-3.1 T1	8000/3
+#5	ICD-O-3.1 T11	8000/3
+#6	ICD-O-3.1 T12	8720/3
+#7	ICD-O-3.1 T13	8000/6
+#8	ICD-O-3.1 T6	8000/6
+#9	ICD-O-3.1 T4	8000/1
+#10	ICD-O-3.1 T5	8000/1
+#11	ICD-O-3.1 T2	8743/3
+#12	ICD-O-3.1 T9	8720/0
+#13	ICD-O-3.1 T10	8740/0
+#14	SNOMED T8	14799000
+#15	SNOMED T7	1162635006
+#16	SNOMED T3	14799000
+#17	SNOMED T1	1240414004
+#18	SNOMED T11	1240414004
+#19	SNOMED T12	1162635006
+#20	SNOMED T13	14799000
+#21	SNOMED T6	14799000
+#22	SNOMED T4	86251006
+#23	SNOMED T5	86251006
+#24	SNOMED T2	55320002
+#25	SNOMED T9	400010006
+#26	SNOMED T10	30494009

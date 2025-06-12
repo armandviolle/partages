@@ -1,0 +1,12 @@
+T1	disease 46 138	adénocarcinome modérément différencié implanté sur un segment court de l'œsophage de Barrett
+T2	disease 209 233	reflux gastro-œsophagien
+T3	disease 690 735	rétention abondante dans le conduit gastrique
+T4	disease 742 766	pylore nettement sténosé
+T5	disease 1089 1134	arrêt presque complet et persistant du pylore
+T6	disease 2184 2195	perforation
+#1	SNOMED T1	721617001
+#2	SNOMED T3	307227006
+#3	SNOMED T4	367403001
+#4	SNOMED T2	235595009
+#5	SNOMED T6	36191001
+#6	SNOMED T5	244815007

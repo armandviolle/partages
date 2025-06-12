@@ -1,0 +1,20 @@
+T1	disease 206 219	cas de grippe
+T2	disease 495 567	lésions confluentes blanc grisâtre dans le pôle postérieur des deux yeux
+T3	disease 674 678	AMPE
+T4	disease 932 939	lésions
+T5	disease 1484 1505	vascularite cérébrale
+T6	disease 1662 1673	vascularite
+T7	disease 1902 1929	diplopie en vision éloignée
+T8	disease 1953 1992	paralysie du sixième nerf crânien droit
+T9	disease 2211 2219	diplopie
+T10	disease 2248 2256	diplopie
+#1	SNOMED T10	24982008
+#2	SNOMED T7	24982008
+#3	SNOMED T5	427020007
+#4	SNOMED T8	398760006
+#5	SNOMED T1	6142004
+#6	SNOMED T6	31996006
+#7	SNOMED T9	24982008
+#8	SNOMED T3	89188001
+#9	SNOMED T2	262756006
+#10	SNOMED T4	157670007

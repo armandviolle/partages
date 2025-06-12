@@ -1,0 +1,66 @@
+T1	morphology-onco 323 337	adénocarcinome
+T2	morphology-onco 444 462	lésions hépatiques
+T3	morphology-onco 484 494	métastases
+T4	morphology-onco 544 553	néoplasie
+T5	morphology-onco 1310 1318	malignes
+T6	morphology-onco 1330 1363	carcinome canalaire infiltrant G1
+T7	morphology-onco 1521 1530	néoplasie
+T8	morphology-onco 1541 1550	Néoplasie
+T9	morphology-onco 1641 1667	Lésions hépatiques focales
+T10	morphology-onco 1808 1822	adénocarcinome
+T11	morphology-onco 1836 1878	Adénocarcinome sténosant du sigma cT3cN2M1
+T12	morphology-onco 1900 1902	M1
+T13	morphology-onco 1905 1935	Carcinome canalaire infiltrant
+T14	morphology-onco 1944 1951	cT1N0M0
+T15	morphology-onco 2113 2127	adénocarcinome
+T16	morphology-onco 2215 2258	carcinome canalaire infiltrant de 1,2 cm G1
+T17	morphology-onco 2463 2481	lésions hépatiques
+T18	morphology-onco 2536 2589	hépatocarcinome multicentrique modérément différencié
+T19	morphology-onco 2824 2833	carcinome
+T20	morphology-onco 2876 2892	lésion hépatique
+T21	morphology-onco 2924 2939	hépatocarcinome
+T22	morphology-onco 3591 3606	hépatocarcinome
+#1	ICD-O-3.1 T13	8500/3
+#2	ICD-O-3.1 T9	8000/6
+#3	ICD-O-3.1 T12	8000/6
+#4	ICD-O-3.1 T8	8000/1
+#5	ICD-O-3.1 T1	8140/3
+#6	ICD-O-3.1 T10	8140/3
+#7	ICD-O-3.1 T15	8140/3
+#8	ICD-O-3.1 T14	8000/6
+#9	ICD-O-3.1 T19	8010/3
+#10	ICD-O-3.1 T21	8170/3
+#11	ICD-O-3.1 T22	8170/3
+#12	ICD-O-3.1 T2	8000/6
+#13	ICD-O-3.1 T17	8000/6
+#14	ICD-O-3.1 T20	8000/6
+#15	ICD-O-3.1 T5	8000/3
+#16	ICD-O-3.1 T3	8000/6
+#17	ICD-O-3.1 T4	8000/1
+#18	ICD-O-3.1 T7	8000/1
+#19	ICD-O-3.1 T6	8500/31
+#20	ICD-O-3.1 T11	8140/6
+#21	ICD-O-3.1 T16	8500/31
+#22	ICD-O-3.1 T18	8170/32/H
+#23	SNOMED T13	58477004
+#24	SNOMED T9	14799000
+#25	SNOMED T12	14799000
+#26	SNOMED T8	86251006
+#27	SNOMED T1	1187332001
+#28	SNOMED T10	1187332001
+#29	SNOMED T15	1187332001
+#30	SNOMED T14	14799000
+#31	SNOMED T19	1187425009
+#32	SNOMED T21	1186630006
+#33	SNOMED T22	1186630006
+#34	SNOMED T2	14799000
+#35	SNOMED T17	14799000
+#36	SNOMED T20	14799000
+#37	SNOMED T5	1240414004
+#38	SNOMED T3	14799000
+#39	SNOMED T4	86251006
+#40	SNOMED T7	86251006
+#41	SNOMED T6	58477004
+#42	SNOMED T11	4590003
+#43	SNOMED T16	58477004
+#44	SNOMED T18	1186630006

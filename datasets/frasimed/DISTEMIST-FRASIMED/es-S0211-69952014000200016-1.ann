@@ -1,0 +1,10 @@
+T1	disease 67 84	anémie ferriprive
+T2	disease 187 193	anémie
+T3	disease 323 353	réaction post-transfusionnelle
+T4	disease 914 1005	anémie hémolytique intravasculaire d'origine auto-immune due à une incompatibilité sanguine
+T5	disease 1474 1480	anémie
+#1	SNOMED T1	87522002
+#2	SNOMED T2	271737000
+#3	SNOMED T3	82545002
+#4	SNOMED T5	271737000
+#5	SNOMED T4	413603009

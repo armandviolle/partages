@@ -1,0 +1,19 @@
+T1	disease 104 113	angiodème
+T2	disease 305 318	splénomégalie
+T3	disease 326 339	hépatomégalie
+T4	disease 898 908	hydatidose
+T5	disease 930 940	fasciolose
+T6	disease 946 954	amibiase
+T7	disease 913 925	leishmaniose
+T8	disease 1213 1232	hépatique chronique
+T9	disease 1240 1253	splénomégalie
+T10	disease 1282 1312	varices dans le hile splénique
+T11	disease 1370 1408	varices de grade II/IV dans l'œsophage
+T12	disease 1416 1450	muqueuse gastrique très congestive
+T13	disease 1518 1566	varices pseudotumorales dans le cardia gastrique
+T14	disease 1612 1651	rectite pétéchiale avec un petit polype
+T15	disease 1716 1796	rectales a révélé un infiltrat inflammatoire mixte avec formation d'abcès focaux
+T16	disease 2130 2166	schistosomiase avec atteinte rectale
+T17	disease 2130 2179	schistosomiase avec atteinte rectale et hépatique
+T18	disease 2562 2588	varices œsophagogastriques
+T19	disease 2629 2648	hépatique chronique

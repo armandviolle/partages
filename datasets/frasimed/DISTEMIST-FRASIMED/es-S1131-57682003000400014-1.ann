@@ -1,0 +1,18 @@
+T1	disease 210 226	pharyngite aiguë
+T2	disease 484 530	lésion sur le bord latéral gauche de la langue
+T3	disease 554 653	lésion ulcérée, de couleur blanchâtre, d'environ 1 cm de diamètre, sur le bord latéral de la langue
+T4	disease 693 709	lymphadénopathie
+T5	disease 719 738	lésion oropharyngée
+T6	disease 798 813	aphteux lingual
+T7	disease 1068 1083	état infectieux
+T8	disease 1200 1221	carcinome épidermoïde
+T9	disease 1630 1668	carcinome épidermoïde bien différencié
+#1	SNOMED T1	363746003
+#2	SNOMED T2	126778001
+#3	SNOMED T3	66123000
+#4	SNOMED T4	30746006
+#5	SNOMED T6	66123000
+#6	SNOMED T8	402815007
+#7	SNOMED T9	402815007
+#8	SNOMED T7	40733004
+#9	SNOMED T5	33431000119109

@@ -1,0 +1,63 @@
+T1	morphology-onco 207 232	grosseur sus-claviculaire
+T2	morphology-onco 579 585	tumeur
+T3	morphology-onco 1063 1083	carcinome infiltrant
+T4	morphology-onco 1176 1188	métastatique
+T5	morphology-onco 1421 1444	carcinome inflammatoire
+T6	morphology-onco 1476 1486	métastases
+T7	morphology-onco 1494 1504	métastases
+T8	morphology-onco 1666 1686	carcinome infiltrant
+T9	morphology-onco 1776 1786	métastases
+T10	morphology-onco 2043 2053	léthargies
+T11	morphology-onco 2963 3005	progression locale dans le sein, le poumon
+T12	morphology-onco 3044 3062	maladie disséminée
+T13	morphology-onco 3231 3249	progression du SNC
+T14	morphology-onco 3256 3281	une seule lésion frontale
+T15	morphology-onco 3371 3380	métastase
+T16	morphology-onco 3444 3456	métastatique
+T17	morphology-onco 3467 3498	maladie stable au niveau osseux
+T18	morphology-onco 3502 3515	CR pulmonaire
+T19	morphology-onco 3607 3615	tumorale
+T20	morphology-onco 3999 4020	CR osseuse, hépatique
+T21	morphology-onco 4040 4069	progression lente dans le SNC
+#1	ICD-O-3.1 T3	8010/3/H
+#2	ICD-O-3.1 T8	8010/3/H
+#3	ICD-O-3.1 T5	8530/3
+#4	ICD-O-3.1 T12	8000/6
+#5	ICD-O-3.1 T10	8000/6
+#6	ICD-O-3.1 T4	8000/6
+#7	ICD-O-3.1 T16	8000/6
+#8	ICD-O-3.1 T7	8000/6
+#9	ICD-O-3.1 T6	8000/6
+#10	ICD-O-3.1 T9	8000/6
+#11	ICD-O-3.1 T15	8000/6
+#12	ICD-O-3.1 T2	8000/1
+#13	ICD-O-3.1 T19	8000/1
+#14	ICD-O-3.1 T1	8000/6
+#15	ICD-O-3.1 T11	8000/6
+#16	ICD-O-3.1 T13	8000/6
+#17	ICD-O-3.1 T14	8000/6
+#18	ICD-O-3.1 T17	8000/6
+#19	ICD-O-3.1 T20	8000/6
+#20	ICD-O-3.1 T21	8000/6
+#21	ICD-O-3.1 T18	8000/6
+#22	SNOMED T3	1187425009
+#23	SNOMED T8	1187425009
+#24	SNOMED T5	32968003
+#25	SNOMED T12	14799000
+#26	SNOMED T10	14799000
+#27	SNOMED T4	14799000
+#28	SNOMED T16	14799000
+#29	SNOMED T7	14799000
+#30	SNOMED T6	14799000
+#31	SNOMED T9	14799000
+#32	SNOMED T15	14799000
+#33	SNOMED T2	86251006
+#34	SNOMED T19	86251006
+#35	SNOMED T1	14799000
+#36	SNOMED T11	14799000
+#37	SNOMED T13	14799000
+#38	SNOMED T14	14799000
+#39	SNOMED T17	14799000
+#40	SNOMED T20	14799000
+#41	SNOMED T21	14799000
+#42	SNOMED T18	14799000

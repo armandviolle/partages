@@ -1,0 +1,30 @@
+T1	morphology-onco 372 385	neuroblastome
+T2	morphology-onco 1590 1620	adénocarcinome peu différencié
+T3	morphology-onco 1994 2004	métastases
+T4	morphology-onco 2218 2252	adénocarcinome pulmonaire cT3N2M1b
+T5	morphology-onco 2965 2994	maladie pulmonaire, hépatique
+T6	morphology-onco 4452 4470	lésions hépatiques
+T7	morphology-onco 5411 5424	métastatiques
+T8	morphology-onco 5474 5490	lésions osseuses
+T9	morphology-onco 5905 5933	carcinome à petites cellules
+T10	morphology-onco 6982 7004	progression systémique
+#1	ICD-O-3.1 T9	8041/3
+#2	ICD-O-3.1 T7	8000/6
+#3	ICD-O-3.1 T3	8000/6
+#4	ICD-O-3.1 T1	9500/3
+#5	ICD-O-3.1 T2	8140/33
+#6	ICD-O-3.1 T4	8140/6
+#7	ICD-O-3.1 T5	8000/6
+#8	ICD-O-3.1 T8	8000/6
+#9	ICD-O-3.1 T10	8000/6
+#10	ICD-O-3.1 T6	8000/6
+#11	SNOMED T9	11010461000119101
+#12	SNOMED T7	14799000
+#13	SNOMED T3	14799000
+#14	SNOMED T1	432328008
+#15	SNOMED T2	1187332001
+#16	SNOMED T4	4590003
+#17	SNOMED T5	14799000
+#18	SNOMED T8	14799000
+#19	SNOMED T10	14799000
+#20	SNOMED T6	14799000

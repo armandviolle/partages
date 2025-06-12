@@ -1,0 +1,18 @@
+T1	disease 513 552	Pas d'allergies connues aux médicaments
+T2	disease 659 676	maladie de Berger
+T3	disease 943 959	lésions cutanées
+T4	disease 969 998	adénopathies submandibulaires
+T5	disease 1109 1123	viscéromégalie
+T6	disease 1855 1874	insuffisance rénale
+T7	disease 2178 2214	insuffisance rénale légère à modérée
+T8	disease 2274 2334	néphrite tubulo-interstitielle avec atteinte tubulaire aiguë
+T9	disease 2365 2385	processus infectieux
+#1	SNOMED T7	723188008
+#2	SNOMED T6	723188008
+#3	SNOMED T8	428255004+35455006
+#4	SNOMED T3	95324001
+#5	SNOMED T4	127084003
+#6	SNOMED T2	68779003
+#7	SNOMED T1	416098002
+#8	SNOMED T5	28543008
+#9	SNOMED T9	40733004

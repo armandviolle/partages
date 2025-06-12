@@ -1,0 +1,44 @@
+T1	morphology-onco 109 117	grosseur
+T2	morphology-onco 276 283	bénigne
+T3	morphology-onco 431 449	fibroadénome géant
+T4	morphology-onco 456 477	cystosarcome phyloïde
+T5	morphology-onco 560 580	carcinome infiltrant
+T6	morphology-onco 674 740	carcinome canalaire infiltrant avec une différenciation de grade 3
+T7	morphology-onco 1525 1544	lésions pulmonaires
+T8	morphology-onco 1609 1618	métastase
+T9	morphology-onco 1672 1740	Carcinome canalaire infiltrant du sein droit, grade 3, pT2N1(2/16)M1
+T10	morphology-onco 2050 2069	nodules pulmonaires
+T11	morphology-onco 2478 2487	métastase
+T12	morphology-onco 3158 3164	cancer
+T13	morphology-onco 3320 3361	carcinome canalaire infiltrant de grade 2
+T14	morphology-onco 3891 3944	lésion précédemment décrite dans la région occipitale
+T15	morphology-onco 4272 4289	lésion occipitale
+#1	ICD-O-3.1 T2	8000/0
+#2	ICD-O-3.1 T13	8500/32
+#3	ICD-O-3.1 T6	8500/33
+#4	ICD-O-3.1 T5	8010/3/H
+#5	ICD-O-3.1 T12	8000/3
+#6	ICD-O-3.1 T7	8000/6
+#7	ICD-O-3.1 T15	8000/6
+#8	ICD-O-3.1 T8	8000/6
+#9	ICD-O-3.1 T11	8000/6
+#10	ICD-O-3.1 T10	8000/6
+#11	ICD-O-3.1 T1	8000/1
+#12	ICD-O-3.1 T3	9016/0
+#13	ICD-O-3.1 T4	9020/1
+#14	ICD-O-3.1 T9	8500/63
+#15	ICD-O-3.1 T14	8000/6
+#16	SNOMED T2	3898006
+#17	SNOMED T13	58477004
+#18	SNOMED T6	58477004
+#19	SNOMED T5	1187425009
+#20	SNOMED T12	1240414004
+#21	SNOMED T7	14799000
+#22	SNOMED T15	14799000
+#23	SNOMED T8	14799000
+#24	SNOMED T11	14799000
+#25	SNOMED T10	14799000
+#26	SNOMED T1	86251006
+#27	SNOMED T3	34882000
+#28	SNOMED T4	71232009
+#29	SNOMED T14	14799000

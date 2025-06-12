@@ -1,0 +1,4 @@
+T1	disease 360 387	érosion de la racine nasale
+T2	disease 488 520	dislocation traumatique de l'ATM
+#1	SNOMED T2	81629009
+#2	SNOMED T1	301191003

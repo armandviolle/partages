@@ -1,0 +1,27 @@
+T1	morphology-onco 1488 1497	métastase
+T2	morphology-onco 1510 1518	lymphome
+T3	morphology-onco 1525 1533	mélanome
+T4	morphology-onco 1801 1816	néoplasme malin
+T5	morphology-onco 2438 2499	néoplasme des cellules dendritiques plasmacytoïdes blastiques
+T6	morphology-onco 2591 2599	leucémie
+T7	morphology-onco 2600 2632	lymphome à cellules dendritiques
+T8	morphology-onco 2684 2744	Néoplasme blastique des cellules dendritiques plasmacytoïdes
+T9	morphology-onco 2746 2751	BPDCN
+#1	ICD-O-3.1 T2	9590/3
+#2	ICD-O-3.1 T3	8720/3
+#3	ICD-O-3.1 T1	8000/6
+#4	ICD-O-3.1 T4	8000/3
+#5	ICD-O-3.1 T5	9727/3
+#6	ICD-O-3.1 T7	9727/3
+#7	ICD-O-3.1 T6	9800/3
+#8	ICD-O-3.1 T8	9727/3
+#9	ICD-O-3.1 T9	9727/3
+#10	SNOMED T2	1163043007
+#11	SNOMED T3	1162635006
+#12	SNOMED T1	14799000
+#13	SNOMED T4	1240414004
+#14	SNOMED T5	1217301006
+#15	SNOMED T7	1217301006
+#16	SNOMED T6	1162768007
+#17	SNOMED T8	1217301006
+#18	SNOMED T9	1217301006

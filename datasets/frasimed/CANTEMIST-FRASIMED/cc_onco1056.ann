@@ -1,0 +1,53 @@
+T1	morphology-onco 1939 1951	sarcomateuse
+T2	morphology-onco 1998 2004	tumeur
+T3	morphology-onco 2150 2164	léiomyosarcome
+T4	morphology-onco 2256 2312	Tumeur maligne peu différenciée avec de petites cellules
+T5	morphology-onco 2787 2813	Tumeur épithéliale maligne
+T6	morphology-onco 2835 2849	Mélanome malin
+T7	morphology-onco 2881 2894	Leimiosarcome
+T8	morphology-onco 2896 2912	rhabdomyosarcome
+T9	morphology-onco 2946 2954	Lymphome
+T10	morphology-onco 2978 2996	Mésothéliome malin
+T11	morphology-onco 3058 3073	sarcome d'Ewing
+T12	morphology-onco 3095 3129	tumeur stromale gastro-intestinale
+T13	morphology-onco 3131 3135	GIST
+T14	morphology-onco 4492 4506	tumeur d'Ewing
+T15	morphology-onco 5457 5472	sarcome d'Ewing
+T16	morphology-onco 6240 6255	sarcome d'Ewing
+T17	morphology-onco 8163 8172	tumorales
+T18	morphology-onco 8333 8348	sarcome d'Ewing
+#1	ICD-O-3.1 T13	8936/3
+#2	ICD-O-3.1 T9	9590/3
+#3	ICD-O-3.1 T6	8720/3
+#4	ICD-O-3.1 T10	9050/3
+#5	ICD-O-3.1 T5	8010/3
+#6	ICD-O-3.1 T3	8890/3
+#7	ICD-O-3.1 T8	8900/3
+#8	ICD-O-3.1 T1	8800/1
+#9	ICD-O-3.1 T12	8936/3
+#10	ICD-O-3.1 T2	8000/1
+#11	ICD-O-3.1 T17	8000/1
+#12	ICD-O-3.1 T4	8002/33
+#13	ICD-O-3.1 T7	8890/3
+#14	ICD-O-3.1 T11	9260/3
+#15	ICD-O-3.1 T14	9260/3
+#16	ICD-O-3.1 T15	9260/3
+#17	ICD-O-3.1 T16	9260/3
+#18	ICD-O-3.1 T18	9260/3
+#19	SNOMED T13	128756002
+#20	SNOMED T9	1163043007
+#21	SNOMED T6	1162635006
+#22	SNOMED T10	109378008
+#23	SNOMED T5	1187425009
+#24	SNOMED T3	1163022006
+#25	SNOMED T8	30924005
+#26	SNOMED T12	128756002
+#27	SNOMED T2	86251006
+#28	SNOMED T17	86251006
+#29	SNOMED T4	82267002
+#30	SNOMED T7	1163022006
+#31	SNOMED T11	76909002
+#32	SNOMED T14	76909002
+#33	SNOMED T15	76909002
+#34	SNOMED T16	76909002
+#35	SNOMED T18	76909002

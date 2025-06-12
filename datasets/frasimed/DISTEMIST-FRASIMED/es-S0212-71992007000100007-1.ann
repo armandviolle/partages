@@ -1,0 +1,22 @@
+T1	disease 45 68	hypertension artérielle
+T2	disease 75 87	polyarthrose
+T3	disease 1810 1839	atélectasie du lobe inférieur
+T4	disease 1868 1887	épanchement pleural
+T5	disease 1941 1952	adénopathie
+T6	disease 2063 2082	épanchement pleural
+T7	disease 2108 2179	changements dégénératifs importants le long de la colonne dorsolombaire
+T8	disease 2199 2272	érosions dans les plateaux vertébraux adjacents à l'espace discal D10-D11
+T9	disease 2500 2535	spondylodiscite infectieuse D10-D11
+T10	disease 3769 3788	épanchement pleural
+T11	disease 4050 4072	bloc vertébral D10-D11
+#1	SNOMED T1	38341003
+#2	SNOMED T2	36186002
+#3	SNOMED T4	60046008
+#4	SNOMED T5	30746006
+#5	SNOMED T6	60046008
+#6	SNOMED T3	46621007
+#7	SNOMED T7	321341000119107
+#8	SNOMED T8	91240008
+#9	SNOMED T9	302935008
+#10	SNOMED T10	60046008
+#11	SNOMED T11	262523007

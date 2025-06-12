@@ -1,0 +1,30 @@
+T1	disease 61 142	insuffisance rénale chronique secondaire à une néphropathie tubulo-interstitielle
+T2	disease 108 142	néphropathie tubulo-interstitielle
+T3	disease 309 327	rejet humoral aigu
+T4	disease 347 379	rejet humoral et vasculaire aigu
+T5	disease 661 674	hypercalcémie
+T6	disease 682 699	hyperphosphatémie
+T7	disease 739 751	SHPTH sévère
+T8	disease 972 1010	hypertrophie de la glande parathyroïde
+T9	disease 1057 1075	hyperparathyroïdie
+T10	disease 1126 1172	CV dans les artères radiales et interdigitales
+T11	disease 1212 1244	VC linéaires dans les deux seins
+T12	disease 1556 1573	hyperphosphatémie
+T13	disease 2048 2060	hypocalcémie
+T14	disease 2437 2450	hypercalcémie
+T15	disease 2894 2934	calcifications de l'artère interdigitale
+#1	SNOMED T7	91478007
+#2	SNOMED T1	60926001
+#3	SNOMED T15	237897009
+#4	SNOMED T13	5291005
+#5	SNOMED T2	28689008
+#6	SNOMED T5	66931009
+#7	SNOMED T14	66931009
+#8	SNOMED T6	20165001
+#9	SNOMED T8	9092004
+#10	SNOMED T12	20165001
+#11	SNOMED T9	66999008
+#12	SNOMED T10	237897009
+#13	SNOMED T11	396779001
+#14	SNOMED T3	213148006
+#15	SNOMED T4	213148006

@@ -1,0 +1,38 @@
+T1	morphology-onco 12 28	rhabdomyosarcome
+T2	morphology-onco 37 43	tumeur
+T3	morphology-onco 780 786	cancer
+T4	morphology-onco 1735 1743	lymphome
+T5	morphology-onco 2011 2019	lymphome
+T6	morphology-onco 2206 2214	lymphome
+T7	morphology-onco 2598 2607	métastase
+T8	morphology-onco 2628 2652	tumeur à cellules rondes
+T9	morphology-onco 2705 2721	rhabdomyosarcome
+T10	morphology-onco 2852 2868	rhabdomyosarcome
+T11	morphology-onco 2935 2941	myxome
+T12	morphology-onco 2960 2968	lymphome
+T13	morphology-onco 4086 4093	tumeurs
+#1	ICD-O-3.1 T3	8000/3
+#2	ICD-O-3.1 T4	9590/3
+#3	ICD-O-3.1 T5	9590/3
+#4	ICD-O-3.1 T6	9590/3
+#5	ICD-O-3.1 T12	9590/3
+#6	ICD-O-3.1 T7	8000/6
+#7	ICD-O-3.1 T11	8840/0
+#8	ICD-O-3.1 T1	8900/3
+#9	ICD-O-3.1 T9	8900/3
+#10	ICD-O-3.1 T10	8900/3
+#11	ICD-O-3.1 T2	8000/1
+#12	ICD-O-3.1 T13	8000/1
+#13	ICD-O-3.1 T8	8041/1
+#14	SNOMED T3	1240414004
+#15	SNOMED T4	1163043007
+#16	SNOMED T5	1163043007
+#17	SNOMED T6	1163043007
+#18	SNOMED T12	1163043007
+#19	SNOMED T7	14799000
+#20	SNOMED T11	39143003
+#21	SNOMED T1	30924005
+#22	SNOMED T9	30924005
+#23	SNOMED T10	30924005
+#24	SNOMED T2	86251006
+#25	SNOMED T13	86251006

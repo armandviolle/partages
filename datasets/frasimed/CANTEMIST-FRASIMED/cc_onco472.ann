@@ -1,0 +1,24 @@
+T1	morphology-onco 236 242	cancer
+T2	morphology-onco 878 884	tumeur
+T3	morphology-onco 1255 1261	tumeur
+T4	morphology-onco 1647 1660	métastatiques
+T5	morphology-onco 1790 1796	tumeur
+T6	morphology-onco 1919 1956	adénocarcinome modérément différencié
+T7	morphology-onco 1919 2009	adénocarcinome modérément différencié, qui présentait un motif tubulovillaire à sa surface
+T8	morphology-onco 2902 2951	adénocarcinome modérément différencié de l'urètre
+#1	ICD-O-3.1 T6	8140/32
+#2	ICD-O-3.1 T1	8000/3
+#3	ICD-O-3.1 T4	8000/6
+#4	ICD-O-3.1 T2	8000/1
+#5	ICD-O-3.1 T3	8000/1
+#6	ICD-O-3.1 T5	8000/1
+#7	ICD-O-3.1 T7	8263/3
+#8	ICD-O-3.1 T8	8140/32
+#9	SNOMED T6	1187332001
+#10	SNOMED T1	1240414004
+#11	SNOMED T4	14799000
+#12	SNOMED T2	86251006
+#13	SNOMED T3	86251006
+#14	SNOMED T5	86251006
+#15	SNOMED T7	5658009
+#16	SNOMED T8	1187332001

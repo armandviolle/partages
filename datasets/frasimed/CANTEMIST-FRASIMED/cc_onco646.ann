@@ -1,0 +1,55 @@
+T1	morphology-onco 977 998	tumeur neuroendocrine
+T2	morphology-onco 1022 1053	glucagonome de stade IV (T3N0M1
+T3	morphology-onco 1286 1292	tumeur
+T4	morphology-onco 1513 1522	métastase
+T5	morphology-onco 1607 1613	tumeur
+T6	morphology-onco 1639 1657	lésions hépatiques
+T7	morphology-onco 1909 1965	tumeur neuroendocrine avec un grade de différenciation 2
+T8	morphology-onco 2637 2705	tumeur neuroendocrine de 4,2 cm, avec une différenciation de grade 2
+T9	morphology-onco 2726 2737	glucagonome
+T10	morphology-onco 2820 2845	métastatique de la tumeur
+T11	morphology-onco 3034 3041	tumoral
+T12	morphology-onco 3118 3128	métastases
+T13	morphology-onco 3293 3330	métastase de carcinome neuroendocrine
+T14	morphology-onco 4947 4955	tumorale
+T15	morphology-onco 5050 5062	métastatique
+T16	morphology-onco 5240 5284	nodules dans le tissu cellulaire sous-cutané
+T17	morphology-onco 5503 5509	tumeur
+T18	morphology-onco 5658 5669	glucagonome
+T19	morphology-onco 6094 6102	tumorale
+#1	ICD-O-3.1 T4	8000/6
+#2	ICD-O-3.1 T12	8000/6
+#3	ICD-O-3.1 T1	8240/3
+#4	ICD-O-3.1 T3	8000/1
+#5	ICD-O-3.1 T5	8000/1
+#6	ICD-O-3.1 T11	8000/1
+#7	ICD-O-3.1 T14	8000/1
+#8	ICD-O-3.1 T17	8000/1
+#9	ICD-O-3.1 T19	8000/1
+#10	ICD-O-3.1 T2	8152/6
+#11	ICD-O-3.1 T7	8249/3
+#12	ICD-O-3.1 T8	8249/3
+#13	ICD-O-3.1 T9	8152/1
+#14	ICD-O-3.1 T10	8000/6
+#15	ICD-O-3.1 T13	8246/6
+#16	ICD-O-3.1 T15	8000/6
+#17	ICD-O-3.1 T18	8152/1
+#18	ICD-O-3.1 T6	8000/6
+#19	ICD-O-3.1 T16	8000/6
+#20	SNOMED T4	14799000
+#21	SNOMED T12	14799000
+#22	SNOMED T1	189607006
+#23	SNOMED T3	86251006
+#24	SNOMED T5	86251006
+#25	SNOMED T11	86251006
+#26	SNOMED T14	86251006
+#27	SNOMED T17	86251006
+#28	SNOMED T19	86251006
+#29	SNOMED T7	1157139005
+#30	SNOMED T8	1157139005
+#31	SNOMED T9	128855009
+#32	SNOMED T10	14799000
+#33	SNOMED T15	14799000
+#34	SNOMED T18	128855009
+#35	SNOMED T6	14799000
+#36	SNOMED T16	14799000

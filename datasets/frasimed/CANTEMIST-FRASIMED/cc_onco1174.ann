@@ -1,0 +1,54 @@
+T1	morphology-onco 120 129	léiomyome
+T2	morphology-onco 552 557	myome
+T3	morphology-onco 710 715	myome
+T4	morphology-onco 744 758	léiomyosarcome
+T5	morphology-onco 767 772	myome
+T6	morphology-onco 1141 1155	Leiomyosarcome
+T7	morphology-onco 1299 1305	tumeur
+T8	morphology-onco 1612 1626	léiomyosarcome
+T9	morphology-onco 1722 1754	maladie résiduelle ou à distance
+T10	morphology-onco 2880 2887	sarcome
+T11	morphology-onco 3367 3381	LOE hépatiques
+T12	morphology-onco 3757 3767	métastases
+T13	morphology-onco 3959 3980	progression hépatique
+T14	morphology-onco 4167 4188	progression hépatique
+T15	morphology-onco 4402 4423	progression hépatique
+T16	morphology-onco 4509 4543	progressé massivement dans le foie
+T17	morphology-onco 4687 4724	progression médiastinale et hépatique
+T18	morphology-onco 4739 4756	lésions lombaires
+#1	ICD-O-3.1 T6	8890/3
+#2	ICD-O-3.1 T9	8000/6
+#3	ICD-O-3.1 T1	8890/0
+#4	ICD-O-3.1 T4	8890/3
+#5	ICD-O-3.1 T8	8890/3
+#6	ICD-O-3.1 T12	8000/6
+#7	ICD-O-3.1 T2	8895/0
+#8	ICD-O-3.1 T3	8895/0
+#9	ICD-O-3.1 T5	8895/0
+#10	ICD-O-3.1 T13	8000/6
+#11	ICD-O-3.1 T14	8000/6
+#12	ICD-O-3.1 T15	8000/6
+#13	ICD-O-3.1 T10	8800/3
+#14	ICD-O-3.1 T7	8000/1
+#15	ICD-O-3.1 T11	8000/6
+#16	ICD-O-3.1 T18	8000/6
+#17	ICD-O-3.1 T17	8000/6
+#18	ICD-O-3.1 T16	8000/6
+#19	SNOMED T6	1163022006
+#20	SNOMED T9	14799000
+#21	SNOMED T1	1187125003
+#22	SNOMED T4	1163022006
+#23	SNOMED T8	1163022006
+#24	SNOMED T12	14799000
+#25	SNOMED T2	1156875002
+#26	SNOMED T3	1156875002
+#27	SNOMED T5	1156875002
+#28	SNOMED T13	14799000
+#29	SNOMED T14	14799000
+#30	SNOMED T15	14799000
+#31	SNOMED T10	1187396000
+#32	SNOMED T7	86251006
+#33	SNOMED T11	14799000
+#34	SNOMED T18	14799000
+#35	SNOMED T17	14799000
+#36	SNOMED T16	14799000

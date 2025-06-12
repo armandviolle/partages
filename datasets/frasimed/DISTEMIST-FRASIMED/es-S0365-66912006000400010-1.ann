@@ -1,0 +1,28 @@
+T1	disease 113 132	sécheresse oculaire
+T2	disease 183 213	sécheresse cutanée généralisée
+T3	disease 217 226	anhidrose
+T4	disease 231 244	piosis cutané
+T5	disease 249 283	lésions cutanées hyperkératosiques
+T6	disease 288 309	perte du cuir chevelu
+T7	disease 313 332	absence de sourcils
+T8	disease 339 347	madarose
+T9	disease 552 591	néovascularisation cornéenne bilatérale
+T10	disease 675 718	kératopathie ponctuée superficielle diffuse
+T11	disease 1231 1245	kératoérythème
+T12	disease 1253 1274	surdité de perception
+T13	disease 1317 1329	syndrome KID
+T14	disease 1523 1535	syndrome KID
+#1	SNOMED T3	39659002
+#2	SNOMED T7	422441003
+#3	SNOMED T8	34887006
+#4	SNOMED T9	346481000119100
+#5	SNOMED T10	42513006
+#6	SNOMED T11	26996000
+#7	SNOMED T12	60700002
+#8	SNOMED T13	239059004
+#9	SNOMED T14	239059004
+#10	SNOMED T5	707209001
+#11	SNOMED T1	162290004
+#12	SNOMED T4	106076001
+#13	SNOMED T6	238922006
+#14	SNOMED T2	16386004

@@ -1,0 +1,48 @@
+T1	morphology-onco 295 304	néoplasie
+T2	morphology-onco 353 362	néoplasie
+T3	morphology-onco 1851 1863	néoformation
+T4	morphology-onco 2186 2241	adénocarcinome tubulo-papillaire modérément différencié
+T5	morphology-onco 2535 2544	malignité
+T6	morphology-onco 2986 2992	tumeur
+T7	morphology-onco 3130 3137	maligne
+T8	morphology-onco 3460 3477	cellules malignes
+T9	morphology-onco 3880 3905	adénocarcinome infiltrant
+T10	morphology-onco 4075 4099	dissémination à distance
+T11	morphology-onco 4130 4175	adénopathie hypercapillaire supraclaviculaire
+T12	morphology-onco 4252 4261	malignité
+T13	morphology-onco 5029 5042	péritumorales
+T14	morphology-onco 5365 5374	malignité
+T15	morphology-onco 5950 5959	malignité
+T16	morphology-onco 5984 5992	tumorale
+#1	ICD-O-3.1 T9	8140/3/H
+#2	ICD-O-3.1 T11	8000/6
+#3	ICD-O-3.1 T8	8001/3
+#4	ICD-O-3.1 T10	8000/6
+#5	ICD-O-3.1 T5	8000/3
+#6	ICD-O-3.1 T7	8000/3
+#7	ICD-O-3.1 T12	8000/3
+#8	ICD-O-3.1 T14	8000/3
+#9	ICD-O-3.1 T15	8000/3
+#10	ICD-O-3.1 T3	8000/1
+#11	ICD-O-3.1 T2	8000/1
+#12	ICD-O-3.1 T1	8000/1
+#13	ICD-O-3.1 T13	8000/1
+#14	ICD-O-3.1 T6	8000/1
+#15	ICD-O-3.1 T16	8000/1
+#16	ICD-O-3.1 T4	8263/32
+#17	SNOMED T9	1187332001
+#18	SNOMED T11	14799000
+#19	SNOMED T8	88400008
+#20	SNOMED T10	14799000
+#21	SNOMED T5	1240414004
+#22	SNOMED T7	1240414004
+#23	SNOMED T12	1240414004
+#24	SNOMED T14	1240414004
+#25	SNOMED T15	1240414004
+#26	SNOMED T3	86251006
+#27	SNOMED T2	86251006
+#28	SNOMED T1	86251006
+#29	SNOMED T13	86251006
+#30	SNOMED T6	86251006
+#31	SNOMED T16	86251006
+#32	SNOMED T4	5658009

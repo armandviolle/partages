@@ -1,0 +1,10 @@
+T1	disease 157 168	traumatisme
+T2	disease 966 1017	région costale droite a été signalé comme un lipome
+T3	disease 1129 1217	lésion a été observée fermement attachée au fascia du muscle frontalis et au péricranium
+T4	disease 1746 1762	lésion nodulaire
+T5	disease 2394 2448	néoplasie bénigne d'origine mésenchymateuse de type FN
+#1	SNOMED T5	703616008
+#2	SNOMED T3	26077002+118934005
+#3	SNOMED T2	448270009
+#4	SNOMED T1	417746004
+#5	SNOMED T4	27925004

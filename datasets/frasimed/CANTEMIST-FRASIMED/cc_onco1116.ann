@@ -1,0 +1,18 @@
+T1	morphology-onco 88 94	cancer
+T2	morphology-onco 117 123	cancer
+T3	morphology-onco 396 402	tumeur
+T4	morphology-onco 864 870	tumeur
+T5	morphology-onco 1644 1670	angiosarcome de haut grade
+T6	morphology-onco 1684 1710	Angiosarcome de haut grade
+#1	ICD-O-3.1 T6	9120/34
+#2	ICD-O-3.1 T5	9120/34
+#3	ICD-O-3.1 T1	8000/3
+#4	ICD-O-3.1 T2	8000/3
+#5	ICD-O-3.1 T3	8000/1
+#6	ICD-O-3.1 T4	8000/1
+#7	SNOMED T6	39000009
+#8	SNOMED T5	39000009
+#9	SNOMED T1	1240414004
+#10	SNOMED T2	1240414004
+#11	SNOMED T3	86251006
+#12	SNOMED T4	86251006

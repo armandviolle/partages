@@ -1,0 +1,26 @@
+T1	disease 60 66	uvéite
+T2	disease 175 187	myodésopsies
+T3	disease 194 209	métamorphopsies
+T4	disease 252 277	hémorragie intracrânienne
+T5	disease 692 732	membrane épimaculaire dans les deux yeux
+T6	disease 749 769	vasculite rétinienne
+T7	disease 878 899	membrane épimaculaire
+T8	disease 905 925	uvéite intermédiaire
+T9	disease 1155 1162	vitrite
+T10	disease 1381 1387	uvéite
+T11	disease 1397 1451	myélopathie idiopathique avec hyperréflexie patellaire
+T12	disease 1839 1870	paraparésie spastique tropicale
+T13	disease 1876 1910	uvéite intermédiaire due au HTLV-1
+#1	SNOMED T1	128473001
+#2	SNOMED T10	128473001
+#3	SNOMED T11	48522003
+#4	SNOMED T9	95802009
+#5	SNOMED T3	42134006
+#6	SNOMED T5	367649002
+#7	SNOMED T4	1386000
+#8	SNOMED T6	77628002
+#9	SNOMED T7	367649002
+#10	SNOMED T8	314429009
+#11	SNOMED T12	714279000
+#12	SNOMED T13	314429009
+#13	SNOMED T2	15013002

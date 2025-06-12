@@ -1,0 +1,54 @@
+T1	morphology-onco 229 237	mélanome
+T2	morphology-onco 556 564	mélanome
+T3	morphology-onco 866 875	malignité
+T4	morphology-onco 1101 1119	lésions hépatiques
+T5	morphology-onco 1133 1151	maladie secondaire
+T6	morphology-onco 1216 1234	lésions hépatiques
+T7	morphology-onco 1357 1368	néoplasique
+T8	morphology-onco 3526 3538	métastatique
+T9	morphology-onco 3802 3824	métastases de mélanome
+T10	morphology-onco 4040 4050	métastases
+T11	morphology-onco 4099 4115	lésions osseuses
+T12	morphology-onco 4609 4619	métastases
+T13	morphology-onco 4657 4666	métastase
+T14	morphology-onco 4707 4753	lésions hypermétaboliques focales dans la rate
+T15	morphology-onco 5201 5218	maladie hépatique
+T16	morphology-onco 5278 5298	implants péritonéaux
+T17	morphology-onco 6469 6486	maladie hépatique
+T18	morphology-onco 6613 6631	lésions hépatiques
+#1	ICD-O-3.1 T3	8000/3
+#2	ICD-O-3.1 T1	8720/3
+#3	ICD-O-3.1 T2	8720/3
+#4	ICD-O-3.1 T8	8000/6
+#5	ICD-O-3.1 T10	8000/6
+#6	ICD-O-3.1 T12	8000/6
+#7	ICD-O-3.1 T9	8720/6
+#8	ICD-O-3.1 T5	8000/6
+#9	ICD-O-3.1 T7	8000/1
+#10	ICD-O-3.1 T13	8000/6
+#11	ICD-O-3.1 T15	8000/6
+#12	ICD-O-3.1 T16	8000/6
+#13	ICD-O-3.1 T17	8000/6
+#14	ICD-O-3.1 T4	8000/6
+#15	ICD-O-3.1 T6	8000/6
+#16	ICD-O-3.1 T18	8000/6
+#17	ICD-O-3.1 T11	8000/6
+#18	ICD-O-3.1 T14	8000/6
+#19	SNOMED T3	1240414004
+#20	SNOMED T1	1162635006
+#21	SNOMED T2	1162635006
+#22	SNOMED T8	14799000
+#23	SNOMED T10	14799000
+#24	SNOMED T12	14799000
+#25	SNOMED T9	372158004
+#26	SNOMED T5	14799000
+#27	SNOMED T7	86251006
+#28	SNOMED T13	14799000
+#29	SNOMED T15	14799000
+#30	SNOMED T16	14799000
+#31	SNOMED T17	14799000
+#32	SNOMED T4	14799000
+#33	SNOMED T6	14799000
+#34	SNOMED T18	14799000
+#35	SNOMED T11	14799000
+#36	SNOMED T14	14799000

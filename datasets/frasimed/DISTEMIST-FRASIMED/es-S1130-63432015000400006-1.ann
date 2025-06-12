@@ -1,0 +1,27 @@
+T1	disease 135 147	hypertension
+T2	disease 149 162	diabète sucré
+T3	disease 164 201	fibrillation auriculaire paroxystique
+T4	disease 203 228	syndrome de Guillen-Barré
+T5	disease 232 265	carcinome épidermoïde oropharyngé
+T6	disease 278 369	syndrome paranéoplasique associé de sécrétion insuffisante d'hormone antidiurétique (SIADH)
+T7	disease 363 368	SIADH
+T8	disease 679 725	pneumonie bilobée due à une broncho-aspiration
+T9	disease 707 725	broncho-aspiration
+T10	disease 741 767	hyponatrémie hypoosmolaire
+T11	disease 891 900	dysphagie
+T12	disease 915 959	saignements associés à une tumeur du pharynx
+T13	disease 1505 1526	SIADH paranéoplasique
+T14	disease 2295 2322	bactériémie due au cathéter
+T15	disease 2409 2420	endocardite
+T16	disease 3279 3323	diarrhée persistante à Clostridium difficile
+T17	disease 3451 3491	insuffisance prérénale avec hyponatrémie
+T18	disease 3706 3731	insuffisance rénale aiguë
+T19	disease 4543 4591	diarrhée persistante due à Clostridium difficile
+T20	disease 4677 4689	hypertension
+T21	disease 4769 4782	hypernatrémie
+T22	disease 4947 4966	acidose métabolique
+T23	disease 5015 5036	alcalose respiratoire
+T24	disease 5113 5132	épanchement pleural
+T25	disease 5232 5245	hypernatrémie
+T26	disease 5343 5418	bactériémie associée à Streptococcus epidermidis résistant à la méticilline
+T27	disease 5484 5513	intoxication à la vancomycine

@@ -1,0 +1,8 @@
+T1	disease 128 186	traumatisme contondant de la main gauche en hyperextension
+T2	disease 293 301	fracture
+T3	disease 582 618	fracture du pôle distal du scaphoïde
+T4	disease 1220 1255	nécrose du pôle distal du scaphoïde
+#1	SNOMED T1	125599006
+#2	SNOMED T3	31975004
+#3	SNOMED T2	125605004
+#4	SNOMED T4	240196003

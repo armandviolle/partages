@@ -1,0 +1,66 @@
+T1	morphology-onco 95 111	neurofibromatose
+T2	morphology-onco 168 191	multiples neurofibromes
+T3	morphology-onco 326 332	cancer
+T4	morphology-onco 442 458	neurofibromatose
+T5	morphology-onco 663 669	tumeur
+T6	morphology-onco 868 880	neurofibrome
+T7	morphology-onco 1185 1217	sarcome pléomorphe de haut grade
+T8	morphology-onco 1239 1286	tumeur maligne de la gaine du nerf périphérique
+T9	morphology-onco 1288 1293	MPNST
+T10	morphology-onco 1601 1607	tumeur
+T11	morphology-onco 1672 1695	multiples neurofibromes
+T12	morphology-onco 2105 2118	neurofibromes
+T13	morphology-onco 2597 2603	NSCLCM
+T14	morphology-onco 2831 2837	tumeur
+T15	morphology-onco 2975 3005	extension locale et à distance
+T16	morphology-onco 3678 3684	tumeur
+T17	morphology-onco 4032 4038	tumeur
+T18	morphology-onco 4084 4129	TMVNP à différenciation rhabdomyosarcomateuse
+T19	morphology-onco 4131 4147	tumeur de Triton
+T20	morphology-onco 4471 4488	nodule pulmonaire
+T21	morphology-onco 4853 4885	métastase unique avec une tumeur
+T22	morphology-onco 5686 5691	TMVNP
+#1	ICD-O-3.1 T3	8000/3
+#2	ICD-O-3.1 T6	9540/0
+#3	ICD-O-3.1 T1	9540/1
+#4	ICD-O-3.1 T4	9540/1
+#5	ICD-O-3.1 T16	8000/1
+#6	ICD-O-3.1 T5	8000/1
+#7	ICD-O-3.1 T10	8000/1
+#8	ICD-O-3.1 T14	8000/1
+#9	ICD-O-3.1 T17	8000/1
+#10	ICD-O-3.1 T2	9540/1
+#11	ICD-O-3.1 T7	8802/34
+#12	ICD-O-3.1 T8	9540/3
+#13	ICD-O-3.1 T9	9540/3
+#14	ICD-O-3.1 T11	9540/1
+#15	ICD-O-3.1 T12	9540/0
+#16	ICD-O-3.1 T13	9540/3
+#17	ICD-O-3.1 T18	9561/3
+#18	ICD-O-3.1 T19	9561/3
+#19	ICD-O-3.1 T21	8000/6
+#20	ICD-O-3.1 T22	9540/3
+#21	ICD-O-3.1 T20	8000/6
+#22	ICD-O-3.1 T15	8000/6
+#23	SNOMED T3	1240414004
+#24	SNOMED T6	1156930004
+#25	SNOMED T1	19133005
+#26	SNOMED T4	19133005
+#27	SNOMED T16	86251006
+#28	SNOMED T5	86251006
+#29	SNOMED T10	86251006
+#30	SNOMED T14	86251006
+#31	SNOMED T17	86251006
+#32	SNOMED T2	19133005
+#33	SNOMED T7	302840001
+#34	SNOMED T8	404037002
+#35	SNOMED T9	404037002
+#36	SNOMED T11	19133005
+#37	SNOMED T12	1156930004
+#38	SNOMED T13	404037002
+#39	SNOMED T18	354002
+#40	SNOMED T19	354002
+#41	SNOMED T21	14799000
+#42	SNOMED T22	404037002
+#43	SNOMED T20	14799000
+#44	SNOMED T15	14799000

@@ -1,0 +1,90 @@
+T1	morphology-onco 379 407	adénopathie sus-claviculaire
+T2	morphology-onco 1451 1480	adénopathie supraclaviculaire
+T3	morphology-onco 1532 1594	Lymphome de Hodgkin de sous-type sclérose nodulaire de grade I
+T4	morphology-onco 1532 1622	Lymphome de Hodgkin de sous-type sclérose nodulaire de grade I avec des foyers de grade II
+T5	morphology-onco 1747 1769	tumeur des tissus mous
+T6	morphology-onco 1959 1974	lésion tumorale
+T7	morphology-onco 2917 2937	infiltration osseuse
+T8	morphology-onco 2938 2946	tumorale
+T9	morphology-onco 2976 3004	adénopathie sus-claviculaire
+T10	morphology-onco 3022 3050	léiomyosarcome de haut grade
+T11	morphology-onco 3127 3149	tumeur des tissus mous
+T12	morphology-onco 3535 3542	maligne
+T13	morphology-onco 3637 3665	léiomyosarcome de haut grade
+T14	morphology-onco 4186 4194	tumorale
+T15	morphology-onco 4243 4257	léiomyosarcome
+T16	morphology-onco 4465 4475	métastases
+T17	morphology-onco 4648 4658	métastases
+T18	morphology-onco 4831 4839	tumorale
+T19	morphology-onco 4843 4850	sarcome
+T20	morphology-onco 4956 5012	LYMPHOME DE HODGKIN SOUS-TYPE SCLÉROSE NODULAIRE GRADE I
+T21	morphology-onco 4956 5015	LYMPHOME DE HODGKIN SOUS-TYPE SCLÉROSE NODULAIRE GRADE I-II
+T22	morphology-onco 5032 5090	LYIOMYOSARCOMA DE HAUT GRADE en juillet 2013, METASTASIQUE
+T23	morphology-onco 5682 5722	lymphome de Hodgkin à sclérose nodulaire
+T24	morphology-onco 6876 6882	tumeur
+T25	morphology-onco 6944 6972	léiomyosarcome de haut grade
+T26	morphology-onco 8679 8685	tumeur
+T27	morphology-onco 8911 8917	tumeur
+T28	morphology-onco 9278 9292	léiomyosarcome
+T29	morphology-onco 9937 9943	tumeur
+T30	morphology-onco 11561 11575	léiomyosarcome
+T31	morphology-onco 11620 11630	métastases
+#1	ICD-O-3.1 T1	8000/6
+#2	ICD-O-3.1 T9	8000/6
+#3	ICD-O-3.1 T7	8000/6
+#4	ICD-O-3.1 T15	8890/3
+#5	ICD-O-3.1 T28	8890/3
+#6	ICD-O-3.1 T30	8890/3
+#7	ICD-O-3.1 T10	8890/34
+#8	ICD-O-3.1 T13	8890/34
+#9	ICD-O-3.1 T25	8890/34
+#10	ICD-O-3.1 T23	9663/3
+#11	ICD-O-3.1 T12	8000/3
+#12	ICD-O-3.1 T16	8000/6
+#13	ICD-O-3.1 T17	8000/6
+#14	ICD-O-3.1 T31	8000/6
+#15	ICD-O-3.1 T19	8800/3
+#16	ICD-O-3.1 T24	8000/1
+#17	ICD-O-3.1 T27	8000/1
+#18	ICD-O-3.1 T5	8800/1
+#19	ICD-O-3.1 T11	8800/1
+#20	ICD-O-3.1 T6	8000/1
+#21	ICD-O-3.1 T8	8000/1
+#22	ICD-O-3.1 T14	8000/1
+#23	ICD-O-3.1 T18	8000/1
+#24	ICD-O-3.1 T26	8000/1
+#25	ICD-O-3.1 T29	8000/1
+#26	ICD-O-3.1 T2	8000/6
+#27	ICD-O-3.1 T3	9665/3
+#28	ICD-O-3.1 T4	9667/3
+#29	ICD-O-3.1 T21	9667/3
+#30	ICD-O-3.1 T20	9665/3
+#31	ICD-O-3.1 T22	8890/64
+#32	SNOMED T1	14799000
+#33	SNOMED T9	14799000
+#34	SNOMED T7	14799000
+#35	SNOMED T15	1163022006
+#36	SNOMED T28	1163022006
+#37	SNOMED T30	1163022006
+#38	SNOMED T10	1163022006
+#39	SNOMED T13	1163022006
+#40	SNOMED T25	1163022006
+#41	SNOMED T23	118608000
+#42	SNOMED T12	1240414004
+#43	SNOMED T16	14799000
+#44	SNOMED T17	14799000
+#45	SNOMED T31	14799000
+#46	SNOMED T19	1187396000
+#47	SNOMED T24	86251006
+#48	SNOMED T27	86251006
+#49	SNOMED T6	86251006
+#50	SNOMED T8	86251006
+#51	SNOMED T14	86251006
+#52	SNOMED T18	86251006
+#53	SNOMED T26	86251006
+#54	SNOMED T29	86251006
+#55	SNOMED T2	14799000
+#56	SNOMED T3	45572000
+#57	SNOMED T4	43985008
+#58	SNOMED T21	43985008
+#59	SNOMED T20	45572000

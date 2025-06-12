@@ -1,0 +1,14 @@
+T1	disease 46 56	léiomyomes
+T2	disease 186 195	hématurie
+T3	disease 387 407	rein gauche atrophié
+T4	disease 423 437	masse tumorale
+T5	disease 661 667	lésion
+T6	disease 773 791	carcinome urétéral
+T7	disease 1476 1510	endométriose urétérale intrinsèque
+#1	SNOMED T1	146801000119103
+#2	SNOMED T2	34436003
+#3	SNOMED T3	197659005
+#4	SNOMED T6	448864006
+#5	SNOMED T7	129103003+87953007
+#6	SNOMED T5	417163006
+#7	SNOMED T4	55342001

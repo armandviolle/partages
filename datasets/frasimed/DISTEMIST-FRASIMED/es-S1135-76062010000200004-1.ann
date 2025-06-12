@@ -1,0 +1,12 @@
+T1	disease 41 48	syncope
+T2	disease 710 720	hémothorax
+T3	disease 755 833	rupture d'un anévrisme sacculaire de la partie terminale de la crosse aortique
+T4	disease 914 923	anévrisme
+T5	disease 1712 1736	collagénopathie atypique
+T6	disease 1807 1825	syndrome de Marfan
+#1	SNOMED T1	29423006
+#2	SNOMED T5	81573002
+#3	SNOMED T3	23115009
+#4	SNOMED T6	19346006
+#5	SNOMED T4	432119003
+#6	SNOMED T2	31892009

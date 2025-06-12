@@ -1,0 +1,6 @@
+T1	disease 65 134	éruption purpurique palpable sur les membres inférieurs et les fesses
+T2	disease 313 329	pharyngite aiguë
+T3	disease 1447 1500	purpura de Schönlein-Henoch avec atteinte articulaire
+#1	SNOMED T1	271807003+118937003+609620004
+#2	SNOMED T2	363746003
+#3	SNOMED T3	191306005

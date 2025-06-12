@@ -1,0 +1,77 @@
+T1	morphology-onco 963 1014	ganglions lymphatiques cervicaux, sus-claviculaires
+T2	morphology-onco 1584 1606	tumeur des tissus mous
+T3	morphology-onco 1820 1826	tumeur
+T4	morphology-onco 1932 1945	hypernéphrome
+T5	morphology-onco 1960 1966	tumeur
+T6	morphology-onco 2140 2146	tumeur
+T7	morphology-onco 2715 2736	sarcome de haut grade
+T8	morphology-onco 2756 2783	rhabdomyosarcome pléomorphe
+T9	morphology-onco 2798 2819	Sarcome de haut grade
+T10	morphology-onco 2870 2897	rhabdomyosarcome pléomorphe
+T11	morphology-onco 2957 2970	hypernéphrome
+T12	morphology-onco 2984 2990	Tumeur
+T13	morphology-onco 3247 3253	tumeur
+T14	morphology-onco 3480 3507	rhabdomyosarcome pléomorphe
+T15	morphology-onco 3666 3675	malignité
+T16	morphology-onco 4286 4292	tumeur
+T17	morphology-onco 5036 5105	adénocarcinome rénal à cellules claires, grade nucléaire de Fuhrman 3
+T18	morphology-onco 5218 5227	malignité
+T19	morphology-onco 5388 5452	tumeur stromale gastro-intestinale (GIST) de cellules fusiformes
+T20	morphology-onco 5388 5465	tumeur stromale gastro-intestinale (GIST) de cellules fusiformes de bas grade
+T21	morphology-onco 5424 5428	GIST
+T22	morphology-onco 5610 5630	cellularité tumorale
+T23	morphology-onco 6164 6201	tumeur stromale à cellules fusiformes
+T24	morphology-onco 6164 6214	tumeur stromale à cellules fusiformes de bas grade
+T25	morphology-onco 6573 6577	GIST
+T26	morphology-onco 6990 6994	GIST
+#1	ICD-O-3.1 T21	8936/3
+#2	ICD-O-3.1 T25	8936/3
+#3	ICD-O-3.1 T26	8936/3
+#4	ICD-O-3.1 T9	8800/34
+#5	ICD-O-3.1 T12	8000/1
+#6	ICD-O-3.1 T1	8000/6
+#7	ICD-O-3.1 T22	8001/1
+#8	ICD-O-3.1 T4	8312/3
+#9	ICD-O-3.1 T11	8312/3
+#10	ICD-O-3.1 T15	8000/3
+#11	ICD-O-3.1 T18	8000/3
+#12	ICD-O-3.1 T8	8901/3
+#13	ICD-O-3.1 T10	8901/3
+#14	ICD-O-3.1 T14	8901/3
+#15	ICD-O-3.1 T7	8800/34
+#16	ICD-O-3.1 T5	8000/1
+#17	ICD-O-3.1 T3	8000/1
+#18	ICD-O-3.1 T6	8000/1
+#19	ICD-O-3.1 T13	8000/1
+#20	ICD-O-3.1 T16	8000/1
+#21	ICD-O-3.1 T2	8800/1
+#22	ICD-O-3.1 T17	8310/33
+#23	ICD-O-3.1 T20	8936/31
+#24	ICD-O-3.1 T19	8004/3
+#25	ICD-O-3.1 T24	8936/31
+#26	ICD-O-3.1 T23	8004/3
+#27	SNOMED T21	128756002
+#28	SNOMED T25	128756002
+#29	SNOMED T26	128756002
+#30	SNOMED T9	1187396000
+#31	SNOMED T12	86251006
+#32	SNOMED T1	14799000
+#33	SNOMED T22	39577004
+#34	SNOMED T4	41607009
+#35	SNOMED T11	41607009
+#36	SNOMED T15	1240414004
+#37	SNOMED T18	1240414004
+#38	SNOMED T8	77455004
+#39	SNOMED T10	77455004
+#40	SNOMED T14	77455004
+#41	SNOMED T7	1187396000
+#42	SNOMED T5	86251006
+#43	SNOMED T3	86251006
+#44	SNOMED T6	86251006
+#45	SNOMED T13	86251006
+#46	SNOMED T16	86251006
+#47	SNOMED T17	30546008
+#48	SNOMED T20	128756002
+#49	SNOMED T19	88897007
+#50	SNOMED T24	128756002
+#51	SNOMED T23	88897007

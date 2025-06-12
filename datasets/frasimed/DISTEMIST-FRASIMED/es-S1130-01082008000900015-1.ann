@@ -1,0 +1,16 @@
+T1	disease 97 116	symptômes syncopaux
+T2	disease 135 164	selle mélanique-rectorragique
+T3	disease 498 556	lésions angiodysplasiques naissantes du côlon et du rectum
+T4	disease 833 861	muqueuse gastrique ectopique
+T5	disease 881 902	diverticule de Meckel
+T6	disease 1016 1037	diverticule de Meckel
+T7	disease 1219 1230	diverticule
+T8	disease 1493 1556	diverticule de Meckel avec une muqueuse gastrique hétérotopique
+#1	SNOMED T1	271594007
+#2	SNOMED T2	2901004+300392005
+#3	SNOMED T4	204676004
+#4	SNOMED T5	37373007
+#5	SNOMED T6	37373007
+#6	SNOMED T7	397881000
+#7	SNOMED T8	37373007
+#8	SNOMED T3	197244008

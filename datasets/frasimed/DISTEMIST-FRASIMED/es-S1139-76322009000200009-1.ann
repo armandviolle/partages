@@ -1,0 +1,10 @@
+T1	disease 343 356	bronchospasme
+T2	disease 400 406	asthme
+T3	disease 1413 1453	emphysème sous-cutané minime dans le cou
+T4	disease 1472 1487	pneumomédiastin
+T5	disease 1501 1514	bronchospasme
+#1	SNOMED T3	3830001
+#2	SNOMED T4	16838000
+#3	SNOMED T5	4386001
+#4	SNOMED T1	4386001
+#5	SNOMED T2	195967001

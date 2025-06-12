@@ -1,0 +1,12 @@
+T1	morphology-onco 828 845	sarcome de Kaposi
+T2	morphology-onco 933 950	sarcome de Kaposi
+T3	morphology-onco 1261 1278	sarcome de Kaposi
+T4	morphology-onco 2213 2225	métastatique
+#1	ICD-O-3.1 T4	8000/6
+#2	ICD-O-3.1 T1	9140/3
+#3	ICD-O-3.1 T2	9140/3
+#4	ICD-O-3.1 T3	9140/3
+#5	SNOMED T4	14799000
+#6	SNOMED T1	1179374007
+#7	SNOMED T2	1179374007
+#8	SNOMED T3	1179374007

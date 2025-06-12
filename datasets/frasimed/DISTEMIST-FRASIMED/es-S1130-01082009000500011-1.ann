@@ -1,0 +1,12 @@
+T1	disease 20 32	fumeur actif
+T2	disease 139 188	dysphagie progressive des solides et des liquides
+T3	disease 469 513	sténose partielle de la lumière œsophagienne
+T4	disease 596 616	carcinome œsophagien
+T5	disease 700 706	lésion
+T6	disease 1232 1271	infection virale (Herpex simplex virus)
+#1	SNOMED T1	77176002
+#2	SNOMED T2	40739000
+#3	SNOMED T3	63305008
+#4	SNOMED T4	372138000
+#5	SNOMED T6	88594005
+#6	SNOMED T5	417163006

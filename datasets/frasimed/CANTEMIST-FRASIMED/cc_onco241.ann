@@ -1,0 +1,36 @@
+T1	morphology-onco 1052 1077	adénocarcinome infiltrant
+T2	morphology-onco 1129 1135	tumeur
+T3	morphology-onco 1487 1497	métastases
+T4	morphology-onco 1581 1590	métastase
+T5	morphology-onco 1652 1737	Adénocarcinome infiltrant de la prostate de stade IV avec une seule métastase osseuse
+T6	morphology-onco 5668 5674	tumeur
+T7	morphology-onco 6208 6217	métastase
+T8	morphology-onco 6230 6242	plasmocytome
+T9	morphology-onco 6249 6274	tumeur à cellules géantes
+T10	morphology-onco 6487 6493	tumeur
+T11	morphology-onco 6623 6656	tumeur à cellules géantes de l'os
+T12	morphology-onco 6847 6854	maligne
+#1	ICD-O-3.1 T1	8140/3/H
+#2	ICD-O-3.1 T12	8000/3
+#3	ICD-O-3.1 T3	8000/6
+#4	ICD-O-3.1 T4	8000/6
+#5	ICD-O-3.1 T7	8000/6
+#6	ICD-O-3.1 T8	9731/3
+#7	ICD-O-3.1 T10	8000/1
+#8	ICD-O-3.1 T9	8003/3
+#9	ICD-O-3.1 T6	8000/1
+#10	ICD-O-3.1 T2	8000/1
+#11	ICD-O-3.1 T5	8140/6/H
+#12	ICD-O-3.1 T11	9250/3
+#13	SNOMED T1	1187332001
+#14	SNOMED T12	1240414004
+#15	SNOMED T3	14799000
+#16	SNOMED T4	14799000
+#17	SNOMED T7	14799000
+#18	SNOMED T8	1187107005
+#19	SNOMED T10	86251006
+#20	SNOMED T9	83950009
+#21	SNOMED T6	86251006
+#22	SNOMED T2	86251006
+#23	SNOMED T5	4590003
+#24	SNOMED T11	10069009

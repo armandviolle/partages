@@ -1,0 +1,39 @@
+T1	morphology-onco 236 242	cancer
+T2	morphology-onco 1303 1317	adénocarcinome
+T3	morphology-onco 1353 1363	métastases
+T4	morphology-onco 1400 1418	cellules de Meckel
+T5	morphology-onco 1995 2026	adénocarcinome gastrique diffus
+T6	morphology-onco 1995 2064	adénocarcinome gastrique diffus avec des cellules en anneau de signet
+T7	morphology-onco 2178 2191	métastatiques
+T8	morphology-onco 2397 2428	Adénocarcinome gastrique diffus
+T9	morphology-onco 2397 2486	Adénocarcinome gastrique diffus de stade IV avec cellules en anneau de signet (métastases
+T10	morphology-onco 3030 3036	tumeur
+T11	morphology-onco 3117 3147	lésions dans la cavité buccale
+T12	morphology-onco 3658 3685	lésion de la cavité buccale
+T13	morphology-onco 4020 4028	tumorale
+#1	ICD-O-3.1 T2	8140/3
+#2	ICD-O-3.1 T1	8000/3
+#3	ICD-O-3.1 T3	8000/6
+#4	ICD-O-3.1 T10	8000/1
+#5	ICD-O-3.1 T13	8000/1
+#6	ICD-O-3.1 T4	8247/3
+#7	ICD-O-3.1 T6	8490/3
+#8	ICD-O-3.1 T5	8145/3
+#9	ICD-O-3.1 T7	8000/6
+#10	ICD-O-3.1 T9	8490/6
+#11	ICD-O-3.1 T8	8145/3
+#12	ICD-O-3.1 T11	8000/6
+#13	ICD-O-3.1 T12	8000/6
+#14	SNOMED T2	1187332001
+#15	SNOMED T1	1240414004
+#16	SNOMED T3	14799000
+#17	SNOMED T10	86251006
+#18	SNOMED T13	86251006
+#19	SNOMED T4	5052009
+#20	SNOMED T6	87737001
+#21	SNOMED T5	24505004
+#22	SNOMED T7	14799000
+#23	SNOMED T9	4305004
+#24	SNOMED T8	24505004
+#25	SNOMED T11	14799000
+#26	SNOMED T12	14799000

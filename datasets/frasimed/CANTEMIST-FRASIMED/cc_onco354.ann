@@ -1,0 +1,63 @@
+T1	morphology-onco 215 218	CCR
+T2	morphology-onco 274 277	CCR
+T3	morphology-onco 333 336	CCR
+T4	morphology-onco 392 395	CCR
+T5	morphology-onco 445 451	cancer
+T6	morphology-onco 516 519	CCR
+T7	morphology-onco 564 572	lymphome
+T8	morphology-onco 631 634	CCR
+T9	morphology-onco 687 693	cancer
+T10	morphology-onco 768 774	cancer
+T11	morphology-onco 824 830	cancer
+T12	morphology-onco 1033 1036	CCR
+T13	morphology-onco 1075 1087	néoformation
+T14	morphology-onco 1220 1293	adénocarcinome infiltrant modérément différencié avec des zones colloïdes
+T15	morphology-onco 1574 1597	adénocarcinome mucineux
+T16	morphology-onco 2459 2505	adénocarcinome mucineux modérément différencié
+T17	morphology-onco 2538 2551	intratumorale
+T18	morphology-onco 2570 2582	péritumorale
+T19	morphology-onco 2608 2630	bourgeonnement tumoral
+T20	morphology-onco 2693 2699	tumeur
+T21	morphology-onco 3199 3205	cancer
+#1	ICD-O-3.1 T1	8000/3
+#2	ICD-O-3.1 T8	8000/3
+#3	ICD-O-3.1 T6	8000/3
+#4	ICD-O-3.1 T4	8000/3
+#5	ICD-O-3.1 T3	8000/3
+#6	ICD-O-3.1 T2	8000/3
+#7	ICD-O-3.1 T12	8000/3
+#8	ICD-O-3.1 T15	8480/3
+#9	ICD-O-3.1 T5	8000/3
+#10	ICD-O-3.1 T9	8000/3
+#11	ICD-O-3.1 T10	8000/3
+#12	ICD-O-3.1 T11	8000/3
+#13	ICD-O-3.1 T21	8000/3
+#14	ICD-O-3.1 T18	8000/1
+#15	ICD-O-3.1 T7	9590/3
+#16	ICD-O-3.1 T13	8000/1
+#17	ICD-O-3.1 T17	8000/1
+#18	ICD-O-3.1 T20	8000/1
+#19	ICD-O-3.1 T14	8480/32/H
+#20	ICD-O-3.1 T16	8480/32
+#21	ICD-O-3.1 T19	8001/3
+#22	SNOMED T1	1240414004
+#23	SNOMED T8	1240414004
+#24	SNOMED T6	1240414004
+#25	SNOMED T4	1240414004
+#26	SNOMED T3	1240414004
+#27	SNOMED T2	1240414004
+#28	SNOMED T12	1240414004
+#29	SNOMED T15	72495009
+#30	SNOMED T5	1240414004
+#31	SNOMED T9	1240414004
+#32	SNOMED T10	1240414004
+#33	SNOMED T11	1240414004
+#34	SNOMED T21	1240414004
+#35	SNOMED T18	86251006
+#36	SNOMED T7	1163043007
+#37	SNOMED T13	86251006
+#38	SNOMED T17	86251006
+#39	SNOMED T20	86251006
+#40	SNOMED T14	72495009
+#41	SNOMED T16	72495009
+#42	SNOMED T19	88400008

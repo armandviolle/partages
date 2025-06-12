@@ -1,0 +1,17 @@
+T1	disease 237 259	insuffisance cardiaque
+T2	disease 275 299	fibrillation auriculaire
+T3	disease 321 341	maladies urologiques
+T4	disease 636 667	anémie normochrome normocytaire
+T5	disease 747 770	hématurie microscopique
+T6	disease 824 865	calculs radio-opaques situés dans le rein
+T7	disease 1080 1140	grandes formations lithiasiques situées dans le bassin rénal
+T8	disease 1165 1176	pyonéphrose
+T9	disease 1863 1898	dilatation de l'arbre pyélocaliciel
+T10	disease 1906 1942	atrophie marquée du parenchyme rénal
+T11	disease 1961 2029	pyélique, il y a un contenu purulent et des pierres sont identifiées
+T12	disease 2107 2171	abcédation du parenchyme rénal et du tissu adipeux périlésionnel
+T13	disease 2352 2366	adénocarcinome
+T14	disease 2465 2474	néoplasme
+T15	disease 2507 2540	adénocarcinome de type intestinal
+T16	disease 2888 2941	néoplasme envahit le tissu conjonctif sous-épithélial
+T17	disease 2947 2996	métaplasie glandulaire de l'épithélium urothélial

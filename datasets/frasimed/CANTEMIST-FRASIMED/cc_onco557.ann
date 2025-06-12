@@ -1,0 +1,11 @@
+T1	morphology-onco 2350 2373	tumeurs des tissus mous
+T2	morphology-onco 2412 2419	tumeurs
+T3	morphology-onco 2558 2583	carcinome peu différencié
+T4	morphology-onco 3188 3213	carcinome peu différencié
+#1	ICD-O-3.1 T3	8010/33
+#2	ICD-O-3.1 T4	8010/33
+#3	ICD-O-3.1 T2	8000/1
+#4	ICD-O-3.1 T1	8800/1
+#5	SNOMED T3	1187425009
+#6	SNOMED T4	1187425009
+#7	SNOMED T2	86251006

@@ -1,0 +1,37 @@
+T1	morphology-onco 4391 4420	syndromes lymphoprolifératifs
+T2	morphology-onco 4565 4575	néoplasmes
+T3	morphology-onco 4969 4988	lésions pulmonaires
+T4	morphology-onco 6182 6191	néoplasie
+T5	morphology-onco 6230 6236	tumeur
+T6	morphology-onco 6319 6363	néoplasie à cellules rénales avec métastases
+T7	morphology-onco 6471 6473	M1
+T8	morphology-onco 7273 7325	carcinome rénal à cellules claires de type Fuhrman 4
+T9	morphology-onco 7633 7641	tumorale
+T10	morphology-onco 7921 7929	tumorale
+T11	morphology-onco 7936 7942	tumeur
+T12	morphology-onco 8104 8172	Carcinome rénal à cellules claires de type Fuhrman 4 (stade T4 N2 M1
+T13	morphology-onco 8179 8189	métastases
+#1	ICD-O-3.1 T7	8000/6
+#2	ICD-O-3.1 T3	8000/6
+#3	ICD-O-3.1 T13	8000/6
+#4	ICD-O-3.1 T4	8000/1
+#5	ICD-O-3.1 T2	8000/1
+#6	ICD-O-3.1 T1	9970/1
+#7	ICD-O-3.1 T10	8000/1
+#8	ICD-O-3.1 T5	8000/1
+#9	ICD-O-3.1 T9	8000/1
+#10	ICD-O-3.1 T11	8000/1
+#11	ICD-O-3.1 T6	8312/6
+#12	ICD-O-3.1 T8	8310/34
+#13	ICD-O-3.1 T12	8310/64
+#14	SNOMED T7	14799000
+#15	SNOMED T3	14799000
+#16	SNOMED T13	14799000
+#17	SNOMED T4	86251006
+#18	SNOMED T2	86251006
+#19	SNOMED T1	277466009
+#20	SNOMED T10	86251006
+#21	SNOMED T5	86251006
+#22	SNOMED T9	86251006
+#23	SNOMED T11	86251006
+#24	SNOMED T8	30546008

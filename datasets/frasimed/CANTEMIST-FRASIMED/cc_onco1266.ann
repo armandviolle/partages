@@ -1,0 +1,6 @@
+T1	morphology-onco 450 457	sarcome
+T2	morphology-onco 450 498	sarcome desmoplastique à petites cellules rondes
+#1	ICD-O-3.1 T1	8800/3
+#2	ICD-O-3.1 T2	8806/3
+#3	SNOMED T1	1187396000
+#4	SNOMED T2	1156420003

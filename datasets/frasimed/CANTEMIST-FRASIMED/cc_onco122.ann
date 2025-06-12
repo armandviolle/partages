@@ -1,0 +1,78 @@
+T1	morphology-onco 1373 1387	angiomyolipome
+T2	morphology-onco 1413 1423	oncocytome
+T3	morphology-onco 1431 1459	carcinome à cellules rénales
+T4	morphology-onco 1571 1586	carcinome rénal
+T5	morphology-onco 1588 1595	T1aNoMx
+T6	morphology-onco 2141 2155	angiomyolipome
+T7	morphology-onco 2181 2191	oncocytome
+T8	morphology-onco 2199 2227	carcinome à cellules rénales
+T9	morphology-onco 2329 2344	carcinome rénal
+T10	morphology-onco 2346 2353	T1aNoMx
+T11	morphology-onco 2496 2505	carcinome
+T12	morphology-onco 3524 3590	infiltration par un choriocarcinome, compatible avec une métastase
+T13	morphology-onco 4256 4272	lésion crânienne
+T14	morphology-onco 4335 4362	lésion intraaxiale frontale
+T15	morphology-onco 4785 4791	tumeur
+T16	morphology-onco 5334 5342	tumorale
+T17	morphology-onco 5382 5397	choriocarcinome
+T18	morphology-onco 5635 5643	tumoraux
+T19	morphology-onco 5683 5695	métastatique
+T20	morphology-onco 5963 5971	tumorale
+T21	morphology-onco 6260 6268	tumorale
+T22	morphology-onco 6562 6623	Choriocarcinome de stade IV FIGO (atteinte pulmonaire, rénale
+T23	morphology-onco 6688 6695	tumoral
+T24	morphology-onco 7510 7519	carcinome
+T25	morphology-onco 7958 8024	infiltration par un choriocarcinome, compatible avec une métastase
+T26	morphology-onco 9584 9599	choriocarcinome
+#1	ICD-O-3.1 T1	8860/0
+#2	ICD-O-3.1 T6	8860/0
+#3	ICD-O-3.1 T11	8010/3
+#4	ICD-O-3.1 T24	8010/3
+#5	ICD-O-3.1 T3	8312/3
+#6	ICD-O-3.1 T4	8312/3
+#7	ICD-O-3.1 T8	8312/3
+#8	ICD-O-3.1 T9	8312/3
+#9	ICD-O-3.1 T17	9100/3
+#10	ICD-O-3.1 T26	9100/3
+#11	ICD-O-3.1 T19	8000/6
+#12	ICD-O-3.1 T2	8290/0
+#13	ICD-O-3.1 T7	8290/0
+#14	ICD-O-3.1 T15	8000/1
+#15	ICD-O-3.1 T16	8000/1
+#16	ICD-O-3.1 T20	8000/1
+#17	ICD-O-3.1 T21	8000/1
+#18	ICD-O-3.1 T23	8000/1
+#19	ICD-O-3.1 T18	8000/1
+#20	ICD-O-3.1 T5	8000/6
+#21	ICD-O-3.1 T10	8000/6
+#22	ICD-O-3.1 T12	9100/6
+#23	ICD-O-3.1 T22	9100/6
+#24	ICD-O-3.1 T25	9100/6
+#25	ICD-O-3.1 T13	8000/6
+#26	ICD-O-3.1 T14	8000/6
+#27	SNOMED T1	19929002
+#28	SNOMED T6	19929002
+#29	SNOMED T11	1187425009
+#30	SNOMED T24	1187425009
+#31	SNOMED T3	41607009
+#32	SNOMED T4	41607009
+#33	SNOMED T8	41607009
+#34	SNOMED T9	41607009
+#35	SNOMED T17	1156971005
+#36	SNOMED T26	1156971005
+#37	SNOMED T19	14799000
+#38	SNOMED T2	89439007
+#39	SNOMED T7	89439007
+#40	SNOMED T15	86251006
+#41	SNOMED T16	86251006
+#42	SNOMED T20	86251006
+#43	SNOMED T21	86251006
+#44	SNOMED T23	86251006
+#45	SNOMED T18	86251006
+#46	SNOMED T5	14799000
+#47	SNOMED T10	14799000
+#48	SNOMED T12	370079006
+#49	SNOMED T22	370079006
+#50	SNOMED T25	370079006
+#51	SNOMED T13	14799000
+#52	SNOMED T14	14799000

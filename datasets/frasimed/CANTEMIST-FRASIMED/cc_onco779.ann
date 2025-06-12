@@ -1,0 +1,57 @@
+T1	morphology-onco 121 135	lésion cutanée
+T2	morphology-onco 383 401	nodule sous-cutané
+T3	morphology-onco 663 681	nodule sous-cutané
+T4	morphology-onco 740 768	carcinome à cellules claires
+T5	morphology-onco 1423 1441	nodule sous-cutané
+T6	morphology-onco 1442 1454	métastatique
+T7	morphology-onco 1501 1520	nodules pulmonaires
+T8	morphology-onco 1577 1586	métastase
+T9	morphology-onco 2003 2012	métastase
+T10	morphology-onco 2086 2164	carcinome rénal à cellules claires de 9 cm (grade 1 de Fuhrman) (pT3a pN0 pM1)
+T11	morphology-onco 2261 2308	carcinome rénal à cellules claires métastatique
+T12	morphology-onco 2314 2333	atteinte pulmonaire
+T13	morphology-onco 3513 3535	progression pulmonaire
+T14	morphology-onco 3598 3617	nodules pulmonaires
+T15	morphology-onco 3618 3631	métastatiques
+T16	morphology-onco 4065 4084	nodules pulmonaires
+T17	morphology-onco 4675 4716	nodule de 1,5 cm dans la glande surrénale
+T18	morphology-onco 4755 4774	lésions pulmonaires
+T19	morphology-onco 4944 4985	métastase de carcinome à cellules claires
+T20	morphology-onco 5091 5099	tumorale
+#1	ICD-O-3.1 T4	8310/3
+#2	ICD-O-3.1 T6	8000/6
+#3	ICD-O-3.1 T15	8000/6
+#4	ICD-O-3.1 T8	8000/6
+#5	ICD-O-3.1 T9	8000/6
+#6	ICD-O-3.1 T19	8310/6
+#7	ICD-O-3.1 T20	8000/1
+#8	ICD-O-3.1 T10	8310/61
+#9	ICD-O-3.1 T11	8310/6
+#10	ICD-O-3.1 T12	8000/6
+#11	ICD-O-3.1 T13	8000/6
+#12	ICD-O-3.1 T18	8000/6
+#13	ICD-O-3.1 T16	8000/6
+#14	ICD-O-3.1 T17	8000/6
+#15	ICD-O-3.1 T1	8000/6
+#16	ICD-O-3.1 T2	8000/6
+#17	ICD-O-3.1 T3	8000/6
+#18	ICD-O-3.1 T5	8000/6
+#19	ICD-O-3.1 T7	8000/6
+#20	ICD-O-3.1 T14	8000/6
+#21	SNOMED T4	30546008
+#22	SNOMED T6	14799000
+#23	SNOMED T15	14799000
+#24	SNOMED T8	14799000
+#25	SNOMED T9	14799000
+#26	SNOMED T20	86251006
+#27	SNOMED T12	14799000
+#28	SNOMED T13	14799000
+#29	SNOMED T18	14799000
+#30	SNOMED T16	14799000
+#31	SNOMED T17	14799000
+#32	SNOMED T1	14799000
+#33	SNOMED T2	14799000
+#34	SNOMED T3	14799000
+#35	SNOMED T5	14799000
+#36	SNOMED T7	14799000
+#37	SNOMED T14	14799000

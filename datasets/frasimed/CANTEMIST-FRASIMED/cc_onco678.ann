@@ -1,0 +1,47 @@
+T1	morphology-onco 264 270	cancer
+T2	morphology-onco 300 306	cancer
+T3	morphology-onco 376 405	carcinome médullaire atypique
+T4	morphology-onco 512 519	pT2N0M0
+T5	morphology-onco 754 759	myome
+T6	morphology-onco 1076 1085	malignité
+T7	morphology-onco 1155 1185	carcinome canalaire infiltrant
+T8	morphology-onco 1315 1368	carcinome canalaire infiltrant pT1bN0M0, de grade III
+T9	morphology-onco 1346 1354	pT1bN0M0
+T10	morphology-onco 2585 2594	métastase
+T11	morphology-onco 2955 2987	carcinome non à petites cellules
+T12	morphology-onco 2996 3010	adénocarcinome
+T13	morphology-onco 3276 3283	maligne
+T14	morphology-onco 3342 3380	Adénocarcinome pulmonaire métastatique
+T15	morphology-onco 3385 3428	carcinome canalaire infiltrant métastatique
+T16	morphology-onco 3615 3639	métastase d'un carcinome
+#1	ICD-O-3.1 T12	8140/3
+#2	ICD-O-3.1 T7	8500/3
+#3	ICD-O-3.1 T11	8046/3
+#4	ICD-O-3.1 T2	8000/3
+#5	ICD-O-3.1 T1	8000/3
+#6	ICD-O-3.1 T6	8000/3
+#7	ICD-O-3.1 T13	8000/3
+#8	ICD-O-3.1 T10	8000/6
+#9	ICD-O-3.1 T16	8010/6
+#10	ICD-O-3.1 T15	8500/6
+#11	ICD-O-3.1 T5	8895/0
+#12	ICD-O-3.1 T9	8000/6
+#13	ICD-O-3.1 T4	8000/6
+#14	ICD-O-3.1 T3	8513/3
+#15	ICD-O-3.1 T8	8500/33
+#16	ICD-O-3.1 T14	8140/6
+#17	SNOMED T12	1187332001
+#18	SNOMED T7	58477004
+#19	SNOMED T11	128632008
+#20	SNOMED T2	1240414004
+#21	SNOMED T1	1240414004
+#22	SNOMED T6	1240414004
+#23	SNOMED T13	1240414004
+#24	SNOMED T10	14799000
+#25	SNOMED T16	79282002
+#26	SNOMED T5	1156875002
+#27	SNOMED T9	14799000
+#28	SNOMED T4	14799000
+#29	SNOMED T3	128698005
+#30	SNOMED T8	58477004
+#31	SNOMED T14	4590003

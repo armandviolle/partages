@@ -1,0 +1,42 @@
+T1	morphology-onco 444 456	néoformation
+T2	morphology-onco 517 531	adénocarcinome
+T3	morphology-onco 613 623	métastases
+T4	morphology-onco 891 901	métastases
+T5	morphology-onco 1028 1038	métastases
+T6	morphology-onco 1258 1272	adénocarcinome
+T7	morphology-onco 1298 1308	métastases
+T8	morphology-onco 1619 1629	métastases
+T9	morphology-onco 1800 1821	progression hépatique
+T10	morphology-onco 2020 2038	lésions hépatiques
+T11	morphology-onco 3509 3526	cellules malignes
+T12	morphology-onco 3741 3749	lymphome
+T13	morphology-onco 4370 4406	adénocarcinome du côlon pT3 pN2a pM1
+T14	morphology-onco 4986 5003	rechute hépatique
+#1	ICD-O-3.1 T2	8140/3
+#2	ICD-O-3.1 T6	8140/3
+#3	ICD-O-3.1 T11	8001/3
+#4	ICD-O-3.1 T10	8000/6
+#5	ICD-O-3.1 T12	9590/3
+#6	ICD-O-3.1 T3	8000/6
+#7	ICD-O-3.1 T4	8000/6
+#8	ICD-O-3.1 T5	8000/6
+#9	ICD-O-3.1 T7	8000/6
+#10	ICD-O-3.1 T8	8000/6
+#11	ICD-O-3.1 T1	8000/1
+#12	ICD-O-3.1 T9	8000/6
+#13	ICD-O-3.1 T14	8000/6
+#14	ICD-O-3.1 T13	8140/6
+#15	SNOMED T2	1187332001
+#16	SNOMED T6	1187332001
+#17	SNOMED T11	88400008
+#18	SNOMED T10	14799000
+#19	SNOMED T12	1163043007
+#20	SNOMED T3	14799000
+#21	SNOMED T4	14799000
+#22	SNOMED T5	14799000
+#23	SNOMED T7	14799000
+#24	SNOMED T8	14799000
+#25	SNOMED T1	86251006
+#26	SNOMED T9	14799000
+#27	SNOMED T14	14799000
+#28	SNOMED T13	4590003

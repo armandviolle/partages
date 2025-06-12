@@ -1,0 +1,16 @@
+T1	disease 372 382	valvulaire
+T2	disease 465 485	pathologie cardiaque
+T3	disease 756 769	cardiomégalie
+T4	disease 797 843	hypertrophie concentrique du ventricule gauche
+T5	disease 931 947	œdème pulmonaire
+T6	disease 1038 1087	épaississement des feuillets de la valve aortique
+T7	disease 1273 1297	valve aortique bicuspide
+T8	disease 1433 1449	sténose aortique
+#1	SNOMED T1	368009
+#2	SNOMED T2	56265001
+#3	SNOMED T3	8186001
+#4	SNOMED T4	55827005
+#5	SNOMED T5	19242006
+#6	SNOMED T7	72352009
+#7	SNOMED T8	75145007
+#8	SNOMED T6	253606002

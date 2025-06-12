@@ -1,0 +1,18 @@
+T1	disease 60 83	diabète sucré de type 2
+T2	disease 111 145	hypertension artérielle systémique
+T3	disease 195 217	insuffisance cardiaque
+T4	disease 266 295	insuffisance rénale chronique
+T5	disease 455 481	décompensation métabolique
+T6	disease 1002 1033	pénis avec une nécrose du gland
+T7	disease 1040 1079	écoulement purulent par le méat urétral
+T8	disease 1104 1162	nécrose sur le premier et le deuxième ortex des deux pieds
+T9	disease 1740 1819	nécrose ischémique distale du gland et du prépuce associée à une microthrombose
+#1	SNOMED T9	44902004
+#2	SNOMED T1	44054006
+#3	SNOMED T6	33958003
+#4	SNOMED T5	75934005
+#5	SNOMED T7	4985009
+#6	SNOMED T2	38341003
+#7	SNOMED T8	195302000
+#8	SNOMED T3	84114007
+#9	SNOMED T4	90688005

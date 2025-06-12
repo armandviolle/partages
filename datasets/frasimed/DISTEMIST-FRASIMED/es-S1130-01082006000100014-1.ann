@@ -1,0 +1,26 @@
+T1	disease 67 83	maladie de Crohn
+T2	disease 133 151	habitudes toxiques
+T3	disease 302 367	maladie de Crohn avec atteinte des valvules iléale et iléocaecale
+T4	disease 563 580	corticodépendance
+T5	disease 1409 1426	candidose buccale
+T6	disease 1505 1524	anémie normocytaire
+T7	disease 2220 2240	méningite à Listeria
+T8	disease 2407 2427	symptômes abdominaux
+T9	disease 2444 2518	péritonite intestinale secondaire à une perforation de l'iléon préterminal
+T10	disease 2484 2506	perforation de l'iléon
+T11	disease 2526 2540	sténose iléale
+T12	disease 2796 2812	maladie de Crohn
+T13	disease 3021 3036	état infectieux
+#1	SNOMED T8	9209005
+#2	SNOMED T1	34000006
+#3	SNOMED T4	95919007
+#4	SNOMED T9	48661000+282068002
+#5	SNOMED T10	282068002
+#6	SNOMED T11	355468491000132106
+#7	SNOMED T3	38106008
+#8	SNOMED T12	34000006
+#9	SNOMED T5	79740000
+#10	SNOMED T6	300980002
+#11	SNOMED T7	31568009
+#12	SNOMED T13	40733004
+#13	SNOMED T2	228272008

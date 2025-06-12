@@ -1,0 +1,52 @@
+T1	morphology-onco 2478 2500	Masse sus-claviculaire
+T2	morphology-onco 2776 2827	néoplasme pulmonaire de stade radiologique T2aN3M1a
+T3	morphology-onco 2888 2897	néoplasme
+T4	morphology-onco 2989 2991	M0
+T5	morphology-onco 3009 3016	T2aN2M0
+T6	morphology-onco 3146 3155	malignité
+T7	morphology-onco 3222 3228	tumeur
+T8	morphology-onco 3382 3392	métastases
+T9	morphology-onco 3589 3619	cellules épithéliales malignes
+T10	morphology-onco 3640 3687	métastase d'un carcinome non à petites cellules
+T11	morphology-onco 3655 3700	carcinome non à petites cellules métastatique
+T12	morphology-onco 3824 3842	cellules tumorales
+T13	morphology-onco 3937 3946	métastase
+T14	morphology-onco 4143 4168	carcinome peu différencié
+T15	morphology-onco 4254 4280	atteinte supraclaviculaire
+T16	morphology-onco 4282 4285	M1c
+T17	morphology-onco 5639 5679	ganglions lymphatiques sus-claviculaires
+T18	morphology-onco 5713 5730	nodule pulmonaire
+#1	ICD-O-3.1 T4	8000/6
+#2	ICD-O-3.1 T16	8000/6
+#3	ICD-O-3.1 T5	8000/6
+#4	ICD-O-3.1 T17	8000/6
+#5	ICD-O-3.1 T14	8010/33
+#6	ICD-O-3.1 T9	8001/3/H
+#7	ICD-O-3.1 T12	8001/1
+#8	ICD-O-3.1 T6	8000/3
+#9	ICD-O-3.1 T8	8000/6
+#10	ICD-O-3.1 T13	8000/6
+#11	ICD-O-3.1 T3	8000/1
+#12	ICD-O-3.1 T18	8000/6
+#13	ICD-O-3.1 T7	8000/1
+#14	ICD-O-3.1 T1	8000/6
+#15	ICD-O-3.1 T2	8000/6
+#16	ICD-O-3.1 T10	8046/6
+#17	ICD-O-3.1 T11	8046/6
+#18	ICD-O-3.1 T15	8000/6
+#19	SNOMED T4	14799000
+#20	SNOMED T16	14799000
+#21	SNOMED T5	14799000
+#22	SNOMED T17	14799000
+#23	SNOMED T14	1187425009
+#24	SNOMED T9	88400008
+#25	SNOMED T12	39577004
+#26	SNOMED T6	1240414004
+#27	SNOMED T8	14799000
+#28	SNOMED T13	14799000
+#29	SNOMED T3	86251006
+#30	SNOMED T18	14799000
+#31	SNOMED T7	86251006
+#32	SNOMED T1	14799000
+#33	SNOMED T2	14799000
+#34	SNOMED T15	14799000

@@ -1,0 +1,48 @@
+T1	morphology-onco 613 633	mélanome superficiel
+T2	morphology-onco 1010 1016	tumeur
+T3	morphology-onco 1081 1090	métastase
+T4	morphology-onco 1107 1147	mélanome malin à extension superficielle
+T5	morphology-onco 1210 1212	M0
+T6	morphology-onco 1407 1413	tumeur
+T7	morphology-onco 1562 1575	métastatiques
+T8	morphology-onco 2044 2066	métastases de mélanome
+T9	morphology-onco 2936 2981	adénopathies dans la région supraclaviculaire
+T10	morphology-onco 3069 3079	métastases
+T11	morphology-onco 3122 3163	ganglionnaire axillaire-supraclaviculaire
+T12	morphology-onco 3728 3768	ganglions lymphatiques sus-claviculaires
+T13	morphology-onco 5005 5013	mélanome
+T14	morphology-onco 5049 5101	progression vers les ganglions lymphatiques pleuraux
+T15	morphology-onco 5767 5787	progression pleurale
+T16	morphology-onco 6774 6782	mélanome
+#1	ICD-O-3.1 T5	8000/6
+#2	ICD-O-3.1 T13	8720/3
+#3	ICD-O-3.1 T16	8720/3
+#4	ICD-O-3.1 T1	8743/3
+#5	ICD-O-3.1 T4	8743/3
+#6	ICD-O-3.1 T7	8000/6
+#7	ICD-O-3.1 T3	8000/6
+#8	ICD-O-3.1 T10	8000/6
+#9	ICD-O-3.1 T8	8720/6
+#10	ICD-O-3.1 T14	8000/6
+#11	ICD-O-3.1 T15	8000/6
+#12	ICD-O-3.1 T2	8000/1
+#13	ICD-O-3.1 T6	8000/1
+#14	ICD-O-3.1 T9	8000/6
+#15	ICD-O-3.1 T12	8000/6
+#16	ICD-O-3.1 T11	8000/6
+#17	SNOMED T5	14799000
+#18	SNOMED T13	1162635006
+#19	SNOMED T16	1162635006
+#20	SNOMED T1	55320002
+#21	SNOMED T4	55320002
+#22	SNOMED T7	14799000
+#23	SNOMED T3	14799000
+#24	SNOMED T10	14799000
+#25	SNOMED T8	372158004
+#26	SNOMED T14	14799000
+#27	SNOMED T15	14799000
+#28	SNOMED T2	86251006
+#29	SNOMED T6	86251006
+#30	SNOMED T9	14799000
+#31	SNOMED T12	14799000
+#32	SNOMED T11	14799000

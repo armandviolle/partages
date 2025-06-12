@@ -1,0 +1,22 @@
+T1	disease 326 332	tumeur
+T2	disease 428 442	masse tumorale
+T3	disease 474 532	infiltration du pôle supérieur et du segment moyen du rein
+T4	disease 541 591	implication du sinus et du système pyélocaliciaire
+T5	disease 611 686	invasion vasculaire lymphatique tumorale a été observée dans le tissu rénal
+T6	disease 712 757	Métastases médullaires de la glande surrénale
+T7	disease 759 831	invasion de la graisse périlésionnelle et nodules de la chaîne cavalière
+T8	disease 1035 1082	tumeur desmoplastique à petites cellules rondes
+T9	disease 2232 2293	infiltration tumorale n'a été détectée dans la moelle osseuse
+T10	disease 2329 2335	tumeur
+T11	disease 2343 2364	métastases hépatiques
+#1	SNOMED T2	55342001
+#2	SNOMED T9	94217008
+#3	SNOMED T8	363492001
+#4	SNOMED T5	94360002
+#5	SNOMED T11	94381002
+#6	SNOMED T6	94162004
+#7	SNOMED T7	94360002+74636004
+#8	SNOMED T1	55342001
+#9	SNOMED T3	363518003
+#10	SNOMED T4	130948000
+#11	SNOMED T10	55342001

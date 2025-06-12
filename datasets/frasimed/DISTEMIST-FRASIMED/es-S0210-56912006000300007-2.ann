@@ -1,0 +1,16 @@
+T1	disease 169 208	anévrisme aortique abdominal infrarénal
+T2	disease 305 318	proctorrhagie
+T3	disease 358 386	décompensation hémodynamique
+T4	disease 689 692	AFE
+T5	disease 802 822	cicatrice ombilicale
+T6	disease 980 1004	hématome rétropéritonéal
+T7	disease 1044 1063	EAF avec le jéjunum
+T8	disease 1126 1151	arrêt cardio-respiratoire
+#1	SNOMED T2	12063002
+#2	SNOMED T1	444569004
+#3	SNOMED T8	410430005
+#4	SNOMED T4	59047005
+#5	SNOMED T7	307403007
+#6	SNOMED T6	236002003
+#7	SNOMED T5	60155008
+#8	SNOMED T3	422773005

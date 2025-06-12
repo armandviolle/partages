@@ -1,0 +1,36 @@
+T1	morphology-onco 215 221	cancer
+T2	morphology-onco 920 950	adénopathies sus-claviculaires
+T3	morphology-onco 2161 2206	carcinome canalaire infiltrant de type solide
+T4	morphology-onco 2161 2246	carcinome canalaire infiltrant de type solide, principalement de grade histologique 3
+T5	morphology-onco 2444 2453	carcinome
+T6	morphology-onco 2537 2549	métastatique
+T7	morphology-onco 2566 2585	atteinte à distance
+T8	morphology-onco 2961 3021	Carcinome canalaire infiltrant du sein gauche, 2 cm, grade 3
+T9	morphology-onco 3034 3042	cT2cN1M0
+T10	morphology-onco 3144 3150	tumeur
+T11	morphology-onco 6499 6520	cellules néoplasiques
+T12	morphology-onco 6857 6868	néoplasique
+#1	ICD-O-3.1 T2	8000/6
+#2	ICD-O-3.1 T7	8000/6
+#3	ICD-O-3.1 T5	8010/3
+#4	ICD-O-3.1 T1	8000/3
+#5	ICD-O-3.1 T11	8001/1
+#6	ICD-O-3.1 T6	8000/6
+#7	ICD-O-3.1 T12	8000/1
+#8	ICD-O-3.1 T10	8000/1
+#9	ICD-O-3.1 T4	8500/33
+#10	ICD-O-3.1 T3	8230/3
+#11	ICD-O-3.1 T8	8500/33
+#12	ICD-O-3.1 T9	8000/6
+#13	SNOMED T2	14799000
+#14	SNOMED T7	14799000
+#15	SNOMED T5	1187425009
+#16	SNOMED T1	1240414004
+#17	SNOMED T11	39577004
+#18	SNOMED T6	14799000
+#19	SNOMED T12	86251006
+#20	SNOMED T10	86251006
+#21	SNOMED T4	58477004
+#22	SNOMED T3	81920005
+#23	SNOMED T8	58477004
+#24	SNOMED T9	14799000

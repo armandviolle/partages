@@ -1,0 +1,47 @@
+T1	morphology-onco 225 255	carcinome canalaire infiltrant
+T2	morphology-onco 963 972	néoplasie
+T3	morphology-onco 1199 1211	métastatique
+T4	morphology-onco 1349 1413	récidive confirmée histologiquement au niveau du hile pulmonaire
+T5	morphology-onco 1669 1691	tumeur mésenchymateuse
+T6	morphology-onco 1714 1720	PECome
+T7	morphology-onco 1722 1772	néoplasme à cellules épithélioïdes périvasculaires
+T8	morphology-onco 1835 1844	néoplasie
+T9	morphology-onco 1881 1887	PECome
+T10	morphology-onco 2285 2297	métastatique
+T11	morphology-onco 2328 2334	cancer
+T12	morphology-onco 2508 2514	PEComa
+T13	morphology-onco 2762 2768	PEComa
+T14	morphology-onco 2797 2845	récidive histologiquement confirmée dans le foie
+T15	morphology-onco 2912 2921	néoplasie
+T16	morphology-onco 3030 3048	lésions hépatiques
+T17	morphology-onco 3140 3149	néoplasie
+T18	morphology-onco 3189 3195	PECome
+#1	ICD-O-3.1 T1	8500/3
+#2	ICD-O-3.1 T16	8000/6
+#3	ICD-O-3.1 T3	8000/6
+#4	ICD-O-3.1 T10	8000/6
+#5	ICD-O-3.1 T2	8000/1
+#6	ICD-O-3.1 T8	8000/1
+#7	ICD-O-3.1 T11	8000/1
+#8	ICD-O-3.1 T15	8000/1
+#9	ICD-O-3.1 T17	8000/1
+#10	ICD-O-3.1 T4	8000/6
+#11	ICD-O-3.1 T5	8800/1
+#12	ICD-O-3.1 T6	8011/1/H
+#13	ICD-O-3.1 T7	8011/1/H
+#14	ICD-O-3.1 T9	8011/1/H
+#15	ICD-O-3.1 T12	8011/1/H
+#16	ICD-O-3.1 T13	8011/1/H
+#17	ICD-O-3.1 T14	8000/6
+#18	ICD-O-3.1 T18	8011/1/H
+#19	SNOMED T1	58477004
+#20	SNOMED T16	14799000
+#21	SNOMED T3	14799000
+#22	SNOMED T10	14799000
+#23	SNOMED T2	86251006
+#24	SNOMED T8	86251006
+#25	SNOMED T11	86251006
+#26	SNOMED T15	86251006
+#27	SNOMED T17	86251006
+#28	SNOMED T4	14799000
+#29	SNOMED T14	14799000

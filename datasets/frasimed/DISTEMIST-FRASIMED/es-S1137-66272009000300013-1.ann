@@ -1,0 +1,14 @@
+T1	disease 165 193	crise convulsive généralisée
+T2	disease 686 693	anxiété
+T3	disease 1110 1184	lésion kystique de 3 cm de diamètre dans la région fronto-pariétale gauche
+T4	disease 1363 1366	NCC
+T5	disease 1581 1626	cuisse, avec plusieurs petites calcifications
+T6	disease 1850 1918	épilepsie rolandique gauche secondaire à une cysticercose systémique
+T7	disease 1895 1918	cysticercose systémique
+#1	SNOMED T1	4619009
+#2	SNOMED T3	40720005
+#3	SNOMED T2	197480006
+#4	SNOMED T6	230215006+84757009
+#5	SNOMED T4	187148002
+#6	SNOMED T7	59051007
+#7	SNOMED T5	128135006

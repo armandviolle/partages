@@ -1,0 +1,28 @@
+T1	disease 380 502	lésions érythémateuses, vésiculaires avec une distribution dermatomateuse sur la peau de la région lombaire et de la fesse
+T2	disease 581 601	discopathie lombaire
+T3	disease 605 628	hypertension artérielle
+T4	disease 634 647	hypothyroïdie
+T5	disease 707 721	maladie rénale
+T6	disease 834 852	névrite herpétique
+T7	disease 1573 1585	vomissements
+T8	disease 1609 1619	dysarthrie
+T9	disease 1663 1696	effet secondaire des analgésiques
+T10	disease 2205 2226	œdème pulmonaire aigu
+T11	disease 2234 2253	insuffisance rénale
+T12	disease 2454 2473	acidose métabolique
+T13	disease 2517 2542	insuffisance rénale aiguë
+T14	disease 2517 2584	insuffisance rénale aiguë secondaire à l'administration d'acyclovir
+#1	SNOMED T6	282741006
+#2	SNOMED T9	292040004
+#3	SNOMED T1	53788007
+#4	SNOMED T2	443700006
+#5	SNOMED T3	38341003
+#6	SNOMED T4	40930008
+#7	SNOMED T10	40541001
+#8	SNOMED T11	723188008
+#9	SNOMED T5	90708001
+#10	SNOMED T12	59455009
+#11	SNOMED T13	723189000
+#12	SNOMED T14	236429004+372729009
+#13	SNOMED T8	8011004
+#14	SNOMED T7	300359004

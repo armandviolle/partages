@@ -1,0 +1,8 @@
+T1	disease 43 49	SEP-RR
+T2	disease 300 322	sérologie VJC positive
+T3	disease 599 622	lésions démyélinisantes
+T4	disease 897 943	lésions dans les deux centres semi-vasculaires
+#1	SNOMED T1	426373005
+#2	SNOMED T2	36319009+168276008
+#3	SNOMED T3	23414001
+#4	SNOMED T4	118934005

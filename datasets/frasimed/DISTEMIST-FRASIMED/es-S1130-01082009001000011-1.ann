@@ -1,0 +1,10 @@
+T1	disease 158 251	lésion sous-muqueuse de 1 cm de diamètre, située sur la face postérieure de l'antre gastrique
+T2	disease 266 276	ulcération
+T3	disease 808 841	tumeur stromale de type léiomyome
+T4	disease 832 841	léiomyome
+T5	disease 905 916	adénopathie
+#1	SNOMED T1	29384001
+#2	SNOMED T5	30746006
+#3	SNOMED T3	146801000119103
+#4	SNOMED T2	429040005
+#5	SNOMED T4	146801000119103

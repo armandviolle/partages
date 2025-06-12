@@ -1,0 +1,66 @@
+T1	morphology-onco 132 138	cancer
+T2	morphology-onco 477 497	atteinte péritonéale
+T3	morphology-onco 534 548	adénocarcinome
+T4	morphology-onco 593 605	métastatique
+T5	morphology-onco 626 633	T3cN1M0
+T6	morphology-onco 1113 1122	ypT3cN1M0
+T7	morphology-onco 1197 1232	adénocarcinome séreux de haut grade
+T8	morphology-onco 1335 1383	maladie a été observée dans le bassin et le foie
+T9	morphology-onco 2916 2933	implants omentaux
+T10	morphology-onco 2942 2954	Omental Cake
+T11	morphology-onco 2980 2986	tumeur
+T12	morphology-onco 3082 3091	néoplasme
+T13	morphology-onco 3421 3441	implants péritonéaux
+T14	morphology-onco 3751 3815	adénocarcinome papillaire séreux ovarien bilatéral de haut grade
+T15	morphology-onco 3898 3933	adénocarcinome séreux de haut grade
+T16	morphology-onco 3938 3947	néoplasme
+T17	morphology-onco 4209 4244	adénocarcinome séreux de haut grade
+T18	morphology-onco 4374 4409	adénocarcinome séreux de haut grade
+T19	morphology-onco 4501 4521	implants péritonéaux
+T20	morphology-onco 4821 4832	néoplasique
+T21	morphology-onco 4996 5034	Carcinome ovarien séreux de haut grade
+T22	morphology-onco 5586 5606	atteinte péritonéale
+#1	ICD-O-3.1 T21	8441/34
+#2	ICD-O-3.1 T3	8140/3
+#3	ICD-O-3.1 T7	8441/34
+#4	ICD-O-3.1 T15	8441/34
+#5	ICD-O-3.1 T17	8441/34
+#6	ICD-O-3.1 T18	8441/34
+#7	ICD-O-3.1 T1	8000/3
+#8	ICD-O-3.1 T12	8000/1
+#9	ICD-O-3.1 T16	8000/1
+#10	ICD-O-3.1 T20	8000/1
+#11	ICD-O-3.1 T11	8000/1
+#12	ICD-O-3.1 T4	8000/6
+#13	ICD-O-3.1 T5	8000/6
+#14	ICD-O-3.1 T6	8000/6
+#15	ICD-O-3.1 T14	8460/34
+#16	ICD-O-3.1 T10	8000/6
+#17	ICD-O-3.1 T9	8000/6
+#18	ICD-O-3.1 T13	8000/6
+#19	ICD-O-3.1 T19	8000/6
+#20	ICD-O-3.1 T2	8000/6
+#21	ICD-O-3.1 T22	8000/6
+#22	ICD-O-3.1 T8	8000/6
+#23	SNOMED T21	90725004
+#24	SNOMED T3	1187332001
+#25	SNOMED T7	90725004
+#26	SNOMED T15	90725004
+#27	SNOMED T17	90725004
+#28	SNOMED T18	90725004
+#29	SNOMED T1	1240414004
+#30	SNOMED T12	86251006
+#31	SNOMED T16	86251006
+#32	SNOMED T20	86251006
+#33	SNOMED T11	86251006
+#34	SNOMED T4	14799000
+#35	SNOMED T5	14799000
+#36	SNOMED T6	14799000
+#37	SNOMED T14	703561001
+#38	SNOMED T10	14799000
+#39	SNOMED T9	14799000
+#40	SNOMED T13	14799000
+#41	SNOMED T19	14799000
+#42	SNOMED T2	14799000
+#43	SNOMED T22	14799000
+#44	SNOMED T8	14799000

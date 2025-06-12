@@ -1,0 +1,36 @@
+T1	morphology-onco 1515 1525	métastases
+T2	morphology-onco 1711 1721	métastases
+T3	morphology-onco 1873 1892	mélanome infiltrant
+T4	morphology-onco 1965 1973	mélanome
+T5	morphology-onco 2067 2077	métastases
+T6	morphology-onco 3044 3054	métastases
+T7	morphology-onco 3358 3368	métastases
+T8	morphology-onco 3565 3589	rehaussement épendymaire
+T9	morphology-onco 3708 3730	atteinte leptoméningée
+T10	morphology-onco 3881 3949	récidive de mélanome malin de la muqueuse du système nerveux central
+T11	morphology-onco 3969 3991	atteinte leptoméningée
+T12	morphology-onco 4961 4983	invasion leptoméningée
+#1	ICD-O-3.1 T4	8720/3
+#2	ICD-O-3.1 T1	8000/6
+#3	ICD-O-3.1 T2	8000/6
+#4	ICD-O-3.1 T5	8000/6
+#5	ICD-O-3.1 T6	8000/6
+#6	ICD-O-3.1 T7	8000/6
+#7	ICD-O-3.1 T3	8720/3/H
+#8	ICD-O-3.1 T9	8000/6
+#9	ICD-O-3.1 T8	8000/6
+#10	ICD-O-3.1 T11	8000/6
+#11	ICD-O-3.1 T12	8000/6
+#12	ICD-O-3.1 T10	8720/6
+#13	SNOMED T4	1162635006
+#14	SNOMED T1	14799000
+#15	SNOMED T2	14799000
+#16	SNOMED T5	14799000
+#17	SNOMED T6	14799000
+#18	SNOMED T7	14799000
+#19	SNOMED T3	1162635006
+#20	SNOMED T9	14799000
+#21	SNOMED T8	14799000
+#22	SNOMED T11	14799000
+#23	SNOMED T12	14799000
+#24	SNOMED T10	372158004

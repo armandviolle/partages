@@ -1,0 +1,22 @@
+T1	disease 39 42	SSP
+T2	disease 81 93	syndrome sec
+T3	disease 136 148	polyarthrite
+T4	disease 722 772	infection active dans l'arcade dentaire inférieure
+T5	disease 812 828	lésions cutanées
+T6	disease 1278 1281	SSp
+T7	disease 1622 1650	glomérulonéphrite aiguë (GN)
+T8	disease 1647 1649	GN
+T9	disease 1712 1745	processus infectieux mandibulaire
+T10	disease 2498 2565	Glomérules avec thrombi intracapillaires massifs d'immunoglobulines
+T11	disease 2579 2628	glomérulopathie cryoglobulinémique associée au SS
+#1	SNOMED T7	19351000
+#2	SNOMED T1	239912009
+#3	SNOMED T2	83901003
+#4	SNOMED T11	236505008
+#5	SNOMED T9	363166002
+#6	SNOMED T3	202031002
+#7	SNOMED T4	32871000119101
+#8	SNOMED T5	95324001
+#9	SNOMED T6	239912009
+#10	SNOMED T8	36171008
+#11	SNOMED T10	123752003

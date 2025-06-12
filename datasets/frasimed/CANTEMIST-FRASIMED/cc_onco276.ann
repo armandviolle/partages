@@ -1,0 +1,26 @@
+T1	morphology-onco 1959 1968	néoplasme
+T2	morphology-onco 2235 2245	Métastases
+T3	morphology-onco 2270 2300	sarcome cardiaque métastatique
+T4	morphology-onco 2340 2372	tumeur cardiaque mésenchymateuse
+T5	morphology-onco 2873 2885	angiosarcome
+T6	morphology-onco 2873 2897	angiosarcome épithéloïde
+T7	morphology-onco 3106 3118	métastatique
+T8	morphology-onco 3164 3210	angiosarcome cardiaque de stade IV (métastases
+T9	morphology-onco 3481 3499	maladie pulmonaire
+#1	ICD-O-3.1 T1	8000/1
+#2	ICD-O-3.1 T5	9120/3
+#3	ICD-O-3.1 T7	8000/6
+#4	ICD-O-3.1 T2	8000/6
+#5	ICD-O-3.1 T3	8800/6
+#6	ICD-O-3.1 T4	8800/3
+#7	ICD-O-3.1 T6	8804/3
+#8	ICD-O-3.1 T8	9120/6
+#9	ICD-O-3.1 T9	8000/6
+#10	SNOMED T1	86251006
+#11	SNOMED T5	39000009
+#12	SNOMED T7	14799000
+#13	SNOMED T2	14799000
+#14	SNOMED T3	372152003
+#15	SNOMED T4	1187396000
+#16	SNOMED T6	59238007
+#17	SNOMED T9	14799000

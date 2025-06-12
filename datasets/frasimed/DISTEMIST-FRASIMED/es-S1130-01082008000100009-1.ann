@@ -1,0 +1,20 @@
+T1	disease 63 81	maladie de Hodgkin
+T2	disease 156 176	hémorragie digestive
+T3	disease 178 185	mélénas
+T4	disease 402 430	insuffisance hépatique aiguë
+T5	disease 450 465	encéphalopathie
+T6	disease 473 510	hémorragie gastro-intestinale massive
+T7	disease 536 554	lésions hépatiques
+T8	disease 581 634	lésions focales dans le tiers inférieur de l'œsophage
+T9	disease 694 700	lésion
+T10	disease 796 816	infection herpétique
+#1	SNOMED T7	243978007
+#2	SNOMED T1	118599009
+#3	SNOMED T8	37657006
+#4	SNOMED T2	74474003
+#5	SNOMED T3	2901004
+#6	SNOMED T10	23513009
+#7	SNOMED T4	197270009
+#8	SNOMED T5	81308009
+#9	SNOMED T6	74474003
+#10	SNOMED T9	417163006

@@ -1,0 +1,10 @@
+T1	disease 178 268	pseudo-anévrisme de l'aorte thoracique distal à la sortie de l'artère sous-clavière gauche
+T2	disease 287 323	hématome périaortique et médiastinal
+T3	disease 337 357	hémothorax bilatéral
+T4	disease 481 492	traumatisme
+T5	disease 581 636	artère sous-clavière gauche a été partiellement occluse
+#1	SNOMED T1	113262008+22036004
+#2	SNOMED T5	18000001000004101
+#3	SNOMED T3	31892009
+#4	SNOMED T4	417746004
+#5	SNOMED T2	473451005+301296002

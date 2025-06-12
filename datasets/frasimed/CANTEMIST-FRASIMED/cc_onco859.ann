@@ -1,0 +1,44 @@
+T1	morphology-onco 519 528	carcinome
+T2	morphology-onco 1215 1245	carcinome canalaire infiltrant
+T3	morphology-onco 1400 1441	carcinome canalaire infiltrant de grade 2
+T4	morphology-onco 1518 1545	maladie de Paget du mamelon
+T5	morphology-onco 1571 1601	carcinome canalaire infiltrant
+T6	morphology-onco 1632 1647	comédocarcinome
+T7	morphology-onco 1762 1777	macrométastases
+T8	morphology-onco 1824 1830	tumeur
+T9	morphology-onco 2102 2117	micrométastases
+T10	morphology-onco 2170 2209	carcinome mammaire canalaire infiltrant
+T11	morphology-onco 2232 2234	Mx
+T12	morphology-onco 2546 2556	métastases
+T13	morphology-onco 2589 2599	métastases
+T14	morphology-onco 2709 2732	métastases de carcinome
+T15	morphology-onco 3913 4004	Carcinome canalaire infiltrant du sein, sous-type luminal B, stade IV avec atteinte osseuse
+#1	ICD-O-3.1 T2	8500/3
+#2	ICD-O-3.1 T5	8500/3
+#3	ICD-O-3.1 T10	8500/3
+#4	ICD-O-3.1 T12	8000/6
+#5	ICD-O-3.1 T13	8000/6
+#6	ICD-O-3.1 T14	8010/6
+#7	ICD-O-3.1 T9	8000/6
+#8	ICD-O-3.1 T8	8000/1
+#9	ICD-O-3.1 T1	8010/3
+#10	ICD-O-3.1 T3	8500/32
+#11	ICD-O-3.1 T6	8501/3
+#12	ICD-O-3.1 T7	8000/6
+#13	ICD-O-3.1 T15	8500/6
+#14	ICD-O-3.1 T11	8000/6
+#15	ICD-O-3.1 T4	8540/3
+#16	SNOMED T2	58477004
+#17	SNOMED T5	58477004
+#18	SNOMED T10	58477004
+#19	SNOMED T12	14799000
+#20	SNOMED T13	14799000
+#21	SNOMED T14	79282002
+#22	SNOMED T9	14799000
+#23	SNOMED T8	86251006
+#24	SNOMED T1	1187425009
+#25	SNOMED T3	58477004
+#26	SNOMED T6	36425007
+#27	SNOMED T7	14799000
+#28	SNOMED T11	14799000
+#29	SNOMED T4	2985005

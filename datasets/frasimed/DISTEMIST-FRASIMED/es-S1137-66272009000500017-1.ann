@@ -1,0 +1,10 @@
+T1	disease 66 87	crise tonico-clonique
+T2	disease 106 126	processus infectieux
+T3	disease 1036 1074	métabolites de la cocaïne dans l'urine
+T4	disease 1275 1302	fumeur régulier de cannabis
+T5	disease 1349 1371	consommé de la cocaïne
+#1	SNOMED T1	54200006
+#2	SNOMED T3	442184000+387085005
+#3	SNOMED T4	723933008
+#4	SNOMED T5	78267003
+#5	SNOMED T2	40733004

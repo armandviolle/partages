@@ -1,0 +1,9 @@
+T1	morphology-onco 333 379	adénocarcinome de la prostate de Gleason 5 + 4
+T2	morphology-onco 820 863	carcinome neuroendocrine à petites cellules
+T3	morphology-onco 2753 2791	carcinome neuroendocrine indifférencié
+#1	ICD-O-3.1 T2	8041/3
+#2	ICD-O-3.1 T3	8246/34
+#3	ICD-O-3.1 T1	8140/34
+#4	SNOMED T2	11010461000119101
+#5	SNOMED T3	55937004
+#6	SNOMED T1	1187332001

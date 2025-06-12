@@ -1,0 +1,16 @@
+T1	disease 142 174	lymphadénopathie submandibulaire
+T2	disease 605 654	conglomérat submandibulaire gauche d'adénopathies
+T3	disease 738 758	ganglion lymphatique
+T4	disease 1539 1550	adénopathie
+T5	disease 1646 1684	lymphadénite granulomateuse nécrosante
+T6	disease 1755 1775	adénite tuberculeuse
+T7	disease 1930 1966	culture était positive pour M. bovis
+T8	disease 2533 2553	processus infectieux
+#1	SNOMED T2	127084003
+#2	SNOMED T6	10893003
+#3	SNOMED T1	127084003
+#4	SNOMED T3	30746006
+#5	SNOMED T5	426121003
+#6	SNOMED T7	373437006
+#7	SNOMED T8	40733004
+#8	SNOMED T4	30746006

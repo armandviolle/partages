@@ -1,0 +1,17 @@
+T1	morphology-onco 215 272	carcinome rénal à cellules claires de grade I de Fuhrmann
+T2	morphology-onco 1302 1322	lésion endotrachéale
+T3	morphology-onco 1832 1871	carcinome compatible avec une métastase
+T4	morphology-onco 2158 2167	métastase
+T5	morphology-onco 2195 2252	carcinome rénal à cellules claires de stade IV (métastase
+T6	morphology-onco 2326 2338	métastatique
+#1	ICD-O-3.1 T3	8010/6
+#2	ICD-O-3.1 T6	8000/6
+#3	ICD-O-3.1 T4	8000/6
+#4	ICD-O-3.1 T1	8310/31
+#5	ICD-O-3.1 T5	8310/6
+#6	ICD-O-3.1 T2	8000/6
+#7	SNOMED T3	79282002
+#8	SNOMED T6	14799000
+#9	SNOMED T4	14799000
+#10	SNOMED T1	30546008
+#11	SNOMED T2	14799000

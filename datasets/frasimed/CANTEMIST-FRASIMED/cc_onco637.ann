@@ -1,0 +1,15 @@
+T1	morphology-onco 1145 1189	carcinome épidermoïde modérément différencié
+T2	morphology-onco 1417 1438	Carcinome épidermoïde
+T3	morphology-onco 1707 1728	carcinome épidermoïde
+T4	morphology-onco 2042 2063	carcinome épidermoïde
+T5	morphology-onco 2776 2783	tumoral
+#1	ICD-O-3.1 T2	8070/3
+#2	ICD-O-3.1 T3	8070/3
+#3	ICD-O-3.1 T4	8070/3
+#4	ICD-O-3.1 T1	8070/32
+#5	ICD-O-3.1 T5	8000/1
+#6	SNOMED T2	1162767002
+#7	SNOMED T3	1162767002
+#8	SNOMED T4	1162767002
+#9	SNOMED T1	1162767002
+#10	SNOMED T5	86251006

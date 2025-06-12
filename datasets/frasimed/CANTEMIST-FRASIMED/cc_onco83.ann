@@ -1,0 +1,42 @@
+T1	morphology-onco 217 271	adénocarcinome de stade IV du bas rectum (2 métastases
+T2	morphology-onco 285 292	cT3N0M1
+T3	morphology-onco 694 746	Adénocarcinome du bas rectum, stade IV (2 métastases
+T4	morphology-onco 760 767	cT3N0M1
+T5	morphology-onco 990 1042	adénocarcinome d'origine colorectale ypT3N0 (0/17)M1
+T6	morphology-onco 1337 1347	métastases
+T7	morphology-onco 1579 1609	nodules pulmonaires bilatéraux
+T8	morphology-onco 1908 1922	adénocarcinome
+T9	morphology-onco 2578 2592	adénocarcinome
+T10	morphology-onco 2655 2664	métastase
+T11	morphology-onco 2718 2748	métastases de l'adénocarcinome
+T12	morphology-onco 3064 3076	métastatique
+T13	morphology-onco 3093 3126	progressions au niveau pulmonaire
+T14	morphology-onco 3698 3710	métastatique
+#1	ICD-O-3.1 T14	8000/6
+#2	ICD-O-3.1 T6	8000/6
+#3	ICD-O-3.1 T10	8000/6
+#4	ICD-O-3.1 T11	8140/6
+#5	ICD-O-3.1 T1	8140/6
+#6	ICD-O-3.1 T2	8000/6
+#7	ICD-O-3.1 T3	8140/6
+#8	ICD-O-3.1 T4	8000/6
+#9	ICD-O-3.1 T5	8140/6
+#10	ICD-O-3.1 T8	8140/3
+#11	ICD-O-3.1 T12	8000/6
+#12	ICD-O-3.1 T7	8000/6
+#13	ICD-O-3.1 T9	8140/3
+#14	ICD-O-3.1 T13	8000/6
+#15	SNOMED T14	14799000
+#16	SNOMED T6	14799000
+#17	SNOMED T10	14799000
+#18	SNOMED T11	4590003
+#19	SNOMED T1	4590003
+#20	SNOMED T2	14799000
+#21	SNOMED T3	4590003
+#22	SNOMED T4	14799000
+#23	SNOMED T5	4590003
+#24	SNOMED T8	1187332001
+#25	SNOMED T12	14799000
+#26	SNOMED T7	14799000
+#27	SNOMED T9	1187332001
+#28	SNOMED T13	14799000

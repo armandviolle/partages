@@ -1,0 +1,24 @@
+T1	disease 687 704	phlegmon dentaire
+T2	disease 1192 1246	dépendance à la cocaïne par inhalation, à la marijuana
+T3	disease 1253 1258	tabac
+T4	disease 1387 1442	formation tumorale dans la région maxillaire inférieure
+T5	disease 1788 1816	adénomégalie submandibulaire
+T6	disease 2431 2437	Chagas
+T7	disease 2445 2461	hépatites B et C
+T8	disease 2491 2503	toxoplasmose
+T9	disease 2747 2760	splénomégalie
+T10	disease 3635 3665	LB primaire de la cavité orale
+T11	disease 4182 4202	lésion de la gencive
+T12	disease 4286 4305	maladie néoplasique
+#1	SNOMED T2	31956009+85005007
+#2	SNOMED T4	126551000
+#3	SNOMED T11	18718003
+#4	SNOMED T12	55342001
+#5	SNOMED T5	127085002
+#6	SNOMED T1	299709002
+#7	SNOMED T10	449063007
+#8	SNOMED T7	442374005
+#9	SNOMED T8	187192000
+#10	SNOMED T6	77506005
+#11	SNOMED T9	16294009
+#12	SNOMED T3	365982000

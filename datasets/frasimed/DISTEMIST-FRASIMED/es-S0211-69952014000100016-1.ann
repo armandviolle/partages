@@ -1,0 +1,32 @@
+T1	disease 65 142	insuffisance rénale chronique terminale secondaire à une maladie polykystique
+T2	disease 396 417	rejet cellulaire aigu
+T3	disease 793 807	sinusite aiguë
+T4	disease 918 935	proptose oculaire
+T5	disease 1009 1017	diplopie
+T6	disease 1022 1030	épiphora
+T7	disease 1035 1051	ulcère du palais
+T8	disease 1223 1254	ulcère étendu sur le palais dur
+T9	disease 1260 1277	proptose oculaire
+T10	disease 1283 1297	ophtalmoplégie
+T11	disease 1303 1333	perte de vision de l'œil droit
+T12	disease 1647 1651	MROC
+T13	disease 1889 1897	sinusite
+T14	disease 1916 1938	abcès cérébral frontal
+T15	disease 2121 2140	infection par Mucor
+T16	disease 3002 3011	infection
+#1	SNOMED T1	723190009
+#2	SNOMED T3	15805002
+#3	SNOMED T4	18265008
+#4	SNOMED T7	300952004
+#5	SNOMED T8	300952004
+#6	SNOMED T9	18265008
+#7	SNOMED T10	16110005
+#8	SNOMED T11	274572000
+#9	SNOMED T13	36971009
+#10	SNOMED T14	60404007
+#11	SNOMED T16	40733004
+#12	SNOMED T2	40442005
+#13	SNOMED T12	187100003
+#14	SNOMED T15	31819001
+#15	SNOMED T5	24982008
+#16	SNOMED T6	49393005

@@ -1,0 +1,33 @@
+T1	morphology-onco 2375 2426	cellules aux caractéristiques cytologiques malignes
+T2	morphology-onco 3223 3245	sarcome granulocytaire
+T3	morphology-onco 3572 3594	sarcome granulocytaire
+T4	morphology-onco 3903 3925	sarcome granulocytaire
+T5	morphology-onco 4113 4136	Néoplasme indifférencié
+T6	morphology-onco 4205 4227	sarcome granulocytaire
+T7	morphology-onco 4304 4326	sarcome granulocytaire
+T8	morphology-onco 5222 5246	tumeur neuroectodermique
+T9	morphology-onco 5681 5687	tumeur
+T10	morphology-onco 6380 6386	tumeur
+T11	morphology-onco 6410 6418	tumorale
+#1	ICD-O-3.1 T5	8000/14
+#2	ICD-O-3.1 T2	9930/3
+#3	ICD-O-3.1 T3	9930/3
+#4	ICD-O-3.1 T4	9930/3
+#5	ICD-O-3.1 T6	9930/3
+#6	ICD-O-3.1 T7	9930/3
+#7	ICD-O-3.1 T9	8000/1
+#8	ICD-O-3.1 T11	8000/1
+#9	ICD-O-3.1 T10	8000/1
+#10	ICD-O-3.1 T1	8001/3
+#11	ICD-O-3.1 T8	9364/3
+#12	SNOMED T5	86251006
+#13	SNOMED T2	35287006
+#14	SNOMED T3	35287006
+#15	SNOMED T4	35287006
+#16	SNOMED T6	35287006
+#17	SNOMED T7	35287006
+#18	SNOMED T9	86251006
+#19	SNOMED T11	86251006
+#20	SNOMED T10	86251006
+#21	SNOMED T1	88400008
+#22	SNOMED T8	254764001

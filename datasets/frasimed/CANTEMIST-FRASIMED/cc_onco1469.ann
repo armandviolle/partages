@@ -1,0 +1,44 @@
+T1	morphology-onco 1686 1692	tumeur
+T2	morphology-onco 1961 1971	métastases
+T3	morphology-onco 2067 2076	Métastase
+T4	morphology-onco 2424 2453	carcinome du canal collecteur
+T5	morphology-onco 2700 2712	métastatisés
+T6	morphology-onco 2720 2749	carcinome du canal collecteur
+T7	morphology-onco 2763 2836	Carcinome rénal de Bellini de stade IV avec atteinte osseuse métastatique
+T8	morphology-onco 2917 2946	carcinome du canal collecteur
+T9	morphology-onco 3139 3175	cancer des cellules transitionnelles
+T10	morphology-onco 3497 3512	maladie osseuse
+T11	morphology-onco 3734 3748	lésion osseuse
+T12	morphology-onco 3881 3891	métastases
+T13	morphology-onco 4026 4041	maladie osseuse
+T14	morphology-onco 4314 4322	tumorale
+T15	morphology-onco 4359 4377	maladie pulmonaire
+#1	ICD-O-3.1 T3	8000/6
+#2	ICD-O-3.1 T15	8000/6
+#3	ICD-O-3.1 T10	8000/6
+#4	ICD-O-3.1 T13	8000/6
+#5	ICD-O-3.1 T11	8000/6
+#6	ICD-O-3.1 T2	8000/6
+#7	ICD-O-3.1 T12	8000/6
+#8	ICD-O-3.1 T1	8000/1
+#9	ICD-O-3.1 T14	8000/1
+#10	ICD-O-3.1 T4	8319/3
+#11	ICD-O-3.1 T5	8000/6
+#12	ICD-O-3.1 T6	8319/3
+#13	ICD-O-3.1 T7	8319/6
+#14	ICD-O-3.1 T8	8319/3
+#15	ICD-O-3.1 T9	8120/3
+#16	SNOMED T3	14799000
+#17	SNOMED T15	14799000
+#18	SNOMED T10	14799000
+#19	SNOMED T13	14799000
+#20	SNOMED T11	14799000
+#21	SNOMED T2	14799000
+#22	SNOMED T12	14799000
+#23	SNOMED T1	86251006
+#24	SNOMED T14	86251006
+#25	SNOMED T4	733470002
+#26	SNOMED T5	14799000
+#27	SNOMED T6	733470002
+#28	SNOMED T8	733470002
+#29	SNOMED T9	27090000

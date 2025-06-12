@@ -1,0 +1,60 @@
+T1	morphology-onco 1256 1265	néoplasie
+T2	morphology-onco 1332 1346	adénocarcinome
+T3	morphology-onco 1718 1726	fibromes
+T4	morphology-onco 1764 1782	maladie à distance
+T5	morphology-onco 1907 1915	fibromes
+T6	morphology-onco 2061 2075	Adénocarcinome
+T7	morphology-onco 2105 2114	Myomatose
+T8	morphology-onco 2557 2571	adénocarcinome
+T9	morphology-onco 2557 2620	adénocarcinome entéroïde, avec une composante mucineuse de 20 %
+T10	morphology-onco 2685 2687	M0
+T11	morphology-onco 2715 2723	tumorale
+T12	morphology-onco 2761 2766	myome
+T13	morphology-onco 2779 2788	léiomyome
+T14	morphology-onco 3087 3095	fibromes
+T15	morphology-onco 3332 3346	adénocarcinome
+T16	morphology-onco 3379 3404	métastases d'un carcinome
+T17	morphology-onco 3426 3493	adénocarcinome peu différencié avec différenciation muco-sécrétoire
+T18	morphology-onco 3502 3512	léiomyomes
+T19	morphology-onco 3630 3649	nodules pulmonaires
+T20	morphology-onco 3710 3720	métastases
+#1	ICD-O-3.1 T6	8140/3
+#2	ICD-O-3.1 T10	8000/6
+#3	ICD-O-3.1 T7	8895/0
+#4	ICD-O-3.1 T2	8140/3
+#5	ICD-O-3.1 T8	8140/3
+#6	ICD-O-3.1 T15	8140/3
+#7	ICD-O-3.1 T4	8000/6
+#8	ICD-O-3.1 T13	8890/0
+#9	ICD-O-3.1 T18	8890/0
+#10	ICD-O-3.1 T20	8000/6
+#11	ICD-O-3.1 T16	8010/6
+#12	ICD-O-3.1 T12	8895/0
+#13	ICD-O-3.1 T3	8895/0
+#14	ICD-O-3.1 T5	8895/0
+#15	ICD-O-3.1 T14	8895/0
+#16	ICD-O-3.1 T1	8000/1
+#17	ICD-O-3.1 T19	8000/6
+#18	ICD-O-3.1 T11	8000/1
+#19	ICD-O-3.1 T17	8481/33
+#20	ICD-O-3.1 T9	8480/3
+#21	SNOMED T6	1187332001
+#22	SNOMED T10	14799000
+#23	SNOMED T7	1156875002
+#24	SNOMED T2	1187332001
+#25	SNOMED T8	1187332001
+#26	SNOMED T15	1187332001
+#27	SNOMED T4	14799000
+#28	SNOMED T13	1187125003
+#29	SNOMED T18	1187125003
+#30	SNOMED T20	14799000
+#31	SNOMED T16	79282002
+#32	SNOMED T12	1156875002
+#33	SNOMED T3	1156875002
+#34	SNOMED T5	1156875002
+#35	SNOMED T14	1156875002
+#36	SNOMED T1	86251006
+#37	SNOMED T19	14799000
+#38	SNOMED T11	86251006
+#39	SNOMED T17	900006
+#40	SNOMED T9	72495009

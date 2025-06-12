@@ -1,0 +1,21 @@
+T1	morphology-onco 951 973	(LOE) fronto-temporale
+T2	morphology-onco 1386 1423	adénocarcinome non à petites cellules
+T3	morphology-onco 2620 2629	néoplasie
+T4	morphology-onco 2709 2723	adénocarcinome
+T5	morphology-onco 2823 2871	Adénocarcinome pulmonaire de stade IVa (T2bN2M1b
+T6	morphology-onco 2873 2892	LOE cérébral unique
+T7	morphology-onco 4315 4324	néoplasme
+#1	ICD-O-3.1 T4	8140/3
+#2	ICD-O-3.1 T2	8046/3
+#3	ICD-O-3.1 T3	8000/1
+#4	ICD-O-3.1 T7	8000/1
+#5	ICD-O-3.1 T5	8140/6
+#6	ICD-O-3.1 T6	8000/6
+#7	ICD-O-3.1 T1	8000/6
+#8	SNOMED T4	1187332001
+#9	SNOMED T2	128632008
+#10	SNOMED T3	86251006
+#11	SNOMED T7	86251006
+#12	SNOMED T5	4590003
+#13	SNOMED T6	14799000
+#14	SNOMED T1	14799000

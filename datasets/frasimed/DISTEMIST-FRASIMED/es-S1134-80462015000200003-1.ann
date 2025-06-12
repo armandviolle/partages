@@ -1,0 +1,8 @@
+T1	disease 17 27	diabétique
+T2	disease 31 41	hypertendu
+T3	disease 62 92	grave maladie rénale chronique
+T4	disease 210 228	coxarthrose sévère
+#1	SNOMED T1	73211009
+#2	SNOMED T2	38341003
+#3	SNOMED T3	709044004
+#4	SNOMED T4	239872002

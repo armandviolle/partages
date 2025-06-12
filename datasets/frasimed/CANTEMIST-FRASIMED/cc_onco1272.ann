@@ -1,0 +1,12 @@
+T1	morphology-onco 54 60	cancer
+T2	morphology-onco 233 263	carcinome canalaire infiltrant
+T3	morphology-onco 265 268	CDI
+T4	morphology-onco 2331 2342	néoplasique
+#1	ICD-O-3.1 T3	8500/3
+#2	ICD-O-3.1 T2	8500/3
+#3	ICD-O-3.1 T1	8000/3
+#4	ICD-O-3.1 T4	8000/1
+#5	SNOMED T3	58477004
+#6	SNOMED T2	58477004
+#7	SNOMED T1	1240414004
+#8	SNOMED T4	86251006

@@ -1,0 +1,18 @@
+T1	disease 331 372	hydrocèle sous tension dans l'hémiscrotum
+T2	disease 386 402	hydrocèle légère
+T3	disease 613 622	hydrocèle
+T4	disease 911 931	hydrocèle bilatérale
+T5	disease 1395 1427	atteinte vasculaire testiculaire
+T6	disease 1531 1540	hydrocèle
+T7	disease 1568 1585	torsion du cordon
+T8	disease 1804 1839	infarctus hémorragique testiculaire
+T9	disease 1903 1912	hydrocèle
+#1	SNOMED T5	1145181009
+#2	SNOMED T1	26614003
+#3	SNOMED T8	33793000
+#4	SNOMED T2	26614003
+#5	SNOMED T9	26614003
+#6	SNOMED T6	26614003
+#7	SNOMED T4	26614003
+#8	SNOMED T3	26614003
+#9	SNOMED T7	49198006

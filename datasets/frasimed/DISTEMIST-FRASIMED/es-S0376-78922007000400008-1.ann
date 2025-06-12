@@ -1,0 +1,40 @@
+T1	disease 20 47	allergique à la pénicilline
+T2	disease 49 55	buvant
+T3	disease 88 93	obèse
+T4	disease 471 477	ascite
+T5	disease 582 591	pétéchies
+T6	disease 1243 1249	ascite
+T7	disease 1273 1300	maladie hépatique chronique
+T8	disease 1308 1321	splénomégalie
+T9	disease 1355 1380	insuffisance rénale aiguë
+T10	disease 1405 1446	hépatopathie chronique d'origine énolique
+T11	disease 1456 1485	cellulite du membre inférieur
+T12	disease 1816 1847	lésions sur le membre inférieur
+T13	disease 1910 1919	cellulite
+T14	disease 1935 1942	cloques
+T15	disease 2600 2627	lésions du membre inférieur
+T16	disease 2697 2763	cloques jusqu'au tiers moyen de la cuisse et une atteinte scrotale
+T17	disease 3119 3145	défaillance multiorganique
+T18	disease 3147 3172	insuffisance rénale aiguë
+T19	disease 3174 3187	coagulopathie
+T20	disease 3191 3230	syndrome de détresse respiratoire aiguë
+#1	SNOMED T17	57653000
+#2	SNOMED T2	7200002
+#3	SNOMED T18	14669001
+#4	SNOMED T19	64779008
+#5	SNOMED T3	414916001
+#6	SNOMED T20	67782005
+#7	SNOMED T6	389026000
+#8	SNOMED T7	328383001
+#9	SNOMED T4	389026000
+#10	SNOMED T8	16294009
+#11	SNOMED T9	723189000
+#12	SNOMED T10	713181003
+#13	SNOMED T11	449710006
+#14	SNOMED T12	118937003
+#15	SNOMED T13	128045006
+#16	SNOMED T14	339008
+#17	SNOMED T15	118937003
+#18	SNOMED T16	128135006+703864002
+#19	SNOMED T1	91936005
+#20	SNOMED T5	271813007

@@ -1,0 +1,12 @@
+T1	disease 30 48	traumatisme facial
+T2	disease 94 100	lésion
+T3	disease 126 151	fracture d'angle déplacée
+T4	disease 189 195	lésion
+T5	disease 277 285	fracture
+T6	disease 414 445	kyste radiculaire inflammatoire
+#1	SNOMED T1	125593007
+#2	SNOMED T6	89988002
+#3	SNOMED T3	721326008
+#4	SNOMED T2	417163006
+#5	SNOMED T4	417163006
+#6	SNOMED T5	72704001

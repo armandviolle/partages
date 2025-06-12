@@ -1,0 +1,12 @@
+T1	morphology-onco 704 787	carcinome épidermoïde pulmonaire de stade IV en raison d'une atteinte surrénalienne
+T2	morphology-onco 897 915	cellules tumorales
+T3	morphology-onco 1530 1558	lésion dans la paroi costale
+T4	morphology-onco 1592 1626	lésion dans la lame iliaque gauche
+#1	ICD-O-3.1 T2	8001/1
+#2	ICD-O-3.1 T4	8000/6
+#3	ICD-O-3.1 T1	8070/6
+#4	ICD-O-3.1 T3	8000/6
+#5	SNOMED T2	39577004
+#6	SNOMED T4	14799000
+#7	SNOMED T1	403906006
+#8	SNOMED T3	14799000

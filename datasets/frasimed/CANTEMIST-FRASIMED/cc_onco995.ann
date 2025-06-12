@@ -1,0 +1,72 @@
+T1	morphology-onco 159 168	myomatose
+T2	morphology-onco 464 475	néoplasique
+T3	morphology-onco 723 737	adénocarcinome
+T4	morphology-onco 769 772	uM0
+T5	morphology-onco 1047 1055	fibromes
+T6	morphology-onco 1101 1110	etpT3N1M0
+T7	morphology-onco 1619 1627	fibromes
+T8	morphology-onco 1793 1807	adénocarcinome
+T9	morphology-onco 1848 1872	métastase d'un carcinome
+T10	morphology-onco 2178 2190	métastatique
+T11	morphology-onco 2314 2361	nodules de 4 et 5 mm dans les bases pulmonaires
+T12	morphology-onco 2681 2695	Adénocarcinome
+T13	morphology-onco 2706 2714	ypT3N1M0
+T14	morphology-onco 2848 2856	fibromes
+T15	morphology-onco 2880 2915	adénocarcinome gastrique rIV (OTHER
+T16	morphology-onco 2993 3031	adénocarcinome gastrique rIV (PULMONAR
+T17	morphology-onco 3201 3215	adénocarcinome
+T18	morphology-onco 4165 4183	rechute pulmonaire
+T19	morphology-onco 4223 4246	progression péritonéale
+T20	morphology-onco 4263 4278	masse pelvienne
+T21	morphology-onco 4914 4946	progression au niveau péritonéal
+T22	morphology-onco 4954 4974	implant rectovésical
+T23	morphology-onco 5918 5962	implants dans la partie antérieure du rectum
+T24	morphology-onco 6117 6142	implant dans le mésocôlon
+#1	ICD-O-3.1 T12	8140/3
+#2	ICD-O-3.1 T3	8140/3
+#3	ICD-O-3.1 T8	8140/3
+#4	ICD-O-3.1 T17	8140/3
+#5	ICD-O-3.1 T20	8000/6
+#6	ICD-O-3.1 T10	8000/6
+#7	ICD-O-3.1 T9	8010/6
+#8	ICD-O-3.1 T5	8895/0
+#9	ICD-O-3.1 T7	8895/0
+#10	ICD-O-3.1 T14	8895/0
+#11	ICD-O-3.1 T2	8000/1
+#12	ICD-O-3.1 T19	8000/6
+#13	ICD-O-3.1 T18	8000/6
+#14	ICD-O-3.1 T1	8895/0
+#15	ICD-O-3.1 T4	8000/6
+#16	ICD-O-3.1 T6	8000/6
+#17	ICD-O-3.1 T13	8000/6
+#18	ICD-O-3.1 T11	8000/6
+#19	ICD-O-3.1 T15	8140/6
+#20	ICD-O-3.1 T16	8140/6
+#21	ICD-O-3.1 T21	8000/6
+#22	ICD-O-3.1 T22	8000/6
+#23	ICD-O-3.1 T23	8000/6
+#24	ICD-O-3.1 T24	8000/6
+#25	SNOMED T12	1187332001
+#26	SNOMED T3	1187332001
+#27	SNOMED T8	1187332001
+#28	SNOMED T17	1187332001
+#29	SNOMED T20	14799000
+#30	SNOMED T10	14799000
+#31	SNOMED T9	79282002
+#32	SNOMED T5	1156875002
+#33	SNOMED T7	1156875002
+#34	SNOMED T14	1156875002
+#35	SNOMED T2	86251006
+#36	SNOMED T19	14799000
+#37	SNOMED T18	14799000
+#38	SNOMED T1	1156875002
+#39	SNOMED T4	14799000
+#40	SNOMED T6	14799000
+#41	SNOMED T13	14799000
+#42	SNOMED T11	14799000
+#43	SNOMED T15	4590003
+#44	SNOMED T16	4590003
+#45	SNOMED T21	14799000
+#46	SNOMED T22	14799000
+#47	SNOMED T23	14799000
+#48	SNOMED T24	14799000

@@ -1,0 +1,33 @@
+T1	morphology-onco 150 156	cancer
+T2	morphology-onco 222 228	cancer
+T3	morphology-onco 1083 1089	tumeur
+T4	morphology-onco 1412 1438	carcinome rénal papillaire
+T5	morphology-onco 1412 1473	carcinome rénal papillaire à cellules claires et éosinophiles
+T6	morphology-onco 1412 1494	carcinome rénal papillaire à cellules claires et éosinophiles de grade Furhman 3-4
+T7	morphology-onco 1558 1568	métastases
+T8	morphology-onco 1738 1747	carcinome
+T9	morphology-onco 2032 2041	carcinome
+T10	morphology-onco 2269 2281	métastatique
+T11	morphology-onco 2726 2734	tumorale
+#1	ICD-O-3.1 T8	8010/3
+#2	ICD-O-3.1 T9	8010/3
+#3	ICD-O-3.1 T1	8000/3
+#4	ICD-O-3.1 T2	8000/3
+#5	ICD-O-3.1 T7	8000/6
+#6	ICD-O-3.1 T3	8000/1
+#7	ICD-O-3.1 T11	8000/1
+#8	ICD-O-3.1 T6	8310/34
+#9	ICD-O-3.1 T10	8000/6
+#10	ICD-O-3.1 T5	8280/3
+#11	ICD-O-3.1 T4	8260/3
+#12	SNOMED T8	1187425009
+#13	SNOMED T9	1187425009
+#14	SNOMED T1	1240414004
+#15	SNOMED T2	1240414004
+#16	SNOMED T7	14799000
+#17	SNOMED T3	86251006
+#18	SNOMED T11	86251006
+#19	SNOMED T6	30546008
+#20	SNOMED T10	14799000
+#21	SNOMED T5	51217003
+#22	SNOMED T4	4797003

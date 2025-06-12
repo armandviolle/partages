@@ -1,0 +1,45 @@
+T1	morphology-onco 118 147	leucémie aiguë myéloblastique
+T2	morphology-onco 228 264	carcinome pyélo-urétéral épidermoïde
+T3	morphology-onco 2167 2210	carcinome pulmonaire non à petites cellules
+T4	morphology-onco 2230 2251	carcinome épidermoïde
+T5	morphology-onco 2335 2364	nodule de la région axillaire
+T6	morphology-onco 2425 2477	métastase d'un carcinome épidermoïde peu différencié
+T7	morphology-onco 2703 2732	leucémie myéloblastique aiguë
+T8	morphology-onco 2739 2748	carcinome
+T9	morphology-onco 2779 2870	carcinome épidermoïde de stade IV au moment du diagnostic en raison de nodules sous-cutanés
+T10	morphology-onco 2880 2893	carcinomatose
+T11	morphology-onco 2989 3001	métastatique
+T12	morphology-onco 4701 4714	carcinomatose
+T13	morphology-onco 4745 4765	implants péritonéaux
+T14	morphology-onco 4870 4880	métastases
+T15	morphology-onco 5241 5257	tumorale maligne
+#1	ICD-O-3.1 T8	8010/3
+#2	ICD-O-3.1 T2	8070/3
+#3	ICD-O-3.1 T4	8070/3
+#4	ICD-O-3.1 T3	8046/3
+#5	ICD-O-3.1 T10	8010/9
+#6	ICD-O-3.1 T12	8010/9
+#7	ICD-O-3.1 T14	8000/6
+#8	ICD-O-3.1 T15	8000/3
+#9	ICD-O-3.1 T1	9872/3
+#10	ICD-O-3.1 T6	8070/33
+#11	ICD-O-3.1 T7	9872/3
+#12	ICD-O-3.1 T11	8000/6
+#13	ICD-O-3.1 T9	8070/6
+#14	ICD-O-3.1 T13	8000/6
+#15	ICD-O-3.1 T5	8000/6
+#16	SNOMED T8	1187425009
+#17	SNOMED T2	1162767002
+#18	SNOMED T4	1162767002
+#19	SNOMED T3	128632008
+#20	SNOMED T10	307593001
+#21	SNOMED T12	307593001
+#22	SNOMED T14	14799000
+#23	SNOMED T15	1240414004
+#24	SNOMED T1	103689001
+#25	SNOMED T6	1162767002
+#26	SNOMED T7	103689001
+#27	SNOMED T11	14799000
+#28	SNOMED T9	403906006
+#29	SNOMED T13	14799000
+#30	SNOMED T5	14799000

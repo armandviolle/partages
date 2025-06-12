@@ -1,0 +1,36 @@
+T1	morphology-onco 952 968	tumeur germinale
+T2	morphology-onco 1920 1935	néoprolifératif
+T3	morphology-onco 3102 3110	tumoraux
+T4	morphology-onco 3440 3470	tumeur des cellules germinales
+T5	morphology-onco 3477 3542	tumeur du sac vitellin (sinus endodermique), variante glandulaire
+T6	morphology-onco 3684 3691	tumoral
+T7	morphology-onco 3725 3768	tumeur du sac vitellin, de type glandulaire
+T8	morphology-onco 3856 3868	sarcomateuse
+T9	morphology-onco 3960 3971	néoplasique
+T10	morphology-onco 5337 5381	tumeur germinale extragonadale sans séminome
+T11	morphology-onco 5383 5387	TGNS
+T12	morphology-onco 5813 5820	tumoral
+#1	ICD-O-3.1 T9	8000/1
+#2	ICD-O-3.1 T4	9064/3
+#3	ICD-O-3.1 T1	9064/3
+#4	ICD-O-3.1 T7	9071/3/H
+#5	ICD-O-3.1 T8	8800/9
+#6	ICD-O-3.1 T10	9065/3
+#7	ICD-O-3.1 T11	9065/3
+#8	ICD-O-3.1 T5	9071/3/H
+#9	ICD-O-3.1 T3	8000/1
+#10	ICD-O-3.1 T6	8000/1
+#11	ICD-O-3.1 T12	8000/1
+#12	ICD-O-3.1 T2	8000/1
+#13	SNOMED T9	86251006
+#14	SNOMED T4	28307001
+#15	SNOMED T1	28307001
+#16	SNOMED T7	74409009
+#17	SNOMED T8	9395006
+#18	SNOMED T10	128766005
+#19	SNOMED T11	128766005
+#20	SNOMED T5	74409009
+#21	SNOMED T3	86251006
+#22	SNOMED T6	86251006
+#23	SNOMED T12	86251006
+#24	SNOMED T2	86251006

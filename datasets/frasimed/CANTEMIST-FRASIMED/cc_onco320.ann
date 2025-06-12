@@ -1,0 +1,24 @@
+T1	morphology-onco 2105 2131	dissémination de la tumeur
+T2	morphology-onco 2187 2217	tumoral primaire de la pinéale
+T3	morphology-onco 2219 2228	germinome
+T4	morphology-onco 2230 2245	pinéaloblastome
+T5	morphology-onco 2261 2271	épendymome
+T6	morphology-onco 2740 2749	GERMINOMA
+T7	morphology-onco 3555 3562	tumoral
+T8	morphology-onco 3947 3953	tumeur
+#1	ICD-O-3.1 T1	8000/6
+#2	ICD-O-3.1 T5	9391/3
+#3	ICD-O-3.1 T7	8000/1
+#4	ICD-O-3.1 T8	8000/1
+#5	ICD-O-3.1 T3	9064/3
+#6	ICD-O-3.1 T4	8000/3
+#7	ICD-O-3.1 T6	9064/3
+#8	ICD-O-3.1 T2	9360/1
+#9	SNOMED T1	14799000
+#10	SNOMED T5	1186904005
+#11	SNOMED T7	86251006
+#12	SNOMED T8	86251006
+#13	SNOMED T3	28307001
+#14	SNOMED T4	1240414004
+#15	SNOMED T6	28307001
+#16	SNOMED T2	359619007

@@ -1,0 +1,84 @@
+T1	morphology-onco 342 380	carcinome papillaire infiltrant solide
+T2	morphology-onco 342 391	carcinome papillaire infiltrant solide de grade 2
+T3	morphology-onco 396 427	hamartome kystique rétro-rectal
+T4	morphology-onco 429 445	kyste de Tailgut
+T5	morphology-onco 807 821	adénocarcinome
+T6	morphology-onco 908 936	processus lymphoprolifératif
+T7	morphology-onco 3787 3796	métastase
+T8	morphology-onco 3917 3935	kystique et solide
+T9	morphology-onco 4279 4306	carcinome papillaire solide
+T10	morphology-onco 4279 4328	carcinome papillaire solide infiltrant de grade 2
+T11	morphology-onco 4333 4363	hamartome kystique rétrorectal
+T12	morphology-onco 4365 4381	kyste de Tailgut
+T13	morphology-onco 4820 4847	Carcinome papillaire solide
+T14	morphology-onco 4820 4847	Carcinome papillaire solide
+T15	morphology-onco 4852 4873	hamartome rétrorectal
+T16	morphology-onco 5225 5232	tumoral
+T17	morphology-onco 5438 5465	carcinome papillaire solide
+T18	morphology-onco 5438 5488	carcinome papillaire solide modérément différencié
+T19	morphology-onco 5788 5796	tumorale
+T20	morphology-onco 6539 6557	cellules tumorales
+T21	morphology-onco 6581 6587	tumeur
+T22	morphology-onco 7150 7158	tumorale
+T23	morphology-onco 7255 7262	tumoral
+T24	morphology-onco 7568 7577	carcinome
+T25	morphology-onco 7679 7693	adénocarcinome
+T26	morphology-onco 7782 7841	hamartome kystique rétro-rectal avec dégénérescence maligne
+T27	morphology-onco 7845 7865	carcinome papillaire
+T28	morphology-onco 8602 8608	tumeur
+#1	ICD-O-3.1 T5	8140/3
+#2	ICD-O-3.1 T24	8140/3
+#3	ICD-O-3.1 T25	8260/3
+#4	ICD-O-3.1 T27	8260/3
+#5	ICD-O-3.1 T20	8001/1
+#6	ICD-O-3.1 T7	8000/6
+#7	ICD-O-3.1 T6	9970/1
+#8	ICD-O-3.1 T21	8000/1
+#9	ICD-O-3.1 T16	8000/1
+#10	ICD-O-3.1 T19	8000/1
+#11	ICD-O-3.1 T22	8000/1
+#12	ICD-O-3.1 T23	8000/1
+#13	ICD-O-3.1 T28	8000/1
+#14	ICD-O-3.1 T2	8050/32
+#15	ICD-O-3.1 T3	8000/0
+#16	ICD-O-3.1 T4	8000/0
+#17	ICD-O-3.1 T1	8230/3
+#18	ICD-O-3.1 T8	8452/1
+#19	ICD-O-3.1 T11	8000/0
+#20	ICD-O-3.1 T12	8000/0
+#21	ICD-O-3.1 T9	8230/3
+#22	ICD-O-3.1 T10	8050/32
+#23	ICD-O-3.1 T13	8050/3
+#24	ICD-O-3.1 T14	8230/3
+#25	ICD-O-3.1 T15	8000/0
+#26	ICD-O-3.1 T18	8050/32
+#27	ICD-O-3.1 T17	8230/3
+#28	ICD-O-3.1 T26	8000/3
+#29	SNOMED T5	1187332001
+#30	SNOMED T24	1187332001
+#31	SNOMED T25	4797003
+#32	SNOMED T27	4797003
+#33	SNOMED T20	39577004
+#34	SNOMED T7	14799000
+#35	SNOMED T6	277466009
+#36	SNOMED T21	86251006
+#37	SNOMED T16	86251006
+#38	SNOMED T19	86251006
+#39	SNOMED T22	86251006
+#40	SNOMED T23	86251006
+#41	SNOMED T28	86251006
+#42	SNOMED T2	25910003
+#43	SNOMED T3	3898006
+#44	SNOMED T4	3898006
+#45	SNOMED T1	81920005
+#46	SNOMED T8	27078002
+#47	SNOMED T11	3898006
+#48	SNOMED T12	3898006
+#49	SNOMED T9	81920005
+#50	SNOMED T10	25910003
+#51	SNOMED T13	25910003
+#52	SNOMED T14	81920005
+#53	SNOMED T15	3898006
+#54	SNOMED T18	25910003
+#55	SNOMED T17	81920005
+#56	SNOMED T26	1240414004

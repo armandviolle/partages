@@ -1,0 +1,15 @@
+T1	morphology-onco 4658 4703	néoplasique avec une implication métastatique
+T2	morphology-onco 5292 5310	néoplasie thymique
+T3	morphology-onco 5626 5637	néoplasique
+T4	morphology-onco 6458 6470	métastatique
+T5	morphology-onco 7868 7890	néoplasie métastatique
+#1	ICD-O-3.1 T4	8000/6
+#2	ICD-O-3.1 T2	8580/1
+#3	ICD-O-3.1 T3	8000/1
+#4	ICD-O-3.1 T5	8000/6
+#5	ICD-O-3.1 T1	8000/6
+#6	SNOMED T4	14799000
+#7	SNOMED T2	1187428006
+#8	SNOMED T3	86251006
+#9	SNOMED T5	14799000
+#10	SNOMED T1	14799000

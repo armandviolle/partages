@@ -1,0 +1,54 @@
+T1	morphology-onco 74 80	tumeur
+T2	morphology-onco 691 697	tumeur
+T3	morphology-onco 1256 1262	tumeur
+T4	morphology-onco 1318 1327	néoplasme
+T5	morphology-onco 1491 1544	carcinome épidermoïde peu différencié et métastatique
+T6	morphology-onco 1713 1759	carcinome malpighien basaloïde peu différencié
+T7	morphology-onco 2077 2114	carcinome épidermoïde peu différencié
+T8	morphology-onco 2421 2442	carcinome épidermoïde
+T9	morphology-onco 2462 2469	pT2N1M0
+T10	morphology-onco 2640 2661	carcinome épidermoïde
+T11	morphology-onco 2687 2689	M0
+T12	morphology-onco 3406 3441	lésions nodulaires dans les poumons
+T13	morphology-onco 3533 3543	métastases
+T14	morphology-onco 3703 3714	néoplasique
+T15	morphology-onco 3774 3806	progression au niveau pulmonaire
+T16	morphology-onco 3909 3915	tumeur
+T17	morphology-onco 4385 4417	progression au niveau pulmonaire
+T18	morphology-onco 4730 4785	carcinome épidermoïde métastatique de la tête et du cou
+#1	ICD-O-3.1 T11	8000/6
+#2	ICD-O-3.1 T8	8070/3
+#3	ICD-O-3.1 T10	8070/3
+#4	ICD-O-3.1 T13	8000/6
+#5	ICD-O-3.1 T4	8000/1
+#6	ICD-O-3.1 T14	8000/1
+#7	ICD-O-3.1 T16	8000/1
+#8	ICD-O-3.1 T1	8000/1
+#9	ICD-O-3.1 T2	8000/1
+#10	ICD-O-3.1 T3	8000/1
+#11	ICD-O-3.1 T5	8070/63
+#12	ICD-O-3.1 T6	8083/33
+#13	ICD-O-3.1 T7	8070/33
+#14	ICD-O-3.1 T9	8000/6
+#15	ICD-O-3.1 T18	8070/6
+#16	ICD-O-3.1 T15	8000/6
+#17	ICD-O-3.1 T17	8000/6
+#18	ICD-O-3.1 T12	8000/6
+#19	SNOMED T11	14799000
+#20	SNOMED T8	1162767002
+#21	SNOMED T10	1162767002
+#22	SNOMED T13	14799000
+#23	SNOMED T4	86251006
+#24	SNOMED T14	86251006
+#25	SNOMED T16	86251006
+#26	SNOMED T1	86251006
+#27	SNOMED T2	86251006
+#28	SNOMED T3	86251006
+#29	SNOMED T5	403906006
+#30	SNOMED T6	128634009
+#31	SNOMED T7	1162767002
+#32	SNOMED T9	14799000
+#33	SNOMED T18	403906006
+#34	SNOMED T15	14799000
+#35	SNOMED T17	14799000
+#36	SNOMED T12	14799000

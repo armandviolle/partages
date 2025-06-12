@@ -1,0 +1,57 @@
+T1	morphology-onco 125 160	cancer du sein lobulaire infiltrant
+T2	morphology-onco 736 745	malignité
+T3	morphology-onco 919 949	carcinome lobulaire infiltrant
+T4	morphology-onco 983 986	pM0
+T5	morphology-onco 1505 1511	cancer
+T6	morphology-onco 1557 1563	cancer
+T7	morphology-onco 1824 1830	cancer
+T8	morphology-onco 2081 2087	tumeur
+T9	morphology-onco 2117 2120	pM0
+T10	morphology-onco 2271 2277	tumeur
+T11	morphology-onco 2762 2778	atteinte osseuse
+T12	morphology-onco 2890 2902	métastatique
+T13	morphology-onco 3819 3832	métastatiques
+T14	morphology-onco 5564 5576	métastatique
+T15	morphology-onco 5605 5621	lésions osseuses
+T16	morphology-onco 5806 5833	lésions osseuses blastiques
+T17	morphology-onco 5953 5962	malignité
+T18	morphology-onco 6341 6356	maladie osseuse
+T19	morphology-onco 6357 6369	métastatique
+#1	ICD-O-3.1 T11	8000/6
+#2	ICD-O-3.1 T3	8520/3
+#3	ICD-O-3.1 T6	8000/3
+#4	ICD-O-3.1 T5	8000/3
+#5	ICD-O-3.1 T7	8000/3
+#6	ICD-O-3.1 T1	8520/3
+#7	ICD-O-3.1 T18	8000/6
+#8	ICD-O-3.1 T16	8000/6
+#9	ICD-O-3.1 T15	8000/6
+#10	ICD-O-3.1 T2	8000/3
+#11	ICD-O-3.1 T17	8000/3
+#12	ICD-O-3.1 T12	8000/6
+#13	ICD-O-3.1 T19	8000/6
+#14	ICD-O-3.1 T13	8000/6
+#15	ICD-O-3.1 T14	8000/6
+#16	ICD-O-3.1 T4	8000/6
+#17	ICD-O-3.1 T9	8000/6
+#18	ICD-O-3.1 T8	8000/1
+#19	ICD-O-3.1 T10	8000/1
+#20	SNOMED T11	14799000
+#21	SNOMED T3	278054005
+#22	SNOMED T6	1240414004
+#23	SNOMED T5	1240414004
+#24	SNOMED T7	1240414004
+#25	SNOMED T1	278054005
+#26	SNOMED T18	14799000
+#27	SNOMED T16	14799000
+#28	SNOMED T15	14799000
+#29	SNOMED T2	1240414004
+#30	SNOMED T17	1240414004
+#31	SNOMED T12	14799000
+#32	SNOMED T19	14799000
+#33	SNOMED T13	14799000
+#34	SNOMED T14	14799000
+#35	SNOMED T4	14799000
+#36	SNOMED T9	14799000
+#37	SNOMED T8	86251006
+#38	SNOMED T10	86251006

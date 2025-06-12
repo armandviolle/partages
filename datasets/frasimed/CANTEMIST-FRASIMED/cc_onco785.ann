@@ -1,0 +1,50 @@
+T1	morphology-onco 825 849	propagation de la tumeur
+T2	morphology-onco 862 907	adénocarcinome endométrioïde bien différencié
+T3	morphology-onco 921 935	Adénocarcinome
+T4	morphology-onco 951 958	cTxN0M0
+T5	morphology-onco 1100 1125	adénocarcinome infiltrant
+T6	morphology-onco 1264 1281	tubulo-papillaire
+T7	morphology-onco 1393 1402	malignité
+T8	morphology-onco 1463 1502	adénocarcinome endométrioïde de grade 2
+T9	morphology-onco 1533 1536	cM0
+T10	morphology-onco 1998 2015	implants tumoraux
+T11	morphology-onco 2298 2315	lésion pulmonaire
+T12	morphology-onco 2358 2367	métastase
+T13	morphology-onco 2747 2792	adénocarcinome endométrioïde bien différencié
+T14	morphology-onco 2811 2834	métastases de la tumeur
+T15	morphology-onco 2897 2914	nodule pulmonaire
+T16	morphology-onco 3084 3109	adénocarcinome infiltrant
+T17	morphology-onco 3163 3223	métastase d'un adénocarcinome endométrioïde bien différencié
+#1	ICD-O-3.1 T3	8140/3
+#2	ICD-O-3.1 T5	8140/3/H
+#3	ICD-O-3.1 T16	8140/3/H
+#4	ICD-O-3.1 T9	8000/6
+#5	ICD-O-3.1 T1	8000/6
+#6	ICD-O-3.1 T10	8000/6
+#7	ICD-O-3.1 T11	8000/6
+#8	ICD-O-3.1 T7	8000/3
+#9	ICD-O-3.1 T12	8000/6
+#10	ICD-O-3.1 T14	8000/6
+#11	ICD-O-3.1 T15	8000/6
+#12	ICD-O-3.1 T2	8380/31
+#13	ICD-O-3.1 T4	8000/6
+#14	ICD-O-3.1 T6	8263/3
+#15	ICD-O-3.1 T8	8380/32
+#16	ICD-O-3.1 T13	8380/31
+#17	ICD-O-3.1 T17	8380/61
+#18	SNOMED T3	1187332001
+#19	SNOMED T5	1187332001
+#20	SNOMED T16	1187332001
+#21	SNOMED T9	14799000
+#22	SNOMED T1	14799000
+#23	SNOMED T10	14799000
+#24	SNOMED T11	14799000
+#25	SNOMED T7	1240414004
+#26	SNOMED T12	14799000
+#27	SNOMED T14	14799000
+#28	SNOMED T15	14799000
+#29	SNOMED T2	30289006
+#30	SNOMED T4	14799000
+#31	SNOMED T6	5658009
+#32	SNOMED T8	30289006
+#33	SNOMED T13	30289006

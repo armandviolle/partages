@@ -1,0 +1,27 @@
+T1	morphology-onco 950 968	lésions hépatiques
+T2	morphology-onco 1069 1077	tumorale
+T3	morphology-onco 1163 1179	lésion hépatique
+T4	morphology-onco 1192 1236	adénocarcinome d'origine pancréaticobiliaire
+T5	morphology-onco 2877 2884	maligne
+T6	morphology-onco 3121 3139	lésions hépatiques
+T7	morphology-onco 3547 3563	cellule tumorale
+T8	morphology-onco 4330 4340	métastases
+T9	morphology-onco 4361 4383	atteinte leptoméningée
+#1	ICD-O-3.1 T7	8001/1
+#2	ICD-O-3.1 T8	8000/6
+#3	ICD-O-3.1 T2	8000/1
+#4	ICD-O-3.1 T5	8000/3
+#5	ICD-O-3.1 T9	8000/6
+#6	ICD-O-3.1 T1	8000/6
+#7	ICD-O-3.1 T6	8000/6
+#8	ICD-O-3.1 T3	8000/6
+#9	ICD-O-3.1 T4	8163/3
+#10	SNOMED T7	39577004
+#11	SNOMED T8	14799000
+#12	SNOMED T2	86251006
+#13	SNOMED T5	1240414004
+#14	SNOMED T9	14799000
+#15	SNOMED T1	14799000
+#16	SNOMED T6	14799000
+#17	SNOMED T3	14799000
+#18	SNOMED T4	450894009

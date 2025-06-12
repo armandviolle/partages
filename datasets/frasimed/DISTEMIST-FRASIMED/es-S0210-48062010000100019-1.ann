@@ -1,0 +1,18 @@
+T1	disease 42 73	spondylarthrite ankylopoïétique
+T2	disease 89 110	amyloïdose secondaire
+T3	disease 118 157	insuffisance rénale chronique terminale
+T4	disease 435 451	amylose vésicale
+T5	disease 718 742	arrêt cardiorespiratoire
+T6	disease 1068 1113	atrophie rénale bilatérale due à l'amyloïdose
+T7	disease 1115 1136	Amylose vésicale (AA)
+T8	disease 1133 1135	AA
+T9	disease 1171 1210	amylose dans les vaisseaux prostatiques
+#1	SNOMED T1	9631008
+#2	SNOMED T2	281034005
+#3	SNOMED T3	723190009
+#4	SNOMED T4	17602002
+#5	SNOMED T5	410430005
+#6	SNOMED T6	197659005+17602002
+#7	SNOMED T7	274945004
+#8	SNOMED T9	111392005
+#9	SNOMED T8	281034005

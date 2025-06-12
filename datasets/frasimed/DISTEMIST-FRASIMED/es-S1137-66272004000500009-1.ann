@@ -1,0 +1,16 @@
+T1	disease 403 425	condylomatose vaginale
+T2	disease 535 560	condylomes vulvopérinéaux
+T3	disease 1134 1149	chorioamnionite
+T4	disease 1236 1251	chorioamnionite
+T5	disease 1260 1279	immaturité du fœtus
+T6	disease 1492 1507	chorioamnionite
+T7	disease 1615 1641	condylome acuminé du vagin
+T8	disease 1645 1673	condylome acuminé du périnée
+#1	SNOMED T4	11612004
+#2	SNOMED T5	49333008
+#3	SNOMED T1	399599006
+#4	SNOMED T3	11612004
+#5	SNOMED T6	11612004
+#6	SNOMED T2	240542006
+#7	SNOMED T7	399599006
+#8	SNOMED T8	733132008

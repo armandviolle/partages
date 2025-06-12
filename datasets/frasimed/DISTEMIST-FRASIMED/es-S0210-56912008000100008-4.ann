@@ -1,0 +1,10 @@
+T1	disease 247 267	IAM inféropostérieur
+T2	disease 377 390	BRD incomplet
+T3	disease 643 666	IAM superposé ultérieur
+T4	disease 1019 1023	SRRP
+T5	disease 1200 1334	sténose de 90% dans le tiers moyen de l'artère coronaire droite et une sténose de 60% dans la partie proximale de l'artère circonflexe
+#1	SNOMED T1	76593002
+#2	SNOMED T2	251124007
+#3	SNOMED T3	233838001
+#4	SNOMED T4	428417006
+#5	SNOMED T5	876856005+876858006

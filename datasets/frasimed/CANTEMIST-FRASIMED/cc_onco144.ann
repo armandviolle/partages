@@ -1,0 +1,45 @@
+T1	morphology-onco 6655 6695	lésions hépatiques hypoéchogènes focales
+T2	morphology-onco 6805 6815	métastases
+T3	morphology-onco 7070 7102	lésions hépatiques hypoéchogènes
+T4	morphology-onco 7116 7126	métastases
+T5	morphology-onco 7330 7336	tumeur
+T6	morphology-onco 7767 7777	métastases
+T7	morphology-onco 7849 7858	malignité
+T8	morphology-onco 8018 8029	néoplasique
+T9	morphology-onco 8376 8385	formation
+T10	morphology-onco 8420 8429	néoplasie
+T11	morphology-onco 8526 8535	formation
+T12	morphology-onco 8613 8692	adénocarcinome gastrique modérément différencié, variante de l'anneau de signet
+T13	morphology-onco 8981 8992	néoplasique
+T14	morphology-onco 9117 9152	foyers dans le parenchyme hépatique
+T15	morphology-onco 10778 10784	tumeur
+#1	ICD-O-3.1 T9	8000/1
+#2	ICD-O-3.1 T1	8000/6
+#3	ICD-O-3.1 T7	8000/3
+#4	ICD-O-3.1 T6	8000/6
+#5	ICD-O-3.1 T2	8000/6
+#6	ICD-O-3.1 T4	8000/6
+#7	ICD-O-3.1 T10	8000/1
+#8	ICD-O-3.1 T13	8000/1
+#9	ICD-O-3.1 T8	8000/1
+#10	ICD-O-3.1 T5	8000/1
+#11	ICD-O-3.1 T15	8000/1
+#12	ICD-O-3.1 T3	8000/6
+#13	ICD-O-3.1 T12	8490/32
+#14	ICD-O-3.1 T14	8000/6
+#15	ICD-O-3.1 T11	8000/1
+#16	SNOMED T9	86251006
+#17	SNOMED T1	14799000
+#18	SNOMED T7	1240414004
+#19	SNOMED T6	14799000
+#20	SNOMED T2	14799000
+#21	SNOMED T4	14799000
+#22	SNOMED T10	86251006
+#23	SNOMED T13	86251006
+#24	SNOMED T8	86251006
+#25	SNOMED T5	86251006
+#26	SNOMED T15	86251006
+#27	SNOMED T3	14799000
+#28	SNOMED T12	87737001
+#29	SNOMED T14	14799000
+#30	SNOMED T11	86251006

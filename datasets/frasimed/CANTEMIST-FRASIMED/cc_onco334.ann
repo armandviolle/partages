@@ -1,0 +1,30 @@
+T1	morphology-onco 176 182	cancer
+T2	morphology-onco 720 730	hémangiome
+T3	morphology-onco 1246 1254	tumorale
+T4	morphology-onco 1308 1333	dissémination péritonéale
+T5	morphology-onco 1342 1392	implants gélatineux-mucoïdes recouvrant l'intestin
+T6	morphology-onco 1475 1481	tumeur
+T7	morphology-onco 1686 1749	adénocarcinome appendiculaire mucineux invasif bien différencié
+T8	morphology-onco 2005 2020	kystique-solide
+T9	morphology-onco 2847 2867	hémangiome caverneux
+T10	morphology-onco 5313 5322	néoplasie
+#1	ICD-O-3.1 T1	8000/3
+#2	ICD-O-3.1 T4	8000/6
+#3	ICD-O-3.1 T2	9120/0
+#4	ICD-O-3.1 T9	9121/0
+#5	ICD-O-3.1 T10	8000/1
+#6	ICD-O-3.1 T6	8000/1
+#7	ICD-O-3.1 T3	8000/1
+#8	ICD-O-3.1 T5	8000/6
+#9	ICD-O-3.1 T7	8480/31
+#10	ICD-O-3.1 T8	8452/1
+#11	SNOMED T1	1240414004
+#12	SNOMED T4	14799000
+#13	SNOMED T2	253053003
+#14	SNOMED T9	33377007
+#15	SNOMED T10	86251006
+#16	SNOMED T6	86251006
+#17	SNOMED T3	86251006
+#18	SNOMED T5	14799000
+#19	SNOMED T7	72495009
+#20	SNOMED T8	27078002

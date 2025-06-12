@@ -1,0 +1,59 @@
+T1	morphology-onco 328 334	cancer
+T2	morphology-onco 387 393	cancer
+T3	morphology-onco 458 464	cancer
+T4	morphology-onco 642 659	nodule pulmonaire
+T5	morphology-onco 1132 1149	nodule pulmonaire
+T6	morphology-onco 1228 1253	tumeur à cellules claires
+T7	morphology-onco 1734 1740	tumeur
+T8	morphology-onco 1815 1824	néoplasie
+T9	morphology-onco 1972 2018	Cancer du rein à cellules claires métastatique
+T10	morphology-onco 2202 2256	tumeur rénale à cellules claires de grade 3 de Fuhrman
+T11	morphology-onco 2430 2449	nodules pulmonaires
+T12	morphology-onco 2489 2499	métastases
+T13	morphology-onco 2782 2794	métastatique
+T14	morphology-onco 2855 2916	métastases pulmonaires d'un cancer du rein à cellules claires
+T15	morphology-onco 3409 3419	métastases
+T16	morphology-onco 4693 4718	lésion du corps gastrique
+T17	morphology-onco 4842 4885	métastase d'un carcinome à cellules claires
+T18	morphology-onco 4906 4912	tumeur
+T19	morphology-onco 5165 5193	maladie au niveau pulmonaire
+T20	morphology-onco 5658 5751	métastases ont été confirmées dans la muqueuse gastrique d'un cancer rénal à cellules claires
+T21	morphology-onco 6016 6033	nodule pulmonaire
+#1	ICD-O-3.1 T3	8000/3
+#2	ICD-O-3.1 T2	8000/3
+#3	ICD-O-3.1 T1	8000/3
+#4	ICD-O-3.1 T19	8000/6
+#5	ICD-O-3.1 T12	8000/6
+#6	ICD-O-3.1 T15	8000/6
+#7	ICD-O-3.1 T17	8310/6
+#8	ICD-O-3.1 T8	8000/1
+#9	ICD-O-3.1 T4	8000/6
+#10	ICD-O-3.1 T5	8000/6
+#11	ICD-O-3.1 T21	8000/6
+#12	ICD-O-3.1 T7	8000/1
+#13	ICD-O-3.1 T18	8000/1
+#14	ICD-O-3.1 T6	8005/3
+#15	ICD-O-3.1 T9	8005/6
+#16	ICD-O-3.1 T10	8005/33
+#17	ICD-O-3.1 T11	8000/6
+#18	ICD-O-3.1 T13	8000/6
+#19	ICD-O-3.1 T14	8005/6
+#20	ICD-O-3.1 T16	8000/6
+#21	ICD-O-3.1 T20	8005/6
+#22	SNOMED T3	1240414004
+#23	SNOMED T2	1240414004
+#24	SNOMED T1	1240414004
+#25	SNOMED T19	14799000
+#26	SNOMED T12	14799000
+#27	SNOMED T15	14799000
+#28	SNOMED T8	86251006
+#29	SNOMED T4	14799000
+#30	SNOMED T5	14799000
+#31	SNOMED T21	14799000
+#32	SNOMED T7	86251006
+#33	SNOMED T18	86251006
+#34	SNOMED T6	128627007
+#35	SNOMED T10	128627007
+#36	SNOMED T11	14799000
+#37	SNOMED T13	14799000
+#38	SNOMED T16	14799000

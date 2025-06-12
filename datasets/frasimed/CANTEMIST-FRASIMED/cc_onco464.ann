@@ -1,0 +1,48 @@
+T1	morphology-onco 110 133	gammapathie monoclonale
+T2	morphology-onco 339 379	lymphome extranodal de la zone marginale
+T3	morphology-onco 388 392	MALT
+T4	morphology-onco 811 814	LPB
+T5	morphology-onco 1041 1048	tumoral
+T6	morphology-onco 2497 2521	lymphome plasmablastique
+T7	morphology-onco 2668 2679	néoplasique
+T8	morphology-onco 2694 2712	astrocytome diffus
+T9	morphology-onco 3093 3101	lymphome
+T10	morphology-onco 3548 3563	néoplasme glial
+T11	morphology-onco 3579 3587	lymphome
+T12	morphology-onco 3930 3939	néoplasme
+T13	morphology-onco 3960 3968	lymphome
+T14	morphology-onco 4466 4472	tumeur
+T15	morphology-onco 4554 4565	astrocytome
+T16	morphology-onco 4569 4589	gliome de haut grade
+#1	ICD-O-3.1 T3	9699/3
+#2	ICD-O-3.1 T15	9400/3
+#3	ICD-O-3.1 T1	9765/1
+#4	ICD-O-3.1 T9	9590/3
+#5	ICD-O-3.1 T11	9590/3
+#6	ICD-O-3.1 T13	9590/3
+#7	ICD-O-3.1 T6	9735/3
+#8	ICD-O-3.1 T12	8000/1
+#9	ICD-O-3.1 T7	8000/1
+#10	ICD-O-3.1 T14	8000/1
+#11	ICD-O-3.1 T5	8000/1
+#12	ICD-O-3.1 T2	9699/3
+#13	ICD-O-3.1 T4	9735/3
+#14	ICD-O-3.1 T8	9400/3
+#15	ICD-O-3.1 T10	9380/3
+#16	ICD-O-3.1 T16	9380/34
+#17	SNOMED T3	447100004
+#18	SNOMED T15	1157043006
+#19	SNOMED T1	58648008
+#20	SNOMED T9	1163043007
+#21	SNOMED T11	1163043007
+#22	SNOMED T13	1163043007
+#23	SNOMED T6	724648008
+#24	SNOMED T12	86251006
+#25	SNOMED T7	86251006
+#26	SNOMED T14	86251006
+#27	SNOMED T5	86251006
+#28	SNOMED T2	447100004
+#29	SNOMED T4	724648008
+#30	SNOMED T8	1157043006
+#31	SNOMED T10	74532006
+#32	SNOMED T16	74532006

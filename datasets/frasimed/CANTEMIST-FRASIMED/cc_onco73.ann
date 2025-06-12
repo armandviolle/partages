@@ -1,0 +1,54 @@
+T1	morphology-onco 249 258	néoplasie
+T2	morphology-onco 693 702	malignité
+T3	morphology-onco 1055 1062	maligne
+T4	morphology-onco 1192 1203	néoplasique
+T5	morphology-onco 1533 1542	malignité
+T6	morphology-onco 1768 1807	lésion hypodense dans le lobe hépatique
+T7	morphology-onco 3130 3139	malignité
+T8	morphology-onco 3465 3501	lésions hépatiques occupant l'espace
+T9	morphology-onco 3518 3528	métastases
+T10	morphology-onco 3545 3555	métastases
+T11	morphology-onco 3727 3738	néoplasique
+T12	morphology-onco 3980 3997	angiosarcomateuse
+T13	morphology-onco 4185 4197	Angiosarcome
+T14	morphology-onco 4258 4276	atteinte hépatique
+T15	morphology-onco 4333 4341	tumorale
+T16	morphology-onco 5254 5264	métastases
+T17	morphology-onco 5451 5461	métastases
+T18	morphology-onco 5550 5571	progression hépatique
+#1	ICD-O-3.1 T13	9120/3
+#2	ICD-O-3.1 T14	8000/6
+#3	ICD-O-3.1 T12	9120/3
+#4	ICD-O-3.1 T2	8000/3
+#5	ICD-O-3.1 T3	8000/3
+#6	ICD-O-3.1 T5	8000/3
+#7	ICD-O-3.1 T7	8000/3
+#8	ICD-O-3.1 T10	8000/6
+#9	ICD-O-3.1 T9	8000/6
+#10	ICD-O-3.1 T16	8000/6
+#11	ICD-O-3.1 T17	8000/6
+#12	ICD-O-3.1 T1	8000/1
+#13	ICD-O-3.1 T11	8000/1
+#14	ICD-O-3.1 T4	8000/1
+#15	ICD-O-3.1 T18	8000/6
+#16	ICD-O-3.1 T15	8000/1
+#17	ICD-O-3.1 T6	8000/6
+#18	ICD-O-3.1 T8	8000/6
+#19	SNOMED T13	39000009
+#20	SNOMED T14	14799000
+#21	SNOMED T12	39000009
+#22	SNOMED T2	1240414004
+#23	SNOMED T3	1240414004
+#24	SNOMED T5	1240414004
+#25	SNOMED T7	1240414004
+#26	SNOMED T10	14799000
+#27	SNOMED T9	14799000
+#28	SNOMED T16	14799000
+#29	SNOMED T17	14799000
+#30	SNOMED T1	86251006
+#31	SNOMED T11	86251006
+#32	SNOMED T4	86251006
+#33	SNOMED T18	14799000
+#34	SNOMED T15	86251006
+#35	SNOMED T6	14799000
+#36	SNOMED T8	14799000

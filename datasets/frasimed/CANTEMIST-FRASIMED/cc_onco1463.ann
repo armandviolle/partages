@@ -1,0 +1,23 @@
+T1	morphology-onco 308 342	dermatofibrosarcome protubérantiel
+T2	morphology-onco 577 608	dermatofibrosarcome protuberans
+T3	morphology-onco 1434 1478	métastase de dermatofibrosarcome protuberans
+T4	morphology-onco 1605 1629	nodule dans le médiastin
+T5	morphology-onco 1653 1672	implant néoplasique
+T6	morphology-onco 1837 1861	nodule dans le médiastin
+T7	morphology-onco 2279 2303	nodule dans le médiastin
+T8	morphology-onco 2360 2378	nodule médiastinal
+#1	ICD-O-3.1 T1	8832/3
+#2	ICD-O-3.1 T2	8832/3
+#3	ICD-O-3.1 T3	8832/6
+#4	ICD-O-3.1 T5	8000/6
+#5	ICD-O-3.1 T4	8000/6
+#6	ICD-O-3.1 T6	8000/6
+#7	ICD-O-3.1 T7	8000/6
+#8	ICD-O-3.1 T8	8000/6
+#9	SNOMED T1	276799004
+#10	SNOMED T2	276799004
+#11	SNOMED T5	14799000
+#12	SNOMED T4	14799000
+#13	SNOMED T6	14799000
+#14	SNOMED T7	14799000
+#15	SNOMED T8	14799000

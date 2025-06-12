@@ -1,0 +1,10 @@
+T1	disease 26 76	fracture compliquée de la couronne et de la racine
+T2	disease 381 423	fracture de l'incisive centrale supérieure
+T3	disease 515 556	fracture compliquée de la couronne-racine
+T4	disease 965 974	fractures
+T5	disease 1070 1078	fracture
+#1	SNOMED T1	109754001
+#2	SNOMED T2	36202009
+#3	SNOMED T3	109754001
+#4	SNOMED T4	125605004
+#5	SNOMED T5	72704001

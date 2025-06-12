@@ -1,0 +1,59 @@
+T1	morphology-onco 579 618	multinodulaires pulmonaires bilatérales
+T2	morphology-onco 1357 1376	nodules pulmonaires
+T3	morphology-onco 1459 1483	relâchement du ballonnet
+T4	morphology-onco 1506 1512	tumeur
+T5	morphology-onco 2476 2494	lésions hépatiques
+T6	morphology-onco 2570 2576	tumeur
+T7	morphology-onco 2778 2791	intratumorale
+T8	morphology-onco 2972 2987	hépatocarcinome
+T9	morphology-onco 3314 3332	cholangiocarcinome
+T10	morphology-onco 3340 3356	tumeur germinale
+T11	morphology-onco 4134 4153	néoplasique maligne
+T12	morphology-onco 4215 4231	tumeur germinale
+T13	morphology-onco 4670 4714	tumeur germinale avec une maladie secondaire
+T14	morphology-onco 4764 4770	tumeur
+T15	morphology-onco 4794 4801	TxNxM1b
+T16	morphology-onco 5056 5064	tumorale
+T17	morphology-onco 5070 5089	atteinte pulmonaire
+T18	morphology-onco 5835 5854	lésions pulmonaires
+T19	morphology-onco 5903 5921	lésions hépatiques
+T20	morphology-onco 6121 6134	carcinomatose
+#1	ICD-O-3.1 T17	8000/6
+#2	ICD-O-3.1 T20	8010/9
+#3	ICD-O-3.1 T9	8160/3
+#4	ICD-O-3.1 T8	8170/3
+#5	ICD-O-3.1 T7	8000/1
+#6	ICD-O-3.1 T5	8000/6
+#7	ICD-O-3.1 T19	8000/6
+#8	ICD-O-3.1 T18	8000/6
+#9	ICD-O-3.1 T2	8000/6
+#10	ICD-O-3.1 T3	8000/6
+#11	ICD-O-3.1 T14	8000/1
+#12	ICD-O-3.1 T10	9064/3
+#13	ICD-O-3.1 T12	9064/3
+#14	ICD-O-3.1 T4	8000/1
+#15	ICD-O-3.1 T6	8000/1
+#16	ICD-O-3.1 T16	8000/1
+#17	ICD-O-3.1 T1	8000/6
+#18	ICD-O-3.1 T11	8000/3
+#19	ICD-O-3.1 T13	9064/6
+#20	ICD-O-3.1 T15	8000/6
+#21	SNOMED T17	14799000
+#22	SNOMED T20	307593001
+#23	SNOMED T9	312104005
+#24	SNOMED T8	1186630006
+#25	SNOMED T7	86251006
+#26	SNOMED T5	14799000
+#27	SNOMED T19	14799000
+#28	SNOMED T18	14799000
+#29	SNOMED T2	14799000
+#30	SNOMED T3	14799000
+#31	SNOMED T14	86251006
+#32	SNOMED T10	28307001
+#33	SNOMED T12	28307001
+#34	SNOMED T4	86251006
+#35	SNOMED T6	86251006
+#36	SNOMED T16	86251006
+#37	SNOMED T1	14799000
+#38	SNOMED T11	1240414004
+#39	SNOMED T15	14799000

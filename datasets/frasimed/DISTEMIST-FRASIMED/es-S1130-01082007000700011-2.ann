@@ -1,0 +1,22 @@
+T1	disease 83 87	fumé
+T2	disease 257 278	polymyomatose utérine
+T3	disease 368 385	dysphagie modérée
+T4	disease 482 496	hernie hiatale
+T5	disease 813 853	lésion dans le tiers moyen de l'œsophage
+T6	disease 886 935	carcinome à petites cellules ulcéré et infiltrant
+T7	disease 1093 1108	tumeur primaire
+T8	disease 1183 1192	néoplasme
+T9	disease 1287 1299	adénopathies
+T10	disease 1402 1444	cicatrice sous-costale et infra-ombilicale
+T11	disease 1843 1886	néoplasme dans le tiers moyen de l'œsophage
+T12	disease 1937 1998	lymphadénopathie dans la zone subcarinaire, supraclaviculaire
+T13	disease 2037 2119	lymphadénopathie dans le rétropéritoine, la zone rétrocrurale et la chaîne iliaque
+T14	disease 2154 2188	métastases hépatiques bilobulaires
+T15	disease 2201 2216	kyste splénique
+T16	disease 2251 2290	lésion occupant l'espace dans le poumon
+T17	disease 2414 2443	carcinome à cellules d'avoine
+T18	disease 2474 2491	invasion pleurale
+T19	disease 2762 2792	infiltrait pas dans l'œsophage
+T20	disease 2819 2841	adénopathies cœliaques
+T21	disease 2893 2930	carcinome à petites cellules d'avoine
+T22	disease 3016 3025	néoplasme

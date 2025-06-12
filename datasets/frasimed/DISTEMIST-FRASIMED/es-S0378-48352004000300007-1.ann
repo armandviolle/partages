@@ -1,0 +1,17 @@
+T1	disease 386 412	ostéomyélite du trochanter
+T2	disease 464 500	lésion lytique dans la tête fémorale
+T3	disease 608 644	atteinte osseuse lymphoproliférative
+T4	disease 671 673	HL
+T5	disease 759 821	masse adénopathique de 7 cm de diamètre dans l'aisselle gauche
+T6	disease 829 869	lymphadénopathies inguinales bilatérales
+T7	disease 1178 1207	sclérose nodulaire de type HL
+T8	disease 1594 1635	fibrose associée à une infiltration de LH
+T9	disease 1661 1696	adénopathies dans l'aisselle gauche
+T10	disease 1661 1712	adénopathies dans l'aisselle gauche, le sus-clavier
+T11	disease 1661 1726	adénopathies dans l'aisselle gauche, le sus-clavier, le médiastin
+T12	disease 1661 1745	adénopathies dans l'aisselle gauche, le sus-clavier, le médiastin, le rétropéritoine
+T13	disease 1661 1756	adénopathies dans l'aisselle gauche, le sus-clavier, le médiastin, le rétropéritoine, le bassin
+T14	disease 1661 1766	adénopathies dans l'aisselle gauche, le sus-clavier, le médiastin, le rétropéritoine, le bassin et l'aine
+T15	disease 1894 1920	adénopathies périphériques
+T16	disease 2086 2120	sclérose de la lame iliaque gauche
+T17	disease 2189 2191	LH

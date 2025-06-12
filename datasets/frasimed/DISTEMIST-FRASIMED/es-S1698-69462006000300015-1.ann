@@ -1,0 +1,8 @@
+T1	disease 289 357	asymétrie faciale due à une augmentation de volume de la joue gauche
+T2	disease 739 755	tumeur coronoïde
+T3	disease 1324 1338	ostéochondrome
+T4	disease 1483 1504	déformation des joues
+#1	SNOMED T3	443093007
+#2	SNOMED T4	118930001
+#3	SNOMED T2	126551000
+#4	SNOMED T1	15253005

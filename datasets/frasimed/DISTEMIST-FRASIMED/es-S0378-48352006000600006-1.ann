@@ -1,0 +1,26 @@
+T1	disease 109 132	cardiopathie ischémique
+T2	disease 91 104	diabète sucré
+T3	disease 137 146	tabagisme
+T4	disease 167 200	allergies connues aux médicaments
+T5	disease 429 458	adénocarcinome de la prostate
+T6	disease 1354 1373	masse adénopathique
+T7	disease 1382 1400	néoplasme primitif
+T8	disease 1507 1520	hypernéphrome
+T9	disease 1570 1598	adénopathie rétropéritonéale
+T10	disease 1912 1929	lésion thoracique
+T11	disease 2034 2062	carcinome à cellules claires
+T12	disease 2084 2114	métastase d'un carcinome rénal
+T13	disease 2260 2275	carcinome rénal
+T14	disease 2293 2335	envahissant le tissu adipeux périlésionnel
+T15	disease 2423 2445	métastase médiastinale
+T16	disease 2602 2635	infiltrant la région médiastinale
+T17	disease 2975 3083	tumeur médiastinale de 5 cm envahissant le parenchyme pulmonaire et la face supérieure de la crosse aortique
+T18	disease 3100 3124	plaque d'artériosclérose
+T19	disease 3312 3331	lésion médiastinale
+T20	disease 4286 4306	métastase pulmonaire
+T21	disease 4427 4464	infiltration probable du muscle psoas
+T22	disease 4635 4645	métastases
+T23	disease 4733 4758	thromboembolie pulmonaire
+T24	disease 5096 5119	adénopathies axillaires
+T25	disease 5180 5187	lésions
+T26	disease 5368 5389	tumeur de la prostate

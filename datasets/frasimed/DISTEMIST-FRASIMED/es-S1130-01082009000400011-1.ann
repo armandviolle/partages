@@ -1,0 +1,14 @@
+T1	disease 229 240	traumatisme
+T2	disease 272 295	hypertension artérielle
+T3	disease 302 338	diabète sucré non insulino-dépendant
+T4	disease 798 815	appendicite aiguë
+T5	disease 833 854	processus néoformatif
+T6	disease 935 943	hématome
+T7	disease 1191 1280	extravasation hématique au niveau des tissus sous-séreux du cæcum avec des foyers d'abcès
+#1	SNOMED T2	38341003
+#2	SNOMED T3	44054006
+#3	SNOMED T4	85189001
+#4	SNOMED T5	55342001
+#5	SNOMED T6	385494008
+#6	SNOMED T7	711441008+128477000
+#7	SNOMED T1	417746004

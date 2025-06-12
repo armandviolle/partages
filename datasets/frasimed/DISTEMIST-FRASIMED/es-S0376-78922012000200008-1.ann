@@ -1,0 +1,12 @@
+T1	disease 122 220	carcinome canalaire infiltrant positif aux récepteurs hormonaux dans le quadrant supérieur externe
+T2	disease 227 252	métastases ganglionnaires
+T3	disease 1265 1289	cicatrice de mastectomie
+T4	disease 1554 1563	cicatrice
+T5	disease 2036 2052	tumeurs malignes
+T6	disease 2813 2832	rupture prothétique
+#1	SNOMED T1	82711006
+#2	SNOMED T5	363346000
+#3	SNOMED T2	94392001
+#4	SNOMED T4	275322007
+#5	SNOMED T6	271543000
+#6	SNOMED T3	245850007

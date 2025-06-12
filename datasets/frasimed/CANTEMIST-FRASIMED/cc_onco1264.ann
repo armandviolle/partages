@@ -1,0 +1,16 @@
+T1	morphology-onco 715 743	adénopathie sus-claviculaire
+T2	morphology-onco 1465 1494	adénopathie supraclaviculaire
+T3	morphology-onco 1632 1660	adénopathie sus-claviculaire
+T4	morphology-onco 1674 1715	métastase due à un carcinome embryonnaire
+T5	morphology-onco 1859 1867	séminome
+T6	morphology-onco 2533 2566	Tumeur germinale mixte S2pT2N2M1a
+#1	ICD-O-3.1 T1	8000/6
+#2	ICD-O-3.1 T2	8000/6
+#3	ICD-O-3.1 T3	8000/6
+#4	ICD-O-3.1 T5	9061/3
+#5	ICD-O-3.1 T4	9070/6
+#6	ICD-O-3.1 T6	9085/6
+#7	SNOMED T1	14799000
+#8	SNOMED T2	14799000
+#9	SNOMED T3	14799000
+#10	SNOMED T5	1162765005

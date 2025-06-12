@@ -1,0 +1,20 @@
+T1	disease 200 223	gynécomastie bilatérale
+T2	disease 1007 1024	craniopharyngiome
+T3	disease 1265 1285	adénome hypophysaire
+T4	disease 1410 1433	hémianopsie bitemporale
+T5	disease 1493 1512	panhypopituitarisme
+T6	disease 1624 1631	adénome
+T7	disease 1765 1783	hyperparathyroïdie
+T8	disease 1796 1803	tumeurs
+T9	disease 1819 1851	néoplasie endocrinienne multiple
+T10	disease 1853 1858	MEN 1
+#1	SNOMED T5	32390006
+#2	SNOMED T1	4754008
+#3	SNOMED T6	443416007
+#4	SNOMED T7	66999008
+#5	SNOMED T9	46724008
+#6	SNOMED T10	30664006
+#7	SNOMED T2	189179009
+#8	SNOMED T3	128664001
+#9	SNOMED T8	189542002
+#10	SNOMED T4	61917005

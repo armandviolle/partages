@@ -1,0 +1,42 @@
+T1	morphology-onco 950 956	tumeur
+T2	morphology-onco 1025 1050	adénocarcinome intestinal
+T3	morphology-onco 1427 1436	néoplasme
+T4	morphology-onco 1489 1501	métastatique
+T5	morphology-onco 1653 1690	adénocarcinome modérément différencié
+T6	morphology-onco 1782 1790	tumorale
+T7	morphology-onco 1820 1830	métastases
+T8	morphology-onco 1895 1897	M0
+T9	morphology-onco 2140 2158	récidive hépatique
+T10	morphology-onco 2199 2212	métastatiques
+T11	morphology-onco 2391 2409	lésions hépatiques
+T12	morphology-onco 2432 2438	tumeur
+T13	morphology-onco 3403 3433	lésion de 3,5 cm dans le pénis
+T14	morphology-onco 3503 3512	Métastase
+#1	ICD-O-3.1 T8	8000/6
+#2	ICD-O-3.1 T2	8144/3
+#3	ICD-O-3.1 T7	8000/6
+#4	ICD-O-3.1 T3	8000/1
+#5	ICD-O-3.1 T1	8000/1
+#6	ICD-O-3.1 T12	8000/1
+#7	ICD-O-3.1 T6	8000/1
+#8	ICD-O-3.1 T4	8000/6
+#9	ICD-O-3.1 T5	8140/32
+#10	ICD-O-3.1 T10	8000/6
+#11	ICD-O-3.1 T14	8000/6
+#12	ICD-O-3.1 T11	8000/6
+#13	ICD-O-3.1 T9	8000/6
+#14	ICD-O-3.1 T13	8000/6
+#15	SNOMED T8	14799000
+#16	SNOMED T2	25190001
+#17	SNOMED T7	14799000
+#18	SNOMED T3	86251006
+#19	SNOMED T1	86251006
+#20	SNOMED T12	86251006
+#21	SNOMED T6	86251006
+#22	SNOMED T4	14799000
+#23	SNOMED T5	1187332001
+#24	SNOMED T10	14799000
+#25	SNOMED T14	14799000
+#26	SNOMED T11	14799000
+#27	SNOMED T9	14799000
+#28	SNOMED T13	14799000

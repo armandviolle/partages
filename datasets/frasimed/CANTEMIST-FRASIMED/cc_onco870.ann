@@ -1,0 +1,53 @@
+T1	morphology-onco 869 887	lésions hépatiques
+T2	morphology-onco 1702 1710	tératome
+T3	morphology-onco 1864 1875	hémangiomes
+T4	morphology-onco 1900 1911	cystadénome
+T5	morphology-onco 1933 1941	tératome
+T6	morphology-onco 2047 2053	tumeur
+T7	morphology-onco 2149 2157	tératome
+T8	morphology-onco 2238 2257	tumeur folliculaire
+T9	morphology-onco 2265 2285	implants péritonéaux
+T10	morphology-onco 2307 2331	tumeur ovarienne maligne
+T11	morphology-onco 2532 2548	lésion hépatique
+T12	morphology-onco 3126 3153	tumeur ovarienne métastasée
+T13	morphology-onco 3167 3252	Tératome malin à différenciation folliculaire (Struma ovarii) avec atteinte hépatique
+T14	morphology-onco 3214 3227	Struma ovarii
+T15	morphology-onco 3657 3670	LOE hépatique
+T16	morphology-onco 4078 4101	lésion hépatique focale
+T17	morphology-onco 4283 4325	foyer hypermétabolique au niveau hépatique
+T18	morphology-onco 4580 4642	lésions occupant l'espace situées dans le parenchyme hépatique
+T19	morphology-onco 5013 5049	métastase stromale ovarienne maligne
+#1	ICD-O-3.1 T4	8440/0
+#2	ICD-O-3.1 T3	9120/0
+#3	ICD-O-3.1 T9	8000/6
+#4	ICD-O-3.1 T6	8000/1
+#5	ICD-O-3.1 T2	9080/1
+#6	ICD-O-3.1 T5	9080/1
+#7	ICD-O-3.1 T7	9080/1
+#8	ICD-O-3.1 T8	8330/1
+#9	ICD-O-3.1 T10	9090/3
+#10	ICD-O-3.1 T12	9090/6
+#11	ICD-O-3.1 T14	9090/1
+#12	ICD-O-3.1 T13	9090/6
+#13	ICD-O-3.1 T16	8000/6
+#14	ICD-O-3.1 T17	8000/6
+#15	ICD-O-3.1 T19	9090/6
+#16	ICD-O-3.1 T11	8000/6
+#17	ICD-O-3.1 T15	8000/6
+#18	ICD-O-3.1 T18	8000/6
+#19	ICD-O-3.1 T1	8000/6
+#20	SNOMED T4	47620003
+#21	SNOMED T3	253053003
+#22	SNOMED T9	14799000
+#23	SNOMED T6	86251006
+#24	SNOMED T2	1187393008
+#25	SNOMED T5	1187393008
+#26	SNOMED T7	1187393008
+#27	SNOMED T8	128892009
+#28	SNOMED T10	18854008
+#29	SNOMED T16	14799000
+#30	SNOMED T17	14799000
+#31	SNOMED T11	14799000
+#32	SNOMED T15	14799000
+#33	SNOMED T18	14799000
+#34	SNOMED T1	14799000

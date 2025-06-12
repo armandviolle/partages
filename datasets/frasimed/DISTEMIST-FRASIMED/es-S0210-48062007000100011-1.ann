@@ -1,0 +1,16 @@
+T1	disease 465 488	hypertension artérielle
+T2	disease 566 572	angine
+T3	disease 719 787	arrêt cardiorespiratoire secondaire à une fibrillation ventriculaire
+T4	disease 1743 1759	bloc A-V complet
+T5	disease 2160 2322	maladie diffuse de l'artère descendante antérieure avec une lésion de 50 % dans le tiers distal et de 40 % dans le tiers proximal de la première branche diagonale
+T6	disease 2326 2453	artère circonflexe présentait une lésion de 50 % dans le tiers moyen et une atteinte diffuse de ses branches marginales obtuses
+T7	disease 2457 2502	artère coronaire droite présentait une lésion
+T8	disease 2615 2669	artère descendante postérieure présentait deux lésions
+#1	SNOMED T5	840608004
+#2	SNOMED T6	414024009
+#3	SNOMED T7	876856005
+#4	SNOMED T4	27885002
+#5	SNOMED T1	38341003
+#6	SNOMED T2	194828000
+#7	SNOMED T3	410430005+71908006
+#8	SNOMED T8	868222004

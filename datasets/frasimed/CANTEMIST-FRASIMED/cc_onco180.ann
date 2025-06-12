@@ -1,0 +1,47 @@
+T1	morphology-onco 60 141	lymphome extranodal de la zone marginale (MALT) de type B avec atteinte gastrique
+T2	morphology-onco 102 106	MALT
+T3	morphology-onco 293 357	adénocarcinome endométrial bien différencié de type endométroïde
+T4	morphology-onco 493 507	adénocarcinome
+T5	morphology-onco 844 862	épithélioma sébacé
+T6	morphology-onco 869 890	carcinome épidermoïde
+T7	morphology-onco 938 947	carcinome
+T8	morphology-onco 1904 1933	lésions intraparenchymateuses
+T9	morphology-onco 2376 2388	métastatique
+T10	morphology-onco 2430 2448	lésions cérébrales
+T11	morphology-onco 2734 2744	métastases
+T12	morphology-onco 3264 3299	lésions parenchymateuses cérébrales
+T13	morphology-onco 3319 3326	tumoral
+T14	morphology-onco 3483 3499	lésion cérébrale
+T15	morphology-onco 3525 3575	Xanthroastrocytome pléomorphe de grade II de l'OMS
+T16	morphology-onco 3985 4003	lésions cérébrales
+#1	ICD-O-3.1 T4	8140/3
+#2	ICD-O-3.1 T7	8010/3
+#3	ICD-O-3.1 T6	8070/3
+#4	ICD-O-3.1 T11	8000/6
+#5	ICD-O-3.1 T13	8000/1
+#6	ICD-O-3.1 T1	9699/6
+#7	ICD-O-3.1 T2	9699/3
+#8	ICD-O-3.1 T3	8380/31
+#9	ICD-O-3.1 T5	8410/0
+#10	ICD-O-3.1 T9	8000/6
+#11	ICD-O-3.1 T8	8000/6
+#12	ICD-O-3.1 T10	8000/6
+#13	ICD-O-3.1 T12	8000/6
+#14	ICD-O-3.1 T15	9424/32
+#15	ICD-O-3.1 T16	8000/6
+#16	ICD-O-3.1 T14	8000/6
+#17	SNOMED T4	1187332001
+#18	SNOMED T7	1187425009
+#19	SNOMED T6	1162767002
+#20	SNOMED T11	14799000
+#21	SNOMED T13	86251006
+#22	SNOMED T2	447100004
+#23	SNOMED T3	30289006
+#24	SNOMED T5	307598005
+#25	SNOMED T9	14799000
+#26	SNOMED T8	14799000
+#27	SNOMED T10	14799000
+#28	SNOMED T12	14799000
+#29	SNOMED T15	189924002
+#30	SNOMED T16	14799000
+#31	SNOMED T14	14799000

@@ -1,0 +1,36 @@
+T1	morphology-onco 1187 1196	malignité
+T2	morphology-onco 1597 1622	nodulaires sous-pleurales
+T3	morphology-onco 1954 1971	lésions pleurales
+T4	morphology-onco 2040 2052	angiosarcome
+T5	morphology-onco 2040 2065	angiosarcome épithélioïde
+T6	morphology-onco 2129 2149	lésion sous-pleurale
+T7	morphology-onco 2157 2169	angiosarcome
+T8	morphology-onco 2157 2182	angiosarcome épithélioïde
+T9	morphology-onco 2223 2235	néoformation
+T10	morphology-onco 2283 2295	angiosarcome
+T11	morphology-onco 2283 2308	angiosarcome épithélioïde
+T12	morphology-onco 2384 2396	métastatique
+#1	ICD-O-3.1 T4	9120/3
+#2	ICD-O-3.1 T7	9120/3
+#3	ICD-O-3.1 T1	8000/3
+#4	ICD-O-3.1 T12	8000/6
+#5	ICD-O-3.1 T9	8000/1
+#6	ICD-O-3.1 T5	8804/3
+#7	ICD-O-3.1 T8	8804/3
+#8	ICD-O-3.1 T11	8804/3
+#9	ICD-O-3.1 T10	9120/3
+#10	ICD-O-3.1 T2	8000/6
+#11	ICD-O-3.1 T3	8000/6
+#12	ICD-O-3.1 T6	8000/6
+#13	SNOMED T4	39000009
+#14	SNOMED T7	39000009
+#15	SNOMED T1	1240414004
+#16	SNOMED T12	14799000
+#17	SNOMED T9	86251006
+#18	SNOMED T5	59238007
+#19	SNOMED T8	59238007
+#20	SNOMED T11	59238007
+#21	SNOMED T10	39000009
+#22	SNOMED T2	14799000
+#23	SNOMED T3	14799000
+#24	SNOMED T6	14799000

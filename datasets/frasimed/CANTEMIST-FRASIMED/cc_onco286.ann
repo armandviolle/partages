@@ -1,0 +1,60 @@
+T1	morphology-onco 88 95	thymome
+T2	morphology-onco 455 497	lymphome centroblastique diffus de Hodgkin
+T3	morphology-onco 1441 1449	lymphome
+T4	morphology-onco 1908 1915	maligne
+T5	morphology-onco 1917 1926	métastase
+T6	morphology-onco 1928 1935	myélome
+T7	morphology-onco 1937 1945	lymphome
+T8	morphology-onco 2272 2279	maligne
+T9	morphology-onco 3186 3207	tumeur fibroblastique
+T10	morphology-onco 3229 3241	fibrosarcome
+T11	morphology-onco 3550 3565	néoprolifératif
+T12	morphology-onco 3723 3731	tumorale
+T13	morphology-onco 3884 3896	ostéosarcome
+T14	morphology-onco 3964 3972	tumorale
+T15	morphology-onco 4551 4563	métastatique
+T16	morphology-onco 4616 4642	histiocytome fibreux malin
+T17	morphology-onco 4673 4682	pT1-2N0M0
+T18	morphology-onco 4752 4764	ostéosarcome
+T19	morphology-onco 4787 4796	pT1-2N0M0
+T20	morphology-onco 5019 5027	lymphome
+#1	ICD-O-3.1 T10	8810/3
+#2	ICD-O-3.1 T16	8830/3
+#3	ICD-O-3.1 T3	9590/3
+#4	ICD-O-3.1 T7	9590/3
+#5	ICD-O-3.1 T20	9590/3
+#6	ICD-O-3.1 T4	8000/3
+#7	ICD-O-3.1 T8	8000/3
+#8	ICD-O-3.1 T15	8000/6
+#9	ICD-O-3.1 T5	8000/6
+#10	ICD-O-3.1 T6	9732/3
+#11	ICD-O-3.1 T13	9180/3
+#12	ICD-O-3.1 T18	9180/3
+#13	ICD-O-3.1 T1	8580/1
+#14	ICD-O-3.1 T12	8000/1
+#15	ICD-O-3.1 T14	8000/1
+#16	ICD-O-3.1 T2	9680/3
+#17	ICD-O-3.1 T9	8000/1/H
+#18	ICD-O-3.1 T17	8000/6
+#19	ICD-O-3.1 T19	8000/6
+#20	ICD-O-3.1 T11	8000/1
+#21	SNOMED T10	53654007
+#22	SNOMED T16	34360000
+#23	SNOMED T3	1163043007
+#24	SNOMED T7	1163043007
+#25	SNOMED T20	1163043007
+#26	SNOMED T4	1240414004
+#27	SNOMED T8	1240414004
+#28	SNOMED T15	14799000
+#29	SNOMED T5	14799000
+#30	SNOMED T6	109989006
+#31	SNOMED T13	1163405004
+#32	SNOMED T18	1163405004
+#33	SNOMED T1	1187428006
+#34	SNOMED T12	86251006
+#35	SNOMED T14	86251006
+#36	SNOMED T2	1172695008
+#37	SNOMED T9	86251006
+#38	SNOMED T17	14799000
+#39	SNOMED T19	14799000
+#40	SNOMED T11	86251006

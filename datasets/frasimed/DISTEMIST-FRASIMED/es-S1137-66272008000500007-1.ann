@@ -1,0 +1,15 @@
+T1	disease 87 96	méningite
+T2	disease 129 146	grossesse molaire
+T3	disease 197 204	fumeuse
+T4	disease 329 360	hydrocéphalie fœtale bilatérale
+T5	disease 367 382	oligohydramnios
+T6	disease 737 771	hématomes sur l'épaule et la fesse
+T7	disease 785 842	macrocéphalie avec une fontanelle antérieure sous tension
+T8	disease 912 932	grave tombocytopénie
+T9	disease 983 988	NAFLD
+T10	disease 1525 1592	hydrocéphalie sévère secondaire à une hémorragie intraventriculaire
+T11	disease 1525 1545	hydrocéphalie sévère
+T12	disease 1563 1592	hémorragie intraventriculaire
+T13	disease 1678 1715	liquide céphalorachidien hémorragique
+T14	disease 1794 1806	ventriculite
+T15	disease 1814 1825	convulsions

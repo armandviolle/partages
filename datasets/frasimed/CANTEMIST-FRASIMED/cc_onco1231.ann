@@ -1,0 +1,15 @@
+T1	morphology-onco 478 486	mélanome
+T2	morphology-onco 799 808	malignité
+T3	morphology-onco 1239 1248	malignité
+T4	morphology-onco 1519 1526	maligne
+T5	morphology-onco 2013 2048	lymphome folliculaire de grade IIIA
+#1	ICD-O-3.1 T2	8000/3
+#2	ICD-O-3.1 T3	8000/3
+#3	ICD-O-3.1 T4	8000/3
+#4	ICD-O-3.1 T1	8720/3
+#5	ICD-O-3.1 T5	9698/3
+#6	SNOMED T2	1240414004
+#7	SNOMED T3	1240414004
+#8	SNOMED T4	1240414004
+#9	SNOMED T1	1162635006
+#10	SNOMED T5	40411000

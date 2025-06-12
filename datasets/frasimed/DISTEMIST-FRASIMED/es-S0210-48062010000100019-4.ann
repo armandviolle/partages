@@ -1,0 +1,17 @@
+T1	disease 85 98	bronchectasie
+T2	disease 105 114	pneumonie
+T3	disease 115 129	péribronchique
+T4	disease 131 161	anémie multifactorielle sévère
+T5	disease 163 192	insuffisance rénale chronique
+T6	disease 218 244	gastrite chronique diffuse
+T7	disease 325 363	fracturé l'humérus gauche et la hanche
+T8	disease 445 488	hématurie macroscopique (post-condensation)
+T9	disease 494 505	hypotension
+T10	disease 663 706	pneumonie évoluant vers un abcès pulmonaire
+T11	disease 712 732	hématurie fulminante
+T12	disease 738 762	septicémie à pseudomonas
+T13	disease 770 795	insuffisance rénale aiguë
+T14	disease 852 867	caillot vésical
+T15	disease 1035 1054	pathologie tumorale
+T16	disease 1132 1153	amylose vésicale (AA)
+T17	disease 1150 1152	AA

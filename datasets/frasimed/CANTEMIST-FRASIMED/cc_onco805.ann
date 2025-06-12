@@ -1,0 +1,60 @@
+T1	morphology-onco 384 393	néoplasie
+T2	morphology-onco 688 708	tumeur séminomateuse
+T3	morphology-onco 1116 1122	tumeur
+T4	morphology-onco 2487 2495	tumorale
+T5	morphology-onco 3299 3305	tumeur
+T6	morphology-onco 3484 3495	néoplasique
+T7	morphology-onco 3656 3663	maligne
+T8	morphology-onco 4064 4073	néoplasme
+T9	morphology-onco 5009 5024	lésion tumorale
+T10	morphology-onco 6213 6220	tumoral
+T11	morphology-onco 8006 8016	métastases
+T12	morphology-onco 8967 8976	malignité
+T13	morphology-onco 9310 9317	maligne
+T14	morphology-onco 9712 9721	malignité
+T15	morphology-onco 10566 10575	malignité
+T16	morphology-onco 10616 10624	séminome
+T17	morphology-onco 10729 10738	malignité
+T18	morphology-onco 10820 10828	séminome
+T19	morphology-onco 11109 11117	séminome
+T20	morphology-onco 12012 12020	séminome
+#1	ICD-O-3.1 T7	8000/3
+#2	ICD-O-3.1 T12	8000/3
+#3	ICD-O-3.1 T13	8000/3
+#4	ICD-O-3.1 T14	8000/3
+#5	ICD-O-3.1 T15	8000/3
+#6	ICD-O-3.1 T17	8000/3
+#7	ICD-O-3.1 T11	8000/6
+#8	ICD-O-3.1 T1	8000/1
+#9	ICD-O-3.1 T8	8000/1
+#10	ICD-O-3.1 T6	8000/1
+#11	ICD-O-3.1 T16	9061/3
+#12	ICD-O-3.1 T18	9061/3
+#13	ICD-O-3.1 T19	9061/3
+#14	ICD-O-3.1 T20	9061/3
+#15	ICD-O-3.1 T3	8000/1
+#16	ICD-O-3.1 T5	8000/1
+#17	ICD-O-3.1 T4	8000/1
+#18	ICD-O-3.1 T9	8000/1
+#19	ICD-O-3.1 T10	8000/1
+#20	ICD-O-3.1 T2	9061/3
+#21	SNOMED T7	1240414004
+#22	SNOMED T12	1240414004
+#23	SNOMED T13	1240414004
+#24	SNOMED T14	1240414004
+#25	SNOMED T15	1240414004
+#26	SNOMED T17	1240414004
+#27	SNOMED T11	14799000
+#28	SNOMED T1	86251006
+#29	SNOMED T8	86251006
+#30	SNOMED T6	86251006
+#31	SNOMED T16	1162765005
+#32	SNOMED T18	1162765005
+#33	SNOMED T19	1162765005
+#34	SNOMED T20	1162765005
+#35	SNOMED T3	86251006
+#36	SNOMED T5	86251006
+#37	SNOMED T4	86251006
+#38	SNOMED T9	86251006
+#39	SNOMED T10	86251006
+#40	SNOMED T2	1162765005

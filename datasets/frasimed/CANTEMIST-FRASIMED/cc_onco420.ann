@@ -1,0 +1,33 @@
+T1	morphology-onco 210 217	thymome
+T2	morphology-onco 478 484	tumeur
+T3	morphology-onco 493 523	carcinome canalaire infiltrant
+T4	morphology-onco 677 683	tumeur
+T5	morphology-onco 692 709	thymome de type A
+T6	morphology-onco 877 885	tumorale
+T7	morphology-onco 1646 1652	tumeur
+T8	morphology-onco 3528 3535	thymome
+T9	morphology-onco 4107 4119	métastatique
+T10	morphology-onco 4133 4140	Thymome
+T11	morphology-onco 4209 4216	thymome
+#1	ICD-O-3.1 T3	8500/3
+#2	ICD-O-3.1 T9	8000/6
+#3	ICD-O-3.1 T2	8000/1
+#4	ICD-O-3.1 T4	8000/1
+#5	ICD-O-3.1 T7	8000/1
+#6	ICD-O-3.1 T6	8000/1
+#7	ICD-O-3.1 T1	8580/1
+#8	ICD-O-3.1 T5	8581/1
+#9	ICD-O-3.1 T8	8580/1
+#10	ICD-O-3.1 T10	8580/1
+#11	ICD-O-3.1 T11	8580/1
+#12	SNOMED T3	58477004
+#13	SNOMED T9	14799000
+#14	SNOMED T2	86251006
+#15	SNOMED T4	86251006
+#16	SNOMED T7	86251006
+#17	SNOMED T6	86251006
+#18	SNOMED T1	1187428006
+#19	SNOMED T5	1144928005
+#20	SNOMED T8	1187428006
+#21	SNOMED T10	1187428006
+#22	SNOMED T11	1187428006

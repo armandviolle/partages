@@ -1,0 +1,14 @@
+T1	disease 88 97	thrombose
+T2	disease 976 1003	thrombose de la veine porte
+T3	disease 976 1042	thrombose de la veine porte et de la veine mésentérique supérieure
+T4	disease 1247 1260	thrombophilie
+T5	disease 1277 1342	hétérozygotie pour la mutation G20210A du gène de la prothrombine
+T6	disease 1631 1644	splénomégalie
+T7	disease 1747 1780	vaisseaux collatéraux périportaux
+#1	SNOMED T1	439127006
+#2	SNOMED T2	17920008
+#3	SNOMED T3	197001004+17920008
+#4	SNOMED T4	234467004
+#5	SNOMED T5	441421001
+#6	SNOMED T6	16294009
+#7	SNOMED T7	67307004

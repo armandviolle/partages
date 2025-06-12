@@ -1,0 +1,10 @@
+T1	disease 656 684	lésion tumorale mandibulaire
+T2	disease 995 1009	lésion myxoïde
+T3	disease 1279 1309	myxome odontogène mandibulaire
+T4	disease 1398 1404	lésion
+T5	disease 2355 2385	myxome odontogène mandibulaire
+#1	SNOMED T1	126551000
+#2	SNOMED T2	92069005
+#3	SNOMED T3	92208007
+#4	SNOMED T5	92208007
+#5	SNOMED T4	417163006

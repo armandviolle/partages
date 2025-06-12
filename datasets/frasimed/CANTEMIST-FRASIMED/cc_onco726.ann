@@ -1,0 +1,27 @@
+T1	morphology-onco 1029 1036	maligne
+T2	morphology-onco 1136 1152	atteinte osseuse
+T3	morphology-onco 1153 1165	métastatique
+T4	morphology-onco 1355 1369	adénocarcinome
+T5	morphology-onco 1518 1527	malignité
+T6	morphology-onco 1550 1564	adénocarcinome
+T7	morphology-onco 2328 2373	lésions pulmonaires et des glandes surrénales
+T8	morphology-onco 2424 2432	malignes
+T9	morphology-onco 2864 2880	lésion hépatique
+#1	ICD-O-3.1 T4	8140/3
+#2	ICD-O-3.1 T6	8140/3
+#3	ICD-O-3.1 T5	8000/3
+#4	ICD-O-3.1 T3	8000/6
+#5	ICD-O-3.1 T1	8000/3
+#6	ICD-O-3.1 T8	8000/3
+#7	ICD-O-3.1 T2	8000/6
+#8	ICD-O-3.1 T7	8000/6
+#9	ICD-O-3.1 T9	8000/6
+#10	SNOMED T4	1187332001
+#11	SNOMED T6	1187332001
+#12	SNOMED T5	1240414004
+#13	SNOMED T3	14799000
+#14	SNOMED T1	1240414004
+#15	SNOMED T8	1240414004
+#16	SNOMED T2	14799000
+#17	SNOMED T7	14799000
+#18	SNOMED T9	14799000

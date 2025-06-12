@@ -1,0 +1,51 @@
+T1	morphology-onco 414 421	tumeurs
+T2	morphology-onco 456 473	hémangioblastomes
+T3	morphology-onco 478 484	cancer
+T4	morphology-onco 498 550	tumeur neuroendocrine pancréatique non fonctionnelle
+T5	morphology-onco 556 571	angiomyolipomes
+T6	morphology-onco 586 593	tumeurs
+T7	morphology-onco 761 778	hémangioblastomes
+T8	morphology-onco 1070 1078	adénomes
+T9	morphology-onco 1170 1203	adénocarcinome à cellules claires
+T10	morphology-onco 1424 1440	hémangioblastome
+T11	morphology-onco 1647 1662	angiomyolipomes
+T12	morphology-onco 1669 1675	cancer
+T13	morphology-onco 1956 2046	tumeur neuroendocrine pancréatique (PNET) bien différenciée G1 (Ki67 2%) non fonctionnelle
+T14	morphology-onco 1992 1996	PNET
+T15	morphology-onco 2392 2396	PNET
+T16	morphology-onco 2403 2409	cancer
+T17	morphology-onco 2921 2928	tumeurs
+#1	ICD-O-3.1 T14	8150/1
+#2	ICD-O-3.1 T15	8150/1
+#3	ICD-O-3.1 T9	8310/3
+#4	ICD-O-3.1 T5	8860/0
+#5	ICD-O-3.1 T11	8860/0
+#6	ICD-O-3.1 T3	8000/3
+#7	ICD-O-3.1 T12	8000/3
+#8	ICD-O-3.1 T16	8000/3
+#9	ICD-O-3.1 T2	9161/1
+#10	ICD-O-3.1 T7	9161/1
+#11	ICD-O-3.1 T10	9161/1
+#12	ICD-O-3.1 T1	8000/1
+#13	ICD-O-3.1 T6	8000/1
+#14	ICD-O-3.1 T17	8000/1
+#15	ICD-O-3.1 T4	8150/3
+#16	ICD-O-3.1 T8	8140/0
+#17	ICD-O-3.1 T13	8150/31
+#18	SNOMED T14	126864006
+#19	SNOMED T15	126864006
+#20	SNOMED T9	30546008
+#21	SNOMED T5	19929002
+#22	SNOMED T11	19929002
+#23	SNOMED T3	1240414004
+#24	SNOMED T12	1240414004
+#25	SNOMED T16	1240414004
+#26	SNOMED T2	1156474009
+#27	SNOMED T7	1156474009
+#28	SNOMED T10	1156474009
+#29	SNOMED T1	86251006
+#30	SNOMED T6	86251006
+#31	SNOMED T17	86251006
+#32	SNOMED T4	60346004
+#33	SNOMED T8	1187379001
+#34	SNOMED T13	60346004

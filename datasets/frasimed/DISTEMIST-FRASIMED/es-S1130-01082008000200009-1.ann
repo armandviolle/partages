@@ -1,0 +1,8 @@
+T1	disease 48 64	maladie cœliaque
+T2	disease 173 219	entéropathie avec atrophie villositaire sévère
+T3	disease 420 431	mort fœtale
+T4	disease 674 700	altération prothrombotique
+#1	SNOMED T1	396331005
+#2	SNOMED T2	75581001
+#3	SNOMED T3	84122000
+#4	SNOMED T4	234467004

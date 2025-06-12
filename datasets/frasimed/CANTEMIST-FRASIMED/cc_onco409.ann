@@ -1,0 +1,21 @@
+T1	morphology-onco 1368 1382	adénocarcinome
+T2	morphology-onco 1762 1795	Adénocarcinome du poumon cT1NxM1a
+T3	morphology-onco 1817 1827	métastases
+T4	morphology-onco 3205 3229	maladie au niveau des os
+T5	morphology-onco 3909 3916	maligne
+T6	morphology-onco 4100 4148	progression radiologique de la maladie (pleurale
+T7	morphology-onco 4705 4723	lésions hépatiques
+#1	ICD-O-3.1 T1	8140/3
+#2	ICD-O-3.1 T3	8000/6
+#3	ICD-O-3.1 T2	8140/6
+#4	ICD-O-3.1 T5	8000/3
+#5	ICD-O-3.1 T7	8000/6
+#6	ICD-O-3.1 T4	8000/6
+#7	ICD-O-3.1 T6	8000/6
+#8	SNOMED T1	1187332001
+#9	SNOMED T3	14799000
+#10	SNOMED T2	4590003
+#11	SNOMED T5	1240414004
+#12	SNOMED T7	14799000
+#13	SNOMED T4	14799000
+#14	SNOMED T6	14799000

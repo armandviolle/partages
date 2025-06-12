@@ -1,0 +1,58 @@
+T1	morphology-onco 1042 1110	métastase d'une tumeur neuroendocrine (TNE) moyennement différenciée
+T2	morphology-onco 1081 1084	TNE
+T3	morphology-onco 1652 1686	métastase de tumeur neuroendocrine
+T4	morphology-onco 1755 1773	cholangiocarcinome
+T5	morphology-onco 1813 1820	pT3N1Mx
+T6	morphology-onco 2602 2609	tumeurs
+T7	morphology-onco 3176 3179	TNE
+T8	morphology-onco 3242 3255	métastatiques
+T9	morphology-onco 3491 3503	métastatique
+T10	morphology-onco 3713 3716	NER
+T11	morphology-onco 3821 3839	cholangiocarcinome
+T12	morphology-onco 4637 4656	nodules pulmonaires
+T13	morphology-onco 4992 5011	lésions pulmonaires
+T14	morphology-onco 5134 5137	TNE
+T15	morphology-onco 5365 5388	tumeur était hétérogène
+T16	morphology-onco 5532 5546	adénocarcinome
+T17	morphology-onco 5872 5910	carcinome mixte (adéno-neuroendocrine)
+T18	morphology-onco 6339 6349	métastases
+T19	morphology-onco 6558 6563	malin
+T20	morphology-onco 6696 6719	infiltration médullaire
+#1	ICD-O-3.1 T16	8140/3
+#2	ICD-O-3.1 T4	8160/3
+#3	ICD-O-3.1 T11	8160/3
+#4	ICD-O-3.1 T9	8000/6
+#5	ICD-O-3.1 T8	8000/6
+#6	ICD-O-3.1 T18	8000/6
+#7	ICD-O-3.1 T6	8000/1
+#8	ICD-O-3.1 T2	8240/3
+#9	ICD-O-3.1 T1	8249/6
+#10	ICD-O-3.1 T3	8240/6
+#11	ICD-O-3.1 T5	8000/6
+#12	ICD-O-3.1 T7	8240/3
+#13	ICD-O-3.1 T10	8240/3
+#14	ICD-O-3.1 T14	8240/3
+#15	ICD-O-3.1 T15	8000/1/H
+#16	ICD-O-3.1 T17	8244/3
+#17	ICD-O-3.1 T19	8000/3
+#18	ICD-O-3.1 T13	8000/6
+#19	ICD-O-3.1 T12	8000/6
+#20	ICD-O-3.1 T20	8000/6
+#21	SNOMED T16	1187332001
+#22	SNOMED T4	312104005
+#23	SNOMED T11	312104005
+#24	SNOMED T9	14799000
+#25	SNOMED T8	14799000
+#26	SNOMED T18	14799000
+#27	SNOMED T6	86251006
+#28	SNOMED T2	189607006
+#29	SNOMED T5	14799000
+#30	SNOMED T7	189607006
+#31	SNOMED T10	189607006
+#32	SNOMED T14	189607006
+#33	SNOMED T15	86251006
+#34	SNOMED T17	51465000
+#35	SNOMED T19	1240414004
+#36	SNOMED T13	14799000
+#37	SNOMED T12	14799000
+#38	SNOMED T20	14799000

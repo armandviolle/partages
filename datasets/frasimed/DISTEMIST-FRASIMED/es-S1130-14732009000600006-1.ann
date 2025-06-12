@@ -1,0 +1,18 @@
+T1	disease 392 468	lésion intra-osseuse frontale droite avec des caractéristiques ostéolytiques
+T2	disease 525 535	métastases
+T3	disease 540 547	myélome
+T4	disease 554 564	hémangiome
+T5	disease 856 862	lésion
+T6	disease 1116 1122	lésion
+T7	disease 1410 1416	lésion
+T8	disease 1545 1558	défaut osseux
+T9	disease 1818 1851	hémangiome caverneux intra-osseux
+#1	SNOMED T1	76069003
+#2	SNOMED T2	128462008
+#3	SNOMED T3	55921005
+#4	SNOMED T4	400210000
+#5	SNOMED T9	416824008
+#6	SNOMED T8	76069003
+#7	SNOMED T5	417163006
+#8	SNOMED T6	417163006
+#9	SNOMED T7	417163006

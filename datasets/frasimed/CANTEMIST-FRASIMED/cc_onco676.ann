@@ -1,0 +1,38 @@
+T1	morphology-onco 158 200	carcinome thyroïdien à cellules de Hürthle
+T2	morphology-onco 202 205	HCC
+T3	morphology-onco 458 483	CHC de stade IVc (pT3NxM1
+T4	morphology-onco 497 507	métastases
+T5	morphology-onco 937 956	lésions pulmonaires
+T6	morphology-onco 1942 1945	HCC
+T7	morphology-onco 2917 2959	Carcinome thyroïdien à cellules de Hürthle
+T8	morphology-onco 2961 2964	HCC
+T9	morphology-onco 4422 4445	néoplasie plasmocytaire
+T10	morphology-onco 4676 4683	myélome
+T11	morphology-onco 4737 4753	myélome multiple
+T12	morphology-onco 5116 5134	myélome leucémique
+T13	morphology-onco 5141 5163	leucémie à plasmocytes
+#1	ICD-O-3.1 T5	8000/6
+#2	ICD-O-3.1 T4	8000/6
+#3	ICD-O-3.1 T10	9732/3
+#4	ICD-O-3.1 T13	9733/3
+#5	ICD-O-3.1 T11	9732/3
+#6	ICD-O-3.1 T1	8290/3
+#7	ICD-O-3.1 T2	8290/3
+#8	ICD-O-3.1 T3	8290/6
+#9	ICD-O-3.1 T6	8290/3
+#10	ICD-O-3.1 T7	8290/3
+#11	ICD-O-3.1 T8	8290/3
+#12	ICD-O-3.1 T9	9731/3
+#13	ICD-O-3.1 T12	9733/3
+#14	SNOMED T5	14799000
+#15	SNOMED T4	14799000
+#16	SNOMED T10	109989006
+#17	SNOMED T13	128922003
+#18	SNOMED T11	109989006
+#19	SNOMED T1	57596004
+#20	SNOMED T2	57596004
+#21	SNOMED T6	57596004
+#22	SNOMED T7	57596004
+#23	SNOMED T8	57596004
+#24	SNOMED T9	1187107005
+#25	SNOMED T12	128922003

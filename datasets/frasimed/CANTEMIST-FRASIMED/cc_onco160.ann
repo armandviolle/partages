@@ -1,0 +1,39 @@
+T1	morphology-onco 1610 1659	carcinome épidermoïde infiltrant bien différencié
+T2	morphology-onco 1945 1957	métastatique
+T3	morphology-onco 2192 2228	métastase d'un carcinome épidermoïde
+T4	morphology-onco 2274 2280	tumeur
+T5	morphology-onco 3172 3193	carcinome épidermoïde
+T6	morphology-onco 3228 3234	malins
+T7	morphology-onco 3275 3292	nodule pulmonaire
+T8	morphology-onco 3384 3396	métastatique
+T9	morphology-onco 3515 3527	métastatique
+T10	morphology-onco 3622 3631	Carcinome
+T11	morphology-onco 3706 3723	nodule pulmonaire
+T12	morphology-onco 5113 5130	nodule pulmonaire
+T13	morphology-onco 5535 5551	nodule de la LSD
+#1	ICD-O-3.1 T10	8010/3
+#2	ICD-O-3.1 T5	8070/3
+#3	ICD-O-3.1 T6	8000/3
+#4	ICD-O-3.1 T2	8000/6
+#5	ICD-O-3.1 T8	8000/6
+#6	ICD-O-3.1 T9	8000/6
+#7	ICD-O-3.1 T4	8000/1
+#8	ICD-O-3.1 T1	8070/31/H
+#9	ICD-O-3.1 T3	8070/6
+#10	ICD-O-3.1 T11	8000/6
+#11	ICD-O-3.1 T12	8000/6
+#12	ICD-O-3.1 T13	8000/6
+#13	ICD-O-3.1 T7	8000/6
+#14	SNOMED T10	1187425009
+#15	SNOMED T5	1162767002
+#16	SNOMED T6	1240414004
+#17	SNOMED T2	14799000
+#18	SNOMED T8	14799000
+#19	SNOMED T9	14799000
+#20	SNOMED T4	86251006
+#21	SNOMED T1	1162767002
+#22	SNOMED T3	403906006
+#23	SNOMED T11	14799000
+#24	SNOMED T12	14799000
+#25	SNOMED T13	14799000
+#26	SNOMED T7	14799000

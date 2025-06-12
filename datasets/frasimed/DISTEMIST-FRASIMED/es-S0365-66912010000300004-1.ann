@@ -1,0 +1,16 @@
+T1	disease 50 83	glaucome chronique à angle ouvert
+T2	disease 1273 1353	décollement de la membrane de Descemet (DMD) dans le quadrant temporal inférieur
+T3	disease 1313 1316	DMD
+T4	disease 1929 1949	œdème cornéen modéré
+T5	disease 2176 2200	décollement descematique
+T6	disease 2322 2330	hématome
+T7	disease 2509 2512	DMD
+T8	disease 2626 2639	œdème cornéen
+#1	SNOMED T1	84494001
+#2	SNOMED T2	95738005
+#3	SNOMED T7	95738005
+#4	SNOMED T3	95738005
+#5	SNOMED T4	27194006
+#6	SNOMED T8	27194006
+#7	SNOMED T5	95738005
+#8	SNOMED T6	385494008

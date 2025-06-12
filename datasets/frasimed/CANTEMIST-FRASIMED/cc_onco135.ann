@@ -1,0 +1,15 @@
+T1	morphology-onco 1066 1077	néoplasique
+T2	morphology-onco 1128 1170	lésions nodulaires pulmonaires bilatérales
+T3	morphology-onco 1358 1375	cellules malignes
+T4	morphology-onco 1397 1411	adénocarcinome
+T5	morphology-onco 1489 1503	adénocarcinome
+#1	ICD-O-3.1 T4	8140/3
+#2	ICD-O-3.1 T5	8140/3
+#3	ICD-O-3.1 T3	8001/3
+#4	ICD-O-3.1 T1	8000/1
+#5	ICD-O-3.1 T2	8000/6
+#6	SNOMED T4	1187332001
+#7	SNOMED T5	1187332001
+#8	SNOMED T3	88400008
+#9	SNOMED T1	86251006
+#10	SNOMED T2	14799000

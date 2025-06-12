@@ -1,0 +1,66 @@
+T1	morphology-onco 76 93	syndrome de Lynch
+T2	morphology-onco 188 197	néoplasme
+T3	morphology-onco 303 317	adénocarcinome
+T4	morphology-onco 619 630	néoplasique
+T5	morphology-onco 941 947	tumeur
+T6	morphology-onco 1108 1117	néoplasie
+T7	morphology-onco 1405 1414	malignité
+T8	morphology-onco 1930 1960	processus lymphoprolifératif B
+T9	morphology-onco 1994 2068	lymphome diffus à grandes cellules B avec phénotype de centre non germinal
+T10	morphology-onco 2099 2104	DLBCL
+T11	morphology-onco 2177 2185	lymphoma
+T12	morphology-onco 2612 2620	lymphome
+T13	morphology-onco 3494 3499	DLBCL
+T14	morphology-onco 3872 3913	carcinome infiltrant grade histologique I
+T15	morphology-onco 4162 4190	processus lymphoprolifératif
+T16	morphology-onco 4379 4400	néoplasie épithéliale
+T17	morphology-onco 4454 4512	lymphome diffus à grandes cellules B à centre non germinal
+T18	morphology-onco 4629 4657	processus lymphoprolifératif
+T19	morphology-onco 4734 4750	Ca infiltrant GI
+T20	morphology-onco 4914 4934	Carcinome infiltrant
+T21	morphology-onco 5233 5305	Lymphome non hodgkinien diffus à grandes cellules B, centre non germinal
+T22	morphology-onco 5679 5688	néoplasie
+#1	ICD-O-3.1 T20	8010/3/H
+#2	ICD-O-3.1 T10	9680/3
+#3	ICD-O-3.1 T13	9680/3
+#4	ICD-O-3.1 T3	8140/3
+#5	ICD-O-3.1 T11	9590/3
+#6	ICD-O-3.1 T12	9590/3
+#7	ICD-O-3.1 T7	8000/3
+#8	ICD-O-3.1 T2	8000/1
+#9	ICD-O-3.1 T6	8000/1
+#10	ICD-O-3.1 T22	8000/1
+#11	ICD-O-3.1 T4	8000/1
+#12	ICD-O-3.1 T15	9970/1
+#13	ICD-O-3.1 T18	9970/1
+#14	ICD-O-3.1 T5	8000/1
+#15	ICD-O-3.1 T1	8000/3
+#16	ICD-O-3.1 T8	9970/1/H
+#17	ICD-O-3.1 T9	9680/3/H
+#18	ICD-O-3.1 T14	8010/31/H
+#19	ICD-O-3.1 T16	8000/1/H
+#20	ICD-O-3.1 T17	9680/3/H
+#21	ICD-O-3.1 T19	8010/31/H
+#22	ICD-O-3.1 T21	9680/3/H
+#23	SNOMED T20	1187425009
+#24	SNOMED T10	1172695008
+#25	SNOMED T13	1172695008
+#26	SNOMED T3	1187332001
+#27	SNOMED T11	1163043007
+#28	SNOMED T12	1163043007
+#29	SNOMED T7	1240414004
+#30	SNOMED T2	86251006
+#31	SNOMED T6	86251006
+#32	SNOMED T22	86251006
+#33	SNOMED T4	86251006
+#34	SNOMED T15	277466009
+#35	SNOMED T18	277466009
+#36	SNOMED T5	86251006
+#37	SNOMED T1	1240414004
+#38	SNOMED T8	277466009
+#39	SNOMED T9	1172695008
+#40	SNOMED T14	1187425009
+#41	SNOMED T16	86251006
+#42	SNOMED T17	1172695008
+#43	SNOMED T19	1187425009
+#44	SNOMED T21	1172695008

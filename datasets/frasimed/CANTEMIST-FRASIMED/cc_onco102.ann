@@ -1,0 +1,41 @@
+T1	morphology-onco 249 258	néoplasie
+T2	morphology-onco 324 333	néoplasie
+T3	morphology-onco 468 496	adénopathie sus-claviculaire
+T4	morphology-onco 738 766	Adénopathie sus-claviculaire
+T5	morphology-onco 1141 1169	adénopathie sus-claviculaire
+T6	morphology-onco 1196 1223	cellules tumorales malignes
+T7	morphology-onco 1252 1280	adénopathie sus-claviculaire
+T8	morphology-onco 1290 1333	métastase d'un carcinome à grandes cellules
+T9	morphology-onco 1792 1801	malignité
+T10	morphology-onco 2073 2112	Carcinome pulmonaire à grandes cellules
+T11	morphology-onco 2114 2120	T1N3M0
+T12	morphology-onco 3480 3489	néoplasme
+T13	morphology-onco 3606 3645	cancer du poumon non à petites cellules
+T14	morphology-onco 3667 3679	métastatique
+#1	ICD-O-3.1 T4	8000/6
+#2	ICD-O-3.1 T10	8012/3
+#3	ICD-O-3.1 T3	8000/6
+#4	ICD-O-3.1 T5	8000/6
+#5	ICD-O-3.1 T7	8000/6
+#6	ICD-O-3.1 T13	8046/3
+#7	ICD-O-3.1 T6	8001/3
+#8	ICD-O-3.1 T9	8000/3
+#9	ICD-O-3.1 T14	8000/6
+#10	ICD-O-3.1 T2	8000/1
+#11	ICD-O-3.1 T1	8000/1
+#12	ICD-O-3.1 T12	8000/1
+#13	ICD-O-3.1 T8	8012/6
+#14	ICD-O-3.1 T11	8000/6
+#15	SNOMED T4	14799000
+#16	SNOMED T10	22687000
+#17	SNOMED T3	14799000
+#18	SNOMED T5	14799000
+#19	SNOMED T7	14799000
+#20	SNOMED T13	128632008
+#21	SNOMED T6	88400008
+#22	SNOMED T9	1240414004
+#23	SNOMED T14	14799000
+#24	SNOMED T2	86251006
+#25	SNOMED T1	86251006
+#26	SNOMED T12	86251006
+#27	SNOMED T11	14799000

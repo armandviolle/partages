@@ -1,0 +1,20 @@
+T1	disease 36 58	cancer du bord lingual
+T2	disease 533 542	carcinome
+T3	disease 592 599	tumeurs
+T4	disease 654 701	infiltration du muscle sterno-cléido-mastoïdien
+T5	disease 1048 1062	masse tumorale
+T6	disease 1637 1713	métastases d'un carcinome épidermoïde peu différencié dans 4 des 7 ganglions
+T7	disease 1738 1762	infiltration extranodale
+T8	disease 2260 2278	toxicité chronique
+T9	disease 2281 2304	fibrose des tissus mous
+T10	disease 2338 2344	Cancer
+#1	SNOMED T1	371974006
+#2	SNOMED T8	75478009
+#3	SNOMED T9	263756000
+#4	SNOMED T2	722688002
+#5	SNOMED T4	94425007
+#6	SNOMED T6	1671000119100
+#7	SNOMED T7	2960001000004100
+#8	SNOMED T10	363346000
+#9	SNOMED T3	189542002
+#10	SNOMED T5	55342001

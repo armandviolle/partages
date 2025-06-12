@@ -1,0 +1,26 @@
+T1	disease 177 189	hypertension
+T2	disease 193 205	dyslipidémie
+T3	disease 223 242	bronchite chronique
+T4	disease 249 280	accident ischémique transitoire
+T5	disease 479 505	défaut pupillaire afférent
+T6	disease 629 655	hémorragie sous-rétinienne
+T7	disease 824 859	sous-rétinienne de cette hémorragie
+T8	disease 975 997	membrane néovasculaire
+T9	disease 999 1002	NVM
+T10	disease 1562 1602	sang ait persisté dans la zone maculaire
+T11	disease 1747 1773	hémorragie sous-rétinienne
+T12	disease 1866 1883	DMLA hémorragique
+T13	disease 2131 2143	hémolithiase
+#1	SNOMED T1	38341003
+#2	SNOMED T2	370992007
+#3	SNOMED T11	13937002
+#4	SNOMED T7	13937002
+#5	SNOMED T3	63480004
+#6	SNOMED T4	266257000
+#7	SNOMED T10	247161000
+#8	SNOMED T13	31341008
+#9	SNOMED T12	267718000
+#10	SNOMED T8	61267008
+#11	SNOMED T9	61267008
+#12	SNOMED T6	13937002
+#13	SNOMED T5	232121005

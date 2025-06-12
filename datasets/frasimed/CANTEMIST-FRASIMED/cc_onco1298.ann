@@ -1,0 +1,30 @@
+T1	morphology-onco 186 196	schwannome
+T2	morphology-onco 268 293	carcinome endométrial G3p
+T3	morphology-onco 293 300	T1bN0M0
+T4	morphology-onco 937 954	cellules malignes
+T5	morphology-onco 1111 1116	malin
+T6	morphology-onco 1119 1133	adénocarcinome
+T7	morphology-onco 1681 1695	Adénocarcinome
+T8	morphology-onco 1709 1715	T4N0M0
+T9	morphology-onco 1782 1806	Carcinome de l'endomètre
+T10	morphology-onco 1807 1815	pT1bN0M0
+#1	ICD-O-3.1 T7	8140/3
+#2	ICD-O-3.1 T8	8000/6
+#3	ICD-O-3.1 T6	8140/3
+#4	ICD-O-3.1 T4	8001/3
+#5	ICD-O-3.1 T5	8000/3
+#6	ICD-O-3.1 T10	8000/6
+#7	ICD-O-3.1 T1	9560/0
+#8	ICD-O-3.1 T2	8010/33
+#9	ICD-O-3.1 T3	8000/6
+#10	ICD-O-3.1 T9	8380/3
+#11	SNOMED T7	1187332001
+#12	SNOMED T8	14799000
+#13	SNOMED T6	1187332001
+#14	SNOMED T4	88400008
+#15	SNOMED T5	1240414004
+#16	SNOMED T10	14799000
+#17	SNOMED T1	189948006
+#18	SNOMED T2	1187425009
+#19	SNOMED T3	14799000
+#20	SNOMED T9	30289006

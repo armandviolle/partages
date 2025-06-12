@@ -1,0 +1,8 @@
+T1	disease 276 304	tumeur à cellules fusiformes
+T2	disease 436 440	GANT
+T3	disease 477 526	récidive située dans la transcavité de l'épiploon
+T4	disease 743 752	métastase
+#1	SNOMED T3	360985001+79282002
+#2	SNOMED T4	128462008
+#3	SNOMED T1	363346000
+#4	SNOMED T2	128755003

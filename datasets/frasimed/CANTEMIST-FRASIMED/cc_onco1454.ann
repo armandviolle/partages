@@ -1,0 +1,6 @@
+T1	morphology-onco 282 296	adénocarcinome
+T2	morphology-onco 386 407	dissémination osseuse
+#1	ICD-O-3.1 T1	8140/3
+#2	ICD-O-3.1 T2	8000/6
+#3	SNOMED T1	1187332001
+#4	SNOMED T2	14799000

@@ -1,0 +1,111 @@
+T1	morphology-onco 1294 1300	tumeur
+T2	morphology-onco 1463 1469	tumeur
+T3	morphology-onco 1581 1596	lésion tumorale
+T4	morphology-onco 1817 1826	néoplasme
+T5	morphology-onco 2085 2103	lésion néoplasique
+T6	morphology-onco 2344 2355	néoplasique
+T7	morphology-onco 2410 2431	carcinome épidermoïde
+T8	morphology-onco 3175 3181	T2N2M0
+T9	morphology-onco 3195 3238	Carcinome pulmonaire non à petites cellules
+T10	morphology-onco 3195 3266	Carcinome pulmonaire non à petites cellules (CPNPC) de type épidermoïde
+T11	morphology-onco 3240 3245	CPNPC
+T12	morphology-onco 3415 3421	tumeur
+T13	morphology-onco 3754 3760	tumeur
+T14	morphology-onco 3837 3843	tumeur
+T15	morphology-onco 3903 3914	néoplasique
+T16	morphology-onco 4105 4162	lésion hypodense a été observée dans le corps du pancréas
+T17	morphology-onco 4274 4280	tumeur
+T18	morphology-onco 4344 4350	tumeur
+T19	morphology-onco 4739 4757	néoplasme mucineux
+T20	morphology-onco 5029 5047	néoplasme kystique
+T21	morphology-onco 5272 5290	néoplasme kystique
+T22	morphology-onco 5443 5464	MTS de CA épidermoïde
+T23	morphology-onco 5784 5815	masse dans la queue du pancréas
+T24	morphology-onco 6604 6661	métastase de carcinome épidermoïde modérément différencié
+T25	morphology-onco 6960 6978	masse pancréatique
+T26	morphology-onco 7196 7250	masses nodulaires solides dans la région surrénalienne
+T27	morphology-onco 7398 7410	métastatique
+T28	morphology-onco 7458 7479	masses surrénaliennes
+T29	morphology-onco 7542 7556	AC épidermoïde
+T30	morphology-onco 9069 9088	masse surrénalienne
+T31	morphology-onco 9126 9139	LOE hépatique
+T32	morphology-onco 9309 9323	AC épidermoïde
+T33	morphology-onco 10105 10118	LOE hépatique
+T34	morphology-onco 10166 10185	masse surrénalienne
+T35	morphology-onco 10294 10323	lésion solide de la surrénale
+T36	morphology-onco 10350 10356	tumeur
+T37	morphology-onco 10434 10456	lésion de la surrénale
+#1	ICD-O-3.1 T7	8070/3
+#2	ICD-O-3.1 T27	8000/6
+#3	ICD-O-3.1 T4	8000/1
+#4	ICD-O-3.1 T6	8000/1
+#5	ICD-O-3.1 T15	8000/1
+#6	ICD-O-3.1 T12	8000/1
+#7	ICD-O-3.1 T14	8000/1
+#8	ICD-O-3.1 T13	8000/1
+#9	ICD-O-3.1 T1	8000/1
+#10	ICD-O-3.1 T2	8000/1
+#11	ICD-O-3.1 T17	8000/1
+#12	ICD-O-3.1 T18	8000/1
+#13	ICD-O-3.1 T36	8000/1
+#14	ICD-O-3.1 T3	8000/1
+#15	ICD-O-3.1 T5	8000/1
+#16	ICD-O-3.1 T8	8000/6
+#17	ICD-O-3.1 T10	8070/3
+#18	ICD-O-3.1 T11	8046/3
+#19	ICD-O-3.1 T9	8046/3
+#20	ICD-O-3.1 T19	8000/1/H
+#21	ICD-O-3.1 T20	8452/1
+#22	ICD-O-3.1 T21	8452/1
+#23	ICD-O-3.1 T24	8070/62
+#24	ICD-O-3.1 T26	8000/6
+#25	ICD-O-3.1 T28	8000/6
+#26	ICD-O-3.1 T29	8070/3
+#27	ICD-O-3.1 T30	8000/6
+#28	ICD-O-3.1 T31	8000/6
+#29	ICD-O-3.1 T32	8070/3
+#30	ICD-O-3.1 T33	8000/6
+#31	ICD-O-3.1 T34	8000/6
+#32	ICD-O-3.1 T35	8000/6
+#33	ICD-O-3.1 T37	8000/6
+#34	ICD-O-3.1 T16	8000/6
+#35	ICD-O-3.1 T22	8070/6
+#36	ICD-O-3.1 T23	8000/6
+#37	ICD-O-3.1 T25	8000/6
+#38	SNOMED T7	1162767002
+#39	SNOMED T27	14799000
+#40	SNOMED T4	86251006
+#41	SNOMED T6	86251006
+#42	SNOMED T15	86251006
+#43	SNOMED T12	86251006
+#44	SNOMED T14	86251006
+#45	SNOMED T13	86251006
+#46	SNOMED T1	86251006
+#47	SNOMED T2	86251006
+#48	SNOMED T17	86251006
+#49	SNOMED T18	86251006
+#50	SNOMED T36	86251006
+#51	SNOMED T3	86251006
+#52	SNOMED T5	86251006
+#53	SNOMED T8	14799000
+#54	SNOMED T10	1162767002
+#55	SNOMED T11	128632008
+#56	SNOMED T9	128632008
+#57	SNOMED T19	86251006
+#58	SNOMED T20	27078002
+#59	SNOMED T21	27078002
+#60	SNOMED T24	403906006
+#61	SNOMED T26	14799000
+#62	SNOMED T28	14799000
+#63	SNOMED T29	1162767002
+#64	SNOMED T30	14799000
+#65	SNOMED T31	14799000
+#66	SNOMED T32	1162767002
+#67	SNOMED T33	14799000
+#68	SNOMED T34	14799000
+#69	SNOMED T35	14799000
+#70	SNOMED T37	14799000
+#71	SNOMED T16	14799000
+#72	SNOMED T22	403906006
+#73	SNOMED T23	14799000
+#74	SNOMED T25	14799000

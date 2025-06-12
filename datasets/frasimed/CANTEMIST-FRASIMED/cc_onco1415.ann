@@ -1,0 +1,15 @@
+T1	morphology-onco 1839 1864	adénocarcinome papillaire
+T2	morphology-onco 1939 1965	lymphangite carcinomateuse
+T3	morphology-onco 2834 2855	dissémination osseuse
+T4	morphology-onco 3202 3213	néoplasique
+T5	morphology-onco 3260 3270	métastases
+#1	ICD-O-3.1 T1	8260/3
+#2	ICD-O-3.1 T3	8000/6
+#3	ICD-O-3.1 T2	8000/3
+#4	ICD-O-3.1 T5	8000/6
+#5	ICD-O-3.1 T4	8000/1
+#6	SNOMED T1	4797003
+#7	SNOMED T3	14799000
+#8	SNOMED T2	1240414004
+#9	SNOMED T5	14799000
+#10	SNOMED T4	86251006

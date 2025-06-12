@@ -1,0 +1,38 @@
+T1	morphology-onco 428 434	tumeur
+T2	morphology-onco 774 782	tératome
+T3	morphology-onco 1184 1190	tumeur
+T4	morphology-onco 1279 1294	kystique-solide
+T5	morphology-onco 1616 1633	Tératome immature
+T6	morphology-onco 1745 1765	implants péritonéaux
+T7	morphology-onco 1845 1915	tératome ovarien immature de grade 3 avec des implants dans l'épiploon
+T8	morphology-onco 2034 2058	implants péri-hépatiques
+T9	morphology-onco 3081 3091	métastases
+T10	morphology-onco 3256 3271	implant tumoral
+T11	morphology-onco 3554 3591	implantation dans la poche de Douglas
+T12	morphology-onco 3815 3883	tissu adipeux métastasé par un tissu tératomateux entièrement mature
+T13	morphology-onco 3886 3916	tératomes immatures de grade 0
+#1	ICD-O-3.1 T5	9080/3
+#2	ICD-O-3.1 T10	8000/6
+#3	ICD-O-3.1 T6	8000/6
+#4	ICD-O-3.1 T9	8000/6
+#5	ICD-O-3.1 T2	9080/1
+#6	ICD-O-3.1 T1	8000/1
+#7	ICD-O-3.1 T3	8000/1
+#8	ICD-O-3.1 T4	8452/1
+#9	ICD-O-3.1 T7	9080/63
+#10	ICD-O-3.1 T8	8000/6
+#11	ICD-O-3.1 T11	8000/6
+#12	ICD-O-3.1 T12	9080/3/H
+#13	ICD-O-3.1 T13	9080/3/H
+#14	SNOMED T5	1157239001
+#15	SNOMED T10	14799000
+#16	SNOMED T6	14799000
+#17	SNOMED T9	14799000
+#18	SNOMED T2	1187393008
+#19	SNOMED T1	86251006
+#20	SNOMED T3	86251006
+#21	SNOMED T4	27078002
+#22	SNOMED T8	14799000
+#23	SNOMED T11	14799000
+#24	SNOMED T12	1157239001
+#25	SNOMED T13	1157239001

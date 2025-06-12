@@ -1,0 +1,64 @@
+T1	morphology-onco 284 290	cancer
+T2	morphology-onco 356 362	cancer
+T3	morphology-onco 419 425	cancer
+T4	morphology-onco 482 512	leucémie aiguë lymphoblastique
+T5	morphology-onco 637 700	hépatoblastome embryonnaire avec différenciation cholangiolaire
+T6	morphology-onco 705 711	tumeur
+T7	morphology-onco 864 878	néphroblastome
+T8	morphology-onco 882 890	blastome
+T9	morphology-onco 1006 1013	tumeurs
+T10	morphology-onco 1234 1291	hépatoblastome mixte : épithélial (embryonnaire et fœtal)
+T11	morphology-onco 1946 1962	lésion hépatique
+T12	morphology-onco 2138 2152	hépatoblastome
+T13	morphology-onco 2155 2162	adénome
+T14	morphology-onco 2385 2413	récidive de l'hépatoblastome
+T15	morphology-onco 3074 3134	hépatoblastome embryonnaire à différenciation cholangiolaire
+T16	morphology-onco 3189 3195	tumeur
+T17	morphology-onco 3501 3517	lésion hépatique
+T18	morphology-onco 4234 4249	masse hépatique
+T19	morphology-onco 4265 4292	Hépatoblastome embryonnaire
+T20	morphology-onco 4553 4612	Récidive hépatique tardive d'un hépatoblastome embryonnaire
+T21	morphology-onco 4781 4788	tumeurs
+T22	morphology-onco 4911 4917	tumeur
+#1	ICD-O-3.1 T13	8140/0
+#2	ICD-O-3.1 T3	8000/3
+#3	ICD-O-3.1 T2	8000/3
+#4	ICD-O-3.1 T1	8000/3
+#5	ICD-O-3.1 T12	8970/3
+#6	ICD-O-3.1 T17	8000/6
+#7	ICD-O-3.1 T11	8000/6
+#8	ICD-O-3.1 T4	9835/3
+#9	ICD-O-3.1 T18	8000/6
+#10	ICD-O-3.1 T7	8960/3
+#11	ICD-O-3.1 T6	8000/1
+#12	ICD-O-3.1 T16	8000/1
+#13	ICD-O-3.1 T22	8000/1
+#14	ICD-O-3.1 T9	8000/1
+#15	ICD-O-3.1 T21	8000/1
+#16	ICD-O-3.1 T5	8970/3/H
+#17	ICD-O-3.1 T8	8000/3
+#18	ICD-O-3.1 T10	8970/3/H
+#19	ICD-O-3.1 T14	8970/6
+#20	ICD-O-3.1 T15	8970/3/H
+#21	ICD-O-3.1 T19	8970/3
+#22	ICD-O-3.1 T20	8970/6
+#23	SNOMED T13	1187379001
+#24	SNOMED T3	1240414004
+#25	SNOMED T2	1240414004
+#26	SNOMED T1	1240414004
+#27	SNOMED T12	45024009
+#28	SNOMED T17	14799000
+#29	SNOMED T11	14799000
+#30	SNOMED T4	91857003
+#31	SNOMED T18	14799000
+#32	SNOMED T7	302849000
+#33	SNOMED T6	86251006
+#34	SNOMED T16	86251006
+#35	SNOMED T22	86251006
+#36	SNOMED T9	86251006
+#37	SNOMED T21	86251006
+#38	SNOMED T5	45024009
+#39	SNOMED T8	1240414004
+#40	SNOMED T10	45024009
+#41	SNOMED T15	45024009
+#42	SNOMED T19	45024009

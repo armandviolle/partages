@@ -1,0 +1,24 @@
+T1	disease 17 23	fumeur
+T2	disease 47 78	BPCO (type bronchite chronique)
+T3	disease 80 108	Hernies discales L4-L5-S1-S2
+T4	disease 118 135	lithiase biliaire
+T5	disease 151 161	cholestase
+T6	disease 163 187	Adénocarcinome gastrique
+T7	disease 455 508	anémie mégaloblastique secondaire à une malabsorption
+T8	disease 569 587	crises d'épilepsie
+T9	disease 660 677	récidive tumorale
+T10	disease 831 917	lésions cutanées sur les membres inférieurs décrites comme pustuleuses et vésiculeuses
+T11	disease 936 974	consolidation pneumonique dans la base
+T12	disease 1021 1045	condensation pneumonique
+T13	disease 1302 1450	lésions cutanées ont persisté, s'étendant sur les jambes, les bras, les mains et le dos, principalement érythémateuses, certaines avec des vésicules
+T14	disease 1700 1721	lésions métastatiques
+T15	disease 1727 1748	infiltration tumorale
+T16	disease 1794 1806	ostéomalacie
+T17	disease 1866 1878	ostéomalacie
+T18	disease 1908 1950	malabsorption intestinale de la vitamine D
+T19	disease 1956 1981	insuffisance pancréatique
+T20	disease 2221 2244	lésions dermatologiques
+T21	disease 2416 2431	maladie maligne
+T22	disease 2439 2453	dermatophytose
+T23	disease 2494 2508	dermatophytose
+T24	disease 2607 2613	lésion

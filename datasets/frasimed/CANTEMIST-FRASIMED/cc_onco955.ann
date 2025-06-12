@@ -1,0 +1,24 @@
+T1	morphology-onco 539 563	carcinome basocellulaire
+T2	morphology-onco 825 831	tumeur
+T3	morphology-onco 1594 1600	tumeur
+T4	morphology-onco 1841 1892	lymphome B non hodgkinien diffus à grandes cellules
+T5	morphology-onco 1894 1915	Cellules néoplasiques
+T6	morphology-onco 2327 2336	malignité
+T7	morphology-onco 2911 2919	Lymphome
+T8	morphology-onco 3027 3078	lymphome non hodgkinien diffus à grandes cellules B
+#1	ICD-O-3.1 T5	8001/1
+#2	ICD-O-3.1 T6	8000/3
+#3	ICD-O-3.1 T2	8000/1
+#4	ICD-O-3.1 T3	8000/1
+#5	ICD-O-3.1 T1	8090/3
+#6	ICD-O-3.1 T4	9680/3
+#7	ICD-O-3.1 T7	9590/3
+#8	ICD-O-3.1 T8	9680/3
+#9	SNOMED T5	39577004
+#10	SNOMED T6	1240414004
+#11	SNOMED T2	86251006
+#12	SNOMED T3	86251006
+#13	SNOMED T1	1338007
+#14	SNOMED T4	1172695008
+#15	SNOMED T7	1163043007
+#16	SNOMED T8	1172695008

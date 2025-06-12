@@ -1,0 +1,60 @@
+T1	morphology-onco 228 237	Carcinome
+T2	morphology-onco 600 615	lésion tumorale
+T3	morphology-onco 825 855	carcinome à cellules de Merkel
+T4	morphology-onco 1039 1049	métastases
+T5	morphology-onco 1678 1684	tumeur
+T6	morphology-onco 1776 1789	métastatiques
+T7	morphology-onco 1869 1899	carcinome à cellules de Merkel
+T8	morphology-onco 2215 2234	lésion sous-cutanée
+T9	morphology-onco 2250 2265	lésions létales
+T10	morphology-onco 3770 3800	lésion est apparue dans le dos
+T11	morphology-onco 3940 3985	métastase d'un carcinome à cellules de Merkel
+T12	morphology-onco 4185 4194	métastase
+T13	morphology-onco 4312 4326	lésion dorsale
+T14	morphology-onco 4592 4607	nodule mammaire
+T15	morphology-onco 4787 4796	malignité
+T16	morphology-onco 4984 5016	métastase de carcinome de Merkel
+T17	morphology-onco 5414 5427	carcinomatose
+T18	morphology-onco 5443 5460	implants pleuraux
+T19	morphology-onco 5465 5475	métastases
+T20	morphology-onco 5491 5501	métastases
+T21	morphology-onco 5700 5758	métastatique viscérale d'un carcinome à cellules de Merkel
+#1	ICD-O-3.1 T1	8010/3
+#2	ICD-O-3.1 T3	8247/3
+#3	ICD-O-3.1 T7	8247/3
+#4	ICD-O-3.1 T17	8010/9
+#5	ICD-O-3.1 T18	8000/6
+#6	ICD-O-3.1 T9	8000/6
+#7	ICD-O-3.1 T8	8000/6
+#8	ICD-O-3.1 T15	8000/3
+#9	ICD-O-3.1 T6	8000/6
+#10	ICD-O-3.1 T4	8000/6
+#11	ICD-O-3.1 T12	8000/6
+#12	ICD-O-3.1 T19	8000/6
+#13	ICD-O-3.1 T20	8000/6
+#14	ICD-O-3.1 T16	8247/6
+#15	ICD-O-3.1 T14	8000/6
+#16	ICD-O-3.1 T5	8000/1
+#17	ICD-O-3.1 T2	8000/1
+#18	ICD-O-3.1 T11	8247/6
+#19	ICD-O-3.1 T10	8000/6
+#20	ICD-O-3.1 T13	8000/6
+#21	ICD-O-3.1 T21	8247/6
+#22	SNOMED T1	1187425009
+#23	SNOMED T3	5052009
+#24	SNOMED T7	5052009
+#25	SNOMED T17	307593001
+#26	SNOMED T18	14799000
+#27	SNOMED T9	14799000
+#28	SNOMED T8	14799000
+#29	SNOMED T15	1240414004
+#30	SNOMED T6	14799000
+#31	SNOMED T4	14799000
+#32	SNOMED T12	14799000
+#33	SNOMED T19	14799000
+#34	SNOMED T20	14799000
+#35	SNOMED T14	14799000
+#36	SNOMED T5	86251006
+#37	SNOMED T2	86251006
+#38	SNOMED T10	14799000
+#39	SNOMED T13	14799000

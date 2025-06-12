@@ -1,0 +1,22 @@
+T1	disease 126 149	hématurie macroscopique
+T2	disease 492 509	kystes bilatéraux
+T3	disease 571 612	distorsion pyélocalicielle due aux kystes
+T4	disease 902 908	lésion
+T5	disease 965 1012	adénocarcinome infiltrant la paroi de la vessie
+T6	disease 1310 1328	urachus persistant
+T7	disease 1375 1381	tumeur
+T8	disease 2051 2068	liquide ascitique
+T9	disease 2115 2137	adénocarcinome urachal
+T10	disease 2590 2677	adénocarcinome mucineux de l'urètre avec extension à la vessie urinaire et au péritoine
+T11	disease 2739 2762	pseudomyxome péritonéal
+#1	SNOMED T2	253883006
+#2	SNOMED T3	722223000
+#3	SNOMED T9	363456000
+#4	SNOMED T5	255110003
+#5	SNOMED T1	197941005
+#6	SNOMED T6	34351008
+#7	SNOMED T8	13124004
+#8	SNOMED T10	682031000119109+94186002+94627008
+#9	SNOMED T11	307601000
+#10	SNOMED T4	417163006
+#11	SNOMED T7	55342001

@@ -1,0 +1,45 @@
+T1	morphology-onco 563 572	néoplasie
+T2	morphology-onco 773 782	métastase
+T3	morphology-onco 1154 1195	sarcome endométrial stromal indifférencié
+T4	morphology-onco 1438 1466	adénopathie sus-claviculaire
+T5	morphology-onco 2118 2130	métastatique
+T6	morphology-onco 2283 2292	carcinome
+T7	morphology-onco 2435 2447	métastatique
+T8	morphology-onco 2465 2490	lésion du corps vertébral
+T9	morphology-onco 2909 2921	métastatique
+T10	morphology-onco 3473 3485	métastatique
+T11	morphology-onco 3636 3648	métastatique
+T12	morphology-onco 3806 3835	tumeur maligne indifférenciée
+T13	morphology-onco 3855 3888	sarcome endométrial indifférencié
+T14	morphology-onco 3954 3995	Sarcome stromal endométrial indifférencié
+T15	morphology-onco 4114 4120	tumeur
+#1	ICD-O-3.1 T14	8930/34
+#2	ICD-O-3.1 T4	8000/6
+#3	ICD-O-3.1 T6	8010/3
+#4	ICD-O-3.1 T8	8000/6
+#5	ICD-O-3.1 T7	8000/6
+#6	ICD-O-3.1 T9	8000/6
+#7	ICD-O-3.1 T10	8000/6
+#8	ICD-O-3.1 T11	8000/6
+#9	ICD-O-3.1 T5	8000/6
+#10	ICD-O-3.1 T2	8000/6
+#11	ICD-O-3.1 T1	8000/1
+#12	ICD-O-3.1 T3	8930/34
+#13	ICD-O-3.1 T12	8000/34
+#14	ICD-O-3.1 T15	8000/1
+#15	ICD-O-3.1 T13	8930/34
+#16	SNOMED T14	1178986006
+#17	SNOMED T4	14799000
+#18	SNOMED T6	1187425009
+#19	SNOMED T8	14799000
+#20	SNOMED T7	14799000
+#21	SNOMED T9	14799000
+#22	SNOMED T10	14799000
+#23	SNOMED T11	14799000
+#24	SNOMED T5	14799000
+#25	SNOMED T2	14799000
+#26	SNOMED T1	86251006
+#27	SNOMED T3	1178986006
+#28	SNOMED T12	1240414004
+#29	SNOMED T15	86251006
+#30	SNOMED T13	1178986006

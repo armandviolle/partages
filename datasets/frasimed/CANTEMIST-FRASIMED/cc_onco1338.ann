@@ -1,0 +1,59 @@
+T1	morphology-onco 216 222	tumeur
+T2	morphology-onco 458 464	Tumeur
+T3	morphology-onco 776 782	tumeur
+T4	morphology-onco 1044 1081	sarcome pléomorphe de la fesse gauche
+T5	morphology-onco 1262 1296	fibrohistiocytome malin pléomorphe
+T6	morphology-onco 1310 1347	Sarcome de la fesse gauche pléomorphe
+T7	morphology-onco 1546 1580	fibrohistiocytome malin pléomorphe
+T8	morphology-onco 1685 1719	fibrohistiocytome malin pléomorphe
+T9	morphology-onco 1989 2021	progression au niveau pulmonaire
+T10	morphology-onco 2157 2176	nodules pulmonaires
+T11	morphology-onco 2282 2313	métastases de fibrohistiocytome
+T12	morphology-onco 2773 2782	malignité
+T13	morphology-onco 2980 3010	carcinome canalaire infiltrant
+T14	morphology-onco 3012 3015	CDI
+T15	morphology-onco 3203 3206	IDC
+T16	morphology-onco 3871 3906	carcinome intraductal de haut grade
+T17	morphology-onco 4091 4097	CDI G2
+T18	morphology-onco 4400 4406	tumeur
+T19	morphology-onco 4794 4800	tumeur
+T20	morphology-onco 4883 4894	néoplasique
+#1	ICD-O-3.1 T14	8500/3
+#2	ICD-O-3.1 T15	8500/3
+#3	ICD-O-3.1 T2	8000/1
+#4	ICD-O-3.1 T13	8500/3
+#5	ICD-O-3.1 T16	8500/24
+#6	ICD-O-3.1 T12	8000/3
+#7	ICD-O-3.1 T20	8000/1
+#8	ICD-O-3.1 T10	8000/6
+#9	ICD-O-3.1 T9	8000/6
+#10	ICD-O-3.1 T3	8000/1
+#11	ICD-O-3.1 T18	8000/1
+#12	ICD-O-3.1 T19	8000/1
+#13	ICD-O-3.1 T1	8000/1
+#14	ICD-O-3.1 T4	8802/3
+#15	ICD-O-3.1 T5	8830/3/H
+#16	ICD-O-3.1 T6	8802/3
+#17	ICD-O-3.1 T7	8830/3/H
+#18	ICD-O-3.1 T8	8830/3/H
+#19	ICD-O-3.1 T11	8830/6
+#20	ICD-O-3.1 T17	8500/32
+#21	SNOMED T14	58477004
+#22	SNOMED T15	58477004
+#23	SNOMED T2	86251006
+#24	SNOMED T13	58477004
+#25	SNOMED T16	1162814007
+#26	SNOMED T12	1240414004
+#27	SNOMED T20	86251006
+#28	SNOMED T10	14799000
+#29	SNOMED T9	14799000
+#30	SNOMED T3	86251006
+#31	SNOMED T18	86251006
+#32	SNOMED T19	86251006
+#33	SNOMED T1	86251006
+#34	SNOMED T4	302840001
+#35	SNOMED T5	34360000
+#36	SNOMED T6	302840001
+#37	SNOMED T7	34360000
+#38	SNOMED T8	34360000
+#39	SNOMED T17	58477004

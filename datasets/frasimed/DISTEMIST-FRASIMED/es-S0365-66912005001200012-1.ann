@@ -1,0 +1,20 @@
+T1	disease 79 102	perte d'acuité visuelle
+T2	disease 163 177	métamorphopsie
+T3	disease 330 364	MER centré sur la région maculaire
+T4	disease 566 569	DPV
+T5	disease 655 670	œdème maculaire
+T6	disease 754 765	traumatisme
+T7	disease 840 856	MER idiopathique
+T8	disease 1053 1067	métamorphopsie
+T9	disease 1169 1172	MER
+T10	disease 1236 1259	DPV dense prépapillaire
+#1	SNOMED T2	42134006
+#2	SNOMED T3	367649002
+#3	SNOMED T4	247081001
+#4	SNOMED T5	37231002
+#5	SNOMED T7	133853005
+#6	SNOMED T8	42134006
+#7	SNOMED T9	367649002
+#8	SNOMED T10	247081001
+#9	SNOMED T6	417746004
+#10	SNOMED T1	170728008

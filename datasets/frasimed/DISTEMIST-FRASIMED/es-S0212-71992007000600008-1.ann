@@ -1,0 +1,32 @@
+T1	disease 493 503	non-fumeur
+T2	disease 531 548	asthme bronchique
+T3	disease 1426 1439	cardiomégalie
+T4	disease 1573 1604	épanchement péricardique sévère
+T5	disease 2272 2296	épanchement péricardique
+T6	disease 3106 3132	adénopathies médiastinales
+T7	disease 3255 3284	épanchement pleural bilatéral
+T8	disease 4057 4069	adénopathies
+T9	disease 4325 4348	lésion pulmonaire aiguë
+T10	disease 4385 4420	pneumopathie interstitielle diffuse
+T11	disease 4422 4426	PIDD
+T12	disease 4543 4564	pneumonie éosinophile
+T13	disease 5081 5117	épanchement pleural bilatéral modéré
+T14	disease 5299 5350	adénocarcinome acinaire-papillaire bien différencié
+T15	disease 5475 5489	adénocarcinome
+T16	disease 5573 5611	origine pulmonaire de l'adénocarcinome
+#1	SNOMED T4	373945007
+#2	SNOMED T5	373945007
+#3	SNOMED T6	52324001
+#4	SNOMED T7	425802001
+#5	SNOMED T9	19829001
+#6	SNOMED T10	233703007
+#7	SNOMED T11	233703007
+#8	SNOMED T12	367542003
+#9	SNOMED T13	425802001
+#10	SNOMED T15	443961001
+#11	SNOMED T16	254626006
+#12	SNOMED T2	195967001
+#13	SNOMED T1	77176002
+#14	SNOMED T8	30746006
+#15	SNOMED T3	8186001
+#16	SNOMED T14	45410002

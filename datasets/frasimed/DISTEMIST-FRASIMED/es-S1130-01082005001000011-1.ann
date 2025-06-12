@@ -1,0 +1,12 @@
+T1	disease 76 94	carcinome mammaire
+T2	disease 187 219	masse pancréatique multicystique
+T3	disease 608 650	formations kystiques dans tout le pancréas
+T4	disease 856 880	cystadénome pancréatique
+T5	disease 1005 1011	kystes
+T6	disease 1227 1256	cystadénome géant du pancréas
+#1	SNOMED T1	254838004
+#2	SNOMED T2	31258000
+#3	SNOMED T3	31258000
+#4	SNOMED T4	235967003
+#5	SNOMED T6	235967003
+#6	SNOMED T5	441457006

@@ -1,0 +1,21 @@
+T1	morphology-onco 539 548	néoplasie
+T2	morphology-onco 765 771	tumeur
+T3	morphology-onco 839 858	stésioneuroblastome
+T4	morphology-onco 2194 2200	tumeur
+T5	morphology-onco 2327 2361	stésioneuroblastome GI-II de Hyams
+T6	morphology-onco 2375 2381	T4N0M0
+T7	morphology-onco 2426 2445	stésioneuroblastome
+#1	ICD-O-3.1 T7	9522/3
+#2	ICD-O-3.1 T6	8000/6
+#3	ICD-O-3.1 T3	9522/3
+#4	ICD-O-3.1 T1	8000/1
+#5	ICD-O-3.1 T2	8000/1
+#6	ICD-O-3.1 T4	8000/1
+#7	ICD-O-3.1 T5	9522/32
+#8	SNOMED T7	422886007
+#9	SNOMED T6	14799000
+#10	SNOMED T3	422886007
+#11	SNOMED T1	86251006
+#12	SNOMED T2	86251006
+#13	SNOMED T4	86251006
+#14	SNOMED T5	422886007

@@ -1,0 +1,39 @@
+T1	morphology-onco 315 329	mélanome malin
+T2	morphology-onco 904 912	tumoraux
+T3	morphology-onco 1164 1202	masse dans la région supraclaviculaire
+T4	morphology-onco 1403 1425	masse sus-claviculaire
+T5	morphology-onco 1478 1505	cellules tumorales malignes
+T6	morphology-onco 1511 1539	néoplasie à grandes cellules
+T7	morphology-onco 1741 1764	lésion sus-claviculaire
+T8	morphology-onco 1823 1851	métastases de mélanome malin
+T9	morphology-onco 2437 2459	progression pulmonaire
+T10	morphology-onco 2778 2788	métastases
+T11	morphology-onco 2915 2937	progression pulmonaire
+T12	morphology-onco 5636 5654	lésions cérébrales
+T13	morphology-onco 6696 6717	progression cérébrale
+#1	ICD-O-3.1 T5	8001/3
+#2	ICD-O-3.1 T12	8000/6
+#3	ICD-O-3.1 T7	8000/6
+#4	ICD-O-3.1 T1	8720/3
+#5	ICD-O-3.1 T10	8000/6
+#6	ICD-O-3.1 T8	8720/6
+#7	ICD-O-3.1 T13	8000/6
+#8	ICD-O-3.1 T9	8000/6
+#9	ICD-O-3.1 T11	8000/6
+#10	ICD-O-3.1 T2	8000/1
+#11	ICD-O-3.1 T3	8000/6
+#12	ICD-O-3.1 T4	8000/6
+#13	ICD-O-3.1 T6	8000/1/H
+#14	SNOMED T5	88400008
+#15	SNOMED T12	14799000
+#16	SNOMED T7	14799000
+#17	SNOMED T1	1162635006
+#18	SNOMED T10	14799000
+#19	SNOMED T8	372158004
+#20	SNOMED T13	14799000
+#21	SNOMED T9	14799000
+#22	SNOMED T11	14799000
+#23	SNOMED T2	86251006
+#24	SNOMED T3	14799000
+#25	SNOMED T4	14799000
+#26	SNOMED T6	86251006

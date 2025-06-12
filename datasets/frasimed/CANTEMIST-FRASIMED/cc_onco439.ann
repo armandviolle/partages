@@ -1,0 +1,99 @@
+T1	morphology-onco 809 827	cystadénocarcinome
+T2	morphology-onco 879 899	implants péritonéaux
+T3	morphology-onco 903 912	néoplasie
+T4	morphology-onco 960 988	Adénocarcinome endométrioïde
+T5	morphology-onco 1009 1055	Adénocarcinome endométrioïde de l'endomètre G2
+T6	morphology-onco 1064 1078	Adénocarcinome
+T7	morphology-onco 1180 1190	néoplasies
+T8	morphology-onco 1330 1351	cellules néoplasiques
+T9	morphology-onco 1575 1582	tumeurs
+T10	morphology-onco 1595 1623	adénocarcinome endométrioïde
+T11	morphology-onco 1640 1668	adénocarcinome endométrioïde
+T12	morphology-onco 1690 1704	adénocarcinome
+T13	morphology-onco 1826 1834	grosseur
+T14	morphology-onco 1917 1922	malin
+T15	morphology-onco 2004 2010	tumeur
+T16	morphology-onco 2186 2192	cancer
+T17	morphology-onco 2489 2498	néoplasie
+T18	morphology-onco 3042 3060	cystadénocarcinome
+T19	morphology-onco 3102 3122	implants péritonéaux
+T20	morphology-onco 3126 3135	néoplasie
+T21	morphology-onco 3259 3310	adénocarcinome endométrioïde modérément différencié
+T22	morphology-onco 3458 3464	cancer
+T23	morphology-onco 3509 3518	néoplasie
+T24	morphology-onco 3613 3651	implants ont été trouvés dans le côlon
+T25	morphology-onco 3896 3902	cancer
+T26	morphology-onco 4597 4603	tumeur
+T27	morphology-onco 4680 4692	néoplasiques
+T28	morphology-onco 4734 4762	adénocarcinome endométrioïde
+T29	morphology-onco 4824 4870	adénocarcinome endométrioïde de l'endomètre G2
+T30	morphology-onco 4919 4933	adénocarcinome
+T31	morphology-onco 5037 5043	tumeur
+T32	morphology-onco 5390 5404	adénocarcinome
+T33	morphology-onco 5473 5483	néoplasies
+#1	ICD-O-3.1 T32	8140/3
+#2	ICD-O-3.1 T1	8440/3
+#3	ICD-O-3.1 T18	8440/3
+#4	ICD-O-3.1 T16	8000/3
+#5	ICD-O-3.1 T22	8000/3
+#6	ICD-O-3.1 T25	8000/3
+#7	ICD-O-3.1 T8	8001/1
+#8	ICD-O-3.1 T2	8000/6
+#9	ICD-O-3.1 T19	8000/6
+#10	ICD-O-3.1 T14	8000/3
+#11	ICD-O-3.1 T3	8000/1
+#12	ICD-O-3.1 T7	8000/1
+#13	ICD-O-3.1 T17	8000/1
+#14	ICD-O-3.1 T20	8000/1
+#15	ICD-O-3.1 T23	8000/1
+#16	ICD-O-3.1 T33	8000/1
+#17	ICD-O-3.1 T27	8000/1
+#18	ICD-O-3.1 T26	8000/1
+#19	ICD-O-3.1 T31	8000/1
+#20	ICD-O-3.1 T13	8000/1
+#21	ICD-O-3.1 T15	8000/1
+#22	ICD-O-3.1 T9	8000/1
+#23	ICD-O-3.1 T4	8380/3
+#24	ICD-O-3.1 T5	8380/32
+#25	ICD-O-3.1 T6	8140/3
+#26	ICD-O-3.1 T10	8380/3
+#27	ICD-O-3.1 T11	8380/3
+#28	ICD-O-3.1 T12	8140/3
+#29	ICD-O-3.1 T21	8380/32
+#30	ICD-O-3.1 T24	8000/6
+#31	ICD-O-3.1 T28	8380/3
+#32	ICD-O-3.1 T29	8380/32
+#33	ICD-O-3.1 T30	8140/3
+#34	SNOMED T32	1187332001
+#35	SNOMED T1	21008007
+#36	SNOMED T18	21008007
+#37	SNOMED T16	1240414004
+#38	SNOMED T22	1240414004
+#39	SNOMED T25	1240414004
+#40	SNOMED T8	39577004
+#41	SNOMED T2	14799000
+#42	SNOMED T19	14799000
+#43	SNOMED T14	1240414004
+#44	SNOMED T3	86251006
+#45	SNOMED T7	86251006
+#46	SNOMED T17	86251006
+#47	SNOMED T20	86251006
+#48	SNOMED T23	86251006
+#49	SNOMED T33	86251006
+#50	SNOMED T27	86251006
+#51	SNOMED T26	86251006
+#52	SNOMED T31	86251006
+#53	SNOMED T13	86251006
+#54	SNOMED T15	86251006
+#55	SNOMED T9	86251006
+#56	SNOMED T4	30289006
+#57	SNOMED T5	30289006
+#58	SNOMED T6	1187332001
+#59	SNOMED T10	30289006
+#60	SNOMED T11	30289006
+#61	SNOMED T12	1187332001
+#62	SNOMED T21	30289006
+#63	SNOMED T24	14799000
+#64	SNOMED T28	30289006
+#65	SNOMED T29	30289006
+#66	SNOMED T30	1187332001

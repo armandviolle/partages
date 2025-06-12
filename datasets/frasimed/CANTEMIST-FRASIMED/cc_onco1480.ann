@@ -1,0 +1,39 @@
+T1	morphology-onco 1561 1568	ostéome
+T2	morphology-onco 2101 2107	tumeur
+T3	morphology-onco 2184 2198	tumeur bénigne
+T4	morphology-onco 2218 2241	kyste osseux anévrismal
+T5	morphology-onco 2284 2290	tumeur
+T6	morphology-onco 2515 2534	ostéoclastes malins
+T7	morphology-onco 2673 2695	ostéoblastome agressif
+T8	morphology-onco 2707 2726	ostéoblastome malin
+T9	morphology-onco 2743 2781	ostéosarcome simulant un ostéoblastome
+T10	morphology-onco 2824 2860	ostéoblastome iliaque droit agressif
+T11	morphology-onco 2862 2895	ostéoblastome iliaque droit malin
+T12	morphology-onco 2899 2937	ostéosarcome simulant un ostéoblastome
+T13	morphology-onco 3642 3649	tumoral
+#1	ICD-O-3.1 T2	8000/1
+#2	ICD-O-3.1 T5	8000/1
+#3	ICD-O-3.1 T3	8000/0
+#4	ICD-O-3.1 T13	8000/1
+#5	ICD-O-3.1 T1	9180/0
+#6	ICD-O-3.1 T4	8000/0
+#7	ICD-O-3.1 T6	9250/3
+#8	ICD-O-3.1 T7	9200/1
+#9	ICD-O-3.1 T8	9200/1
+#10	ICD-O-3.1 T9	9200/1
+#11	ICD-O-3.1 T10	9200/1
+#12	ICD-O-3.1 T11	9200/1
+#13	ICD-O-3.1 T12	9200/1
+#14	SNOMED T2	86251006
+#15	SNOMED T5	86251006
+#16	SNOMED T3	3898006
+#17	SNOMED T13	86251006
+#18	SNOMED T1	1156874003
+#19	SNOMED T4	3898006
+#20	SNOMED T6	10069009
+#21	SNOMED T7	70511009
+#22	SNOMED T8	70511009
+#23	SNOMED T9	70511009
+#24	SNOMED T10	70511009
+#25	SNOMED T11	70511009
+#26	SNOMED T12	70511009

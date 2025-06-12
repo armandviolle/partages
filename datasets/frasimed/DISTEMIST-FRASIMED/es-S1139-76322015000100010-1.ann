@@ -1,0 +1,14 @@
+T1	disease 91 112	ptosis de la paupière
+T2	disease 301 321	processus infectieux
+T3	disease 602 667	paralysie de la supraduction et de l'adduction du regard de l'œil
+T4	disease 683 703	ptosis des paupières
+T5	disease 1181 1204	syndrome de Tolosa-Hunt
+T6	disease 1390 1404	ophtalmoplégie
+T7	disease 1449 1472	légère ptose palpébrale
+#1	SNOMED T1	11934000
+#2	SNOMED T3	1534008
+#3	SNOMED T2	40733004
+#4	SNOMED T4	11934000
+#5	SNOMED T5	95794005
+#6	SNOMED T6	16110005
+#7	SNOMED T7	11934000

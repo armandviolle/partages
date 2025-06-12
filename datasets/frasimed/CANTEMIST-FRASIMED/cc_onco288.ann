@@ -1,0 +1,28 @@
+T1	morphology-onco 549 560	néoplasique
+T2	morphology-onco 605 613	mélanome
+T3	morphology-onco 1393 1401	tumorale
+T4	morphology-onco 1743 1748	malin
+T5	morphology-onco 4642 4656	LOE hépatiques
+T6	morphology-onco 4685 4699	lobe hépatique
+T7	morphology-onco 4901 4973	mélanome de la muqueuse nasale et d'une progression métastatique massive
+T8	morphology-onco 7329 7345	mélanome muqueux
+T9	morphology-onco 7629 7693	mélanome de la muqueuse nasale et d'une progression métastatique
+T10	morphology-onco 8007 8015	tumoraux
+#1	ICD-O-3.1 T4	8000/3
+#2	ICD-O-3.1 T2	8720/3
+#3	ICD-O-3.1 T1	8000/1
+#4	ICD-O-3.1 T3	8000/1
+#5	ICD-O-3.1 T10	8000/1
+#6	ICD-O-3.1 T5	8000/6
+#7	ICD-O-3.1 T6	8000/6
+#8	ICD-O-3.1 T7	8746/6
+#9	ICD-O-3.1 T8	8746/3
+#10	ICD-O-3.1 T9	8746/6
+#11	SNOMED T4	1240414004
+#12	SNOMED T2	1162635006
+#13	SNOMED T1	86251006
+#14	SNOMED T3	86251006
+#15	SNOMED T10	86251006
+#16	SNOMED T5	14799000
+#17	SNOMED T6	14799000
+#18	SNOMED T8	128732001

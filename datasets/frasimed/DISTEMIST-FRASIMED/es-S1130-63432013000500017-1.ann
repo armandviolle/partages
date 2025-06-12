@@ -1,0 +1,12 @@
+T1	disease 63 83	LMC BCR-ABL positive
+T2	disease 318 365	lésions blanchâtres au niveau du lit des ongles
+T3	disease 1076 1088	pancytopénie
+T4	disease 1094 1125	infiltration blastique de la BM
+T5	disease 1144 1169	crise blastique lymphoïde
+T6	disease 1289 1304	crise blastique
+#1	SNOMED T6	278180008
+#2	SNOMED T1	128825002
+#3	SNOMED T3	127034005
+#4	SNOMED T4	167929005
+#5	SNOMED T5	413842007
+#6	SNOMED T2	247518009

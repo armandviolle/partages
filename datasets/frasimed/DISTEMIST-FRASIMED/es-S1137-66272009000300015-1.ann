@@ -1,0 +1,12 @@
+T1	disease 794 810	lésions cutanées
+T2	disease 814 826	adénopathies
+T3	disease 1881 1885	lues
+T4	disease 1917 1933	hépatites B et C
+T5	disease 4092 4145	nerf sural gauche a montré une dégénérescence axonale
+T6	disease 4210 4235	infarctus de la vasculite
+#1	SNOMED T5	426293000
+#2	SNOMED T6	31996006
+#3	SNOMED T1	95324001
+#4	SNOMED T2	30746006
+#5	SNOMED T4	442374005
+#6	SNOMED T3	76272004

@@ -1,0 +1,12 @@
+T1	morphology-onco 248 287	carcinome pulmonaire à petites cellules
+T2	morphology-onco 296 298	M0
+T3	morphology-onco 2915 2954	Carcinome pulmonaire à petites cellules
+T4	morphology-onco 2977 2979	M0
+#1	ICD-O-3.1 T3	8041/3
+#2	ICD-O-3.1 T1	8041/3
+#3	ICD-O-3.1 T2	8000/6
+#4	ICD-O-3.1 T4	8000/6
+#5	SNOMED T3	11010461000119101
+#6	SNOMED T1	11010461000119101
+#7	SNOMED T2	14799000
+#8	SNOMED T4	14799000

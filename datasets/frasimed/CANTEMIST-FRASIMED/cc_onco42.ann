@@ -1,0 +1,90 @@
+T1	morphology-onco 262 268	cancer
+T2	morphology-onco 317 323	cancer
+T3	morphology-onco 927 957	carcinome canalaire infiltrant
+T4	morphology-onco 927 1003	carcinome canalaire infiltrant de sous-type non spécial (type inflammatoire)
+T5	morphology-onco 1009 1019	métastases
+T6	morphology-onco 2070 2100	carcinome canalaire infiltrant
+T7	morphology-onco 2070 2146	carcinome canalaire infiltrant de sous-type non spécial (type inflammatoire)
+T8	morphology-onco 2152 2162	métastases
+T9	morphology-onco 2548 2571	carcinome inflammatoire
+T10	morphology-onco 2589 2601	métastatique
+T11	morphology-onco 2721 2730	malignité
+T12	morphology-onco 3270 3309	Carcinome mammaire canalaire infiltrant
+T13	morphology-onco 3270 3382	Carcinome mammaire canalaire infiltrant de stade IIIA (cT4cNx), triple négatif, muté BRCA 1 (type inflammatoire)
+T14	morphology-onco 4151 4220	carcinome infiltrant de sous-type histologique non spécial de grade 3
+T15	morphology-onco 4297 4306	métastase
+T16	morphology-onco 4492 4511	progression osseuse
+T17	morphology-onco 4810 4825	maladie osseuse
+T18	morphology-onco 4970 4983	carcinomatose
+T19	morphology-onco 5519 5552	progression de la maladie osseuse
+T20	morphology-onco 5751 5757	tumeur
+T21	morphology-onco 5840 5846	tumeur
+T22	morphology-onco 6074 6080	tumeur
+T23	morphology-onco 6282 6301	progression osseuse
+T24	morphology-onco 6359 6420	nodulaires ostéoblastiques au niveau de la colonne vertébrale
+T25	morphology-onco 6447 6457	métastases
+T26	morphology-onco 6942 6962	charge leptoméningée
+T27	morphology-onco 7036 7080	dissémination leptoméningée de son néoplasme
+T28	morphology-onco 7474 7476	M1
+T29	morphology-onco 8222 8245	captation leptoméningés
+T30	morphology-onco 8730 8754	maladie au niveau du SNC
+#1	ICD-O-3.1 T12	8500/3
+#2	ICD-O-3.1 T28	8000/6
+#3	ICD-O-3.1 T3	8500/3
+#4	ICD-O-3.1 T6	8500/3
+#5	ICD-O-3.1 T9	8530/3
+#6	ICD-O-3.1 T18	8010/9
+#7	ICD-O-3.1 T1	8000/3
+#8	ICD-O-3.1 T2	8000/3
+#9	ICD-O-3.1 T17	8000/6
+#10	ICD-O-3.1 T11	8000/3
+#11	ICD-O-3.1 T10	8000/6
+#12	ICD-O-3.1 T5	8000/6
+#13	ICD-O-3.1 T8	8000/6
+#14	ICD-O-3.1 T15	8000/6
+#15	ICD-O-3.1 T25	8000/6
+#16	ICD-O-3.1 T16	8000/6
+#17	ICD-O-3.1 T19	8000/6
+#18	ICD-O-3.1 T23	8000/6
+#19	ICD-O-3.1 T21	8000/1
+#20	ICD-O-3.1 T22	8000/1
+#21	ICD-O-3.1 T20	8000/1
+#22	ICD-O-3.1 T4	8530/3
+#23	ICD-O-3.1 T7	8530/3
+#24	ICD-O-3.1 T13	8530/3
+#25	ICD-O-3.1 T14	8500/33
+#26	ICD-O-3.1 T26	8000/6
+#27	ICD-O-3.1 T27	8000/6
+#28	ICD-O-3.1 T29	8000/6
+#29	ICD-O-3.1 T30	8000/6
+#30	ICD-O-3.1 T24	8000/6
+#31	SNOMED T12	58477004
+#32	SNOMED T28	14799000
+#33	SNOMED T3	58477004
+#34	SNOMED T6	58477004
+#35	SNOMED T9	32968003
+#36	SNOMED T18	307593001
+#37	SNOMED T1	1240414004
+#38	SNOMED T2	1240414004
+#39	SNOMED T17	14799000
+#40	SNOMED T11	1240414004
+#41	SNOMED T10	14799000
+#42	SNOMED T5	14799000
+#43	SNOMED T8	14799000
+#44	SNOMED T15	14799000
+#45	SNOMED T25	14799000
+#46	SNOMED T16	14799000
+#47	SNOMED T19	14799000
+#48	SNOMED T23	14799000
+#49	SNOMED T21	86251006
+#50	SNOMED T22	86251006
+#51	SNOMED T20	86251006
+#52	SNOMED T4	32968003
+#53	SNOMED T7	32968003
+#54	SNOMED T13	32968003
+#55	SNOMED T14	58477004
+#56	SNOMED T26	14799000
+#57	SNOMED T27	14799000
+#58	SNOMED T29	14799000
+#59	SNOMED T30	14799000
+#60	SNOMED T24	14799000

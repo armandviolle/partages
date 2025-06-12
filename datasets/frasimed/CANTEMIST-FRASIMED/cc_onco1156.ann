@@ -1,0 +1,28 @@
+T1	morphology-onco 232 241	néoplasie
+T2	morphology-onco 462 523	carcinome adénosquameux de l'endomètre modérément différencié
+T3	morphology-onco 1631 1647	lésion pariétale
+T4	morphology-onco 2038 2133	métastase due à un adénocarcinome modérément différencié avec des foyers de zones malpighiennes
+T5	morphology-onco 2147 2258	Rechute cérébrale unique d'un adénocarcinome modérément différencié avec des foyers d'endométriose malpighienne
+T6	morphology-onco 2372 2388	lésion cérébrale
+T7	morphology-onco 2489 2505	lésion cérébrale
+T8	morphology-onco 2560 2576	lésion cérébrale
+T9	morphology-onco 2653 2748	métastase due à un adénocarcinome modérément différencié avec des foyers de zones malpighiennes
+T10	morphology-onco 2886 2895	métastase
+#1	ICD-O-3.1 T6	8000/6
+#2	ICD-O-3.1 T8	8000/6
+#3	ICD-O-3.1 T7	8000/6
+#4	ICD-O-3.1 T3	8000/6
+#5	ICD-O-3.1 T10	8000/6
+#6	ICD-O-3.1 T1	8000/1
+#7	ICD-O-3.1 T2	8560/32
+#8	ICD-O-3.1 T4	8560/32
+#9	ICD-O-3.1 T5	8560/62
+#10	ICD-O-3.1 T9	8560/62
+#11	SNOMED T6	14799000
+#12	SNOMED T8	14799000
+#13	SNOMED T7	14799000
+#14	SNOMED T3	14799000
+#15	SNOMED T10	14799000
+#16	SNOMED T1	86251006
+#17	SNOMED T2	59367005
+#18	SNOMED T4	59367005

@@ -1,0 +1,51 @@
+T1	morphology-onco 503 517	adénocarcinome
+T2	morphology-onco 1198 1212	adénocarcinome
+T3	morphology-onco 1224 1231	cT3N+M0
+T4	morphology-onco 1875 1882	tumoral
+T5	morphology-onco 1916 1930	adénocarcinome
+T6	morphology-onco 1987 1993	tumeur
+T7	morphology-onco 2669 2678	malignité
+T8	morphology-onco 2730 2736	tumeur
+T9	morphology-onco 4044 4060	lésions cutanées
+T10	morphology-onco 4605 4611	tumeur
+T11	morphology-onco 4834 4843	malignité
+T12	morphology-onco 5285 5322	métastase cutanée d'un adénocarcinome
+T13	morphology-onco 5417 5429	néoplasiques
+T14	morphology-onco 5488 5502	Adénocarcinome
+T15	morphology-onco 5513 5521	ypT3N1M0
+T16	morphology-onco 5753 5763	Métastases
+T17	morphology-onco 5932 5942	métastases
+#1	ICD-O-3.1 T14	8140/3
+#2	ICD-O-3.1 T16	8000/6
+#3	ICD-O-3.1 T1	8140/3
+#4	ICD-O-3.1 T2	8140/3
+#5	ICD-O-3.1 T5	8140/3
+#6	ICD-O-3.1 T9	8000/6
+#7	ICD-O-3.1 T7	8000/3
+#8	ICD-O-3.1 T11	8000/3
+#9	ICD-O-3.1 T17	8000/6
+#10	ICD-O-3.1 T13	8000/1
+#11	ICD-O-3.1 T6	8000/1
+#12	ICD-O-3.1 T8	8000/1
+#13	ICD-O-3.1 T10	8000/1
+#14	ICD-O-3.1 T4	8000/1
+#15	ICD-O-3.1 T15	8000/6
+#16	ICD-O-3.1 T3	8000/6
+#17	ICD-O-3.1 T12	8140/6
+#18	SNOMED T14	1187332001
+#19	SNOMED T16	14799000
+#20	SNOMED T1	1187332001
+#21	SNOMED T2	1187332001
+#22	SNOMED T5	1187332001
+#23	SNOMED T9	14799000
+#24	SNOMED T7	1240414004
+#25	SNOMED T11	1240414004
+#26	SNOMED T17	14799000
+#27	SNOMED T13	86251006
+#28	SNOMED T6	86251006
+#29	SNOMED T8	86251006
+#30	SNOMED T10	86251006
+#31	SNOMED T4	86251006
+#32	SNOMED T15	14799000
+#33	SNOMED T3	14799000
+#34	SNOMED T12	4590003

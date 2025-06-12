@@ -1,0 +1,66 @@
+T1	morphology-onco 409 418	néoplasie
+T2	morphology-onco 1701 1720	masse surrénalienne
+T3	morphology-onco 1876 1919	tumeur maligne avec des cellules fusiformes
+T4	morphology-onco 1940 1962	carcinome sarcomatoïde
+T5	morphology-onco 2214 2224	métastases
+T6	morphology-onco 2254 2264	métastases
+T7	morphology-onco 2347 2418	néoplasie d'origine pulmonaire à caractère sarcomatoïde avec métastases
+T8	morphology-onco 2999 3020	tumeurs sarcomatoïdes
+T9	morphology-onco 3531 3551	lésion surrénalienne
+T10	morphology-onco 3726 3735	malignité
+T11	morphology-onco 3943 3975	carcinome non à petites cellules
+T12	morphology-onco 3977 3982	NSCLC
+T13	morphology-onco 3997 4011	adénocarcinome
+T14	morphology-onco 4162 4211	NSCLC de stade IV en raison de l'atteinte osseuse
+T15	morphology-onco 4258 4274	atteinte osseuse
+T16	morphology-onco 4345 4365	lésion surrénalienne
+T17	morphology-onco 4925 4953	adénopathie sus-claviculaire
+T18	morphology-onco 5386 5416	nodule dans l'espace pararénal
+T19	morphology-onco 5448 5469	implantation tumorale
+T20	morphology-onco 5742 5748	tumeur
+T21	morphology-onco 5826 5844	cellules tumorales
+T22	morphology-onco 6424 6444	lésion surrénalienne
+T23	morphology-onco 6489 6519	nodule dans l'espace pararénal
+#1	ICD-O-3.1 T13	8140/3
+#2	ICD-O-3.1 T11	8046/3
+#3	ICD-O-3.1 T4	8033/3
+#4	ICD-O-3.1 T21	8001/1
+#5	ICD-O-3.1 T10	8000/3
+#6	ICD-O-3.1 T5	8000/6
+#7	ICD-O-3.1 T6	8000/6
+#8	ICD-O-3.1 T1	8000/1
+#9	ICD-O-3.1 T20	8000/1
+#10	ICD-O-3.1 T3	8004/3
+#11	ICD-O-3.1 T7	8033/6
+#12	ICD-O-3.1 T8	8033/1
+#13	ICD-O-3.1 T9	8000/6
+#14	ICD-O-3.1 T12	8046/3
+#15	ICD-O-3.1 T14	8046/6
+#16	ICD-O-3.1 T15	8000/6
+#17	ICD-O-3.1 T16	8000/6
+#18	ICD-O-3.1 T19	8000/6
+#19	ICD-O-3.1 T18	8000/6
+#20	ICD-O-3.1 T22	8000/6
+#21	ICD-O-3.1 T23	8000/6
+#22	ICD-O-3.1 T17	8000/6
+#23	ICD-O-3.1 T2	8000/6
+#24	SNOMED T13	1187332001
+#25	SNOMED T11	128632008
+#26	SNOMED T4	23109009
+#27	SNOMED T21	39577004
+#28	SNOMED T10	1240414004
+#29	SNOMED T5	14799000
+#30	SNOMED T6	14799000
+#31	SNOMED T1	86251006
+#32	SNOMED T20	86251006
+#33	SNOMED T3	88897007
+#34	SNOMED T9	14799000
+#35	SNOMED T12	128632008
+#36	SNOMED T15	14799000
+#37	SNOMED T16	14799000
+#38	SNOMED T19	14799000
+#39	SNOMED T18	14799000
+#40	SNOMED T22	14799000
+#41	SNOMED T23	14799000
+#42	SNOMED T17	14799000
+#43	SNOMED T2	14799000

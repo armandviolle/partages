@@ -1,0 +1,8 @@
+T1	disease 64 101	carcinome à cellules transitionnelles
+T2	disease 231 261	carcinome in situ de la vessie
+T3	disease 398 420	prolapsus de la stomie
+T4	disease 889 910	infiltration tumorale
+#1	SNOMED T1	27090000
+#2	SNOMED T2	92546004
+#3	SNOMED T3	235797004
+#4	SNOMED T4	128462008

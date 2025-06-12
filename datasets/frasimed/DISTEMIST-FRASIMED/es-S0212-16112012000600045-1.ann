@@ -1,0 +1,19 @@
+T1	disease 96 112	ulcère gastrique
+T2	disease 227 241	reflux alcalin
+T3	disease 288 310	symptômes subocclusifs
+T4	disease 363 386	obstruction intestinale
+T5	disease 388 400	Malnutrition
+T6	disease 417 439	hypoalbuminémie sévère
+T7	disease 441 464	anémie chronique sévère
+T8	disease 466 510	escarres dans la région sacrée et les talons
+T9	disease 537 558	syndrome d'immobilité
+T10	disease 582 600	tuberculose rénale
+T11	disease 633 656	pyélonéphrites répétées
+T12	disease 722 739	sténose urétérale
+T13	disease 765 771	anémie
+T14	disease 846 875	hémorragie gastro-intestinale
+T15	disease 895 933	malnutrition protéino-calorique sévère
+T16	disease 1169 1178	anasarque
+T17	disease 1190 1237	malnutrition due à un syndrome de malabsorption
+T18	disease 1719 1746	ulcères de la région sacrée
+T19	disease 1966 1995	infection des voies urinaires

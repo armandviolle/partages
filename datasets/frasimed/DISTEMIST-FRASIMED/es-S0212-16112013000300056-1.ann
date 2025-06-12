@@ -1,0 +1,28 @@
+T1	disease 35 63	maladie de Crohn iléocolique
+T2	disease 1091 1104	choc septique
+T3	disease 1352 1379	végétations sur le cathéter
+T4	disease 1448 1472	endocardite par cathéter
+T5	disease 1760 1793	dysfonctionnement multi-organique
+T6	disease 1811 1827	tableau septique
+T7	disease 1951 1960	infection
+T8	disease 1991 2021	hémorragie sous-arachnoïdienne
+T9	disease 2084 2104	infarctus spléniques
+T10	disease 2132 2160	embolies septiques multiples
+T11	disease 2321 2345	cathéter avec végétation
+T12	disease 2639 2655	tableau septique
+T13	disease 2804 2879	pneumonie associée à la ventilation mécanique due à Acinetobacter baumannii
+T14	disease 2887 2922	polyneuropathie du patient critique
+#1	SNOMED T1	38106008+50440006
+#2	SNOMED T5	57653000
+#3	SNOMED T6	238150007
+#4	SNOMED T13	1010634002
+#5	SNOMED T2	76571007
+#6	SNOMED T14	230594005
+#7	SNOMED T8	21454007
+#8	SNOMED T4	56819008
+#9	SNOMED T9	22996003
+#10	SNOMED T10	414086009
+#11	SNOMED T12	238150007
+#12	SNOMED T7	40733004
+#13	SNOMED T3	459055004+429268001
+#14	SNOMED T11	86100009+440653007

@@ -1,0 +1,20 @@
+T1	disease 131 153	céphalée hémicrânienne
+T2	disease 428 440	vision floue
+T3	disease 496 504	diplopie
+T4	disease 547 567	ptose de la paupière
+T5	disease 610 636	défaut pupillaire afférent
+T6	disease 910 925	lésion kystique
+T7	disease 1238 1244	lésion
+T8	disease 1584 1610	sclérose de l'os sphénoïde
+T9	disease 2038 2061	kyste osseux anévrismal
+T10	disease 2163 2240	lésion résiduelle dans les deux régions latérales et les cellules ethmoïdales
+#1	SNOMED T9	203468000
+#2	SNOMED T4	11934000
+#3	SNOMED T8	118945008
+#4	SNOMED T6	441457006
+#5	SNOMED T3	24982008
+#6	SNOMED T1	37796009
+#7	SNOMED T2	246636008
+#8	SNOMED T5	232121005
+#9	SNOMED T7	417163006
+#10	SNOMED T10	105974005

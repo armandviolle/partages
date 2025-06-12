@@ -1,0 +1,42 @@
+T1	disease 53 63	alcoolisme
+T2	disease 67 82	abus de cocaïne
+T3	disease 90 116	fracture du plateau tibial
+T4	disease 231 265	infection de la plaie chirurgicale
+T5	disease 281 302	ostéomyélite du tibia
+T6	disease 712 745	délire dû à la privation d'alcool
+T7	disease 2988 3007	syndrome de sevrage
+T8	disease 3181 3211	syndrome d'overdose/abstinence
+T9	disease 3287 3304	abus de substance
+T10	disease 3465 3486	schéma de toxicomanie
+T11	disease 3509 3531	consommation de drogue
+T12	disease 3650 3664	polymédication
+T13	disease 4774 4795	surdosage en opioïdes
+T14	disease 4811 4834	dépression respiratoire
+T15	disease 4929 4968	disloqué l'espaceur placé dans le fémur
+T16	disease 5179 5199	syndromes de sevrage
+T17	disease 5375 5387	ostéomyélite
+T18	disease 5399 5410	endocardite
+T19	disease 5417 5431	abcès cérébral
+T20	disease 5501 5534	surdosage/abstinence des opioïdes
+T21	disease 5769 5810	infarctus cérébral pariétal droit subaigu
+#1	SNOMED T21	307767006
+#2	SNOMED T20	242253008+87132004
+#3	SNOMED T12	129846003
+#4	SNOMED T1	7200002
+#5	SNOMED T2	78267003
+#6	SNOMED T3	428257007
+#7	SNOMED T8	55680006+363101005
+#8	SNOMED T17	60168000
+#9	SNOMED T7	363101005
+#10	SNOMED T16	363101005
+#11	SNOMED T18	56819008
+#12	SNOMED T19	60404007
+#13	SNOMED T6	8635005
+#14	SNOMED T9	445273005
+#15	SNOMED T5	445408000
+#16	SNOMED T13	242253008
+#17	SNOMED T14	80954004
+#18	SNOMED T15	213082003
+#19	SNOMED T11	361055000
+#20	SNOMED T10	445273005
+#21	SNOMED T4	433202001

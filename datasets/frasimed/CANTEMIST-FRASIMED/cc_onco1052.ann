@@ -1,0 +1,27 @@
+T1	morphology-onco 410 442	adénocarcinome du côlon droit G3
+T2	morphology-onco 468 470	M0
+T3	morphology-onco 804 830	dissémination de la tumeur
+T4	morphology-onco 1149 1190	ganglions lymphatiques supraclaviculaires
+T5	morphology-onco 1965 1974	métastase
+T6	morphology-onco 2372 2389	cellules malignes
+T7	morphology-onco 2449 2466	cellules malignes
+T8	morphology-onco 2597 2604	maligne
+T9	morphology-onco 2685 2692	maligne
+#1	ICD-O-3.1 T2	8000/6
+#2	ICD-O-3.1 T4	8000/6
+#3	ICD-O-3.1 T6	8001/3
+#4	ICD-O-3.1 T7	8001/3
+#5	ICD-O-3.1 T3	8000/6
+#6	ICD-O-3.1 T8	8000/3
+#7	ICD-O-3.1 T9	8000/3
+#8	ICD-O-3.1 T5	8000/6
+#9	ICD-O-3.1 T1	8140/33
+#10	SNOMED T2	14799000
+#11	SNOMED T4	14799000
+#12	SNOMED T6	88400008
+#13	SNOMED T7	88400008
+#14	SNOMED T3	14799000
+#15	SNOMED T8	1240414004
+#16	SNOMED T9	1240414004
+#17	SNOMED T5	14799000
+#18	SNOMED T1	1187332001

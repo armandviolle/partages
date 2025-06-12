@@ -1,0 +1,8 @@
+T1	disease 57 60	THA
+T2	disease 105 128	néoplasie du bas rectum
+T3	disease 387 437	bronchoaspiration pendant l'induction anesthésique
+T4	disease 2151 2176	insuffisance respiratoire
+#1	SNOMED T1	38341003
+#2	SNOMED T2	126847008
+#3	SNOMED T3	764873005
+#4	SNOMED T4	409623005

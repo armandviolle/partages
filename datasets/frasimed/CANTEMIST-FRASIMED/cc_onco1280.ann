@@ -1,0 +1,48 @@
+T1	morphology-onco 67 97	carcinome canalaire infiltrant
+T2	morphology-onco 126 134	pT1pN0M0
+T3	morphology-onco 631 640	carcinome
+T4	morphology-onco 1209 1218	carcinome
+T5	morphology-onco 1326 1348	métastase de carcinome
+T6	morphology-onco 1490 1499	malignité
+T7	morphology-onco 1825 1835	métastases
+T8	morphology-onco 1884 1912	infiltration de la dure-mère
+T9	morphology-onco 1937 1957	atteinte de l'orbite
+T10	morphology-onco 2007 2032	dissémination néoplasique
+T11	morphology-onco 2046 2056	métastases
+T12	morphology-onco 2162 2172	métastases
+T13	morphology-onco 2303 2359	carcinome mammaire occulte avec dissémination à distance
+T14	morphology-onco 2707 2724	atteinte méningée
+T15	morphology-onco 2854 2869	lésions durales
+T16	morphology-onco 2905 2922	masse intra-objet
+#1	ICD-O-3.1 T10	8000/6
+#2	ICD-O-3.1 T7	8000/6
+#3	ICD-O-3.1 T12	8000/6
+#4	ICD-O-3.1 T14	8000/6
+#5	ICD-O-3.1 T3	8010/3
+#6	ICD-O-3.1 T4	8010/3
+#7	ICD-O-3.1 T1	8500/3
+#8	ICD-O-3.1 T6	8000/3
+#9	ICD-O-3.1 T11	8000/6
+#10	ICD-O-3.1 T5	8010/6
+#11	ICD-O-3.1 T2	8000/6
+#12	ICD-O-3.1 T13	8010/6
+#13	ICD-O-3.1 T15	8000/6
+#14	ICD-O-3.1 T9	8000/6
+#15	ICD-O-3.1 T8	8000/6
+#16	ICD-O-3.1 T16	8000/6
+#17	SNOMED T10	14799000
+#18	SNOMED T7	14799000
+#19	SNOMED T12	14799000
+#20	SNOMED T14	14799000
+#21	SNOMED T3	1187425009
+#22	SNOMED T4	1187425009
+#23	SNOMED T1	58477004
+#24	SNOMED T6	1240414004
+#25	SNOMED T11	14799000
+#26	SNOMED T5	79282002
+#27	SNOMED T2	14799000
+#28	SNOMED T13	79282002
+#29	SNOMED T15	14799000
+#30	SNOMED T9	14799000
+#31	SNOMED T8	14799000
+#32	SNOMED T16	14799000

@@ -1,0 +1,15 @@
+T1	morphology-onco 224 277	carcinome papillaire séreux de l'ovaire de haut grade
+T2	morphology-onco 792 841	carcinome papillaire séreux ovarien de haut grade
+T3	morphology-onco 851 886	infiltration utérine et péritonéale
+T4	morphology-onco 1047 1088	récidive radiologique au niveau hépatique
+T5	morphology-onco 4642 4663	progression hépatique
+#1	ICD-O-3.1 T1	8461/34
+#2	ICD-O-3.1 T5	8000/6
+#3	ICD-O-3.1 T2	8461/34
+#4	ICD-O-3.1 T3	8000/6
+#5	ICD-O-3.1 T4	8000/6
+#6	SNOMED T1	716649003
+#7	SNOMED T5	14799000
+#8	SNOMED T2	716649003
+#9	SNOMED T3	14799000
+#10	SNOMED T4	14799000

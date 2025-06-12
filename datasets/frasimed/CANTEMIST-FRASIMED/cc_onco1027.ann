@@ -1,0 +1,15 @@
+T1	morphology-onco 1363 1378	carcinome rénal
+T2	morphology-onco 1363 1397	carcinome rénal à cellules claires
+T3	morphology-onco 1531 1538	pT3N0Mx
+T4	morphology-onco 2546 2561	carcinome rénal
+T5	morphology-onco 2546 2580	carcinome rénal à cellules claires
+#1	ICD-O-3.1 T1	8310/3
+#2	ICD-O-3.1 T5	8310/3
+#3	ICD-O-3.1 T2	8312/3
+#4	ICD-O-3.1 T3	8000/6
+#5	ICD-O-3.1 T4	8312/3
+#6	SNOMED T1	30546008
+#7	SNOMED T5	30546008
+#8	SNOMED T2	41607009
+#9	SNOMED T3	14799000
+#10	SNOMED T4	41607009

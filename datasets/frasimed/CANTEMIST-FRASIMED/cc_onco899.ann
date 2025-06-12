@@ -1,0 +1,34 @@
+T1	morphology-onco 287 314	carcinome adénoïde kystique
+T2	morphology-onco 506 549	métastases d'un carcinome adénoïde kystique
+T3	morphology-onco 593 603	métastases
+T4	morphology-onco 772 790	lésions hépatiques
+T5	morphology-onco 1484 1496	métastatique
+T6	morphology-onco 1510 1564	Métastases hépatiques d'un carcinome adénoïde kystique
+T7	morphology-onco 1657 1663	tumeur
+T8	morphology-onco 1883 1904	progression hépatique
+T9	morphology-onco 2110 2128	lésions hépatiques
+T10	morphology-onco 2401 2422	progression hépatique
+T11	morphology-onco 3100 3121	progression hépatique
+T12	morphology-onco 3851 3872	progression hépatique
+#1	ICD-O-3.1 T1	8200/3
+#2	ICD-O-3.1 T4	8000/6
+#3	ICD-O-3.1 T5	8000/6
+#4	ICD-O-3.1 T3	8000/6
+#5	ICD-O-3.1 T8	8000/6
+#6	ICD-O-3.1 T10	8000/6
+#7	ICD-O-3.1 T11	8000/6
+#8	ICD-O-3.1 T12	8000/6
+#9	ICD-O-3.1 T7	8000/1
+#10	ICD-O-3.1 T2	8200/6
+#11	ICD-O-3.1 T6	8200/6
+#12	ICD-O-3.1 T9	8000/6
+#13	SNOMED T1	302827006
+#14	SNOMED T4	14799000
+#15	SNOMED T5	14799000
+#16	SNOMED T3	14799000
+#17	SNOMED T8	14799000
+#18	SNOMED T10	14799000
+#19	SNOMED T11	14799000
+#20	SNOMED T12	14799000
+#21	SNOMED T7	86251006
+#22	SNOMED T9	14799000

@@ -1,0 +1,12 @@
+T1	disease 50 59	migraines
+T2	disease 81 116	sciatique réfractaire au traitement
+T3	disease 124 144	hernie discale L5-S1
+T4	disease 2393 2434	ne voyait rien du tout dans les deux yeux
+T5	disease 3149 3157	migraine
+T6	disease 3577 3593	dyschromatopsies
+#1	SNOMED T1	37796009
+#2	SNOMED T4	193699007
+#3	SNOMED T2	23056005
+#4	SNOMED T5	37796009
+#5	SNOMED T3	84857004
+#6	SNOMED T6	193683001

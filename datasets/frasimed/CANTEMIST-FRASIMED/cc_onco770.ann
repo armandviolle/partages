@@ -1,0 +1,84 @@
+T1	morphology-onco 378 387	néoplasie
+T2	morphology-onco 423 429	cancer
+T3	morphology-onco 833 882	adénopathies latérocervicales, supraclaviculaires
+T4	morphology-onco 1343 1348	myome
+T5	morphology-onco 2033 2046	métastatiques
+T6	morphology-onco 2257 2275	solide et kystique
+T7	morphology-onco 2539 2548	carcinome
+T8	morphology-onco 2582 2595	carcinomatose
+T9	morphology-onco 2620 2626	tumeur
+T10	morphology-onco 2962 2985	carcinome indifférencié
+T11	morphology-onco 3265 3271	tumeur
+T12	morphology-onco 3557 3575	lésions hépatiques
+T13	morphology-onco 3795 3828	carcinome hautement indifférencié
+T14	morphology-onco 3846 3864	lésions hépatiques
+T15	morphology-onco 3916 3927	néoplasique
+T16	morphology-onco 3982 4015	carcinome hautement indifférencié
+T17	morphology-onco 4089 4102	LOE hépatique
+T18	morphology-onco 4423 4458	cancer du poumon à grandes cellules
+T19	morphology-onco 4423 4490	cancer du poumon à grandes cellules (épidermoïde et adénocarcinome)
+T20	morphology-onco 4609 4616	tumeurs
+T21	morphology-onco 4691 4697	tumeur
+T22	morphology-onco 4788 4794	tumeur
+T23	morphology-onco 4907 4925	cellules tumorales
+T24	morphology-onco 5001 5024	carcinome indifférencié
+T25	morphology-onco 5728 5746	lésions hépatiques
+T26	morphology-onco 6260 6283	carcinome indifférencié
+T27	morphology-onco 6372 6389	maladie hépatique
+T28	morphology-onco 6479 6485	tumeur
+#1	ICD-O-3.1 T3	8000/6
+#2	ICD-O-3.1 T7	8010/3
+#3	ICD-O-3.1 T10	8020/3
+#4	ICD-O-3.1 T24	8020/3
+#5	ICD-O-3.1 T26	8020/3
+#6	ICD-O-3.1 T8	8010/9
+#7	ICD-O-3.1 T2	8000/3
+#8	ICD-O-3.1 T23	8001/1
+#9	ICD-O-3.1 T27	8000/6
+#10	ICD-O-3.1 T12	8000/6
+#11	ICD-O-3.1 T14	8000/6
+#12	ICD-O-3.1 T25	8000/6
+#13	ICD-O-3.1 T5	8000/6
+#14	ICD-O-3.1 T4	8895/0
+#15	ICD-O-3.1 T1	8000/1
+#16	ICD-O-3.1 T15	8000/1
+#17	ICD-O-3.1 T11	8000/1
+#18	ICD-O-3.1 T9	8000/1
+#19	ICD-O-3.1 T21	8000/1
+#20	ICD-O-3.1 T22	8000/1
+#21	ICD-O-3.1 T28	8000/1
+#22	ICD-O-3.1 T20	8000/1
+#23	ICD-O-3.1 T6	8452/1
+#24	ICD-O-3.1 T13	8020/3
+#25	ICD-O-3.1 T16	8020/3
+#26	ICD-O-3.1 T17	8000/6
+#27	ICD-O-3.1 T19	8560/3
+#28	ICD-O-3.1 T18	8012/3
+#29	SNOMED T3	14799000
+#30	SNOMED T7	1187425009
+#31	SNOMED T10	38549000
+#32	SNOMED T24	38549000
+#33	SNOMED T26	38549000
+#34	SNOMED T8	307593001
+#35	SNOMED T2	1240414004
+#36	SNOMED T23	39577004
+#37	SNOMED T27	14799000
+#38	SNOMED T12	14799000
+#39	SNOMED T14	14799000
+#40	SNOMED T25	14799000
+#41	SNOMED T5	14799000
+#42	SNOMED T4	1156875002
+#43	SNOMED T1	86251006
+#44	SNOMED T15	86251006
+#45	SNOMED T11	86251006
+#46	SNOMED T9	86251006
+#47	SNOMED T21	86251006
+#48	SNOMED T22	86251006
+#49	SNOMED T28	86251006
+#50	SNOMED T20	86251006
+#51	SNOMED T6	27078002
+#52	SNOMED T13	38549000
+#53	SNOMED T16	38549000
+#54	SNOMED T17	14799000
+#55	SNOMED T19	59367005
+#56	SNOMED T18	22687000

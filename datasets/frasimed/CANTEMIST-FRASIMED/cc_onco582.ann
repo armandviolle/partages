@@ -1,0 +1,81 @@
+T1	morphology-onco 152 158	cancer
+T2	morphology-onco 273 280	tumeurs
+T3	morphology-onco 302 311	néoplasie
+T4	morphology-onco 336 339	NEM
+T5	morphology-onco 900 902	M1
+T6	morphology-onco 1042 1082	ganglions lymphatiques sus-claviculaires
+T7	morphology-onco 1197 1202	nævus
+T8	morphology-onco 1521 1534	LOE hépatique
+T9	morphology-onco 1579 1588	carcinome
+T10	morphology-onco 1821 1827	tumeur
+T11	morphology-onco 1860 1862	M1
+T12	morphology-onco 1890 1920	adénopathies sus-claviculaires
+T13	morphology-onco 1981 2000	lésions pulmonaires
+T14	morphology-onco 2014 2040	lymphangite carcinomateuse
+T15	morphology-onco 2119 2137	cellules tumorales
+T16	morphology-onco 2389 2419	lésions suspectes dans le sein
+T17	morphology-onco 2493 2507	carcinomateuse
+T18	morphology-onco 2640 2649	néoplasie
+T19	morphology-onco 2917 2937	carcinome médullaire
+T20	morphology-onco 3367 3379	métastatique
+T21	morphology-onco 3462 3482	carcinome médullaire
+T22	morphology-onco 3523 3525	M1
+T23	morphology-onco 3632 3645	LOE hépatique
+T24	morphology-onco 3798 3802	MEN2
+T25	morphology-onco 4216 4224	tumorale
+T26	morphology-onco 4543 4562	nodules pulmonaires
+T27	morphology-onco 4570 4588	lésions hépatiques
+#1	ICD-O-3.1 T9	8010/3
+#2	ICD-O-3.1 T17	8010/3
+#3	ICD-O-3.1 T19	8510/3
+#4	ICD-O-3.1 T21	8510/3
+#5	ICD-O-3.1 T1	8000/3
+#6	ICD-O-3.1 T15	8001/1
+#7	ICD-O-3.1 T3	8000/1
+#8	ICD-O-3.1 T18	8000/1
+#9	ICD-O-3.1 T7	8720/0
+#10	ICD-O-3.1 T10	8000/1
+#11	ICD-O-3.1 T25	8000/1
+#12	ICD-O-3.1 T2	8000/1
+#13	ICD-O-3.1 T5	8000/6
+#14	ICD-O-3.1 T11	8000/6
+#15	ICD-O-3.1 T14	8000/3
+#16	ICD-O-3.1 T20	8000/6
+#17	ICD-O-3.1 T22	8000/6
+#18	ICD-O-3.1 T4	8000/3
+#19	ICD-O-3.1 T24	8000/3
+#20	ICD-O-3.1 T6	8000/6
+#21	ICD-O-3.1 T12	8000/6
+#22	ICD-O-3.1 T27	8000/6
+#23	ICD-O-3.1 T13	8000/6
+#24	ICD-O-3.1 T26	8000/6
+#25	ICD-O-3.1 T23	8000/6
+#26	ICD-O-3.1 T8	8000/6
+#27	ICD-O-3.1 T16	8000/6
+#28	SNOMED T9	1187425009
+#29	SNOMED T17	1187425009
+#30	SNOMED T19	32913002
+#31	SNOMED T21	32913002
+#32	SNOMED T1	1240414004
+#33	SNOMED T15	39577004
+#34	SNOMED T3	86251006
+#35	SNOMED T18	86251006
+#36	SNOMED T7	400010006
+#37	SNOMED T10	86251006
+#38	SNOMED T25	86251006
+#39	SNOMED T2	86251006
+#40	SNOMED T5	14799000
+#41	SNOMED T11	14799000
+#42	SNOMED T14	1240414004
+#43	SNOMED T20	14799000
+#44	SNOMED T22	14799000
+#45	SNOMED T4	1240414004
+#46	SNOMED T24	1240414004
+#47	SNOMED T6	14799000
+#48	SNOMED T12	14799000
+#49	SNOMED T27	14799000
+#50	SNOMED T13	14799000
+#51	SNOMED T26	14799000
+#52	SNOMED T23	14799000
+#53	SNOMED T8	14799000
+#54	SNOMED T16	14799000

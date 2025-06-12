@@ -1,0 +1,21 @@
+T1	morphology-onco 690 715	tumeur fibreuse solitaire
+T2	morphology-onco 2678 2684	tumeur
+T3	morphology-onco 3238 3254	sarcome synovial
+T4	morphology-onco 3277 3292	sarcome d'Ewing
+T5	morphology-onco 3350 3359	malignité
+T6	morphology-onco 3402 3427	tumeur fibreuse solitaire
+T7	morphology-onco 3767 3792	Tumeur fibreuse solitaire
+#1	ICD-O-3.1 T7	8815/0
+#2	ICD-O-3.1 T5	8000/3
+#3	ICD-O-3.1 T3	9040/3
+#4	ICD-O-3.1 T1	8815/0
+#5	ICD-O-3.1 T6	8815/0
+#6	ICD-O-3.1 T2	8000/1
+#7	ICD-O-3.1 T4	9260/3
+#8	SNOMED T7	128736003
+#9	SNOMED T5	1240414004
+#10	SNOMED T3	302851001
+#11	SNOMED T1	128736003
+#12	SNOMED T6	128736003
+#13	SNOMED T2	86251006
+#14	SNOMED T4	76909002

@@ -1,0 +1,22 @@
+T1	disease 20 30	diabétique
+T2	disease 46 51	obèse
+T3	disease 74 96	lithiase chorioriforme
+T4	disease 202 216	mycose buccale
+T5	disease 328 358	hyperglycémie avec acidocétose
+T6	disease 1000 1038	contamination de la cavité péritonéale
+T7	disease 1136 1146	septicémie
+T8	disease 1288 1321	septicémie d'origine respiratoire
+T9	disease 1372 1377	plaie
+T10	disease 1463 1501	dysfonctionnement de plusieurs organes
+T11	disease 1511 1532	pneumonie nosocomiale
+#1	SNOMED T2	414915002
+#2	SNOMED T4	3218000
+#3	SNOMED T5	420422005
+#4	SNOMED T6	129129003
+#5	SNOMED T7	91302008
+#6	SNOMED T8	91302008
+#7	SNOMED T10	57653000
+#8	SNOMED T11	425464007
+#9	SNOMED T3	197794008
+#10	SNOMED T1	73211009
+#11	SNOMED T9	416462003

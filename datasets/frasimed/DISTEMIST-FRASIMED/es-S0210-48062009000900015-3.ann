@@ -1,0 +1,10 @@
+T1	disease 67 90	diabète sucré de type 2
+T2	disease 119 148	insuffisance rénale chronique
+T3	disease 391 424	lésions vésiculeuses sur le gland
+T4	disease 476 483	ulcères
+T5	disease 725 742	lésion nécrotique
+#1	SNOMED T1	44054006
+#2	SNOMED T5	6574001
+#3	SNOMED T3	249250005
+#4	SNOMED T2	90688005
+#5	SNOMED T4	255321001

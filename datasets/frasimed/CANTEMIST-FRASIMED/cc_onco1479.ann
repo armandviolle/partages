@@ -1,0 +1,84 @@
+T1	morphology-onco 629 635	tumeur
+T2	morphology-onco 1136 1142	tumeur
+T3	morphology-onco 1364 1386	sarcome granulocytaire
+T4	morphology-onco 1397 1405	chlorome
+T5	morphology-onco 1506 1523	leucémie myéloïde
+T6	morphology-onco 1524 1527	AML
+T7	morphology-onco 2206 2223	cellules malignes
+T8	morphology-onco 2245 2274	tumeur maligne indifférenciée
+T9	morphology-onco 2364 2382	cellules tumorales
+T10	morphology-onco 2751 2781	Tumeur maligne des tissus mous
+T11	morphology-onco 2831 2847	tumeur rhabdoïde
+T12	morphology-onco 2898 2913	adénocarcinomes
+T13	morphology-onco 2898 2935	adénocarcinomes à phénotype rhabdoïde
+T14	morphology-onco 2941 2978	tumeurs stromales gastro-intestinales
+T15	morphology-onco 2941 3000	tumeurs stromales gastro-intestinales à phénotype rhabdoïde
+T16	morphology-onco 3006 3036	sarcomes à phénotype rhabdoïde
+T17	morphology-onco 3044 3071	tumeurs rhabdoïdes malignes
+T18	morphology-onco 3160 3178	masse mésentérique
+T19	morphology-onco 3507 3541	foie présente de multiples lésions
+T20	morphology-onco 3542 3551	tumorales
+T21	morphology-onco 3661 3689	tumeur à phénotype rhabdoïde
+T22	morphology-onco 3703 3724	sarcome indifférencié
+T23	morphology-onco 3703 3746	sarcome indifférencié à phénotype rhabdoïde
+T24	morphology-onco 3761 3777	tumeur rhabdoïde
+T25	morphology-onco 3916 3924	sarcomes
+T26	morphology-onco 4524 4572	progression de la maladie péritonéale et osseuse
+T27	morphology-onco 5186 5204	lésions hépatiques
+T28	morphology-onco 5214 5233	lésion mésentérique
+#1	ICD-O-3.1 T19	8000/6
+#2	ICD-O-3.1 T12	8140/3
+#3	ICD-O-3.1 T7	8001/3
+#4	ICD-O-3.1 T9	8001/1
+#5	ICD-O-3.1 T27	8000/6
+#6	ICD-O-3.1 T18	8000/6
+#7	ICD-O-3.1 T3	9930/3
+#8	ICD-O-3.1 T22	8805/3
+#9	ICD-O-3.1 T25	8800/3
+#10	ICD-O-3.1 T1	8000/1
+#11	ICD-O-3.1 T2	8000/1
+#12	ICD-O-3.1 T14	8936/3
+#13	ICD-O-3.1 T8	8000/34
+#14	ICD-O-3.1 T20	8000/1
+#15	ICD-O-3.1 T4	9930/3
+#16	ICD-O-3.1 T5	9860/3
+#17	ICD-O-3.1 T6	9861/3
+#18	ICD-O-3.1 T10	8800/3
+#19	ICD-O-3.1 T11	8963/3
+#20	ICD-O-3.1 T13	8963/3
+#21	ICD-O-3.1 T15	8963/3
+#22	ICD-O-3.1 T16	8963/3
+#23	ICD-O-3.1 T17	8963/3
+#24	ICD-O-3.1 T21	8963/3
+#25	ICD-O-3.1 T23	8963/3
+#26	ICD-O-3.1 T24	8963/3
+#27	ICD-O-3.1 T26	8000/6
+#28	ICD-O-3.1 T28	8000/6
+#29	SNOMED T19	14799000
+#30	SNOMED T12	1187332001
+#31	SNOMED T7	88400008
+#32	SNOMED T9	39577004
+#33	SNOMED T27	14799000
+#34	SNOMED T18	14799000
+#35	SNOMED T3	35287006
+#36	SNOMED T22	128734000
+#37	SNOMED T25	1187396000
+#38	SNOMED T1	86251006
+#39	SNOMED T2	86251006
+#40	SNOMED T14	128756002
+#41	SNOMED T8	1240414004
+#42	SNOMED T20	86251006
+#43	SNOMED T4	35287006
+#44	SNOMED T5	1163439000
+#45	SNOMED T6	91861009
+#46	SNOMED T10	1187396000
+#47	SNOMED T11	1156418001
+#48	SNOMED T13	1156418001
+#49	SNOMED T15	1156418001
+#50	SNOMED T16	1156418001
+#51	SNOMED T17	1156418001
+#52	SNOMED T21	1156418001
+#53	SNOMED T23	1156418001
+#54	SNOMED T24	1156418001
+#55	SNOMED T26	14799000
+#56	SNOMED T28	14799000

@@ -1,0 +1,81 @@
+T1	morphology-onco 101 112	liposarcome
+T2	morphology-onco 195 199	MEN1
+T3	morphology-onco 473 477	MEN1
+T4	morphology-onco 730 734	MEN1
+T5	morphology-onco 757 763	tumeur
+T6	morphology-onco 932 936	MEN1
+T7	morphology-onco 1039 1043	NEM1
+T8	morphology-onco 1464 1471	adénome
+T9	morphology-onco 1555 1562	adénome
+T10	morphology-onco 2220 2245	macroadénome hypophysaire
+T11	morphology-onco 2424 2431	tumeurs
+T12	morphology-onco 2611 2618	lipomes
+T13	morphology-onco 2751 2768	cellules malignes
+T14	morphology-onco 2885 2921	liposarcome bien différencié (OMS G1
+T15	morphology-onco 3092 3098	tumeur
+T16	morphology-onco 3163 3169	lipome
+T17	morphology-onco 5221 5227	tumeur
+T18	morphology-onco 5282 5288	tumeur
+T19	morphology-onco 5341 5348	tumeurs
+T20	morphology-onco 5611 5619	tumorale
+T21	morphology-onco 5725 5729	MEN1
+T22	morphology-onco 5793 5817	liposarcome de bas grade
+T23	morphology-onco 5891 5916	macroadénome hypophysaire
+T24	morphology-onco 5925 5948	Tumeurs neuroendocrines
+T25	morphology-onco 5925 5962	Tumeurs neuroendocrines pancréatiques
+T26	morphology-onco 6057 6063	tumeur
+T27	morphology-onco 6423 6456	Tumeurs neuroendocrines multiples
+#1	ICD-O-3.1 T24	8240/3
+#2	ICD-O-3.1 T27	8240/3/H
+#3	ICD-O-3.1 T8	8140/0
+#4	ICD-O-3.1 T9	8140/0
+#5	ICD-O-3.1 T13	8001/3
+#6	ICD-O-3.1 T16	8850/0
+#7	ICD-O-3.1 T12	8850/0
+#8	ICD-O-3.1 T1	8850/3
+#9	ICD-O-3.1 T14	8851/31
+#10	ICD-O-3.1 T10	8272/0
+#11	ICD-O-3.1 T23	8272/0
+#12	ICD-O-3.1 T5	8000/1
+#13	ICD-O-3.1 T15	8000/1
+#14	ICD-O-3.1 T26	8000/1
+#15	ICD-O-3.1 T11	8000/1
+#16	ICD-O-3.1 T19	8000/1
+#17	ICD-O-3.1 T17	8000/1
+#18	ICD-O-3.1 T18	8000/1
+#19	ICD-O-3.1 T20	8000/1
+#20	ICD-O-3.1 T2	8000/1
+#21	ICD-O-3.1 T3	8000/1
+#22	ICD-O-3.1 T4	8000/1
+#23	ICD-O-3.1 T6	8000/1
+#24	ICD-O-3.1 T7	8000/1
+#25	ICD-O-3.1 T21	8000/1
+#26	ICD-O-3.1 T22	8850/31
+#27	ICD-O-3.1 T25	8150/1
+#28	SNOMED T24	189607006
+#29	SNOMED T27	189607006
+#30	SNOMED T8	1187379001
+#31	SNOMED T9	1187379001
+#32	SNOMED T13	88400008
+#33	SNOMED T16	93163002
+#34	SNOMED T12	93163002
+#35	SNOMED T1	254829001
+#36	SNOMED T14	28655007
+#37	SNOMED T10	254956000
+#38	SNOMED T23	254956000
+#39	SNOMED T5	86251006
+#40	SNOMED T15	86251006
+#41	SNOMED T26	86251006
+#42	SNOMED T11	86251006
+#43	SNOMED T19	86251006
+#44	SNOMED T17	86251006
+#45	SNOMED T18	86251006
+#46	SNOMED T20	86251006
+#47	SNOMED T2	86251006
+#48	SNOMED T3	86251006
+#49	SNOMED T4	86251006
+#50	SNOMED T6	86251006
+#51	SNOMED T7	86251006
+#52	SNOMED T21	86251006
+#53	SNOMED T22	254829001
+#54	SNOMED T25	126864006

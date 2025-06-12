@@ -1,0 +1,32 @@
+T1	disease 33 59	perte de vision bilatérale
+T2	disease 261 267	fumeur
+T3	disease 300 320	néoplasie pulmonaire
+T4	disease 546 580	vitrite modérée dans les deux yeux
+T5	disease 773 782	papillite
+T6	disease 773 806	papillite avec vitrite bilatérale
+T7	disease 788 795	vitrite
+T8	disease 1307 1316	vasculite
+T9	disease 1392 1421	neuropathie axonale dans l'OI
+T10	disease 1708 1732	syndrome paranéoplasique
+T11	disease 1830 1873	hile droit, compatible avec une adénopathie
+T12	disease 2030 2046	lymphadénopathie
+T13	disease 2367 2374	névrite
+T14	disease 2429 2449	carcinome pulmonaire
+T15	disease 2609 2629	carcinome pulmonaire
+T16	disease 2687 2709	carcinome microcytaire
+#1	SNOMED T15	254632001
+#2	SNOMED T10	49783001
+#3	SNOMED T9	386033004
+#4	SNOMED T16	11010461000119101
+#5	SNOMED T11	87500009
+#6	SNOMED T2	77176002
+#7	SNOMED T3	126713003
+#8	SNOMED T12	30746006
+#9	SNOMED T4	95802009
+#10	SNOMED T5	73221001
+#11	SNOMED T7	95802009
+#12	SNOMED T13	21018002
+#13	SNOMED T14	254632001
+#14	SNOMED T6	344891000119109+95802009
+#15	SNOMED T8	31996006
+#16	SNOMED T1	105597003

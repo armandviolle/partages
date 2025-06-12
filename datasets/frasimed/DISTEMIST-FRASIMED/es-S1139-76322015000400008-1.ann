@@ -1,0 +1,18 @@
+T1	disease 200 220	infections urinaires
+T2	disease 389 409	adénite mésentérique
+T3	disease 424 458	dilatation du bassinet rénal droit
+T4	disease 482 498	sténose de l'UPU
+T5	disease 741 771	dilatation des voies urinaires
+T6	disease 781 830	dilatation légère-modérée du bassinet rénal droit
+T7	disease 918 956	sténose de la jonction pyélo-urétérale
+T8	disease 988 1020	ectasie obstructive dans le rein
+T9	disease 1310 1352	dilatation obstructive des voies urinaires
+#1	SNOMED T6	197820003
+#2	SNOMED T2	44897000
+#3	SNOMED T3	197820003
+#4	SNOMED T1	68566005
+#5	SNOMED T4	25341005
+#6	SNOMED T7	36388008
+#7	SNOMED T8	7163005
+#8	SNOMED T9	7163005
+#9	SNOMED T5	41368006

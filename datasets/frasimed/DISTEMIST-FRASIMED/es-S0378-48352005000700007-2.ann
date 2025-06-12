@@ -1,0 +1,16 @@
+T1	disease 67 87	carcinome pulmonaire
+T2	disease 89 97	Sinusite
+T3	disease 529 548	stésioneuroblastome
+T4	disease 595 610	masse polypoïde
+T5	disease 731 755	lésion occupant l'espace
+T6	disease 1188 1207	stésioneuroblastome
+T7	disease 1247 1312	épaississement polypoïde de la muqueuse du sinus maxillaire droit
+T8	disease 1797 1845	toxicité cutanée G1, muqueuse G2 et oropharyngée
+#1	SNOMED T1	448993007
+#2	SNOMED T6	422886007
+#3	SNOMED T2	36971009
+#4	SNOMED T8	399119000
+#5	SNOMED T3	422886007
+#6	SNOMED T5	56002005
+#7	SNOMED T4	441456002
+#8	SNOMED T7	29074008

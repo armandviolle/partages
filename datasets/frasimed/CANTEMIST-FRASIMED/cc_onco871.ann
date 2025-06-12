@@ -1,0 +1,66 @@
+T1	morphology-onco 89 115	néoplasie mammaire maligne
+T2	morphology-onco 192 222	carcinome canalaire infiltrant
+T3	morphology-onco 249 258	cT1cN2aM0
+T4	morphology-onco 362 395	métastase du carcinome infiltrant
+T5	morphology-onco 953 992	carcinome mammaire canalaire infiltrant
+T6	morphology-onco 1019 1021	M0
+T7	morphology-onco 1444 1459	rechute cutanée
+T8	morphology-onco 1594 1619	atteinte pleuropulmonaire
+T9	morphology-onco 1999 2023	maladie au niveau cutané
+T10	morphology-onco 2279 2295	lésions cutanées
+T11	morphology-onco 2573 2601	implication pleuropulmonaire
+T12	morphology-onco 2616 2629	carcinomatose
+T13	morphology-onco 2806 2857	métastases dues à un carcinome canalaire infiltrant
+T14	morphology-onco 4049 4062	carcinomatose
+T15	morphology-onco 4224 4233	carcinome
+T16	morphology-onco 4421 4470	métastase due à un carcinome canalaire infiltrant
+T17	morphology-onco 4499 4529	Carcinome canalaire infiltrant
+T18	morphology-onco 4584 4652	Métastase dans le côlon à partir d'un carcinome canalaire infiltrant
+T19	morphology-onco 4710 4716	cancer
+T20	morphology-onco 4927 4951	maladie au niveau cutané
+T21	morphology-onco 5063 5078	maladie cutanée
+T22	morphology-onco 5157 5189	progression au niveau pulmonaire
+T23	morphology-onco 5207 5217	métastases
+#1	ICD-O-3.1 T17	8500/3
+#2	ICD-O-3.1 T6	8000/6
+#3	ICD-O-3.1 T15	8010/3
+#4	ICD-O-3.1 T2	8500/3
+#5	ICD-O-3.1 T5	8500/3
+#6	ICD-O-3.1 T12	8010/9
+#7	ICD-O-3.1 T14	8010/9
+#8	ICD-O-3.1 T19	8000/3
+#9	ICD-O-3.1 T23	8000/6
+#10	ICD-O-3.1 T1	8000/3
+#11	ICD-O-3.1 T3	8000/6
+#12	ICD-O-3.1 T4	8010/6/H
+#13	ICD-O-3.1 T7	8000/6
+#14	ICD-O-3.1 T8	8000/6
+#15	ICD-O-3.1 T9	8000/6
+#16	ICD-O-3.1 T10	8000/6
+#17	ICD-O-3.1 T11	8000/6
+#18	ICD-O-3.1 T13	8500/6
+#19	ICD-O-3.1 T16	8500/6
+#20	ICD-O-3.1 T18	8500/6
+#21	ICD-O-3.1 T20	8000/6
+#22	ICD-O-3.1 T21	8000/6
+#23	ICD-O-3.1 T22	8000/6
+#24	SNOMED T17	58477004
+#25	SNOMED T6	14799000
+#26	SNOMED T15	1187425009
+#27	SNOMED T2	58477004
+#28	SNOMED T5	58477004
+#29	SNOMED T12	307593001
+#30	SNOMED T14	307593001
+#31	SNOMED T19	1240414004
+#32	SNOMED T23	14799000
+#33	SNOMED T1	1240414004
+#34	SNOMED T3	14799000
+#35	SNOMED T4	79282002
+#36	SNOMED T7	14799000
+#37	SNOMED T8	14799000
+#38	SNOMED T9	14799000
+#39	SNOMED T10	14799000
+#40	SNOMED T11	14799000
+#41	SNOMED T20	14799000
+#42	SNOMED T21	14799000
+#43	SNOMED T22	14799000

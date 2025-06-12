@@ -1,0 +1,39 @@
+T1	morphology-onco 299 305	cancer
+T2	morphology-onco 696 740	lymphadénopathie cervicale, sus-claviculaire
+T3	morphology-onco 1214 1222	chordome
+T4	morphology-onco 1508 1516	chordome
+T5	morphology-onco 1530 1538	Chordome
+T6	morphology-onco 1849 1855	tumeur
+T7	morphology-onco 2265 2283	cellules tumorales
+T8	morphology-onco 2470 2478	tumoraux
+T9	morphology-onco 2566 2572	tumeur
+T10	morphology-onco 2721 2729	chordome
+T11	morphology-onco 3262 3273	néoplasique
+T12	morphology-onco 3292 3300	chordome
+T13	morphology-onco 4262 4270	chordome
+#1	ICD-O-3.1 T5	9370/3
+#2	ICD-O-3.1 T2	8000/6
+#3	ICD-O-3.1 T3	9370/3
+#4	ICD-O-3.1 T4	9370/3
+#5	ICD-O-3.1 T10	9370/3
+#6	ICD-O-3.1 T12	9370/3
+#7	ICD-O-3.1 T13	9370/3
+#8	ICD-O-3.1 T1	8000/3
+#9	ICD-O-3.1 T7	8001/1
+#10	ICD-O-3.1 T11	8000/1
+#11	ICD-O-3.1 T6	8000/1
+#12	ICD-O-3.1 T9	8000/1
+#13	ICD-O-3.1 T8	8000/1
+#14	SNOMED T5	50007008
+#15	SNOMED T2	14799000
+#16	SNOMED T3	50007008
+#17	SNOMED T4	50007008
+#18	SNOMED T10	50007008
+#19	SNOMED T12	50007008
+#20	SNOMED T13	50007008
+#21	SNOMED T1	1240414004
+#22	SNOMED T7	39577004
+#23	SNOMED T11	86251006
+#24	SNOMED T6	86251006
+#25	SNOMED T9	86251006
+#26	SNOMED T8	86251006

@@ -1,0 +1,10 @@
+T1	disease 204 259	plaie pénétrante au niveau de la région submandibulaire
+T2	disease 349 375	trajectoire intracrânienne
+T3	disease 707 763	fuite de liquide céphalo-rachidien par la plaie d'entrée
+T4	disease 707 793	fuite de liquide céphalo-rachidien par la plaie d'entrée ou le conduit auditif externe
+T5	disease 1903 1985	fuite de liquide céphalo-rachidien n'a été observée au niveau de la plaie d'entrée
+T6	disease 2015 2033	plaie intrabuccale
+T7	disease 2109 2132	plaie sous-mandibulaire
+T8	disease 2246 2259	pneumocéphale
+T9	disease 2463 2483	trouble neurologique
+T10	disease 2590 2649	perte auditive de transmission de 60% dans l'oreille gauche

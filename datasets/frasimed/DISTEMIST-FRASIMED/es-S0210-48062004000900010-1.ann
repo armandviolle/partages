@@ -1,0 +1,17 @@
+T1	disease 63 76	hyperglycémie
+T2	disease 108 132	tuberculose épididymaire
+T3	disease 134 137	TBC
+T4	disease 179 185	fumeur
+T5	disease 1075 1116	lithiase au pôle inférieur du rein gauche
+T6	disease 1167 1208	lithiase au pôle inférieur du rein gauche
+T7	disease 1212 1247	dilatation irrégulière de l'uretère
+T8	disease 1411 1453	rein gauche avec une dilatation calicéenne
+T9	disease 1492 1515	dilatation de l'uretère
+T10	disease 2114 2149	cystite tuberculoïde granulomateuse
+T11	disease 2170 2172	TB
+T12	disease 2259 2335	tuberculose génito-urinaire avec tuberculome vésical et atteinte rénorétrale
+T13	disease 2665 2706	fistule avec exsudat dans le teste gauche
+T14	disease 2958 2978	hydrocèle bilatérale
+T15	disease 3412 3414	TB
+T16	disease 3467 3482	Vessie d'effort
+T17	disease 3486 3510	hypertrophie prostatique

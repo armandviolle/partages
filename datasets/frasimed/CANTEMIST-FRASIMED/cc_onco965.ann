@@ -1,0 +1,42 @@
+T1	morphology-onco 290 299	néoplasie
+T2	morphology-onco 2179 2198	masse surrénalienne
+T3	morphology-onco 2227 2236	métastase
+T4	morphology-onco 2242 2272	lésion dans le corps vertébral
+T5	morphology-onco 2312 2321	métastase
+T6	morphology-onco 2427 2449	foyers ostéoblastiques
+T7	morphology-onco 2723 2756	métastase due à un mélanome malin
+T8	morphology-onco 2911 2932	Mélanome métastatique
+T9	morphology-onco 2961 2971	métastases
+T10	morphology-onco 4267 4283	masse pararénale
+T11	morphology-onco 4311 4327	lésions osseuses
+T12	morphology-onco 4792 4808	masse pararénale
+T13	morphology-onco 5384 5401	lésion pararénale
+T14	morphology-onco 5865 5893	lésion résiduelle pararénale
+#1	ICD-O-3.1 T8	8720/6
+#2	ICD-O-3.1 T6	8000/6
+#3	ICD-O-3.1 T11	8000/6
+#4	ICD-O-3.1 T2	8000/6
+#5	ICD-O-3.1 T3	8000/6
+#6	ICD-O-3.1 T9	8000/6
+#7	ICD-O-3.1 T7	8720/6
+#8	ICD-O-3.1 T1	8000/1
+#9	ICD-O-3.1 T4	8000/6
+#10	ICD-O-3.1 T5	8000/6
+#11	ICD-O-3.1 T10	8000/6
+#12	ICD-O-3.1 T12	8000/6
+#13	ICD-O-3.1 T13	8000/6
+#14	ICD-O-3.1 T14	8000/6
+#15	SNOMED T8	372158004
+#16	SNOMED T6	14799000
+#17	SNOMED T11	14799000
+#18	SNOMED T2	14799000
+#19	SNOMED T3	14799000
+#20	SNOMED T9	14799000
+#21	SNOMED T7	372158004
+#22	SNOMED T1	86251006
+#23	SNOMED T4	14799000
+#24	SNOMED T5	14799000
+#25	SNOMED T10	14799000
+#26	SNOMED T12	14799000
+#27	SNOMED T13	14799000
+#28	SNOMED T14	14799000

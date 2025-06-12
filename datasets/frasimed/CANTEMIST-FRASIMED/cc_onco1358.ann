@@ -1,0 +1,30 @@
+T1	morphology-onco 181 187	tumeur
+T2	morphology-onco 216 248	carcinome intraductal de grade I
+T3	morphology-onco 346 352	T2N1M0
+T4	morphology-onco 954 985	cellules myéloïdes néoplasiques
+T5	morphology-onco 1205 1221	sarcome myéloïde
+T6	morphology-onco 2153 2171	Sarcomes myéloïdes
+T7	morphology-onco 2201 2249	leucémie myéloïde aiguë (LMA) liée à la thérapie
+T8	morphology-onco 2226 2229	LMA
+T9	morphology-onco 2301 2310	néoplasme
+T10	morphology-onco 2471 2474	LAM
+#1	ICD-O-3.1 T8	9861/3
+#2	ICD-O-3.1 T10	9861/3
+#3	ICD-O-3.1 T3	8000/6
+#4	ICD-O-3.1 T9	8000/1
+#5	ICD-O-3.1 T5	9930/3
+#6	ICD-O-3.1 T1	8000/1
+#7	ICD-O-3.1 T2	8500/21
+#8	ICD-O-3.1 T4	8001/1
+#9	ICD-O-3.1 T6	9930/3
+#10	ICD-O-3.1 T7	9920/3
+#11	SNOMED T8	91861009
+#12	SNOMED T10	91861009
+#13	SNOMED T3	14799000
+#14	SNOMED T9	86251006
+#15	SNOMED T5	35287006
+#16	SNOMED T1	86251006
+#17	SNOMED T2	1162814007
+#18	SNOMED T4	39577004
+#19	SNOMED T6	35287006
+#20	SNOMED T7	721306009

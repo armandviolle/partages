@@ -1,0 +1,36 @@
+T1	morphology-onco 1724 1769	carcinome infiltrant de Nottingham de grade 2
+T2	morphology-onco 1823 1855	carcinome in situ de type solide
+T3	morphology-onco 1944 1953	carcinome
+T4	morphology-onco 2044 2062	cellules tumorales
+T5	morphology-onco 2100 2118	cellules tumorales
+T6	morphology-onco 2307 2342	lymphadénopathies sus-claviculaires
+T7	morphology-onco 2429 2438	malignité
+T8	morphology-onco 2659 2669	métastases
+T9	morphology-onco 2795 2835	carcinome compatible avec des métastases
+T10	morphology-onco 2868 2897	Carcinome mammaire infiltrant
+T11	morphology-onco 2971 3000	carcinome mammaire infiltrant
+T12	morphology-onco 3548 3587	carcinome compatible avec une métastase
+#1	ICD-O-3.1 T10	8010/3/H
+#2	ICD-O-3.1 T6	8000/6
+#3	ICD-O-3.1 T3	8010/3
+#4	ICD-O-3.1 T11	8010/3/H
+#5	ICD-O-3.1 T4	8001/1
+#6	ICD-O-3.1 T5	8001/1
+#7	ICD-O-3.1 T7	8000/3
+#8	ICD-O-3.1 T8	8000/6
+#9	ICD-O-3.1 T1	8010/32/H
+#10	ICD-O-3.1 T2	8230/2
+#11	ICD-O-3.1 T12	8010/6
+#12	ICD-O-3.1 T9	8010/6
+#13	SNOMED T10	1187425009
+#14	SNOMED T6	14799000
+#15	SNOMED T3	1187425009
+#16	SNOMED T11	1187425009
+#17	SNOMED T4	39577004
+#18	SNOMED T5	39577004
+#19	SNOMED T7	1240414004
+#20	SNOMED T8	14799000
+#21	SNOMED T1	1187425009
+#22	SNOMED T2	128880009
+#23	SNOMED T12	79282002
+#24	SNOMED T9	79282002

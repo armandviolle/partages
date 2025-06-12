@@ -1,0 +1,10 @@
+T1	disease 356 461	lésion ostéolytique bien définie d'environ 2,5 cm de diamètre située au niveau de la branche mandibulaire
+T2	disease 484 490	lésion
+T3	disease 567 603	lésion d'adénocarcinome métastatique
+T4	disease 1015 1038	adénopathies régionales
+T5	disease 1227 1260	origine gastrique de la métastase
+#1	SNOMED T1	94403001
+#2	SNOMED T3	4590003
+#3	SNOMED T4	30746006
+#4	SNOMED T5	94606003
+#5	SNOMED T2	417163006

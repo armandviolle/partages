@@ -1,0 +1,12 @@
+T1	disease 112 133	blépharite antérieure
+T2	disease 239 248	chalazion
+T3	disease 309 335	adénopathie préauriculaire
+T4	disease 457 473	carcinome sébacé
+T5	disease 851 912	adénopathies nécrotiques dans divers territoires lymphatiques
+T6	disease 1135 1186	modifications tumorales dans la paupière inférieure
+#1	SNOMED T1	41446000
+#2	SNOMED T2	1482004
+#3	SNOMED T3	127078001
+#4	SNOMED T5	274741002
+#5	SNOMED T4	126491004
+#6	SNOMED T6	278697001

@@ -1,0 +1,9 @@
+T1	morphology-onco 1480 1493	carcinomatose
+T2	morphology-onco 2054 2071	cellules malignes
+T3	morphology-onco 2426 2435	tumorales
+#1	ICD-O-3.1 T1	8010/9
+#2	ICD-O-3.1 T2	8001/3
+#3	ICD-O-3.1 T3	8000/1
+#4	SNOMED T1	307593001
+#5	SNOMED T2	88400008
+#6	SNOMED T3	86251006

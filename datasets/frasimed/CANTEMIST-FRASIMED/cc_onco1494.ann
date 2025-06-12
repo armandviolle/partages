@@ -1,0 +1,96 @@
+T1	morphology-onco 656 662	cancer
+T2	morphology-onco 693 699	cancer
+T3	morphology-onco 778 784	cancer
+T4	morphology-onco 2015 2033	lésions hépatiques
+T5	morphology-onco 2597 2624	néoplasie du sigma T4-N2-M1
+T6	morphology-onco 2900 2906	tumeur
+T7	morphology-onco 2973 3011	tumeur à cellules fusiformes hautement
+T8	morphology-onco 3012 3019	maligne
+T9	morphology-onco 3168 3202	tumeur stromale gastro-intestinale
+T10	morphology-onco 3226 3240	carcinosarcome
+T11	morphology-onco 3429 3445	lésion hépatique
+T12	morphology-onco 3459 3531	métastase hépatique due à une tumeur à cellules fusiformes de haut grade
+T13	morphology-onco 3574 3589	lésion tumorale
+T14	morphology-onco 3604 3654	tumeur à cellules fusiformes maligne de haut grade
+T15	morphology-onco 3604 3694	tumeur à cellules fusiformes maligne de haut grade, probablement de lignée mésenchymateuse
+T16	morphology-onco 3726 3744	cellules tumorales
+T17	morphology-onco 3995 4009	carcinosarcome
+T18	morphology-onco 4108 4136	Carcinosarcome de haut grade
+T19	morphology-onco 4179 4182	cM1
+T20	morphology-onco 4184 4194	métastases
+T21	morphology-onco 4874 4880	tumeur
+T22	morphology-onco 5014 5023	métastase
+T23	morphology-onco 5312 5318	tumeur
+T24	morphology-onco 5391 5397	tumeur
+T25	morphology-onco 5447 5453	tumeur
+T26	morphology-onco 5781 5795	carcinosarcome
+T27	morphology-onco 5897 5903	tumeur
+T28	morphology-onco 6042 6048	tumeur
+T29	morphology-onco 6120 6155	implants tumoraux de carcinosarcome
+T30	morphology-onco 6285 6293	tumorale
+T31	morphology-onco 6353 6367	carcinosarcome
+T32	morphology-onco 6435 6443	tumorale
+T33	morphology-onco 6532 6546	carcinosarcome
+#1	ICD-O-3.1 T19	8000/6
+#2	ICD-O-3.1 T10	8980/3
+#3	ICD-O-3.1 T17	8980/3
+#4	ICD-O-3.1 T26	8980/3
+#5	ICD-O-3.1 T31	8980/3
+#6	ICD-O-3.1 T33	8980/3
+#7	ICD-O-3.1 T1	8000/3
+#8	ICD-O-3.1 T3	8000/3
+#9	ICD-O-3.1 T2	8000/3
+#10	ICD-O-3.1 T16	8001/1
+#11	ICD-O-3.1 T4	8000/6
+#12	ICD-O-3.1 T11	8000/6
+#13	ICD-O-3.1 T8	8000/3
+#14	ICD-O-3.1 T20	8000/6
+#15	ICD-O-3.1 T22	8000/6
+#16	ICD-O-3.1 T27	8000/1
+#17	ICD-O-3.1 T28	8000/1
+#18	ICD-O-3.1 T9	8936/3
+#19	ICD-O-3.1 T7	8004/14
+#20	ICD-O-3.1 T6	8000/1
+#21	ICD-O-3.1 T21	8000/1
+#22	ICD-O-3.1 T23	8000/1
+#23	ICD-O-3.1 T24	8000/1
+#24	ICD-O-3.1 T13	8000/1
+#25	ICD-O-3.1 T25	8000/1
+#26	ICD-O-3.1 T30	8000/1
+#27	ICD-O-3.1 T32	8000/1
+#28	ICD-O-3.1 T5	8000/6
+#29	ICD-O-3.1 T12	8004/64
+#30	ICD-O-3.1 T14	8004/34
+#31	ICD-O-3.1 T15	8800/3
+#32	ICD-O-3.1 T18	8980/34
+#33	ICD-O-3.1 T29	8980/6
+#34	SNOMED T19	14799000
+#35	SNOMED T10	63264007
+#36	SNOMED T17	63264007
+#37	SNOMED T26	63264007
+#38	SNOMED T31	63264007
+#39	SNOMED T33	63264007
+#40	SNOMED T1	1240414004
+#41	SNOMED T3	1240414004
+#42	SNOMED T2	1240414004
+#43	SNOMED T16	39577004
+#44	SNOMED T4	14799000
+#45	SNOMED T11	14799000
+#46	SNOMED T8	1240414004
+#47	SNOMED T20	14799000
+#48	SNOMED T22	14799000
+#49	SNOMED T27	86251006
+#50	SNOMED T28	86251006
+#51	SNOMED T9	128756002
+#52	SNOMED T6	86251006
+#53	SNOMED T21	86251006
+#54	SNOMED T23	86251006
+#55	SNOMED T24	86251006
+#56	SNOMED T13	86251006
+#57	SNOMED T25	86251006
+#58	SNOMED T30	86251006
+#59	SNOMED T32	86251006
+#60	SNOMED T5	14799000
+#61	SNOMED T14	88897007
+#62	SNOMED T15	1187396000
+#63	SNOMED T18	63264007

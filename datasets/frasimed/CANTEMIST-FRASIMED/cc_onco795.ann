@@ -1,0 +1,12 @@
+T1	morphology-onco 1400 1413	carcinomatose
+T2	morphology-onco 1589 1606	cellules malignes
+T3	morphology-onco 1786 1792	cancer
+T4	morphology-onco 2591 2600	néoplasie
+#1	ICD-O-3.1 T1	8010/9
+#2	ICD-O-3.1 T3	8000/3
+#3	ICD-O-3.1 T2	8001/3
+#4	ICD-O-3.1 T4	8000/1
+#5	SNOMED T1	307593001
+#6	SNOMED T3	1240414004
+#7	SNOMED T2	88400008
+#8	SNOMED T4	86251006

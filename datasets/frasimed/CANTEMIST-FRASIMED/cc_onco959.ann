@@ -1,0 +1,42 @@
+T1	morphology-onco 685 703	lésions hépatiques
+T2	morphology-onco 725 735	métastases
+T3	morphology-onco 888 898	métastases
+T4	morphology-onco 950 956	tumeur
+T5	morphology-onco 1299 1348	adénocarcinome infiltrant, modérément différencié
+T6	morphology-onco 1444 1504	adénocarcinome sub-sténosant modérément différencié du côlon
+T7	morphology-onco 1549 1567	atteinte hépatique
+T8	morphology-onco 2597 2603	tumeur
+T9	morphology-onco 2859 2865	tumeur
+T10	morphology-onco 3018 3036	atteinte hépatique
+T11	morphology-onco 3315 3325	métastases
+T12	morphology-onco 3869 3878	néoplasme
+T13	morphology-onco 4012 4039	adénocarcinome de bas grade
+T14	morphology-onco 4283 4289	(LOES)
+#1	ICD-O-3.1 T2	8000/6
+#2	ICD-O-3.1 T3	8000/6
+#3	ICD-O-3.1 T11	8000/6
+#4	ICD-O-3.1 T12	8000/1
+#5	ICD-O-3.1 T8	8000/1
+#6	ICD-O-3.1 T9	8000/1
+#7	ICD-O-3.1 T4	8000/1
+#8	ICD-O-3.1 T5	8140/32/H
+#9	ICD-O-3.1 T6	8140/32
+#10	ICD-O-3.1 T7	8000/6
+#11	ICD-O-3.1 T10	8000/6
+#12	ICD-O-3.1 T13	8140/31
+#13	ICD-O-3.1 T1	8000/6
+#14	ICD-O-3.1 T14	8000/6
+#15	SNOMED T2	14799000
+#16	SNOMED T3	14799000
+#17	SNOMED T11	14799000
+#18	SNOMED T12	86251006
+#19	SNOMED T8	86251006
+#20	SNOMED T9	86251006
+#21	SNOMED T4	86251006
+#22	SNOMED T5	1187332001
+#23	SNOMED T6	1187332001
+#24	SNOMED T7	14799000
+#25	SNOMED T10	14799000
+#26	SNOMED T13	1187332001
+#27	SNOMED T1	14799000
+#28	SNOMED T14	14799000

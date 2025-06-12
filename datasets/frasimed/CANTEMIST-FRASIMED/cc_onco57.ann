@@ -1,0 +1,27 @@
+T1	morphology-onco 859 879	carcinome papillaire
+T2	morphology-onco 908 928	Carcinome papillaire
+T3	morphology-onco 1112 1121	malignité
+T4	morphology-onco 1420 1432	métastatique
+T5	morphology-onco 1462 1482	carcinome papillaire
+T6	morphology-onco 1977 1984	tumeurs
+T7	morphology-onco 2226 2235	néoplasme
+T8	morphology-onco 3536 3548	métastatique
+T9	morphology-onco 3690 3702	métastatique
+#1	ICD-O-3.1 T5	8050/3
+#2	ICD-O-3.1 T3	8000/3
+#3	ICD-O-3.1 T4	8000/6
+#4	ICD-O-3.1 T7	8000/1
+#5	ICD-O-3.1 T6	8000/1
+#6	ICD-O-3.1 T1	8260/3
+#7	ICD-O-3.1 T2	8260/3
+#8	ICD-O-3.1 T8	8000/6
+#9	ICD-O-3.1 T9	8000/6
+#10	SNOMED T5	25910003
+#11	SNOMED T3	1240414004
+#12	SNOMED T4	14799000
+#13	SNOMED T7	86251006
+#14	SNOMED T6	86251006
+#15	SNOMED T1	4797003
+#16	SNOMED T2	4797003
+#17	SNOMED T8	14799000
+#18	SNOMED T9	14799000

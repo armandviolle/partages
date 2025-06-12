@@ -1,0 +1,24 @@
+T1	disease 83 109	crise généralisée complexe
+T2	disease 767 784	trouble bipolaire
+T3	disease 1394 1408	crise afébrile
+T4	disease 1625 1643	arrêt respiratoire
+T5	disease 2381 2400	méningo-encéphalite
+T6	disease 2613 2620	rubéole
+T7	disease 2625 2630	lupus
+T8	disease 2666 2675	varicelle
+T9	disease 2715 2724	oreillons
+T10	disease 2744 2752	rougeole
+T11	disease 2948 2979	épisodes convulsifs généralisés
+T12	disease 3303 3342	saignement ou de lésions d'hyperdensité
+#1	SNOMED T3	444229001
+#2	SNOMED T1	4619009
+#3	SNOMED T11	128613002
+#4	SNOMED T4	87317003
+#5	SNOMED T2	13746004
+#6	SNOMED T12	131148009
+#7	SNOMED T5	7125002
+#8	SNOMED T7	76272004
+#9	SNOMED T9	36989005
+#10	SNOMED T6	36653000
+#11	SNOMED T10	14189004
+#12	SNOMED T8	38907003

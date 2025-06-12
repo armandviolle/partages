@@ -1,0 +1,16 @@
+T1	disease 48 87	IRC secondaire à une polykystose rénale
+T2	disease 69 87	polykystose rénale
+T3	disease 198 253	complications de la greffe, il a présenté un rejet aigu
+T4	disease 421 476	perte du greffon rénal due à une néphropathie chronique
+T5	disease 454 476	néphropathie chronique
+T6	disease 494 517	hépatite "non-A, non-B"
+T7	disease 1110 1131	rejet aigu du greffon
+T8	disease 1287 1316	érythème polymorphe exsudatif
+#1	SNOMED T1	723190009+253883006
+#2	SNOMED T2	253883006
+#3	SNOMED T3	213148006
+#4	SNOMED T4	236578006
+#5	SNOMED T5	709044004
+#6	SNOMED T6	50711007
+#7	SNOMED T8	36715001
+#8	SNOMED T7	26522000

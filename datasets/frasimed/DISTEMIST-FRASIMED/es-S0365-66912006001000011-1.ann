@@ -1,0 +1,6 @@
+T1	disease 664 670	ptosis
+T2	disease 2183 2208	mucocèle du sinus frontal
+T3	disease 2339 2355	hypersensibilité
+#1	SNOMED T2	10674591000119108
+#2	SNOMED T3	421961002
+#3	SNOMED T1	11934000

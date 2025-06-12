@@ -1,0 +1,16 @@
+T1	disease 98 199	projectile (calibre 9 mm.), provenant d'un tir accidentel au pistolet, à bout portant, dans la cuisse
+T2	disease 334 438	fracture du tiers distal du fémur droit, ouverte de type III de Gustilo, comminutive et sans déplacement
+T3	disease 474 480	lésion
+T4	disease 545 564	plaies de la cuisse
+T5	disease 981 1026	fracture comminutive du tiers distal du fémur
+T6	disease 1942 1993	retard de guérison au niveau du site de la fracture
+T7	disease 2051 2103	absence de guérison au niveau du site de la fracture
+T8	disease 2521 2553	contracture d'extension du genou
+#1	SNOMED T2	208591002
+#2	SNOMED T6	281466008
+#3	SNOMED T5	263232003
+#4	SNOMED T7	281466008
+#5	SNOMED T8	239739005
+#6	SNOMED T4	7523003
+#7	SNOMED T3	157670007
+#8	SNOMED T1	243005007

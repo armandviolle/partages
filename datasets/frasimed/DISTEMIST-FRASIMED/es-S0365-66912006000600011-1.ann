@@ -1,0 +1,24 @@
+T1	disease 156 169	petite taille
+T2	disease 195 208	brachymorphie
+T3	disease 216 249	brachydactylie des quatre membres
+T4	disease 489 509	diplopie monoculaire
+T5	disease 756 784	iridophacodonésie bilatérale
+T6	disease 812 829	microsphérophakie
+T7	disease 1213 1232	fermeture angulaire
+T8	disease 1392 1400	diplopie
+T9	disease 1641 1662	dommages glaucomateux
+T10	disease 1874 1886	sphérophakie
+T11	disease 1892 1905	brachymorphie
+T12	disease 1913 1927	brachydactylie
+#1	SNOMED T2	276654001
+#2	SNOMED T3	43476002
+#3	SNOMED T4	50446000
+#4	SNOMED T5	116669003
+#5	SNOMED T7	1111561000000108
+#6	SNOMED T8	24982008
+#7	SNOMED T9	23986001
+#8	SNOMED T10	4465002
+#9	SNOMED T11	276654001
+#10	SNOMED T12	43476002
+#11	SNOMED T6	416671000
+#12	SNOMED T1	237836003

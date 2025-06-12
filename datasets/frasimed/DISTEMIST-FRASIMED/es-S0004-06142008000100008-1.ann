@@ -1,0 +1,10 @@
+T1	disease 46 53	fumeuse
+T2	disease 150 179	infections urinaires répétées
+T3	disease 230 260	lésion nodulaire intravésicale
+T4	disease 362 368	tumeur
+T5	disease 2099 2150	tumeur inflammatoire myofibroblastique de la vessie
+#1	SNOMED T4	300848003
+#2	SNOMED T1	77176002
+#3	SNOMED T5	771233008
+#4	SNOMED T2	197927001
+#5	SNOMED T3	126885006

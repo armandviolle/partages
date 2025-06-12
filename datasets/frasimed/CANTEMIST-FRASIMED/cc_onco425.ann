@@ -1,0 +1,36 @@
+T1	morphology-onco 228 234	tumeur
+T2	morphology-onco 420 426	tumeur
+T3	morphology-onco 501 519	thymome de type B1
+T4	morphology-onco 1142 1162	progression pleurale
+T5	morphology-onco 1561 1578	lésions pleurales
+T6	morphology-onco 1684 1709	maladie au niveau pleural
+T7	morphology-onco 2331 2364	maladie locorégionale et pleurale
+T8	morphology-onco 2548 2574	thymome invasif de type B2
+T9	morphology-onco 2756 2809	progression a été observée au niveau pleuropulmonaire
+T10	morphology-onco 2846 2871	implants intra-abdominaux
+T11	morphology-onco 4173 4180	thymome
+T12	morphology-onco 5469 5475	tumeur
+#1	ICD-O-3.1 T1	8000/1
+#2	ICD-O-3.1 T12	8000/1
+#3	ICD-O-3.1 T2	8000/1
+#4	ICD-O-3.1 T3	8583/1
+#5	ICD-O-3.1 T8	8584/3
+#6	ICD-O-3.1 T10	8000/6
+#7	ICD-O-3.1 T11	8580/1
+#8	ICD-O-3.1 T5	8000/6
+#9	ICD-O-3.1 T4	8000/6
+#10	ICD-O-3.1 T9	8000/6
+#11	ICD-O-3.1 T7	8000/6
+#12	ICD-O-3.1 T6	8000/6
+#13	SNOMED T1	86251006
+#14	SNOMED T12	86251006
+#15	SNOMED T2	86251006
+#16	SNOMED T3	128711009
+#17	SNOMED T8	128714001
+#18	SNOMED T10	14799000
+#19	SNOMED T11	1187428006
+#20	SNOMED T5	14799000
+#21	SNOMED T4	14799000
+#22	SNOMED T9	14799000
+#23	SNOMED T7	14799000
+#24	SNOMED T6	14799000

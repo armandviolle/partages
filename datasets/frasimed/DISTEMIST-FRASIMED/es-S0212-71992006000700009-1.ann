@@ -1,0 +1,23 @@
+T1	disease 97 121	syndrome postphlébitique
+T2	disease 262 278	septicémie grave
+T3	disease 313 336	hypertension artérielle
+T4	disease 342 349	obésité
+T5	disease 355 363	arthrose
+T6	disease 385 411	adénome tubulaire du côlon
+T7	disease 467 545	cholécystite lithiasique avec un important plastron inflammatoire subhépatique
+T8	disease 645 657	TVP de l'IBD
+T9	disease 667 670	PTE
+T10	disease 690 714	fibrillation auriculaire
+T11	disease 1038 1060	hypotension artérielle
+T12	disease 1381 1390	thrombose
+T13	disease 1637 1666	septicémie d'origine biliaire
+T14	disease 2013 2018	abcès
+T15	disease 2110 2158	endocardite au niveau de la sous-valvule mitrale
+T16	disease 2308 2324	lésion hépatique
+T17	disease 2351 2381	dilatation des voies biliaires
+T18	disease 2528 2532	SDMB
+T19	disease 2658 2691	cholangiocarcinome multicentrique
+T20	disease 2743 2831	extension locale au lit de la vésicule biliaire et aux canaux biliaires extra-hépatiques
+T21	disease 2837 2903	métastases régionales aux ganglions lymphatiques du hile hépatique
+T22	disease 3053 3090	surinfection par Enterobacter cloacae
+T23	disease 3213 3229	tableau septique

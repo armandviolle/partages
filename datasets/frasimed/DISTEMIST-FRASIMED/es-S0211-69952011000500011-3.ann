@@ -1,0 +1,12 @@
+T1	disease 20 40	diabétique de type 2
+T2	disease 129 135	fumeur
+T3	disease 145 160	buveur régulier
+T4	disease 196 213	pancréatite aiguë
+T5	disease 275 291	épisode syncopal
+T6	disease 632 643	hypotension
+#1	SNOMED T1	44054006
+#2	SNOMED T2	77176002
+#3	SNOMED T3	228320001
+#4	SNOMED T4	197456007
+#5	SNOMED T5	271594007
+#6	SNOMED T6	45007003

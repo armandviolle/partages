@@ -1,0 +1,9 @@
+T1	morphology-onco 560 601	carcinome épidermoïde pulmonaire cT4N2M1a
+T2	morphology-onco 603 613	métastases
+T3	morphology-onco 2430 2438	tumorale
+#1	ICD-O-3.1 T2	8000/6
+#2	ICD-O-3.1 T1	8070/6
+#3	ICD-O-3.1 T3	8000/1
+#4	SNOMED T2	14799000
+#5	SNOMED T1	403906006
+#6	SNOMED T3	86251006

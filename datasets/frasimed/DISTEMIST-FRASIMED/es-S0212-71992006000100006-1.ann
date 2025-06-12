@@ -1,0 +1,26 @@
+T1	disease 216 270	infections virales des voies respiratoires supérieures
+T2	disease 334 358	mononucléose infectieuse
+T3	disease 381 401	symptômes catarrhaux
+T4	disease 596 614	obstruction nasale
+T5	disease 1121 1185	éruption maculaire et érythémateuse affectant le tronc et le cou
+T6	disease 1206 1247	adénopathies larynocervicales, axillaires
+T7	disease 2045 2053	sinusite
+T8	disease 2057 2066	méningite
+T9	disease 2323 2331	sinusite
+T10	disease 2401 2429	thrombose du sinus caverneux
+T11	disease 2432 2443	encéphalite
+T12	disease 2560 2578	sinusopathie aiguë
+T13	disease 2607 2627	sinusite sphénoïdale
+#1	SNOMED T13	13266007
+#2	SNOMED T1	54150009
+#3	SNOMED T7	36971009
+#4	SNOMED T2	271558008
+#5	SNOMED T8	7180009
+#6	SNOMED T3	82272006
+#7	SNOMED T6	127189005
+#8	SNOMED T9	36971009
+#9	SNOMED T10	89980009
+#10	SNOMED T11	45170000
+#11	SNOMED T12	7393007
+#12	SNOMED T5	89757007
+#13	SNOMED T4	232209000

@@ -1,0 +1,4 @@
+T1	disease 109 126	récidive tumorale
+T2	disease 381 392	hypotension
+#1	SNOMED T1	25173007
+#2	SNOMED T2	45007003

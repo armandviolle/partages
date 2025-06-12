@@ -1,0 +1,28 @@
+T1	disease 64 77	cyphoscoliose
+T2	disease 81 118	insuffisance respiratoire restrictive
+T3	disease 125 138	diverticulose
+T4	disease 166 216	péritonite secondaire à une diverticulite perforée
+T5	disease 194 216	diverticulite perforée
+T6	disease 294 316	fistule entéro-cutanée
+T7	disease 1511 1525	déshydratation
+T8	disease 1531 1556	insuffisance rénale aiguë
+T9	disease 1562 1581	acidose métabolique
+T10	disease 1587 1599	hyponatrémie
+T11	disease 1607 1628	hyperkaliémie sévères
+T12	disease 1664 1692	insuffisance surrénale aiguë
+T13	disease 2105 2126	occlusion intestinale
+T14	disease 2303 2315	hyponatrémie
+T15	disease 2321 2334	hyperkaliémie
+T16	disease 3050 3068	paraparésie en MSI
+T17	disease 3395 3422	encéphalopathie métabolique
+T18	disease 3462 3492	état épileptique non convulsif
+T19	disease 3786 3794	arythmie
+T20	disease 3890 3913	hypophosphatémie sévère
+T21	disease 3919 3933	hypomagnésémie
+T22	disease 3937 3949	hypokaliémie
+T23	disease 4448 4476	intoxication à la phénytoïne
+T24	disease 4518 4572	septicémie due à Candida spp. liée au cathéter central
+T25	disease 4783 4805	insuffisance surrénale
+T26	disease 4848 4862	déshydratation
+T27	disease 5059 5081	insuffisance surrénale
+T28	disease 5289 5311	fistule entéro-cutanée

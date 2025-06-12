@@ -1,0 +1,45 @@
+T1	morphology-onco 514 520	cancer
+T2	morphology-onco 586 592	cancer
+T3	morphology-onco 666 672	cancer
+T4	morphology-onco 1080 1125	carcinome lobulaire du sein gauche de grade 2
+T5	morphology-onco 1317 1335	cellules tumorales
+T6	morphology-onco 1493 1512	carcinome lobulaire
+T7	morphology-onco 1535 1542	tumoral
+T8	morphology-onco 2138 2144	tumeur
+T9	morphology-onco 2239 2269	Carcinome lobulaire infiltrant
+T10	morphology-onco 2463 2469	cancer
+T11	morphology-onco 2575 2581	cancer
+T12	morphology-onco 3057 3063	cancer
+T13	morphology-onco 3154 3160	cancer
+T14	morphology-onco 3220 3250	carcinome lobulaire infiltrant
+T15	morphology-onco 3547 3558	néoplasique
+#1	ICD-O-3.1 T9	8520/3
+#2	ICD-O-3.1 T6	8520/3
+#3	ICD-O-3.1 T14	8520/3
+#4	ICD-O-3.1 T1	8000/3
+#5	ICD-O-3.1 T2	8000/3
+#6	ICD-O-3.1 T3	8000/3
+#7	ICD-O-3.1 T10	8000/3
+#8	ICD-O-3.1 T11	8000/3
+#9	ICD-O-3.1 T12	8000/3
+#10	ICD-O-3.1 T13	8000/3
+#11	ICD-O-3.1 T5	8001/1
+#12	ICD-O-3.1 T8	8000/1
+#13	ICD-O-3.1 T7	8000/1
+#14	ICD-O-3.1 T4	8520/32
+#15	ICD-O-3.1 T15	8000/1
+#16	SNOMED T9	278054005
+#17	SNOMED T6	278054005
+#18	SNOMED T14	278054005
+#19	SNOMED T1	1240414004
+#20	SNOMED T2	1240414004
+#21	SNOMED T3	1240414004
+#22	SNOMED T10	1240414004
+#23	SNOMED T11	1240414004
+#24	SNOMED T12	1240414004
+#25	SNOMED T13	1240414004
+#26	SNOMED T5	39577004
+#27	SNOMED T8	86251006
+#28	SNOMED T7	86251006
+#29	SNOMED T4	278054005
+#30	SNOMED T15	86251006

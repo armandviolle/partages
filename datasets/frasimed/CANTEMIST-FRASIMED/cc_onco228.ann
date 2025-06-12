@@ -1,0 +1,15 @@
+T1	morphology-onco 323 337	adénocarcinome
+T2	morphology-onco 349 355	TxN3M0
+T3	morphology-onco 1641 1713	maladie dans les ganglions lymphatiques axillaires et supraclaviculaires
+T4	morphology-onco 2724 2738	adénocarcinome
+T5	morphology-onco 5369 5377	tumorale
+#1	ICD-O-3.1 T1	8140/3
+#2	ICD-O-3.1 T4	8140/3
+#3	ICD-O-3.1 T5	8000/1
+#4	ICD-O-3.1 T2	8000/6
+#5	ICD-O-3.1 T3	8000/6
+#6	SNOMED T1	1187332001
+#7	SNOMED T4	1187332001
+#8	SNOMED T5	86251006
+#9	SNOMED T2	14799000
+#10	SNOMED T3	14799000

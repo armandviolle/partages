@@ -1,0 +1,9 @@
+T1	morphology-onco 317 353	lymphome diffus à grandes cellules B
+T2	morphology-onco 1487 1501	lymphomateuses
+T3	morphology-onco 1726 1796	Lymphome diffus à grandes cellules B de haut grade CD 20+, non Hodking
+#1	ICD-O-3.1 T2	9590/3
+#2	ICD-O-3.1 T1	9680/3
+#3	ICD-O-3.1 T3	9680/34
+#4	SNOMED T2	1163043007
+#5	SNOMED T1	1172695008
+#6	SNOMED T3	1172695008

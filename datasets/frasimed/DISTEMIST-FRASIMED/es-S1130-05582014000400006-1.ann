@@ -1,0 +1,14 @@
+T1	disease 63 86	hypertension artérielle
+T2	disease 104 128	maladie rénale chronique
+T3	disease 290 299	dysphagie
+T4	disease 1109 1148	édentulisme maxillomandibulaire partiel
+T5	disease 1154 1195	maladie parodontale chronique généralisée
+T6	disease 1374 1385	glossoptose
+T7	disease 1896 1912	angine de Ludwig
+#1	SNOMED T1	38341003
+#2	SNOMED T2	709044004
+#3	SNOMED T4	444818007
+#4	SNOMED T7	196542004
+#5	SNOMED T5	128285007
+#6	SNOMED T6	3639002
+#7	SNOMED T3	288939007

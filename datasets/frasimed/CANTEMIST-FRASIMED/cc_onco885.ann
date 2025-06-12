@@ -1,0 +1,30 @@
+T1	morphology-onco 310 328	maladie à distance
+T2	morphology-onco 556 562	tumeur
+T3	morphology-onco 686 726	tumeur germinale mixte non séminomateuse
+T4	morphology-onco 728 733	NSGCT
+T5	morphology-onco 743 765	carcinome embryonnaire
+T6	morphology-onco 773 801	tumeur du sinus endodermique
+T7	morphology-onco 2015 2022	maligne
+T8	morphology-onco 2252 2256	NSTE
+T9	morphology-onco 2293 2309	tumeur germinale
+T10	morphology-onco 4346 4361	tératome mature
+#1	ICD-O-3.1 T4	9065/3
+#2	ICD-O-3.1 T8	9065/3
+#3	ICD-O-3.1 T5	9070/3
+#4	ICD-O-3.1 T1	8000/6
+#5	ICD-O-3.1 T7	8000/3
+#6	ICD-O-3.1 T2	8000/1
+#7	ICD-O-3.1 T6	9071/3
+#8	ICD-O-3.1 T9	9064/3
+#9	ICD-O-3.1 T3	9065/3/H
+#10	ICD-O-3.1 T10	9080/0
+#11	SNOMED T4	128766005
+#12	SNOMED T8	128766005
+#13	SNOMED T5	28047004
+#14	SNOMED T1	14799000
+#15	SNOMED T7	1240414004
+#16	SNOMED T2	86251006
+#17	SNOMED T6	74409009
+#18	SNOMED T9	28307001
+#19	SNOMED T3	128766005
+#20	SNOMED T10	42717009

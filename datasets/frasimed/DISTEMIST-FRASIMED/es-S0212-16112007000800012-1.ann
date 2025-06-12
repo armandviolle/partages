@@ -1,0 +1,36 @@
+T1	disease 165 180	ascite chyleuse
+T2	disease 273 279	ascite
+T3	disease 407 426	néoplasie ovarienne
+T4	disease 444 481	liquide ascitique à caractère chyleux
+T5	disease 526 551	carcinomatose péritonéale
+T6	disease 1221 1236	hypoprotéinémie
+T7	disease 1244 1259	hypoalbuminémie
+T8	disease 1265 1277	hypocalcémie
+T9	disease 1800 1846	ascite dans tous les compartiments péritonéaux
+T10	disease 1851 1893	œdème dans les boucles de l'intestin grêle
+T11	disease 1941 1969	liquide ascitique péritonéal
+T12	disease 2634 2668	hyperplasie folliculaire lymphoïde
+T13	disease 2674 2697	lymphangiectasie focale
+T14	disease 3000 3037	lymphangiectasie intestinale primaire
+T15	disease 3376 3393	liquide ascitique
+T16	disease 3832 3850	habitudes toxiques
+T17	disease 5204 5248	liquide libre n'a été observé dans l'abdomen
+T18	disease 5322 5328	ascite
+#1	SNOMED T9	389026000
+#2	SNOMED T15	13124004
+#3	SNOMED T1	52985009
+#4	SNOMED T14	6124009
+#5	SNOMED T11	389026000
+#6	SNOMED T6	8900005
+#7	SNOMED T7	119247004
+#8	SNOMED T2	389026000
+#9	SNOMED T8	5291005
+#10	SNOMED T3	123843001
+#11	SNOMED T4	52985009
+#12	SNOMED T18	389026000
+#13	SNOMED T5	255121007
+#14	SNOMED T12	76616003
+#15	SNOMED T13	125281004
+#16	SNOMED T17	389026000
+#17	SNOMED T16	228272008
+#18	SNOMED T10	119522002

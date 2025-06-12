@@ -1,0 +1,38 @@
+T1	morphology-onco 579 609	nodules pulmonaires bilatéraux
+T2	morphology-onco 848 857	carcinome
+T3	morphology-onco 2745 2773	carcinome corticosurrénalien
+T4	morphology-onco 2884 2892	tumoraux
+T5	morphology-onco 2988 3055	Carcinome corticosurrénalien produisant de la testostérone pT3pN0M1
+T6	morphology-onco 3061 3071	métastases
+T7	morphology-onco 3745 3751	tumeur
+T8	morphology-onco 4415 4425	métastases
+T9	morphology-onco 4479 4497	lésions hépatiques
+T10	morphology-onco 4543 4549	tumeur
+T11	morphology-onco 5653 5672	nodules pulmonaires
+T12	morphology-onco 6182 6192	métastases
+T13	morphology-onco 6260 6278	lésions hépatiques
+#1	ICD-O-3.1 T2	8010/3
+#2	ICD-O-3.1 T9	8000/6
+#3	ICD-O-3.1 T13	8000/6
+#4	ICD-O-3.1 T6	8000/6
+#5	ICD-O-3.1 T8	8000/6
+#6	ICD-O-3.1 T12	8000/6
+#7	ICD-O-3.1 T11	8000/6
+#8	ICD-O-3.1 T1	8000/6
+#9	ICD-O-3.1 T7	8000/1
+#10	ICD-O-3.1 T10	8000/1
+#11	ICD-O-3.1 T4	8000/1
+#12	ICD-O-3.1 T3	8370/3
+#13	ICD-O-3.1 T5	8370/6
+#14	SNOMED T2	1187425009
+#15	SNOMED T9	14799000
+#16	SNOMED T13	14799000
+#17	SNOMED T6	14799000
+#18	SNOMED T8	14799000
+#19	SNOMED T12	14799000
+#20	SNOMED T11	14799000
+#21	SNOMED T1	14799000
+#22	SNOMED T7	86251006
+#23	SNOMED T10	86251006
+#24	SNOMED T4	86251006
+#25	SNOMED T3	2227007

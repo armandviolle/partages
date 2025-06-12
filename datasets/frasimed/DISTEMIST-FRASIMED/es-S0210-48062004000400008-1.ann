@@ -1,0 +1,32 @@
+T1	disease 23 32	ex-fumeur
+T2	disease 76 108	polype adénomateux dans le côlon
+T3	disease 114 130	hernie inguinale
+T4	disease 138 159	varices œsophagiennes
+T5	disease 209 249	anémie hypochrome microcytaire chronique
+T6	disease 732 745	hypernéphrome
+T7	disease 788 847	thrombose de la veine rénale et de la veine cave inférieure
+T8	disease 884 895	adénopathie
+T9	disease 959 968	métastase
+T10	disease 986 999	hypernéphrome
+T11	disease 1199 1313	carcinome rénal à cellules claires, de 8 cm de diamètre, avec invasion tumorale de l'uretère et de la veine rénale
+T12	disease 1560 1570	métastases
+T13	disease 2136 2143	lésions
+T14	disease 2199 2240	métastase de carcinome à cellules claires
+T15	disease 2310 2348	infiltrant la vertèbre au niveau C7-D1
+T16	disease 2501 2546	syndrome de compression de la moelle épinière
+#1	SNOMED T10	702391001
+#2	SNOMED T1	8517006
+#3	SNOMED T11	734015000+94659001
+#4	SNOMED T6	702391001
+#5	SNOMED T2	428054006
+#6	SNOMED T16	71286001
+#7	SNOMED T14	128462008
+#8	SNOMED T12	128462008
+#9	SNOMED T3	396232000
+#10	SNOMED T4	28670008
+#11	SNOMED T7	281595001+15842009
+#12	SNOMED T5	44666001
+#13	SNOMED T9	128462008
+#14	SNOMED T13	157670007
+#15	SNOMED T8	30746006
+#16	SNOMED T15	94602001

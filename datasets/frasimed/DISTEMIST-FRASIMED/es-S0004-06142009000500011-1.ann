@@ -1,0 +1,24 @@
+T1	disease 67 90	hypertension artérielle
+T2	disease 96 116	hypercholestérolémie
+T3	disease 133 172	insuffisance rénale chronique terminale
+T4	disease 205 225	anémie néphrogénique
+T5	disease 284 313	hyperparathyroïdie secondaire
+T6	disease 745 758	diabète sucré
+T7	disease 806 853	toxicité due aux inhibiteurs de la calcineurine
+T8	disease 1524 1546	collection péri-greffe
+T9	disease 2018 2028	lymphocèle
+T10	disease 2085 2094	infection
+T11	disease 2106 2116	lymphocèle
+T12	disease 2361 2371	lymphocele
+#1	SNOMED T12	234109007
+#2	SNOMED T1	38341003
+#3	SNOMED T2	13644009
+#4	SNOMED T11	234109007
+#5	SNOMED T3	723190009
+#6	SNOMED T6	73211009
+#7	SNOMED T4	234348004
+#8	SNOMED T7	702702004
+#9	SNOMED T9	234109007
+#10	SNOMED T5	91478007
+#11	SNOMED T10	40733004
+#12	SNOMED T8	128071005

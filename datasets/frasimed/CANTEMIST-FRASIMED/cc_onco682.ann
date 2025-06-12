@@ -1,0 +1,45 @@
+T1	morphology-onco 99 128	carcinome épidermoïde in situ
+T2	morphology-onco 1011 1017	naevus
+T3	morphology-onco 1037 1043	Tumeur
+T4	morphology-onco 1763 1773	métastases
+T5	morphology-onco 1899 1909	métastases
+T6	morphology-onco 1944 1965	masses de tissus mous
+T7	morphology-onco 2137 2145	mélanome
+T8	morphology-onco 2751 2759	tumorale
+T9	morphology-onco 3049 3057	tumorale
+T10	morphology-onco 3120 3127	maligne
+T11	morphology-onco 3183 3191	Mélanome
+T12	morphology-onco 4643 4659	lésions osseuses
+T13	morphology-onco 4733 4754	masses de tissus mous
+T14	morphology-onco 6277 6300	maladie dans le cerveau
+T15	morphology-onco 6422 6429	maligne
+#1	ICD-O-3.1 T11	8720/3
+#2	ICD-O-3.1 T3	8000/1
+#3	ICD-O-3.1 T12	8000/6
+#4	ICD-O-3.1 T10	8000/3
+#5	ICD-O-3.1 T15	8000/3
+#6	ICD-O-3.1 T7	8720/3
+#7	ICD-O-3.1 T4	8000/6
+#8	ICD-O-3.1 T5	8000/6
+#9	ICD-O-3.1 T2	8720/0
+#10	ICD-O-3.1 T9	8000/1
+#11	ICD-O-3.1 T8	8000/1
+#12	ICD-O-3.1 T1	8070/2
+#13	ICD-O-3.1 T14	8000/6
+#14	ICD-O-3.1 T6	8000/6
+#15	ICD-O-3.1 T13	8000/6
+#16	SNOMED T11	1162635006
+#17	SNOMED T3	86251006
+#18	SNOMED T12	14799000
+#19	SNOMED T10	1240414004
+#20	SNOMED T15	1240414004
+#21	SNOMED T7	1162635006
+#22	SNOMED T4	14799000
+#23	SNOMED T5	14799000
+#24	SNOMED T2	400010006
+#25	SNOMED T9	86251006
+#26	SNOMED T8	86251006
+#27	SNOMED T1	1162893000
+#28	SNOMED T14	14799000
+#29	SNOMED T6	14799000
+#30	SNOMED T13	14799000

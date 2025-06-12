@@ -1,0 +1,18 @@
+T1	disease 120 141	hématurie autolimitée
+T2	disease 304 310	lésion
+T3	disease 433 529	deux petites lésions surélevées ont été observées du côté droit, en dehors de l'orifice urétéral
+T4	disease 610 630	lésion inflammatoire
+T5	disease 705 712	lésions
+T6	disease 796 813	lésions vésicales
+T7	disease 882 899	léiomyome vésical
+T8	disease 914 920	lésion
+T9	disease 1248 1255	lésions
+#1	SNOMED T1	53298000
+#2	SNOMED T3	428090004
+#3	SNOMED T6	300457003
+#4	SNOMED T7	146801000119103
+#5	SNOMED T5	157670007
+#6	SNOMED T9	157670007
+#7	SNOMED T2	417163006
+#8	SNOMED T4	708039003
+#9	SNOMED T8	417163006

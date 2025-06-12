@@ -1,0 +1,18 @@
+T1	disease 42 62	retard mental sévère
+T2	disease 69 111	surdité-mutisme secondaire à une méningite
+T3	disease 102 111	méningite
+T4	disease 764 781	cavités kystiques
+T5	disease 844 851	orchite
+T6	disease 1127 1149	néoplasie testiculaire
+T7	disease 1626 1644	hypospermatogenèse
+T8	disease 1709 1742	processus inflammatoire chronique
+T9	disease 2183 2216	LEMP testiculaire et épididymaire
+#1	SNOMED T5	29077001
+#2	SNOMED T9	716766007
+#3	SNOMED T1	40700009
+#4	SNOMED T2	698614006+7180009
+#5	SNOMED T3	7180009
+#6	SNOMED T6	126900000
+#7	SNOMED T7	713919009
+#8	SNOMED T4	367643001
+#9	SNOMED T8	84499006

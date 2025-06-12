@@ -1,0 +1,26 @@
+T1	disease 39 62	hypertension artérielle
+T2	disease 67 91	fibrillation auriculaire
+T3	disease 126 139	diabète sucré
+T4	disease 145 174	insuffisance rénale chronique
+T5	disease 202 255	ictère obstructif secondaire à une cholédocholithiase
+T6	disease 237 255	cholédocholithiase
+T7	disease 721 740	contusion splénique
+T8	disease 1081 1159	2000 ml d'hémopéritoine en raison d'une déchirure du bord antérieur de la rate
+T9	disease 1121 1159	déchirure du bord antérieur de la rate
+T10	disease 1391 1412	perforation duodénale
+T11	disease 1464 1477	choc septique
+T12	disease 1487 1506	péritonite biliaire
+T13	disease 1611 1659	fistule biliaire due à la sortie du tube de Kher
+#1	SNOMED T5	44018007
+#2	SNOMED T1	38341003
+#3	SNOMED T11	76571007
+#4	SNOMED T6	307132003
+#5	SNOMED T12	36746002
+#6	SNOMED T2	49436004
+#7	SNOMED T3	73211009
+#8	SNOMED T4	90688005
+#9	SNOMED T13	53206008
+#10	SNOMED T7	262820001
+#11	SNOMED T8	56517003+699013006
+#12	SNOMED T9	262822009
+#13	SNOMED T10	270909006

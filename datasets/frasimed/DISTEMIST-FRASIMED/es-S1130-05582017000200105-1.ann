@@ -1,0 +1,18 @@
+T1	disease 418 424	lésion
+T2	disease 1488 1494	lésion
+T3	disease 1671 1677	lésion
+T4	disease 1723 1747	croissance adénopathique
+T5	disease 1808 1818	métastases
+T6	disease 2070 2076	lésion
+T7	disease 2336 2342	lésion
+T8	disease 2527 2548	infiltration tumorale
+T9	disease 2983 3000	récidive tumorale
+#1	SNOMED T5	128462008
+#2	SNOMED T9	25173007
+#3	SNOMED T8	128462008
+#4	SNOMED T1	417163006
+#5	SNOMED T2	417163006
+#6	SNOMED T3	417163006
+#7	SNOMED T6	417163006
+#8	SNOMED T7	417163006
+#9	SNOMED T4	30746006

@@ -1,0 +1,12 @@
+T1	disease 530 547	molaires incluses
+T2	disease 674 703	infection de cause odontogène
+T3	disease 705 719	péricoronarite
+T4	disease 1409 1425	kyste dentinaire
+T5	disease 1606 1612	lésion
+T6	disease 1865 1870	kyste
+#1	SNOMED T2	40733004
+#2	SNOMED T4	9245008
+#3	SNOMED T3	22240003
+#4	SNOMED T1	196419009
+#5	SNOMED T6	441457006
+#6	SNOMED T5	417163006

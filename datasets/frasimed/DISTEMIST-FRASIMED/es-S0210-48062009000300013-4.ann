@@ -1,0 +1,14 @@
+T1	disease 65 73	Hépatite
+T2	disease 132 142	Cystinurie
+T3	disease 260 263	AHT
+T4	disease 274 323	lithiase de 1 cm dans le calice inférieur du rein
+T5	disease 486 508	hématome subcapsulaire
+T6	disease 564 572	hématome
+T7	disease 673 681	hématome
+#1	SNOMED T1	128241005
+#2	SNOMED T2	85020001
+#3	SNOMED T3	38341003
+#4	SNOMED T5	385494008
+#5	SNOMED T6	385494008
+#6	SNOMED T7	385494008
+#7	SNOMED T4	236708007

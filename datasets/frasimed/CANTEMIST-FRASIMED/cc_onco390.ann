@@ -1,0 +1,18 @@
+T1	morphology-onco 117 196	adénocarcinome de la prostate de stade IV (OSS, HEP) combiné de Gleason 7 (3+4)
+T2	morphology-onco 662 701	adénopathie cervicale, sus-claviculaire
+T3	morphology-onco 1525 1535	Métastases
+T4	morphology-onco 1832 1842	Métastases
+T5	morphology-onco 2055 2127	adénocarcinome prostatique de grade histologique combiné Gleason 7 (3+4)
+T6	morphology-onco 2141 2230	ADÉNOCARCINOME DE LA PROSTATE DE GRADE HISTOLOGIQUE COMBINÉ GLEASON 7 (3+4) STADE IV (OSS
+#1	ICD-O-3.1 T4	8000/6
+#2	ICD-O-3.1 T1	8140/62
+#3	ICD-O-3.1 T3	8000/6
+#4	ICD-O-3.1 T5	8140/62
+#5	ICD-O-3.1 T2	8000/6
+#6	ICD-O-3.1 T6	8140/62
+#7	SNOMED T4	14799000
+#8	SNOMED T1	4590003
+#9	SNOMED T3	14799000
+#10	SNOMED T5	4590003
+#11	SNOMED T2	14799000
+#12	SNOMED T6	4590003

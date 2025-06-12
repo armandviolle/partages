@@ -1,0 +1,27 @@
+T1	morphology-onco 2207 2221	carcinomateuse
+T2	morphology-onco 2493 2501	mélanome
+T3	morphology-onco 2770 2779	malignité
+T4	morphology-onco 2855 2869	mélanome malin
+T5	morphology-onco 3271 3292	infiltration méningée
+T6	morphology-onco 3336 3344	Mélanome
+T7	morphology-onco 3656 3669	carcinomatose
+T8	morphology-onco 4672 4690	maladie systémique
+T9	morphology-onco 5017 5034	cellules malignes
+#1	ICD-O-3.1 T6	8720/3
+#2	ICD-O-3.1 T7	8010/9
+#3	ICD-O-3.1 T9	8001/3
+#4	ICD-O-3.1 T8	8000/6
+#5	ICD-O-3.1 T3	8000/3
+#6	ICD-O-3.1 T2	8720/3
+#7	ICD-O-3.1 T4	8720/3
+#8	ICD-O-3.1 T1	8010/9
+#9	ICD-O-3.1 T5	8000/6
+#10	SNOMED T6	1162635006
+#11	SNOMED T7	307593001
+#12	SNOMED T9	88400008
+#13	SNOMED T8	14799000
+#14	SNOMED T3	1240414004
+#15	SNOMED T2	1162635006
+#16	SNOMED T4	1162635006
+#17	SNOMED T1	307593001
+#18	SNOMED T5	14799000

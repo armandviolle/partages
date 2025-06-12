@@ -1,0 +1,12 @@
+T1	morphology-onco 1762 1784	tumeur germinale mixte
+T2	morphology-onco 1794 1802	séminome
+T3	morphology-onco 1812 1834	tumeur du sac vitellin
+T4	morphology-onco 2067 2089	tumeur germinale mixte
+#1	ICD-O-3.1 T2	9061/3
+#2	ICD-O-3.1 T3	9071/3
+#3	ICD-O-3.1 T1	9064/3/H
+#4	ICD-O-3.1 T4	9085/3
+#5	SNOMED T2	1162765005
+#6	SNOMED T3	74409009
+#7	SNOMED T1	28307001
+#8	SNOMED T4	32844007

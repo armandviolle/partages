@@ -1,0 +1,90 @@
+T1	morphology-onco 212 218	tumeur
+T2	morphology-onco 434 470	sarcome rétropéritonéal de bas grade
+T3	morphology-onco 1696 1702	tumeur
+T4	morphology-onco 2128 2165	sarcome rétropéritonéal indifférencié
+T5	morphology-onco 2268 2300	Sarcome pléomorphe indifférencié
+T6	morphology-onco 2268 2325	Sarcome pléomorphe indifférencié à phénotype épithélioïde
+T7	morphology-onco 2268 2335	Sarcome pléomorphe indifférencié à phénotype épithélioïde/rhabdoïde
+T8	morphology-onco 2337 2379	tumeur des cellules rondes desmoplastiques
+T9	morphology-onco 2337 2401	tumeur des cellules rondes desmoplastiques à phénotype rhabdoïde
+T10	morphology-onco 2458 2495	sarcome rétropéritonéal indifférencié
+T11	morphology-onco 2950 2962	fibrosarcome
+T12	morphology-onco 2950 2975	fibrosarcome épithélioïde
+T13	morphology-onco 2950 2986	fibrosarcome épithélioïde sclérosant
+T14	morphology-onco 3129 3144	sarcome d'Ewing
+T15	morphology-onco 3151 3198	tumeur desmoplastique à petites cellules rondes
+T16	morphology-onco 3356 3376	sarcome de bas grade
+T17	morphology-onco 3712 3722	métastases
+T18	morphology-onco 4191 4200	métastase
+T19	morphology-onco 4433 4470	progression radiologique dans le foie
+T20	morphology-onco 4587 4619	sarcome pléomorphe indifférencié
+T21	morphology-onco 4587 4645	sarcome pléomorphe indifférencié de phénotype épithélioïde
+T22	morphology-onco 4587 4655	sarcome pléomorphe indifférencié de phénotype épithélioïde/rhabdoïde
+T23	morphology-onco 4728 4767	tumeur desmoplastique à cellules rondes
+T24	morphology-onco 4728 4790	tumeur desmoplastique à cellules rondes de phénotype rhabdoïde
+T25	morphology-onco 4867 4906	tumeur desmoplastique à cellules rondes
+T26	morphology-onco 5377 5392	sarcome d'Ewing
+T27	morphology-onco 6048 6054	tumeur
+T28	morphology-onco 6075 6085	métastases
+T29	morphology-onco 6102 6124	implants mésentériques
+T30	morphology-onco 6514 6529	sarcome d'Ewing
+#1	ICD-O-3.1 T11	8810/3
+#2	ICD-O-3.1 T29	8000/6
+#3	ICD-O-3.1 T17	8000/6
+#4	ICD-O-3.1 T18	8000/6
+#5	ICD-O-3.1 T28	8000/6
+#6	ICD-O-3.1 T1	8000/1
+#7	ICD-O-3.1 T3	8000/1
+#8	ICD-O-3.1 T27	8000/1
+#9	ICD-O-3.1 T2	8800/31
+#10	ICD-O-3.1 T4	8805/3
+#11	ICD-O-3.1 T7	8901/3
+#12	ICD-O-3.1 T8	8806/3
+#13	ICD-O-3.1 T5	8805/3
+#14	ICD-O-3.1 T6	8804/3
+#15	ICD-O-3.1 T9	8963/3
+#16	ICD-O-3.1 T10	8805/3
+#17	ICD-O-3.1 T12	8804/3
+#18	ICD-O-3.1 T14	9260/3
+#19	ICD-O-3.1 T15	8806/3
+#20	ICD-O-3.1 T13	8810/3/H
+#21	ICD-O-3.1 T16	8800/31
+#22	ICD-O-3.1 T19	8000/6
+#23	ICD-O-3.1 T22	8901/3
+#24	ICD-O-3.1 T20	8805/3
+#25	ICD-O-3.1 T21	8804/3
+#26	ICD-O-3.1 T24	8963/3
+#27	ICD-O-3.1 T23	8806/3
+#28	ICD-O-3.1 T25	8806/3
+#29	ICD-O-3.1 T26	9260/3
+#30	ICD-O-3.1 T30	9260/3
+#31	SNOMED T11	53654007
+#32	SNOMED T29	14799000
+#33	SNOMED T17	14799000
+#34	SNOMED T18	14799000
+#35	SNOMED T28	14799000
+#36	SNOMED T1	86251006
+#37	SNOMED T3	86251006
+#38	SNOMED T27	86251006
+#39	SNOMED T2	1187396000
+#40	SNOMED T4	128734000
+#41	SNOMED T7	77455004
+#42	SNOMED T8	1156420003
+#43	SNOMED T5	128734000
+#44	SNOMED T6	59238007
+#45	SNOMED T9	1156418001
+#46	SNOMED T10	128734000
+#47	SNOMED T12	59238007
+#48	SNOMED T14	76909002
+#49	SNOMED T15	1156420003
+#50	SNOMED T13	53654007
+#51	SNOMED T16	1187396000
+#52	SNOMED T19	14799000
+#53	SNOMED T22	77455004
+#54	SNOMED T20	128734000
+#55	SNOMED T21	59238007
+#56	SNOMED T24	1156418001
+#57	SNOMED T23	1156420003
+#58	SNOMED T25	1156420003
+#59	SNOMED T26	76909002
+#60	SNOMED T30	76909002

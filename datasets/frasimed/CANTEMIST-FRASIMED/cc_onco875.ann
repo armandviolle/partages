@@ -1,0 +1,36 @@
+T1	morphology-onco 60 63	CCR
+T2	morphology-onco 239 256	syndrome de Lynch
+T3	morphology-onco 1670 1676	tumeur
+T4	morphology-onco 2168 2181	carcinomatose
+T5	morphology-onco 2444 2461	cellules malignes
+T6	morphology-onco 2465 2479	adénocarcinome
+T7	morphology-onco 2784 2818	tumeur d'origine pancréatobiliaire
+T8	morphology-onco 2977 2991	Adénocarcinome
+T9	morphology-onco 3066 3083	syndrome de Lynch
+T10	morphology-onco 3918 3937	masses péritonéales
+T11	morphology-onco 4044 4050	tumeur
+T12	morphology-onco 4476 4496	implants péritonéaux
+#1	ICD-O-3.1 T8	8140/3
+#2	ICD-O-3.1 T1	8000/3
+#3	ICD-O-3.1 T6	8140/3
+#4	ICD-O-3.1 T4	8010/9
+#5	ICD-O-3.1 T5	8001/3
+#6	ICD-O-3.1 T12	8000/6
+#7	ICD-O-3.1 T11	8000/1
+#8	ICD-O-3.1 T3	8000/1
+#9	ICD-O-3.1 T2	8000/3
+#10	ICD-O-3.1 T7	8163/3
+#11	ICD-O-3.1 T9	8000/3
+#12	ICD-O-3.1 T10	8000/6
+#13	SNOMED T8	1187332001
+#14	SNOMED T1	1240414004
+#15	SNOMED T6	1187332001
+#16	SNOMED T4	307593001
+#17	SNOMED T5	88400008
+#18	SNOMED T12	14799000
+#19	SNOMED T11	86251006
+#20	SNOMED T3	86251006
+#21	SNOMED T2	1240414004
+#22	SNOMED T7	450894009
+#23	SNOMED T9	1240414004
+#24	SNOMED T10	14799000

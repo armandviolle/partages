@@ -1,0 +1,9 @@
+T1	morphology-onco 4997 5005	lymphome
+T2	morphology-onco 6906 6914	lymphome
+T3	morphology-onco 8293 8321	lymphome T cérébral primaire
+#1	ICD-O-3.1 T1	9590/3
+#2	ICD-O-3.1 T2	9590/3
+#3	ICD-O-3.1 T3	9702/3
+#4	SNOMED T1	1163043007
+#5	SNOMED T2	1163043007
+#6	SNOMED T3	1163404000

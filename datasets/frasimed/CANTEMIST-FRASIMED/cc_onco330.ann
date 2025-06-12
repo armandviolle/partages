@@ -1,0 +1,29 @@
+T1	morphology-onco 217 251	cancer du sein droit inflammatoire
+T2	morphology-onco 353 355	M1
+T3	morphology-onco 3075 3082	Adénome
+T4	morphology-onco 4329 4335	tumeur
+T5	morphology-onco 4469 4485	tumeur neurogène
+T6	morphology-onco 4670 4686	tumeur neurogène
+T7	morphology-onco 4754 4774	Cancer inflammatoire
+T8	morphology-onco 4908 4917	Métastase
+T9	morphology-onco 4999 5006	Adénome
+T10	morphology-onco 5576 5610	Métastase d'un carcinome canalaire
+#1	ICD-O-3.1 T3	8140/0
+#2	ICD-O-3.1 T9	8140/0
+#3	ICD-O-3.1 T2	8000/6
+#4	ICD-O-3.1 T8	8000/6
+#5	ICD-O-3.1 T10	8500/6
+#6	ICD-O-3.1 T4	8000/1
+#7	ICD-O-3.1 T1	8000/3/H
+#8	ICD-O-3.1 T5	8000/3/H
+#9	ICD-O-3.1 T6	8000/3/H
+#10	ICD-O-3.1 T7	8000/3/H
+#11	SNOMED T3	1187379001
+#12	SNOMED T9	1187379001
+#13	SNOMED T2	14799000
+#14	SNOMED T8	14799000
+#15	SNOMED T4	86251006
+#16	SNOMED T1	1240414004
+#17	SNOMED T5	1240414004
+#18	SNOMED T6	1240414004
+#19	SNOMED T7	1240414004

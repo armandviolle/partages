@@ -1,0 +1,16 @@
+T1	disease 282 298	orchiépididymite
+T2	disease 392 415	allergie aux sulfamides
+T3	disease 569 588	tumeur testiculaire
+T4	disease 915 924	néoplasie
+T5	disease 1028 1121	tumeur germinale mixte de 2 cm formée par un carcinome embryonnaire et des foyers de tératome
+T6	disease 1073 1095	carcinome embryonnaire
+T7	disease 1113 1121	tératome
+T8	disease 1129 1163	invasion vasculaire ou lymphatique
+T9	disease 1253 1287	tumeur germinale non séminomateuse
+T10	disease 1731 1768	microcalcifications dans le testicule
+T11	disease 1936 1955	tumeur testiculaire
+T12	disease 1960 1970	varicocèle
+T13	disease 2166 2206	séminome de 0,5 cm infiltrant la capsule
+T14	disease 2210 2228	testicule atrophié
+T15	disease 2238 2295	néoplasie étendue des cellules germinales intratubulaires
+T16	disease 2303 2341	infiltration vasculaire ou lymphatique

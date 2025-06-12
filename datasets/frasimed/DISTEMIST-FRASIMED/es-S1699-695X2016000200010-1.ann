@@ -1,0 +1,14 @@
+T1	disease 177 190	otite externe
+T2	disease 812 832	nystagmus horizontal
+T3	disease 1394 1408	blépharospasme
+T4	disease 1452 1482	paralysie faciale périphérique
+T5	disease 1872 1881	nystagmus
+T6	disease 1974 2020	vésicules ont été visualisées dans le pavillon
+T7	disease 2074 2097	syndrome de Ramsay Hunt
+#1	SNOMED T1	3135009
+#2	SNOMED T3	59026006
+#3	SNOMED T4	449916008
+#4	SNOMED T6	82515000+79313003
+#5	SNOMED T7	21954000
+#6	SNOMED T2	81756001
+#7	SNOMED T5	563001

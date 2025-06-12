@@ -1,0 +1,22 @@
+T1	disease 89 118	hémorragie gastro-intestinale
+T2	disease 145 166	valvulopathie mitrale
+T3	disease 294 316	hémorragie intestinale
+T4	disease 347 371	anémie ferriprive sévère
+T5	disease 592 613	saignement intestinal
+T6	disease 700 791	angiodysplasies intestinales dans l'antre duodénal, le jéjunum proximal et l'iléon terminal
+T7	disease 1064 1078	angiodysplasie
+T8	disease 1143 1166	angiodysplasies iléales
+T9	disease 1396 1403	lésions
+T10	disease 2071 2101	hypertension pulmonaire sévère
+T11	disease 2327 2352	thromboembolie pulmonaire
+#1	SNOMED T1	74474003
+#2	SNOMED T2	11851006
+#3	SNOMED T10	70995007
+#4	SNOMED T3	712510007
+#5	SNOMED T4	87522002
+#6	SNOMED T11	59282003
+#7	SNOMED T5	712510007
+#8	SNOMED T6	721662002
+#9	SNOMED T7	71072006
+#10	SNOMED T8	721662002
+#11	SNOMED T9	157670007

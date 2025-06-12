@@ -1,0 +1,50 @@
+T1	morphology-onco 81 88	tumeurs
+T2	morphology-onco 494 500	tumeur
+T3	morphology-onco 773 782	malignité
+T4	morphology-onco 2086 2112	ostéosarcome conventionnel
+T5	morphology-onco 2391 2403	métastatique
+T6	morphology-onco 2592 2643	ostéosarcome conventionnel du tibia gauche G3T2N0M1
+T7	morphology-onco 2655 2665	métastases
+T8	morphology-onco 3137 3160	nodulations pulmonaires
+T9	morphology-onco 3407 3419	ostéosarcome
+T10	morphology-onco 3960 3970	métastases
+T11	morphology-onco 4173 4185	péritumoraux
+T12	morphology-onco 4638 4668	'ostéosarcome chondroblastique
+T13	morphology-onco 4639 4682	ostéosarcome chondroblastique conventionnel
+T14	morphology-onco 4730 4736	tumeur
+T15	morphology-onco 4968 4987	nodules pulmonaires
+T16	morphology-onco 5240 5252	métastatique
+T17	morphology-onco 6104 6122	maladie pulmonaire
+#1	ICD-O-3.1 T17	8000/6
+#2	ICD-O-3.1 T3	8000/3
+#3	ICD-O-3.1 T16	8000/6
+#4	ICD-O-3.1 T7	8000/6
+#5	ICD-O-3.1 T10	8000/6
+#6	ICD-O-3.1 T15	8000/6
+#7	ICD-O-3.1 T9	9180/3
+#8	ICD-O-3.1 T11	8000/1
+#9	ICD-O-3.1 T14	8000/1
+#10	ICD-O-3.1 T2	8000/1
+#11	ICD-O-3.1 T1	8000/1
+#12	ICD-O-3.1 T4	9186/3
+#13	ICD-O-3.1 T5	8000/6
+#14	ICD-O-3.1 T6	9186/6
+#15	ICD-O-3.1 T8	8000/6
+#16	ICD-O-3.1 T12	9181/3
+#17	ICD-O-3.1 T13	9186/3
+#18	SNOMED T17	14799000
+#19	SNOMED T3	1240414004
+#20	SNOMED T16	14799000
+#21	SNOMED T7	14799000
+#22	SNOMED T10	14799000
+#23	SNOMED T15	14799000
+#24	SNOMED T9	1163405004
+#25	SNOMED T11	86251006
+#26	SNOMED T14	86251006
+#27	SNOMED T2	86251006
+#28	SNOMED T1	86251006
+#29	SNOMED T4	128774006
+#30	SNOMED T5	14799000
+#31	SNOMED T8	14799000
+#32	SNOMED T12	76312009
+#33	SNOMED T13	128774006

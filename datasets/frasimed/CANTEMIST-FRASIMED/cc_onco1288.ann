@@ -1,0 +1,15 @@
+T1	morphology-onco 1662 1676	adénocarcinome
+T2	morphology-onco 2026 2040	Adénocarcinome
+T3	morphology-onco 2060 2066	T3N2M0
+T4	morphology-onco 2554 2568	adénocarcinome
+T5	morphology-onco 3018 3039	progression hépatique
+#1	ICD-O-3.1 T2	8140/3
+#2	ICD-O-3.1 T3	8000/6
+#3	ICD-O-3.1 T1	8140/3
+#4	ICD-O-3.1 T4	8140/3
+#5	ICD-O-3.1 T5	8000/6
+#6	SNOMED T2	1187332001
+#7	SNOMED T3	14799000
+#8	SNOMED T1	1187332001
+#9	SNOMED T4	1187332001
+#10	SNOMED T5	14799000

@@ -1,0 +1,15 @@
+T1	morphology-onco 691 709	thymome de type AB
+T2	morphology-onco 729 736	thymome
+T3	morphology-onco 864 882	thymome de type AB
+T4	morphology-onco 2282 2289	Thymome
+T5	morphology-onco 2332 2348	syndrome de Good
+#1	ICD-O-3.1 T4	8580/1
+#2	ICD-O-3.1 T2	8580/1
+#3	ICD-O-3.1 T1	8582/1
+#4	ICD-O-3.1 T3	8582/1
+#5	ICD-O-3.1 T5	8580/1
+#6	SNOMED T4	1187428006
+#7	SNOMED T2	1187428006
+#8	SNOMED T1	1144922006
+#9	SNOMED T3	1144922006
+#10	SNOMED T5	1187428006

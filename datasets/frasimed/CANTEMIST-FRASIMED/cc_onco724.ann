@@ -1,0 +1,63 @@
+T1	morphology-onco 294 300	cancer
+T2	morphology-onco 378 384	cancer
+T3	morphology-onco 510 556	adénocarcinome modérément différencié du cæcum
+T4	morphology-onco 1210 1219	métastase
+T5	morphology-onco 1435 1441	tumeur
+T6	morphology-onco 1538 1544	tumeur
+T7	morphology-onco 1670 1684	adénocarcinome
+T8	morphology-onco 1892 1894	M0
+T9	morphology-onco 2881 2902	masse des tissus mous
+T10	morphology-onco 3207 3219	métastatique
+T11	morphology-onco 3274 3288	masse du psoas
+T12	morphology-onco 3445 3464	masse dans le psoas
+T13	morphology-onco 3588 3600	métastatique
+T14	morphology-onco 3936 3957	masse des tissus mous
+T15	morphology-onco 4172 4178	tumeur
+T16	morphology-onco 4278 4285	tumoral
+T17	morphology-onco 4305 4322	syndrome de Lynch
+T18	morphology-onco 4347 4353	tumeur
+T19	morphology-onco 4452 4458	tumeur
+T20	morphology-onco 5113 5127	masse du psoas
+T21	morphology-onco 5313 5338	atteinte des os du bassin
+#1	ICD-O-3.1 T8	8000/6
+#2	ICD-O-3.1 T7	8140/3
+#3	ICD-O-3.1 T1	8000/3
+#4	ICD-O-3.1 T2	8000/3
+#5	ICD-O-3.1 T10	8000/6
+#6	ICD-O-3.1 T13	8000/6
+#7	ICD-O-3.1 T4	8000/6
+#8	ICD-O-3.1 T6	8000/1
+#9	ICD-O-3.1 T5	8000/1
+#10	ICD-O-3.1 T16	8000/1
+#11	ICD-O-3.1 T18	8000/1
+#12	ICD-O-3.1 T19	8000/1
+#13	ICD-O-3.1 T15	8000/1
+#14	ICD-O-3.1 T3	8140/32
+#15	ICD-O-3.1 T21	8000/6
+#16	ICD-O-3.1 T9	8000/6
+#17	ICD-O-3.1 T14	8000/6
+#18	ICD-O-3.1 T11	8000/6
+#19	ICD-O-3.1 T12	8000/6
+#20	ICD-O-3.1 T17	8010/3
+#21	ICD-O-3.1 T20	8000/6
+#22	SNOMED T8	14799000
+#23	SNOMED T7	1187332001
+#24	SNOMED T1	1240414004
+#25	SNOMED T2	1240414004
+#26	SNOMED T10	14799000
+#27	SNOMED T13	14799000
+#28	SNOMED T4	14799000
+#29	SNOMED T6	86251006
+#30	SNOMED T5	86251006
+#31	SNOMED T16	86251006
+#32	SNOMED T18	86251006
+#33	SNOMED T19	86251006
+#34	SNOMED T15	86251006
+#35	SNOMED T3	1187332001
+#36	SNOMED T21	14799000
+#37	SNOMED T9	14799000
+#38	SNOMED T14	14799000
+#39	SNOMED T11	14799000
+#40	SNOMED T12	14799000
+#41	SNOMED T17	1187425009
+#42	SNOMED T20	14799000

@@ -1,0 +1,27 @@
+T1	morphology-onco 272 278	tumeur
+T2	morphology-onco 980 998	maladie à distance
+T3	morphology-onco 1031 1060	CARCINOME DU CANAL COLLECTEUR
+T4	morphology-onco 1201 1207	tumeur
+T5	morphology-onco 1458 1464	tumeur
+T6	morphology-onco 1519 1573	carcinome du canal collecteur pT3b, grade 2 de Fuhrman
+T7	morphology-onco 1818 1846	maladie au niveau péritonéal
+T8	morphology-onco 1871 1884	carcinomatose
+T9	morphology-onco 1924 1956	carcinome des tubules de Bellini
+#1	ICD-O-3.1 T4	8000/1
+#2	ICD-O-3.1 T8	8010/9
+#3	ICD-O-3.1 T2	8000/6
+#4	ICD-O-3.1 T5	8000/1
+#5	ICD-O-3.1 T1	8000/1
+#6	ICD-O-3.1 T3	8319/3
+#7	ICD-O-3.1 T6	8319/32
+#8	ICD-O-3.1 T7	8000/6
+#9	ICD-O-3.1 T9	8319/3
+#10	SNOMED T4	86251006
+#11	SNOMED T8	307593001
+#12	SNOMED T2	14799000
+#13	SNOMED T5	86251006
+#14	SNOMED T1	86251006
+#15	SNOMED T3	733470002
+#16	SNOMED T6	733470002
+#17	SNOMED T7	14799000
+#18	SNOMED T9	733470002

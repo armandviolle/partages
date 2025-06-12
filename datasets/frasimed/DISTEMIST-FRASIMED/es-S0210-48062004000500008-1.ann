@@ -1,0 +1,18 @@
+T1	disease 360 378	traumatisme pénien
+T2	disease 772 797	priapisme de longue durée
+T3	disease 827 849	priapisme à haut débit
+T4	disease 975 1017	dommages irréversibles aux corps caverneux
+T5	disease 2103 2129	syndrome myéloprolifératif
+T6	disease 2207 2234	leucémie myéloïde chronique
+T7	disease 2366 2387	maladie hématologique
+T8	disease 2410 2419	priapisme
+T9	disease 2468 2495	leucémie myéloïde chronique
+#1	SNOMED T2	6273006
+#2	SNOMED T5	425333006
+#3	SNOMED T1	110015006
+#4	SNOMED T3	441545004
+#5	SNOMED T6	92818009
+#6	SNOMED T8	6273006
+#7	SNOMED T4	128543007
+#8	SNOMED T9	92818009
+#9	SNOMED T7	34093004

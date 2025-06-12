@@ -1,0 +1,54 @@
+T1	morphology-onco 251 257	cancer
+T2	morphology-onco 311 317	cancer
+T3	morphology-onco 346 352	cancer
+T4	morphology-onco 1975 1996	carcinome épidermoïde
+T5	morphology-onco 2021 2049	carcinome à grandes cellules
+T6	morphology-onco 2070 2076	tumeur
+T7	morphology-onco 2102 2123	Carcinome épidermoïde
+T8	morphology-onco 2155 2162	T1bN0M0
+T9	morphology-onco 2166 2194	Carcinome à grandes cellules
+T10	morphology-onco 2215 2221	T4N0M0
+T11	morphology-onco 2653 2663	néoplasmes
+T12	morphology-onco 3053 3059	tumeur
+T13	morphology-onco 3305 3359	adénocarcinome, variante mixte, modérément différencié
+T14	morphology-onco 3943 3949	tumeur
+T15	morphology-onco 5226 5243	cellules malignes
+T16	morphology-onco 5264 5278	adénocarcinome
+T17	morphology-onco 5378 5392	adénocarcinome
+T18	morphology-onco 5400 5402	M0
+#1	ICD-O-3.1 T9	8012/3
+#2	ICD-O-3.1 T7	8070/3
+#3	ICD-O-3.1 T18	8000/6
+#4	ICD-O-3.1 T8	8000/6
+#5	ICD-O-3.1 T10	8000/6
+#6	ICD-O-3.1 T16	8140/3
+#7	ICD-O-3.1 T17	8140/3
+#8	ICD-O-3.1 T5	8012/3
+#9	ICD-O-3.1 T4	8070/3
+#10	ICD-O-3.1 T2	8000/3
+#11	ICD-O-3.1 T3	8000/3
+#12	ICD-O-3.1 T1	8000/3
+#13	ICD-O-3.1 T15	8001/3
+#14	ICD-O-3.1 T11	8000/1
+#15	ICD-O-3.1 T6	8000/1
+#16	ICD-O-3.1 T12	8000/1
+#17	ICD-O-3.1 T14	8000/1
+#18	ICD-O-3.1 T13	8140/32/H
+#19	SNOMED T9	22687000
+#20	SNOMED T7	1162767002
+#21	SNOMED T18	14799000
+#22	SNOMED T8	14799000
+#23	SNOMED T10	14799000
+#24	SNOMED T16	1187332001
+#25	SNOMED T17	1187332001
+#26	SNOMED T5	22687000
+#27	SNOMED T4	1162767002
+#28	SNOMED T2	1240414004
+#29	SNOMED T3	1240414004
+#30	SNOMED T1	1240414004
+#31	SNOMED T15	88400008
+#32	SNOMED T11	86251006
+#33	SNOMED T6	86251006
+#34	SNOMED T12	86251006
+#35	SNOMED T14	86251006
+#36	SNOMED T13	1187332001

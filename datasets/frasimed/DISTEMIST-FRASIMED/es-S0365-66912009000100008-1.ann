@@ -1,0 +1,32 @@
+T1	disease 31 61	traumatisme contondant à l'œil
+T2	disease 207 214	hyphéma
+T3	disease 245 260	œdème de Berlin
+T4	disease 418 425	hyphéma
+T5	disease 625 643	hypotonie oculaire
+T6	disease 699 721	plis rétinochoroïdiens
+T7	disease 728 744	œdème papillaire
+T8	disease 950 961	traumatisme
+T9	disease 1035 1067	déchirure de la racine de l'iris
+T10	disease 1098 1125	décollement ciliochoroïdien
+T11	disease 1664 1676	cyclodialyse
+T12	disease 1989 2005	œdème papillaire
+T13	disease 2011 2031	plis choriorétiniens
+T14	disease 2098 2110	cyclodialyse
+T15	disease 2119 2138	synéchie antérieure
+T16	disease 2173 2195	décollement choroïdien
+#1	SNOMED T1	314533000
+#2	SNOMED T9	231953004
+#3	SNOMED T2	75229002
+#4	SNOMED T10	27871007
+#5	SNOMED T12	423341008
+#6	SNOMED T13	231998005+37480005
+#7	SNOMED T3	80744008
+#8	SNOMED T14	231957003
+#9	SNOMED T15	70992005
+#10	SNOMED T4	75229002
+#11	SNOMED T16	27871007
+#12	SNOMED T11	231957003
+#13	SNOMED T6	37480005
+#14	SNOMED T7	423341008
+#15	SNOMED T5	23670006
+#16	SNOMED T8	417746004

@@ -1,0 +1,14 @@
+T1	disease 213 218	fumer
+T2	disease 259 285	kystes dans les deux seins
+T3	disease 307 333	troubles de la coagulation
+T4	disease 728 792	thrombose segmentaire de la veine dorsale superficielle du pénis
+T5	disease 1119 1126	lésions
+T6	disease 1141 1150	thrombose
+T7	disease 1173 1228	pathologie à l'emplacement de la veine pénienne dorsale
+#1	SNOMED T4	76598006
+#2	SNOMED T2	449836005
+#3	SNOMED T3	64779008
+#4	SNOMED T1	77176002
+#5	SNOMED T6	439127006
+#6	SNOMED T5	417163006
+#7	SNOMED T7	76598006

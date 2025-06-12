@@ -1,0 +1,54 @@
+T1	morphology-onco 117 147	carcinome canalaire infiltrant
+T2	morphology-onco 373 411	nodule dans la région sus-claviculaire
+T3	morphology-onco 616 625	carcinome
+T4	morphology-onco 960 997	métastases de carcinome de haut grade
+T5	morphology-onco 2340 2349	métastase
+T6	morphology-onco 2413 2422	carcinome
+T7	morphology-onco 2535 2541	tumeur
+T8	morphology-onco 2573 2582	néoplasme
+T9	morphology-onco 2628 2668	tumeur occulte luminale du sein (TxN2M1)
+T10	morphology-onco 2779 2788	métastase
+T11	morphology-onco 2943 2965	métastase de carcinome
+T12	morphology-onco 3013 3038	macroadénome hypophysaire
+T13	morphology-onco 3243 3257	lésion osseuse
+T14	morphology-onco 3295 3307	métastatique
+T15	morphology-onco 3409 3423	lésion osseuse
+T16	morphology-onco 3847 3861	lésion osseuse
+T17	morphology-onco 3951 3960	carcinome
+T18	morphology-onco 5938 5947	métastase
+#1	ICD-O-3.1 T3	8010/3
+#2	ICD-O-3.1 T6	8010/3
+#3	ICD-O-3.1 T17	8010/3
+#4	ICD-O-3.1 T1	8500/3
+#5	ICD-O-3.1 T13	8000/6
+#6	ICD-O-3.1 T15	8000/6
+#7	ICD-O-3.1 T16	8000/6
+#8	ICD-O-3.1 T12	8272/0
+#9	ICD-O-3.1 T14	8000/6
+#10	ICD-O-3.1 T5	8000/6
+#11	ICD-O-3.1 T10	8000/6
+#12	ICD-O-3.1 T18	8000/6
+#13	ICD-O-3.1 T11	8010/6
+#14	ICD-O-3.1 T8	8000/1
+#15	ICD-O-3.1 T7	8000/1
+#16	ICD-O-3.1 T2	8000/6
+#17	ICD-O-3.1 T4	8010/64
+#18	ICD-O-3.1 T9	8000/6
+#19	SNOMED T3	1187425009
+#20	SNOMED T6	1187425009
+#21	SNOMED T17	1187425009
+#22	SNOMED T1	58477004
+#23	SNOMED T13	14799000
+#24	SNOMED T15	14799000
+#25	SNOMED T16	14799000
+#26	SNOMED T12	254956000
+#27	SNOMED T14	14799000
+#28	SNOMED T5	14799000
+#29	SNOMED T10	14799000
+#30	SNOMED T18	14799000
+#31	SNOMED T11	79282002
+#32	SNOMED T8	86251006
+#33	SNOMED T7	86251006
+#34	SNOMED T2	14799000
+#35	SNOMED T4	79282002
+#36	SNOMED T9	14799000

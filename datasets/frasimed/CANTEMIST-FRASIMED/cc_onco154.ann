@@ -1,0 +1,15 @@
+T1	morphology-onco 717 760	adénocarcinome prostatique de Gleason (4+5)
+T2	morphology-onco 875 887	métastatique
+T3	morphology-onco 1092 1168	Adénocarcinome métastatique de la prostate (métastases osseuses) Gleason 4+5
+T4	morphology-onco 1672 1701	prostate ADC E-IV (métastases
+T5	morphology-onco 2016 2026	PE osseuse
+#1	ICD-O-3.1 T2	8000/6
+#2	ICD-O-3.1 T1	8140/33
+#3	ICD-O-3.1 T3	8140/63
+#4	ICD-O-3.1 T4	8140/6
+#5	ICD-O-3.1 T5	8000/6
+#6	SNOMED T2	14799000
+#7	SNOMED T1	1187332001
+#8	SNOMED T3	4590003
+#9	SNOMED T4	4590003
+#10	SNOMED T5	14799000

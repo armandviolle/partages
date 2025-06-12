@@ -1,0 +1,53 @@
+T1	morphology-onco 1106 1121	sarcome d'Ewing
+T2	morphology-onco 1141 1144	ESS
+T3	morphology-onco 2512 2528	maladie de Paget
+T4	morphology-onco 2586 2598	métastatique
+T5	morphology-onco 2972 2984	métastatique
+T6	morphology-onco 3960 3967	tumeurs
+T7	morphology-onco 4889 4905	maladie de Paget
+T8	morphology-onco 4985 4997	métastatique
+T9	morphology-onco 5048 5064	maladie de Paget
+T10	morphology-onco 5568 5611	néoplasique infiltrante de petites cellules
+T11	morphology-onco 6078 6087	malignité
+T12	morphology-onco 6120 6135	sarcome d'Ewing
+T13	morphology-onco 6158 6192	tumeur neuroectodermique primitive
+T14	morphology-onco 6194 6198	PNET
+T15	morphology-onco 7606 7628	progression pulmonaire
+T16	morphology-onco 7714 7733	nodules pulmonaires
+T17	morphology-onco 8926 8948	progression pulmonaire
+T18	morphology-onco 9026 9047	nodules sous-pleuraux
+#1	ICD-O-3.1 T2	9364/3
+#2	ICD-O-3.1 T14	9473/3
+#3	ICD-O-3.1 T11	8000/3
+#4	ICD-O-3.1 T4	8000/6
+#5	ICD-O-3.1 T5	8000/6
+#6	ICD-O-3.1 T8	8000/6
+#7	ICD-O-3.1 T16	8000/6
+#8	ICD-O-3.1 T18	8000/6
+#9	ICD-O-3.1 T15	8000/6
+#10	ICD-O-3.1 T17	8000/6
+#11	ICD-O-3.1 T6	8000/1
+#12	ICD-O-3.1 T1	9260/3
+#13	ICD-O-3.1 T3	9184/3
+#14	ICD-O-3.1 T7	9184/3
+#15	ICD-O-3.1 T9	9184/3
+#16	ICD-O-3.1 T10	8002/1/H
+#17	ICD-O-3.1 T12	9260/3
+#18	ICD-O-3.1 T13	9473/3
+#19	SNOMED T2	254764001
+#20	SNOMED T14	55045006
+#21	SNOMED T11	1240414004
+#22	SNOMED T4	14799000
+#23	SNOMED T5	14799000
+#24	SNOMED T8	14799000
+#25	SNOMED T16	14799000
+#26	SNOMED T18	14799000
+#27	SNOMED T15	14799000
+#28	SNOMED T17	14799000
+#29	SNOMED T6	86251006
+#30	SNOMED T1	76909002
+#31	SNOMED T3	33681003
+#32	SNOMED T7	33681003
+#33	SNOMED T9	33681003
+#34	SNOMED T12	76909002
+#35	SNOMED T13	55045006

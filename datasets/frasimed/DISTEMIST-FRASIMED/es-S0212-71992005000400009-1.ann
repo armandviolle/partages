@@ -1,0 +1,19 @@
+T1	disease 62 71	pneumonie
+T2	disease 106 112	fumeur
+T3	disease 116 126	non-fumeur
+T4	disease 153 182	asthme bronchique extrinsèque
+T5	disease 190 271	rhinoconjonctivite allergique avec hypersensibilité aux graminées et aux oliviers
+T6	disease 856 909	lésion en phase cicatricielle sur la paroi abdominale
+T7	disease 941 949	furoncle
+T8	disease 1676 1684	hépatite
+T9	disease 1904 1928	épanchement péricardique
+T10	disease 1963 2033	lésion chaude et érythémateuse est apparue dans la région parasternale
+T11	disease 2135 2141	lésion
+T12	disease 2303 2329	épanchement pleural gauche
+T13	disease 2559 2582	abcès staphylococciques
+T14	disease 2647 2658	adénopathie
+T15	disease 2832 2840	arthrite
+T16	disease 3193 3201	arthrite
+T17	disease 3244 3256	ostéomyélite
+T18	disease 3766 3794	lésion dermique parasternale
+T19	disease 3847 3872	immunodéficience primaire

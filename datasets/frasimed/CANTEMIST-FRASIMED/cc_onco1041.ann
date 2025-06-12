@@ -1,0 +1,51 @@
+T1	morphology-onco 635 641	tumeur
+T2	morphology-onco 783 797	adénocarcinome
+T3	morphology-onco 960 967	adénome
+T4	morphology-onco 1107 1146	adénocarcinome de stade IIIB de grade 1
+T5	morphology-onco 1504 1520	nodule hépatique
+T6	morphology-onco 2107 2123	nodule hépatique
+T7	morphology-onco 2197 2216	nodules pulmonaires
+T8	morphology-onco 2824 2840	nodule hépatique
+T9	morphology-onco 2886 2905	nodules pulmonaires
+T10	morphology-onco 3337 3354	nodule pulmonaire
+T11	morphology-onco 3368 3377	malignité
+T12	morphology-onco 3530 3555	adénocarcinome intestinal
+T13	morphology-onco 3831 3837	tumeur
+T14	morphology-onco 4171 4220	une seule lésion a été trouvée au niveau cérébral
+T15	morphology-onco 4235 4263	progression pleuropulmonaire
+T16	morphology-onco 4346 4362	lésion cérébrale
+T17	morphology-onco 4872 4893	progression cérébrale
+#1	ICD-O-3.1 T2	8140/3
+#2	ICD-O-3.1 T12	8144/3
+#3	ICD-O-3.1 T3	8140/0
+#4	ICD-O-3.1 T16	8000/6
+#5	ICD-O-3.1 T14	8000/6
+#6	ICD-O-3.1 T11	8000/3
+#7	ICD-O-3.1 T5	8000/6
+#8	ICD-O-3.1 T6	8000/6
+#9	ICD-O-3.1 T8	8000/6
+#10	ICD-O-3.1 T10	8000/6
+#11	ICD-O-3.1 T9	8000/6
+#12	ICD-O-3.1 T17	8000/6
+#13	ICD-O-3.1 T15	8000/6
+#14	ICD-O-3.1 T13	8000/1
+#15	ICD-O-3.1 T1	8000/1
+#16	ICD-O-3.1 T4	8140/31
+#17	ICD-O-3.1 T7	8000/6
+#18	SNOMED T2	1187332001
+#19	SNOMED T12	25190001
+#20	SNOMED T3	1187379001
+#21	SNOMED T16	14799000
+#22	SNOMED T14	14799000
+#23	SNOMED T11	1240414004
+#24	SNOMED T5	14799000
+#25	SNOMED T6	14799000
+#26	SNOMED T8	14799000
+#27	SNOMED T10	14799000
+#28	SNOMED T9	14799000
+#29	SNOMED T17	14799000
+#30	SNOMED T15	14799000
+#31	SNOMED T13	86251006
+#32	SNOMED T1	86251006
+#33	SNOMED T4	1187332001
+#34	SNOMED T7	14799000

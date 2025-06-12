@@ -1,0 +1,23 @@
+T1	morphology-onco 414 421	maligne
+T2	morphology-onco 531 541	métastases
+T3	morphology-onco 893 975	carcinome papillaire de la thyroïde, variante sclérosante diffuse, avec métastases
+T4	morphology-onco 1085 1091	cancer
+T5	morphology-onco 2164 2174	métastases
+T6	morphology-onco 2505 2517	métastatique
+T7	morphology-onco 3489 3554	Carcinome papillaire de la thyroïde, variante sclérosante diffuse
+T8	morphology-onco 3566 3576	métastases
+#1	ICD-O-3.1 T4	8000/3
+#2	ICD-O-3.1 T1	8000/3
+#3	ICD-O-3.1 T6	8000/6
+#4	ICD-O-3.1 T2	8000/6
+#5	ICD-O-3.1 T5	8000/6
+#6	ICD-O-3.1 T8	8000/6
+#7	ICD-O-3.1 T3	8350/6
+#8	ICD-O-3.1 T7	8350/3
+#9	SNOMED T4	1240414004
+#10	SNOMED T1	1240414004
+#11	SNOMED T6	14799000
+#12	SNOMED T2	14799000
+#13	SNOMED T5	14799000
+#14	SNOMED T8	14799000
+#15	SNOMED T7	62681000

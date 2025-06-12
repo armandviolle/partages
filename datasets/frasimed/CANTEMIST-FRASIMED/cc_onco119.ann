@@ -1,0 +1,69 @@
+T1	morphology-onco 274 280	cancer
+T2	morphology-onco 377 386	néoplasie
+T3	morphology-onco 454 460	cancer
+T4	morphology-onco 734 745	néoplasique
+T5	morphology-onco 1977 2007	carcinome nucléaire de grade 2
+T6	morphology-onco 2019 2049	carcinome canalaire infiltrant
+T7	morphology-onco 2051 2054	CDI
+T8	morphology-onco 2100 2109	tumorales
+T9	morphology-onco 2345 2354	carcinome
+T10	morphology-onco 2828 2842	CDI de grade 1
+T11	morphology-onco 2900 2907	T4bN1M1
+T12	morphology-onco 2917 2927	métastases
+T13	morphology-onco 3681 3701	progression pleurale
+T14	morphology-onco 4615 4628	carcinomatose
+T15	morphology-onco 5234 5252	maladie systémique
+T16	morphology-onco 5308 5325	nodule pulmonaire
+T17	morphology-onco 5333 5349	lésions osseuses
+T18	morphology-onco 5876 5889	carcinomatose
+T19	morphology-onco 6176 6189	carcinomatose
+T20	morphology-onco 6272 6293	progression hépatique
+T21	morphology-onco 6865 6886	progression hépatique
+T22	morphology-onco 6890 6904	carcinomateuse
+T23	morphology-onco 7180 7193	carcinomatose
+#1	ICD-O-3.1 T7	8500/3
+#2	ICD-O-3.1 T9	8010/3
+#3	ICD-O-3.1 T6	8500/3
+#4	ICD-O-3.1 T14	8010/9
+#5	ICD-O-3.1 T18	8010/9
+#6	ICD-O-3.1 T19	8010/9
+#7	ICD-O-3.1 T22	8010/9
+#8	ICD-O-3.1 T23	8010/9
+#9	ICD-O-3.1 T1	8000/3
+#10	ICD-O-3.1 T3	8000/3
+#11	ICD-O-3.1 T12	8000/6
+#12	ICD-O-3.1 T2	8000/1
+#13	ICD-O-3.1 T4	8000/1
+#14	ICD-O-3.1 T8	8000/1
+#15	ICD-O-3.1 T5	8010/32
+#16	ICD-O-3.1 T10	8500/31
+#17	ICD-O-3.1 T11	8000/6
+#18	ICD-O-3.1 T20	8000/6
+#19	ICD-O-3.1 T21	8000/6
+#20	ICD-O-3.1 T15	8000/6
+#21	ICD-O-3.1 T17	8000/6
+#22	ICD-O-3.1 T16	8000/6
+#23	ICD-O-3.1 T13	8000/6
+#24	SNOMED T7	58477004
+#25	SNOMED T9	1187425009
+#26	SNOMED T6	58477004
+#27	SNOMED T14	307593001
+#28	SNOMED T18	307593001
+#29	SNOMED T19	307593001
+#30	SNOMED T22	307593001
+#31	SNOMED T23	307593001
+#32	SNOMED T1	1240414004
+#33	SNOMED T3	1240414004
+#34	SNOMED T12	14799000
+#35	SNOMED T2	86251006
+#36	SNOMED T4	86251006
+#37	SNOMED T8	86251006
+#38	SNOMED T5	1187425009
+#39	SNOMED T10	58477004
+#40	SNOMED T11	14799000
+#41	SNOMED T20	14799000
+#42	SNOMED T21	14799000
+#43	SNOMED T15	14799000
+#44	SNOMED T17	14799000
+#45	SNOMED T16	14799000
+#46	SNOMED T13	14799000

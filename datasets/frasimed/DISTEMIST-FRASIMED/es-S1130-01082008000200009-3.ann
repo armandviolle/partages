@@ -1,0 +1,10 @@
+T1	disease 49 65	maladie cœliaque
+T2	disease 173 189	maladie cœliaque
+T3	disease 224 242	couches spontanées
+T4	disease 249 289	accident ischémique transitoire cérébral
+T5	disease 492 518	altération prothrombotique
+#1	SNOMED T1	396331005
+#2	SNOMED T2	396331005
+#3	SNOMED T3	17369002
+#4	SNOMED T4	266257000
+#5	SNOMED T5	234467004

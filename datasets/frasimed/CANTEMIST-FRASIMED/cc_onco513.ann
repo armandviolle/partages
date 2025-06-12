@@ -1,0 +1,51 @@
+T1	morphology-onco 407 446	cancer du poumon non à petites cellules
+T2	morphology-onco 650 658	tumorale
+T3	morphology-onco 996 1022	masse sur la paroi costale
+T4	morphology-onco 1205 1239	cellules néoplasiques épithéliales
+T5	morphology-onco 1259 1268	carcinome
+T6	morphology-onco 1517 1531	adénocarcinome
+T7	morphology-onco 1612 1630	cellules tumorales
+T8	morphology-onco 1884 1887	M1b
+T9	morphology-onco 1975 1984	métastase
+T10	morphology-onco 2002 2005	M1b
+T11	morphology-onco 2667 2673	tumeur
+T12	morphology-onco 2884 2896	métastatique
+T13	morphology-onco 3358 3364	tumeur
+T14	morphology-onco 3388 3402	adénocarcinome
+T15	morphology-onco 4213 4221	tumorale
+T16	morphology-onco 4259 4271	métastatique
+T17	morphology-onco 4987 5001	tumeur costale
+#1	ICD-O-3.1 T6	8140/3
+#2	ICD-O-3.1 T14	8140/3
+#3	ICD-O-3.1 T5	8010/3
+#4	ICD-O-3.1 T7	8001/1
+#5	ICD-O-3.1 T12	8000/6
+#6	ICD-O-3.1 T9	8000/6
+#7	ICD-O-3.1 T11	8000/1
+#8	ICD-O-3.1 T13	8000/1
+#9	ICD-O-3.1 T2	8000/1
+#10	ICD-O-3.1 T15	8000/1
+#11	ICD-O-3.1 T1	8046/3
+#12	ICD-O-3.1 T4	8001/1/H
+#13	ICD-O-3.1 T8	8000/6
+#14	ICD-O-3.1 T10	8000/6
+#15	ICD-O-3.1 T16	8000/6
+#16	ICD-O-3.1 T17	8000/6
+#17	ICD-O-3.1 T3	8000/6
+#18	SNOMED T6	1187332001
+#19	SNOMED T14	1187332001
+#20	SNOMED T5	1187425009
+#21	SNOMED T7	39577004
+#22	SNOMED T12	14799000
+#23	SNOMED T9	14799000
+#24	SNOMED T11	86251006
+#25	SNOMED T13	86251006
+#26	SNOMED T2	86251006
+#27	SNOMED T15	86251006
+#28	SNOMED T1	128632008
+#29	SNOMED T4	39577004
+#30	SNOMED T8	14799000
+#31	SNOMED T10	14799000
+#32	SNOMED T16	14799000
+#33	SNOMED T17	14799000
+#34	SNOMED T3	14799000

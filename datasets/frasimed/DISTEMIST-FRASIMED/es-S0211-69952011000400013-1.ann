@@ -1,0 +1,21 @@
+T1	disease 53 71	syndrome dépressif
+T2	disease 78 103	sténose du canal lombaire
+T3	disease 119 159	spondylarthrite ankylosante B27-positive
+T4	disease 778 832	lymphadénopathie latéro-cervicale ou rétro-auriculaire
+T5	disease 1099 1114	lithiase rénale
+T6	disease 1121 1147	dilatation pyélocalicielle
+T7	disease 1153 1182	lésions hypodenses de la rate
+T8	disease 1477 1503	adénopathies médiastinales
+T9	disease 1512 1528	lésion splénique
+T10	disease 1551 1572	adénopathie cervicale
+T11	disease 2071 2095	adénopathie médiastinale
+T12	disease 2343 2354	tuberculose
+T13	disease 2797 2812	hépatite B et C
+T14	disease 2983 3003	syndrome néphrotique
+T15	disease 3253 3276	hypertension artérielle
+T16	disease 3306 3324	surcharge hydrique
+T17	disease 3398 3424	insuffisance rénale sévère
+T18	disease 3503 3509	anémie
+T19	disease 4394 4400	anémie
+T20	disease 4447 4459	hypertension
+T21	disease 4496 4509	hyperuricémie

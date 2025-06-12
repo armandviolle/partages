@@ -1,0 +1,24 @@
+T1	disease 202 230	maladie urologique ou rénale
+T2	disease 325 342	anémie ferriprive
+T3	disease 349 373	reflux gastro-œsophagien
+T4	disease 425 434	dysphagie
+T5	disease 602 626	inflammation articulaire
+T6	disease 631 647	lésions cutanées
+T7	disease 652 660	sérosité
+T8	disease 719 750	spondylarthrite ankylopoïétique
+T9	disease 856 950	maladie rénale chronique de stade 5 secondaire à une néphropathie due à un abus d'analgésiques
+T10	disease 909 950	néphropathie due à un abus d'analgésiques
+T11	disease 2145 2176	spondylarthrite ankylopoïétique
+T12	disease 2446 2498	carences en fer et en vitamines B12 et acide folique
+T13	disease 2622 2631	dysphagie
+T14	disease 2666 2691	malabsorption intestinale
+T15	disease 2693 2724	carences en fer et en vitamines
+T16	disease 3035 3040	abcès
+T17	disease 3124 3126	MC
+T18	disease 3339 3349	amylose AA
+T19	disease 4200 4246	maladie inflammatoire, infectieuse ou tumorale
+T20	disease 4254 4286	fièvre méditerranéenne familiale
+T21	disease 4310 4312	MC
+T22	disease 4318 4339	amylose AA secondaire
+T23	disease 4373 4375	MC
+T24	disease 4851 4853	CD

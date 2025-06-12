@@ -1,0 +1,36 @@
+T1	morphology-onco 1448 1477	masse indurée des tissus mous
+T2	morphology-onco 1858 1867	malignité
+T3	morphology-onco 1914 1930	lésions osseuses
+T4	morphology-onco 2321 2364	carcinome pulmonaire non à petites cellules
+T5	morphology-onco 2365 2425	modérément différencié de type adénocarcinome (TTF1+, p40 -)
+T6	morphology-onco 2878 2890	métastatique
+T7	morphology-onco 2945 2966	masse des tissus mous
+T8	morphology-onco 3106 3135	adénocarcinome du poumon, GH2
+T9	morphology-onco 3137 3149	cT3-cN2-cM1c
+T10	morphology-onco 3151 3161	métastases
+T11	morphology-onco 3246 3267	masse des tissus mous
+T12	morphology-onco 4891 4926	micronodules pulmonaires bilatéraux
+#1	ICD-O-3.1 T4	8046/3
+#2	ICD-O-3.1 T3	8000/6
+#3	ICD-O-3.1 T2	8000/3
+#4	ICD-O-3.1 T1	8000/6
+#5	ICD-O-3.1 T7	8000/6
+#6	ICD-O-3.1 T11	8000/6
+#7	ICD-O-3.1 T10	8000/6
+#8	ICD-O-3.1 T12	8000/6
+#9	ICD-O-3.1 T5	8140/32
+#10	ICD-O-3.1 T6	8000/6
+#11	ICD-O-3.1 T8	8140/32
+#12	ICD-O-3.1 T9	8000/6
+#13	SNOMED T4	128632008
+#14	SNOMED T3	14799000
+#15	SNOMED T2	1240414004
+#16	SNOMED T1	14799000
+#17	SNOMED T7	14799000
+#18	SNOMED T11	14799000
+#19	SNOMED T10	14799000
+#20	SNOMED T12	14799000
+#21	SNOMED T5	1187332001
+#22	SNOMED T6	14799000
+#23	SNOMED T8	1187332001
+#24	SNOMED T9	14799000

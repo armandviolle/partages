@@ -1,0 +1,26 @@
+T1	morphology-onco 173 212	astrocytome frontal gauche de bas grade
+T2	morphology-onco 707 714	tumoral
+T3	morphology-onco 765 780	tumeurs gliales
+T4	morphology-onco 984 1007	astrocytome de grade IV
+T5	morphology-onco 1166 1206	Astrocytome frontal gauche de haut grade
+T6	morphology-onco 1290 1334	astrocytome qui a évolué vers un grade élevé
+T7	morphology-onco 1820 1826	tumeur
+T8	morphology-onco 2245 2251	tumeur
+T9	morphology-onco 2626 2633	tumoral
+#1	ICD-O-3.1 T5	9400/34
+#2	ICD-O-3.1 T2	8000/1
+#3	ICD-O-3.1 T7	8000/1
+#4	ICD-O-3.1 T8	8000/1
+#5	ICD-O-3.1 T9	8000/1
+#6	ICD-O-3.1 T1	9400/31
+#7	ICD-O-3.1 T3	9380/1
+#8	ICD-O-3.1 T4	9400/34
+#9	ICD-O-3.1 T6	9400/34
+#10	SNOMED T5	1157043006
+#11	SNOMED T2	86251006
+#12	SNOMED T7	86251006
+#13	SNOMED T8	86251006
+#14	SNOMED T9	86251006
+#15	SNOMED T1	1157043006
+#16	SNOMED T4	1157043006
+#17	SNOMED T6	1157043006

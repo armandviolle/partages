@@ -1,0 +1,6 @@
+T1	disease 171 190	adénome prostatique
+T2	disease 1220 1249	allergie aux contrastes iodés
+T3	disease 1950 1963	cholédococèle
+#1	SNOMED T2	293637006
+#2	SNOMED T1	21173002
+#3	SNOMED T3	397868007

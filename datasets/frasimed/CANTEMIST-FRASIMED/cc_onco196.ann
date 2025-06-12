@@ -1,0 +1,18 @@
+T1	morphology-onco 2198 2206	tumorale
+T2	morphology-onco 2230 2264	tumeur maligne de la gaine du nerf
+T3	morphology-onco 2290 2324	Tumeur maligne de la gaine du nerf
+T4	morphology-onco 3141 3147	tumeur
+T5	morphology-onco 4119 4129	métastases
+T6	morphology-onco 4571 4581	métastases
+#1	ICD-O-3.1 T5	8000/6
+#2	ICD-O-3.1 T6	8000/6
+#3	ICD-O-3.1 T4	8000/1
+#4	ICD-O-3.1 T1	8000/1
+#5	ICD-O-3.1 T2	8000/3/H
+#6	ICD-O-3.1 T3	8000/3/H
+#7	SNOMED T5	14799000
+#8	SNOMED T6	14799000
+#9	SNOMED T4	86251006
+#10	SNOMED T1	86251006
+#11	SNOMED T2	1240414004
+#12	SNOMED T3	1240414004

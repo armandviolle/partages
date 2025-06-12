@@ -1,0 +1,36 @@
+T1	morphology-onco 107 113	cancer
+T2	morphology-onco 231 271	carcinome mammaire infiltrant de grade 2
+T3	morphology-onco 993 1008	maladie osseuse
+T4	morphology-onco 1009 1021	métastatique
+T5	morphology-onco 1106 1118	métastatique
+T6	morphology-onco 1432 1484	infiltration de la moelle osseuse due à un carcinome
+T7	morphology-onco 2672 2681	Carcinome
+T8	morphology-onco 2738 2754	atteinte osseuse
+T9	morphology-onco 2764 2797	infiltration de la moelle osseuse
+T10	morphology-onco 4354 4364	métastases
+T11	morphology-onco 4669 4691	infiltration hépatique
+T12	morphology-onco 4757 4790	infiltration de la moelle osseuse
+#1	ICD-O-3.1 T7	8010/3
+#2	ICD-O-3.1 T8	8000/6
+#3	ICD-O-3.1 T1	8000/3
+#4	ICD-O-3.1 T3	8000/6
+#5	ICD-O-3.1 T9	8000/6
+#6	ICD-O-3.1 T4	8000/6
+#7	ICD-O-3.1 T5	8000/6
+#8	ICD-O-3.1 T10	8000/6
+#9	ICD-O-3.1 T2	8010/32/H
+#10	ICD-O-3.1 T6	8010/6
+#11	ICD-O-3.1 T11	8000/6
+#12	ICD-O-3.1 T12	8000/6
+#13	SNOMED T7	1187425009
+#14	SNOMED T8	14799000
+#15	SNOMED T1	1240414004
+#16	SNOMED T3	14799000
+#17	SNOMED T9	14799000
+#18	SNOMED T4	14799000
+#19	SNOMED T5	14799000
+#20	SNOMED T10	14799000
+#21	SNOMED T2	1187425009
+#22	SNOMED T6	79282002
+#23	SNOMED T11	14799000
+#24	SNOMED T12	14799000

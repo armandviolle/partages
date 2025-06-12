@@ -1,0 +1,20 @@
+T1	disease 215 224	allergies
+T2	disease 325 338	cryptorchidie
+T3	disease 344 353	hydrocèle
+T4	disease 386 437	consommation d'alcool, de tabac ou d'autres drogues
+T5	disease 632 655	adénopathies inguinales
+T6	disease 736 751	viscéro-mégalie
+T7	disease 719 731	gynécomastie
+T8	disease 938 944	kystes
+T9	disease 951 965	calcifications
+T10	disease 1760 1774	orchite droite
+T11	disease 1824 1845	processus néoplasique
+T12	disease 1993 2011	Séminome classique
+T13	disease 2058 2094	infiltration de la tunique albuginée
+T14	disease 2149 2180	tumeur germinale intratubulaire
+T15	disease 2384 2435	lymphadénopathie médiastinale, hilaire ou axillaire
+T16	disease 2478 2503	Adénopathie paracardiaque
+T17	disease 2556 2602	lymphadénopathie rétropéritonéale ou pelvienne
+T18	disease 2677 2701	panniculite mésentérique
+T19	disease 2709 2746	lymphadénopathie inguinale bilatérale
+T20	disease 2907 2930	séminome de stade I pur

@@ -1,0 +1,10 @@
+T1	disease 41 64	diabète sucré de type 2
+T2	disease 69 81	dyslipidémie
+T3	disease 88 106	syndrome dépressif
+T4	disease 997 1061	urétérohydronéphrose bilatérale due à une néoplasie de la vessie
+T5	disease 1039 1061	néoplasie de la vessie
+#1	SNOMED T1	44054006
+#2	SNOMED T2	370992007
+#3	SNOMED T3	35489007
+#4	SNOMED T4	95576001+95581005+126885006
+#5	SNOMED T5	126885006

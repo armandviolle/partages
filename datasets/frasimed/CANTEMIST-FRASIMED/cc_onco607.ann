@@ -1,0 +1,57 @@
+T1	morphology-onco 51 57	cancer
+T2	morphology-onco 743 749	lipome
+T3	morphology-onco 1057 1088	dermatofibrosarcome protuberans
+T4	morphology-onco 2018 2036	cellules tumorales
+T5	morphology-onco 2439 2457	cellules tumorales
+T6	morphology-onco 2503 2509	tumeur
+T7	morphology-onco 2615 2621	tumeur
+T8	morphology-onco 2683 2691	tumorale
+T9	morphology-onco 2784 2826	Dermatofibrosarcome protuberans de grade 1
+T10	morphology-onco 2997 3028	dermatofibrosarcome protuberans
+T11	morphology-onco 3540 3546	tumeur
+T12	morphology-onco 4386 4398	métastatique
+T13	morphology-onco 4774 4808	dermatofibrosarcome protubérantiel
+T14	morphology-onco 4860 4888	progression dans les poumons
+T15	morphology-onco 5443 5473	lésions pulmonaires nodulaires
+T16	morphology-onco 5760 5769	malignité
+T17	morphology-onco 5890 5909	lésions pulmonaires
+T18	morphology-onco 5937 5947	métastases
+T19	morphology-onco 6049 6059	métastases
+#1	ICD-O-3.1 T1	8000/3
+#2	ICD-O-3.1 T4	8001/1
+#3	ICD-O-3.1 T5	8001/1
+#4	ICD-O-3.1 T15	8000/6
+#5	ICD-O-3.1 T17	8000/6
+#6	ICD-O-3.1 T2	8850/0
+#7	ICD-O-3.1 T16	8000/3
+#8	ICD-O-3.1 T12	8000/6
+#9	ICD-O-3.1 T19	8000/6
+#10	ICD-O-3.1 T18	8000/6
+#11	ICD-O-3.1 T14	8000/6
+#12	ICD-O-3.1 T6	8000/1
+#13	ICD-O-3.1 T7	8000/1
+#14	ICD-O-3.1 T8	8000/1
+#15	ICD-O-3.1 T11	8000/1
+#16	ICD-O-3.1 T3	8832/3
+#17	ICD-O-3.1 T9	8832/31
+#18	ICD-O-3.1 T10	8832/3
+#19	ICD-O-3.1 T13	8832/3
+#20	SNOMED T1	1240414004
+#21	SNOMED T4	39577004
+#22	SNOMED T5	39577004
+#23	SNOMED T15	14799000
+#24	SNOMED T17	14799000
+#25	SNOMED T2	93163002
+#26	SNOMED T16	1240414004
+#27	SNOMED T12	14799000
+#28	SNOMED T19	14799000
+#29	SNOMED T18	14799000
+#30	SNOMED T14	14799000
+#31	SNOMED T6	86251006
+#32	SNOMED T7	86251006
+#33	SNOMED T8	86251006
+#34	SNOMED T11	86251006
+#35	SNOMED T3	276799004
+#36	SNOMED T9	276799004
+#37	SNOMED T10	276799004
+#38	SNOMED T13	276799004

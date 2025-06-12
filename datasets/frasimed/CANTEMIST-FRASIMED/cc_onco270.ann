@@ -1,0 +1,63 @@
+T1	morphology-onco 189 220	adénome thyroïdien folliculaire
+T2	morphology-onco 299 327	adénome à cellules de Hurthe
+T3	morphology-onco 702 716	adénocarcinome
+T4	morphology-onco 1803 1834	adénocarcinome bien différencié
+T5	morphology-onco 2173 2181	tumorale
+T6	morphology-onco 2275 2286	néoformatif
+T7	morphology-onco 2388 2400	métastatique
+T8	morphology-onco 2539 2547	tumorale
+T9	morphology-onco 2643 2687	adénopathies dans la région sus-claviculaire
+T10	morphology-onco 3525 3534	métastase
+T11	morphology-onco 4130 4165	Adénocarcinome pulmonaire T4 N3 M1b
+T12	morphology-onco 4178 4188	métastases
+T13	morphology-onco 5742 5752	métastases
+T14	morphology-onco 5920 5945	LOES dans les hémisphères
+T15	morphology-onco 6204 6214	métastases
+T16	morphology-onco 6396 6479	lésions supratentorielles hémisphériques bilatérales intraaxiales occupant l'espace
+T17	morphology-onco 6588 6598	métastases
+T18	morphology-onco 7314 7349	adénocarcinome pulmonaire T4 N3 M1b
+T19	morphology-onco 7362 7372	métastases
+T20	morphology-onco 7760 7770	métastases
+T21	morphology-onco 9287 9307	carcinome pulmonaire
+#1	ICD-O-3.1 T3	8140/3
+#2	ICD-O-3.1 T4	8140/31
+#3	ICD-O-3.1 T21	8046/3
+#4	ICD-O-3.1 T7	8000/6
+#5	ICD-O-3.1 T10	8000/6
+#6	ICD-O-3.1 T12	8000/6
+#7	ICD-O-3.1 T13	8000/6
+#8	ICD-O-3.1 T15	8000/6
+#9	ICD-O-3.1 T17	8000/6
+#10	ICD-O-3.1 T19	8000/6
+#11	ICD-O-3.1 T20	8000/6
+#12	ICD-O-3.1 T6	8000/1
+#13	ICD-O-3.1 T5	8000/1
+#14	ICD-O-3.1 T8	8000/1
+#15	ICD-O-3.1 T1	8330/0
+#16	ICD-O-3.1 T2	8290/0
+#17	ICD-O-3.1 T9	8000/6
+#18	ICD-O-3.1 T11	8140/6
+#19	ICD-O-3.1 T14	8000/6
+#20	ICD-O-3.1 T16	8000/6
+#21	ICD-O-3.1 T18	8140/6
+#22	SNOMED T3	1187332001
+#23	SNOMED T4	1187332001
+#24	SNOMED T21	128632008
+#25	SNOMED T7	14799000
+#26	SNOMED T10	14799000
+#27	SNOMED T12	14799000
+#28	SNOMED T13	14799000
+#29	SNOMED T15	14799000
+#30	SNOMED T17	14799000
+#31	SNOMED T19	14799000
+#32	SNOMED T20	14799000
+#33	SNOMED T6	86251006
+#34	SNOMED T5	86251006
+#35	SNOMED T8	86251006
+#36	SNOMED T1	55021007
+#37	SNOMED T2	89439007
+#38	SNOMED T9	14799000
+#39	SNOMED T11	4590003
+#40	SNOMED T14	14799000
+#41	SNOMED T16	14799000
+#42	SNOMED T18	4590003

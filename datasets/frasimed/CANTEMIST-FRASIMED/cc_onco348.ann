@@ -1,0 +1,36 @@
+T1	morphology-onco 509 514	masse
+T2	morphology-onco 1391 1409	maladie à distance
+T3	morphology-onco 1494 1506	angiosarcome
+T4	morphology-onco 1537 1549	Angiosarcome
+T5	morphology-onco 1624 1636	Angiosarcome
+T6	morphology-onco 1907 1919	Angiosarcome
+T7	morphology-onco 2283 2289	tumeur
+T8	morphology-onco 2529 2547	lésions hépatiques
+T9	morphology-onco 2960 2978	lésions hépatiques
+T10	morphology-onco 3384 3404	maladie dans le foie
+T11	morphology-onco 3425 3443	lésions spléniques
+T12	morphology-onco 3500 3506	tumeur
+#1	ICD-O-3.1 T3	9120/3
+#2	ICD-O-3.1 T4	9120/3
+#3	ICD-O-3.1 T5	9120/3
+#4	ICD-O-3.1 T6	9120/3
+#5	ICD-O-3.1 T2	8000/6
+#6	ICD-O-3.1 T11	8000/6
+#7	ICD-O-3.1 T8	8000/6
+#8	ICD-O-3.1 T9	8000/6
+#9	ICD-O-3.1 T7	8000/1
+#10	ICD-O-3.1 T12	8000/1
+#11	ICD-O-3.1 T1	8000/1
+#12	ICD-O-3.1 T10	8000/6
+#13	SNOMED T3	39000009
+#14	SNOMED T4	39000009
+#15	SNOMED T5	39000009
+#16	SNOMED T6	39000009
+#17	SNOMED T2	14799000
+#18	SNOMED T11	14799000
+#19	SNOMED T8	14799000
+#20	SNOMED T9	14799000
+#21	SNOMED T7	86251006
+#22	SNOMED T12	86251006
+#23	SNOMED T1	86251006
+#24	SNOMED T10	14799000

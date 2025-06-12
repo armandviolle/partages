@@ -1,0 +1,22 @@
+T1	disease 78 113	tumeur sténosante du côlon sigmoïde
+T2	disease 123 186	métastases dans les ganglions lymphatiques régionaux et le foie
+T3	disease 78 186	tumeur sténosante du côlon sigmoïde avec des métastases dans les ganglions lymphatiques régionaux et le foie
+T4	disease 251 260	néoplasme
+T5	disease 290 315	adénocarcinome intestinal
+T6	disease 638 741	progression de la tumeur a été observée avec des métastases ganglionnaires et surrénaliennes à distance
+T7	disease 970 1017	lésion solide dans l'os érosif hémimandibulaire
+T8	disease 1066 1085	néoplasie gingivale
+T9	disease 1092 1108	lymphadénopathie
+T10	disease 1547 1574	adénocarcinome métastatique
+T11	disease 1903 1922	métastase gingivale
+#1	SNOMED T1	126845000
+#2	SNOMED T3	94392001+94381002
+#3	SNOMED T4	55342001
+#4	SNOMED T5	99111000119103
+#5	SNOMED T7	126634001
+#6	SNOMED T8	126792007
+#7	SNOMED T9	30746006
+#8	SNOMED T10	4590003
+#9	SNOMED T11	94321004
+#10	SNOMED T6	94161006+399647000
+#11	SNOMED T2	314998002

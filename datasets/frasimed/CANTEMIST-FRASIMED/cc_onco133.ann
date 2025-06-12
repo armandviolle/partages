@@ -1,0 +1,68 @@
+T1	morphology-onco 567 578	enchondrome
+T2	morphology-onco 1118 1186	tumeur des tissus mous de nature mixte, probablement mésenchymateuse
+T3	morphology-onco 1306 1328	tumeur mésenchymateuse
+T4	morphology-onco 1330 1349	Nodules pulmonaires
+T5	morphology-onco 1518 1534	lésions osseuses
+T6	morphology-onco 1570 1598	néoformation mésenchymateuse
+T7	morphology-onco 1778 1786	tumorale
+T8	morphology-onco 1960 1990	tumeur mésenchymateuse maligne
+T9	morphology-onco 2224 2239	lésion tumorale
+T10	morphology-onco 2346 2376	Tumeur mésenchymateuse maligne
+T11	morphology-onco 2493 2515	tumeur mésenchymateuse
+T12	morphology-onco 2790 2796	tumeur
+T13	morphology-onco 2960 2979	cellules fusiformes
+T14	morphology-onco 3129 3155	histiocytome fibreux malin
+T15	morphology-onco 3157 3189	sarcome pléomorphe de haut grade
+T16	morphology-onco 3254 3286	sarcome pléomorphe de haut grade
+T17	morphology-onco 3482 3501	lésions pulmonaires
+T18	morphology-onco 3569 3604	ensemencement hématogène pulmonaire
+T19	morphology-onco 4077 4096	nodules pulmonaires
+T20	morphology-onco 4431 4453	progression pulmonaire
+T21	morphology-onco 5081 5103	progression pulmonaire
+T22	morphology-onco 5378 5397	nodules pulmonaires
+T23	morphology-onco 5430 5440	métastases
+T24	morphology-onco 5803 5813	métastases
+#1	ICD-O-3.1 T1	9220/0
+#2	ICD-O-3.1 T23	8000/6
+#3	ICD-O-3.1 T24	8000/6
+#4	ICD-O-3.1 T12	8000/1
+#5	ICD-O-3.1 T7	8000/1
+#6	ICD-O-3.1 T9	8000/1
+#7	ICD-O-3.1 T2	8990/1
+#8	ICD-O-3.1 T3	8800/1
+#9	ICD-O-3.1 T6	8800/1
+#10	ICD-O-3.1 T8	8800/3
+#11	ICD-O-3.1 T10	8800/3
+#12	ICD-O-3.1 T11	8800/1
+#13	ICD-O-3.1 T13	8032/1
+#14	ICD-O-3.1 T14	8830/3
+#15	ICD-O-3.1 T15	8802/34
+#16	ICD-O-3.1 T16	8802/34
+#17	ICD-O-3.1 T4	8000/6
+#18	ICD-O-3.1 T17	8000/6
+#19	ICD-O-3.1 T5	8000/6
+#20	ICD-O-3.1 T19	8000/6
+#21	ICD-O-3.1 T22	8000/6
+#22	ICD-O-3.1 T20	8000/6
+#23	ICD-O-3.1 T21	8000/6
+#24	ICD-O-3.1 T18	8000/6
+#25	SNOMED T1	31186001
+#26	SNOMED T23	14799000
+#27	SNOMED T24	14799000
+#28	SNOMED T12	86251006
+#29	SNOMED T7	86251006
+#30	SNOMED T9	86251006
+#31	SNOMED T2	44524009
+#32	SNOMED T8	1187396000
+#33	SNOMED T10	1187396000
+#34	SNOMED T14	34360000
+#35	SNOMED T15	302840001
+#36	SNOMED T16	302840001
+#37	SNOMED T4	14799000
+#38	SNOMED T17	14799000
+#39	SNOMED T5	14799000
+#40	SNOMED T19	14799000
+#41	SNOMED T22	14799000
+#42	SNOMED T20	14799000
+#43	SNOMED T21	14799000
+#44	SNOMED T18	14799000

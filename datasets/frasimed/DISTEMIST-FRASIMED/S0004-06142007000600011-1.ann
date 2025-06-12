@@ -1,0 +1,4 @@
+T1	disease 28 37	allergies
+T2	disease 542 559	léiomyome vésical
+#1	SNOMED T1	106190000
+#2	SNOMED T2	146801000119103

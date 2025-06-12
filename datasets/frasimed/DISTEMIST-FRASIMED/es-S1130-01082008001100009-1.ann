@@ -1,0 +1,8 @@
+T1	disease 392 407	hépatocarcinome
+T2	disease 666 672	lésion
+T3	disease 743 775	hépatocarcinome bien différencié
+T4	disease 877 896	invasion vasculaire
+#1	SNOMED T1	109841003
+#2	SNOMED T3	25370001
+#3	SNOMED T4	372287009
+#4	SNOMED T2	417163006

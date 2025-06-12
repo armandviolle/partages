@@ -1,0 +1,12 @@
+T1	disease 601 624	adénopathies axillaires
+T2	disease 601 646	adénopathies axillaires et supraclaviculaires
+T3	disease 710 729	épanchement pleural
+T4	disease 746 772	lymphangite carcinomateuse
+T5	disease 961 991	carcinome canalaire infiltrant
+T6	disease 1462 1474	adénopathies
+#1	SNOMED T1	127189005
+#2	SNOMED T2	127088000+127189005
+#3	SNOMED T3	60046008
+#4	SNOMED T4	255119002
+#5	SNOMED T5	408643008
+#6	SNOMED T6	30746006

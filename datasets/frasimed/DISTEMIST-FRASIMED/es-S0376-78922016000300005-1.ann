@@ -1,0 +1,18 @@
+T1	disease 46 55	prématuré
+T2	disease 124 143	asphyxie péripartum
+T3	disease 149 189	encéphalopathie néonatale modérée-sévère
+T4	disease 207 226	asphyxie péripartum
+T5	disease 584 606	lésion cutanée dorsale
+T6	disease 771 778	escarre
+T7	disease 933 961	nécrose graisseuse liquéfiée
+T8	disease 1435 1440	plaie
+T9	disease 1801 1806	plaie
+#1	SNOMED T1	771299009
+#2	SNOMED T7	238888007
+#3	SNOMED T2	275368005
+#4	SNOMED T3	95628005
+#5	SNOMED T4	275368005
+#6	SNOMED T8	416462003
+#7	SNOMED T9	416462003
+#8	SNOMED T5	95324001
+#9	SNOMED T6	247452009

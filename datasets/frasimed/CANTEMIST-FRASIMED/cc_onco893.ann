@@ -1,0 +1,26 @@
+T1	morphology-onco 593 602	malignité
+T2	morphology-onco 1000 1012	angiosarcome
+T3	morphology-onco 1203 1212	malignité
+T4	morphology-onco 1286 1397	Angiosarcome cutané classique de 4,5 cm, grade histologique 3 (selon le système de classification de la FNCLCC)
+T5	morphology-onco 1415 1421	tumeur
+T6	morphology-onco 1625 1627	Mx
+T7	morphology-onco 2225 2243	nodule sous-cutané
+T8	morphology-onco 2927 2951	métastase d'angiosarcome
+T9	morphology-onco 2971 2980	métastase
+#1	ICD-O-3.1 T2	9120/3
+#2	ICD-O-3.1 T1	8000/3
+#3	ICD-O-3.1 T3	8000/3
+#4	ICD-O-3.1 T9	8000/6
+#5	ICD-O-3.1 T5	8000/1
+#6	ICD-O-3.1 T4	9120/33
+#7	ICD-O-3.1 T6	8000/6
+#8	ICD-O-3.1 T8	9120/6
+#9	ICD-O-3.1 T7	8000/6
+#10	SNOMED T2	39000009
+#11	SNOMED T1	1240414004
+#12	SNOMED T3	1240414004
+#13	SNOMED T9	14799000
+#14	SNOMED T5	86251006
+#15	SNOMED T4	39000009
+#16	SNOMED T6	14799000
+#17	SNOMED T7	14799000

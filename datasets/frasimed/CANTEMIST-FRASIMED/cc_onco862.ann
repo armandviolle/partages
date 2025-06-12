@@ -1,0 +1,54 @@
+T1	morphology-onco 181 195	adénocarcinome
+T2	morphology-onco 395 401	tumeur
+T3	morphology-onco 750 758	cT3dN2M1
+T4	morphology-onco 1100 1125	implant dans le mésosigme
+T5	morphology-onco 1195 1271	carcinome avec des cellules au cytoplasme vacuolisé dans un anneau de signet
+T6	morphology-onco 1493 1523	cellules épithéliales malignes
+T7	morphology-onco 1895 1901	tumeur
+T8	morphology-onco 2310 2326	lésions osseuses
+T9	morphology-onco 3049 3082	progression exclusivement osseuse
+T10	morphology-onco 3347 3362	nodules cutanés
+T11	morphology-onco 3529 3548	atteinte secondaire
+T12	morphology-onco 3687 3707	Nodules sous-cutanés
+T13	morphology-onco 4158 4178	Nodules sous-cutanés
+T14	morphology-onco 4855 4871	lésions osseuses
+T15	morphology-onco 5090 5144	cellules uniques atypiques à morphologie de chevalière
+T16	morphology-onco 5424 5516	Métastase cutanée d'un adénocarcinome d'origine intestinale avec cellules en anneau de Signe
+T17	morphology-onco 5548 5585	progression tumorale au niveau cutané
+T18	morphology-onco 5805 5821	lésions cutanées
+#1	ICD-O-3.1 T1	8140/3
+#2	ICD-O-3.1 T15	8490/3
+#3	ICD-O-3.1 T2	8000/1
+#4	ICD-O-3.1 T3	8000/6
+#5	ICD-O-3.1 T5	8490/3
+#6	ICD-O-3.1 T6	8001/3
+#7	ICD-O-3.1 T7	8000/1
+#8	ICD-O-3.1 T11	8000/6
+#9	ICD-O-3.1 T16	8490/6
+#10	ICD-O-3.1 T12	8000/6
+#11	ICD-O-3.1 T13	8000/6
+#12	ICD-O-3.1 T4	8000/6
+#13	ICD-O-3.1 T8	8000/6
+#14	ICD-O-3.1 T14	8000/6
+#15	ICD-O-3.1 T9	8000/6
+#16	ICD-O-3.1 T10	8000/6
+#17	ICD-O-3.1 T17	8000/6
+#18	ICD-O-3.1 T18	8000/6
+#19	SNOMED T1	1187332001
+#20	SNOMED T15	87737001
+#21	SNOMED T2	86251006
+#22	SNOMED T3	14799000
+#23	SNOMED T5	87737001
+#24	SNOMED T6	88400008
+#25	SNOMED T7	86251006
+#26	SNOMED T11	14799000
+#27	SNOMED T16	4305004
+#28	SNOMED T12	14799000
+#29	SNOMED T13	14799000
+#30	SNOMED T4	14799000
+#31	SNOMED T8	14799000
+#32	SNOMED T14	14799000
+#33	SNOMED T9	14799000
+#34	SNOMED T10	14799000
+#35	SNOMED T17	14799000
+#36	SNOMED T18	14799000

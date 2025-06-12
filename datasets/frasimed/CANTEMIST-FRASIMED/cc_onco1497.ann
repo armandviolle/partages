@@ -1,0 +1,30 @@
+T1	morphology-onco 64 70	tumeur
+T2	morphology-onco 379 475	prolifération de cellules fusiformes avec un mode de croissance infiltrant sur un stroma myxoïde
+T3	morphology-onco 718 738	Sarcome de bas grade
+T4	morphology-onco 833 852	nodules pulmonaires
+T5	morphology-onco 952 961	métastase
+T6	morphology-onco 986 1024	lésions occupant l'espace dans le foie
+T7	morphology-onco 1370 1390	sarcome de bas grade
+T8	morphology-onco 1999 2029	néoplasme stromal fibromyxoïde
+T9	morphology-onco 2298 2337	hémangioendothéliome épithélioïde malin
+T10	morphology-onco 2606 2612	tumeur
+#1	ICD-O-3.1 T3	8800/31
+#2	ICD-O-3.1 T6	8000/6
+#3	ICD-O-3.1 T5	8000/6
+#4	ICD-O-3.1 T8	8811/0
+#5	ICD-O-3.1 T7	8800/31
+#6	ICD-O-3.1 T1	8000/1
+#7	ICD-O-3.1 T10	8000/1
+#8	ICD-O-3.1 T2	8811/0
+#9	ICD-O-3.1 T9	9133/3
+#10	ICD-O-3.1 T4	8000/6
+#11	SNOMED T3	1187396000
+#12	SNOMED T6	14799000
+#13	SNOMED T5	14799000
+#14	SNOMED T8	8664001
+#15	SNOMED T7	1187396000
+#16	SNOMED T1	86251006
+#17	SNOMED T10	86251006
+#18	SNOMED T2	8664001
+#19	SNOMED T9	54124005
+#20	SNOMED T4	14799000

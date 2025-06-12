@@ -1,0 +1,14 @@
+T1	disease 55 84	insuffisance rénale terminale
+T2	disease 1010 1013	RCC
+T3	disease 1468 1485	atteinte tumorale
+T4	disease 1724 1750	carcinome rénal papillaire
+T5	disease 1822 1824	Mx
+T6	disease 1888 1908	implication tumorale
+T7	disease 2267 2284	récidive tumorale
+#1	SNOMED T1	46177005
+#2	SNOMED T2	702391001
+#3	SNOMED T4	733608000
+#4	SNOMED T7	25173007
+#5	SNOMED T5	14799000
+#6	SNOMED T3	108369006
+#7	SNOMED T6	108369006

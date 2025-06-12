@@ -1,0 +1,11 @@
+T1	morphology-onco 774 784	métastases
+T2	morphology-onco 1256 1284	carcinome à petites cellules
+T3	morphology-onco 3261 3310	carcinome pulmonaire à petites cellules disséminé
+T4	morphology-onco 6537 6589	progression locorégionale et une adénopathie osseuse
+#1	ICD-O-3.1 T2	8041/3
+#2	ICD-O-3.1 T1	8000/6
+#3	ICD-O-3.1 T3	8041/6
+#4	ICD-O-3.1 T4	8000/6
+#5	SNOMED T2	11010461000119101
+#6	SNOMED T1	14799000
+#7	SNOMED T4	14799000

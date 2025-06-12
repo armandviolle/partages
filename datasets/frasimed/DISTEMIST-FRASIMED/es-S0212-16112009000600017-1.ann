@@ -1,0 +1,14 @@
+T1	disease 67 90	cardiopathie ischémique
+T2	disease 105 131	infarctus aigu du myocarde
+T3	disease 155 168	ancien fumeur
+T4	disease 195 244	allergies médicamenteuses ou alimentaires connues
+T5	disease 289 308	amyloïdose primaire
+T6	disease 315 335	syndrome néphrotique
+T7	disease 1540 1560	syndrome néphrotique
+#1	SNOMED T1	194828000
+#2	SNOMED T2	57054005
+#3	SNOMED T5	23132008
+#4	SNOMED T6	52254009
+#5	SNOMED T7	52254009
+#6	SNOMED T3	8517006
+#7	SNOMED T4	416098002+414285001

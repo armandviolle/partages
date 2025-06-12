@@ -1,0 +1,19 @@
+T1	disease 25 50	allergies médicamenteuses
+T2	disease 83 95	hypertension
+T3	disease 99 135	insuffisance rénale chronique légère
+T4	disease 140 174	fibrillation auriculaire chronique
+T5	disease 179 207	déficit en antithrombine III
+T6	disease 227 289	ischémie intestinale due à une thrombose veineuse mésentérique
+T7	disease 258 289	thrombose veineuse mésentérique
+T8	disease 442 459	selles méléniques
+T9	disease 634 660	lésions téléangiectasiques
+T10	disease 853 856	BHD
+T11	disease 1062 1096	angiodysplasie de l'intestin grêle
+T12	disease 1218 1242	fistule artério-veineuse
+T13	disease 1330 1346	abdominaux aigus
+T14	disease 1426 1450	ischémie de l'anastomose
+T15	disease 1667 1670	BHD
+T16	disease 2141 2144	BHD
+T17	disease 2422 2436	TEP bilatérale
+T18	disease 2519 2547	déficit en antithrombine III
+T19	disease 2566 2579	thrombophilie

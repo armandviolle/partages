@@ -1,0 +1,72 @@
+T1	morphology-onco 83 97	adénocarcinome
+T2	morphology-onco 154 160	cancer
+T3	morphology-onco 509 515	cancer
+T4	morphology-onco 603 617	adénocarcinome
+T5	morphology-onco 1009 1021	néoformation
+T6	morphology-onco 1363 1372	néoplasie
+T7	morphology-onco 1925 1956	adénocarcinome bien différencié
+T8	morphology-onco 1990 2016	lymphangite carcinomateuse
+T9	morphology-onco 2154 2163	néoplasme
+T10	morphology-onco 2295 2305	métastases
+T11	morphology-onco 2686 2700	adénocarcinome
+T12	morphology-onco 2743 2757	adénocarcinome
+T13	morphology-onco 2822 2825	cM0
+T14	morphology-onco 3726 3739	carcinomatose
+T15	morphology-onco 3784 3825	adénocarcinome canalaire bien différencié
+T16	morphology-onco 4092 4106	adénocarcinome
+T17	morphology-onco 4130 4132	M0
+T18	morphology-onco 4703 4716	carcinomatose
+T19	morphology-onco 4900 4913	carcinomatose
+T20	morphology-onco 4933 4991	implants ont été réséqués, dont deux dans l'intestin grêle
+T21	morphology-onco 5494 5513	implant sous-cutané
+T22	morphology-onco 5556 5589	métastase due à un adénocarcinome
+T23	morphology-onco 5862 5880	maladie pulmonaire
+T24	morphology-onco 6225 6238	carcinomatose
+#1	ICD-O-3.1 T17	8000/6
+#2	ICD-O-3.1 T1	8140/3
+#3	ICD-O-3.1 T4	8140/3
+#4	ICD-O-3.1 T11	8140/3
+#5	ICD-O-3.1 T12	8140/3
+#6	ICD-O-3.1 T16	8140/3
+#7	ICD-O-3.1 T13	8000/6
+#8	ICD-O-3.1 T14	8010/9
+#9	ICD-O-3.1 T18	8010/9
+#10	ICD-O-3.1 T19	8010/9
+#11	ICD-O-3.1 T24	8010/9
+#12	ICD-O-3.1 T2	8000/3
+#13	ICD-O-3.1 T3	8000/3
+#14	ICD-O-3.1 T8	8000/3
+#15	ICD-O-3.1 T10	8000/6
+#16	ICD-O-3.1 T6	8000/1
+#17	ICD-O-3.1 T9	8000/1
+#18	ICD-O-3.1 T5	8000/1
+#19	ICD-O-3.1 T7	8140/31
+#20	ICD-O-3.1 T15	8500/31
+#21	ICD-O-3.1 T20	8000/6
+#22	ICD-O-3.1 T21	8000/6
+#23	ICD-O-3.1 T22	8140/6
+#24	ICD-O-3.1 T23	8000/6
+#25	SNOMED T17	14799000
+#26	SNOMED T1	1187332001
+#27	SNOMED T4	1187332001
+#28	SNOMED T11	1187332001
+#29	SNOMED T12	1187332001
+#30	SNOMED T16	1187332001
+#31	SNOMED T13	14799000
+#32	SNOMED T14	307593001
+#33	SNOMED T18	307593001
+#34	SNOMED T19	307593001
+#35	SNOMED T24	307593001
+#36	SNOMED T2	1240414004
+#37	SNOMED T3	1240414004
+#38	SNOMED T8	1240414004
+#39	SNOMED T10	14799000
+#40	SNOMED T6	86251006
+#41	SNOMED T9	86251006
+#42	SNOMED T5	86251006
+#43	SNOMED T7	1187332001
+#44	SNOMED T15	58477004
+#45	SNOMED T20	14799000
+#46	SNOMED T21	14799000
+#47	SNOMED T22	4590003
+#48	SNOMED T23	14799000

@@ -1,0 +1,60 @@
+T1	morphology-onco 225 232	myxomes
+T2	morphology-onco 313 338	macroadénome hypophysaire
+T3	morphology-onco 607 633	carcinomes basocellulaires
+T4	morphology-onco 719 769	tumeur papillaire intrakystique de 2 cm de grade I
+T5	morphology-onco 984 1014	carcinome canalaire infiltrant
+T6	morphology-onco 1251 1256	malin
+T7	morphology-onco 1490 1499	métastase
+T8	morphology-onco 1686 1724	lésion lytique dans le corps vertébral
+T9	morphology-onco 1863 1885	métastase de carcinome
+T10	morphology-onco 2633 2642	malignité
+T11	morphology-onco 3970 3995	macroadénome hypophysaire
+T12	morphology-onco 6936 6945	métastase
+T13	morphology-onco 7026 7035	métastase
+T14	morphology-onco 7258 7272	lésion osseuse
+T15	morphology-onco 7337 7345	tumorale
+T16	morphology-onco 7665 7686	cellules néoplasiques
+T17	morphology-onco 7833 7843	métastases
+T18	morphology-onco 7859 7872	carcinomatose
+T19	morphology-onco 8971 8977	cancer
+T20	morphology-onco 9500 9506	tumeur
+#1	ICD-O-3.1 T5	8500/3
+#2	ICD-O-3.1 T3	8090/3
+#3	ICD-O-3.1 T18	8010/9
+#4	ICD-O-3.1 T19	8000/3
+#5	ICD-O-3.1 T16	8001/1
+#6	ICD-O-3.1 T8	8000/6
+#7	ICD-O-3.1 T14	8000/6
+#8	ICD-O-3.1 T2	8272/0
+#9	ICD-O-3.1 T11	8272/0
+#10	ICD-O-3.1 T6	8000/3
+#11	ICD-O-3.1 T10	8000/3
+#12	ICD-O-3.1 T7	8000/6
+#13	ICD-O-3.1 T13	8000/6
+#14	ICD-O-3.1 T12	8000/6
+#15	ICD-O-3.1 T17	8000/6
+#16	ICD-O-3.1 T9	8010/6
+#17	ICD-O-3.1 T15	8000/1
+#18	ICD-O-3.1 T20	8000/1
+#19	ICD-O-3.1 T1	8840/0
+#20	ICD-O-3.1 T4	8504/31
+#21	SNOMED T5	58477004
+#22	SNOMED T3	1338007
+#23	SNOMED T18	307593001
+#24	SNOMED T19	1240414004
+#25	SNOMED T16	39577004
+#26	SNOMED T8	14799000
+#27	SNOMED T14	14799000
+#28	SNOMED T2	254956000
+#29	SNOMED T11	254956000
+#30	SNOMED T6	1240414004
+#31	SNOMED T10	1240414004
+#32	SNOMED T7	14799000
+#33	SNOMED T13	14799000
+#34	SNOMED T12	14799000
+#35	SNOMED T17	14799000
+#36	SNOMED T9	79282002
+#37	SNOMED T15	86251006
+#38	SNOMED T20	86251006
+#39	SNOMED T1	39143003
+#40	SNOMED T4	23746000

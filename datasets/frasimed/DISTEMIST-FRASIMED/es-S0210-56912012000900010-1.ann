@@ -1,0 +1,14 @@
+T1	disease 42 66	syndrome coronarien aigu
+T2	disease 240 254	œdème cérébral
+T3	disease 492 509	mort encéphalique
+T4	disease 663 680	mort encéphalique
+T5	disease 760 768	asystole
+T6	disease 911 920	asystolie
+T7	disease 1186 1204	broncho-aspiration
+#1	SNOMED T1	394659003
+#2	SNOMED T6	397829000
+#3	SNOMED T4	230802007
+#4	SNOMED T5	397829000
+#5	SNOMED T2	2032001
+#6	SNOMED T3	230802007
+#7	SNOMED T7	427827009

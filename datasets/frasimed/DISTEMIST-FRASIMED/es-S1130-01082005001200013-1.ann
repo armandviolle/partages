@@ -1,0 +1,14 @@
+T1	disease 53 84	anémie normocytaire-normochrome
+T2	disease 106 124	néoplasie du colon
+T3	disease 216 218	MM
+T4	disease 401 406	nævus
+T5	disease 435 437	MM
+T6	disease 629 701	MM polypoïde et ulcéré de 11 cm de diamètre au niveau du côlon ascendant
+T7	disease 914 971	ganglions lymphatiques réséqués, 2 avaient des métastases
+#1	SNOMED T1	46737006
+#2	SNOMED T6	2092003
+#3	SNOMED T2	126838000
+#4	SNOMED T3	372244006
+#5	SNOMED T7	94392001
+#6	SNOMED T4	239107007
+#7	SNOMED T5	372244006

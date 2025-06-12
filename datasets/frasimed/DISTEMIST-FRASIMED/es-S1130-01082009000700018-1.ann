@@ -1,0 +1,10 @@
+T1	disease 389 398	hypotendu
+T2	disease 587 602	hépatocarcinome
+T3	disease 729 742	hémopéritoine
+T4	disease 764 797	lésion dans le segment VI du foie
+T5	disease 817 832	hépatocarcinome
+#1	SNOMED T2	109841003
+#2	SNOMED T3	45626005
+#3	SNOMED T4	126851005
+#4	SNOMED T5	109841003
+#5	SNOMED T1	45007003

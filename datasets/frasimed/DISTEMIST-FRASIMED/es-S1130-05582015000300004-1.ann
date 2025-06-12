@@ -1,0 +1,16 @@
+T1	disease 355 390	hypertension artérielle essentielle
+T2	disease 986 1001	lésion kystique
+T3	disease 1440 1455	lésion kystique
+T4	disease 1814 1876	kyste synovial au-dessus de la branche frontale du nerf facial
+T5	disease 1905 1983	pédicule qui fait communiquer le kyste avec l'articulation temporomandibulaire
+T6	disease 2039 2044	plaie
+T7	disease 2214 2229	lésion kystique
+T8	disease 2319 2324	kyste
+#1	SNOMED T2	441457006
+#2	SNOMED T7	441457006
+#3	SNOMED T3	441457006
+#4	SNOMED T8	441457006
+#5	SNOMED T4	240205003
+#6	SNOMED T1	59621000
+#7	SNOMED T5	41888000
+#8	SNOMED T6	416462003

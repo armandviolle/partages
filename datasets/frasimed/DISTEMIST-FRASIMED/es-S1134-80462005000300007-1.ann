@@ -1,0 +1,20 @@
+T1	disease 146 214	syndrome de Klippel-Trenaunay, avec une atteinte du membre inférieur
+T2	disease 324 376	angiome plat sur la face antéro-externe de la cuisse
+T3	disease 382 451	varicosités veineuses frappantes, tant sur la cuisse que sur la jambe
+T4	disease 467 494	troubles cutanés trophiques
+T5	disease 700 731	affections cutanées de sa jambe
+T6	disease 779 786	lésions
+T7	disease 909 934	malformations vasculaires
+T8	disease 1047 1092	atteinte cutanée due à une stase circulatoire
+T9	disease 1309 1324	détresse fœtale
+T10	disease 2483 2511	phénomènes thromboemboliques
+#1	SNOMED T1	721105004
+#2	SNOMED T10	371039008
+#3	SNOMED T5	128137003
+#4	SNOMED T7	27550009
+#5	SNOMED T9	130955003
+#6	SNOMED T2	416377005
+#7	SNOMED T3	72866009
+#8	SNOMED T8	35498005
+#9	SNOMED T4	95324001
+#10	SNOMED T6	157670007

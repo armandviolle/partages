@@ -1,0 +1,24 @@
+T1	disease 66 122	tumorale récurrente sur le côté gauche de la base du cou
+T2	disease 261 273	neurofibrome
+T3	disease 432 497	cicatrice chéloïde rétractable sur la zone latérale gauche du cou
+T4	disease 690 696	lésion
+T5	disease 1298 1340	atteinte des structures vasculaires du cou
+T6	disease 1349 1374	extension intrathoracique
+T7	disease 1669 1681	neurofibrome
+T8	disease 1773 1785	neurofibrome
+T9	disease 2463 2469	lésion
+T10	disease 3221 3233	neurofibrome
+T11	disease 3453 3459	lésion
+T12	disease 4363 4386	insuffisance artérielle
+#1	SNOMED T10	404029005
+#2	SNOMED T1	126635000
+#3	SNOMED T2	404029005
+#4	SNOMED T3	33659008
+#5	SNOMED T12	195374003
+#6	SNOMED T4	417163006
+#7	SNOMED T9	417163006
+#8	SNOMED T11	417163006
+#9	SNOMED T7	404029005
+#10	SNOMED T8	404029005
+#11	SNOMED T5	262937009
+#12	SNOMED T6	94207003

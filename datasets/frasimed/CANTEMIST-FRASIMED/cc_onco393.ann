@@ -1,0 +1,36 @@
+T1	morphology-onco 176 182	cancer
+T2	morphology-onco 340 396	carcinome canalaire infiltrant du sein droit de grade II
+T3	morphology-onco 420 422	M0
+T4	morphology-onco 1170 1261	progression du cancer du sein a été visualisée au niveau des ganglions lymphatiques, des os
+T5	morphology-onco 1379 1391	métastatique
+T6	morphology-onco 1503 1525	adénocarcinome invasif
+T7	morphology-onco 1543 1545	M0
+T8	morphology-onco 1844 1850	T3N0M0
+T9	morphology-onco 2121 2132	néoplasique
+T10	morphology-onco 2269 2278	métastase
+T11	morphology-onco 3449 3455	cancer
+T12	morphology-onco 3764 3773	néoplasme
+#1	ICD-O-3.1 T3	8000/6
+#2	ICD-O-3.1 T7	8000/6
+#3	ICD-O-3.1 T8	8000/6
+#4	ICD-O-3.1 T1	8000/3
+#5	ICD-O-3.1 T11	8000/3
+#6	ICD-O-3.1 T5	8000/6
+#7	ICD-O-3.1 T10	8000/6
+#8	ICD-O-3.1 T12	8000/1
+#9	ICD-O-3.1 T9	8000/1
+#10	ICD-O-3.1 T2	8500/34
+#11	ICD-O-3.1 T6	8140/3/H
+#12	ICD-O-3.1 T4	8000/6
+#13	SNOMED T3	14799000
+#14	SNOMED T7	14799000
+#15	SNOMED T8	14799000
+#16	SNOMED T1	1240414004
+#17	SNOMED T11	1240414004
+#18	SNOMED T5	14799000
+#19	SNOMED T10	14799000
+#20	SNOMED T12	86251006
+#21	SNOMED T9	86251006
+#22	SNOMED T2	58477004
+#23	SNOMED T6	1187332001
+#24	SNOMED T4	14799000

@@ -1,0 +1,16 @@
+T1	disease 151 169	inclusion dentaire
+T2	disease 205 238	inclusion de la canine inférieure
+T3	disease 384 402	kyste folliculaire
+T4	disease 468 486	kyste folliculaire
+T5	disease 543 557	canine incluse
+T6	disease 1922 1965	tumeur odontogène adénomatoïde folliculaire
+T7	disease 1981 2022	rétention de la structure dentaire canine
+T8	disease 2631 2646	lésion tumorale
+#1	SNOMED T3	103614000
+#2	SNOMED T6	60599006
+#3	SNOMED T7	196419009
+#4	SNOMED T8	55342001
+#5	SNOMED T4	103614000
+#6	SNOMED T1	700080009
+#7	SNOMED T2	196413005
+#8	SNOMED T5	196419009

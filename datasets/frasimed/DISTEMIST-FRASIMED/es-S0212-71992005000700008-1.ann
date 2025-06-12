@@ -1,0 +1,16 @@
+T1	disease 64 75	allergiques
+T2	disease 466 480	hernie hiatale
+T3	disease 495 505	œsophagite
+T4	disease 520 553	reflux biliaire duodéno-gastrique
+T5	disease 1145 1182	hyperpigmentation cutanée généralisée
+T6	disease 2094 2107	hyperkaliémie
+T7	disease 2183 2192	hypotendu
+T8	disease 2237 2255	crise addisonienne
+#1	SNOMED T6	14140009
+#2	SNOMED T8	766986002
+#3	SNOMED T2	84089009
+#4	SNOMED T3	16761005
+#5	SNOMED T4	72950008
+#6	SNOMED T1	106190000
+#7	SNOMED T5	49765009
+#8	SNOMED T7	45007003

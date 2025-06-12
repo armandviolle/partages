@@ -1,0 +1,27 @@
+T1	morphology-onco 1220 1238	lésions hépatiques
+T2	morphology-onco 1523 1533	carcinoïde
+T3	morphology-onco 1591 1657	néoformation maligne avec des caractéristiques neuroendocriniennes
+T4	morphology-onco 1841 1859	lésions hépatiques
+T5	morphology-onco 1873 1916	Tumeur neuroendocrine de l'iléon de grade 2
+T6	morphology-onco 2486 2504	lésions hépatiques
+T7	morphology-onco 3609 3633	tumeur bien différenciée
+T8	morphology-onco 3762 3772	métastases
+T9	morphology-onco 4617 4630	métastatiques
+#1	ICD-O-3.1 T8	8000/6
+#2	ICD-O-3.1 T3	8240/3
+#3	ICD-O-3.1 T5	8240/32
+#4	ICD-O-3.1 T7	8000/11
+#5	ICD-O-3.1 T9	8000/6
+#6	ICD-O-3.1 T2	8240/3
+#7	ICD-O-3.1 T1	8000/6
+#8	ICD-O-3.1 T4	8000/6
+#9	ICD-O-3.1 T6	8000/6
+#10	SNOMED T8	14799000
+#11	SNOMED T3	189607006
+#12	SNOMED T5	189607006
+#13	SNOMED T7	86251006
+#14	SNOMED T9	14799000
+#15	SNOMED T2	189607006
+#16	SNOMED T1	14799000
+#17	SNOMED T4	14799000
+#18	SNOMED T6	14799000

@@ -1,0 +1,14 @@
+T1	disease 17 52	Lithiase calcifiante du rein gauche
+T2	disease 79 98	hypertension sévère
+T3	disease 311 326	Obésité modérée
+T4	disease 485 503	choc hypovolémique
+T5	disease 699 723	hématome sous-capsulaire
+T6	disease 762 781	épanchement pleural
+T7	disease 1105 1113	hématome
+#1	SNOMED T1	427649000
+#2	SNOMED T2	38341003
+#3	SNOMED T6	60046008
+#4	SNOMED T4	39419009
+#5	SNOMED T3	414916001
+#6	SNOMED T5	385494008
+#7	SNOMED T7	385494008

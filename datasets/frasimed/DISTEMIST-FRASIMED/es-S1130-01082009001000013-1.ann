@@ -1,0 +1,28 @@
+T1	disease 56 68	hypertension
+T2	disease 72 83	ostéoporose
+T3	disease 108 117	myomatose
+T4	disease 182 202	carcinome infiltrant
+T5	disease 342 356	masse tumorale
+T6	disease 536 551	lésion vésicale
+T7	disease 558 584	métastases dans la colonne
+T8	disease 761 773	rectorragies
+T9	disease 929 942	anémie sévère
+T10	disease 1072 1090	proctite actinique
+T11	disease 1107 1152	lésions néovasculaires friables et saignantes
+T12	disease 1514 1526	rectorragies
+T13	disease 2585 2609	progression de la tumeur
+T14	disease 2732 2743	rectorragie
+#1	SNOMED T13	55342001
+#2	SNOMED T1	38341003
+#3	SNOMED T10	3951002
+#4	SNOMED T2	64859006
+#5	SNOMED T3	1156875002
+#6	SNOMED T14	12063002
+#7	SNOMED T4	425066001
+#8	SNOMED T6	300457003
+#9	SNOMED T7	94602001
+#10	SNOMED T9	271737000
+#11	SNOMED T8	12063002
+#12	SNOMED T12	12063002
+#13	SNOMED T11	402761000
+#14	SNOMED T5	55342001

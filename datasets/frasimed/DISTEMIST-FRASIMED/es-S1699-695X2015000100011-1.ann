@@ -1,0 +1,22 @@
+T1	disease 74 111	pathologie organique ou psychiatrique
+T2	disease 118 129	toxicomanie
+T3	disease 916 926	dépressive
+T4	disease 1217 1238	maladie psychiatrique
+T5	disease 1752 1785	crise tonico-clonique généralisée
+T6	disease 1831 1849	encéphalite virale
+T7	disease 2156 2178	dépression psychotique
+T8	disease 2303 2311	Syphilis
+T9	disease 2313 2325	Toxoplasmose
+T10	disease 2877 2914	encéphalopathie lente diffuse modérée
+T11	disease 3314 3322	dystonie
+T12	disease 3452 3481	porphyrie aiguë intermittente
+T13	disease 3498 3523	crises toniques complexes
+T14	disease 3971 3988	myoclonie faciale
+T15	disease 4095 4118	encéphalopathie diffuse
+T16	disease 4123 4139	maladie de Prion
+T17	disease 4432 4443	encéphalite
+T18	disease 4472 4480	tératome
+T19	disease 4990 5044	encéphalite contre les récepteurs N-méthyl-D-aspartate
+T20	disease 5046 5054	ECR-NMDA
+T21	disease 5062 5119	trouble psychotique secondaire à une pathologie organique
+T22	disease 5121 5129	ECR-NMDA

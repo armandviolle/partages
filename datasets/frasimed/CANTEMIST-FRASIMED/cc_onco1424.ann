@@ -1,0 +1,27 @@
+T1	morphology-onco 803 812	néoplasie
+T2	morphology-onco 944 965	dissémination osseuse
+T3	morphology-onco 966 978	métastatique
+T4	morphology-onco 1074 1087	LOE hépatique
+T5	morphology-onco 1090 1140	métastase d'un carcinome médullaire de la thyroïde
+T6	morphology-onco 1392 1444	atteinte ganglionnaire cervicale et sus-claviculaire
+T7	morphology-onco 1641 1665	carcinome neuroendocrine
+T8	morphology-onco 1708 1728	carcinome médullaire
+T9	morphology-onco 1784 1843	Carcinome médullaire de la thyroïde de stade IV (métastases
+T10	morphology-onco 2050 2114	carcinome médullaire de la thyroïde avec dissémination hépatique
+#1	ICD-O-3.1 T7	8246/3
+#2	ICD-O-3.1 T8	8510/3
+#3	ICD-O-3.1 T2	8000/6
+#4	ICD-O-3.1 T3	8000/6
+#5	ICD-O-3.1 T1	8000/1
+#6	ICD-O-3.1 T4	8000/6
+#7	ICD-O-3.1 T5	8510/6
+#8	ICD-O-3.1 T6	8000/6
+#9	ICD-O-3.1 T9	8510/6
+#10	ICD-O-3.1 T10	8510/6
+#11	SNOMED T7	55937004
+#12	SNOMED T8	32913002
+#13	SNOMED T2	14799000
+#14	SNOMED T3	14799000
+#15	SNOMED T1	86251006
+#16	SNOMED T4	14799000
+#17	SNOMED T6	14799000

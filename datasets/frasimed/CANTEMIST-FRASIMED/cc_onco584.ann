@@ -1,0 +1,87 @@
+T1	morphology-onco 304 330	cystoadénofibrome mucineux
+T2	morphology-onco 375 391	nævus congénital
+T3	morphology-onco 529 536	fibrome
+T4	morphology-onco 627 635	fibromes
+T5	morphology-onco 717 745	épithéliomas basocellulaires
+T6	morphology-onco 790 796	cancer
+T7	morphology-onco 850 856	cancer
+T8	morphology-onco 1162 1172	papillomes
+T9	morphology-onco 1184 1198	trichilemmomes
+T10	morphology-onco 1720 1747	maladie de Lhermitte-Duclos
+T11	morphology-onco 1817 1830	trichilemomes
+T12	morphology-onco 1877 1892	papillomateuses
+T13	morphology-onco 2000 2006	cancer
+T14	morphology-onco 2051 2070	cancer folliculaire
+T15	morphology-onco 2248 2261	fibroadénomes
+T16	morphology-onco 2300 2307	lipomes
+T17	morphology-onco 2309 2317	fibromes
+T18	morphology-onco 2319 2346	cancer des cellules rénales
+T19	morphology-onco 2617 2631	trichilemmomes
+T20	morphology-onco 2655 2665	papillomes
+T21	morphology-onco 2692 2702	Papillomes
+T22	morphology-onco 2774 2784	papillomes
+T23	morphology-onco 3103 3111	fibromes
+T24	morphology-onco 3868 3874	cancer
+T25	morphology-onco 3901 3913	folliculomes
+T26	morphology-onco 3931 3949	syndrome de Gorlin
+T27	morphology-onco 3980 4006	carcinomes basocellulaires
+T28	morphology-onco 4109 4118	NF type 1
+T29	morphology-onco 4815 4831	tumeurs malignes
+#1	ICD-O-3.1 T27	8090/3
+#2	ICD-O-3.1 T7	8000/3
+#3	ICD-O-3.1 T6	8000/3
+#4	ICD-O-3.1 T13	8000/3
+#5	ICD-O-3.1 T24	8000/3
+#6	ICD-O-3.1 T14	8330/3
+#7	ICD-O-3.1 T15	9010/0
+#8	ICD-O-3.1 T3	8810/0
+#9	ICD-O-3.1 T4	8810/0
+#10	ICD-O-3.1 T17	8810/0
+#11	ICD-O-3.1 T23	8810/0
+#12	ICD-O-3.1 T16	8850/0
+#13	ICD-O-3.1 T26	8090/3
+#14	ICD-O-3.1 T29	8000/3
+#15	ICD-O-3.1 T1	9015/0
+#16	ICD-O-3.1 T2	8720/0/H
+#17	ICD-O-3.1 T5	8090/3
+#18	ICD-O-3.1 T10	9493/0
+#19	ICD-O-3.1 T9	8103/0
+#20	ICD-O-3.1 T8	8050/0
+#21	ICD-O-3.1 T11	8103/0
+#22	ICD-O-3.1 T12	8050/0
+#23	ICD-O-3.1 T18	8312/3
+#24	ICD-O-3.1 T19	8103/0
+#25	ICD-O-3.1 T20	8050/0
+#26	ICD-O-3.1 T21	8050/0
+#27	ICD-O-3.1 T22	8050/0
+#28	ICD-O-3.1 T25	8391/0
+#29	ICD-O-3.1 T28	9540/1
+#30	SNOMED T27	1338007
+#31	SNOMED T7	1240414004
+#32	SNOMED T6	1240414004
+#33	SNOMED T13	1240414004
+#34	SNOMED T24	1240414004
+#35	SNOMED T14	5257006
+#36	SNOMED T15	1156873009
+#37	SNOMED T3	424568000
+#38	SNOMED T4	424568000
+#39	SNOMED T17	424568000
+#40	SNOMED T23	424568000
+#41	SNOMED T16	93163002
+#42	SNOMED T26	1338007
+#43	SNOMED T29	1240414004
+#44	SNOMED T1	10705005
+#45	SNOMED T2	400010006
+#46	SNOMED T5	1338007
+#47	SNOMED T10	128791005
+#48	SNOMED T9	254677004
+#49	SNOMED T8	711329002
+#50	SNOMED T11	254677004
+#51	SNOMED T12	711329002
+#52	SNOMED T18	41607009
+#53	SNOMED T19	254677004
+#54	SNOMED T20	711329002
+#55	SNOMED T21	711329002
+#56	SNOMED T22	711329002
+#57	SNOMED T25	254699007
+#58	SNOMED T28	19133005

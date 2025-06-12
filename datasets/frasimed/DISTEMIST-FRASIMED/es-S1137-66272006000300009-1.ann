@@ -1,0 +1,22 @@
+T1	disease 761 805	luxation horizontale inférieure de la rotule
+T2	disease 1154 1162	hématome
+T3	disease 1380 1418	foyer hémorragique dans le LLE, le LLI
+T4	disease 1629 1655	arthrose fémoro-patellaire
+T5	disease 1670 1709	ostéophytose chondylienne et patellaire
+T6	disease 1767 1816	ostéophytes rotuliens et du sillon intercondylien
+T7	disease 1999 2010	traumatisme
+T8	disease 2231 2291	genou présentant une arthrose fémoro-patellaire prédominante
+T9	disease 2373 2381	blessure
+T10	disease 2623 2649	arthrose fémoro-patellaire
+T11	disease 2696 2704	luxation
+#1	SNOMED T1	58320001
+#2	SNOMED T10	450521003
+#3	SNOMED T8	450521003
+#4	SNOMED T11	87642003
+#5	SNOMED T3	281523003
+#6	SNOMED T4	450521003
+#7	SNOMED T5	235231000119100
+#8	SNOMED T7	417746004
+#9	SNOMED T2	385494008
+#10	SNOMED T9	417163006
+#11	SNOMED T6	128136007

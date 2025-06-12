@@ -1,0 +1,4 @@
+T1	disease 246 265	traumatisme crânien
+T2	disease 966 992	bégaiement développemental
+#1	SNOMED T2	39423001
+#2	SNOMED T1	82271004

@@ -1,0 +1,59 @@
+T1	morphology-onco 88 124	syndrome myéloprolifératif chronique
+T2	morphology-onco 132 158	thrombocytémie essentielle
+T3	morphology-onco 1039 1077	carcinome adénoïde kystique de grade 2
+T4	morphology-onco 1171 1186	micrométastases
+T5	morphology-onco 1243 1252	pT2N1miM0
+T6	morphology-onco 2002 2021	nodules pulmonaires
+T7	morphology-onco 2059 2069	métastases
+T8	morphology-onco 2077 2101	nodules diaphragmatiques
+T9	morphology-onco 2168 2185	implants tumoraux
+T10	morphology-onco 2355 2416	plèvre viscérale et pariétale a été observée avec des lésions
+T11	morphology-onco 2430 2440	métastases
+T12	morphology-onco 2625 2634	néoplasie
+T13	morphology-onco 2656 2673	adénoïde kystique
+T14	morphology-onco 2738 2778	carcinome adénoïde kystique métastatique
+T15	morphology-onco 2804 2823	atteinte pulmonaire
+T16	morphology-onco 2949 2955	tumeur
+T17	morphology-onco 2986 2992	tumeur
+T18	morphology-onco 3050 3060	métastases
+T19	morphology-onco 3192 3210	rechute systémique
+T20	morphology-onco 3447 3474	carcinome adénoïde kystique
+#1	ICD-O-3.1 T15	8000/6
+#2	ICD-O-3.1 T20	8200/3
+#3	ICD-O-3.1 T9	8000/6
+#4	ICD-O-3.1 T7	8000/6
+#5	ICD-O-3.1 T11	8000/6
+#6	ICD-O-3.1 T18	8000/6
+#7	ICD-O-3.1 T4	8000/6
+#8	ICD-O-3.1 T12	8000/1
+#9	ICD-O-3.1 T6	8000/6
+#10	ICD-O-3.1 T1	9960/3
+#11	ICD-O-3.1 T2	9962/3
+#12	ICD-O-3.1 T16	8000/1
+#13	ICD-O-3.1 T17	8000/1
+#14	ICD-O-3.1 T3	8200/32
+#15	ICD-O-3.1 T5	8000/6
+#16	ICD-O-3.1 T8	8000/6
+#17	ICD-O-3.1 T10	8000/6
+#18	ICD-O-3.1 T13	8200/3
+#19	ICD-O-3.1 T14	8200/6
+#20	ICD-O-3.1 T19	8000/6
+#21	SNOMED T15	14799000
+#22	SNOMED T20	302827006
+#23	SNOMED T9	14799000
+#24	SNOMED T7	14799000
+#25	SNOMED T11	14799000
+#26	SNOMED T18	14799000
+#27	SNOMED T4	14799000
+#28	SNOMED T12	86251006
+#29	SNOMED T6	14799000
+#30	SNOMED T1	109993000
+#31	SNOMED T2	109994006
+#32	SNOMED T16	86251006
+#33	SNOMED T17	86251006
+#34	SNOMED T3	302827006
+#35	SNOMED T5	14799000
+#36	SNOMED T8	14799000
+#37	SNOMED T10	14799000
+#38	SNOMED T13	302827006
+#39	SNOMED T19	14799000

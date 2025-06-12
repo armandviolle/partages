@@ -1,0 +1,15 @@
+T1	morphology-onco 271 292	mélanome cutané malin
+T2	morphology-onco 474 481	pT4N0M0
+T3	morphology-onco 698 720	progression pulmonaire
+T4	morphology-onco 829 838	métastase
+T5	morphology-onco 1108 1130	progression pulmonaire
+#1	ICD-O-3.1 T4	8000/6
+#2	ICD-O-3.1 T2	8000/6
+#3	ICD-O-3.1 T1	8720/3
+#4	ICD-O-3.1 T3	8000/6
+#5	ICD-O-3.1 T5	8000/6
+#6	SNOMED T4	14799000
+#7	SNOMED T2	14799000
+#8	SNOMED T1	1162635006
+#9	SNOMED T3	14799000
+#10	SNOMED T5	14799000

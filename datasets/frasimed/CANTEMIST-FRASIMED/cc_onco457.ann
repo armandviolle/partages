@@ -1,0 +1,63 @@
+T1	morphology-onco 240 254	adénocarcinome
+T2	morphology-onco 326 340	adénocarcinome
+T3	morphology-onco 479 493	adénocarcinome
+T4	morphology-onco 526 528	M0
+T5	morphology-onco 631 645	adénocarcinome
+T6	morphology-onco 678 680	M0
+T7	morphology-onco 1014 1066	adénocarcinome gastrique de type intestinal, grade 3
+T8	morphology-onco 1094 1096	M0
+T9	morphology-onco 1919 1925	tumeur
+T10	morphology-onco 2092 2105	carcinomatose
+T11	morphology-onco 2186 2216	adénocarcinome peu différencié
+T12	morphology-onco 2272 2300	cellules en anneau de signet
+T13	morphology-onco 2584 2624	adénocarcinome gastrique peu différencié
+T14	morphology-onco 2638 2651	carcinomatose
+T15	morphology-onco 2838 2844	tumeur
+T16	morphology-onco 2947 2970	masse biliopancréatique
+T17	morphology-onco 3017 3023	tumeur
+T18	morphology-onco 3043 3052	néoplasie
+T19	morphology-onco 3152 3158	cancer
+T20	morphology-onco 3399 3411	métastatique
+T21	morphology-onco 4686 4696	néoplasmes
+#1	ICD-O-3.1 T4	8000/6
+#2	ICD-O-3.1 T6	8000/6
+#3	ICD-O-3.1 T8	8000/6
+#4	ICD-O-3.1 T1	8140/3
+#5	ICD-O-3.1 T2	8140/3
+#6	ICD-O-3.1 T3	8140/3
+#7	ICD-O-3.1 T5	8140/3
+#8	ICD-O-3.1 T11	8140/33
+#9	ICD-O-3.1 T10	8010/9
+#10	ICD-O-3.1 T14	8010/9
+#11	ICD-O-3.1 T19	8000/3
+#12	ICD-O-3.1 T12	8490/3
+#13	ICD-O-3.1 T20	8000/6
+#14	ICD-O-3.1 T17	8000/1
+#15	ICD-O-3.1 T21	8000/1
+#16	ICD-O-3.1 T18	8000/1
+#17	ICD-O-3.1 T9	8000/1
+#18	ICD-O-3.1 T15	8000/1
+#19	ICD-O-3.1 T7	8144/33
+#20	ICD-O-3.1 T13	8140/33
+#21	ICD-O-3.1 T16	8000/6
+#22	SNOMED T4	14799000
+#23	SNOMED T6	14799000
+#24	SNOMED T8	14799000
+#25	SNOMED T1	1187332001
+#26	SNOMED T2	1187332001
+#27	SNOMED T3	1187332001
+#28	SNOMED T5	1187332001
+#29	SNOMED T11	1187332001
+#30	SNOMED T10	307593001
+#31	SNOMED T14	307593001
+#32	SNOMED T19	1240414004
+#33	SNOMED T12	87737001
+#34	SNOMED T20	14799000
+#35	SNOMED T17	86251006
+#36	SNOMED T21	86251006
+#37	SNOMED T18	86251006
+#38	SNOMED T9	86251006
+#39	SNOMED T15	86251006
+#40	SNOMED T7	25190001
+#41	SNOMED T13	1187332001
+#42	SNOMED T16	14799000

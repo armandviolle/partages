@@ -1,0 +1,30 @@
+T1	morphology-onco 992 1015	sarcome des tissus mous
+T2	morphology-onco 1158 1186	léiomyosarcome indifférencié
+T3	morphology-onco 1234 1241	tumoral
+T4	morphology-onco 1253 1255	M0
+T5	morphology-onco 1501 1535	nodules millimétriques pulmonaires
+T6	morphology-onco 1548 1558	métastases
+T7	morphology-onco 1680 1702	progression pulmonaire
+T8	morphology-onco 2829 2837	tumorale
+T9	morphology-onco 3136 3155	nodules pulmonaires
+T10	morphology-onco 3156 3169	métastatiques
+#1	ICD-O-3.1 T4	8000/6
+#2	ICD-O-3.1 T10	8000/6
+#3	ICD-O-3.1 T6	8000/6
+#4	ICD-O-3.1 T9	8000/6
+#5	ICD-O-3.1 T7	8000/6
+#6	ICD-O-3.1 T1	8800/3
+#7	ICD-O-3.1 T3	8000/1
+#8	ICD-O-3.1 T8	8000/1
+#9	ICD-O-3.1 T2	8890/34
+#10	ICD-O-3.1 T5	8000/6
+#11	SNOMED T4	14799000
+#12	SNOMED T10	14799000
+#13	SNOMED T6	14799000
+#14	SNOMED T9	14799000
+#15	SNOMED T7	14799000
+#16	SNOMED T1	1187396000
+#17	SNOMED T3	86251006
+#18	SNOMED T8	86251006
+#19	SNOMED T2	1163022006
+#20	SNOMED T5	14799000

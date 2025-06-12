@@ -1,0 +1,66 @@
+T1	morphology-onco 132 141	cavernome
+T2	morphology-onco 805 816	néoplasique
+T3	morphology-onco 893 902	Néoplasie
+T4	morphology-onco 937 955	cystadénocarcinome
+T5	morphology-onco 1074 1083	métastase
+T6	morphology-onco 1156 1166	hémangiome
+T7	morphology-onco 1213 1227	adénocarcinome
+T8	morphology-onco 1282 1291	Néoplasie
+T9	morphology-onco 1327 1341	adénocarcinome
+T10	morphology-onco 1567 1573	tumeur
+T11	morphology-onco 1716 1726	métastases
+T12	morphology-onco 1764 1794	carcinome à cellules acineuses
+T13	morphology-onco 1764 1820	carcinome à cellules acineuses de 5,5 cm de forme solide
+T14	morphology-onco 1959 1968	néoplasie
+T15	morphology-onco 1995 1997	M0
+T16	morphology-onco 2562 2602	ganglions lymphatiques sus-claviculaires
+T17	morphology-onco 2717 2728	néoplasique
+T18	morphology-onco 3194 3206	métastatique
+T19	morphology-onco 3408 3414	tumeur
+T20	morphology-onco 3470 3479	néoplasme
+T21	morphology-onco 3528 3536	tumorale
+T22	morphology-onco 4881 4892	néoplasique
+#1	ICD-O-3.1 T15	8000/6
+#2	ICD-O-3.1 T3	8000/1
+#3	ICD-O-3.1 T8	8000/1
+#4	ICD-O-3.1 T7	8140/3
+#5	ICD-O-3.1 T9	8140/3
+#6	ICD-O-3.1 T12	8550/3
+#7	ICD-O-3.1 T1	9121/0
+#8	ICD-O-3.1 T4	8440/3
+#9	ICD-O-3.1 T16	8000/6
+#10	ICD-O-3.1 T6	9120/0
+#11	ICD-O-3.1 T18	8000/6
+#12	ICD-O-3.1 T5	8000/6
+#13	ICD-O-3.1 T11	8000/6
+#14	ICD-O-3.1 T14	8000/1
+#15	ICD-O-3.1 T20	8000/1
+#16	ICD-O-3.1 T22	8000/1
+#17	ICD-O-3.1 T2	8000/1
+#18	ICD-O-3.1 T17	8000/1
+#19	ICD-O-3.1 T10	8000/1
+#20	ICD-O-3.1 T21	8000/1
+#21	ICD-O-3.1 T19	8000/1
+#22	ICD-O-3.1 T13	8230/3
+#23	SNOMED T15	14799000
+#24	SNOMED T3	86251006
+#25	SNOMED T8	86251006
+#26	SNOMED T7	1187332001
+#27	SNOMED T9	1187332001
+#28	SNOMED T12	45410002
+#29	SNOMED T1	33377007
+#30	SNOMED T4	21008007
+#31	SNOMED T16	14799000
+#32	SNOMED T6	253053003
+#33	SNOMED T18	14799000
+#34	SNOMED T5	14799000
+#35	SNOMED T11	14799000
+#36	SNOMED T14	86251006
+#37	SNOMED T20	86251006
+#38	SNOMED T22	86251006
+#39	SNOMED T2	86251006
+#40	SNOMED T17	86251006
+#41	SNOMED T10	86251006
+#42	SNOMED T21	86251006
+#43	SNOMED T19	86251006
+#44	SNOMED T13	81920005

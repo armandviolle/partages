@@ -1,0 +1,84 @@
+T1	morphology-onco 111 120	néoplasme
+T2	morphology-onco 202 230	carcinome papillaire invasif
+T3	morphology-onco 239 285	carcinome intraductal (DCIS) 8 mm de bas grade
+T4	morphology-onco 262 266	DCIS
+T5	morphology-onco 292 336	carcinome canalaire infiltrant (CDI) grade 1
+T6	morphology-onco 324 327	CDI
+T7	morphology-onco 556 562	Cancer
+T8	morphology-onco 801 830	adénopathie supraclaviculaire
+T9	morphology-onco 1055 1072	Nodule thyroïdien
+T10	morphology-onco 1257 1284	métastase (M1) de carcinome
+T11	morphology-onco 1268 1270	M1
+T12	morphology-onco 1472 1474	M1
+T13	morphology-onco 1759 1786	ganglions sus-claviculaires
+T14	morphology-onco 2409 2418	malignité
+T15	morphology-onco 2709 2718	malignité
+T16	morphology-onco 2806 2812	tumeur
+T17	morphology-onco 2833 2840	cT0N3M1
+T18	morphology-onco 2846 2869	atteinte rétropectorale
+T19	morphology-onco 3032 3049	Nodule thyroïdien
+T20	morphology-onco 3090 3125	carcinome papillaire de la thyroïde
+T21	morphology-onco 3127 3130	PTC
+T22	morphology-onco 3140 3142	M1
+T23	morphology-onco 3544 3570	ganglion M1 pour carcinome
+T24	morphology-onco 3661 3669	ADP SCLD
+T25	morphology-onco 3822 3824	M1
+T26	morphology-onco 4072 4106	métaplasie des cellules de Hürthle
+T27	morphology-onco 4287 4307	ADP sus-claviculaire
+T28	morphology-onco 4589 4597	ADP SPCL
+#1	ICD-O-3.1 T6	8500/3
+#2	ICD-O-3.1 T21	8260/3
+#3	ICD-O-3.1 T11	8000/6
+#4	ICD-O-3.1 T12	8000/6
+#5	ICD-O-3.1 T22	8000/6
+#6	ICD-O-3.1 T25	8000/6
+#7	ICD-O-3.1 T16	8000/1
+#8	ICD-O-3.1 T5	8500/31
+#9	ICD-O-3.1 T3	8500/21
+#10	ICD-O-3.1 T7	8000/3
+#11	ICD-O-3.1 T14	8000/3
+#12	ICD-O-3.1 T15	8000/3
+#13	ICD-O-3.1 T1	8000/1
+#14	ICD-O-3.1 T2	8050/3/H
+#15	ICD-O-3.1 T4	8500/2
+#16	ICD-O-3.1 T8	8000/6
+#17	ICD-O-3.1 T10	8010/6
+#18	ICD-O-3.1 T13	8000/6
+#19	ICD-O-3.1 T17	8000/6
+#20	ICD-O-3.1 T18	8000/6
+#21	ICD-O-3.1 T20	8260/3
+#22	ICD-O-3.1 T23	8010/6
+#23	ICD-O-3.1 T26	8290/0
+#24	ICD-O-3.1 T27	8000/6
+#25	ICD-O-3.1 T28	8000/6
+#26	ICD-O-3.1 T9	8000/6
+#27	ICD-O-3.1 T19	8000/6
+#28	ICD-O-3.1 T24	8000/6
+#29	SNOMED T6	58477004
+#30	SNOMED T21	4797003
+#31	SNOMED T11	14799000
+#32	SNOMED T12	14799000
+#33	SNOMED T22	14799000
+#34	SNOMED T25	14799000
+#35	SNOMED T16	86251006
+#36	SNOMED T5	58477004
+#37	SNOMED T3	1162814007
+#38	SNOMED T7	1240414004
+#39	SNOMED T14	1240414004
+#40	SNOMED T15	1240414004
+#41	SNOMED T1	86251006
+#42	SNOMED T2	25910003
+#43	SNOMED T4	1162814007
+#44	SNOMED T8	14799000
+#45	SNOMED T10	79282002
+#46	SNOMED T13	14799000
+#47	SNOMED T17	14799000
+#48	SNOMED T18	14799000
+#49	SNOMED T20	4797003
+#50	SNOMED T23	79282002
+#51	SNOMED T26	89439007
+#52	SNOMED T27	14799000
+#53	SNOMED T28	14799000
+#54	SNOMED T9	14799000
+#55	SNOMED T19	14799000
+#56	SNOMED T24	14799000

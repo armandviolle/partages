@@ -1,0 +1,10 @@
+T1	disease 206 227	goitre multinodulaire
+T2	disease 906 921	carcinome rénal
+T3	disease 998 1021	adénopathies cervicales
+T4	disease 1085 1147	images d'occupation de l'espace dans le sinus piriforme gauche
+T5	disease 1165 1172	lésions
+#1	SNOMED T1	237570007
+#2	SNOMED T2	254915003
+#3	SNOMED T3	127086001
+#4	SNOMED T5	157670007
+#5	SNOMED T4	7393007

@@ -1,0 +1,6 @@
+T1	disease 33 50	érythème périanal
+T2	disease 519 527	fissures
+T3	disease 713 734	surinfection fongique
+#1	SNOMED T1	400037008
+#2	SNOMED T2	47393002
+#3	SNOMED T3	3218000

@@ -1,0 +1,61 @@
+T1	morphology-onco 518 596	carcinome rénal à cellules claires de stade IV en raison d'une seule métastase
+T2	morphology-onco 981 997	lésion cérébrale
+T3	morphology-onco 1186 1193	tumoral
+T4	morphology-onco 1264 1311	carcinome rénal à cellules claires de grade III
+T5	morphology-onco 1568 1623	carcinome rénal à cellules claires, grade II de Furhman
+T6	morphology-onco 1805 1814	carcinome
+T7	morphology-onco 2477 2486	métastase
+T8	morphology-onco 2515 2573	Carcinome rénal à cellules claires de grade III de Fuhrman
+T9	morphology-onco 2676 2684	tumorale
+T10	morphology-onco 3265 3274	métastase
+T11	morphology-onco 3282 3325	tumeur neuroendocrine pancréatique primaire
+T12	morphology-onco 4280 4293	carcinomatose
+T13	morphology-onco 4437 4450	métastatiques
+T14	morphology-onco 4465 4521	Carcinome papillaire rénal de stade IV à un seul cerveau
+T15	morphology-onco 4889 4928	maladie dans le système nerveux central
+T16	morphology-onco 6305 6321	lésion cérébrale
+T17	morphology-onco 6475 6497	métastase de carcinome
+T18	morphology-onco 7200 7209	malignité
+T19	morphology-onco 7925 7966	maladie s'est stabilisée au niveau du SNC
+T20	morphology-onco 8177 8198	progression cérébrale
+T21	morphology-onco 8747 8760	carcinomatose
+#1	ICD-O-3.1 T6	8010/3
+#2	ICD-O-3.1 T12	8010/9
+#3	ICD-O-3.1 T21	8010/9
+#4	ICD-O-3.1 T15	8000/6
+#5	ICD-O-3.1 T2	8000/6
+#6	ICD-O-3.1 T16	8000/6
+#7	ICD-O-3.1 T18	8000/3
+#8	ICD-O-3.1 T13	8000/6
+#9	ICD-O-3.1 T7	8000/6
+#10	ICD-O-3.1 T10	8000/6
+#11	ICD-O-3.1 T17	8010/6
+#12	ICD-O-3.1 T20	8000/6
+#13	ICD-O-3.1 T3	8000/1
+#14	ICD-O-3.1 T9	8000/1
+#15	ICD-O-3.1 T1	8310/6
+#16	ICD-O-3.1 T4	8310/33
+#17	ICD-O-3.1 T5	8310/32
+#18	ICD-O-3.1 T8	8310/33
+#19	ICD-O-3.1 T11	8150/1
+#20	ICD-O-3.1 T14	8260/6
+#21	ICD-O-3.1 T19	8000/6
+#22	SNOMED T6	1187425009
+#23	SNOMED T12	307593001
+#24	SNOMED T21	307593001
+#25	SNOMED T15	14799000
+#26	SNOMED T2	14799000
+#27	SNOMED T16	14799000
+#28	SNOMED T18	1240414004
+#29	SNOMED T13	14799000
+#30	SNOMED T7	14799000
+#31	SNOMED T10	14799000
+#32	SNOMED T17	79282002
+#33	SNOMED T20	14799000
+#34	SNOMED T3	86251006
+#35	SNOMED T9	86251006
+#36	SNOMED T4	30546008
+#37	SNOMED T5	30546008
+#38	SNOMED T8	30546008
+#39	SNOMED T11	126864006
+#40	SNOMED T19	14799000

@@ -1,0 +1,43 @@
+T1	morphology-onco 1022 1031	malignité
+T2	morphology-onco 1202 1216	tumeur maligne
+T3	morphology-onco 1328 1337	malignité
+T4	morphology-onco 1623 1674	carcinome à cellules claires de type tubulokystique
+T5	morphology-onco 1623 1715	carcinome à cellules claires de type tubulokystique associé à des zones de type adénofibreux
+T6	morphology-onco 1716 1724	pT1aN0M0
+T7	morphology-onco 1897 1903	tumeur
+T8	morphology-onco 1988 2024	carcinome ovarien à cellules claires
+T9	morphology-onco 2586 2598	métastatique
+T10	morphology-onco 2987 3030	métastase d'un carcinome à cellules claires
+T11	morphology-onco 3318 3354	lésion dans le sinus cardiophrénique
+T12	morphology-onco 3469 3478	malignité
+T13	morphology-onco 3521 3581	carcinome concordant avec une origine ovarienne métastatique
+T14	morphology-onco 4797 4803	tumeur
+T15	morphology-onco 4926 4977	métastase d'un carcinome ovarien à cellules claires
+#1	ICD-O-3.1 T1	8000/3
+#2	ICD-O-3.1 T2	8000/3
+#3	ICD-O-3.1 T3	8000/3
+#4	ICD-O-3.1 T12	8000/3
+#5	ICD-O-3.1 T10	8310/6
+#6	ICD-O-3.1 T15	8310/6
+#7	ICD-O-3.1 T7	8000/1
+#8	ICD-O-3.1 T14	8000/1
+#9	ICD-O-3.1 T6	8000/6
+#10	ICD-O-3.1 T4	8310/3/H
+#11	ICD-O-3.1 T8	8310/3
+#12	ICD-O-3.1 T9	8000/6
+#13	ICD-O-3.1 T13	8010/6
+#14	ICD-O-3.1 T11	8000/6
+#15	ICD-O-3.1 T5	8313/3
+#16	SNOMED T1	1240414004
+#17	SNOMED T2	1240414004
+#18	SNOMED T3	1240414004
+#19	SNOMED T12	1240414004
+#20	SNOMED T7	86251006
+#21	SNOMED T14	86251006
+#22	SNOMED T6	14799000
+#23	SNOMED T4	30546008
+#24	SNOMED T8	30546008
+#25	SNOMED T9	14799000
+#26	SNOMED T13	79282002
+#27	SNOMED T11	14799000
+#28	SNOMED T5	128891002

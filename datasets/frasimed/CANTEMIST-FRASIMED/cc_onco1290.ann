@@ -1,0 +1,32 @@
+T1	morphology-onco 230 264	carcinome rénal à cellules claires
+T2	morphology-onco 373 392	nodule sous-pleural
+T3	morphology-onco 494 503	métastase
+T4	morphology-onco 604 616	métastatique
+T5	morphology-onco 732 798	Carcinome rénal à cellules claires de stade IV dû à des métastases
+T6	morphology-onco 921 938	nodule pulmonaire
+T7	morphology-onco 1155 1174	masse sous-pleurale
+T8	morphology-onco 1239 1265	masse sous-diaphragmatique
+T9	morphology-onco 1907 1927	lésion sous-pleurale
+T10	morphology-onco 1960 1996	lésion postéro-inférieure de la rate
+T11	morphology-onco 2688 2697	métastase
+#1	ICD-O-3.1 T1	8310/3
+#2	ICD-O-3.1 T9	8000/6
+#3	ICD-O-3.1 T4	8000/6
+#4	ICD-O-3.1 T3	8000/6
+#5	ICD-O-3.1 T11	8000/6
+#6	ICD-O-3.1 T6	8000/6
+#7	ICD-O-3.1 T2	8000/6
+#8	ICD-O-3.1 T5	8310/6
+#9	ICD-O-3.1 T7	8000/6
+#10	ICD-O-3.1 T10	8000/6
+#11	ICD-O-3.1 T8	8000/6
+#12	SNOMED T1	30546008
+#13	SNOMED T9	14799000
+#14	SNOMED T4	14799000
+#15	SNOMED T3	14799000
+#16	SNOMED T11	14799000
+#17	SNOMED T6	14799000
+#18	SNOMED T2	14799000
+#19	SNOMED T7	14799000
+#20	SNOMED T10	14799000
+#21	SNOMED T8	14799000

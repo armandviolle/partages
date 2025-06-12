@@ -1,0 +1,41 @@
+T1	morphology-onco 579 588	malignité
+T2	morphology-onco 648 672	tumeur à cellules rondes
+T3	morphology-onco 712 727	sarcome d'Ewing
+T4	morphology-onco 873 894	sarcome indifférencié
+T5	morphology-onco 904 907	pMX
+T6	morphology-onco 1143 1162	récidive pulmonaire
+T7	morphology-onco 1175 1194	nodules pulmonaires
+T8	morphology-onco 1344 1377	métastases pulmonaires de sarcome
+T9	morphology-onco 1503 1523	implant paratrachéal
+T10	morphology-onco 1550 1570	masse sous-carénaire
+T11	morphology-onco 2246 2311	progressé vers les niveaux pulmonaire, subcarinal et paratrachéal
+T12	morphology-onco 2980 2989	malignité
+T13	morphology-onco 3083 3091	tumorale
+T14	morphology-onco 3146 3155	malignité
+#1	ICD-O-3.1 T1	8000/3
+#2	ICD-O-3.1 T12	8000/3
+#3	ICD-O-3.1 T14	8000/3
+#4	ICD-O-3.1 T7	8000/6
+#5	ICD-O-3.1 T2	8041/1
+#6	ICD-O-3.1 T13	8000/1
+#7	ICD-O-3.1 T3	9260/3
+#8	ICD-O-3.1 T4	8805/3
+#9	ICD-O-3.1 T5	8000/6
+#10	ICD-O-3.1 T6	8000/6
+#11	ICD-O-3.1 T8	8800/6
+#12	ICD-O-3.1 T9	8000/6
+#13	ICD-O-3.1 T10	8000/6
+#14	ICD-O-3.1 T11	8000/6
+#15	SNOMED T1	1240414004
+#16	SNOMED T12	1240414004
+#17	SNOMED T14	1240414004
+#18	SNOMED T7	14799000
+#19	SNOMED T13	86251006
+#20	SNOMED T3	76909002
+#21	SNOMED T4	128734000
+#22	SNOMED T5	14799000
+#23	SNOMED T6	14799000
+#24	SNOMED T8	372152003
+#25	SNOMED T9	14799000
+#26	SNOMED T10	14799000
+#27	SNOMED T11	14799000

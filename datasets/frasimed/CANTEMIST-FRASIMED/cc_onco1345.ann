@@ -1,0 +1,33 @@
+T1	morphology-onco 139 145	tumeur
+T2	morphology-onco 193 225	sarcome pléomorphe indifférencié
+T3	morphology-onco 414 421	tumoral
+T4	morphology-onco 645 657	métastatique
+T5	morphology-onco 1649 1681	sarcome pléomorphe indifférencié
+T6	morphology-onco 1713 1745	sarcome pléomorphe indifférencié
+T7	morphology-onco 1790 1798	tumoraux
+T8	morphology-onco 1812 1834	Progression à distance
+T9	morphology-onco 2100 2142	Sarcome cardiaque pléomorphe indifférencié
+T10	morphology-onco 2429 2436	tumoral
+T11	morphology-onco 3094 3109	maladie osseuse
+#1	ICD-O-3.1 T9	8802/34
+#2	ICD-O-3.1 T11	8000/6
+#3	ICD-O-3.1 T2	8802/34
+#4	ICD-O-3.1 T5	8802/34
+#5	ICD-O-3.1 T6	8802/34
+#6	ICD-O-3.1 T1	8000/1
+#7	ICD-O-3.1 T3	8000/1
+#8	ICD-O-3.1 T10	8000/1
+#9	ICD-O-3.1 T7	8000/1
+#10	ICD-O-3.1 T4	8000/6
+#11	ICD-O-3.1 T8	8000/6
+#12	SNOMED T9	302840001
+#13	SNOMED T11	14799000
+#14	SNOMED T2	302840001
+#15	SNOMED T5	302840001
+#16	SNOMED T6	302840001
+#17	SNOMED T1	86251006
+#18	SNOMED T3	86251006
+#19	SNOMED T10	86251006
+#20	SNOMED T7	86251006
+#21	SNOMED T4	14799000
+#22	SNOMED T8	14799000

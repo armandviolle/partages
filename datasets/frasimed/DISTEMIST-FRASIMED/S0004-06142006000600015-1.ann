@@ -1,0 +1,12 @@
+T1	disease 25 43	habitudes toxiques
+T2	disease 213 244	traumatisme périnéal contondant
+T3	disease 838 862	fistule artério-veineuse
+T4	disease 864 867	FAV
+T5	disease 908 930	priapisme à haut débit
+T6	disease 1041 1044	FVA
+#1	SNOMED T1	228272008
+#2	SNOMED T2	417746004
+#3	SNOMED T3	439470001
+#4	SNOMED T4	439470001
+#5	SNOMED T5	441545004
+#6	SNOMED T6	439470001

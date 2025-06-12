@@ -1,0 +1,6 @@
+T1	disease 974 1036	micropetechies dans les membres inférieurs et le dos des pieds
+T2	disease 1572 1599	infection au parvovirus B19
+T3	disease 1572 1630	infection au parvovirus B19, une plaquettopénie secondaire
+#1	SNOMED T2	34730008
+#2	SNOMED T3	34730008+302215000
+#3	SNOMED T1	271813007

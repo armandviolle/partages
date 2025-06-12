@@ -1,0 +1,27 @@
+T1	morphology-onco 148 154	cancer
+T2	morphology-onco 535 593	carcinome canalaire infiltrant peu différencié, multifocal
+T3	morphology-onco 2249 2288	lésion cortico-sous-corticale pariétale
+T4	morphology-onco 2458 2468	métastases
+T5	morphology-onco 2600 2618	maladie à distance
+T6	morphology-onco 2651 2687	Rechute cérébrale unique d'un cancer
+T7	morphology-onco 2781 2797	lésion pariétale
+T8	morphology-onco 2849 2889	métastase d'un carcinome peu différencié
+T9	morphology-onco 3859 3876	rechute cérébrale
+#1	ICD-O-3.1 T1	8000/3
+#2	ICD-O-3.1 T5	8000/6
+#3	ICD-O-3.1 T3	8000/6
+#4	ICD-O-3.1 T7	8000/6
+#5	ICD-O-3.1 T4	8000/6
+#6	ICD-O-3.1 T8	8010/63
+#7	ICD-O-3.1 T2	8500/33/H
+#8	ICD-O-3.1 T6	8000/6
+#9	ICD-O-3.1 T9	8000/6
+#10	SNOMED T1	1240414004
+#11	SNOMED T5	14799000
+#12	SNOMED T3	14799000
+#13	SNOMED T7	14799000
+#14	SNOMED T4	14799000
+#15	SNOMED T8	79282002
+#16	SNOMED T2	58477004
+#17	SNOMED T6	14799000
+#18	SNOMED T9	14799000

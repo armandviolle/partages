@@ -1,0 +1,12 @@
+T1	morphology-onco 834 898	carcinome canalaire infiltrant classique avec GN II et GH II-III
+T2	morphology-onco 1271 1285	adénocarcinome
+T3	morphology-onco 1480 1514	Adénoarcinome canalaire infiltrant
+T4	morphology-onco 1531 1537	T2N1M0
+#1	ICD-O-3.1 T4	8000/6
+#2	ICD-O-3.1 T2	8140/3
+#3	ICD-O-3.1 T1	8500/33
+#4	ICD-O-3.1 T3	8500/3
+#5	SNOMED T4	14799000
+#6	SNOMED T2	1187332001
+#7	SNOMED T1	58477004
+#8	SNOMED T3	58477004

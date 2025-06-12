@@ -1,0 +1,16 @@
+T1	disease 43 87	spondylarthrite ankylosante HLA B27-positive
+T2	disease 146 173	kystes hépatiques et rénaux
+T3	disease 252 268	maladie kystique
+T4	disease 287 334	maladie polykystique due à une mutation de novo
+T5	disease 821 836	polyneuropathie
+T6	disease 845 852	purpura
+T7	disease 1240 1257	hernie ombilicale
+T8	disease 1544 1561	kystes hépatiques
+#1	SNOMED T1	9631008
+#2	SNOMED T2	85057007+722223000
+#3	SNOMED T3	16340001
+#4	SNOMED T4	71064009+85057007
+#5	SNOMED T5	42345000
+#6	SNOMED T6	387778001
+#7	SNOMED T7	396347007
+#8	SNOMED T8	85057007

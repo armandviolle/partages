@@ -1,0 +1,34 @@
+T1	morphology-onco 337 366	IDC multifocal du sein gauche
+T2	morphology-onco 337 375	IDC multifocal du sein gauche, grade 1
+T3	morphology-onco 513 522	pT2pN1aM0
+T4	morphology-onco 1675 1684	néoplasme
+T5	morphology-onco 1984 2029	adénome tubulaire avec dysplasie de bas grade
+T6	morphology-onco 2534 2541	angiome
+T7	morphology-onco 3343 3364	adénocarcinome diffus
+T8	morphology-onco 3343 3420	adénocarcinome diffus, peu différencié, avec des cellules en anneau de signet
+T9	morphology-onco 3711 3730	métastases coliques
+T10	morphology-onco 4217 4254	métastatique colique et ganglionnaire
+T11	morphology-onco 4557 4576	progression osseuse
+T12	morphology-onco 4598 4634	lésions lytiques au niveau du sacrum
+#1	ICD-O-3.1 T6	9120/0
+#2	ICD-O-3.1 T4	8000/1
+#3	ICD-O-3.1 T11	8000/6
+#4	ICD-O-3.1 T2	8500/3
+#5	ICD-O-3.1 T1	8500/3/H
+#6	ICD-O-3.1 T5	8211/0/H
+#7	ICD-O-3.1 T8	8490/33
+#8	ICD-O-3.1 T7	8145/3
+#9	ICD-O-3.1 T9	8500/6
+#10	ICD-O-3.1 T10	8500/6
+#11	ICD-O-3.1 T12	8000/6
+#12	ICD-O-3.1 T3	8000/6
+#13	SNOMED T6	253053003
+#14	SNOMED T4	86251006
+#15	SNOMED T11	14799000
+#16	SNOMED T2	58477004
+#17	SNOMED T1	58477004
+#18	SNOMED T5	444408007
+#19	SNOMED T8	87737001
+#20	SNOMED T7	24505004
+#21	SNOMED T12	14799000
+#22	SNOMED T3	14799000

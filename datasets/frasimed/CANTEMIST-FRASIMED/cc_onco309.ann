@@ -1,0 +1,30 @@
+T1	morphology-onco 443 449	tumeur
+T2	morphology-onco 1111 1117	tumeur
+T3	morphology-onco 1435 1465	Adénocarcinome peu différencié
+T4	morphology-onco 1809 1862	Nodule hypermétabolique au niveau de l'apex du poumon
+T5	morphology-onco 1908 1938	Adénocarcinome peu différencié
+T6	morphology-onco 1968 1985	Nodule pulmonaire
+T7	morphology-onco 2202 2219	lésion pulmonaire
+T8	morphology-onco 3362 3379	lésion pulmonaire
+T9	morphology-onco 3647 3664	lésion pulmonaire
+T10	morphology-onco 3818 3835	cellules malignes
+#1	ICD-O-3.1 T3	8140/33
+#2	ICD-O-3.1 T5	8140/33
+#3	ICD-O-3.1 T6	8000/6
+#4	ICD-O-3.1 T10	8001/3
+#5	ICD-O-3.1 T7	8000/6
+#6	ICD-O-3.1 T8	8000/6
+#7	ICD-O-3.1 T9	8000/6
+#8	ICD-O-3.1 T1	8000/1
+#9	ICD-O-3.1 T2	8000/1
+#10	ICD-O-3.1 T4	8000/6
+#11	SNOMED T3	1187332001
+#12	SNOMED T5	1187332001
+#13	SNOMED T6	14799000
+#14	SNOMED T10	88400008
+#15	SNOMED T7	14799000
+#16	SNOMED T8	14799000
+#17	SNOMED T9	14799000
+#18	SNOMED T1	86251006
+#19	SNOMED T2	86251006
+#20	SNOMED T4	14799000

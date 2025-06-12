@@ -1,0 +1,29 @@
+T1	morphology-onco 2695 2704	carcinome
+T2	morphology-onco 2994 3003	carcinome
+T3	morphology-onco 3028 3044	phéochromocytome
+T4	morphology-onco 3079 3197	Neuroblastome peu différencié (classification INPC/OMS 2017) avec atteinte ganglionnaire rétropéritonéale et hépatique
+T5	morphology-onco 3843 3872	neuroblastome peu différencié
+T6	morphology-onco 3903 3913	Métastases
+T7	morphology-onco 3961 3973	péritumoraux
+T8	morphology-onco 3992 4001	métastase
+T9	morphology-onco 4139 4145	tumeur
+T10	morphology-onco 5407 5415	tumorale
+#1	ICD-O-3.1 T6	8000/6
+#2	ICD-O-3.1 T1	8010/3
+#3	ICD-O-3.1 T2	8010/3
+#4	ICD-O-3.1 T3	8700/0
+#5	ICD-O-3.1 T8	8000/6
+#6	ICD-O-3.1 T9	8000/1
+#7	ICD-O-3.1 T10	8000/1
+#8	ICD-O-3.1 T4	9500/63
+#9	ICD-O-3.1 T5	9500/33
+#10	ICD-O-3.1 T7	8000/6
+#11	SNOMED T6	14799000
+#12	SNOMED T1	1187425009
+#13	SNOMED T2	1187425009
+#14	SNOMED T3	302835009
+#15	SNOMED T8	14799000
+#16	SNOMED T9	86251006
+#17	SNOMED T10	86251006
+#18	SNOMED T5	432328008
+#19	SNOMED T7	14799000

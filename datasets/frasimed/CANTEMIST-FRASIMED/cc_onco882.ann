@@ -1,0 +1,24 @@
+T1	morphology-onco 192 206	adénocarcinome
+T2	morphology-onco 902 908	tumeur
+T3	morphology-onco 1283 1310	angiomyolipome épithélioïde
+T4	morphology-onco 1318 1327	ER-ER-AML
+T5	morphology-onco 1350 1353	cM0
+T6	morphology-onco 1394 1400	tumeur
+T7	morphology-onco 1579 1589	métastases
+T8	morphology-onco 1842 1854	métastatique
+#1	ICD-O-3.1 T1	8140/3
+#2	ICD-O-3.1 T7	8000/6
+#3	ICD-O-3.1 T6	8000/1
+#4	ICD-O-3.1 T2	8000/1
+#5	ICD-O-3.1 T3	8860/0/H
+#6	ICD-O-3.1 T8	8000/6
+#7	ICD-O-3.1 T4	8860/0
+#8	ICD-O-3.1 T5	8000/6
+#9	SNOMED T1	1187332001
+#10	SNOMED T7	14799000
+#11	SNOMED T6	86251006
+#12	SNOMED T2	86251006
+#13	SNOMED T3	19929002
+#14	SNOMED T8	14799000
+#15	SNOMED T4	19929002
+#16	SNOMED T5	14799000

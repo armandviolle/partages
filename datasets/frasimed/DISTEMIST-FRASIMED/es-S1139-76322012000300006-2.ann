@@ -1,0 +1,8 @@
+T1	disease 386 411	hypertrophie amygdalienne
+T2	disease 1199 1215	lymphadénopathie
+T3	disease 1221 1240	hépatosplénomégalie
+T4	disease 1446 1470	syndrome de mononucléose
+#1	SNOMED T1	46689006
+#2	SNOMED T2	30746006
+#3	SNOMED T3	36760000
+#4	SNOMED T4	271558008

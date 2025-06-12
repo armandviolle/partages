@@ -1,0 +1,4 @@
+T1	disease 1949 1970	maladies infectieuses
+T2	disease 2206 2244	réaction au niveau du site d'injection
+#1	SNOMED T2	1155807002
+#2	SNOMED T1	394807007

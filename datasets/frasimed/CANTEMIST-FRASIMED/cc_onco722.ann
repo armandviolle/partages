@@ -1,0 +1,56 @@
+T1	morphology-onco 98 104	tumeur
+T2	morphology-onco 184 205	sarcome indifférencié
+T3	morphology-onco 1284 1290	cancer
+T4	morphology-onco 2254 2261	tumoral
+T5	morphology-onco 2555 2590	lymphadénopathie supra-claviculaire
+T6	morphology-onco 3130 3139	myomateux
+T7	morphology-onco 3176 3181	myome
+T8	morphology-onco 3456 3484	Adénopathie sus-claviculaire
+T9	morphology-onco 3520 3529	malignité
+T10	morphology-onco 3653 3665	métastatique
+T11	morphology-onco 4150 4163	métastatiques
+T12	morphology-onco 4192 4208	lésions osseuses
+T13	morphology-onco 4230 4240	métastases
+T14	morphology-onco 4341 4369	adénopathie sus-claviculaire
+T15	morphology-onco 4372 4396	carcinome neuroendocrine
+T16	morphology-onco 4631 4655	carcinome neuroendocrine
+T17	morphology-onco 4722 4796	carcinome neuroendocrine du col de l'utérus de stade IV étendu (métastases
+T18	morphology-onco 4889 4910	sarcome indifférencié
+T19	morphology-onco 5001 5029	adénopathie sus-claviculaire
+#1	ICD-O-3.1 T5	8000/6
+#2	ICD-O-3.1 T8	8000/6
+#3	ICD-O-3.1 T14	8000/6
+#4	ICD-O-3.1 T19	8000/6
+#5	ICD-O-3.1 T15	8246/3
+#6	ICD-O-3.1 T16	8246/3
+#7	ICD-O-3.1 T3	8000/3
+#8	ICD-O-3.1 T12	8000/6
+#9	ICD-O-3.1 T9	8000/3
+#10	ICD-O-3.1 T11	8000/6
+#11	ICD-O-3.1 T13	8000/6
+#12	ICD-O-3.1 T7	8895/0
+#13	ICD-O-3.1 T6	8895/0
+#14	ICD-O-3.1 T2	8805/3
+#15	ICD-O-3.1 T18	8805/3
+#16	ICD-O-3.1 T1	8000/1
+#17	ICD-O-3.1 T4	8000/1
+#18	ICD-O-3.1 T10	8000/6
+#19	ICD-O-3.1 T17	8246/6
+#20	SNOMED T5	14799000
+#21	SNOMED T8	14799000
+#22	SNOMED T14	14799000
+#23	SNOMED T19	14799000
+#24	SNOMED T15	55937004
+#25	SNOMED T16	55937004
+#26	SNOMED T3	1240414004
+#27	SNOMED T12	14799000
+#28	SNOMED T9	1240414004
+#29	SNOMED T11	14799000
+#30	SNOMED T13	14799000
+#31	SNOMED T7	1156875002
+#32	SNOMED T6	1156875002
+#33	SNOMED T2	128734000
+#34	SNOMED T18	128734000
+#35	SNOMED T1	86251006
+#36	SNOMED T4	86251006
+#37	SNOMED T10	14799000

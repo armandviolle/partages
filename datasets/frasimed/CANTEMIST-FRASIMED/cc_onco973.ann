@@ -1,0 +1,45 @@
+T1	morphology-onco 722 731	néoplasie
+T2	morphology-onco 962 970	tumorale
+T3	morphology-onco 1054 1061	maligne
+T4	morphology-onco 1192 1201	malignité
+T5	morphology-onco 1274 1283	malignité
+T6	morphology-onco 1307 1340	tumeur sarcomatoïde de haut grade
+T7	morphology-onco 1535 1549	chondrosarcome
+T8	morphology-onco 1631 1673	chondrosarcome dédifférencié de haut grade
+T9	morphology-onco 2021 2039	rechute pulmonaire
+T10	morphology-onco 2085 2113	chondrosarcome de haut grade
+T11	morphology-onco 2471 2493	progression pulmonaire
+T12	morphology-onco 2558 2586	chondrosarcome de haut grade
+T13	morphology-onco 3879 3892	métastatiques
+T14	morphology-onco 5774 5798	progression sous-cutanée
+T15	morphology-onco 6680 6697	lésion de l'index
+#1	ICD-O-3.1 T7	9220/3
+#2	ICD-O-3.1 T4	8000/3
+#3	ICD-O-3.1 T3	8000/3
+#4	ICD-O-3.1 T5	8000/3
+#5	ICD-O-3.1 T1	8000/1
+#6	ICD-O-3.1 T2	8000/1
+#7	ICD-O-3.1 T6	8800/34
+#8	ICD-O-3.1 T8	9243/34
+#9	ICD-O-3.1 T9	8000/6
+#10	ICD-O-3.1 T10	9220/34
+#11	ICD-O-3.1 T11	8000/6
+#12	ICD-O-3.1 T12	9220/34
+#13	ICD-O-3.1 T13	8000/6
+#14	ICD-O-3.1 T14	8000/6
+#15	ICD-O-3.1 T15	8000/6
+#16	SNOMED T7	1163016002
+#17	SNOMED T4	1240414004
+#18	SNOMED T3	1240414004
+#19	SNOMED T5	1240414004
+#20	SNOMED T1	86251006
+#21	SNOMED T2	86251006
+#22	SNOMED T6	1187396000
+#23	SNOMED T8	128776008
+#24	SNOMED T9	14799000
+#25	SNOMED T10	1163016002
+#26	SNOMED T11	14799000
+#27	SNOMED T12	1163016002
+#28	SNOMED T13	14799000
+#29	SNOMED T14	14799000
+#30	SNOMED T15	14799000

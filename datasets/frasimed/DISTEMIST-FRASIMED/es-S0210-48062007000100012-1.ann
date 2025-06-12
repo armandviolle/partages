@@ -1,0 +1,20 @@
+T1	disease 434 463	lésions solides dans le teste
+T2	disease 614 651	néoplasie testiculaire multicentrique
+T3	disease 664 674	Varicocèle
+T4	disease 953 1043	séminome avec indice mitotique élevé et invasion vasculaire (pT2) dans les deux testicules
+T5	disease 1045 1065	séminome anaplasique
+T6	disease 1118 1172	excroissances adénopathiques au niveau rétropéritonéal
+T7	disease 1181 1213	lésions métastatiques hépatiques
+T8	disease 1215 1217	M1
+T9	disease 1407 1437	adénopathies rétropéritonéales
+T10	disease 1444 1465	métastases hépatiques
+#1	SNOMED T4	255107005
+#2	SNOMED T6	49991000119104
+#3	SNOMED T1	126900000
+#4	SNOMED T9	127154008
+#5	SNOMED T7	94381002
+#6	SNOMED T10	94381002
+#7	SNOMED T3	51070004
+#8	SNOMED T2	126900000
+#9	SNOMED T8	14799000
+#10	SNOMED T5	72907003

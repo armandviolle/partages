@@ -1,0 +1,27 @@
+T1	morphology-onco 1813 1821	lymphome
+T2	morphology-onco 2059 2068	malignité
+T3	morphology-onco 2206 2234	processus lymphoprolifératif
+T4	morphology-onco 2243 2252	carcinome
+T5	morphology-onco 2589 2606	sarcome de Kaposi
+T6	morphology-onco 2608 2610	KS
+T7	morphology-onco 2625 2642	Sarcome de Kaposi
+T8	morphology-onco 3046 3048	KS
+T9	morphology-onco 3473 3475	KS
+#1	ICD-O-3.1 T6	9140/3
+#2	ICD-O-3.1 T8	9140/3
+#3	ICD-O-3.1 T9	9140/3
+#4	ICD-O-3.1 T7	9140/3
+#5	ICD-O-3.1 T4	8010/3
+#6	ICD-O-3.1 T1	9590/3
+#7	ICD-O-3.1 T2	8000/3
+#8	ICD-O-3.1 T3	9970/1
+#9	ICD-O-3.1 T5	9140/3
+#10	SNOMED T6	1179374007
+#11	SNOMED T8	1179374007
+#12	SNOMED T9	1179374007
+#13	SNOMED T7	1179374007
+#14	SNOMED T4	1187425009
+#15	SNOMED T1	1163043007
+#16	SNOMED T2	1240414004
+#17	SNOMED T3	277466009
+#18	SNOMED T5	1179374007

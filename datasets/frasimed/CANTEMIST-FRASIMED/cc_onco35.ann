@@ -1,0 +1,54 @@
+T1	morphology-onco 262 271	malignité
+T2	morphology-onco 407 435	adénopathie sus-claviculaire
+T3	morphology-onco 746 771	lésions osseuses lytiques
+T4	morphology-onco 850 856	tumeur
+T5	morphology-onco 972 982	métastases
+T6	morphology-onco 1328 1349	cellules néoplasiques
+T7	morphology-onco 1728 1751	carcinome indifférencié
+T8	morphology-onco 2003 2012	carcinome
+T9	morphology-onco 2231 2246	maladie osseuse
+T10	morphology-onco 2601 2617	lésions osseuses
+T11	morphology-onco 2732 2744	métastatique
+T12	morphology-onco 3100 3116	lésions osseuses
+T13	morphology-onco 3308 3323	masse ovarienne
+T14	morphology-onco 3447 3469	carcinome métastatique
+T15	morphology-onco 3664 3673	carcinome
+T16	morphology-onco 4104 4121	maladie pelvienne
+T17	morphology-onco 4452 4486	lésion est apparue sur la paupière
+T18	morphology-onco 4594 4616	métastase de carcinome
+#1	ICD-O-3.1 T2	8000/6
+#2	ICD-O-3.1 T8	8010/3
+#3	ICD-O-3.1 T15	8010/3
+#4	ICD-O-3.1 T7	8020/3
+#5	ICD-O-3.1 T6	8001/1
+#6	ICD-O-3.1 T9	8000/6
+#7	ICD-O-3.1 T10	8000/6
+#8	ICD-O-3.1 T12	8000/6
+#9	ICD-O-3.1 T1	8000/3
+#10	ICD-O-3.1 T5	8000/6
+#11	ICD-O-3.1 T11	8000/6
+#12	ICD-O-3.1 T18	8010/6
+#13	ICD-O-3.1 T4	8000/1
+#14	ICD-O-3.1 T3	8000/6
+#15	ICD-O-3.1 T13	8000/6
+#16	ICD-O-3.1 T14	8010/6
+#17	ICD-O-3.1 T17	8000/6
+#18	ICD-O-3.1 T16	8000/6
+#19	SNOMED T2	14799000
+#20	SNOMED T8	1187425009
+#21	SNOMED T15	1187425009
+#22	SNOMED T7	38549000
+#23	SNOMED T6	39577004
+#24	SNOMED T9	14799000
+#25	SNOMED T10	14799000
+#26	SNOMED T12	14799000
+#27	SNOMED T1	1240414004
+#28	SNOMED T5	14799000
+#29	SNOMED T11	14799000
+#30	SNOMED T18	79282002
+#31	SNOMED T4	86251006
+#32	SNOMED T3	14799000
+#33	SNOMED T13	14799000
+#34	SNOMED T14	79282002
+#35	SNOMED T17	14799000
+#36	SNOMED T16	14799000

@@ -1,0 +1,20 @@
+T1	disease 46 60	maladie de VHL
+T2	disease 122 180	hémangiomes capillaires ont été trouvés dans les deux yeux
+T3	disease 328 341	kystes rénaux
+T4	disease 422 443	décollement de rétine
+T5	disease 457 459	RD
+T6	disease 538 570	hémangiomes nasaux photocoagulés
+T7	disease 619 665	membrane épirétinienne dans le pôle postérieur
+T8	disease 927 946	hémorragie du vitré
+T9	disease 967 969	RD
+T10	disease 1020 1040	hémorragie vitréenne
+#1	SNOMED T1	46659004
+#2	SNOMED T2	402867006
+#3	SNOMED T3	253883006
+#4	SNOMED T4	42059000
+#5	SNOMED T6	449175004
+#6	SNOMED T7	367649002
+#7	SNOMED T8	31341008
+#8	SNOMED T10	31341008
+#9	SNOMED T5	42059000
+#10	SNOMED T9	42059000

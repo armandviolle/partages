@@ -1,0 +1,14 @@
+T1	disease 336 338	MC
+T2	disease 745 783	lésions cutanées avec des micropapules
+T3	disease 991 1025	papules sur les coudes et les bras
+T4	disease 1644 1667	protéinurie néphrotique
+T5	disease 1768 1770	NM
+T6	disease 1788 1807	lésions vasculaires
+T7	disease 2254 2272	maladie systémique
+#1	SNOMED T1	396331005
+#2	SNOMED T2	25694009
+#3	SNOMED T3	95320005
+#4	SNOMED T4	264867001
+#5	SNOMED T6	27550009
+#6	SNOMED T5	722119002
+#7	SNOMED T7	56019007

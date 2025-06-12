@@ -1,0 +1,58 @@
+T1	disease 71 85	phobie sociale
+T2	disease 92 129	trouble de la personnalité dépendante
+T3	disease 402 421	déficit d'attention
+T4	disease 599 619	retard de croissance
+T5	disease 712 735	Intolérance au fructose
+T6	disease 751 772	saignements digestifs
+T7	disease 782 804	intolérance au lactose
+T8	disease 868 888	altération génétique
+T9	disease 947 983	l'utilisation de substances toxiques
+T10	disease 1052 1069	symptômes anxieux
+T11	disease 1368 1382	phobie sociale
+T12	disease 1625 1639	phobie sociale
+T13	disease 1646 1683	trouble de la personnalité dépendante
+T14	disease 2045 2075	Anxiété psychophysique modérée
+T15	disease 2077 2114	idées obsessionnelles hypocondriaques
+T16	disease 2116 2128	onychophagie
+T17	disease 2132 2149	bruxisme nocturne
+T18	disease 2323 2357	Trouble de la conscience partielle
+T19	disease 2402 2429	troubles de la personnalité
+T20	disease 3570 3607	idées obsessionnelles hypocondriaques
+T21	disease 4096 4112	évitement social
+T22	disease 4131 4138	anxieux
+T23	disease 4352 4370	spectre autistique
+T24	disease 4561 4597	Trouble de la personnalité schizoïde
+T25	disease 4644 4679	Trouble de la personnalité évitante
+T26	disease 5366 5372	Autism
+T27	disease 6219 6248	trouble du spectre autistique
+T28	disease 6250 6253	TSA
+T29	disease 6781 6816	TSA à haut niveau de fonctionnement
+#1	SNOMED T25	37746008
+#2	SNOMED T24	52954000
+#3	SNOMED T1	25501002
+#4	SNOMED T2	33449004
+#5	SNOMED T3	23148009
+#6	SNOMED T14	197480006
+#7	SNOMED T27	408856003
+#8	SNOMED T15	18193002
+#9	SNOMED T28	408856003
+#10	SNOMED T16	37298006
+#11	SNOMED T17	191983006
+#12	SNOMED T4	59576002
+#13	SNOMED T18	3006004
+#14	SNOMED T5	20052008
+#15	SNOMED T6	74474003
+#16	SNOMED T7	267425008
+#17	SNOMED T8	124972006
+#18	SNOMED T20	18193002
+#19	SNOMED T29	702732007
+#20	SNOMED T11	25501002
+#21	SNOMED T12	25501002
+#22	SNOMED T13	84466009
+#23	SNOMED T19	33449004
+#24	SNOMED T9	361055000
+#25	SNOMED T26	408856003
+#26	SNOMED T10	48694002
+#27	SNOMED T22	48694002
+#28	SNOMED T23	408856003
+#29	SNOMED T21	105411000

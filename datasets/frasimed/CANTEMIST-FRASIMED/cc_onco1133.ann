@@ -1,0 +1,57 @@
+T1	morphology-onco 5258 5271	carcinomatose
+T2	morphology-onco 5293 5298	malin
+T3	morphology-onco 5924 5930	tumeur
+T4	morphology-onco 5952 5961	métastase
+T5	morphology-onco 5963 5976	carcinomatose
+T6	morphology-onco 6715 6728	Carcinomatose
+T7	morphology-onco 6763 6770	tumeurs
+T8	morphology-onco 6799 6814	adénocarcinomes
+T9	morphology-onco 6857 6866	mélanomes
+T10	morphology-onco 6881 6888	cancers
+T11	morphology-onco 7240 7257	cellules malignes
+T12	morphology-onco 8464 8480	maladie de Paget
+T13	morphology-onco 10414 10426	néoformative
+T14	morphology-onco 10610 10622	néoformation
+T15	morphology-onco 10822 10828	cancer
+T16	morphology-onco 12564 12573	NÉOPLASIE
+T17	morphology-onco 12868 12905	Carcinome épidermoïde peu différencié
+T18	morphology-onco 13033 13043	métastases
+T19	morphology-onco 13112 13124	métastatique
+#1	ICD-O-3.1 T6	8010/9
+#2	ICD-O-3.1 T16	8000/1
+#3	ICD-O-3.1 T8	8140/3
+#4	ICD-O-3.1 T1	8010/9
+#5	ICD-O-3.1 T3	8010/9
+#6	ICD-O-3.1 T10	8000/3
+#7	ICD-O-3.1 T15	8000/3
+#8	ICD-O-3.1 T11	8001/3
+#9	ICD-O-3.1 T2	8000/3
+#10	ICD-O-3.1 T9	8720/3
+#11	ICD-O-3.1 T19	8000/6
+#12	ICD-O-3.1 T4	8000/6
+#13	ICD-O-3.1 T18	8000/6
+#14	ICD-O-3.1 T14	8000/1
+#15	ICD-O-3.1 T13	8000/1
+#16	ICD-O-3.1 T5	8000/1
+#17	ICD-O-3.1 T7	8000/1
+#18	ICD-O-3.1 T12	8000/3
+#19	ICD-O-3.1 T17	8070/33
+#20	SNOMED T6	307593001
+#21	SNOMED T16	86251006
+#22	SNOMED T8	1187332001
+#23	SNOMED T1	307593001
+#24	SNOMED T3	307593001
+#25	SNOMED T10	1240414004
+#26	SNOMED T15	1240414004
+#27	SNOMED T11	88400008
+#28	SNOMED T2	1240414004
+#29	SNOMED T9	1162635006
+#30	SNOMED T19	14799000
+#31	SNOMED T4	14799000
+#32	SNOMED T18	14799000
+#33	SNOMED T14	86251006
+#34	SNOMED T13	86251006
+#35	SNOMED T5	86251006
+#36	SNOMED T7	86251006
+#37	SNOMED T12	1240414004
+#38	SNOMED T17	1162767002

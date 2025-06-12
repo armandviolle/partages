@@ -1,0 +1,16 @@
+T1	disease 136 165	adénocarcinome de la prostate
+T2	disease 775 787	adénopathies
+T3	disease 1146 1161	hypoalbuminémie
+T4	disease 1214 1227	malabsorption
+T5	disease 2005 2021	colite actinique
+T6	disease 2238 2249	adénopathie
+T7	disease 2844 2862	entérite actinique
+T8	disease 3832 3850	entérite actinique
+#1	SNOMED T1	399490008
+#2	SNOMED T8	73817000
+#3	SNOMED T7	73817000
+#4	SNOMED T3	119247004
+#5	SNOMED T5	55809007
+#6	SNOMED T2	30746006
+#7	SNOMED T6	30746006
+#8	SNOMED T4	32230006

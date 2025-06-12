@@ -1,0 +1,8 @@
+T1	disease 598 610	endométriome
+T2	disease 1037 1066	tumeur à cellules granuleuses
+T3	disease 1071 1134	lésion s'étend dans le tissu adipeux sous-séreux de l'appendice
+T4	disease 1607 1614	lésions
+#1	SNOMED T1	237116001
+#2	SNOMED T2	404035005
+#3	SNOMED T4	157670007
+#4	SNOMED T3	235771005

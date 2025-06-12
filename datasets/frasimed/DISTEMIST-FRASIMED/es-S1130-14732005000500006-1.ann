@@ -1,0 +1,18 @@
+T1	disease 80 116	leucémie lymphoblastique aiguë pré-B
+T2	disease 1670 1692	paraparésie bilatérale
+T3	disease 1933 1980	hématome ventral intradural extraparenchymateux
+T4	disease 2139 2145	lésion
+T5	disease 2410 2443	caillot de sang sous-arachnoïdien
+T6	disease 2554 2562	hématome
+T7	disease 2908 2914	lésion
+T8	disease 2959 2967	hématome
+T9	disease 3601 3628	défaillance multi-organique
+#1	SNOMED T1	277572006
+#2	SNOMED T3	428268007
+#3	SNOMED T5	21454007
+#4	SNOMED T6	385494008
+#5	SNOMED T9	57653000
+#6	SNOMED T8	385494008
+#7	SNOMED T7	157670007
+#8	SNOMED T4	417163006
+#9	SNOMED T2	1845001

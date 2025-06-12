@@ -1,0 +1,18 @@
+T1	disease 53 76	hypertension artérielle
+T2	disease 81 122	bronchopneumopathie chronique obstructive
+T3	disease 124 133	ex-fumeur
+T4	disease 158 202	carcinome urothélial papillaire de la vessie
+T5	disease 245 251	tumeur
+T6	disease 1249 1277	ganglions épais et calcifiés
+T7	disease 1299 1319	tuberculose miliaire
+T8	disease 1374 1454	adénopathie calcifiée macroscopique dans le hile droit et le ligament pulmonaire
+T9	disease 2063 2075	adénopathies
+#1	SNOMED T1	38341003
+#2	SNOMED T2	13645005
+#3	SNOMED T4	255109008
+#4	SNOMED T7	47604008
+#5	SNOMED T8	127101005
+#6	SNOMED T3	8517006
+#7	SNOMED T6	191394000
+#8	SNOMED T9	30746006
+#9	SNOMED T5	55342001

@@ -1,0 +1,21 @@
+T1	morphology-onco 576 582	tumeur
+T2	morphology-onco 726 734	tumorale
+T3	morphology-onco 844 863	atteinte à distance
+T4	morphology-onco 1012 1059	adénocarcinome entérique modérément différencié
+T5	morphology-onco 1850 1857	tumoral
+T6	morphology-onco 2100 2132	Adénocarcinome de type entérique
+T7	morphology-onco 2153 2160	cT3NxM0
+#1	ICD-O-3.1 T3	8000/6
+#2	ICD-O-3.1 T7	8000/6
+#3	ICD-O-3.1 T2	8000/1
+#4	ICD-O-3.1 T1	8000/1
+#5	ICD-O-3.1 T5	8000/1
+#6	ICD-O-3.1 T6	8144/3
+#7	ICD-O-3.1 T4	8144/32
+#8	SNOMED T3	14799000
+#9	SNOMED T7	14799000
+#10	SNOMED T2	86251006
+#11	SNOMED T1	86251006
+#12	SNOMED T5	86251006
+#13	SNOMED T6	25190001
+#14	SNOMED T4	25190001

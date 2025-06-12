@@ -1,0 +1,35 @@
+T1	morphology-onco 47 61	rétinoblastome
+T2	morphology-onco 776 817	néoplasme malin de cellules rondes bleues
+T3	morphology-onco 851 865	rétinoblastome
+T4	morphology-onco 953 994	néoplasme malin de cellules rondes bleues
+T5	morphology-onco 1020 1049	rhabdomyosarcome embryonnaire
+T6	morphology-onco 1111 1140	Rhabdomyosarcome embryonnaire
+T7	morphology-onco 1816 1839	lésion hépatique unique
+T8	morphology-onco 1915 1924	métastase
+T9	morphology-onco 2091 2120	métastase de rhabdomyosarcome
+T10	morphology-onco 2186 2198	métastatique
+T11	morphology-onco 2289 2306	nodules cervicaux
+T12	morphology-onco 2455 2473	lésions cervicales
+#1	ICD-O-3.1 T6	8910/3
+#2	ICD-O-3.1 T12	8000/6
+#3	ICD-O-3.1 T7	8000/6
+#4	ICD-O-3.1 T10	8000/6
+#5	ICD-O-3.1 T8	8000/6
+#6	ICD-O-3.1 T9	8900/6
+#7	ICD-O-3.1 T2	8000/3/H
+#8	ICD-O-3.1 T4	8000/3/H
+#9	ICD-O-3.1 T5	8910/3
+#10	ICD-O-3.1 T1	9510/3
+#11	ICD-O-3.1 T3	9510/3
+#12	ICD-O-3.1 T11	8000/6
+#13	SNOMED T6	14269005
+#14	SNOMED T12	14799000
+#15	SNOMED T7	14799000
+#16	SNOMED T10	14799000
+#17	SNOMED T8	14799000
+#18	SNOMED T2	1240414004
+#19	SNOMED T4	1240414004
+#20	SNOMED T5	14269005
+#21	SNOMED T1	19906005
+#22	SNOMED T3	19906005
+#23	SNOMED T11	14799000

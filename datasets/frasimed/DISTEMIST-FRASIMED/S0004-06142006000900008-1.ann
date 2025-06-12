@@ -1,0 +1,20 @@
+T1	disease 93 125	infections urinaires récurrentes
+T2	disease 162 175	hypothyroïdie
+T3	disease 179 202	hypertension artérielle
+T4	disease 255 261	fumait
+T5	disease 546 581	petite vessie avec une néoformation
+T6	disease 1067 1112	adénomégalie mésentérique ou rétropéritonéale
+T7	disease 1272 1293	néoformation vésicale
+T8	disease 1557 1580	néoformation vasculaire
+T9	disease 2028 2073	neurofibromatose diffuse de la paroi vésicale
+T10	disease 2209 2225	neurofibromatose
+#1	SNOMED T1	197927001
+#2	SNOMED T2	40930008
+#3	SNOMED T3	38341003
+#4	SNOMED T4	77176002
+#5	SNOMED T5	126885006
+#6	SNOMED T6	127144009+127154008
+#7	SNOMED T7	126885006
+#8	SNOMED T8	699605009
+#9	SNOMED T9	81669005
+#10	SNOMED T10	19133005

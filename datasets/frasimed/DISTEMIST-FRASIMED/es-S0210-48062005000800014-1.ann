@@ -1,0 +1,22 @@
+T1	disease 19 25	fumeur
+T2	disease 27 44	alcoolique sévère
+T3	disease 69 92	hypertension artérielle
+T4	disease 110 136	pancréatite énolique aiguë
+T5	disease 222 255	inflammation pancréatique diffuse
+T6	disease 431 449	kyste hémorragique
+T7	disease 548 578	symptômes inflammatoires aigus
+T8	disease 762 777	lésions rénales
+T9	disease 1034 1060	granulome stéatonécrotique
+T10	disease 1118 1165	nécrose graisseuse secondaire à une pancréatite
+T11	disease 1154 1165	pancréatite
+#1	SNOMED T2	713862009
+#2	SNOMED T3	38341003
+#3	SNOMED T4	235942001
+#4	SNOMED T10	46626002
+#5	SNOMED T11	75694006
+#6	SNOMED T8	90708001
+#7	SNOMED T5	75694006
+#8	SNOMED T7	4532008
+#9	SNOMED T6	52321009
+#10	SNOMED T1	77176002
+#11	SNOMED T9	27058005

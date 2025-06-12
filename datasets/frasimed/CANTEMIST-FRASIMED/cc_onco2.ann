@@ -1,0 +1,26 @@
+T1	morphology-onco 1959 1968	néoplasie
+T2	morphology-onco 2242 2259	cellules malignes
+T3	morphology-onco 2378 2387	métastase
+T4	morphology-onco 2407 2429	carcinome microcytaire
+T5	morphology-onco 2884 2896	métastatique
+T6	morphology-onco 2914 2930	lésions osseuses
+T7	morphology-onco 2954 2966	métastatique
+T8	morphology-onco 3234 3273	carcinome pulmonaire à petites cellules
+T9	morphology-onco 4673 4710	métastase d'un carcinome microcytaire
+#1	ICD-O-3.1 T4	8041/3
+#2	ICD-O-3.1 T8	8041/3
+#3	ICD-O-3.1 T2	8001/3
+#4	ICD-O-3.1 T6	8000/6
+#5	ICD-O-3.1 T5	8000/6
+#6	ICD-O-3.1 T7	8000/6
+#7	ICD-O-3.1 T3	8000/6
+#8	ICD-O-3.1 T9	8041/6
+#9	ICD-O-3.1 T1	8000/1
+#10	SNOMED T4	11010461000119101
+#11	SNOMED T8	11010461000119101
+#12	SNOMED T2	88400008
+#13	SNOMED T6	14799000
+#14	SNOMED T5	14799000
+#15	SNOMED T7	14799000
+#16	SNOMED T3	14799000
+#17	SNOMED T1	86251006

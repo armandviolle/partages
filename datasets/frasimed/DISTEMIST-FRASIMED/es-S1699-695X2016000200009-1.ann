@@ -1,0 +1,30 @@
+T1	disease 328 336	fracture
+T2	disease 802 820	myélite transverse
+T3	disease 1151 1186	paralysie et une spasticité du MMII
+T4	disease 1655 1714	lésion expansive au niveau de la moelle épinière de D1 à D6
+T5	disease 1735 1753	myélite transverse
+T6	disease 1865 1900	perte soudaine de l'acuité visuelle
+T7	disease 1961 1976	névrite optique
+T8	disease 2029 2047	myélite transverse
+T9	disease 2057 2072	névrite optique
+T10	disease 2128 2147	sclérose en plaques
+T11	disease 2182 2235	lésion de trois segments rachidiens ou plus (D1 à D6)
+T12	disease 2473 2493	neuromyélite optique
+T13	disease 2501 2517	maladie de Devic
+T14	disease 3271 3291	vision floue de près
+T15	disease 3302 3343	atténuation de la perception des couleurs
+#1	SNOMED T8	16631009
+#2	SNOMED T9	66760008
+#3	SNOMED T10	24700007
+#4	SNOMED T11	127035006
+#5	SNOMED T7	66760008
+#6	SNOMED T1	125605004
+#7	SNOMED T12	25044007
+#8	SNOMED T13	25044007
+#9	SNOMED T2	16631009
+#10	SNOMED T4	127035006
+#11	SNOMED T5	16631009
+#12	SNOMED T3	80420005+394679006
+#13	SNOMED T6	13164000
+#14	SNOMED T14	246636008
+#15	SNOMED T15	246672001

@@ -1,0 +1,11 @@
+T1	morphology-onco 1432 1471	carcinome pulmonaire à petites cellules
+T2	morphology-onco 1659 1668	métastase
+T3	morphology-onco 1865 1919	métastase d'un carcinome pulmonaire à petites cellules
+T4	morphology-onco 1973 1994	lésion de la vertèbre
+#1	ICD-O-3.1 T1	8041/3
+#2	ICD-O-3.1 T2	8000/6
+#3	ICD-O-3.1 T3	8041/6
+#4	ICD-O-3.1 T4	8000/6
+#5	SNOMED T1	11010461000119101
+#6	SNOMED T2	14799000
+#7	SNOMED T4	14799000

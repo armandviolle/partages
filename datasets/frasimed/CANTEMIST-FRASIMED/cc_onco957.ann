@@ -1,0 +1,42 @@
+T1	morphology-onco 862 885	glioblastome multiforme
+T2	morphology-onco 1000 1023	glioblastome multiforme
+T3	morphology-onco 1374 1382	tumorale
+T4	morphology-onco 2133 2139	tumeur
+T5	morphology-onco 2178 2205	dissémination leptoméningée
+T6	morphology-onco 2266 2283	cellules malignes
+T7	morphology-onco 2613 2622	néoplasie
+T8	morphology-onco 2731 2771	métastase de tumeur gliale de haut grade
+T9	morphology-onco 2785 2862	Métastases ganglionnaires cervicales bilatérales d'un glioblastome multiforme
+T10	morphology-onco 2993 2999	tumeur
+T11	morphology-onco 3039 3066	dissémination leptoméningée
+T12	morphology-onco 3222 3243	cellules néoplasiques
+T13	morphology-onco 3622 3629	maligne
+T14	morphology-onco 3890 3933	métastase d'une tumeur gliale de haut grade
+T15	morphology-onco 3951 3959	tumorale
+#1	ICD-O-3.1 T1	9440/3
+#2	ICD-O-3.1 T2	9440/3
+#3	ICD-O-3.1 T7	8000/1
+#4	ICD-O-3.1 T6	8001/3
+#5	ICD-O-3.1 T12	8001/1
+#6	ICD-O-3.1 T8	9380/64
+#7	ICD-O-3.1 T14	9380/6
+#8	ICD-O-3.1 T9	9440/6
+#9	ICD-O-3.1 T15	8000/1
+#10	ICD-O-3.1 T5	8000/6
+#11	ICD-O-3.1 T11	8000/6
+#12	ICD-O-3.1 T13	8000/3
+#13	ICD-O-3.1 T3	8000/1
+#14	ICD-O-3.1 T4	8000/1
+#15	ICD-O-3.1 T10	8000/1
+#16	SNOMED T1	1163375002
+#17	SNOMED T2	1163375002
+#18	SNOMED T7	86251006
+#19	SNOMED T6	88400008
+#20	SNOMED T12	39577004
+#21	SNOMED T15	86251006
+#22	SNOMED T5	14799000
+#23	SNOMED T11	14799000
+#24	SNOMED T13	1240414004
+#25	SNOMED T3	86251006
+#26	SNOMED T4	86251006
+#27	SNOMED T10	86251006

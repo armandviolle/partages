@@ -1,0 +1,62 @@
+T1	morphology-onco 129 135	cancer
+T2	morphology-onco 147 169	néoplasme métastatique
+T3	morphology-onco 226 245	cancer métastatique
+T4	morphology-onco 273 287	adénocarcinome
+T5	morphology-onco 368 374	cancer
+T6	morphology-onco 1037 1046	malignité
+T7	morphology-onco 1159 1223	carcinome canalaire infiltrant faiblement-modérément différencié
+T8	morphology-onco 1372 1393	cellules néoplasiques
+T9	morphology-onco 1982 1992	hémangiome
+T10	morphology-onco 1998 2007	métastase
+T11	morphology-onco 2204 2213	métastase
+T12	morphology-onco 2246 2301	métastase hépatique d'un carcinome canalaire infiltrant
+T13	morphology-onco 2367 2380	métastatiques
+T14	morphology-onco 2468 2529	Carcinome canalaire infiltrant peu ou moyennement différencié
+T15	morphology-onco 2592 2594	M1
+T16	morphology-onco 2727 2748	cellules néoplasiques
+T17	morphology-onco 3011 3026	macrométastases
+T18	morphology-onco 3394 3418	maladie au niveau osseux
+T19	morphology-onco 3955 3973	progression du SNC
+T20	morphology-onco 4175 4184	métastase
+T21	morphology-onco 4232 4270	progression du système nerveux central
+#1	ICD-O-3.1 T15	8000/6
+#2	ICD-O-3.1 T4	8140/3
+#3	ICD-O-3.1 T1	8000/3
+#4	ICD-O-3.1 T5	8000/3
+#5	ICD-O-3.1 T3	8000/6
+#6	ICD-O-3.1 T8	8001/1
+#7	ICD-O-3.1 T16	8001/1
+#8	ICD-O-3.1 T18	8000/6
+#9	ICD-O-3.1 T9	9120/0
+#10	ICD-O-3.1 T17	8000/6
+#11	ICD-O-3.1 T6	8000/3
+#12	ICD-O-3.1 T13	8000/6
+#13	ICD-O-3.1 T10	8000/6
+#14	ICD-O-3.1 T11	8000/6
+#15	ICD-O-3.1 T20	8000/6
+#16	ICD-O-3.1 T2	8000/6
+#17	ICD-O-3.1 T7	8500/33
+#18	ICD-O-3.1 T12	8500/6
+#19	ICD-O-3.1 T14	8500/33
+#20	ICD-O-3.1 T19	8000/6
+#21	ICD-O-3.1 T21	8000/6
+#22	SNOMED T15	14799000
+#23	SNOMED T4	1187332001
+#24	SNOMED T1	1240414004
+#25	SNOMED T5	1240414004
+#26	SNOMED T3	14799000
+#27	SNOMED T8	39577004
+#28	SNOMED T16	39577004
+#29	SNOMED T18	14799000
+#30	SNOMED T9	253053003
+#31	SNOMED T17	14799000
+#32	SNOMED T6	1240414004
+#33	SNOMED T13	14799000
+#34	SNOMED T10	14799000
+#35	SNOMED T11	14799000
+#36	SNOMED T20	14799000
+#37	SNOMED T2	14799000
+#38	SNOMED T7	58477004
+#39	SNOMED T14	58477004
+#40	SNOMED T19	14799000
+#41	SNOMED T21	14799000

@@ -1,0 +1,6 @@
+T1	disease 46 94	carcinome épidermoïde infiltrant de l'oropharynx
+T2	disease 206 246	dysphagie secondaire à une radiothérapie
+T3	disease 549 596	sténose dans la partie supérieure de l'œsophage
+#1	SNOMED T2	40739000+20558004
+#2	SNOMED T1	423464009
+#3	SNOMED T3	63305008

@@ -1,0 +1,12 @@
+T1	morphology-onco 675 693	LOE intracrânienne
+T2	morphology-onco 707 716	métastase
+T3	morphology-onco 849 886	adénocarcinome modérément différencié
+T4	morphology-onco 1008 1026	lésions hépatiques
+#1	ICD-O-3.1 T3	8140/32
+#2	ICD-O-3.1 T4	8000/6
+#3	ICD-O-3.1 T2	8000/6
+#4	ICD-O-3.1 T1	8000/6
+#5	SNOMED T3	1187332001
+#6	SNOMED T4	14799000
+#7	SNOMED T2	14799000
+#8	SNOMED T1	14799000

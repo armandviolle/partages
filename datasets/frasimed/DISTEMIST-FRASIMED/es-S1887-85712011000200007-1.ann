@@ -1,0 +1,8 @@
+T1	disease 92 123	vision floue dans les deux yeux
+T2	disease 186 199	hypothyroïdie
+T3	disease 1648 1673	fermeture angulaire aiguë
+T4	disease 2694 2810	myopisation et d'hypertension oculaire due à une fermeture angulaire aiguë secondaire à un traitement par topiramate
+#1	SNOMED T3	30041005
+#2	SNOMED T4	4210003
+#3	SNOMED T2	40930008
+#4	SNOMED T1	246636008

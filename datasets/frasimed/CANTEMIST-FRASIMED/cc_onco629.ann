@@ -1,0 +1,48 @@
+T1	morphology-onco 196 205	néoplasie
+T2	morphology-onco 536 552	néoproliférative
+T3	morphology-onco 2502 2519	cellules malignes
+T4	morphology-onco 2540 2554	adénocarcinome
+T5	morphology-onco 2654 2660	tumeur
+T6	morphology-onco 2797 2807	métastases
+T7	morphology-onco 2882 2896	neuroendocrine
+T8	morphology-onco 3288 3294	tumeur
+T9	morphology-onco 3437 3447	métastases
+T10	morphology-onco 3482 3496	neuroendocrine
+T11	morphology-onco 3625 3639	neuroendocrine
+T12	morphology-onco 3781 3812	pNET non fonctionnel de grade 2
+T13	morphology-onco 3829 3837	cT2cN1M1
+T14	morphology-onco 4528 4538	métastases
+T15	morphology-onco 4913 4917	pNET
+T16	morphology-onco 4967 4977	métastases
+#1	ICD-O-3.1 T4	8140/3
+#2	ICD-O-3.1 T3	8001/3
+#3	ICD-O-3.1 T6	8000/6
+#4	ICD-O-3.1 T9	8000/6
+#5	ICD-O-3.1 T14	8000/6
+#6	ICD-O-3.1 T16	8000/6
+#7	ICD-O-3.1 T1	8000/1
+#8	ICD-O-3.1 T2	8000/1
+#9	ICD-O-3.1 T7	8240/3
+#10	ICD-O-3.1 T11	8240/3
+#11	ICD-O-3.1 T5	8000/1
+#12	ICD-O-3.1 T8	8000/1
+#13	ICD-O-3.1 T10	8240/3
+#14	ICD-O-3.1 T12	8150/32
+#15	ICD-O-3.1 T13	8000/6
+#16	ICD-O-3.1 T15	8150/3
+#17	SNOMED T4	1187332001
+#18	SNOMED T3	88400008
+#19	SNOMED T6	14799000
+#20	SNOMED T9	14799000
+#21	SNOMED T14	14799000
+#22	SNOMED T16	14799000
+#23	SNOMED T1	86251006
+#24	SNOMED T2	86251006
+#25	SNOMED T7	189607006
+#26	SNOMED T11	189607006
+#27	SNOMED T5	86251006
+#28	SNOMED T8	86251006
+#29	SNOMED T10	189607006
+#30	SNOMED T12	60346004
+#31	SNOMED T13	14799000
+#32	SNOMED T15	60346004

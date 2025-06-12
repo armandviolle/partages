@@ -1,0 +1,32 @@
+T1	disease 41 160	lymphome de Hodgkin classique, variété à cellularité mixte, stade IV-B avec atteinte médullaire, hépatique et splénique
+T2	disease 344 350	méléna
+T3	disease 488 519	insuffisance respiratoire aiguë
+T4	disease 567 607	hémorragie gastro-intestinale inférieure
+T5	disease 613 631	choc hypovolémique
+T6	disease 745 787	grande ulcération dans le jéjunum proximal
+T7	disease 938 944	ulcère
+T8	disease 964 1023	fragments de muqueuse de l'intestin grêle, certains ulcérés
+T9	disease 1240 1251	mucormycose
+T10	disease 1374 1423	lésions hypodenses dans les deux lobes hépatiques
+T11	disease 1431 1497	atteinte lytique des corps vertébraux au niveau dorsal et lombaire
+T12	disease 1700 1775	plastron situé dans le jéjunum avec une implication du mésocôlon transverse
+T13	disease 1793 1824	perforation couvrant le jéjunum
+T14	disease 1882 2085	jéjunum et de l'iléon a montré une ulcération et une inflammation aiguë et chronique intense avec double perforation et adhérence des boucles, secondaire à une infection par des Zygomycètes de type mucor
+T15	disease 2042 2085	infection par des Zygomycètes de type mucor
+T16	disease 2532 2540	lymphome
+#1	SNOMED T1	93526001
+#2	SNOMED T12	278486006
+#3	SNOMED T13	282060009
+#4	SNOMED T2	2901004
+#5	SNOMED T14	361142004+235741002+31819001
+#6	SNOMED T3	65710008
+#7	SNOMED T15	76627001
+#8	SNOMED T4	87763006
+#9	SNOMED T5	39419009
+#10	SNOMED T6	54822007
+#11	SNOMED T16	118600007
+#12	SNOMED T9	76627001
+#13	SNOMED T10	235856003
+#14	SNOMED T11	94602001
+#15	SNOMED T7	429040005
+#16	SNOMED T8	235710003

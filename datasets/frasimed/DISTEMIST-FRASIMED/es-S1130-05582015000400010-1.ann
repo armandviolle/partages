@@ -1,0 +1,18 @@
+T1	disease 303 318	lithiase rénale
+T2	disease 326 349	hypertension artérielle
+T3	disease 839 848	carcinome
+T4	disease 1091 1138	infiltration de la musculature supra-hyoïdienne
+T5	disease 1537 1562	prolifération néoplasique
+T6	disease 2238 2244	tumeur
+T7	disease 2456 2508	carcinome myoépithélial de la glande sous-maxillaire
+T8	disease 2831 2848	récidive tumorale
+T9	disease 2855 2864	métastase
+#1	SNOMED T5	1495041000004108
+#2	SNOMED T8	25173007
+#3	SNOMED T9	128462008
+#4	SNOMED T1	95570007
+#5	SNOMED T2	38341003
+#6	SNOMED T3	722688002
+#7	SNOMED T7	254465004
+#8	SNOMED T4	94441008
+#9	SNOMED T6	55342001

@@ -1,0 +1,14 @@
+T1	disease 72 89	troisième molaire
+T2	disease 260 269	tabagisme
+T3	disease 309 315	alcool
+T4	disease 395 410	cancer du côlon
+T5	disease 937 958	carcinome épidermoïde
+T6	disease 1101 1208	lésion néoformative destructrice à la tomographie informatisée touchant le corps et la branche mandibulaire
+T7	disease 1225 1248	adénopathies cervicales
+T8	disease 1334 1367	pathologie néoplasique à distance
+T9	disease 1568 1570	M0
+T10	disease 2080 2113	carcinome malpighien kératinisant
+T11	disease 2146 2211	ganglions lymphatiques prélevés avec une invasion extracapsulaire
+T12	disease 2377 2425	tumeurs cervicales compatibles avec une récidive
+T13	disease 2450 2484	adénopathies multiples bilatérales
+T14	disease 2837 2868	récidive loco-régionale massive

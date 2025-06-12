@@ -1,0 +1,18 @@
+T1	morphology-onco 801 812	néoformatif
+T2	morphology-onco 1322 1332	métastases
+T3	morphology-onco 1379 1421	adénomateuse avec dysplasie de haut niveau
+T4	morphology-onco 2253 2392	adénocarcinome sténosant de la jonction rectosigmoïdienne (avec pose de stent), modérément différencié avec des cellules en bague de signet
+T5	morphology-onco 2669 2683	Adénocarcinome
+T6	morphology-onco 2915 2927	métastatique
+#1	ICD-O-3.1 T5	8140/3
+#2	ICD-O-3.1 T2	8000/6
+#3	ICD-O-3.1 T1	8000/1
+#4	ICD-O-3.1 T3	8140/04
+#5	ICD-O-3.1 T4	8490/32
+#6	ICD-O-3.1 T6	8000/6
+#7	SNOMED T5	1187332001
+#8	SNOMED T2	14799000
+#9	SNOMED T1	86251006
+#10	SNOMED T3	1187379001
+#11	SNOMED T4	87737001
+#12	SNOMED T6	14799000
