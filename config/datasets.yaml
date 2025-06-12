@@ -56,3 +56,9 @@ datasets:
     source_split: "train"
     commercial_use: False
     comment: ""
+  - source: PXCORPUS
+    path: "datasets/pxcorpus" # local path
+    subset: "French"
+    source_split: "train"
+    commercial_use: False
+    comment: ""
