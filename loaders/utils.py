@@ -66,25 +66,36 @@ def load_local(
     data_dir: Union[str, list] = None, 
     streaming: bool = False, 
     trust_remote_code: bool = True
-) -> list:
+) -> Dataset:
     print(f"Loading from local path: {path} for split: {split}")
     all_texts = []
-    for root, dirs, files in os.walk(path):
-        print(f"Searching for .txt files in {root}...")
-        for file_name in files:
-            if file_name.endswith(".txt"):
-                file_path = os.path.join(root, file_name)
-                try:
-                    with open(file_path, 'r', encoding='utf-8') as f:
-                        all_texts.append(f.read())
-                except Exception as e:
-                    print(f"Error reading file {file_path}: {e}")
-    if not all_texts:
-        sys.tracebacklimit = 0
-        raise RuntimeError(f"No .txt files found in {path} or its subdirectories.")
+    if data_dir == "NACHOS": 
+        if len(os.listdir(path)) == 1:
+            with open(Path(path) / os.listdir(path)[0], 'r') as f:
+                list_txt = f.read().splitlines()
+            res = {"text": list_txt}
+            return Dataset.from_dict(res)
+        else:
+            sys.tracebacklimit = 0 
+            raise RuntimeError(f"None or Multiple data files available at {path}.")
     else:
-        # raw_dataset_items = [{"text": text_content} for text_content in all_texts]
-        return Dataset.from_dict({'text': all_texts}) 
+        for root, dirs, files in os.walk(path):
+            print(f"Searching for .txt files in {root}...")
+            for file_name in files:
+                if file_name.endswith(".txt"):
+                    file_path = os.path.join(root, file_name)
+                    try:
+                        with open(file_path, 'r', encoding='utf-8') as f:
+                            all_texts.append(f.read())
+                    except Exception as e:
+                        print(f"Error reading file {file_path}: {e}")
+        if not all_texts:
+            sys.tracebacklimit = 0
+            raise RuntimeError(f"No .txt files found in {path} or its subdirectories.")
+        else:
+            return Dataset.from_dict({'text': all_texts}) 
+
+
 
 def get_nb_characters(dataset: Dataset) -> int:
     """
