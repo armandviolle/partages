@@ -18,9 +18,9 @@ def main():
     all_cfg = load_config(args=args)
 
     stats = []
-    all_ds = []
 
     for cfg in all_cfg:
+        all_ds = []
         print(f"Loading dataset {cfg['source']}: using {REGISTRY[cfg['source']]}")
         LoaderCls = REGISTRY[cfg["source"]]
     
@@ -29,57 +29,56 @@ def main():
 
         for subset in subsets: 
             for split in splits:
-                try:
-                    loader = LoaderCls(
-                        source=cfg['source'], 
-                        path=cfg['path'], 
-                        subset=subset, 
-                        source_split=split
-                    )
-                    ds = loader.load()
-                    print(f"Shape of {cfg['source']}-{subset}-{split}: {ds.shape}")
-                    nb_chars = get_nb_characters(ds)
-                    nb_words = get_nb_words(ds)
-                    print(f"Number of characters = {nb_chars}")
-                    print(f"Number of words = {nb_words}")
-                    row = {
-                        'source': cfg['source'],
-                        'subset': subset,
-                        'split': split,
-                        'nb_chars': nb_chars,
-                        'nb_words': nb_words,
-                        'nb_docs': ds.shape[0],
-                        "mean_words": np.mean([len(txt.split()) for txt in ds["text"]]),
-                        "std_chars": np.std([len(txt) for txt in ds["text"]], ddof=0),
-                        "std_words": np.std([len(txt.split()) for txt in ds["text"]], ddof=0),
-                    }
-                    print(f"Mean of words = {row['mean_words']}")
-                    print(f"Std of characters = {row['std_chars']}")
-                    print(f"Std of words = {row['std_words']}")
-                    print()
-                    stats.append(row)
-                    all_ds.append(ds)
-                except Exception as e:
-                    print(f"Unavailable data split \"{split}\" for data_dir \"{subset}\".")
-                    continue
+                # try:
+                loader = LoaderCls(
+                    source=cfg['source'], 
+                    path=cfg['path'], 
+                    subset=subset, 
+                    source_split=split
+                )
+                ds = loader.load()
+                print(f"Shape of {cfg['source']}-{subset}-{split}: {ds.shape}")
+                nb_chars = get_nb_characters(ds)
+                nb_words = get_nb_words(ds)
+                print(f"Number of characters = {nb_chars}")
+                print(f"Number of words = {nb_words}")
+                row = {
+                    'source': cfg['source'],
+                    'subset': subset,
+                    'split': split,
+                    'nb_chars': nb_chars,
+                    'nb_words': nb_words,
+                    'nb_docs': ds.shape[0],
+                    "mean_words": np.mean([len(txt.split()) for txt in ds["text"]]),
+                    "std_chars": np.std([len(txt) for txt in ds["text"]], ddof=0),
+                    "std_words": np.std([len(txt.split()) for txt in ds["text"]], ddof=0),
+                }
+                print(f"Mean of words = {row['mean_words']}")
+                print(f"Std of characters = {row['std_chars']}")
+                print(f"Std of words = {row['std_words']}")
+                print()
+                stats.append(row)
+                all_ds.append(ds)
+                # except Exception as e:
+                #     print(f"Unavailable data split \"{split}\" for data_dir \"{subset}\".")
+                #     continue
         if not len(all_ds) > 0:
             sys.tracebacklimit = 0 
             raise RuntimeError(f"No data was loaded for dataset \"{cfg['source']}\".")
-
-    merged = concatenate_datasets(all_ds)
-    print(f"Shape of concatenated dataset: {merged.shape}")
-
-    if args.push_to_hub:
-        print("Pushing to hub\n")
-        with tempfile.TemporaryDirectory() as tmpdir:
-            merged.save_to_disk(tmpdir)
-            merged.push_to_hub(
-                repo_id="LIMICS/PARTAGES",
-                config_name=cfg["source"],
-                commit_message=f"Pushed dataset {cfg['source']} on {datetime.date.today().isoformat()}"
-            )
-    else:
-        print("Not pushing to hub\n")
+        else:
+            merged = concatenate_datasets(all_ds)
+            print(f"Shape of concatenated dataset: {merged.shape}")
+            if args.push_to_hub:
+                print("Pushing to hub\n")
+                with tempfile.TemporaryDirectory() as tmpdir:
+                    merged.save_to_disk(tmpdir)
+                    merged.push_to_hub(
+                        repo_id="LIMICS/PARTAGES",
+                        config_name=cfg["source"],
+                        commit_message=f"Pushed dataset {cfg['source']} on {datetime.date.today().isoformat()}"
+                    )
+            else:
+                print("Not pushing to hub\n")
 
     df = pd.DataFrame(stats)
     totals = df[["nb_words", "nb_chars", "nb_docs"]].sum().rename("total")

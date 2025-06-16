@@ -26,97 +26,97 @@ datasets:
     comment: ""
   # From NACHOS
   - source: HAL
-    path: "datasets/NACHOS/HAL"
+    path: "datasets/HAL"
     subset: "NACHOS"
     source_split:
     commercial_use: True
     comment: ""
   - source: "HAS"
-    path: "datasets/NACHOS/HAS"
+    path: "datasets/HAS"
     subset: "NACHOS"
     source_split:
     commercial_use: True
     comment: ""
   - source: "WIKIPEDIA"
-    path: "datasets/NACHOS/Wikipedia"
+    path: "datasets/Wikipedia"
     subset: "NACHOS"
     source_split: 
     commercial_use: True
     comment: ""
   - source: "EMEA_V3"
-    path: "datasets/NACHOS/EMEA-V3"
+    path: "datasets/EMEA-V3"
     subset: "NACHOS"
     source_split: 
     commercial_use: True
     comment: ""
   - source: "QUAERO"
-    path: "datasets/NACHOS/Quaero"
+    path: "datasets/Quaero"
     subset: "NACHOS"
     source_split: 
     commercial_use: True
     comment: ""
   - source: "BDPM"
-    path: "datasets/NACHOS/DBPM"
+    path: "datasets/DBPM"
     subset: "NACHOS"
     source_split: 
     commercial_use: True
     comment: ""
   - source: "ECDC_TM"
-    path: "datasets/NACHOS/ECDC"
+    path: "datasets/ECDC"
     subset: "NACHOS"
     source_split: 
     commercial_use: True
     comment: ""
   - source: "QUALISCOPE"
-    path: "datasets/NACHOS/ScopeSanteQualité"
+    path: "datasets/ScopeSanteQualité"
     subset: "NACHOS"
     source_split: 
     commercial_use: True
     comment: ""
   - source: "CNEDIMTS"
-    path: "datasets/NACHOS/CNEDiMTS"
+    path: "datasets/CNEDiMTS"
     subset: "NACHOS"
     source_split: 
     commercial_use: True
     comment: ""
   - source: "WMT18_MEDLINE"
-    path: "datasets/NACHOS/WMT-18-Medline"
+    path: "datasets/WMT-18-Medline"
     subset: "NACHOS"
     source_split: 
     commercial_use: False
     comment: ""
   - source: "ISTEX"
-    path: "datasets/NACHOS/ISTEX"
+    path: "datasets/ISTEX"
     subset: "NACHOS"
     source_split: 
     commercial_use: True
     comment: ""
   - source: "CERIMES"
-    path: "datasets/NACHOS/Cerimes"
+    path: "datasets/Cerimes"
     subset: "NACHOS"
     source_split: 
     commercial_use: True
     comment: ""
   - source: "CLEAR"
-    path: "datasets/NACHOS/CLEAR"
+    path: "datasets/CLEAR"
     subset: "NACHOS"
     source_split: 
     commercial_use: False
     comment: ""
   - source: "ANSES_RCP"
-    path: "datasets/NACHOS/ANSES_RCP"
+    path: "datasets/ANSES_RCP"
     subset: "NACHOS"
     source_split: 
     commercial_use: False
     comment: ""
   - source: "ANSES_SAISINE"
-    path: "datasets/NACHOS/ANSES_SAISINE"
+    path: "datasets/ANSES_SAISINE"
     subset: "NACHOS"
     source_split: 
     commercial_use: False
     comment: ""
   - source: "E3C"
-    path: "datasets/NACHOS/E3C-Corpus-2.0.0-French"
+    path: "datasets/E3C-Corpus-2.0.0-French"
     subset: "NACHOS"
     source_split: 
     commercial_use: False
