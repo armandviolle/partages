@@ -28,8 +28,7 @@ def read_config(path="config/datasets.yaml"):
         return yaml.safe_load(f)["datasets"]
     
 
-def read_compressed(path: Union[Path, str]):
-    texts = []
+def read_compressed(path: Union[Path, str]) -> list:
     all_bytes = b""
     for part in sorted(os.listdir(path=path)):
         with open(path / part, 'rb') as f:
@@ -80,21 +79,13 @@ def load_local(
 ) -> Dataset:
     print(f"Loading from local path: {path} for split: {split}")
     all_texts = []
-    if data_dir == "NACHOS":
-        # try: 
-        all_texts = read_compressed(path=Path(path))
-        # except Exception as e:
-        #     sys.tracebacklimit = 0 
-        #     raise RuntimeError(f"Could not load data from {path}.")
+    if os.listdir(path=path)[0].endswith(".gz"):
+        try: 
+            all_texts = read_compressed(path=Path(path))
+        except Exception as e:
+            sys.tracebacklimit = 0 
+            raise RuntimeError(f"Could not load data from {path}.")
         return Dataset.from_dict({'text': all_texts})
-        # if len(os.listdir(path)) == 1:
-        #     with open(Path(path) / os.listdir(path)[0], 'r') as f:
-        #         list_txt = f.read().splitlines()
-        #     res = {"text": list_txt}
-        #     return Dataset.from_dict(res)
-        # else:
-        #     sys.tracebacklimit = 0 
-        #     raise RuntimeError(f"None or Multiple data files available at {path}.")
     else:
         for root, dirs, files in os.walk(path):
             print(f"Searching for .txt files in {root}...")

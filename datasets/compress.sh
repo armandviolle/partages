@@ -53,7 +53,7 @@ fi
 target_file="$target_path/$file_name"
 
 # Compressing files into chunks of less than 99Mo (100Mo max per file on GitHub)
-gzip -c $source_file | split -b 99M - "$target_file".gz.part_
+gzip -c $source_file | split -b 50M - "$target_file".gz.part_
 declare -i num_compressed
 num_compressed=$(ls $target_path | wc -l)
 
