@@ -29,39 +29,39 @@ def main():
 
         for subset in subsets: 
             for split in splits:
-                # try:
-                loader = LoaderCls(
-                    source=cfg['source'], 
-                    path=cfg['path'], 
-                    subset=subset, 
-                    source_split=split
-                )
-                ds = loader.load()
-                print(f"Shape of {cfg['source']}-{subset}-{split}: {ds.shape}")
-                nb_chars = get_nb_characters(ds)
-                nb_words = get_nb_words(ds)
-                print(f"Number of characters = {nb_chars}")
-                print(f"Number of words = {nb_words}")
-                row = {
-                    'source': cfg['source'],
-                    'subset': subset,
-                    'split': split,
-                    'nb_chars': nb_chars,
-                    'nb_words': nb_words,
-                    'nb_docs': ds.shape[0],
-                    "mean_words": np.mean([len(txt.split()) for txt in ds["text"]]),
-                    "std_chars": np.std([len(txt) for txt in ds["text"]], ddof=0),
-                    "std_words": np.std([len(txt.split()) for txt in ds["text"]], ddof=0),
-                }
-                print(f"Mean of words = {row['mean_words']}")
-                print(f"Std of characters = {row['std_chars']}")
-                print(f"Std of words = {row['std_words']}")
-                print()
-                stats.append(row)
-                all_ds.append(ds)
-                # except Exception as e:
-                #     print(f"Unavailable data split \"{split}\" for data_dir \"{subset}\".")
-                #     continue
+                try:
+                    loader = LoaderCls(
+                        source=cfg['source'], 
+                        path=cfg['path'], 
+                        subset=subset, 
+                        source_split=split
+                    )
+                    ds = loader.load()
+                    print(f"Shape of {cfg['source']}-{subset}-{split}: {ds.shape}")
+                    nb_chars = get_nb_characters(ds)
+                    nb_words = get_nb_words(ds)
+                    print(f"Number of characters = {nb_chars}")
+                    print(f"Number of words = {nb_words}")
+                    row = {
+                        'source': cfg['source'],
+                        'subset': subset,
+                        'split': split,
+                        'nb_chars': nb_chars,
+                        'nb_words': nb_words,
+                        'nb_docs': ds.shape[0],
+                        "mean_words": np.mean([len(txt.split()) for txt in ds["text"]]),
+                        "std_chars": np.std([len(txt) for txt in ds["text"]], ddof=0),
+                        "std_words": np.std([len(txt.split()) for txt in ds["text"]], ddof=0),
+                    }
+                    print(f"Mean of words = {row['mean_words']}")
+                    print(f"Std of characters = {row['std_chars']}")
+                    print(f"Std of words = {row['std_words']}")
+                    print()
+                    stats.append(row)
+                    all_ds.append(ds)
+                except Exception as e:
+                    print(f"Unavailable data split \"{split}\" for data_dir \"{subset}\".")
+                    continue
         if not len(all_ds) > 0:
             sys.tracebacklimit = 0 
             raise RuntimeError(f"No data was loaded for dataset \"{cfg['source']}\".")
@@ -72,11 +72,20 @@ def main():
                 print("Pushing to hub\n")
                 with tempfile.TemporaryDirectory() as tmpdir:
                     merged.save_to_disk(tmpdir)
-                    merged.push_to_hub(
-                        repo_id="LIMICS/PARTAGES",
-                        config_name=cfg["source"],
-                        commit_message=f"Pushed dataset {cfg['source']} on {datetime.date.today().isoformat()}"
-                    )
+                    if args.make_commercial_version:
+                        merged.push_to_hub(
+                            repo_id="LIMICS/PARTAGES",
+                            config_name=cfg["source"],
+                            commit_message=f"Pushed dataset {cfg['source']} on {datetime.date.today().isoformat()}"
+                        )
+                        print("Dataset pushed to LIMICS/PARTAGES.")
+                    else:
+                        merged.push_to_hub(
+                            repo_id="LIMICS/PARTAGES-research",
+                            config_name=cfg["source"],
+                            commit_message=f"Pushed dataset {cfg['source']} on {datetime.date.today().isoformat()}"
+                        )
+                        print("Dataset pushed to LIMICS/PARTAGES-research.")
             else:
                 print("Not pushing to hub\n")
 
