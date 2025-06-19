@@ -40,85 +40,85 @@ datasets:
   - source: "WIKIPEDIA"
     path: "datasets/NACHOS/Wikipedia"
     subset: "NACHOS"
-    source_split: 
+    source_split:
     commercial_use: True
     comment: ""
   - source: "EMEA_V3"
     path: "datasets/NACHOS/EMEA-V3"
     subset: "NACHOS"
-    source_split: 
+    source_split:
     commercial_use: True
     comment: ""
   - source: "QUAERO"
     path: "datasets/NACHOS/Quaero"
     subset: "NACHOS"
-    source_split: 
+    source_split:
     commercial_use: True
     comment: ""
   - source: "BDPM"
     path: "datasets/NACHOS/DBPM"
     subset: "NACHOS"
-    source_split: 
+    source_split:
     commercial_use: True
     comment: ""
   - source: "ECDC_TM"
     path: "datasets/NACHOS/ECDC"
     subset: "NACHOS"
-    source_split: 
+    source_split:
     commercial_use: True
     comment: ""
   - source: "QUALISCOPE"
     path: "datasets/NACHOS/ScopeSanteQualité"
     subset: "NACHOS"
-    source_split: 
+    source_split:
     commercial_use: True
     comment: ""
   - source: "CNEDIMTS"
     path: "datasets/NACHOS/CNEDiMTS"
     subset: "NACHOS"
-    source_split: 
+    source_split:
     commercial_use: True
     comment: ""
   - source: "WMT18_MEDLINE"
     path: "datasets/NACHOS/WMT-18-Medline"
     subset: "NACHOS"
-    source_split: 
+    source_split:
     commercial_use: False
     comment: ""
   - source: "ISTEX"
     path: "datasets/NACHOS/ISTEX"
     subset: "NACHOS"
-    source_split: 
+    source_split:
     commercial_use: True
     comment: ""
   - source: "CERIMES"
     path: "datasets/NACHOS/Cerimes"
     subset: "NACHOS"
-    source_split: 
+    source_split:
     commercial_use: True
     comment: ""
   - source: "CLEAR"
     path: "datasets/NACHOS/CLEAR"
     subset: "NACHOS"
-    source_split: 
+    source_split:
     commercial_use: False
     comment: ""
   - source: "ANSES_RCP"
     path: "datasets/NACHOS/ANSES_RCP"
     subset: "NACHOS"
-    source_split: 
+    source_split:
     commercial_use: False
     comment: ""
   - source: "ANSES_SAISINE"
     path: "datasets/NACHOS/ANSES_SAISINE"
     subset: "NACHOS"
-    source_split: 
+    source_split:
     commercial_use: False
     comment: ""
   - source: "E3C"
     path: "datasets/NACHOS/E3C-Corpus-2.0.0-French"
     subset: "NACHOS"
-    source_split: 
+    source_split:
     commercial_use: False
     comment: ""
   # From dumps
