@@ -1,0 +1,42 @@
+bonjour   
+Bonjour docteur
+est-ce que est-ce que de quelle couleur sont vos urines   
+Oui justement c'est bizarre, elles sont très foncées
+est-ce que la douleur s'est aggravée   
+Je me sens de plus en plus mal au même endroit docteur.
+douleur aggraver miction   
+Non
+vous avez vomi   
+Oui tout à l'heure
+que vous arrivez à aller aux toilettes pour faire pipi   
+Le transit, c'est normal
+on est en quelle année   
+Je ne sais pas
+quel est l'origine de votre famille   
+Mon père est d'origine italienne et ma maman est française
+on est en quelle année   
+Je ne sais pas
+est-ce que vous connaissez le mois   
+non
+est-ce que vous avez des frissons   
+Oui j'ai froid
+non je veux que vous avez du mal à respirer   
+Non
+depuis quand êtes-vous jaune   
+J’ai pas remarqué quelque chose d’anormale.
+est-ce que vous avez de la fièvre   
+Je me sens fiévreuse
+des frissons   
+Oui j'ai froid
+vous avez mal à la tête   
+non docteur
+est-ce que vous avez des urines foncées   
+Oui justement c'est bizarre, elles sont très foncées
+si vous avez des selles décolorées   
+Je ne sais pas, je ne suis pas allée aux toilettes
+avoir aussi fièvre   
+Je me sens fiévreuse
+est-ce que vous avez des selles décolorées   
+Je ne sais pas, je ne suis pas allée aux toilettes
+est-ce que vous avez toujours mal au ventre au même endroit   
+Oui au même endroit et de plus en plus fort
