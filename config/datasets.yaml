@@ -146,3 +146,9 @@ datasets:
     source_split: "train"
     commercial_use: False
     comment: ""
+  - source: MQC
+    path: "datasets/mqc" # local path
+    subset: "French"
+    source_split: "train"
+    commercial_use: False
+    comment: ""
