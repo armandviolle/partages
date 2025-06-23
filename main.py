@@ -1,4 +1,4 @@
-import os, sys
+import os, sys, json
 import pandas as pd
 import numpy as np
 from datasets import concatenate_datasets
@@ -7,7 +7,7 @@ from huggingface_hub import HfFolder, HfApi, login, Repository
 import tempfile
 import datetime
 from pathlib import Path
-from loaders.utils import parse, load_config, get_nb_characters, get_nb_words
+from loaders.utils import parse, load_config, get_nb_characters, get_nb_words, generate_info_file
 
 
 def main():
@@ -23,7 +23,7 @@ def main():
 
     stats = []
     global_ds = []
-    info_messages = {}
+    commit_files = {}
 
     for cfg in all_cfg:
         all_ds = []
@@ -76,50 +76,34 @@ def main():
             print(f"Shape of concatenated dataset: {merged.shape}")
             global_ds.append(merged)
             if args.push_to_hub:
-                ### TODO #2 -> modify / formalize the dataset info file written to the repo ?
-                info_messages[cfg['source']] = f"""
-                    # {cfg['source']}
-                    ## Version
-                    Date of latest push: {datetime.date.today().isoformat()}
-                    ## Splits
-                    {cfg['source_split']}
-                    ## Architecture and shape
-                    {merged}
-                    {merged.shape}
-                    ## Comment
-                    {cfg['comment']}
-                """
-                # end todo
+                msg = generate_info_file(dataset=merged, source_name=cfg['source'], source_split=cfg['source_split'], comments=cfg['comment'])
+                commit_files[cfg['source']] = [msg, concatenate_datasets(all_ds)] # cfg['target_split']]
         else:
             print(f"No data was loaded for dataset \"{cfg['source']}\".")
-
-    if global_ds:
-        global_merged = concatenate_datasets(global_ds)
-        if args.push_to_hub:
-            print("\nPushing to hub.")
-            with tempfile.TemporaryDirectory() as tmpdir:
-                repo = Repository(
-                    local_dir=tmpdir, 
-                    clone_from="LIMICS/PARTAGES" if args.make_commercial_version else "LIMICS/PARTAGES-research",
-                    repo_type="dataset"
-                )
-                for key, msg in info_messages.items():
-                    filename = f"{key}/{key}_info.md"
-                    info_file = os.path.join(tmpdir, filename)
-                    with open(info_file, 'w') as f:
-                        f.write(msg)
-                    repo.git_add(filename)
-                parquet_file = os.path.join(tmpdir, "partages.parquet")
-                global_merged.to_parquet(parquet_file)
-                repo.git_add(parquet_file)
-                repo.git_commit(commit_message=f"Adding new dataset version on {datetime.date.today().isoformat()}.")
-                repo.git_push()
-                print(f"Dataset pushed to {"LIMICS/PARTAGES" if args.make_commercial_version else "LIMICS/PARTAGES-research"}.")
-        else:
-            print("\nNot pushing to hub.")
-    else:
-        sys.tracebacklimit = 0 
-        raise RuntimeError(f"No data was loaded.")
+    print(commit_files)
+    with tempfile.TemporaryDirectory() as tmpdir:
+        repo = Repository(
+            local_dir=tmpdir, 
+            clone_from="LIMICS/PARTAGES" if args.make_commercial_version else "LIMICS/PARTAGES-research",
+            repo_type="dataset",
+        )
+        for key, val in commit_files.items():
+            if not os.path.exists(os.path.join(tmpdir, key)):
+                os.makedirs(os.path.join(tmpdir, key))
+            # Writing and saving info file
+            info_file_name = f"{key}/{key}_info.md"
+            info_file = os.path.join(tmpdir, info_file_name)
+            with open(info_file, 'w') as f:
+                f.write(val[0])
+            repo.git_add(info_file_name)
+            # Saving dataframe 
+            df_file_name = f"{key}/{key}.parquet"
+            df_file = os.path.join(tmpdir, df_file_name)
+            val[1].to_parquet(df_file)
+            repo.git_add(df_file_name)
+        commit_msg = f"Updating dataset on {datetime.date.today().isoformat()}." if args.use_all_sources else f"Updating corpus {all_cfg[0]['source']} on {datetime.date.today().isoformat()}."
+        repo.git_commit(commit_message=commit_msg)
+        repo.git_push()
 
     ### TODO #3 -> cf the first todo
     df = pd.DataFrame(stats)

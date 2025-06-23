@@ -1,7 +1,8 @@
 import io, os, sys, yaml, gzip
+import datetime
 from typing import Union
 from pathlib import Path
-from datasets import Dataset
+from datasets import Dataset, arrow_dataset
 from argparse import ArgumentParser
 from preprocessing.text_cleaning import cleaner
 
@@ -35,6 +36,15 @@ def read_compressed(path: Union[Path, str]) -> list:
             all_bytes += f.read()
     with gzip.open(io.BytesIO(all_bytes), 'rt', encoding="utf-8") as res:
         return res.read().splitlines()
+
+
+def generate_info_file(
+    dataset: arrow_dataset.Dataset,
+    source_name: str, 
+    source_split: str, 
+    comment: str,
+) -> str:
+    return f"# {source_name} \n## Presentation \n{comment} \n## Version \nDate of latest push: {datetime.date.today().isoformat()} \n## Splits \n{source_split} \n## Architecture and shape \n{dataset} \nShape: {dataset.shape}"
     
 
 def load_config(args):
