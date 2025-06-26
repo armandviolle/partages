@@ -43,9 +43,17 @@ def generate_info_file(
     source_name: str, 
     source_split: str, 
     comment: str,
+    stats: dict
 ) -> str:
-    return f"# {source_name} \n## Presentation \n{comment} \n## Version \nDate of latest push: {datetime.date.today().isoformat()} \n## Splits \n{source_split} \n## Architecture and shape \n{dataset} \nShape: {dataset.shape}"
-    
+    return (f"# {source_name} \n"
+            f"## Presentation \n"
+            f"{comment} \n"
+            f"## Version \n"
+            f"Date of latest push: {datetime.date.today().isoformat()} \n"
+            f"## Splits \n{source_split} \n"
+            f"## Architecture and shape \n{dataset} \n"
+            f"Shape: {dataset.shape}"
+            f"## Stats \n" + "\n".join([f"{k}: {v}" for k, v in stats.items()]))
 
 def load_config(args):
     all_cfg = read_config()
@@ -138,3 +146,21 @@ def get_nb_words(dataset: Dataset) -> int:
 def clean_example(example, lower, rm_new_lines):
     example["text"] = cleaner(example["text"], do_lower=lower, rm_new_lines=rm_new_lines)
     return example
+
+
+def get_row_stats_individual(source, stats):
+    """
+    Returns a dictionary with the statistics for each source.
+    """
+    for row in stats:
+        if row['source'] == source:
+            return {
+                'nb_chars': row['nb_chars'],
+                'nb_words': row['nb_words'],
+                'nb_docs': row['nb_docs'],
+                'mean_words': row['mean_words'],
+                'std_chars': row['std_chars'],
+                'std_words': row['std_words']
+            }
+        else:
+            raise RuntimeError(f"Source {row['source']} is not available in statistics.")
