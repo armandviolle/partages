@@ -1,4 +1,4 @@
-import os, sys, json
+import os
 import pandas as pd
 import numpy as np
 from datasets import concatenate_datasets
@@ -6,13 +6,11 @@ from loaders import REGISTRY
 from huggingface_hub import HfFolder, HfApi, login, Repository
 import tempfile
 import datetime
-from pathlib import Path
-from loaders.utils import parse, load_config, get_nb_characters, get_nb_words, generate_info_file
+from loaders.utils import parse, load_config, get_nb_characters, get_nb_words, generate_info_file, get_row_stats_individual
 
 
 def main():
 
-    api = HfApi()
     args = parse()
     with open(args.hf_token, 'r') as f:
         hf_token = f.read()
@@ -65,7 +63,6 @@ def main():
                     print(f"Std of words = {row['std_words']}")
                     print()
                     stats.append(row)
-                    # end todo
                     all_ds.append(ds)
                 except Exception as e:
                     print(f"Unavailable data split \"{split}\" for data_dir \"{subset}\".")
@@ -76,11 +73,20 @@ def main():
             print(f"Shape of concatenated dataset: {merged.shape}")
             global_ds.append(merged)
             if args.push_to_hub:
-                msg = generate_info_file(dataset=merged, source_name=cfg['source'], source_split=cfg['source_split'], comments=cfg['comment'])
+                msg = generate_info_file(dataset=merged, source_name=cfg['source'], source_split=cfg['source_split'], comment=cfg['comment'], stats=get_row_stats_individual(cfg['source'], stats))
                 commit_files[cfg['source']] = [msg, concatenate_datasets(all_ds)] # cfg['target_split']]
         else:
             print(f"No data was loaded for dataset \"{cfg['source']}\".")
+
     print(commit_files)
+
+    df = pd.DataFrame(stats)
+    totals = df[["nb_words", "nb_chars", "nb_docs"]].sum().rename("total")
+    totals["mean_of_mean_words"] = df["mean_words"].mean()
+    totals["std_of_mean_chars"] = df["std_chars"].std(ddof=0)
+    totals["std_of_mean_words"] = df["std_words"].std(ddof=0)
+    totals_df = totals.to_frame().T
+
     with tempfile.TemporaryDirectory() as tmpdir:
         repo = Repository(
             local_dir=tmpdir, 
@@ -101,22 +107,20 @@ def main():
             df_file = os.path.join(tmpdir, df_file_name)
             val[1].to_parquet(df_file)
             repo.git_add(df_file_name)
+        # Writing stats_infos.md
+        stats_infos_path = os.path.join(tmpdir, "stats_infos.md") # Ajout du fichier stats_infos.md à la racine
+        with open(stats_infos_path, "w") as f:
+            f.write(df.to_string(index=False, float_format="{:.2f}".format))
+        repo.git_add("stats_infos.md")
+
         commit_msg = f"Updating dataset on {datetime.date.today().isoformat()}." if args.use_all_sources else f"Updating corpus {all_cfg[0]['source']} on {datetime.date.today().isoformat()}."
         repo.git_commit(commit_message=commit_msg)
         repo.git_push()
 
-    ### TODO #3 -> cf the first todo
-    df = pd.DataFrame(stats)
-    totals = df[["nb_words", "nb_chars", "nb_docs"]].sum().rename("total")
-    totals["mean_of_mean_words"] = df["mean_words"].mean()
-    totals["std_of_mean_chars"] = df["std_chars"].std(ddof=0)
-    totals["std_of_mean_words"] = df["std_words"].std(ddof=0)
-    totals_df = totals.to_frame().T
     with pd.option_context('display.max_columns', None, 'display.width', 0):
         print(df)
         print()
         print(totals_df)
-    # end todo
 
     # déduplication simple
     # merged = deduplicate(merged, key_column="text") # TODO : deduplicate AF
