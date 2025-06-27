@@ -122,6 +122,9 @@ def main():
         print()
         print(totals_df)
 
+    if args.use_all_sources:
+        totals_df.to_csv("statistics.csv", index=False)
+
     # déduplication simple
     # merged = deduplicate(merged, key_column="text") # TODO : deduplicate AF
 
