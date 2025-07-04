@@ -12,7 +12,6 @@ from loaders.utils import parse, load_config, get_nb_characters, get_nb_words, g
 
 def main():
 
-    api = HfApi()
     args = parse()
     with open(args.hf_token, 'r') as f:
         hf_token = f.read()
@@ -76,10 +75,11 @@ def main():
             print(f"Shape of concatenated dataset: {merged.shape}")
             global_ds.append(merged)
             if args.push_to_hub:
-                msg = generate_info_file(dataset=merged, source_name=cfg['source'], source_split=cfg['source_split'], comments=cfg['comment'])
+                msg = generate_info_file(dataset=merged, source_name=cfg['source'], source_split=cfg['source_split'], comment=cfg['comment'])
                 commit_files[cfg['source']] = [msg, concatenate_datasets(all_ds)] # cfg['target_split']]
         else:
             print(f"No data was loaded for dataset \"{cfg['source']}\".")
+            raise ValueError()
     print(commit_files)
     with tempfile.TemporaryDirectory() as tmpdir:
         repo = Repository(
