@@ -1,9 +1,14 @@
-import io, os, sys, yaml, gzip
+import io
+import os
+import sys
+import yaml
+import gzip
 import datetime
 from typing import Union
 from pathlib import Path
-from datasets import Dataset, arrow_dataset
+import pandas as pd
 from argparse import ArgumentParser
+from datasets import Dataset, arrow_dataset
 from preprocessing.text_cleaning import cleaner
 
 
@@ -115,11 +120,19 @@ def load_local(
                             all_texts.append(f.read())
                     except Exception as e:
                         print(f"Error reading file {file_path}: {e}")
-        if not all_texts:
-            sys.tracebacklimit = 0
-            raise RuntimeError(f"No .txt files found in {path} or its subdirectories.")
-        else:
+                # elif file_name.endswith(".parquet"):
+                #     file_path = os.path.join(root, file_name)
+                #     try:
+                #         df = pd.read_parquet(file_path)
+                #     except Exception as e:
+                #         print(f"Error reading file {file_path}: {e}")
+        if all_texts:
             return Dataset.from_dict({'text': all_texts}) 
+        # elif df:
+        #     return Dataset.from_pandas(df=df)
+        else:
+            sys.tracebacklimit = 0
+            raise RuntimeError(f"No .txt or .parquet files found in {path} or its subdirectories.")
 
 
 

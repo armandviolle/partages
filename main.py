@@ -73,10 +73,11 @@ def main():
             print(f"Shape of concatenated dataset: {merged.shape}")
             global_ds.append(merged)
             if args.push_to_hub:
-                msg = generate_info_file(dataset=merged, source_name=cfg['source'], source_split=cfg['source_split'], comment=cfg['comment'], stats=get_row_stats_individual(cfg['source'], stats))
+                msg = generate_info_file(dataset=merged, source_name=cfg['source'], source_split=cfg['source_split'], comment=cfg['comment'])
                 commit_files[cfg['source']] = [msg, concatenate_datasets(all_ds)] # cfg['target_split']]
         else:
             print(f"No data was loaded for dataset \"{cfg['source']}\".")
+            raise ValueError()
 
     print(commit_files)
 
