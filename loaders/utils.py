@@ -6,7 +6,6 @@ import gzip
 import datetime
 from typing import Union
 from pathlib import Path
-import pandas as pd
 from argparse import ArgumentParser
 from datasets import Dataset, arrow_dataset
 from preprocessing.text_cleaning import cleaner
@@ -59,6 +58,8 @@ def generate_info_file(
             f"## Architecture and shape \n{dataset} \n"
             f"Shape: {dataset.shape}"
             f"## Stats \n" + "\n".join([f"{k}: {v}" for k, v in stats.items()]))
+
+
 
 def load_config(args):
     all_cfg = read_config()
@@ -120,16 +121,8 @@ def load_local(
                             all_texts.append(f.read())
                     except Exception as e:
                         print(f"Error reading file {file_path}: {e}")
-                # elif file_name.endswith(".parquet"):
-                #     file_path = os.path.join(root, file_name)
-                #     try:
-                #         df = pd.read_parquet(file_path)
-                #     except Exception as e:
-                #         print(f"Error reading file {file_path}: {e}")
         if all_texts:
-            return Dataset.from_dict({'text': all_texts}) 
-        # elif df:
-        #     return Dataset.from_pandas(df=df)
+            return Dataset.from_dict({'text': all_texts})
         else:
             sys.tracebacklimit = 0
             raise RuntimeError(f"No .txt or .parquet files found in {path} or its subdirectories.")
@@ -142,7 +135,6 @@ def get_nb_characters(dataset: Dataset) -> int:
     """
     if 'text' not in dataset.column_names:
         raise ValueError("Dataset does not contain a 'text' column.")
-
     return sum(len(text) for text in dataset['text'])
 
 def get_nb_words(dataset: Dataset) -> int:
@@ -151,15 +143,7 @@ def get_nb_words(dataset: Dataset) -> int:
     """
     if 'text' not in dataset.column_names:
         raise ValueError("Dataset does not contain a 'text' column.")
-
     return sum(len(text.split()) for text in dataset['text'])
-
-
-
-def clean_example(example, lower, rm_new_lines):
-    example["text"] = cleaner(example["text"], do_lower=lower, rm_new_lines=rm_new_lines)
-    return example
-
 
 def get_row_stats_individual(source, stats):
     """
@@ -177,3 +161,9 @@ def get_row_stats_individual(source, stats):
             }
         else:
             raise RuntimeError(f"Source {row['source']} is not available in statistics.")
+        
+
+
+def clean_example(example, lower, rm_new_lines):
+    example["text"] = cleaner(example["text"], do_lower=lower, rm_new_lines=rm_new_lines)
+    return example

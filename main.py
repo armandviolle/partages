@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from datasets import concatenate_datasets
 from loaders import REGISTRY
-from huggingface_hub import HfFolder, HfApi, login, Repository
+from huggingface_hub import HfFolder, login, Repository
 import tempfile
 import datetime
 from loaders.utils import parse, load_config, get_nb_characters, get_nb_words, generate_info_file, get_row_stats_individual
@@ -73,7 +73,7 @@ def main():
             print(f"Shape of concatenated dataset: {merged.shape}")
             global_ds.append(merged)
             if args.push_to_hub:
-                msg = generate_info_file(dataset=merged, source_name=cfg['source'], source_split=cfg['source_split'], comment=cfg['comment'])
+                msg = generate_info_file(dataset=merged, source_name=cfg['source'], source_split=cfg['source_split'], comment=cfg['comment'], stats=get_row_stats_individual(cfg['source'], stats))
                 commit_files[cfg['source']] = [msg, concatenate_datasets(all_ds)] # cfg['target_split']]
         else:
             print(f"No data was loaded for dataset \"{cfg['source']}\".")

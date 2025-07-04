@@ -18,6 +18,5 @@ class WIKIPEDIA(BaseLoader):
     @override
     def load(self):
         ds = Dataset.from_parquet(f"{self.path}/wikipedia.parquet")
-        # ds = Dataset.from_dict({'text': extract_wikipedia()})
         tmp_ds = self.postprocess(dataset=ds)
         return tmp_ds.map(clean_example, fn_kwargs={"lower": False, "rm_new_lines": False})
