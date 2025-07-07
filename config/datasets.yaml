@@ -1,12 +1,5 @@
 datasets:
   # From HuggingFace 
-  - source: SIMSAMU
-    path: "medkit/simsamu"
-    subset:
-    source_split: "train"
-    target_split: 
-    commercial_use: True
-    comment: ""
   - source: WMT16
     path: "qanastek/WMT-16-PubMed"
     subset: "en-fr"
