@@ -6,7 +6,7 @@ from .base_loader import BaseLoader
 class FRASIMED(BaseLoader):
     """Loader for the FRASIMED dataset."""
 
-    def postprocess(self, dataset: Dataset, subset: Optional[str], split: str) -> Dataset:
+    def postprocess(self, dataset: Dataset, subset: Optional[str] = None, split: str = "train") -> Dataset:
         """Format the raw dataset to a common schema.
 
         Parameters
@@ -14,9 +14,9 @@ class FRASIMED(BaseLoader):
         dataset : Dataset
             The input dataset to postprocess.
         subset : str, optional
-            Name of the subset being processed.
+            Name of the subset being processed. None by default.
         split : str
-            Name of the split being processed.
+            Name of the split being processed. Defaults to "train".
 
         Returns
         -------

@@ -5,7 +5,7 @@ from .base_loader import BaseLoader
 class MANTRA_GSC(BaseLoader):
     """Loader for the Mantra GSC dataset."""
 
-    def postprocess(self, dataset: Dataset, subset: Optional[str], split: str) -> Dataset:
+    def postprocess(self, dataset: Dataset, subset: Optional[str] = None, split: str = "train") -> Dataset:
         """Format the raw dataset to a common schema.
 
         Parameters
@@ -13,9 +13,9 @@ class MANTRA_GSC(BaseLoader):
         dataset : Dataset
             The input dataset to postprocess.
         subset : str, optional
-            Name of the subset being processed.
+            Name of the subset being processed. None by default.
         split : str
-            Name of the split being processed.
+            Name of the split being processed. Defaults to "train".
 
         Returns
         -------
