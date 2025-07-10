@@ -13,7 +13,7 @@ datasets:
     source_split: ["train", "validation", "test"]
     target_split: "test"
     commercial_use: True
-    comment: ""
+    comment: "Corpus issu du défi DEFT pour trois tâches : extraction de profils cliniques, évaluation de réponses d’étudiants et de notations existantes. Disponible à https://huggingface.co/datasets/DrBenchmark/DEFT2021. Licence CC-BY-4.0."
   - source: FRENCHMEDMCQA
     path: "qanastek/frenchmedmcqa"
     subset:
@@ -63,7 +63,7 @@ datasets:
     source_split:
     target_split: "train"
     commercial_use: True
-    comment: ""
+    comment: "Base de données publiques de médicaments, inclus dans le projet NACHOS disponible à https://www.data.gouv.fr/fr/datasets/base-de-donnees-publique-des-medicaments-base-officielle/. Liccence Etalab"
   - source: "ECDC_TM"
     path: "datasets/ECDC"
     subset: "NACHOS"
@@ -84,7 +84,7 @@ datasets:
     source_split:
     target_split: "train"
     commercial_use: True
-    comment: ""
+    comment: "Dataset issu d'une commission spécialisée de la HAS qui évalue les dispositifs médicaux individuels ainsi que les produits à visée diagnostique, thérapeutique ou de compensation du handicap (hors médicaments), ainsi que les prestations associées. Disponible à https://www.data.gouv.fr/datasets/evaluation-des-dispositifs-medicaux/, inclus dans NACHOS. Licence Etalab."
   - source: "WMT18_MEDLINE"
     path: "datasets/WMT-18-Medline"
     subset: "NACHOS"
@@ -105,28 +105,28 @@ datasets:
     source_split:
     target_split: "train"
     commercial_use: True
-    comment: ""
+    comment: "Indexation des ressources pédagogiques numériques proposées par les établissements d'enseignement supérieur et les organismes de recherche français. Disponible à https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr_esr_ressources-pedagogiques/export/?flg=en-gb&refine.lom_lifecycle_contribute_entity_fn=CERIMES. Licence Etalab. Inclus dans NACHOS."
   - source: "CLEAR"
     path: "datasets/CLEAR"
     subset: "NACHOS"
     source_split:
     target_split: "test"
     commercial_use: False
-    comment: ""
+    comment: "Corpus comprenant des textes issus de 3 sources : encyclopédie, notices pharmaceutiques et abstracts articles médicaux. Disponible à https://shs.hal.science/halshs-01968355. Licence 'libre pour la recherche'. Inclus dans NACHOS"
   - source: "ANSES_RCP"
     path: "datasets/ANSES_RCP"
     subset: "NACHOS"
     source_split:
     target_split: "train"
     commercial_use: False
-    comment: ""
+    comment: "Rapports de résumés des caractéristiques produits issus de l'agence nationale de sécurité sanitaire. Disponibles à https://www.ircp.anmv.anses.fr/. Licence CC-BY-NC-ND 4.0. Inclus dans NACHOS."
   - source: "ANSES_SAISINE"
     path: "datasets/ANSES_SAISINE"
     subset: "NACHOS"
     source_split:
     target_split: "train"
     commercial_use: False
-    comment: ""
+    comment: "Rapports des saisines issus de l'agence nationale de sécurité sanitaire. Disponibles à https://www.anses.fr/fr/content/avis-et-rapports-de-lanses-sur-saisine. Licence CC-BY-NC-ND 4.0. Inclus dans NACHOS."
   - source: "E3C"
     path: "datasets/E3C-Corpus-2.0.0-French"
     subset: "NACHOS"
@@ -141,32 +141,32 @@ datasets:
     source_split: "train"
     target_split: "train"
     commercial_use: True
-    comment: ""
+    comment: "Jeu de données extrait de corpus biomédicaux (titres de résumés Medline, notices de médicaments, brevets biomédicaux), avec annotation indépendante des concepts selon un sous-ensemble de l’UMLS. Disponible à https://huggingface.co/datasets/bigbio/mantra_gsc. Licence CC-BY-4.0."
   - source: CAS
     path: "datasets/cas" # local path
     subset: "French"
     source_split: "train"
     target_split: "train"
     commercial_use: False
-    comment: ""
+    comment: "Corpus construit à partir de cas cliniques rapportés dans la littérature scientifique publiée en français dont un un sous-ensemble du corpus est annoté avec des CUIs. Licence custom pour la recherche. Visible à https://huggingface.co/datasets/bigbio/cas/tree/main et disponible sur demande à l'auteur".
   - source: FRASIMED
     path: "datasets/frasimed" # local path
     subset: "French"
     source_split: "train"
     target_split: "train"
     commercial_use: False
-    comment: ""
+    comment: "Corpus annoté de cas cliniques synthétiques rédigés en français. Licence CC-BY-4.0. Disponible à l'url: https://zenodo.org/records/8355629"
   - source: PXCORPUS
     path: "datasets/pxcorpus" # local path
     subset: "French"
     source_split: "train"
     target_split: "train"
     commercial_use: False
-    comment: ""
+    comment: "Corpus français de dialogues médicaux sur les prescriptions, retranscrit et annoté. Licence CC-BY-4.0. Disponible à l'url: https://doi.org/10.5281/zenodo.6482586"
   - source: MQC
     path: "datasets/mqc" # local path
     subset: "French"
     source_split: "train"
     target_split: "train"
     commercial_use: False
-    comment: ""
+    comment: "Corpus annoté de dialogues médicaux en français, simulant des consultations entre médecin et patient. Disponible à l'url: https://github.com/kleag/labforsims2-corpus. Licence CC-BY-SA-NC-4.0."
