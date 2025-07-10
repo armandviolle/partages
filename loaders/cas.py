@@ -1,18 +1,33 @@
+from typing import Dict, List, Optional
 from datasets import Dataset
 from .base_loader import BaseLoader
 
+
 class CAS(BaseLoader):
-    def postprocess(self, dataset, subset, split):
-        """
-        Processes the raw Hugging Face dataset OR locally loaded data for Mantra GSC French.
-        If local: 'dataset' will be the list of dicts from load_data.
-        If HF: 'dataset' is expected to be loaded via:
-        datasets.load_dataset(path="bigbio/mantra_gsc", name="mantra_gsc_fr_source", split=split)
+    """Loader for the CAS dataset."""
+
+    def postprocess(self, dataset: Dataset, subset: Optional[str] = None, split: str = "train") -> Dataset:
+        """Format the raw dataset to a common schema.
+
+        Parameters
+        ----------
+        dataset : Dataset
+            The input dataset to postprocess.
+        subset : str, optional
+            Name of the subset being processed. None by default.
+        split : str
+            Name of the split being processed. Defaults to "train".
+
+        Returns
+        -------
+        Dataset
+            The postprocessed dataset with "text", "source", "subset",
+            and "source_split" columns.
         """
         res = {
-            "text": list(dataset['text']),
+            "text": list(dataset["text"]),
             "source": [self.source] * len(dataset),
             "subset": [subset] * len(dataset),
-            "source_split": [split] * len(dataset)
+            "source_split": [split] * len(dataset),
         }
         return Dataset.from_dict(res)
