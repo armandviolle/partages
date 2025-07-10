@@ -37,17 +37,17 @@ class BaseLoader(ABC):
     """
 
     def __init__(self, source: str, path: str, subset: Optional[str] = None, source_split: str = "train") -> None:
-        self.source: str = source
-        self.path: str = path
-        self.split: str = source_split
-        self.subset: Optional[str] = subset
-        self.stream: bool = False
+        self.source = source
+        self.path = path
+        self.split = source_split
+        self.subset = subset
+        self.stream = False
 
     @abstractmethod
     def postprocess(self, dataset: Dataset, subset: Optional[str] = None, split: str = "train") -> Dataset:
         """Perform dataset-specific postprocessing.
 
-        This method should be implemented by subclasses to handle tasks.
+        This abstract method should be implemented by subclasses to handle tasks.
 
         Parameters
         ----------
@@ -84,14 +84,14 @@ class BaseLoader(ABC):
         """
         load_fn = load_local if os.path.isdir(self.path) else load_dataset
         try:
-            tmp_ds: Dataset = load_fn(
+            tmp_ds = load_fn(
                 path=self.path,
                 data_dir=self.subset,
                 split=self.split,
                 streaming=self.stream,
                 trust_remote_code=True,
             )
-            ds: Dataset = self.postprocess(dataset=tmp_ds, subset=self.subset, split=self.split)
+            ds = self.postprocess(dataset=tmp_ds, subset=self.subset, split=self.split)
             ds = ds.map(clean_example, fn_kwargs={"lower": False, "rm_new_lines": False})
             # print(ds[:5]["text"]) # DEBUG
             return ds

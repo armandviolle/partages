@@ -27,7 +27,7 @@ class MQC(BaseLoader):
         flattened = [" ".join(sentences) for sentences in document_sentences]
         n = len(flattened)
 
-        res: Dict[str, List] = {
+        res = {
             "text": flattened,
             "source": [self.source] * n,
             "subset": [subset] * n,

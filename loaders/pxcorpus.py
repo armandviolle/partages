@@ -24,7 +24,7 @@ class PXCORPUS(BaseLoader):
             and "source_split" columns.
         """
         txt = dataset['text'][0].splitlines()
-        res: Dict[str, List] = {
+        res = {
             "text": list(txt),
             "source": [self.source] * len(dataset) * len(txt),
             "subset": [subset] * len(dataset) * len(txt),

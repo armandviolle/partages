@@ -24,7 +24,7 @@ class BDPM(BaseLoader):
             The postprocessed dataset with "text", "source", "subset",
             and "source_split" columns.
         """
-        res: Dict[str, List] = {
+        res = {
             "text": list(dataset['text']), 
             "source": [self.source] * len(dataset), 
             "subset": [subset] * len(dataset), 

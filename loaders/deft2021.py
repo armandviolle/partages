@@ -29,11 +29,11 @@ class DEFT2021(BaseLoader):
             The postprocessed dataset with "text", "source", "subset",
             and "source_split" columns.
         """
-        documents: List[Dict[str, Any]] = []
-        doc_ids: List[Any] = list(set(dataset["document_id"]))
+        documents = []
+        doc_ids = list(set(dataset["document_id"]))
 
         for id_ in doc_ids:
-            rows: List[int] = np.where(np.array(dataset["document_id"]) == id_)[0].tolist()
+            rows = np.where(np.array(dataset["document_id"]) == id_)[0].tolist()
             documents.append(
                 {
                     "text": "\n".join([" ".join(dataset["tokens"][i]) for i in rows]),
@@ -42,5 +42,5 @@ class DEFT2021(BaseLoader):
                     "source_split": split,
                 }
             )
-        new_dataset: Dataset = Dataset.from_list(documents)
+        new_dataset = Dataset.from_list(documents)
         return new_dataset
