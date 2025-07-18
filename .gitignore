@@ -11,3 +11,7 @@ wheels/
 
 # Idea config files
 .idea
+
+# Datasets
+.DS_Store
+datasets/.DS_Store
