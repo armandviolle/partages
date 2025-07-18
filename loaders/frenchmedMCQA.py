@@ -1,6 +1,6 @@
 from .base_loader import BaseLoader
 from datasets import Dataset
-from preprocessing.text_cleaning import cleaner
+from typing import Dict, List, Any, Optional
 
 map_id_qa = {
     0: "A", 
@@ -10,7 +10,20 @@ map_id_qa = {
     4: "E"
 }
 
-def format_decoder(dataset):
+def format_decoder(dataset: Dataset) -> List[str]:
+    """Formats the FrenchMedMCQA dataset into a question-answer string format.
+
+    Parameters
+    ----------
+    dataset : Dataset
+        The input dataset, expected to have 'question', 'answer_a' through 'answer_e',
+        and 'correct_answers' columns.
+
+    Returns
+    -------
+    List[str]
+        A list of strings, where each string is a formatted question-answer pair.
+    """
     res = []
     for i in range(len(dataset)):
         tmp_str = f"### Question \n{dataset[i]['question']} \nA. {dataset[i]['answer_a']} \nB. {dataset[i]['answer_b']} \nC. {dataset[i]['answer_c']} \nD. {dataset[i]['answer_d']} \nE. {dataset[i]['answer_e']} \n### Réponse.s"
@@ -22,8 +35,26 @@ def format_decoder(dataset):
 
 
 class FRENCHMEDMCQA(BaseLoader):
+    """Loader for the FrenchMedMCQA dataset."""
 
-    def postprocess(self, dataset, subset, split):
+    def postprocess(self, dataset: Dataset, subset: Optional[str] = None, split: str = "train") -> Dataset:
+        """Format the raw dataset to a common schema.
+
+        Parameters
+        ----------
+        dataset : Dataset
+            The input dataset to postprocess.
+        subset : str, optional
+            Name of the subset being processed. None by default.
+        split : str
+            Name of the split being processed. Defaults to "train".
+
+        Returns
+        -------
+        Dataset
+            The postprocessed dataset with "text", "source", "subset",
+            and "source_split" columns.
+        """
         tmp_ds = format_decoder(dataset=dataset)
         res = {
             "text": tmp_ds, 
