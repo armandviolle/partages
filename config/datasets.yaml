@@ -170,3 +170,10 @@ datasets:
     target_split: "train"
     commercial_use: False
     comment: "Corpus annoté de dialogues médicaux en français, simulant des consultations entre médecin et patient. Disponible à l'url: https://github.com/kleag/labforsims2-corpus. Licence CC-BY-SA-NC-4.0."
+  - source: ESSAI
+    path: "datasets/ESSAI" # local path
+    subset: "French"
+    source_split: "train"
+    target_split: "train"
+    commercial_use: False
+    comment: "Dataset ESSAI contenant des annotations de textes médicaux en français. Licence custom pour la recherche. Non disponible en ligne mais possible sur demande."
