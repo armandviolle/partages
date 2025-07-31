@@ -148,7 +148,7 @@ datasets:
     source_split: "train"
     target_split: "train"
     commercial_use: False
-    comment: "Corpus construit à partir de cas cliniques rapportés dans la littérature scientifique publiée en français dont un un sous-ensemble du corpus est annoté avec des CUIs. Licence custom pour la recherche. Visible à https://huggingface.co/datasets/bigbio/cas/tree/main et disponible sur demande à l'auteur".
+    comment: "Corpus construit à partir de cas cliniques rapportés dans la littérature scientifique publiée en français dont un un sous-ensemble du corpus est annoté avec des CUIs. Licence custom pour la recherche. Visible à https://huggingface.co/datasets/bigbio/cas/tree/main et disponible sur demande à l'auteur"
   - source: FRASIMED
     path: "datasets/frasimed" # local path
     subset: "French"
