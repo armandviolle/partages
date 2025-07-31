@@ -1,5 +1,5 @@
 from .base_loader import BaseLoader
-from typing import override
+#from typing import override
 from datasets import Dataset
 from .utils import clean_example
 
@@ -15,7 +15,7 @@ class WIKIPEDIA(BaseLoader):
         }
         return Dataset.from_dict(res)
 
-    @override
+    #@override
     def load(self):
         ds = Dataset.from_parquet(f"{self.path}/wikipedia.parquet")
         tmp_ds = self.postprocess(dataset=ds)

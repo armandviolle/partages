@@ -65,7 +65,7 @@ def generate_info_file(
         f"## Splits \n{source_split} \n"
         f"## Architecture and shape \n{dataset} \n"
         f"Shape: {dataset.shape}"
-        f"## Stats \n{pd.DataFrame(list(stats.values()), index=list(stats.keys())).to_string(index=False, float_format="{:.2f}".format)}\n"
+        f"## Stats \n{pd.DataFrame(list(stats.values()), index=list(stats.keys())).to_string(index=False, float_format='{:.2f}'.format)}\n"
     )
 
 
