@@ -148,7 +148,7 @@ datasets:
     source_split: "train"
     target_split: "train"
     commercial_use: False
-    comment: "Corpus construit à partir de cas cliniques rapportés dans la littérature scientifique publiée en français dont un un sous-ensemble du corpus est annoté avec des CUIs. Licence custom pour la recherche. Visible à https://huggingface.co/datasets/bigbio/cas/tree/main et disponible sur demande à l'auteur".
+    comment: "Corpus construit à partir de cas cliniques rapportés dans la littérature scientifique publiée en français dont un un sous-ensemble du corpus est annoté avec des CUIs. Licence custom pour la recherche. Visible à https://huggingface.co/datasets/bigbio/cas/tree/main et disponible sur demande à l'auteur"
   - source: FRASIMED
     path: "datasets/frasimed" # local path
     subset: "French"
@@ -170,3 +170,10 @@ datasets:
     target_split: "train"
     commercial_use: False
     comment: "Corpus annoté de dialogues médicaux en français, simulant des consultations entre médecin et patient. Disponible à l'url: https://github.com/kleag/labforsims2-corpus. Licence CC-BY-SA-NC-4.0."
+  - source: ESSAI
+    path: "datasets/ESSAI" # local path
+    subset: "French"
+    source_split: "train"
+    target_split: "train"
+    commercial_use: False
+    comment: "Dataset ESSAI contenant des annotations de textes médicaux en français. Licence custom pour la recherche. Non disponible en ligne mais possible sur demande."
