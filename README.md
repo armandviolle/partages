@@ -13,19 +13,21 @@
 
 ## Installation
 
+### Clonage du repo
+
 ```sh
-git clone https://github.com/<ton-utilisateur>/partages.git
+git clone https://github.com/armandviolle/partages.git
 cd partages
-pip install -r requirements.txt
 ```
 
-Produire un dataset à partir de tous les corpus disponibles:
-- utilisation commerciale autorisée: `python main.py --hf_token /Users/armandviolle/Developer/partages/hf-token.txt --use_all_sources True --make_commercial_version True --push_to_hub True`
-- utilisation pour la recherche uniquement: `python main.py --hf_token /Users/armandviolle/Developer/partages/hf-token.txt --use_all_sources True --make_commercial_version False --push_to_hub True`
-
-Ajout ou modificaiton d'un dataset dans le dataset:
-- utilisation commerciale autorisée: `python main.py --hf_token /Users/armandviolle/Developer/partages/hf-token.txt --use_all_sources False --source <corpus_name> --make_commercial_version True --push_to_hub True`
-- utilisation pour la recherche uniquement: `python main.py --hf_token /Users/armandviolle/Developer/partages/hf-token.txt --use_all_sources False --source <corpus_name> --make_commercial_version True --push_to_hub True`
+### Création de l'environnement
+Avec [miniconda](https://docs.conda.io/en/latest/miniconda.html) par exemple:
+```sh
+conda create -n <env_name> python=3.12
+conda activate <env_name>
+# vérifier que le cwd est bien partages/
+pip install -r requirements.txt
+```
 
 ## Développement
 
@@ -59,6 +61,16 @@ partages/
 - **config/hf-token.txt** : Fichier contenant le token hugging face de l'utilisateur.
 - **README.md** : Fichier de présentation et de documentation du dépôt.
 - **requirements.txt** : Liste des packages nécessaires et de leur versioning.
+
+## Utilisation
+
+### Produire un dataset à partir de tous les corpus disponibles:
+- utilisation commerciale autorisée: `python main.py --hf_token config/hf-token.txt --use_all_sources True --make_commercial_version True --push_to_hub True`
+- utilisation pour la recherche uniquement: `python main.py --hf_token config/hf-token.txt --use_all_sources True --make_commercial_version False --push_to_hub True`
+
+### Ajout ou modification d'un dataset dans le dataset:
+- utilisation commerciale autorisée: `python main.py --hf_token config/hf-token.txt --use_all_sources False --source <corpus_name> --make_commercial_version True --push_to_hub True`
+- utilisation pour la recherche uniquement: `python main.py --hf_token config/hf-token.txt --use_all_sources False --source <corpus_name> --make_commercial_version True --push_to_hub True`
 
 ## Licence
 
