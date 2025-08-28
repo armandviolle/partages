@@ -8,6 +8,16 @@ import re
 def convert_to_unicode(text):
     """
     Converts `text` to Unicode (if it's not already), assuming UTF-8 input.
+
+    Parameters
+    ----------
+    text : str
+        The input text to convert.
+    
+    Returns
+    -------
+    str
+        The converted Unicode text.
     """
 
     # six_ensure_text is copied from https://github.com/benjaminp/six
@@ -25,6 +35,16 @@ def convert_to_unicode(text):
 def normalize_unicode(text):
     """
     Normalize unicode underlying representation
+
+    Parameters
+    ----------
+    text : str
+        The input text to normalize.
+    
+    Returns
+    -------
+    str
+        The normalized text.
     """
     text = unicodedata.normalize("NFC", text)
 
@@ -35,11 +55,17 @@ def read_codepage(text, codepage='cp863'):
     """
     Keep only characters belonging to the character set of a language
 
-    Args:
-    -- text: input text
-    -- code page: for each language.
-    Example: Code page 863 is the code page used to write French Canadian language.
-    https://www.ascii-codes.com/cp863.html
+    Parameters
+    ----------
+    text:
+        input text
+    code page: 
+        for each language (Example: Code page 863 is the code page used to write French Canadian language, see https://www.ascii-codes.com/cp863.html)
+
+    Returns
+    -------
+    str
+        The text with characters only from the specified codepage.
     """
     text = text.encode(codepage, "ignore").decode(codepage)
     text = text.encode('utf-8').decode('utf-8')
@@ -50,6 +76,16 @@ def read_codepage(text, codepage='cp863'):
 def rm_spaces(text):
     """
     Remove multiple spaces
+
+    Parameters
+    ----------
+    text : str
+        The input text to process.
+    
+    Returns
+    -------
+    str
+        The text with multiple spaces replaced by a single space.
     """
     pattern = re.compile(r'( ){2,}')
     text = re.sub(pattern, r' ', text)
@@ -60,6 +96,16 @@ def rm_spaces(text):
 def process_url_html(text):
     """
     Remove URLs in text
+
+    Parameters
+    ----------
+    text : str
+        The input text to process.
+    
+    Returns
+    -------
+    str
+        The text with URLs removed.
     """
     pattern = re.compile(r'(?:www|http)\S+|<\S+|\w+\/*>')
     text = re.sub(pattern, '', text)
@@ -70,6 +116,20 @@ def process_url_html(text):
 def cleaner(text, rm_new_lines=False, do_lower=False):
     """
     Clean up an input text
+
+    Parameters
+    ----------
+    text : str
+        The input text to clean.
+    rm_new_lines : bool, optional
+        If True, remove new line characters. Default is False.
+    do_lower : bool, optional
+        If True, convert text to lowercase. Default is False.
+    
+    Returns
+    -------
+    str
+        The cleaned text.
     """
     # Convert and normalize the unicode underlying representation
     text = convert_to_unicode(text)

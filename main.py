@@ -1,9 +1,7 @@
 import datetime
 import json
 import os
-from pathlib import Path
 import tempfile
-from typing import Union
 
 from datasets import concatenate_datasets
 from huggingface_hub import HfFolder, login, Repository 
@@ -14,6 +12,7 @@ from loaders.utils import parse, load_config, compute_dataset_stats, update_row,
 
 
 def main():
+    """Main function to load, process, and optionally push datasets to the Hugging Face Hub."""
 
     args = parse()
     with open(args.hf_token, 'r') as f:
