@@ -1,0 +1,6 @@
+numpy
+pandas
+pyyaml
+datasets==3.4.1
+huggingface_hub==0.29.3
+wikipedia-api
