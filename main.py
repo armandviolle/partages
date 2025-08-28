@@ -1,13 +1,16 @@
-import os
-import json
 import datetime
-import tempfile
-import pandas as pd
+import json
+import os
 from pathlib import Path
-from loaders import REGISTRY
+import tempfile
+from typing import Union
+
 from datasets import concatenate_datasets
-from huggingface_hub import HfFolder, login, Repository
-from loaders.utils import parse, load_config, compute_dataset_stats, update_row, compute_global_stats, generate_info_file 
+from huggingface_hub import HfFolder, login, Repository 
+import pandas as pd
+
+from loaders import REGISTRY
+from loaders.utils import parse, load_config, compute_dataset_stats, update_row, compute_global_stats, generate_info_file
 
 
 def main():
