@@ -1,6 +1,6 @@
-from .base_loader import BaseLoader
-from datasets import Dataset
 from typing import Dict, List, Any, Optional
+from datasets import Dataset
+from .base_loader import BaseLoader
 
 map_id_qa = {
     0: "A", 

@@ -1,6 +1,6 @@
-from .base_loader import BaseLoader
-from datasets import Dataset
 from typing import Dict, List, Optional
+from datasets import Dataset
+from .base_loader import BaseLoader
 
 
 class WMT18_MEDLINE(BaseLoader):

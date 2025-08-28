@@ -1,7 +1,7 @@
-from .base_loader import BaseLoader
 import numpy as np
-from datasets import Dataset
 from typing import Dict, List, Any, Optional
+from datasets import Dataset
+from .base_loader import BaseLoader
 
 
 class DEFT2021(BaseLoader):
