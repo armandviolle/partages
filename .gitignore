@@ -12,6 +12,9 @@ wheels/
 # Idea config files
 .idea
 
+# Token hugging face
+config/hf-token.txt
+
 # Datasets
 .DS_Store
 datasets/.DS_Store
