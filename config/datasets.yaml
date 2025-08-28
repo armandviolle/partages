@@ -28,35 +28,35 @@ datasets:
     source_split:
     target_split: "train"
     commercial_use: True
-    comment: "Corpus extrait de la plateforme HAL, regroupant des publications scientifiques françaises dans le domaine biomédical. Versioning NACHOS. Disponible à {LIEN}. Licence Etalab."
+    comment: "Corpus extrait de la plateforme HAL, regroupant des publications scientifiques françaises dans le domaine biomédical. Versioning NACHOS. Disponible via moisson en suivant le protocole https://api.documentation-administrative.gouv.fr/oai. Licence Etalab."
   - source: "HAS"
     path: "datasets/HAS"
     subset: "NACHOS"
     source_split:
     target_split: "train"
     commercial_use: True
-    comment: "Données issues de la Haute Autorité de Santé. Versioning NACHOS. Disponible à {LIEN}. Licence Etalab."
+    comment: "Données issues de la Haute Autorité de Santé. Versioning NACHOS. Disponible à https://www.data.gouv.fr/fr/datasets/textes-des-publications-de-la-has-7/. Licence Etalab."
   - source: "WIKIPEDIA"
     path: "datasets/WIKIPEDIA"
     subset: 
     source_split:
     target_split: "train"
     commercial_use: True
-    comment: "Corpus extrait de Wikipédia en français, utilisé pour enrichir les données du projet NACHOS. Licence CC-BY-SA 3.0."
+    comment: "Corpus extrait de Wikipédia en français. Collecte via la l'api python wikipediaapi (protocole décrit en documentation). Licence CC-BY-SA 3.0, GNU Free Documentation License."
   - source: "EMEA_V3"
     path: "datasets/EMEA-V3"
     subset: "NACHOS"
     source_split:
     target_split: "train"
     commercial_use: True
-    comment: "Corpus de documents médicaux multilingues issus de l'Agence européenne des médicaments (EMEA), version 3. Licence Etalab."
+    comment: "Corpus de documents médicaux multilingues issus de l'Agence européenne des médicaments (EMEA), version 3. Versioning NACHOS. Disponible à https://huggingface.co/datasets/qanastek/EMEA-V3. Licence CC-BY-4.0."
   - source: "QUAERO"
     path: "datasets/Quaero"
     subset: "NACHOS"
     source_split:
     target_split: "train"
     commercial_use: True
-    comment: "Corpus Quaero utilisé pour l'entraînement et l'évaluation de modèles de traitement automatique du langage médical. Licence Etalab."
+    comment: "Corpus Quaero utilisé pour l'entraînement et l'évaluation de modèles de traitement automatique du langage médical. Versioning NACHOS. Disponible à https://huggingface.co/datasets/DrBenchmark/QUAERO. Licence GNU Free Documentation License."
   - source: "BDPM"
     path: "datasets/DBPM"
     subset: "NACHOS"
@@ -70,14 +70,14 @@ datasets:
     source_split:
     target_split: "train"
     commercial_use: True
-    comment: ""
+    comment: "Corpus de textes médicaux issus du Centre européen de prévention et de contrôle des maladies (ECDC). Versioning NACHOS. Disponible à https://joint-research-centre.ec.europa.eu/language-technology-resources/ecdc-translation-memory_en#Introduction. Licence libre."
   - source: "QUALISCOPE"
     path: "datasets/ScopeSanteQualité"
     subset: "NACHOS"
     source_split:
     target_split: "train"
     commercial_use: True
-    comment: ""
+    comment: "Données sur la qualité des établissements de santé en France, extraites de Scope Santé. Versioning NACHOS. Disponible à https://www.data.gouv.fr/fr/datasets/base-sur-la-qualite-et-la-securite-des-soins-anciennement-scope-sante/. Licence Etalab."
   - source: "CNEDIMTS"
     path: "datasets/CNEDiMTS"
     subset: "NACHOS"
@@ -91,14 +91,14 @@ datasets:
     source_split:
     target_split: "train"
     commercial_use: False
-    comment: ""
+    comment: "Corpus de textes biomédicaux issus de Medline, utilisé dans le cadre du défi WMT18 pour la traduction automatique. Versioning NACHOS. Disponible à https://www.statmt.org/wmt18/biomedical-translation-task.html. Licence CC BY-NC-SA 3.0, CC BY-NC-ND 4.0."
   - source: "ISTEX"
     path: "datasets/ISTEX"
     subset: "NACHOS"
     source_split:
     target_split: "train"
     commercial_use: True
-    comment: "Corpus issu de la plateforme ISTEX, regroupant des publications scientifiques françaises. Licence Etalab."
+    comment: "Corpus issu de la plateforme ISTEX, regroupant des publications scientifiques françaises. Versioning NACHOS. Disponible à https://data.istex.fr/. Licence Etalab."
   - source: "CERIMES"
     path: "datasets/Cerimes"
     subset: "NACHOS"
