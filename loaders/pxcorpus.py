@@ -1,11 +1,16 @@
-from typing import Dict, List, Optional
+from typing import Optional
+
 from datasets import Dataset
+
 from .base_loader import BaseLoader
+
 
 class PXCORPUS(BaseLoader):
     """Loader for the PxCorpus dataset"""
 
-    def postprocess(self, dataset: Dataset, subset: Optional[str] = None, split: str = "train") -> Dataset:
+    def postprocess(
+        self, dataset: Dataset, subset: Optional[str] = None, split: str = "train"
+    ) -> Dataset:
         """Format the raw dataset to a common schema.
 
         Parameters
@@ -23,11 +28,11 @@ class PXCORPUS(BaseLoader):
             The postprocessed dataset with "text", "source", "subset",
             and "source_split" columns.
         """
-        txt = dataset['text'][0].splitlines()
+        txt = dataset["text"][0].splitlines()
         res = {
             "text": list(txt),
             "source": [self.source] * len(dataset) * len(txt),
             "subset": [subset] * len(dataset) * len(txt),
-            "source_split": [split] * len(dataset) * len(txt)
+            "source_split": [split] * len(dataset) * len(txt),
         }
         return Dataset.from_dict(res)

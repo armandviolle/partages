@@ -1,12 +1,16 @@
-from .base_loader import BaseLoader
+from typing import Optional
+
 from datasets import Dataset
-from typing import Dict, List, Optional
+
+from .base_loader import BaseLoader
 
 
 class QUAERO(BaseLoader):
     """Loader for the QUAERO dataset."""
 
-    def postprocess(self, dataset: Dataset, subset: Optional[str] = None, split: str = "train") -> Dataset:
+    def postprocess(
+        self, dataset: Dataset, subset: Optional[str] = None, split: str = "train"
+    ) -> Dataset:
         """Format the raw dataset to a common schema.
 
         Parameters
@@ -25,9 +29,9 @@ class QUAERO(BaseLoader):
             and "source_split" columns.
         """
         res = {
-            "text": list(dataset['text']), 
-            "source": [self.source] * len(dataset), 
-            "subset": [subset] * len(dataset), 
-            "source_split": [split] * len(dataset)
+            "text": list(dataset["text"]),
+            "source": [self.source] * len(dataset),
+            "subset": [subset] * len(dataset),
+            "source_split": [split] * len(dataset),
         }
         return Dataset.from_dict(res)

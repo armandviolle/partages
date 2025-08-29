@@ -1,11 +1,17 @@
-from abc import ABC, abstractmethod
 import os
 import traceback
-from typing import Optional
+from abc import ABC, abstractmethod
+from typing import Optional, Union
 
-from datasets import load_dataset, Dataset
+from datasets import (
+    Dataset,
+    DatasetDict,
+    IterableDataset,
+    IterableDatasetDict,
+    load_dataset,
+)
 
-from .utils import load_local, clean_example
+from .utils import clean_example, load_local
 
 
 class BaseLoader(ABC):
@@ -39,7 +45,13 @@ class BaseLoader(ABC):
         Whether to stream the dataset. Defaults to False.
     """
 
-    def __init__(self, source: str, path: str, subset: Optional[str] = None, source_split: str = "train") -> None:
+    def __init__(
+        self,
+        source: str,
+        path: str,
+        subset: Optional[str] = None,
+        source_split: str = "train",
+    ) -> None:
         self.source = source
         self.path = path
         self.split = source_split
@@ -47,7 +59,12 @@ class BaseLoader(ABC):
         self.stream = False
 
     @abstractmethod
-    def postprocess(self, dataset: Dataset, subset: Optional[str] = None, split: str = "train") -> Dataset:
+    def postprocess(
+        self,
+        dataset: Union[Dataset, DatasetDict, IterableDataset, IterableDatasetDict],
+        subset: Optional[str] = None,
+        split: str = "train",
+    ) -> Union[Dataset, DatasetDict, IterableDataset, IterableDatasetDict]:
         """Perform dataset-specific postprocessing.
 
         This abstract method should be implemented by subclasses to handle tasks.
@@ -95,8 +112,11 @@ class BaseLoader(ABC):
                 trust_remote_code=True,
             )
             ds = self.postprocess(dataset=tmp_ds, subset=self.subset, split=self.split)
-            ds = ds.map(clean_example, fn_kwargs={"lower": False, "rm_new_lines": False})
-            # print(ds[:5]["text"]) # DEBUG
-            return ds
+            ds = ds.map(
+                clean_example, fn_kwargs={"lower": False, "rm_new_lines": False}
+            )
+            return ds  # type: ignore (dataset type ensuring by loading loop in main)
         except Exception as e:
-            raise RuntimeError(f"Impossible to load this dataset:\n {traceback.format_exc()}") from e
+            raise RuntimeError(
+                f"Impossible to load this dataset:\n {traceback.format_exc()}"
+            ) from e
