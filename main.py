@@ -68,8 +68,9 @@ def main():
                     else:
                         stats[cfg["source"]] = row
                     all_ds.append(ds)
-                except Exception:
-                    print(f'Unavailable data split "{split}" for data_dir "{subset}".')
+                except Exception as e:
+                    print(f"type(e): {type(e)} - {e}")
+                    print(f"Unavailable data split \"{split}\" for data_dir \"{subset}\".")
                     continue
         if all_ds:
             merged = concatenate_datasets(all_ds)
