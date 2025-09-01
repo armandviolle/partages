@@ -9,7 +9,7 @@ class DEFT2021(BaseLoader):
     """Loader for the DEFT2021 dataset."""
 
     def load(self) -> Dataset:
-        """Load with UTF-8 encoding fix for Windows."""
+        """Load with UTF-8 encoding fix for Windows within the opne() method."""
         if os.name == 'nt':
             os.environ['PYTHONUTF8'] = '1'
         return super().load()
