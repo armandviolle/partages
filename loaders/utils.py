@@ -72,7 +72,7 @@ def parse() -> argparse.Namespace:
         help="Whether to filter out non-commercial use datasets.",
     )
     parser.add_argument(
-        "--logger_level",
+        "--log_level",
         type=str,
         default="INFO",
         help="Logging level for the script.",
@@ -187,7 +187,7 @@ def load_config(args: argparse.Namespace) -> list:
             raise ValueError(f"No available dataset named {args.source} in config.")
 
     if args.make_commercial_version:
-        logger.info("\nCOMMERCIAL VERSION")
+        logger.info("COMMERCIAL VERSION")
         logger.info(
             f"Available datasets in config: {[cfg['source'] for cfg in all_cfg]}"
         )
@@ -197,12 +197,12 @@ def load_config(args: argparse.Namespace) -> list:
                 tmp_cfg.append(cfg)
         all_cfg = tmp_cfg
         logger.info(
-            f"Remaining datasets after commercial use filtering: {[cfg['source'] for cfg in all_cfg]}\n"
+            f"Remaining datasets after commercial use filtering: {[cfg['source'] for cfg in all_cfg]}"
         )
     else:
-        logger.info("\nNON-COMMERCIAL VERSION")
+        logger.info("NON-COMMERCIAL VERSION")
         logger.info(
-            f"Available datasets in config: {[cfg['source'] for cfg in all_cfg]}\n"
+            f"Available datasets in config: {[cfg['source'] for cfg in all_cfg]}"
         )
 
     if len(all_cfg) < 1:
