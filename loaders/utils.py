@@ -2,8 +2,8 @@ import argparse
 import datetime
 import gzip
 import io
+import logging
 import os
-import sys
 from pathlib import Path
 from typing import Optional, Union
 
@@ -13,6 +13,8 @@ import yaml
 
 from datasets import Dataset, arrow_dataset
 from preprocessing.text_cleaning import cleaner
+
+logger = logging.getLogger(__name__)
 
 
 def str2bool(v: str) -> bool:
@@ -68,6 +70,12 @@ def parse() -> argparse.Namespace:
         type=str2bool,
         default=True,
         help="Whether to filter out non-commercial use datasets.",
+    )
+    parser.add_argument(
+        "--log_level",
+        type=str,
+        default="INFO",
+        help="Logging level for the script.",
     )
     return parser.parse_args()
 
@@ -176,26 +184,28 @@ def load_config(args: argparse.Namespace) -> list:
                 all_cfg = [cfg]
                 break
         else:
-            sys.tracebacklimit = 0
-            raise RuntimeError(f"No available dataset named {args.source} in config.")
+            raise ValueError(f"No available dataset named {args.source} in config.")
 
     if args.make_commercial_version:
-        print("\nCOMMERCIAL VERSION")
-        print(f"Available datasets in config: {[cfg['source'] for cfg in all_cfg]}")
+        logger.info("COMMERCIAL VERSION")
+        logger.info(
+            f"Available datasets in config: {[cfg['source'] for cfg in all_cfg]}"
+        )
         tmp_cfg = []
         for cfg in all_cfg:
             if cfg["commercial_use"]:
                 tmp_cfg.append(cfg)
         all_cfg = tmp_cfg
-        print(
-            f"Remaining datasets after commercial use filtering: {[cfg['source'] for cfg in all_cfg]}\n"
+        logger.info(
+            f"Remaining datasets after commercial use filtering: {[cfg['source'] for cfg in all_cfg]}"
         )
     else:
-        print("\nNON-COMMERCIAL VERSION")
-        print(f"Available datasets in config: {[cfg['source'] for cfg in all_cfg]}\n")
+        logger.info("NON-COMMERCIAL VERSION")
+        logger.info(
+            f"Available datasets in config: {[cfg['source'] for cfg in all_cfg]}"
+        )
 
     if len(all_cfg) < 1:
-        sys.tracebacklimit = 0
         raise RuntimeError(
             "No available dataset(s) for given parametrization (check commercial use and source(s) given)."
         )
@@ -231,30 +241,22 @@ def load_local(
     Dataset
         The loaded dataset.
     """
-    print(f"Loading from local path: {path} for split: {split}")
+    logger.info(f"Loading from local path: {path} for split: {split}")
     all_texts = []
     if os.listdir(path=path)[0].endswith(".gz"):
-        try:
-            all_texts = read_compressed(path=Path(path))
-        except Exception:
-            sys.tracebacklimit = 0
-            raise RuntimeError(f"Could not load data from {path}.")
+        all_texts = read_compressed(path=Path(path))
         return Dataset.from_dict({"text": all_texts})
     else:
         for root, dirs, files in os.walk(path):
-            print(f"Searching for .txt files in {root}...")
+            logger.info(f"Searching for .txt files in {root}...")
             for file_name in files:
                 if file_name.endswith(".txt"):
                     file_path = os.path.join(root, file_name)
-                    try:
-                        with open(file_path, "r", encoding="utf-8") as f:
-                            all_texts.append(f.read())
-                    except Exception as e:
-                        print(f"Error reading file {file_path}: {e}")
+                    with open(file_path, "r", encoding="utf-8") as f:
+                        all_texts.append(f.read())
         if all_texts:
             return Dataset.from_dict({"text": all_texts})
         else:
-            sys.tracebacklimit = 0
             raise RuntimeError(
                 f"No .txt or .parquet files found in {path} or its subdirectories."
             )
@@ -299,7 +301,6 @@ def compute_dataset_stats(
         }
         return row
     else:
-        sys.tracebacklimit = 0
         raise ValueError(
             f'Dataset "{source_name}" does not contain a \'text\' column for subset "{subset}" and split "{split}".'
         )
@@ -328,7 +329,6 @@ def pooled_variance(mode: str, row: dict, avg: float) -> float:
     elif mode == "char":
         return row["nb_docs"] * (row["std_chars"] ** 2 + (row["mean_chars"] - avg) ** 2)
     else:
-        sys.tracebacklimit = 0
         raise ValueError(f"Unkown mode option for pooled variance computation: {mode}.")
 
 
@@ -375,7 +375,6 @@ def weighted_avg_variance(
             / total
         )
     else:
-        sys.tracebacklimit = 0
         raise ValueError(
             f"Unkown mode option for weighted average variance computation: {mode}."
         )

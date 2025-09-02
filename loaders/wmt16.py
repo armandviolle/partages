@@ -1,9 +1,12 @@
+import logging
 from typing import Any, Dict, Optional
 
 from datasets import Dataset
 from preprocessing.text_cleaning import cleaner
 
 from .base_loader import BaseLoader
+
+logger = logging.getLogger(__name__)
 
 
 def extract_translation(example: Dict[str, Any]) -> Dict[str, str]:

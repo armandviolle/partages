@@ -1,8 +1,11 @@
+import logging
 from typing import Optional
 
 from datasets import Dataset
 
 from .base_loader import BaseLoader
+
+logger = logging.getLogger(__name__)
 
 
 class HAS(BaseLoader):

@@ -1,5 +1,6 @@
 import datetime
 import json
+import logging
 import os
 import tempfile
 
@@ -16,17 +17,34 @@ from loaders.utils import (
     parse,
     update_row,
 )
+from logger import setup_logger
+
+logger = logging.getLogger(__name__)
 
 
 def main():
     """Main function to load, process, and optionally push datasets to the Hugging Face Hub."""
 
     args = parse()
+
+    # Sanity check: log level
+    if args.log_level == "DEBUG":
+        log_level = logging.DEBUG
+    elif args.log_level == "INFO":
+        log_level = logging.INFO
+    else:
+        raise ValueError(args.log_level)
+    # Create logger
+    setup_logger(log_level)
+
+    # Reading HuggingFace token
     with open(args.hf_token, "r") as f:
         hf_token = f.read().strip()
-    print(hf_token)
+    # Login to Hugging Face Hub
     login(token=hf_token)
     HfFolder.save_token(hf_token)
+
+    # Load dataset configurations
     all_cfg = load_config(args=args)
 
     stats = {}
@@ -35,7 +53,7 @@ def main():
 
     for cfg in all_cfg:
         all_ds = []
-        print(f"Loading dataset {cfg['source']}: using {REGISTRY[cfg['source']]}")
+        logger.info(f"Loading dataset {cfg['source']}: using {REGISTRY[cfg['source']]}")
         LoaderCls = REGISTRY[cfg["source"]]
 
         subsets = cfg["subset"] if isinstance(cfg["subset"], list) else [cfg["subset"]]
@@ -47,35 +65,29 @@ def main():
 
         for subset in subsets:
             for split in splits:
-                try:
-                    loader = LoaderCls(
-                        source=cfg["source"],
-                        path=cfg["path"],
-                        subset=subset,
-                        source_split=split,
+                loader = LoaderCls(
+                    source=cfg["source"],
+                    path=cfg["path"],
+                    subset=subset,
+                    source_split=split,
+                )
+                ds = loader.load()
+                row = compute_dataset_stats(
+                    dataset=ds,
+                    source_name=cfg["source"],
+                    subset=subset,
+                    split=split,
+                )
+                if cfg["source"] in list(stats.keys()):
+                    stats[cfg["source"]] = update_row(
+                        base_row=stats[cfg["source"]], add_row=row
                     )
-                    ds = loader.load()
-                    row = compute_dataset_stats(
-                        dataset=ds,
-                        source_name=cfg["source"],
-                        subset=subset,
-                        split=split,
-                    )
-                    if cfg["source"] in list(stats.keys()):
-                        stats[cfg["source"]] = update_row(
-                            base_row=stats[cfg["source"]], add_row=row
-                        )
-                    else:
-                        stats[cfg["source"]] = row
-                    all_ds.append(ds)
-                except Exception as e:
-                    print(f"type(e): {type(e)} - {e}")
-                    print(f"Unavailable data split \"{split}\" for data_dir \"{subset}\".")
-                    continue
+                else:
+                    stats[cfg["source"]] = row
+                all_ds.append(ds)
         if all_ds:
             merged = concatenate_datasets(all_ds)
-            print(type(merged))
-            print(f"Shape of concatenated dataset: {merged.shape}")
+            logger.info(f"Shape of concatenated dataset: {merged.shape}")
             if args.push_to_hub:
                 msg = generate_info_file(
                     dataset=merged,
@@ -87,8 +99,7 @@ def main():
                 commit_files[cfg["source"]] = [msg, merged, cfg["target_split"]]
                 split_file[cfg["target_split"]].append(cfg["source"])
         else:
-            print(f'No data was loaded for dataset "{cfg["source"]}".')
-            raise ValueError()
+            raise ValueError(f'No data was loaded for dataset "{cfg["source"]}".')
 
     with tempfile.TemporaryDirectory() as tmpdir:
         repo = Repository(
@@ -166,7 +177,7 @@ def main():
             repo.git_push()
 
     with pd.option_context("display.max_columns", None, "display.width", 0):
-        print(df)
+        logger.info(df)
 
     # déduplication simple
     # merged = deduplicate(merged, key_column="text") # TODO : deduplicate AF

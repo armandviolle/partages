@@ -1,3 +1,4 @@
+import logging
 import os
 from typing import Optional
 
@@ -6,6 +7,8 @@ import numpy as np
 from datasets import Dataset
 
 from .base_loader import BaseLoader
+
+logger = logging.getLogger(__name__)
 
 
 class DEFT2021(BaseLoader):
