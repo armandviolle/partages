@@ -1,6 +1,10 @@
-import numpy as np
+import os
 from typing import Optional
+
+import numpy as np
+
 from datasets import Dataset
+
 from .base_loader import BaseLoader
 
 
@@ -9,8 +13,8 @@ class DEFT2021(BaseLoader):
 
     def load(self) -> Dataset:
         """Load with UTF-8 encoding fix for Windows within the opne() method."""
-        if os.name == 'nt':
-            os.environ['PYTHONUTF8'] = '1'
+        if os.name == "nt":
+            os.environ["PYTHONUTF8"] = "1"
         return super().load()
 
     def postprocess(
@@ -44,7 +48,14 @@ class DEFT2021(BaseLoader):
             rows = np.where(np.array(dataset["document_id"]) == id_)[0].tolist()
             documents.append(
                 {
-                    "text": "\n".join([" ".join(dataset["tokens"][i]) for i in rows]),
+                    "text": "\n".join(
+                        [
+                            " ".join(dataset["tokens"][i])
+                            if isinstance(dataset["tokens"][i], (list, tuple))
+                            else str(dataset["tokens"][i])
+                            for i in rows  # type: ignore (ValueError raised if type not convertible to list)
+                        ]
+                    ),
                     "source": self.source,
                     "subset": subset,
                     "source_split": split,
