@@ -1,7 +1,11 @@
+import logging
+
 from datasets import Dataset
 
 from .base_loader import BaseLoader
 from .utils import clean_example
+
+logger = logging.getLogger(__name__)
 
 
 class WIKIPEDIA(BaseLoader):

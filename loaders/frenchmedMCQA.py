@@ -1,8 +1,11 @@
+import logging
 from typing import List, Optional
 
 from datasets import Dataset
 
 from .base_loader import BaseLoader
+
+logger = logging.getLogger(__name__)
 
 map_id_qa = {0: "A", 1: "B", 2: "C", 3: "D", 4: "E"}
 

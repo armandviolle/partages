@@ -1,3 +1,4 @@
+import logging
 import os
 import traceback
 from abc import ABC, abstractmethod
@@ -12,6 +13,8 @@ from datasets import (
 )
 
 from .utils import clean_example, load_local
+
+logger = logging.getLogger(__name__)
 
 
 class BaseLoader(ABC):

@@ -1,9 +1,12 @@
 # from : https://github.com/getalp/Flaubert/blob/master/tools/clean_text.py
 
+import logging
 import re
 import unicodedata
 
 import six
+
+logger = logging.getLogger(__name__)
 
 
 def convert_to_unicode(text):

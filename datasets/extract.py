@@ -1,7 +1,10 @@
+import logging
 import sys
 
 import pandas as pd
 import wikipediaapi
+
+logger = logging.getLogger(__name__)
 
 ignored_med = [
     "Place des femmes en médecine",
