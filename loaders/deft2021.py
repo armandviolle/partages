@@ -1,6 +1,5 @@
 import numpy as np
-import os
-from typing import Dict, List, Any, Optional
+from typing import Optional
 from datasets import Dataset
 from .base_loader import BaseLoader
 
@@ -14,7 +13,9 @@ class DEFT2021(BaseLoader):
             os.environ['PYTHONUTF8'] = '1'
         return super().load()
 
-    def postprocess(self, dataset: Dataset, subset: Optional[str] = None, split: str = "train") -> Dataset:
+    def postprocess(
+        self, dataset: Dataset, subset: Optional[str] = None, split: str = "train"
+    ) -> Dataset:
         """Format the DEFT2021 dataset to a common schema.
 
         This method groups tokens by document ID and concatenates them

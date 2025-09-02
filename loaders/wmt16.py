@@ -1,8 +1,9 @@
-from typing import Dict, List, Any, Optional
+from typing import Any, Dict, Optional
+
 from datasets import Dataset
-from .base_loader import BaseLoader
 from preprocessing.text_cleaning import cleaner
 
+from .base_loader import BaseLoader
 
 
 def extract_translation(example: Dict[str, Any]) -> Dict[str, str]:
@@ -20,13 +21,16 @@ def extract_translation(example: Dict[str, Any]) -> Dict[str, str]:
         A dictionary with a "text" key containing the cleaned French translation.
     """
     return {
-        "text": cleaner(example["translation"]["fr"]), # With preprocessing
+        "text": cleaner(example["translation"]["fr"]),  # With preprocessing
     }
+
 
 class WMT16(BaseLoader):
     """Loader for the WMT16 dataset."""
 
-    def postprocess(self, dataset: Dataset, subset: Optional[str] = None, split: str = "train") -> Dataset:
+    def postprocess(
+        self, dataset: Dataset, subset: Optional[str] = None, split: str = "train"
+    ) -> Dataset:
         """Format the raw dataset to a common schema.
 
         Parameters
@@ -46,9 +50,9 @@ class WMT16(BaseLoader):
         """
         res_ds = dataset.map(
             extract_translation,
-            remove_columns=[c for c in dataset.column_names if c != "translation"]
+            remove_columns=[c for c in dataset.column_names if c != "translation"],
         ).remove_columns(["translation"])
-        res_ds = res_ds.add_column("source", [self.source] * len(res_ds))
+        res_ds = res_ds.add_column("source", [self.source] * len(res_ds))  # type: ignore
         res_ds = res_ds.add_column("subset", [subset] * len(res_ds))
         res_ds = res_ds.add_column("source_split", [split] * len(res_ds))
         return res_ds
