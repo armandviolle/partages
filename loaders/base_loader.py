@@ -1,6 +1,5 @@
 import logging
 import os
-import traceback
 from abc import ABC, abstractmethod
 from typing import Optional, Union
 
@@ -106,20 +105,13 @@ class BaseLoader(ABC):
             If the dataset cannot be loaded.
         """
         load_fn = load_local if os.path.isdir(self.path) else load_dataset
-        try:
-            tmp_ds = load_fn(
-                path=self.path,
-                data_dir=self.subset,
-                split=self.split,
-                streaming=self.stream,
-                trust_remote_code=True,
-            )
-            ds = self.postprocess(dataset=tmp_ds, subset=self.subset, split=self.split)
-            ds = ds.map(
-                clean_example, fn_kwargs={"lower": False, "rm_new_lines": False}
-            )
-            return ds  # type: ignore (dataset type ensuring by loading loop in main)
-        except Exception as e:
-            raise RuntimeError(
-                f"Impossible to load this dataset:\n {traceback.format_exc()}"
-            ) from e
+        tmp_ds = load_fn(
+            path=self.path,
+            data_dir=self.subset,
+            split=self.split,
+            streaming=self.stream,
+            trust_remote_code=True,
+        )
+        ds = self.postprocess(dataset=tmp_ds, subset=self.subset, split=self.split)
+        ds = ds.map(clean_example, fn_kwargs={"lower": False, "rm_new_lines": False})
+        return ds  # type: ignore (dataset type ensuring by loading loop in main)

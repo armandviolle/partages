@@ -1,5 +1,4 @@
 import logging
-import sys
 
 import pandas as pd
 import wikipediaapi
@@ -109,7 +108,7 @@ def extract_wikipedia(
     titles = dict(zip(category_names, [[] for _ in range(len(category_names))]))
     texts = dict(zip(category_names, [[] for _ in range(len(category_names))]))
     for name in category_names:
-        print(f"Extracting pages from category {name}.")
+        logger.info(f"Extracting pages from category {name}.")
         tmp_titles = []
         try:
             category = wiki_wiki.page(f"Category:{name}")
@@ -119,24 +118,22 @@ def extract_wikipedia(
                 to_ignore=["Catégorie:" + name for name in ignored_all],
             )
         except Exception:
-            sys.tracebacklimit = 0
-            print(f"No matching category found for {name}.")
+            logger.info(f"No matching category found for {name}.")
         if tmp_titles:
             titles[name] = list(set(tmp_titles))
         else:
-            print("WARNING: no pages found ")
+            logger.info(f"No pages found for category {name}.")
     if any(list(titles.values())):
         control_inter_duplication(titles)
         tot = 0
-        print()
+        logger.info("Extracted pages:")
         for key, val in titles.items():
             texts[key] = [wiki_wiki.page(f"{t}").text for t in val]
-            print(f"{key}: {len(val)} pages.")
+            logger.info(f"{key}: {len(val)} pages.")
             tot += len(val)
-        print(f"\nTotal: {tot} documents\n")
+        logger.info(f"\nTotal: {tot} documents\n")
         return texts
     else:
-        sys.tracebacklimit = 0
         raise ValueError(
             "No matching category was found among the input one(s), no data loaded."
         )
@@ -151,7 +148,6 @@ def main():
                 [df, pd.DataFrame.from_dict({"subset": [key] * len(val), "text": val})]
             )
     if df.empty:
-        sys.tracebacklimit = 0
         raise ValueError("No data extracted for Wikipedia.")
     else:
         df.to_parquet("datasets/WIKIPEDIA/wikipedia.parquet")

@@ -71,6 +71,12 @@ def parse() -> argparse.Namespace:
         default=True,
         help="Whether to filter out non-commercial use datasets.",
     )
+    parser.add_argument(
+        "--logger_level",
+        type=str,
+        default="INFO",
+        help="Logging level for the script.",
+    )
     return parser.parse_args()
 
 
@@ -178,22 +184,26 @@ def load_config(args: argparse.Namespace) -> list:
                 all_cfg = [cfg]
                 break
         else:
-            raise RuntimeError(f"No available dataset named {args.source} in config.")
+            raise ValueError(f"No available dataset named {args.source} in config.")
 
     if args.make_commercial_version:
-        print("\nCOMMERCIAL VERSION")
-        print(f"Available datasets in config: {[cfg['source'] for cfg in all_cfg]}")
+        logger.info("\nCOMMERCIAL VERSION")
+        logger.info(
+            f"Available datasets in config: {[cfg['source'] for cfg in all_cfg]}"
+        )
         tmp_cfg = []
         for cfg in all_cfg:
             if cfg["commercial_use"]:
                 tmp_cfg.append(cfg)
         all_cfg = tmp_cfg
-        print(
+        logger.info(
             f"Remaining datasets after commercial use filtering: {[cfg['source'] for cfg in all_cfg]}\n"
         )
     else:
-        print("\nNON-COMMERCIAL VERSION")
-        print(f"Available datasets in config: {[cfg['source'] for cfg in all_cfg]}\n")
+        logger.info("\nNON-COMMERCIAL VERSION")
+        logger.info(
+            f"Available datasets in config: {[cfg['source'] for cfg in all_cfg]}\n"
+        )
 
     if len(all_cfg) < 1:
         raise RuntimeError(
@@ -231,14 +241,14 @@ def load_local(
     Dataset
         The loaded dataset.
     """
-    print(f"Loading from local path: {path} for split: {split}")
+    logger.info(f"Loading from local path: {path} for split: {split}")
     all_texts = []
     if os.listdir(path=path)[0].endswith(".gz"):
         all_texts = read_compressed(path=Path(path))
         return Dataset.from_dict({"text": all_texts})
     else:
         for root, dirs, files in os.walk(path):
-            print(f"Searching for .txt files in {root}...")
+            logger.info(f"Searching for .txt files in {root}...")
             for file_name in files:
                 if file_name.endswith(".txt"):
                     file_path = os.path.join(root, file_name)
