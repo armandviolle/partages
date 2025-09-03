@@ -17,7 +17,7 @@ from loaders.utils import (
     parse,
     update_row,
 )
-from logger import setup_logger
+from src.logger import setup_logger
 
 logger = logging.getLogger(__name__)
 
