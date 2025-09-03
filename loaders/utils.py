@@ -12,7 +12,7 @@ import pandas as pd
 import yaml
 
 from datasets import Dataset, arrow_dataset
-from preprocessing.text_cleaning import cleaner
+from src.text_cleaning import cleaner
 
 logger = logging.getLogger(__name__)
 
