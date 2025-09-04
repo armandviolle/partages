@@ -5,7 +5,7 @@ import io
 import logging
 import os
 from pathlib import Path
-from typing import Optional, Union
+from typing import Generator, Optional, Union
 
 import numpy as np
 import pandas as pd
@@ -98,7 +98,7 @@ def read_config(path: Union[Path, str] = "config/datasets.yaml") -> dict:
         return yaml.safe_load(f)["datasets"]
 
 
-def read_compressed(path: Union[Path, str]) -> list:
+def read_compressed(path: Union[Path, str]) -> Generator[str, None, None]:
     """
     Read a compressed text file in .gz format and return its lines.
 
@@ -117,7 +117,8 @@ def read_compressed(path: Union[Path, str]) -> list:
         with open(Path(path) / part, "rb") as f:
             all_bytes += f.read()
     with gzip.open(io.BytesIO(all_bytes), "rt", encoding="utf-8") as res:
-        return res.read().splitlines()
+        for line in res:
+            yield line.rstrip("\n")
 
 
 def generate_info_file(
@@ -245,6 +246,7 @@ def load_local(
     all_texts = []
     if os.listdir(path=path)[0].endswith(".gz"):
         all_texts = read_compressed(path=Path(path))
+        all_texts = list(all_texts)  # Convert generator to list
         return Dataset.from_dict({"text": all_texts})
     else:
         for root, dirs, files in os.walk(path):
