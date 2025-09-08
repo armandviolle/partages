@@ -112,6 +112,6 @@ class BaseLoader(ABC):
             streaming=self.stream,
             trust_remote_code=True,
         )
-        ds = self.postprocess(dataset=tmp_ds, subset=self.subset, split=self.split)
+        ds = self.postprocess(dataset=tmp_ds, subset=self.subset, split=self.split)  # type: ignore
         ds = ds.map(clean_example, fn_kwargs={"lower": False, "rm_new_lines": False})
         return ds  # type: ignore (dataset type ensuring by loading loop in main)
