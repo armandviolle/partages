@@ -262,10 +262,12 @@ def load_local(
                     with open(file_path, "r", encoding="utf-8") as fh:
                         yield {"text": fh.read()}
 
-    ground_file = next(iter(os.listdir(path)))
-    if ground_file.endswith(".gz"):
+    all_files = [p for p in path.rglob("*") if p.is_file()]
+    has_gz = any(p.suffix == ".gz" for p in all_files)
+    has_txt = any(p.suffix == ".txt" for p in all_files)
+    if has_gz:
         return Dataset.from_generator(lambda: iter_gz(path))
-    elif ground_file.endswith(".txt"):
+    elif has_txt:
         return Dataset.from_generator(lambda: iter_txt(path))
     # if os.listdir(path=path)[0].endswith(".gz"):
     #     all_texts = read_compressed(path=Path(path))
@@ -283,7 +285,7 @@ def load_local(
     #         return Dataset.from_dict({"text": all_texts})
     else:
         raise RuntimeError(
-            f"No .txt or .parquet files found in {path} or its subdirectories."
+            f"No .txt or .gz files found in {path} or its subdirectories."
         )
 
 
