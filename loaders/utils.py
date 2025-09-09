@@ -11,7 +11,7 @@ import numpy as np
 import pandas as pd
 import yaml
 
-from datasets import Dataset, arrow_dataset
+from datasets import Dataset, DatasetDict, IterableDataset, arrow_dataset
 from src.text_cleaning import cleaner
 
 logger = logging.getLogger(__name__)
@@ -220,7 +220,7 @@ def load_local(
     data_dir: Optional[Union[str, list]] = None,
     streaming: bool = False,
     trust_remote_code: bool = True,
-) -> Dataset:
+) -> dict[str, IterableDataset] | IterableDataset | Dataset | DatasetDict:
     """
     Load a local dataset from a specified path, handling both .txt and .gz files.
 
@@ -243,25 +243,36 @@ def load_local(
         The loaded dataset.
     """
     logger.info(f"Loading from local path: {path} for split: {split}")
-    all_texts = []
-    if os.listdir(path=path)[0].endswith(".gz"):
-        all_texts = read_compressed(path=Path(path))
-        all_texts = list(all_texts)  # Convert generator to list
-        return Dataset.from_dict({"text": all_texts})
+    path = Path(path)
+
+    def iter_gz(path: Path):
+        all_bytes = b""
+        for part in sorted(os.listdir(path)):
+            with open(path / part, "rb") as f:
+                all_bytes += f.read()
+        with gzip.open(io.BytesIO(all_bytes), "rt", encoding="utf-8") as res:
+            for line in res:
+                yield {"text": line.rstrip("\n")}
+
+    def iter_txt(path: Path):
+        for root, _, files in os.walk(path):
+            for f in files:
+                if f.endswith(".txt"):
+                    file_path = os.path.join(root, f)
+                    with open(file_path, "r", encoding="utf-8") as fh:
+                        yield {"text": fh.read()}
+
+    all_files = [p for p in path.rglob("*") if p.is_file()]
+    has_gz = any(p.suffix == ".gz" for p in all_files)
+    has_txt = any(p.suffix == ".txt" for p in all_files)
+    if has_gz:
+        return Dataset.from_generator(lambda: iter_gz(path))
+    elif has_txt:
+        return Dataset.from_generator(lambda: iter_txt(path))
     else:
-        for root, dirs, files in os.walk(path):
-            logger.info(f"Searching for .txt files in {root}...")
-            for file_name in files:
-                if file_name.endswith(".txt"):
-                    file_path = os.path.join(root, file_name)
-                    with open(file_path, "r", encoding="utf-8") as f:
-                        all_texts.append(f.read())
-        if all_texts:
-            return Dataset.from_dict({"text": all_texts})
-        else:
-            raise RuntimeError(
-                f"No .txt or .parquet files found in {path} or its subdirectories."
-            )
+        raise RuntimeError(
+            f"No .txt or .gz files found in {path} or its subdirectories."
+        )
 
 
 def compute_dataset_stats(
