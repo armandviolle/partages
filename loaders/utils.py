@@ -269,20 +269,6 @@ def load_local(
         return Dataset.from_generator(lambda: iter_gz(path))
     elif has_txt:
         return Dataset.from_generator(lambda: iter_txt(path))
-    # if os.listdir(path=path)[0].endswith(".gz"):
-    #     all_texts = read_compressed(path=Path(path))
-    #     all_texts = list(all_texts)  # Convert generator to list
-    #     return Dataset.from_dict({"text": all_texts})
-    # else:
-    #     for root, dirs, files in os.walk(path):
-    #         logger.info(f"Searching for .txt files in {root}...")
-    #         for file_name in files:
-    #             if file_name.endswith(".txt"):
-    #                 file_path = os.path.join(root, file_name)
-    #                 with open(file_path, "r", encoding="utf-8") as f:
-    #                     all_texts.append(f.read())
-    #     if all_texts:
-    #         return Dataset.from_dict({"text": all_texts})
     else:
         raise RuntimeError(
             f"No .txt or .gz files found in {path} or its subdirectories."
