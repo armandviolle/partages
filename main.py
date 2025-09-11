@@ -87,16 +87,17 @@ def main():
                 all_ds.append(ds)
         if all_ds:
             merged = concatenate_datasets(all_ds)
-            logger.info(f"Shape of concatenated dataset: {merged.shape}")
+            df = merged[merged["text"].str.strip().str.len() > 0]  # deleting empty rows
+            logger.info(f"Shape of concatenated dataset without empty rows: {df.shape}")
             if args.push_to_hub:
                 msg = generate_info_file(
-                    dataset=merged,
+                    dataset=df,
                     source_name=cfg["source"],
                     source_split=cfg["source_split"],
                     comment=cfg["comment"],
                     stats=stats[cfg["source"]],
                 )
-                commit_files[cfg["source"]] = [msg, merged, cfg["target_split"]]
+                commit_files[cfg["source"]] = [msg, df, cfg["target_split"]]
                 split_file[cfg["target_split"]].append(cfg["source"])
         else:
             raise ValueError(f'No data was loaded for dataset "{cfg["source"]}".')
@@ -106,12 +107,11 @@ def main():
             local_dir=tmpdir,
             clone_from="LIMICS/PARTAGES"
             if args.make_commercial_version
-            else "LIMICS/PARTAGES-research",
+            else "LIMICS/PARTAGES-Research",
             repo_type="dataset",
         )
         # Dictionary commit_files is empty if not args.push_to_hub (see rows 58-60)
         for key, val in commit_files.items():
-            # if not os.path.exists(os.path.join(tmpdir, key)):
             os.makedirs(os.path.join(tmpdir, key), exist_ok=True)
             # Writing and saving info file
             info_file_name = f"{key}/{key}_info.md"
