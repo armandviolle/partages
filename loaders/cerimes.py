@@ -31,10 +31,14 @@ class CERIMES(BaseLoader):
             The postprocessed dataset with "text", "source", "subset",
             and "source_split" columns.
         """
-        res = {
-            "text": list(dataset["text"]),
-            "source": [self.source] * len(dataset),
-            "subset": [subset] * len(dataset),
-            "source_split": [split] * len(dataset),
-        }
-        return Dataset.from_dict(res)
+
+        def gen():
+            for row in dataset:
+                yield {
+                    "text": row["text"],  # type: ignore
+                    "source": self.source,
+                    "subset": subset,
+                    "source_split": split,
+                }
+
+        return Dataset.from_generator(gen)  # type: ignore

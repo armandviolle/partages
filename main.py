@@ -87,7 +87,10 @@ def main():
                 all_ds.append(ds)
         if all_ds:
             merged = concatenate_datasets(all_ds)
-            df = merged[merged["text"].str.strip().str.len() > 0]  # deleting empty rows
+            logger.info(f"Shape of concatenated dataset: {merged.shape}")
+            logger.debug(f"Type of concatenated datasets: {type(merged)}")
+            # df = merged[merged["text"].str.strip().str.len() > 0]  # deleting empty rows
+            df = merged.filter(lambda example: len(example["text"].strip()) > 0)
             logger.info(f"Shape of concatenated dataset without empty rows: {df.shape}")
             if args.push_to_hub:
                 msg = generate_info_file(
