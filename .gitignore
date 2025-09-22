@@ -9,6 +9,9 @@ wheels/
 # Virtual environments
 .venv
 
+# vscode settings
+.vscode
+
 # Idea config files
 .idea
 
@@ -18,3 +21,6 @@ config/hf-token.txt
 # Datasets
 .DS_Store
 datasets/.DS_Store
+
+# Exploration notebook
+exploration.ipynb
