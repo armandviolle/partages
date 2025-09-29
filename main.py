@@ -1,5 +1,4 @@
 import datetime
-import json
 import logging
 import os
 import tempfile
@@ -49,7 +48,6 @@ def main():
 
     stats = {}
     commit_files = {}
-    split_file = {"train": [], "test": []}
 
     for cfg in all_cfg:
         all_ds = []
@@ -86,13 +84,15 @@ def main():
                     stats[cfg["source"]] = row
                 all_ds.append(ds)
         if all_ds:
+            # Concatenate all subsets and splits for a single source
             merged = concatenate_datasets(all_ds)
             logger.info(f"Shape of concatenated dataset: {merged.shape}")
             logger.debug(f"Type of concatenated datasets: {type(merged)}")
-            # df = merged[merged["text"].str.strip().str.len() > 0]  # deleting empty rows
+            # Remove empty rows
             df = merged.filter(lambda example: len(example["text"].strip()) > 0)
             logger.info(f"Shape of concatenated dataset without empty rows: {df.shape}")
             if args.push_to_hub:
+                # Generating info file for the source pushed to the hub
                 msg = generate_info_file(
                     dataset=df,
                     source_name=cfg["source"],
@@ -100,17 +100,16 @@ def main():
                     comment=cfg["comment"],
                     stats=stats[cfg["source"]],
                 )
-                commit_files[cfg["source"]] = [msg, df, cfg["target_split"]]
-                split_file[cfg["target_split"]].append(cfg["source"])
+                commit_files[cfg["source"]] = [msg, df]
         else:
             raise ValueError(f'No data was loaded for dataset "{cfg["source"]}".')
 
     with tempfile.TemporaryDirectory() as tmpdir:
         repo = Repository(
             local_dir=tmpdir,
-            clone_from="LIMICS/PARTAGES"
+            clone_from="LIMICS/PARTAGES-sourced"
             if args.make_commercial_version
-            else "LIMICS/PARTAGES-Research",
+            else "LIMICS/PARTAGES-Research-sourced",
             repo_type="dataset",
         )
         # Dictionary commit_files is empty if not args.push_to_hub (see rows 58-60)
@@ -140,37 +139,8 @@ def main():
             compute_global_stats(df=df)
             df.to_csv(stats_path, index=True)
 
-        split_path = os.path.join(tmpdir, "split.json")
-        if not args.use_all_sources and os.path.exists(split_path):
-            with open(split_path, "r") as f:
-                old_split_file = json.load(f)
-            if not (
-                (args.name in old_split_file["train"])
-                or (args.name in old_split_file["test"])
-            ):
-                old_split_file["test"].append(args.name) if (
-                    args.name in split_file["test"]
-                ) else old_split_file["train"].append(args.name)
-            else:
-                if (args.name in old_split_file["train"]) and (
-                    args.name in split_file["test"]
-                ):
-                    old_split_file["train"].remove(args.name)
-                    old_split_file["test"].append(args.name)
-                elif (args.name in old_split_file["test"]) and (
-                    args.name in split_file["train"]
-                ):
-                    old_split_file["test"].remove(args.name)
-                    old_split_file["train"].append(args.name)
-            with open(split_path, "w") as f:
-                json.dump(old_split_file, f, indent=4)
-        else:
-            with open(split_path, "w") as f:
-                json.dump(split_file, f, indent=4)
-
         if args.push_to_hub:
             repo.git_add(stats_path)
-            repo.git_add(split_path)
             commit_msg = (
                 f"Updating dataset on {datetime.date.today().isoformat()}."
                 if args.use_all_sources
@@ -181,9 +151,6 @@ def main():
 
     with pd.option_context("display.max_columns", None, "display.width", 0):
         logger.info(df)
-
-    # déduplication simple
-    # merged = deduplicate(merged, key_column="text") # TODO : deduplicate AF
 
 
 if __name__ == "__main__":
