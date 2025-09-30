@@ -154,7 +154,7 @@ datasets:
     subset: "French"
     source_split: "train"
     target_split: "train"
-    commercial_use: False
+    commercial_use: True
     comment: "Corpus annoté de cas cliniques synthétiques rédigés en français. Disponible à l'url: https://zenodo.org/records/8355629. Licence CC-BY-4.0."
   - source: PXCORPUS
     path: "datasets/pxcorpus" # local path
