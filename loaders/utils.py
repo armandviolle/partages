@@ -11,7 +11,14 @@ import numpy as np
 import pandas as pd
 import yaml
 
-from datasets import Dataset, DatasetDict, IterableDataset, arrow_dataset
+from datasets import (
+    Dataset,
+    DatasetDict,
+    Features,
+    IterableDataset,
+    Value,
+    arrow_dataset,
+)
 from src.text_cleaning import cleaner
 
 logger = logging.getLogger(__name__)
@@ -513,3 +520,13 @@ def clean_example(
         example["text"], do_lower=lower, rm_new_lines=rm_new_lines
     )
     return example
+
+
+def cast_columns(
+    dataset: Dataset,
+) -> Dataset:
+    new_features = dataset.features.copy()
+    for col, feature in new_features.items():
+        if feature.dtype == "null":
+            new_features[col] = Value("string")
+    return dataset.cast(Features(new_features))
