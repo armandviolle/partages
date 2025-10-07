@@ -9,6 +9,7 @@ from huggingface_hub import HfFolder, Repository, login
 from datasets import concatenate_datasets
 from loaders import REGISTRY
 from loaders.utils import (
+    cast_columns,
     compute_dataset_stats,
     compute_global_stats,
     generate_info_file,
@@ -70,6 +71,7 @@ def main():
                     source_split=split,
                 )
                 ds = loader.load()
+                ds = cast_columns(ds)
                 row = compute_dataset_stats(
                     dataset=ds,
                     source_name=cfg["source"],
@@ -86,6 +88,7 @@ def main():
         if all_ds:
             # Concatenate all subsets and splits for a single source
             merged = concatenate_datasets(all_ds)
+            logger.info(f"Features scheme of concatenated dataset: {merged.features}")
             logger.info(f"Shape of concatenated dataset: {merged.shape}")
             logger.debug(f"Type of concatenated datasets: {type(merged)}")
             # Remove empty rows
