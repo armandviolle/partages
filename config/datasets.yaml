@@ -21,6 +21,20 @@ datasets:
     target_split: "train"
     commercial_use: True
     comment: "Corpus francophone de questions dans le domaine médical avec 5 options de réponses (choix unique ou multiples) et leurs corrections manuelles. Disponible à https://huggingface.co/datasets/qanastek/frenchmedmcqa. Licence Apache 2.0."
+  - source: "TRANSCORPUSBIOFR"
+    path: "jknafou/TransCorpus-bio-fr"
+    subset: 
+    source_split: "train"
+    target_split: "train"
+    commercial_use: True
+    comment: "Corpus de textes biomédicaux en français issu de traductions automatiques. Disponible à https://huggingface.co/datasets/jknafou/TransCorpus-bio-fr. MIT."
+  - source: "MEDIQAI"
+    path: "ANR-MALADES/MediQAl"  
+    subset: "MEDIQAI"
+    source_split: ["train", "validation", "test"]
+    target_split: "train"
+    commercial_use: 
+    comment: "Corpus francophone de questions dans le domaine médical avec 5 options de réponses (choix unique ou multiples) et leurs corrections manuelles. Disponible à https://huggingface.co/datasets/ANR-MALADES/MediQAl. Licence CC-BY-4.0."
   # From NACHOS
   - source: HAL
     path: "datasets/HAL"
