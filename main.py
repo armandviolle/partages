@@ -15,7 +15,6 @@ from loaders.utils import (
     generate_info_file,
     load_config,
     parse,
-    update_row,
 )
 from src.logger import setup_logger
 
@@ -49,6 +48,7 @@ def main():
 
     stats = {}
     commit_files = {}
+    global_ds = []
 
     for cfg in all_cfg:
         all_ds = []
@@ -72,18 +72,18 @@ def main():
                 )
                 ds = loader.load()
                 ds = cast_columns(ds)
-                row = compute_dataset_stats(
-                    dataset=ds,
-                    source_name=cfg["source"],
-                    subset=subset,
-                    split=split,
-                )
-                if cfg["source"] in list(stats.keys()):
-                    stats[cfg["source"]] = update_row(
-                        base_row=stats[cfg["source"]], add_row=row
-                    )
-                else:
-                    stats[cfg["source"]] = row
+                # row = compute_dataset_stats(
+                #     dataset=ds,
+                #     source_name=cfg["source"],
+                #     subset=subset,
+                #     split=split,
+                # )
+                # if cfg["source"] in list(stats.keys()):
+                #     stats[cfg["source"]] = update_row(
+                #         base_row=stats[cfg["source"]], add_row=row
+                #     )
+                # else:
+                #     stats[cfg["source"]] = row
                 all_ds.append(ds)
         if all_ds:
             # Concatenate all subsets and splits for a single source
@@ -94,6 +94,18 @@ def main():
             # Remove empty rows
             df = merged.filter(lambda example: len(example["text"].strip()) > 0)
             logger.info(f"Shape of concatenated dataset without empty rows: {df.shape}")
+            global_ds.append(df)
+            # Compute descriptive statistics for the dataset
+            row = compute_dataset_stats(
+                dataset=df,
+                source_name=cfg["source"],
+            )
+            stats[cfg["source"]] = row
+            # (
+            #     update_row(base_row=stats[cfg["source"]], add_row=row)
+            #     if cfg["source"] in list(stats.keys())
+            #     else row
+            # )
             if args.push_to_hub:
                 # Generating info file for the source pushed to the hub
                 msg = generate_info_file(
@@ -106,6 +118,10 @@ def main():
                 commit_files[cfg["source"]] = [msg, df]
         else:
             raise ValueError(f'No data was loaded for dataset "{cfg["source"]}".')
+
+    global_merged = concatenate_datasets(global_ds)
+    logger.info(f"Features scheme of concatenated dataset: {global_merged.features}")
+    logger.info(f"Shape of concatenated dataset: {global_merged.shape}")
 
     with tempfile.TemporaryDirectory() as tmpdir:
         repo = Repository(
