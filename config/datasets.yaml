@@ -113,20 +113,6 @@ datasets:
     target_split: "train"
     commercial_use: False
     comment: "Corpus comprenant des textes issus de 3 sources : encyclopédie, notices pharmaceutiques et abstracts articles médicaux. Versioning NACHOS. Disponible à https://shs.hal.science/halshs-01968355. Licence 'libre pour la recherche'."
-  - source: "ANSES_RCP"
-    path: "datasets/ANSES_RCP"
-    subset: "NACHOS"
-    source_split:
-    target_split: "train"
-    commercial_use: False
-    comment: "Rapports de résumés des caractéristiques produits issus de l'agence nationale de sécurité sanitaire. Versioning NACHOS. Disponibles à https://www.ircp.anmv.anses.fr/. Licence CC-BY-NC-ND 4.0."
-  - source: "ANSES_SAISINE"
-    path: "datasets/ANSES_SAISINE"
-    subset: "NACHOS"
-    source_split:
-    target_split: "train"
-    commercial_use: False
-    comment: "Rapports des saisines issus de l'agence nationale de sécurité sanitaire. Versioning NACHOS. Disponibles à https://www.anses.fr/fr/content/avis-et-rapports-de-lanses-sur-saisine. Licence CC-BY-NC-ND 4.0."
   - source: "E3C"
     path: "datasets/E3C-Corpus-2.0.0-French"
     subset: "NACHOS"
