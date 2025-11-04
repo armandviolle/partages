@@ -285,8 +285,6 @@ def load_local(
 def compute_dataset_stats(
     dataset: Dataset,
     source_name: str,
-    subset: str,
-    split: str,
 ) -> dict:
     """
     Compute basic statistics for a text dataset.
@@ -321,9 +319,7 @@ def compute_dataset_stats(
         }
         return row
     else:
-        raise ValueError(
-            f'Dataset "{source_name}" does not contain a \'text\' column for subset "{subset}" and split "{split}".'
-        )
+        raise ValueError(f"Dataset \"{source_name}\" does not contain a 'text' column.")
 
 
 def pooled_variance(mode: str, row: dict, avg: float) -> float:

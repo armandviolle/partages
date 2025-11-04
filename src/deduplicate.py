@@ -59,15 +59,17 @@ def main():
     )
 
     raw_dataset = load_dataset(
-        path="LIMICS/PARTAGES-sourced"
+        "parquet",
+        data_files="hf://datasets/LIMICS/PARTAGES-sourced/*/*.parquet"
         if args.make_commercial_version
-        else "LIMICS/PARTAGES-Research-sourced",
+        else "hf://datasets/LIMICS/PARTAGES-Research-sourced/*/*.parquet",
         split="train",
-        trust_remote_code=True,
         download_mode="force_redownload",
     )
 
+    logger.info(f"Shape of raw dataset: {raw_dataset.shape}")  # type: ignore
     new_dataset = post_process(dataset=raw_dataset)
+    logger.info(f"Shape of deduplicated dataset: {new_dataset.shape}")  # type: ignore
 
     logger.info(
         "Writing deduplicated dataset to %s" % "LIMICS/PARTAGES"
