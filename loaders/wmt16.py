@@ -32,7 +32,7 @@ class WMT16(BaseLoader):
     """Loader for the WMT16 dataset."""
 
     def postprocess(
-        self, dataset: Dataset, subset: Optional[str] = None, split: str = "train"
+        self, dataset: Dataset, data_dir: Optional[str] = None, split: str = "train"
     ) -> Dataset:
         """Format the raw dataset to a common schema.
 
@@ -40,22 +40,25 @@ class WMT16(BaseLoader):
         ----------
         dataset : Dataset
             The input dataset to postprocess.
-        subset : str, optional
-            Name of the subset being processed. None by default.
+        data_dir : str, optional
+            Name of the data_dir being processed. None by default.
         split : str
             Name of the split being processed. Defaults to "train".
 
         Returns
         -------
         Dataset
-            The postprocessed dataset with "text", "source", "subset",
+            The postprocessed dataset with "text", "source", "data_dir",
             and "source_split" columns.
         """
         res_ds = dataset.map(
             extract_translation,
             remove_columns=[c for c in dataset.column_names if c != "translation"],
         ).remove_columns(["translation"])
+        res_ds = res_ds.rename_column("text", "input")
+        res_ds = res_ds.add_column("instruction", [None] * len(res_ds))  # type: ignore
+        res_ds = res_ds.add_column("output", [None] * len(res_ds))
         res_ds = res_ds.add_column("source", [self.source] * len(res_ds))  # type: ignore
-        res_ds = res_ds.add_column("subset", [subset] * len(res_ds))
+        res_ds = res_ds.add_column("data_dir", [data_dir] * len(res_ds))
         res_ds = res_ds.add_column("source_split", [split] * len(res_ds))
         return res_ds

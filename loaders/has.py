@@ -12,7 +12,7 @@ class HAS(BaseLoader):
     """Loader for the HAS dataset."""
 
     def postprocess(
-        self, dataset: Dataset, subset: Optional[str] = None, split: str = "train"
+        self, dataset: Dataset, data_dir: Optional[str] = None, split: str = "train"
     ) -> Dataset:
         """Format the raw dataset to a common schema.
 
@@ -20,24 +20,26 @@ class HAS(BaseLoader):
         ----------
         dataset : Dataset
             The input dataset to postprocess.
-        subset : str, optional
-            Name of the subset being processed. None by default.
+        data_dir : str, optional
+            Name of the data_dir being processed. None by default.
         split : str
             Name of the split being processed. Defaults to "train".
 
         Returns
         -------
         Dataset
-            The postprocessed dataset with "text", "source", "subset",
+            The postprocessed dataset with "text", "source", "data_dir",
             and "source_split" columns.
         """
 
         def gen():
             for row in dataset:
                 yield {
-                    "text": row["text"],  # type: ignore
+                    "instruction": None,
+                    "input": row["text"],  # type: ignore
+                    "output": None,
                     "source": self.source,
-                    "subset": subset,
+                    "data_dir": data_dir,
                     "source_split": split,
                 }
 

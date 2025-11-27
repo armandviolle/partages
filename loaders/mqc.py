@@ -12,7 +12,7 @@ class MQC(BaseLoader):
     """Loader for the MQC dataset"""
 
     def postprocess(
-        self, dataset: Dataset, subset: Optional[str] = None, split: str = "train"
+        self, dataset: Dataset, data_dir: Optional[str] = None, split: str = "train"
     ) -> Dataset:
         """Format the raw dataset to a common schema.
 
@@ -20,15 +20,15 @@ class MQC(BaseLoader):
         ----------
         dataset : Dataset
             The input dataset to postprocess.
-        subset : str, optional
-            Name of the subset being processed. None by default.
+        data_dir : str, optional
+            Name of the data_dir being processed. None by default.
         split : str
             Name of the split being processed. Defaults to "train".
 
         Returns
         -------
         Dataset
-            The postprocessed dataset with "text", "source", "subset",
+            The postprocessed dataset with "text", "source", "data_dir",
             and "source_split" columns.
         """
         document_sentences = [doc.splitlines() for doc in dataset["text"]]
@@ -36,9 +36,11 @@ class MQC(BaseLoader):
         n = len(flattened)
 
         res = {
-            "text": flattened,
+            "instruction": [None] * n,
+            "input": flattened,
+            "output": [None] * n,
             "source": [self.source] * n,
-            "subset": [subset] * n,
+            "data_dir": [data_dir] * n,
             "source_split": [split] * n,
         }
 

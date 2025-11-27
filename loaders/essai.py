@@ -12,7 +12,7 @@ class ESSAI(BaseLoader):
     """Loader for the ESSAI dataset"""
 
     def postprocess(
-        self, dataset: Dataset, subset: Optional[str] = None, split: str = "train"
+        self, dataset: Dataset, data_dir: Optional[str] = None, split: str = "train"
     ) -> Dataset:
         """Format the raw dataset to a common schema.
 
@@ -20,15 +20,15 @@ class ESSAI(BaseLoader):
         ----------
         dataset : Dataset
             The input dataset to postprocess.
-        subset : str, optional
-            Name of the subset being processed. None by default.
+        data_dir : str, optional
+            Name of the data_dir being processed. None by default.
         split : str
             Name of the split being processed. Defaults to "train".
 
         Returns
         -------
         Dataset
-            The postprocessed dataset with "text", "source", "subset",
+            The postprocessed dataset with "text", "source", "data_dir",
             and "source_split" columns.
         """
         # Parse dataset to extract only 3rd column and gather by sentence.
@@ -58,9 +58,11 @@ class ESSAI(BaseLoader):
                 all_texts.append(sentence_text)
 
         res = {
-            "text": all_texts,
+            "instruction": [None] * len(all_texts),
+            "input": all_texts,
+            "output": [None] * len(all_texts),
             "source": [self.source] * len(all_texts),
-            "subset": [subset] * len(all_texts),
+            "data_dir": [data_dir] * len(all_texts),
             "source_split": [split] * len(all_texts),
         }
         return Dataset.from_dict(res)
