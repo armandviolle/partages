@@ -28,8 +28,8 @@ class BaseLoader(ABC):
         Name of the data source.
     path : str
         Path to the dataset, can be a local directory or a Hugging Face Hub ID.
-    subset : str, optional
-        Name of the subset to load, if applicable. Defaults to None.
+    data_dir : str, optional
+        Name of the data_dir to load, if applicable. Defaults to None.
     source_split : str, optional
         Name of the split to load from the source. Defaults to "train".
 
@@ -41,8 +41,8 @@ class BaseLoader(ABC):
         Path to the dataset.
     split : str
         Name of the split to load.
-    subset : str or None
-        Name of the subset to load.
+    data_dir : str or None
+        Name of the data_dir to load.
     stream : bool
         Whether to stream the dataset. Defaults to False.
     """
@@ -51,20 +51,22 @@ class BaseLoader(ABC):
         self,
         source: str,
         path: str,
-        subset: Optional[str] = None,
+        adaptation_type: str,
+        data_dir: Optional[str] = None,
         source_split: str = "train",
     ) -> None:
         self.source = source
         self.path = path
         self.split = source_split
-        self.subset = subset
+        self.data_dir = data_dir
+        self.adaptation_type = adaptation_type
         self.stream = False
 
     @abstractmethod
     def postprocess(
         self,
         dataset: Union[Dataset, DatasetDict, IterableDataset, IterableDatasetDict],
-        subset: Optional[str] = None,
+        data_dir: Optional[str] = None,
         split: str = "train",
     ) -> Union[Dataset, DatasetDict, IterableDataset, IterableDatasetDict]:
         """Perform dataset-specific postprocessing.
@@ -75,8 +77,8 @@ class BaseLoader(ABC):
         ----------
         dataset : Dataset
             The input dataset to postprocess.
-        subset : str, optional
-            Name of the subset being processed. Defaults to None.
+        data_dir : str, optional
+            Name of the data_dir being processed. Defaults to None.
         split : str, optional
             Name of the split being processed. Defaults to "train".
 
@@ -107,11 +109,20 @@ class BaseLoader(ABC):
         load_fn = load_local if os.path.isdir(self.path) else load_dataset
         tmp_ds = load_fn(
             path=self.path,
-            data_dir=self.subset,
+            data_dir=self.data_dir,
             split=self.split,
             streaming=self.stream,
             trust_remote_code=True,
         )
-        ds = self.postprocess(dataset=tmp_ds, subset=self.subset, split=self.split)  # type: ignore
-        ds = ds.map(clean_example, fn_kwargs={"lower": False, "rm_new_lines": False})
+        ds = self.postprocess(dataset=tmp_ds, data_dir=self.data_dir, split=self.split)  # type: ignore
+        ds = ds.map(
+            clean_example,
+            fn_kwargs={
+                "lower": False,
+                "rm_new_lines": False,
+                "columns": ["instruction", "input", "output"]
+                if self.adaptation_type == "instruction-tuning"
+                else ["input"],
+            },
+        )
         return ds  # type: ignore (dataset type ensuring by loading loop in main)
