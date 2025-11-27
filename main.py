@@ -3,18 +3,15 @@ import logging
 import os
 import tempfile
 
-import pandas as pd
 from huggingface_hub import HfFolder, Repository, login
 
 from datasets import concatenate_datasets
 from loaders import REGISTRY
-from loaders.utils import (
+from loaders.utils import (  # TODO n°2 generate_info_file,
     cast_columns,
-    compute_dataset_stats,
-    compute_global_stats,
-    generate_info_file,
     load_config,
     parse,
+    select_repo,
 )
 from src.logger import setup_logger
 
@@ -46,7 +43,7 @@ def main():
     # Load dataset configurations
     all_cfg = load_config(args=args)
 
-    stats = {}
+    # TODO n°2: stats = {}
     commit_files = {}
     global_ds = []
 
@@ -55,67 +52,63 @@ def main():
         logger.info(f"Loading dataset {cfg['source']}: using {REGISTRY[cfg['source']]}")
         LoaderCls = REGISTRY[cfg["source"]]
 
-        subsets = cfg["subset"] if isinstance(cfg["subset"], list) else [cfg["subset"]]
+        data_dirs = (
+            cfg["data_dir"] if isinstance(cfg["data_dir"], list) else [cfg["data_dir"]]
+        )
         splits = (
             cfg["source_split"]
             if isinstance(cfg["source_split"], list)
             else [cfg["source_split"]]
         )
 
-        for subset in subsets:
+        for data_dir in data_dirs:
             for split in splits:
                 loader = LoaderCls(
                     source=cfg["source"],
                     path=cfg["path"],
-                    subset=subset,
+                    data_dir=data_dir,
                     source_split=split,
+                    adaptation_type=cfg["adaptation_type"],
                 )
                 ds = loader.load()
                 ds = cast_columns(ds)
-                # row = compute_dataset_stats(
-                #     dataset=ds,
-                #     source_name=cfg["source"],
-                #     subset=subset,
-                #     split=split,
-                # )
-                # if cfg["source"] in list(stats.keys()):
-                #     stats[cfg["source"]] = update_row(
-                #         base_row=stats[cfg["source"]], add_row=row
-                #     )
-                # else:
-                #     stats[cfg["source"]] = row
                 all_ds.append(ds)
         if all_ds:
-            # Concatenate all subsets and splits for a single source
+            # Concatenate all data_dirs and splits for a single source
             merged = concatenate_datasets(all_ds)
             logger.info(f"Features scheme of concatenated dataset: {merged.features}")
             logger.info(f"Shape of concatenated dataset: {merged.shape}")
             logger.debug(f"Type of concatenated datasets: {type(merged)}")
-            # Remove empty rows
-            df = merged.filter(lambda example: len(example["text"].strip()) > 0)
+            # Remove empty rows for finetuning datasets
+            if cfg["adaptation_type"] == "fine-tuning":
+                df = merged.filter(lambda example: len(example["input"].strip()) > 0)
+            elif cfg["adaptation_type"] == "instruction-tuning":
+                df = merged.filter(
+                    lambda example: len(example["instruction"].strip()) > 0
+                    and len(example["input"].strip()) > 0
+                    and len(example["output"].strip()) > 0
+                )
             logger.info(f"Shape of concatenated dataset without empty rows: {df.shape}")
             global_ds.append(df)
             # Compute descriptive statistics for the dataset
-            row = compute_dataset_stats(
-                dataset=df,
-                source_name=cfg["source"],
-            )
-            stats[cfg["source"]] = row
-            # (
-            #     update_row(base_row=stats[cfg["source"]], add_row=row)
-            #     if cfg["source"] in list(stats.keys())
-            #     else row
+            ### TODO n°1: independent script for stats computations
+            # row = compute_dataset_stats(
+            #     dataset=df,
+            #     source_name=cfg["source"],
             # )
+            # stats[cfg["source"]] = row
+
             if args.push_to_hub:
-                # Generating info file for the source pushed to the hub
-                msg = generate_info_file(
-                    dataset=df,
-                    source_name=cfg["source"],
-                    source_split=cfg["source_split"],
-                    comment=cfg["comment"],
-                    stats=stats[cfg["source"]],
-                )
-                commit_files[cfg["source"]] = [msg, df]
+                ### TODO n°2: info_file useless after stats computation refactoring?
+                #     # Generating info file for the source pushed to the hub
+                #     msg = generate_info_file(
+                #         dataset=df,
+                #         source_name=cfg["source"],
+                #         source_split=cfg["source_split"],
+                #         comment=cfg["comment"],
+                #         stats=None,  # TODO n°1: independent script for stats computationsstats[cfg["source"]],
+                #     )
+                commit_files[cfg["source"]] = [df]
         else:
             raise ValueError(f'No data was loaded for dataset "{cfg["source"]}".')
 
@@ -123,43 +116,44 @@ def main():
     logger.info(f"Features scheme of concatenated dataset: {global_merged.features}")
     logger.info(f"Shape of concatenated dataset: {global_merged.shape}")
 
-    with tempfile.TemporaryDirectory() as tmpdir:
-        repo = Repository(
-            local_dir=tmpdir,
-            clone_from="LIMICS/PARTAGES-sourced"
-            if args.make_commercial_version
-            else "LIMICS/PARTAGES-Research-sourced",
-            repo_type="dataset",
-        )
-        # Dictionary commit_files is empty if not args.push_to_hub (see rows 58-60)
-        for key, val in commit_files.items():
-            os.makedirs(os.path.join(tmpdir, key), exist_ok=True)
-            # Writing and saving info file
-            info_file_name = f"{key}/{key}_info.md"
-            info_file = os.path.join(tmpdir, info_file_name)
-            with open(info_file, "w") as f:
-                f.write(val[0])
-            repo.git_add(info_file_name)
-            # Saving dataframe
-            df_file_name = f"{key}/{key}.parquet"
-            df_file = os.path.join(tmpdir, df_file_name)
-            val[1].to_parquet(df_file)
-            repo.git_add(df_file_name)
+    if args.push_to_hub:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            repo = Repository(
+                local_dir=tmpdir,
+                clone_from=select_repo(args=args),
+                repo_type="dataset",
+            )
+            # Dictionary commit_files is empty if not args.push_to_hub (see rows 58-60)
+            for key, val in commit_files.items():
+                os.makedirs(os.path.join(tmpdir, key), exist_ok=True)
+                ### TODO n°2: info_file useless after stats computation refactoring?
+                # Writing and saving info file
+                # info_file_name = f"{key}/{key}_info.md"
+                # info_file = os.path.join(tmpdir, info_file_name)
+                # with open(info_file, "w") as f:
+                #     f.write(val[0])
+                # repo.git_add(info_file_name)
+                # Saving dataframe
+                df_file_name = f"{key}/{key}.parquet"
+                df_file = os.path.join(tmpdir, df_file_name)
+                val[0].to_parquet(df_file)
+                repo.git_add(df_file_name)
 
-        stats_path = os.path.join(tmpdir, "dataset_stats.csv")
-        if not args.use_all_sources and os.path.exists(stats_path):
-            df = pd.read_csv(stats_path, index_col=0)
-            df.drop("Total", inplace=True)
-            df[args.source] = stats[args.source]
-            compute_global_stats(df=df)
-            df.to_csv(stats_path, index=True)
-        else:
-            df = pd.DataFrame(list(stats.values()), index=list(stats.keys()))
-            compute_global_stats(df=df)
-            df.to_csv(stats_path, index=True)
+            ### TODO n°1: independent script for stats computations
+            # stats_path = os.path.join(tmpdir, "dataset_stats.csv")
+            # if not args.use_all_sources and os.path.exists(stats_path):
+            #     df = pd.read_csv(stats_path, index_col=0)
+            #     df.drop("Total", inplace=True)
+            #     df[args.source] = stats[args.source]
+            #     compute_global_stats(df=df)
+            #     df.to_csv(stats_path, index=True)
+            # else:
+            #     df = pd.DataFrame(list(stats.values()), index=list(stats.keys()))
+            #     compute_global_stats(df=df)
+            #     df.to_csv(stats_path, index=True)
 
-        if args.push_to_hub:
-            repo.git_add(stats_path)
+            ### TODO n°1: independent script for stats computations
+            # repo.git_add(stats_path)
             commit_msg = (
                 f"Updating dataset on {datetime.date.today().isoformat()}."
                 if args.use_all_sources
@@ -168,8 +162,9 @@ def main():
             repo.git_commit(commit_message=commit_msg)
             repo.git_push()
 
-    with pd.option_context("display.max_columns", None, "display.width", 0):
-        logger.info(df)
+    ### TODO n°1: independent script for stats computations
+    # with pd.option_context("display.max_columns", None, "display.width", 0):
+    #     logger.info(df)
 
 
 if __name__ == "__main__":
