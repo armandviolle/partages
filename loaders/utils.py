@@ -84,6 +84,12 @@ def parse() -> argparse.Namespace:
         default="INFO",
         help="Logging level for the script.",
     )
+    parser.add_argument(
+        "--adaptation_type",
+        type=str,
+        default="fine-tuning",
+        help="Training adaptation type (fine-tuning ou instruction-type).",
+    )
     return parser.parse_args()
 
 
@@ -133,7 +139,7 @@ def generate_info_file(
     source_name: str,
     source_split: str,
     comment: str,
-    stats: dict,
+    stats: dict | None,
 ) -> str:
     """
     Generate a markdown-formatted information file for the dataset.
@@ -164,7 +170,9 @@ def generate_info_file(
         f"## Architecture and shape \n{dataset} \n"
         f"Shape: {dataset.shape}"
         f"## Stats \n"
-        f"{pd.DataFrame(list(stats.values()), index=list(stats.keys())).to_string(index=False, float_format='{:.2f}'.format)}\n"
+        ""
+        if stats is None
+        else f"{pd.DataFrame(list(stats.values()), index=list(stats.keys())).to_string(index=False, float_format='{:.2f}'.format)}\n"
     )
 
 
@@ -186,6 +194,7 @@ def load_config(args: argparse.Namespace) -> list:
     if isinstance(all_cfg, dict):
         all_cfg = [all_cfg]
 
+    # Case where only a single dataset is fetched
     if not args.use_all_sources:
         for cfg in all_cfg:
             if args.source == cfg["source"]:
@@ -194,6 +203,7 @@ def load_config(args: argparse.Namespace) -> list:
         else:
             raise ValueError(f"No available dataset named {args.source} in config.")
 
+    # Filtering datasets for commercial or research versions
     if args.make_commercial_version:
         logger.info("COMMERCIAL VERSION")
         logger.info(
@@ -295,10 +305,6 @@ def compute_dataset_stats(
         The dataset object.
     source_name : str
         The name of the data source.
-    subset : str
-        The subset of the data source.
-    split : str
-        The split of the data source (e.g., "train", "validation").
 
     Returns
     -------
@@ -491,9 +497,7 @@ def compute_global_stats(df: pd.DataFrame) -> None:
 
 
 def clean_example(
-    example: dict,
-    lower: bool,
-    rm_new_lines: bool,
+    example: dict, lower: bool, rm_new_lines: bool, columns: list
 ) -> dict:
     """
     Clean the text in a dataset example using specified cleaning options.
@@ -506,15 +510,16 @@ def clean_example(
         Whether to convert text to lowercase.
     rm_new_lines : bool
         Whether to remove new line characters from the text.
+    columns : list
+        Name of the columns to clean (["text"] for fine-tuning, ["instruction", "input", "output"] for instruction-tuning).
 
     Returns
     -------
     dict
         The cleaned example with updated "text" field.
     """
-    example["text"] = cleaner(
-        example["text"], do_lower=lower, rm_new_lines=rm_new_lines
-    )
+    for c in columns:
+        example[c] = cleaner(example[c], do_lower=lower, rm_new_lines=rm_new_lines)
     return example
 
 
@@ -526,3 +531,20 @@ def cast_columns(
         if feature.dtype == "null":
             new_features[col] = Value("string")
     return dataset.cast(Features(new_features))
+
+
+def select_repo(args: argparse.Namespace):
+    # if args.adaptation_type == "instruction-tuning":
+    #     return "LIMICS/PARTAGES-Instruct"
+    # else:
+    if args.make_commercial_version:
+        return "LIMICS/PARTAGES-sourced"
+    else:
+        return "LIMICS/PARTAGES-Research-sourced"
+
+
+INSTRUCTIONS = {
+    "MCQU": "Tu es un modèle expert en médecine et en sciences biomédicales. Ta tâche consiste à répondre correctement à des QCMs médicaux comportant une seule bonne réponse. Lis attentivement la question et les propositions, puis inidiquement uniquement l’option correcte. Ne donne aucune explication sauf si cela t’est explicitement demandé.",
+    "MCQM": "Tu es un modèle expert en médecine et en sciences biomédicales. Ta tâche consiste à répondre correctement à des QCMs médicaux comportant plusieurs bonnes réponses possibles (de 2 à 5). Lis attentivement la question et les propositions, puis indique les réponses correctes. Ne donne aucune explication sauf si cela t’est explicitement demandé.",
+    "MCQall": "Tu es un modèle expert en médecine et en sciences biomédicales. Ta tâche consiste à répondre correctement à des QCMs médicaux comportant plusieurs bonnes réponses possibles (de 1 à 5). Lis attentivement la question et les propositions, puis indique la ou les réponses correctes. Ne donne aucune explication sauf si cela t’est explicitement demandé.",
+}
