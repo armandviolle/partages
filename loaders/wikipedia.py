@@ -18,23 +18,25 @@ class WIKIPEDIA(BaseLoader):
         ----------
         dataset : Dataset
             The input dataset to postprocess.
-        subset : str, optional
-            The subset of the dataset to process (e.g., "train", "validation", "test").
+        data_dir : str, optional
+            The data_dir of the dataset to process (e.g., "train", "validation", "test").
         split : str
             The split of the dataset to process (e.g., "train", "validation", "test"). Defaults to "train".
 
         Returns
         -------
         Dataset
-            The postprocessed dataset with "text", "source", "subset" and "source_split" columns.
+            The postprocessed dataset with "text", "source", "data_dir" and "source_split" columns.
         """
 
         def gen():
             for row in dataset:
                 yield {
-                    "text": row["text"],  # type: ignore
+                    "instruction": None,
+                    "input": row["text"],  # type: ignore
+                    "output": None,
                     "source": self.source,
-                    "subset": row["subset"],  # type: ignore
+                    "data_dir": row["subset"],  # type: ignore
                     "source_split": self.split,
                 }
 
@@ -53,5 +55,6 @@ class WIKIPEDIA(BaseLoader):
         ds = Dataset.from_parquet(f"{self.path}/wikipedia.parquet")
         tmp_ds = self.postprocess(dataset=ds)  # type: ignore
         return tmp_ds.map(  # type: ignore
-            clean_example, fn_kwargs={"lower": False, "rm_new_lines": False}
+            clean_example,
+            fn_kwargs={"lower": False, "rm_new_lines": False, "columns": ["input"]},
         )

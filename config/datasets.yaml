@@ -2,164 +2,195 @@ datasets:
   # From HuggingFace 
   - source: WMT16
     path: "qanastek/WMT-16-PubMed"
-    subset: "en-fr"
+    data_dir: "en-fr"
     source_split: "train"
     target_split: "train"
+    adaptation_type: "fine-tuning"
     commercial_use: True
     comment: "Variante biomédicale issue du corpus WMT16, données multilingues de traduction automatique. Disponible à https://huggingface.co/datasets/qanastek/WMT-16-PubMed. Licence CC-BY-4.0."
   - source: DEFT2021
     path: "DrBenchmark/DEFT2021"
-    subset:
+    data_dir:
     source_split: ["train", "validation", "test"]
     target_split: "train"
+    adaptation_type: "fine-tuning"
     commercial_use: True
     comment: "Corpus issu du défi DEFT pour trois tâches : extraction de profils cliniques, évaluation de réponses d’étudiants et de notations existantes. Disponible à https://huggingface.co/datasets/DrBenchmark/DEFT2021. Licence CC-BY-4.0."
   - source: FRENCHMEDMCQA
     path: "qanastek/frenchmedmcqa"
-    subset:
-    source_split: ["train", "validation", "test"]
+    data_dir:
+    source_split: ["train", "validation"]
     target_split: "train"
+    adaptation_type: "instruction-tuning"
     commercial_use: True
     comment: "Corpus francophone de questions dans le domaine médical avec 5 options de réponses (choix unique ou multiples) et leurs corrections manuelles. Disponible à https://huggingface.co/datasets/qanastek/frenchmedmcqa. Licence Apache 2.0."
+  - source: MEDIQAL
+    path: "ANR-MALADES/MediQAl"
+    data_dir: ["mcqm", "mcqu"]
+    source_split: ["train", "validation"]
+    target_split: "train"
+    adaptation_type: "instruction-tuning"
+    commercial_use: True
+    comment: "MediQAl is a French medical question answering dataset designed to evaluate the capabilities of language models in factual medical recall and clinical reasoning. Disponible à https://huggingface.co/datasets/ANR-MALADES/MediQAl. Licence CC-BY-4.0"
   # From NACHOS
   - source: HAL
     path: "datasets/HAL"
-    subset: "NACHOS"
+    data_dir: "NACHOS"
     source_split:
     target_split: "train"
+    adaptation_type: "fine-tuning"
     commercial_use: True
     comment: "Corpus extrait de la plateforme HAL, regroupant des publications scientifiques françaises dans le domaine biomédical. Versioning NACHOS. Disponible via moisson en suivant le protocole https://api.documentation-administrative.gouv.fr/oai. Licence Etalab."
   - source: "HAS"
     path: "datasets/HAS"
-    subset: "NACHOS"
+    data_dir: "NACHOS"
     source_split:
     target_split: "train"
+    adaptation_type: "fine-tuning"
     commercial_use: True
     comment: "Données issues de la Haute Autorité de Santé. Versioning NACHOS. Disponible à https://www.data.gouv.fr/fr/datasets/textes-des-publications-de-la-has-7/. Licence Etalab."
   - source: "WIKIPEDIA"
     path: "datasets/WIKIPEDIA"
-    subset: 
+    data_dir: 
     source_split:
     target_split: "train"
+    adaptation_type: "fine-tuning"
     commercial_use: True
     comment: "Corpus extrait de Wikipédia en français. Collecte via la l'api python wikipediaapi (protocole décrit en documentation). Licence CC-BY-SA 3.0, GNU Free Documentation License."
   - source: "EMEA_V3"
     path: "datasets/EMEA-V3"
-    subset: "NACHOS"
+    data_dir: "NACHOS"
     source_split:
     target_split: "train"
+    adaptation_type: "fine-tuning"
     commercial_use: True
     comment: "Corpus de documents médicaux multilingues issus de l'Agence européenne des médicaments (EMEA), version 3. Versioning NACHOS. Disponible à https://huggingface.co/datasets/qanastek/EMEA-V3. Licence CC-BY-4.0."
   - source: "QUAERO"
     path: "datasets/Quaero"
-    subset: "NACHOS"
+    data_dir: "NACHOS"
     source_split:
     target_split: "train"
+    adaptation_type: "fine-tuning"
     commercial_use: True
     comment: "Corpus Quaero utilisé pour l'entraînement et l'évaluation de modèles de traitement automatique du langage médical. Versioning NACHOS. Disponible à https://huggingface.co/datasets/DrBenchmark/QUAERO. Licence GNU Free Documentation License."
   - source: "BDPM"
     path: "datasets/DBPM"
-    subset: "NACHOS"
+    data_dir: "NACHOS"
     source_split:
     target_split: "train"
+    adaptation_type: "fine-tuning"
     commercial_use: True
     comment: "Base de données publiques de médicaments. Versioning NACHOS. Disponible à https://www.data.gouv.fr/fr/datasets/base-de-donnees-publique-des-medicaments-base-officielle/. Licence Etalab."
   - source: "ECDC_TM"
     path: "datasets/ECDC"
-    subset: "NACHOS"
+    data_dir: "NACHOS"
     source_split:
     target_split: "train"
+    adaptation_type: "fine-tuning"
     commercial_use: True
     comment: "Corpus de textes médicaux issus du Centre européen de prévention et de contrôle des maladies (ECDC). Versioning NACHOS. Disponible à https://joint-research-centre.ec.europa.eu/language-technology-resources/ecdc-translation-memory_en#Introduction. Licence libre."
   - source: "QUALISCOPE"
     path: "datasets/ScopeSanteQualité"
-    subset: "NACHOS"
+    data_dir: "NACHOS"
     source_split:
     target_split: "train"
+    adaptation_type: "fine-tuning"
     commercial_use: True
     comment: "Données sur la qualité des établissements de santé en France, extraites de Scope Santé. Versioning NACHOS. Disponible à https://www.data.gouv.fr/fr/datasets/base-sur-la-qualite-et-la-securite-des-soins-anciennement-scope-sante/. Licence Etalab."
   - source: "CNEDIMTS"
     path: "datasets/CNEDiMTS"
-    subset: "NACHOS"
+    data_dir: "NACHOS"
     source_split:
     target_split: "train"
+    adaptation_type: "fine-tuning"
     commercial_use: True
     comment: "Dataset issu d'une commission spécialisée de la HAS qui évalue les dispositifs médicaux individuels ainsi que les produits à visée diagnostique, thérapeutique ou de compensation du handicap (hors médicaments), ainsi que les prestations associées. Versioning NACHOS. Disponible à https://www.data.gouv.fr/datasets/evaluation-des-dispositifs-medicaux/. Licence Etalab."
   - source: "WMT18_MEDLINE"
     path: "datasets/WMT-18-Medline"
-    subset: "NACHOS"
+    data_dir: "NACHOS"
     source_split:
     target_split: "train"
+    adaptation_type: "fine-tuning"
     commercial_use: False
     comment: "Corpus de textes biomédicaux issus de Medline, utilisé dans le cadre du défi WMT18 pour la traduction automatique. Versioning NACHOS. Disponible à https://www.statmt.org/wmt18/biomedical-translation-task.html. Licence CC BY-NC-SA 3.0, CC BY-NC-ND 4.0."
   - source: "ISTEX"
     path: "datasets/ISTEX"
-    subset: "NACHOS"
+    data_dir: "NACHOS"
     source_split:
     target_split: "train"
+    adaptation_type: "fine-tuning"
     commercial_use: True
     comment: "Corpus issu de la plateforme ISTEX, regroupant des publications scientifiques françaises. Versioning NACHOS. Disponible à https://data.istex.fr/. Licence Etalab."
   - source: "CERIMES"
     path: "datasets/Cerimes"
-    subset: "NACHOS"
+    data_dir: "NACHOS"
     source_split:
     target_split: "train"
+    adaptation_type: "fine-tuning"
     commercial_use: True
     comment: "Indexation des ressources pédagogiques numériques proposées par les établissements d'enseignement supérieur et les organismes de recherche français. Versioning NACHOS. Disponible à https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr_esr_ressources-pedagogiques/export/?flg=en-gb&refine.lom_lifecycle_contribute_entity_fn=CERIMES. Licence Etalab."
   - source: "CLEAR"
     path: "datasets/CLEAR"
-    subset: "NACHOS"
+    data_dir: "NACHOS"
     source_split:
     target_split: "train"
+    adaptation_type: "fine-tuning"
     commercial_use: False
     comment: "Corpus comprenant des textes issus de 3 sources : encyclopédie, notices pharmaceutiques et abstracts articles médicaux. Versioning NACHOS. Disponible à https://shs.hal.science/halshs-01968355. Licence 'libre pour la recherche'."
   - source: "E3C"
     path: "datasets/E3C-Corpus-2.0.0-French"
-    subset: "NACHOS"
+    data_dir: "NACHOS"
     source_split:
     target_split: "train"
+    adaptation_type: "fine-tuning"
     commercial_use: False
     comment: "Corpus E3C de cas cliniques en français, utilisé pour l'entraînement et l'évaluation de modèles médicaux. Licence 'libre pour la recherche'."
   # From dumps
   - source: MANTRA_GSC
     path: "datasets/mantra_gsc" # local path
-    subset: "French"
+    data_dir: "French"
     source_split: "train"
     target_split: "train"
+    adaptation_type: "fine-tuning"
     commercial_use: True
     comment: "Jeu de données extrait de corpus biomédicaux (titres de résumés Medline, notices de médicaments, brevets biomédicaux), avec annotation indépendante des concepts selon un sous-ensemble de l’UMLS. Versioning NACHOS. Disponible à https://huggingface.co/datasets/bigbio/mantra_gsc. Licence CC-BY-4.0."
   - source: CAS
     path: "datasets/cas" # local path
-    subset: "French"
+    data_dir: "French"
     source_split: "train"
     target_split: "train"
+    adaptation_type: "fine-tuning"
     commercial_use: False
     comment: "Corpus construit à partir de cas cliniques rapportés dans la littérature scientifique publiée en français dont un un sous-ensemble du corpus est annoté avec des CUIs. Versioning NACHOS. Visible à https://huggingface.co/datasets/bigbio/cas/tree/main et disponible sur demande à l'auteur. Licence 'libre pour la recherche'."
   - source: FRASIMED
     path: "datasets/frasimed" # local path
-    subset: "French"
+    data_dir: "French"
     source_split: "train"
     target_split: "train"
+    adaptation_type: "fine-tuning"
     commercial_use: True
     comment: "Corpus annoté de cas cliniques synthétiques rédigés en français. Disponible à l'url: https://zenodo.org/records/8355629. Licence CC-BY-4.0."
   - source: PXCORPUS
     path: "datasets/pxcorpus" # local path
-    subset: "French"
+    data_dir: "French"
     source_split: "train"
     target_split: "train"
+    adaptation_type: "fine-tuning"
     commercial_use: True
     comment: "Corpus français de dialogues médicaux sur les prescriptions, retranscrit et annoté. Disponible à l'url: https://doi.org/10.5281/zenodo.6482586. Licence CC-BY-4.0."
   - source: MQC
     path: "datasets/mqc" # local path
-    subset: "French"
+    data_dir: "French"
     source_split: "train"
     target_split: "train"
+    adaptation_type: "fine-tuning"
     commercial_use: False
     comment: "Corpus annoté de dialogues médicaux en français, simulant des consultations entre médecin et patient. Disponible à l'url: https://github.com/kleag/labforsims2-corpus. Licence CC-BY-SA-NC-4.0."
   - source: ESSAI
     path: "datasets/ESSAI" # local path
-    subset: "French"
+    data_dir: "French"
     source_split: "train"
     target_split: "train"
+    adaptation_type: "fine-tuning"
     commercial_use: False
     comment: "Dataset ESSAI contenant des annotations de textes médicaux en français. Non disponible en ligne mais possible sur demande. Licence 'libre pour la recherche'."
