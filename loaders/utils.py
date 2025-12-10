@@ -16,6 +16,7 @@ from datasets import (
     DatasetDict,
     Features,
     IterableDataset,
+    IterableDatasetDict,
     Value,
     arrow_dataset,
 )
@@ -39,6 +40,14 @@ def str2bool(v: str) -> bool:
         Corresponding boolean value.
     """
     return v.lower() in ("yes", "true", "t", "1")
+
+
+def read_adaptation_type(v: str) -> str:
+    return (
+        "instruction-tuning"
+        if v.lower() in ("instruction", "instruct", "instructiontuning")
+        else "fine-tuning"
+    )
 
 
 def parse() -> argparse.Namespace:
@@ -86,7 +95,7 @@ def parse() -> argparse.Namespace:
     )
     parser.add_argument(
         "--adaptation_type",
-        type=str,
+        type=read_adaptation_type,
         default="fine-tuning",
         help="Training adaptation type (fine-tuning ou instruction-type).",
     )
@@ -293,7 +302,7 @@ def load_local(
 
 
 def compute_dataset_stats(
-    dataset: Dataset,
+    dataset: Dataset | DatasetDict | IterableDataset | IterableDatasetDict,
     source_name: str,
 ) -> dict:
     """
@@ -311,21 +320,21 @@ def compute_dataset_stats(
     dict
         Dictionary containing dataset statistics.
     """
-    if "text" in dataset.column_names:
-        words_lens = [len(txt.split()) for txt in dataset["text"]]
-        chars_lens = [len(txt) for txt in dataset["text"]]
-        row = {
-            "nb_docs": dataset.shape[0],
-            "nb_words": sum(words_lens),
-            "mean_words": np.mean(words_lens),
-            "std_words": np.std(words_lens, ddof=0),
-            "nb_chars": sum(chars_lens),
-            "mean_chars": np.mean(chars_lens),
-            "std_chars": np.std(chars_lens, ddof=0),
-        }
-        return row
-    else:
-        raise ValueError(f"Dataset \"{source_name}\" does not contain a 'text' column.")
+    # if "input" in dataset.column_names:  # type: ignore
+    words_lens = [len(txt.split()) for txt in dataset["text"]]  # type: ignore
+    chars_lens = [len(txt) for txt in dataset["text"]]  # type: ignore
+    row = {
+        "nb_docs": dataset.shape[0],  # type: ignore
+        "nb_words": sum(words_lens),
+        "mean_words": np.mean(words_lens),
+        "std_words": np.std(words_lens, ddof=0),
+        "nb_chars": sum(chars_lens),
+        "mean_chars": np.mean(chars_lens),
+        "std_chars": np.std(chars_lens, ddof=0),
+    }
+    return row
+    # else:
+    #     raise ValueError(f"Dataset \"{source_name}\" does not contain a 'text' column.")
 
 
 def pooled_variance(mode: str, row: dict, avg: float) -> float:
