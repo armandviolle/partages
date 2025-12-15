@@ -334,8 +334,8 @@ def compute_dataset_stats(
         Dictionary containing dataset statistics.
     """
     # if "input" in dataset.column_names:  # type: ignore
-    words_lens = [len(txt.split()) for txt in dataset["text"]]  # type: ignore
-    chars_lens = [len(txt) for txt in dataset["text"]]  # type: ignore
+    words_lens = [len(txt.split()) for txt in dataset["input"]]  # type: ignore
+    chars_lens = [len(txt) for txt in dataset["input"]]  # type: ignore
     row = {
         "nb_docs": dataset.shape[0],  # type: ignore
         "nb_words": sum(words_lens),
