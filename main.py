@@ -43,7 +43,6 @@ def main():
     # Load dataset configurations
     all_cfg = load_config(args=args)
 
-    # TODO n°2: stats = {}
     commit_files = {}
     global_ds = []
 
@@ -90,24 +89,8 @@ def main():
                 )
             logger.info(f"Shape of concatenated dataset without empty rows: {df.shape}")
             global_ds.append(df)
-            # Compute descriptive statistics for the dataset
-            ### TODO n°1: independent script for stats computations
-            # row = compute_dataset_stats(
-            #     dataset=df,
-            #     source_name=cfg["source"],
-            # )
-            # stats[cfg["source"]] = row
 
             if args.push_to_hub:
-                ### TODO n°2: info_file useless after stats computation refactoring?
-                #     # Generating info file for the source pushed to the hub
-                #     msg = generate_info_file(
-                #         dataset=df,
-                #         source_name=cfg["source"],
-                #         source_split=cfg["source_split"],
-                #         comment=cfg["comment"],
-                #         stats=None,  # TODO n°1: independent script for stats computationsstats[cfg["source"]],
-                #     )
                 commit_files[cfg["source"]] = [df]
         else:
             raise ValueError(f'No data was loaded for dataset "{cfg["source"]}".')
@@ -126,34 +109,11 @@ def main():
             # Dictionary commit_files is empty if not args.push_to_hub (see rows 58-60)
             for key, val in commit_files.items():
                 os.makedirs(os.path.join(tmpdir, key), exist_ok=True)
-                ### TODO n°2: info_file useless after stats computation refactoring?
-                # Writing and saving info file
-                # info_file_name = f"{key}/{key}_info.md"
-                # info_file = os.path.join(tmpdir, info_file_name)
-                # with open(info_file, "w") as f:
-                #     f.write(val[0])
-                # repo.git_add(info_file_name)
-                # Saving dataframe
                 df_file_name = f"{key}/{key}.parquet"
                 df_file = os.path.join(tmpdir, df_file_name)
                 val[0].to_parquet(df_file)
                 repo.git_add(df_file_name)
 
-            ### TODO n°1: independent script for stats computations
-            # stats_path = os.path.join(tmpdir, "dataset_stats.csv")
-            # if not args.use_all_sources and os.path.exists(stats_path):
-            #     df = pd.read_csv(stats_path, index_col=0)
-            #     df.drop("Total", inplace=True)
-            #     df[args.source] = stats[args.source]
-            #     compute_global_stats(df=df)
-            #     df.to_csv(stats_path, index=True)
-            # else:
-            #     df = pd.DataFrame(list(stats.values()), index=list(stats.keys()))
-            #     compute_global_stats(df=df)
-            #     df.to_csv(stats_path, index=True)
-
-            ### TODO n°1: independent script for stats computations
-            # repo.git_add(stats_path)
             commit_msg = (
                 f"Updating dataset on {datetime.date.today().isoformat()}."
                 if args.use_all_sources
@@ -161,10 +121,6 @@ def main():
             )
             repo.git_commit(commit_message=commit_msg)
             repo.git_push()
-
-    ### TODO n°1: independent script for stats computations
-    # with pd.option_context("display.max_columns", None, "display.width", 0):
-    #     logger.info(df)
 
 
 if __name__ == "__main__":
