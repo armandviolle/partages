@@ -11,4 +11,10 @@ dependencies = [
     "datasets==3.4.1",
     "huggingface_hub==0.29.3",
     "wikipedia-api",
+    "datasketch>=1.8.0",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.14.9",
 ]
