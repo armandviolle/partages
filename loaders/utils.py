@@ -43,6 +43,19 @@ def str2bool(v: str) -> bool:
 
 
 def read_adaptation_type(v: str) -> str:
+    """
+    Read adaptation type from string.
+
+    Parameters
+    ----------
+    v : str
+        The input string representing adaptation type.
+
+    Returns
+    -------
+    str
+        The normalized adaptation type.
+    """
     return (
         "instruction-tuning"
         if v.lower() in ("instruction", "instruct", "instructiontuning")
@@ -543,9 +556,19 @@ def cast_columns(
 
 
 def select_repo(args: argparse.Namespace):
-    # if args.adaptation_type == "instruction-tuning":
-    #     return "LIMICS/PARTAGES-Instruct"
-    # else:
+    """
+    Select the appropriate repository name based on command-line arguments.
+
+    Parameters
+    ----------
+    args : argparse.Namespace
+        Command-line arguments.
+
+    Returns
+    -------
+    str
+        The selected repository name.
+    """
     if args.make_commercial_version:
         return "LIMICS/PARTAGES-sourced"
     else:

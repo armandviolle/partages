@@ -130,16 +130,59 @@ LONGWORDS_PATTERN = re.compile(r"\s?\w{35,}" + rf"[{PUNCT_ASCII}]?\s?")
 
 
 def _word_check_pattern(n: int):
+    """
+    Create a regex pattern to check for at least n words in the text.
+
+    Parameters
+    ----------
+    n : int
+        Minimum number of words required.
+
+    Returns
+    -------
+    Pattern
+        The compiled regex pattern.
+    """
     return re.compile(r"^(?=(?:.*\b[{" + LETTERS + r"}]+\b){" + str(n) + "}).*$")
 
 
 def matches_word_check(text: str, n: int):
+    """
+    Check if the input text contains at least n words.
+
+    Parameters
+    ----------
+    text : str
+        The input text to check.
+    n : int
+        Minimum number of words required.
+
+    Returns
+    -------
+    bool
+        True if the text contains at least n words, False otherwise.
+    """
     text_check = re.sub(PUNCT_ASCII_PATTERN, "", text.replace("\n", " "))
     ptrn = _word_check_pattern(n)
     return bool(re.match(ptrn, text_check))
 
 
 def clean_text_new(text: str, word_check_min: int):
+    """
+    Clean up an input text with additional rules.
+
+    Parameters
+    ----------
+    text : str
+        The input text to clean.
+    word_check_min : int
+        Minimum number of valid words for strict mode.
+
+    Returns
+    -------
+    str
+        The cleaned text.
+    """
     text = text.replace("’", "'")
 
     if not matches_word_check(text, word_check_min):

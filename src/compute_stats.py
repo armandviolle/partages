@@ -16,6 +16,7 @@ from datasets import (
 from loaders.utils import (
     compute_dataset_stats,
     compute_global_stats,
+    read_adaptation_type,
     read_config,
     str2bool,
 )
@@ -24,15 +25,15 @@ from src.logger import setup_logger
 logger = logging.getLogger(__name__)
 
 
-def read_adaptation_type(v: str) -> str:
-    return (
-        "instruction-tuning"
-        if v.lower in ("instruction", "instruct", "instructiontuning")
-        else "fine-tuning"
-    )
-
-
 def parse_args():
+    """
+    Parse command line arguments.
+
+    Returns
+    -------
+    argparse.Namespace
+        The parsed arguments.
+    """
     parser = ArgumentParser()
     parser.add_argument("--hf_token", type=str, help="HuggingFace API token file path.")
     parser.add_argument("--is_sourced", type=str2bool, default=True)
@@ -46,6 +47,21 @@ def parse_args():
 
 
 def load_sourced_dataset(make_commercial, adaptation_type):
+    """
+    Load sourced dataset based on commercial use and adaptation type.
+
+    Parameters
+    ----------
+    make_commercial : bool
+        Whether to load the commercial version of the dataset.
+    adaptation_type : str
+        The adaptation type for the dataset.
+
+    Returns
+    -------
+    Dataset | DatasetDict | IterableDataset | IterableDatasetDict
+        The loaded dataset.
+    """
     all_configs = read_config()
     all_configs = [
         cfg for cfg in all_configs if cfg["adaptation_type"] == adaptation_type
@@ -77,6 +93,23 @@ def choose_load_dataset(
     make_commercial: bool = True,
     adaptation_type: str = "fine-tuning",
 ) -> Dataset | DatasetDict | IterableDataset | IterableDatasetDict:
+    """
+    Choose and load the appropriate dataset based on parameters.
+
+    Parameters
+    ----------
+    is_sourced : bool, optional
+        Whether to load a sourced dataset, by default True.
+    make_commercial : bool, optional
+        Whether to load the commercial version of the dataset, by default True.
+    adaptation_type : str, optional
+        The adaptation type for the dataset, by default "fine-tuning".
+
+    Returns
+    -------
+    Dataset | DatasetDict | IterableDataset | IterableDatasetDict
+        The loaded dataset.
+    """
     if is_sourced:
         return load_sourced_dataset(
             make_commercial=make_commercial, adaptation_type=adaptation_type
@@ -91,6 +124,9 @@ def choose_load_dataset(
 
 
 def main():
+    """
+    Main function to compute and save dataset statistics.
+    """
     args = parse_args()
 
     # Create logger instance

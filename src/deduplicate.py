@@ -24,6 +24,19 @@ NUM_WORKERS = cpu_count() - 2
 
 
 def text_to_minhash(text: str) -> MinHash:
+    """
+    Convert text to MinHash object.
+
+    Parameters
+    ----------
+    text: str
+        The input text to be converted.
+
+    Returns
+    -------
+    MinHash
+        The MinHash representation of the input text.
+    """
     m = MinHash(num_perm=NUM_PERM)
     for token in text.split():
         m.update(token.encode("utf8"))
@@ -31,6 +44,21 @@ def text_to_minhash(text: str) -> MinHash:
 
 
 def filter_hashes(dataset: list, minhash_list):
+    """
+    Filter out duplicate entries in the dataset based on MinHash similarity.
+
+    Parameters
+    ----------
+    dataset: list
+        The input dataset to be filtered.
+    minhash_list: list
+        List of MinHash objects corresponding to the dataset entries.
+
+    Returns
+    -------
+    dict
+        A dictionary containing unique entries from the dataset.
+    """
     lsh = MinHashLSH(threshold=SIMILARITY_THRESHOLD, num_perm=NUM_PERM)
     unique_rows = {"instruction": [], "input": [], "output": [], "source": []}
     keys = set()
