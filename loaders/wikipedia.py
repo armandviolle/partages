@@ -38,6 +38,7 @@ class WIKIPEDIA(BaseLoader):
                     "source": self.source,
                     "data_dir": row["subset"],  # type: ignore
                     "source_split": self.split,
+                    "document_type": self.document_type,
                 }
 
         return Dataset.from_generator(gen)  # type: ignore

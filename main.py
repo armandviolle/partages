@@ -68,6 +68,7 @@ def main():
                     data_dir=data_dir,
                     source_split=split,
                     adaptation_type=cfg["adaptation_type"],
+                    doctype=cfg["document_type"],
                 )
                 ds = loader.load()
                 ds = cast_columns(ds)

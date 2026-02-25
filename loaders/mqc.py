@@ -42,6 +42,7 @@ class MQC(BaseLoader):
             "source": [self.source] * n,
             "data_dir": [data_dir] * n,
             "source_split": [split] * n,
+            "document_type": [self.document_type] * n,
         }
 
         return Dataset.from_dict(res)

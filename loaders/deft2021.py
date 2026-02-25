@@ -64,6 +64,7 @@ class DEFT2021(BaseLoader):
                     "source": self.source,
                     "data_dir": data_dir,
                     "source_split": split,
+                    "document_type": self.document_type,
                 }
             )
         new_dataset = Dataset.from_list(documents)

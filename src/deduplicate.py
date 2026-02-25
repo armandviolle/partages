@@ -60,7 +60,13 @@ def filter_hashes(dataset: list, minhash_list):
         A dictionary containing unique entries from the dataset.
     """
     lsh = MinHashLSH(threshold=SIMILARITY_THRESHOLD, num_perm=NUM_PERM)
-    unique_rows = {"instruction": [], "input": [], "output": [], "source": []}
+    unique_rows = {
+        "instruction": [],
+        "input": [],
+        "output": [],
+        "source": [],
+        "document_type": [],
+    }
     keys = set()
     indexes = []
     idx = 0
@@ -73,6 +79,7 @@ def filter_hashes(dataset: list, minhash_list):
             unique_rows["input"].append(ex["input"])
             unique_rows["output"].append(ex["output"])
             unique_rows["source"].append(ex["source"])
+            unique_rows["document_type"].append(ex["document_type"])
             indexes.append(idx)
             keys.add(key)
         idx += 1
@@ -191,6 +198,7 @@ def main():
             deduped = deduped.shuffle(seed=42)
             deduped = deduped.flatten_indices(keep_in_memory=False)  # type: ignore
             logger.info(f"Shape of deduplicated dataset: {deduped.shape}")  # type: ignore
+            logger.info(f"Features of deduplicated dataset: {deduped.features}.")  # type: ignore
         gc.collect()
 
         # Writing the deduplicated dataset to the corresponding HuggingFace repository

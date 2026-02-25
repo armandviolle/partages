@@ -41,6 +41,7 @@ class BDPM(BaseLoader):
                     "source": self.source,
                     "data_dir": data_dir,
                     "source_split": split,
+                    "document_type": self.document_type,
                 }
 
         return Dataset.from_generator(gen)  # type: ignore
