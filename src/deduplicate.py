@@ -9,8 +9,10 @@ from huggingface_hub import HfFolder, login
 from datasets import (
     Dataset,
     DatasetDict,
+    Features,
     IterableDataset,
     IterableDatasetDict,
+    Value,
     load_dataset,
 )
 from loaders.utils import parse, read_config
@@ -43,7 +45,7 @@ def text_to_minhash(text: str) -> MinHash:
     return m
 
 
-def filter_hashes(dataset: list, minhash_list):
+def filter_hashes(dataset: Dataset | DatasetDict, minhash_list):
     """
     Filter out duplicate entries in the dataset based on MinHash similarity.
 
@@ -60,13 +62,7 @@ def filter_hashes(dataset: list, minhash_list):
         A dictionary containing unique entries from the dataset.
     """
     lsh = MinHashLSH(threshold=SIMILARITY_THRESHOLD, num_perm=NUM_PERM)
-    unique_rows = {
-        "instruction": [],
-        "input": [],
-        "output": [],
-        "source": [],
-        "document_type": [],
-    }
+    unique_rows = {col: [] for col in dataset.column_names}
     keys = set()
     indexes = []
     idx = 0
@@ -75,11 +71,8 @@ def filter_hashes(dataset: list, minhash_list):
         if len(matches) == 0:
             key = f"{idx}"
             lsh.insert(key, mh)
-            unique_rows["instruction"].append(ex["instruction"])
-            unique_rows["input"].append(ex["input"])
-            unique_rows["output"].append(ex["output"])
-            unique_rows["source"].append(ex["source"])
-            unique_rows["document_type"].append(ex["document_type"])
+            for col in unique_rows:
+                unique_rows[col].append(ex[col])  # type: ignore
             indexes.append(idx)
             keys.add(key)
         idx += 1
@@ -113,12 +106,12 @@ def post_process(
 
     unique_data = dataset.filter(is_unique_text)
     new_dataset = unique_data.remove_columns(["data_dir", "source_split"])
-    logger.info(unique_data)
-    logger.info(new_dataset)
 
+    logger.info("Entering minhash computation.")
     with Pool(NUM_WORKERS) as p:
-        minhashes = p.map(text_to_minhash, new_dataset["input"])  # type: ignore
+        minhashes = list(p.imap(text_to_minhash, new_dataset["input"], chunksize=1000))  # type: ignore
 
+    logger.info("Filtering out duplicates based on minhashes.")
     deduped_data = filter_hashes(
         dataset=new_dataset,  # type: ignore
         minhash_list=minhashes,
@@ -145,6 +138,7 @@ def main():
         hf_token = f.read().strip()
     login(token=hf_token)
     HfFolder.save_token(hf_token)
+    # hf_api = HfApi(token=hf_token)
 
     logger.info(
         "Loading dataset from %s" % "LIMICS/PARTAGES-sourced"
@@ -182,23 +176,41 @@ def main():
             "parquet",
             data_files=data_files,
             split="train",
+            features=Features(
+                {
+                    "input": Value("string"),
+                    "instruction": Value("string"),
+                    "output": Value("string"),
+                    "data_dir": Value("string"),
+                    "source": Value("string"),
+                    "source_split": Value("string"),
+                    "document_type": Value("string"),
+                }
+            ),
             download_mode="force_redownload",
+            verification_mode="no_checks",
         ) as raw_dataset:  # type: ignore
             logger.info(f"Shape of raw dataset: {raw_dataset.shape}")  # type: ignore
             if args.adaptation_type == "instruction-tuning":
-                logger.info(
-                    "Adaptiation %s: keeping raw data." % (args.adaptation_type)
-                )
+                logger.info("Adaptation %s: keeping raw data." % (args.adaptation_type))
                 deduped = raw_dataset
             else:
                 logger.info(
-                    "Adaptiation %s: deduplicating raw data." % (args.adaptation_type)
+                    "Adaptation %s: deduplicating raw data." % (args.adaptation_type)
                 )
                 deduped = post_process(dataset=raw_dataset)
-            deduped = deduped.shuffle(seed=42)
-            deduped = deduped.flatten_indices(keep_in_memory=False)  # type: ignore
-            logger.info(f"Shape of deduplicated dataset: {deduped.shape}")  # type: ignore
-            logger.info(f"Features of deduplicated dataset: {deduped.features}.")  # type: ignore
+                del raw_dataset
+                gc.collect()
+                logger.info("Removing useless columns.")
+                deduped = deduped.remove_columns(["instruction", "output"])
+                gc.collect()
+            # with Pool(NUM_WORKERS) as p:
+            #     deduped = deduped.shuffle(seed=42, num_proc)
+            #     deduped = deduped.flatten_indices(keep_in_memory=False)  # type: ignore
+            logger.info("Shape of deduplicated dataset: ")
+            logger.info(str(deduped.shape))  # type: ignore
+            logger.info("Features of deduplicated dataset: ")
+            logger.ingo(str(deduped.features))  # type: ignore
         gc.collect()
 
         # Writing the deduplicated dataset to the corresponding HuggingFace repository
@@ -212,6 +224,25 @@ def main():
                     args.adaptation_type,
                 )
             )
+            if args.adaptation_type == "instruction-tuning":
+                features = Features(
+                    {
+                        "input": Value("string"),
+                        "instruction": Value("string"),
+                        "output": Value("string"),
+                        "source": Value("string"),
+                        "document_type": Value("string"),
+                    }
+                )
+            else:
+                features = Features(
+                    {
+                        "input": Value("string"),
+                        "source": Value("string"),
+                        "document_type": Value("string"),
+                    }
+                )
+            deduped.cast(features)
             deduped.push_to_hub(  # type: ignore
                 repo_id="LIMICS/PARTAGES"
                 if args.make_commercial_version
@@ -221,6 +252,19 @@ def main():
                 commit_message="Update %s dataset on %s"
                 % (args.adaptation_type, datetime.date.today().isoformat()),
             )
+
+            # with tempfile.TemporaryDirectory() as tmpdir:
+            #     os.makedirs(os.path.join(tmpdir, args.adaptation_type), exist_ok=True)
+            #     df_file_name = f"{args.adaptation_type}/train.parquet"
+            #     df_file = os.path.join(tmpdir, df_file_name)
+            #     deduped.to_parquet(df_file)
+            #     hf_api.create_commit(
+            #         repo_id="LIMICS/PARTAGES"
+            #         if args.make_commercial_version
+            #         else "LIMICS/PARTAGES-Research",
+            #         operations=[CommitOperationAdd(path_in_repo=df_file_name, path_or_fileobj=df_file)],
+            #         commit_message=f"Updating dataset on {datetime.date.today().isoformat()}.",
+            #     )
     else:
         logger.info("")  # TODO
         pass

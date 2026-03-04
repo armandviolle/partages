@@ -19,6 +19,7 @@ from datasets import (
     IterableDatasetDict,
     Value,
     arrow_dataset,
+    load_dataset_builder,
 )
 from src.text_cleaning import cleaner
 
@@ -573,6 +574,114 @@ def select_repo(args: argparse.Namespace):
         return "LIMICS/PARTAGES-sourced"
     else:
         return "LIMICS/PARTAGES-Research-sourced"
+
+
+def dtype_to_str(feature):
+    """Convert a datasets feature to its YAML dtype string."""
+    from datasets import Value
+
+    if isinstance(feature, Value):
+        return feature.dtype
+    # extend here for Sequence, ClassLabel, etc. if needed
+    return str(feature)
+
+
+def build_readme_metadata(builder_path: str) -> str:
+    # Load the builder without downloading data
+    builder = load_dataset_builder(builder_path)
+
+    # Features from builder.info
+    features = [
+        {"name": name, "dtype": dtype_to_str(feature)}
+        for name, feature in builder.info.features.items()  # type: ignore
+    ]
+
+    # Download and compute split stats
+    builder.download_and_prepare()
+    info = builder.info
+
+    splits = [
+        {
+            "name": split_name,
+            "num_bytes": split_info.num_bytes,
+            "num_examples": split_info.num_examples,
+        }
+        for split_name, split_info in info.splits.items()  # type: ignore
+    ]
+
+    download_size = info.download_size
+
+    metadata = {
+        "license": "cc-by-4.0",
+        "dataset_info": {
+            "features": features,
+            "splits": splits,
+            "download_size": download_size,
+        },
+    }
+
+    return "---\n" + yaml.dump(metadata, allow_unicode=True, sort_keys=False) + "---\n"
+
+
+def format_stats_to_markdown(stats: dict) -> str:
+    sources = list(stats.keys())
+    stat_types = list({st for source in stats.values() for st in source.keys()})
+
+    header = "| Source | " + " | ".join(stat_types) + " |"
+    separator = "|--------|" + "--------|" * len(stat_types)
+
+    lines = [header, separator]
+
+    for source in sources:
+        values = []
+        for stat in stat_types:
+            v = stats[source].get(stat, "N/A")
+            if isinstance(v, float):
+                values.append(f"{v:,.4f}")
+            elif isinstance(v, int):
+                values.append(f"{v:,}")
+            else:
+                values.append(str(v))
+        lines.append(f"| {source} | " + " | ".join(values) + " |")
+
+    return "\n".join(lines)
+
+
+def create_README(
+    config: list,
+    repo_name: str,
+    commercial: bool,
+    readme_template: str,
+    statistics_sources: dict,
+    statistics_doctype: dict,
+):
+    # Writing commercial status within README
+    with open(readme_template, "r") as f:
+        readme_text = f.read()
+    readme_text = readme_text.replace(
+        "{{commerciality}}",
+        "commercial" if commercial else "reasearch-intended (non-commercial)",
+    )
+
+    # Writing sources-based and documents' types based statistics in READM
+    readme_text = readme_text.replace(
+        "{{statistics_sources}}", format_stats_to_markdown(statistics_sources)
+    )
+    readme_text = readme_text.replace(
+        "{{statistics_doctype}}", format_stats_to_markdown(statistics_doctype)
+    )
+
+    # Writing features' YAML tags within data card
+    readme_text = readme_text.replace(
+        "{{YAML_tags}}",
+        yaml.safe_dump(
+            build_readme_metadata(
+                builder_path=repo_name,
+            ),
+            sort_keys=False,
+            allow_unicode=True,
+        ),
+    )
 
 
 INSTRUCTIONS = {
