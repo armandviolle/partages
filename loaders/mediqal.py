@@ -85,4 +85,5 @@ class MEDIQAL(BaseLoader):
         tmp_ds = tmp_ds.add_column(name="source", column=[self.source] * len(tmp_ds))  # type: ignore
         tmp_ds = tmp_ds.add_column("data_dir", [data_dir] * len(tmp_ds))
         tmp_ds = tmp_ds.add_column("source_split", [split] * len(tmp_ds))
+        tmp_ds = tmp_ds.add_column("document_type", [self.document_type] * len(tmp_ds))
         return tmp_ds

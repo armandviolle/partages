@@ -61,4 +61,5 @@ class WMT16(BaseLoader):
         res_ds = res_ds.add_column("source", [self.source] * len(res_ds))  # type: ignore
         res_ds = res_ds.add_column("data_dir", [data_dir] * len(res_ds))
         res_ds = res_ds.add_column("source_split", [split] * len(res_ds))
+        res_ds = res_ds.add_column("document_type", [self.document_type] * len(res_ds))
         return res_ds

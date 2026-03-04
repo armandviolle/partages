@@ -3,7 +3,7 @@ import logging
 import os
 import tempfile
 
-from huggingface_hub import HfFolder, Repository, login
+from huggingface_hub import CommitOperationAdd, HfApi
 
 from datasets import concatenate_datasets
 from loaders import REGISTRY
@@ -37,8 +37,9 @@ def main():
     with open(args.hf_token, "r") as f:
         hf_token = f.read().strip()
     # Login to Hugging Face Hub
-    login(token=hf_token)
-    HfFolder.save_token(hf_token)
+    # login(token=hf_token)
+    # HfFolder.save_token(hf_token)
+    hf_api = HfApi(token=hf_token)
 
     # Load dataset configurations
     all_cfg = load_config(args=args)
@@ -68,6 +69,7 @@ def main():
                     data_dir=data_dir,
                     source_split=split,
                     adaptation_type=cfg["adaptation_type"],
+                    doctype=cfg["document_type"],
                 )
                 ds = loader.load()
                 ds = cast_columns(ds)
@@ -99,28 +101,56 @@ def main():
     logger.info(f"Features scheme of concatenated dataset: {global_merged.features}")
     logger.info(f"Shape of concatenated dataset: {global_merged.shape}")
 
+    operations = []
+
     if args.push_to_hub:
         with tempfile.TemporaryDirectory() as tmpdir:
-            repo = Repository(
-                local_dir=tmpdir,
-                clone_from=select_repo(args=args),
-                repo_type="dataset",
-            )
+            # repo = Repository(
+            #     local_dir=tmpdir,
+            #     clone_from=select_repo(args=args),
+            #     repo_type="dataset",
+            # )
+
             # Dictionary commit_files is empty if not args.push_to_hub (see rows 58-60)
             for key, val in commit_files.items():
                 os.makedirs(os.path.join(tmpdir, key), exist_ok=True)
                 df_file_name = f"{key}/{key}.parquet"
                 df_file = os.path.join(tmpdir, df_file_name)
+                # val[0].to_parquet(df_file)
+                # repo.git_add(df_file_name)
+                # hf_api.upload_file(
+                #     path_or_fileobj=df_file,
+                #     path_in_repo=df_file_name,
+                #     repo_id=select_repo(args=args),
+                #     repo_type="dataset",
+                # )
+                # features = {
+                #     "input": Value("string"),
+                #     "instruction": Value("string"),
+                #     "output": Value("string"),
+                #     "data_dir": Value("string"),
+                #     "source": Value("string"),
+                #     "source_split": Value("string"),
+                #     "document_type": Value("string"),
+                # }
+                # val[0].cast(features)
                 val[0].to_parquet(df_file)
-                repo.git_add(df_file_name)
 
-            commit_msg = (
-                f"Updating dataset on {datetime.date.today().isoformat()}."
-                if args.use_all_sources
-                else f"Updating corpus {all_cfg[0]['source']} on {datetime.date.today().isoformat()}."
+                operations.append(
+                    CommitOperationAdd(
+                        path_in_repo=df_file_name, path_or_fileobj=df_file
+                    )
+                )
+
+            hf_api.create_commit(
+                repo_id=select_repo(args=args),
+                repo_type="dataset",
+                operations=operations,
+                commit_message=f"Updating dataset on {datetime.date.today().isoformat()}.",
             )
-            repo.git_commit(commit_message=commit_msg)
-            repo.git_push()
+
+            # repo.git_commit(commit_message=commit_msg)
+            # repo.git_push()
 
 
 if __name__ == "__main__":

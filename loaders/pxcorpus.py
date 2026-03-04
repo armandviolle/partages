@@ -39,5 +39,6 @@ class PXCORPUS(BaseLoader):
             "source": [self.source] * len(dataset) * len(txt),
             "data_dir": [data_dir] * len(dataset) * len(txt),
             "source_split": [split] * len(dataset) * len(txt),
+            "document_type": [self.document_type] * len(dataset) * len(txt),
         }
         return Dataset.from_dict(res)

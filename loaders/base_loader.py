@@ -52,6 +52,7 @@ class BaseLoader(ABC):
         source: str,
         path: str,
         adaptation_type: str,
+        doctype: str,
         data_dir: Optional[str] = None,
         source_split: str = "train",
     ) -> None:
@@ -60,12 +61,20 @@ class BaseLoader(ABC):
         self.split = source_split
         self.data_dir = data_dir
         self.adaptation_type = adaptation_type
+        self.document_type = doctype
         self.stream = False
 
     @abstractmethod
     def postprocess(
         self,
-        dataset: Union[Dataset, DatasetDict, IterableDataset, IterableDatasetDict],
+        dataset: Union[
+            Dataset,
+            DatasetDict,
+            IterableDataset,
+            IterableDatasetDict,
+            dict[str, IterableDataset],
+        ],
+        doctype: str,
         data_dir: Optional[str] = None,
         split: str = "train",
     ) -> Union[Dataset, DatasetDict, IterableDataset, IterableDatasetDict]:
@@ -114,7 +123,11 @@ class BaseLoader(ABC):
             streaming=self.stream,
             trust_remote_code=True,
         )
-        ds = self.postprocess(dataset=tmp_ds, data_dir=self.data_dir, split=self.split)  # type: ignore
+        ds = self.postprocess(
+            dataset=tmp_ds,
+            data_dir=self.data_dir,
+            split=self.split,
+        )  # type: ignore
         ds = ds.map(
             clean_example,
             fn_kwargs={

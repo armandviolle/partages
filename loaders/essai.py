@@ -64,5 +64,6 @@ class ESSAI(BaseLoader):
             "source": [self.source] * len(all_texts),
             "data_dir": [data_dir] * len(all_texts),
             "source_split": [split] * len(all_texts),
+            "document_type": [self.document_type] * len(all_texts),
         }
         return Dataset.from_dict(res)
